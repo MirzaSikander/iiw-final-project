@@ -4,25 +4,60 @@ var extracted_data_dir = './extracted-data'
 fs.readdir(scraped_data_dir, readdir)
 var currentRow;
 
-function parseScore(raw_score, metrics) {
-    var array = raw_score.match(/\[ (\d+) \- (\d+) \]/);
-    if (array == null)
-        metrics.score = "";
-    else
-        metrics.score = array[1] + '-' + array[2];
+function isConsistent(metrics) {
+    for (property in metrics) {
+        var metric = metrics[property];
+        if (typeof metric == 'undefined') {
+            throw new Error(property + '=' + metric);
+        }
+    }
+}
+
+function parseScore(raw_score, metrics, previous_score) {
+    try {
+        var array = raw_score.match(/\[ (\d+) \- (\d+) \]/);
+        if (array != null) {
+            metrics.home_score = array[1];
+            metrics.away_score = array[2];
+            var result;
+            if ((result = metrics.home_score - previous_score.home) != 0) {
+                metrics.points = result;
+            } else {
+                metrics.points = metrics.away_score - previous_score.away;
+            }
+            if (metrics.points == 0) {
+                throw new Error();
+            }
+        }
+        isConsistent(metrics);
+    } catch (err) {
+        console.log('\nLine number:' + currentRow + '\nData: ' + raw_score);
+        throw err;
+    }
+
 }
 
 function parseShotMade(raw_txt, metrics) {
-    var array = raw_txt.match(/^(.*) (\d+)' (.*) \((\d) PTS\)(?: \((.*) \d )?/);
-    if (array == null || array.length < 5) {
-        throw '\nLine number:' + currentRow + '\nData: ' + raw_txt;
-    }
-    metrics.player = array[1];
-    metrics.shotdistance = array[2];
-    metrics.type = array[3];
-    metrics.points = array[4];
-    if (array.length > 5) {
-        metrics.assist = array[5];
+    try {
+        if (raw_txt.search(/Free Throw/) != -1) {
+            var array = raw_txt.match(/^(.*) Free Throw (Technical)?(?:(\d) of (\d))?/)
+            metrics.eventtype = 'free throw';
+            metrics.player = array[1];
+            metrics.reason = array[2] || 'foul';
+            metrics.numfreeshot = array[3] || '';
+            metrics.outof = array[4] || '';
+        } else {
+            var array = raw_txt.match(/^(.*) (?:(\d+)')? (.*) \(\d+ PTS\)(?: \((.*) \d )?/);
+            metrics.eventtype = 'shot'
+            metrics.player = array[1];
+            metrics.shotdistance = array[2] || '';
+            metrics.type = array[3];
+            metrics.assist = array[5] || '';
+        }
+        isConsistent(metrics);
+    } catch (err) {
+        console.log('\nLine number:' + currentRow + '\nData: ' + raw_txt);
+        throw err;
     }
 }
 
@@ -45,14 +80,22 @@ function readFile(err, data) {
         return;
     }
     var lines = data.toString().split("\n");
-    var previous_score = "0";
+    var previous_score = {
+        away: "0",
+        home: "0"
+    };
     var extracted_data = "a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance \n";
     for (var j = 1; j < lines.length; j++) {
+        if(lines[j] == ""){
+            console.log("\nSkipped line "+currentRow+"\n\n");
+            continue;
+        }
         currentRow = j; //for debugging 
         var line = lines[j];
         var columns = line.split(",");
         var metrics = {
-            score: '',
+            away_score: '',
+            home_score: '',
             eventtype: '',
             assist: '',
             awayjumpball: '',
@@ -71,9 +114,9 @@ function readFile(err, data) {
             steal: '',
             shotdistance: ''
         };
-        parseScore(columns[1], metrics);
-        if (metrics.score != "") {
-        	parseShotMade(columns[3], metrics)
+        parseScore(columns[1], metrics, previous_score);
+        if (metrics.away_score != '') {
+            parseShotMade(columns[3], metrics)
         }
 
         var extracted_columns = new Array(34);
@@ -100,15 +143,16 @@ function readFile(err, data) {
         extracted_columns[30] = "";
         extracted_columns[31] = "";
 
-        if (metrics.score == "") {
-            if (previous_score = "0") {
+        if (metrics.away_score == '') {
+            if (previous_score.home == '0' && previous_score.away == '0') {
                 extracted_columns[32] = "";
             } else {
-                extracted_columns[32] = previous_score;
+                extracted_columns[32] = previous_score.home + '-' + previous_score.away;
             }
         } else {
-            extracted_columns[32] = metrics.score;
-            previous_score = metrics.score;
+            extracted_columns[32] = metrics.home_score + '-' + metrics.away_score;
+            previous_score.away = metrics.away_score;
+            previous_score.home = metrics.home_score;
         }
 
         extracted_columns[31] = metrics.shotdistance;
