@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"curren",
+				"currentRow"
+			],
+			[
+				"curre",
+				"currentRow"
+			],
+			[
+				"ext",
+				"extracted_data"
+			],
+			[
+				"exta",
+				"extracted_data"
+			],
+			[
+				"ex",
+				"extracted_columns"
+			],
+			[
+				"repl",
+				"replace  (function)"
+			],
+			[
+				"extr",
+				"extracted_data_dir"
+			],
+			[
+				"log",
+				"logError"
+			],
+			[
+				"away",
+				"awayjumpball"
+			],
+			[
 				"is",
 				"isConsistent"
 			],
@@ -14,10 +50,6 @@
 			[
 				"extra",
 				"extracted_data"
-			],
-			[
-				"ext",
-				"extracted_columns"
 			],
 			[
 				"scraped",
@@ -279,33 +311,13 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "scraped-data/nba-201201020DAL-raw.csv",
-			"settings":
-			{
-				"buffer_size": 27447,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "nba_extractor.js",
-			"settings":
-			{
-				"buffer_size": 5567,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 347.0,
+		"height": 392.0,
 		"selected_items":
 		[
-			[
-				"hm",
-				"HTMLPrettify"
-			],
 			[
 				"ht",
 				"HTMLPrettify"
@@ -316,6 +328,10 @@
 			],
 			[
 				"h",
+				"HTMLPrettify"
+			],
+			[
+				"hm",
 				"HTMLPrettify"
 			],
 			[
@@ -433,6 +449,7 @@
 	"file_history":
 	[
 		"/Users/mirzasikander/Documents/courses/CS548-IIW/Project/code/nba_extractor.js",
+		"/Users/mirzasikander/Documents/courses/CS548-IIW/Project/code/scraped-data/nba-201201020DAL-raw.csv",
 		"/Users/mirzasikander/code/ISI/isi-srp/index.html",
 		"/Users/mirzasikander/Desktop/pass",
 		"/Users/mirzasikander/Dropbox/Application Stuff/Details/m.h.sikander@gmail",
@@ -493,7 +510,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -508,6 +525,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Line number:",
+			"1",
+			"BLOCK",
 			"            		",
 			"\n    ",
 			"addOrg",
@@ -553,6 +573,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"File:' + currentFile + '\\nLine number:",
 			"investigator-organization-",
 			"resource-organization-",
 			"social",
@@ -575,115 +596,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "scraped-data/nba-201201020DAL-raw.csv",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 27447,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								27447,
-								27447
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"capture_register": false,
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 0
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 6875.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "nba_extractor.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5567,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"auto_complete_triggers":
-							[
-								{
-									"characters": "<",
-									"selector": "text.html"
-								},
-								{
-									"characters": ".#",
-									"selector": "text.html"
-								}
-							],
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"vintage":
-							{
-								"action": null,
-								"action_count": "",
-								"capture_register": false,
-								"mode": "mode_normal",
-								"motion": null,
-								"motion_count": "",
-								"partial_sequence": "",
-								"register": "\"",
-								"sequence": "",
-								"xpos": 0
-							}
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -729,7 +643,7 @@
 	"project": "cs548-proj.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -770,6 +684,8 @@
 	},
 	"settings":
 	{
+		"_vintageous_last_char_search_command": "vi_f",
+		"_vintageous_last_character_search": "T",
 		"vintage":
 		{
 		}
