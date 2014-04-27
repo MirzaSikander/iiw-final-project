@@ -7,7 +7,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.10,Philadelphia 76ers,rebound,,,,,,,,,,Richardson,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=9
 ,,,,,,,,,,1,10.47,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,,22,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=10
 ,,,,,,,,,,1,10.45,Cleveland Cavaliers,rebound,,,,,,,,,,Gee,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=11
-,,,,,,,,,,1,10.23,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Lost Ball,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=12
+,,,,,,,,,,1,10.23,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Lost Ball,,Richardson,,,,,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=12
 ,,,,,,,,,,1,10.19,Philadelphia 76ers,shot,Richardson,,,,,,,,,Turner,2,,,made,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=13
 ,,,,,,,,,,1,9.59,Cleveland Cavaliers,shot,,,,,,,,,,Gee,2,,,made,,Driving Reverse Layup,,,2-2,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=14
 ,,,,,,,,,,1,9.43,Philadelphia 76ers,shot,Holiday,,,,,,,,,Turner,3,,,made,,3PT Jump Shot,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=15
@@ -34,7 +34,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.07,Philadelphia 76ers,substitute,,,,Hawes,,Brown,,,,,,,,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=37
 ,,,,,,,,,,1,6.55,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,10-5,15,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=38
 ,,,,,,,,,,1,6.53,Cleveland Cavaliers,rebound,,,,,,,,,,Gee,,,,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=39
-,,,,,,,,,,1,6.43,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=40
+,,,,,,,,,,1,6.43,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,Turner,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=40
 ,,,,,,,,,,1,6.37,Philadelphia 76ers,shot,,,,,,,,,,Richardson,,,,missed,,3PT Jump Shot,,,10-5,25,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=41
 ,,,,,,,,,,1,6.34,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=42
 ,,,,,,,,,,1,6.29,Cleveland Cavaliers,violation,,,,,,,,,,Varejao,,,Kicked Ball,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=44
@@ -51,11 +51,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.53,Cleveland Cavaliers,shot,Irving,,,,,,,,,Varejao,2,,,made,,Floating Jump Shot,,,12-11,6,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=56
 ,,,,,,,,,,1,4.32,Cleveland Cavaliers,foul,,,,,,,,,,Varejao,,,,,,Personal,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=57
 ,,,,,,,,,,1,4.32,Cleveland Cavaliers,substitute,,,,Thompson,,Zeller,,,,,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=58
-,,,,,,,,,,1,4.18,Philadelphia 76ers,shot,,,,,,,,,,Richardson,,,,missed,,Layup,,,12-11,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=59
+,,,,,,,,,,1,4.18,Philadelphia 76ers,shot,,,Gee,,,,,,,Richardson,,,,missed,,Layup,,,12-11,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=59
 ,,,,,,,,,,1,4.17,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=60
 ,,,,,,,,,,1,4.17,Philadelphia 76ers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=61
 ,,,,,,,,,,1,4.17,Philadelphia 76ers,substitute,,,,Wright,,Richardson,,,,,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=62
-,,,,,,,,,,1,3.59,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,Jump Shot,,,12-11,6,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=63
+,,,,,,,,,,1,3.59,Cleveland Cavaliers,shot,,,Hawes,,,,,,,Miles,,,,missed,,Jump Shot,,,12-11,6,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=63
 ,,,,,,,,,,1,3.57,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=64
 ,,,,,,,,,,1,3.56,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=65
 ,,,,,,,,,,1,3.33,Philadelphia 76ers,foul,,,,,,,,,,Turner,,,,,,Shooting,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=66
@@ -85,7 +85,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.12,Cleveland Cavaliers,free throw,,,,,,,2,,2,Gee,1,,foul,made,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=95
 ,,,,,,,,,,1,1.58,Philadelphia 76ers,foul,,,,,,,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=97
 ,,,,,,,,,,1,1.58,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Foul,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=98
-,,,,,,,,,,1,1.48,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=99
+,,,,,,,,,,1,1.48,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,Wright,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=99
 ,,,,,,,,,,1,1.43,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,17-14,14,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=100
 ,,,,,,,,,,1,1.43,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=101
 ,,,,,,,,,,1,1.43,Cleveland Cavaliers,foul,,,,,,,,,,Thompson,,,,,,Personal,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=102
@@ -94,12 +94,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.15,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,3PT Jump Shot,,,17-14,25,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=105
 ,,,,,,,,,,1,1.14,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=106
 ,,,,,,,,,,1,1.02,Philadelphia 76ers,shot,Holiday,,,,,,,,,Wright,3,,,made,,3PT Jump Shot,,,17-17,24,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=107
-,,,,,,,,,,1,0.43,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,Jump Shot,,,17-17,4,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=109
+,,,,,,,,,,1,0.43,Cleveland Cavaliers,shot,,,Hawes,,,,,,,Irving,,,,missed,,Jump Shot,,,17-17,4,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=109
 ,,,,,,,,,,1,0.41,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=110
-,,,,,,,,,,1,0.40,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Layup,,,17-17,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=111
+,,,,,,,,,,1,0.40,Cleveland Cavaliers,shot,,,Allen,,,,,,,Zeller,,,,missed,,Layup,,,17-17,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=111
 ,,,,,,,,,,1,0.39,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=112
 ,,,,,,,,,,1,0.36,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,2,,,made,,Jump Hook Shot,,,19-17,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=113
-,,,,,,,,,,1,0.32,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,19-17,4,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=114
+,,,,,,,,,,1,0.32,Philadelphia 76ers,shot,,,Casspi,,,,,,,Allen,,,,missed,,Jump Shot,,,19-17,4,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=114
 ,,,,,,,,,,1,0.32,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=115
 ,,,,,,,,,,1,0.24,Philadelphia 76ers,shot,Wright,,,,,,,,,Young,2,,,made,,Jump Shot,,,19-19,15,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=116
 ,,,,,,,,,,1,0.02,Philadelphia 76ers,violation,,,,,,,,,,Hawes,,,Defensive Goaltending,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=118
@@ -115,7 +115,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.23,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Shooting,,,24-21,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=132
 ,,,,,,,,,,2,10.23,Philadelphia 76ers,free throw,,,,,,,1,,2,Allen,1,,foul,made,,,,,24-22,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=133
 ,,,,,,,,,,2,10.23,Philadelphia 76ers,free throw,,,,,,,2,,2,Allen,1,,foul,made,,,,,24-23,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=134
-,,,,,,,,,,2,10.10,Cleveland Cavaliers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,,,,,24-23,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=136
+,,,,,,,,,,2,10.10,Cleveland Cavaliers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,Hawes,,,,24-23,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=136
 ,,,,,,,,,,2,9.58,Cleveland Cavaliers,foul,,,,,,,,,,Pargo,,,,,,Personal,,,24-23,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=138
 ,,,,,,,,,,2,9.48,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,24-23,17,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=139
 ,,,,,,,,,,2,9.46,Cleveland Cavaliers,rebound,,,,,,,,,,Miles,,,,,,,,,24-23,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=140
@@ -155,7 +155,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.50,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,34-31,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=178
 ,,,,,,,,,,2,5.36,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,34-31,5,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=179
 ,,,,,,,,,,2,5.34,Cleveland Cavaliers,rebound,,,,,,,,,,Casspi,,,,,,,,,34-31,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=180
-,,,,,,,,,,2,5.23,Cleveland Cavaliers,turnover,,,,,,,,,,Casspi,,,Bad Pass,,,,,,34-31,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=181
+,,,,,,,,,,2,5.23,Cleveland Cavaliers,turnover,,,,,,,,,,Casspi,,,Bad Pass,,Richardson,,,,34-31,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=181
 ,,,,,,,,,,2,5.19,Philadelphia 76ers,shot,,,,,,,,,,Richardson,2,,,made,,Driving Layup,,,34-33,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=182
 ,,,,,,,,,,2,5.09,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,34-33,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=183
 ,,,,,,,,,,2,5.09,Cleveland Cavaliers,substitute,,,,Gee,,Casspi,,,,,,,,,,,,,34-33,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=185
@@ -166,7 +166,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.04,Cleveland Cavaliers,shot,Irving,,,,,,,,,Varejao,2,,,made,,Turnaround Jump Shot,,,36-35,13,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=190
 ,,,,,,,,,,2,3.45,Philadelphia 76ers,shot,Richardson,,,,,,,,,Young,2,,,made,,Jump Shot,,,36-37,16,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=191
 ,,,,,,,,,,2,3.21,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters Out of Bounds,,,Lost Ball,,,,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=192
-,,,,,,,,,,2,3.10,Philadelphia 76ers,shot,,,,,,,,,,Richardson,,,,missed,,Layup,,,36-37,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=193
+,,,,,,,,,,2,3.10,Philadelphia 76ers,shot,,,Zeller,,,,,,,Richardson,,,,missed,,Layup,,,36-37,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=193
 ,,,,,,,,,,2,3.08,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=194
 ,,,,,,,,,,2,3.05,Cleveland Cavaliers,shot,Varejao,,,,,,,,,Gee,2,,,made,,Layup,,,38-37,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=195
 ,,,,,,,,,,2,2.48,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,38-37,19,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=196
@@ -207,16 +207,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.07,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=244
 ,,,,,,,,,,3,10.51,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,Jump Shot,,,42-43,18,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=245
 ,,,,,,,,,,3,10.50,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=246
-,,,,,,,,,,3,10.49,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,42-43,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=247
+,,,,,,,,,,3,10.49,Cleveland Cavaliers,shot,,,Richardson,,,,,,,Thompson,,,,missed,,Layup,,,42-43,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=247
 ,,,,,,,,,,3,10.49,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=249
 ,,,,,,,,,,3,10.49,Philadelphia 76ers,jumpball,,Thompson,,,Richardson,,,,,,,,,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=248
 ,,,,,,,,,,3,10.42,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,Layup,,,42-43,1,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=250
 ,,,,,,,,,,3,10.40,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=251
-,,,,,,,,,,3,10.34,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=252
+,,,,,,,,,,3,10.34,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Gee,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=252
 ,,,,,,,,,,3,10.29,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,Layup,,,42-43,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=253
 ,,,,,,,,,,3,10.26,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=255
 ,,,,,,,,,,3,10.26,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,2,,,made,,Tip Shot,,,44-43,1,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=254
-,,,,,,,,,,3,10.10,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Lost Ball,,,,,,44-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=256
+,,,,,,,,,,3,10.10,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Lost Ball,,Waiters,,,,44-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=256
 ,,,,,,,,,,3,10.06,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,Layup,,,44-43,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=257
 ,,,,,,,,,,3,10.03,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,44-43,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=258
 ,,,,,,,,,,3,9.42,Philadelphia 76ers,shot,Turner,,,,,,,,,Young,2,,,made,,Step Back Jump Shot,,,44-45,18,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=259
@@ -226,19 +226,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.56,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,44-45,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=263
 ,,,,,,,,,,3,8.41,Cleveland Cavaliers,shot,,,,,,,,,,Varejao,,,,missed,,Jump Shot,,,44-45,10,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=264
 ,,,,,,,,,,3,8.39,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,44-45,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=265
-,,,,,,,,,,3,8.38,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,44-45,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=266
+,,,,,,,,,,3,8.38,Cleveland Cavaliers,shot,,,Brown,,,,,,,Thompson,,,,missed,,Layup,,,44-45,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=266
 ,,,,,,,,,,3,8.38,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,44-45,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=267
 ,,,,,,,,,,3,8.32,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,2,,,made,,Running Jump Shot,,,46-45,7,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=268
 ,,,,,,,,,,3,8.32,Philadelphia 76ers,foul,,,,,,,,,,Brown,,,,,,Shooting,,,46-45,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=269
 ,,,,,,,,,,3,8.32,Cleveland Cavaliers,free throw,,,,,,,1,,1,Thompson,1,,foul,made,,,,,47-45,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=270
 ,,,,,,,,,,3,8.08,Philadelphia 76ers,shot,Turner,,,,,,,,,Holiday,2,,,made,,Driving Finger Roll Layup,,,47-47,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=272
-,,,,,,,,,,3,7.44,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,,,,,47-47,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=274
-,,,,,,,,,,3,7.38,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,,,,,47-47,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=275
+,,,,,,,,,,3,7.44,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,Young,,,,47-47,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=274
+,,,,,,,,,,3,7.38,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,Irving,,,,47-47,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=275
 ,,,,,,,,,,3,7.32,Philadelphia 76ers,foul,,,,,,,,,,Brown,,,,,,Shooting,,,47-47,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=276
 ,,,,,,,,,,3,7.32,Cleveland Cavaliers,free throw,,,,,,,1,,2,Varejao,1,,foul,made,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=277
 ,,,,,,,,,,3,7.32,Philadelphia 76ers,substitute,,,,Allen,,Brown,,,,,,,,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=279
 ,,,,,,,,,,3,7.32,Cleveland Cavaliers,free throw,,,,,,,2,,2,Varejao,1,,foul,made,,,,,49-47,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=280
-,,,,,,,,,,3,7.20,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Layup,,,49-47,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=282
+,,,,,,,,,,3,7.20,Philadelphia 76ers,shot,,,Thompson,,,,,,,Young,,,,missed,,Layup,,,49-47,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=282
 ,,,,,,,,,,3,7.20,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,49-47,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=283
 ,,,,,,,,,,3,7.19,Philadelphia 76ers,shot,Turner,,,,,,,,,Richardson,2,,,made,,Layup,,,49-49,1,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=284
 ,,,,,,,,,,3,7.01,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,Jump Shot,,,49-49,17,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=285
@@ -260,7 +260,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.06,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=302
 ,,,,,,,,,,3,5.00,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,3PT Jump Shot,,,51-52,24,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=303
 ,,,,,,,,,,3,4.57,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=304
-,,,,,,,,,,3,4.36,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Bad Pass,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=305
+,,,,,,,,,,3,4.36,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Bad Pass,,Gee,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=305
 ,,,,,,,,,,3,4.24,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,3PT Jump Shot,,,51-52,26,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=306
 ,,,,,,,,,,3,4.22,Philadelphia 76ers,rebound,,,,,,,,,,Richardson,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=307
 ,,,,,,,,,,3,4.13,Philadelphia 76ers,shot,,,,,,,,,,Turner,2,,,made,,Fadeaway Jumper,,,51-54,14,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=308
@@ -269,8 +269,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.59,Cleveland Cavaliers,substitute,,,,Zeller,,Thompson,,,,,,,,,,,,,51-54,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=311
 ,,,,,,,,,,3,3.59,Cleveland Cavaliers,substitute,,,,Miles,,Waiters,,,,,,,,,,,,,51-54,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=312
 ,,,,,,,,,,3,3.50,Cleveland Cavaliers,shot,,,,,,,,,,Irving,2,,,made,,Driving Layup,,,53-54,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=313
-,,,,,,,,,,3,3.31,Philadelphia 76ers,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=314
-,,,,,,,,,,3,3.17,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,Layup,,,53-54,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=315
+,,,,,,,,,,3,3.31,Philadelphia 76ers,turnover,,,,,,,,,,Allen,,,Bad Pass,,Varejao,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=314
+,,,,,,,,,,3,3.17,Cleveland Cavaliers,shot,,,Allen,,,,,,,Irving,,,,missed,,Layup,,,53-54,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=315
 ,,,,,,,,,,3,3.15,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=316
 ,,,,,,,,,,3,3.11,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Shooting,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=317
 ,,,,,,,,,,3,3.11,Philadelphia 76ers,free throw,,,,,,,1,,2,Turner,1,,foul,made,,,,,53-55,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=318
@@ -292,7 +292,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.15,Philadelphia 76ers,foul,,,,,,,,,,Hawes,,,,,,Personal,,,55-59,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=338
 ,,,,,,,,,,3,1.15,Cleveland Cavaliers,substitute,,,,Pargo,,Irving,,,,,,,,,,,,,55-59,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=339
 ,,,,,,,,,,3,1.15,Philadelphia 76ers,substitute,,,,Allen,,Young,,,,,,,,,,,,,55-59,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=340
-,,,,,,,,,,3,1.05,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Bad Pass,,,,,,55-59,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=341
+,,,,,,,,,,3,1.05,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Bad Pass,,Ivey,,,,55-59,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=341
 ,,,,,,,,,,3,1.01,Philadelphia 76ers,shot,Ivey,,,,,,,,,Young,2,,,made,,Dunk,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=342
 ,,,,,,,,,,3,0.39,Cleveland Cavaliers,shot,Pargo,,,,,,,,,Varejao,2,,,made,,Jump Shot,,,57-61,16,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=343
 ,,,,,,,,,,3,0.32,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Personal,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=344
@@ -308,7 +308,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.35,Philadelphia 76ers,turnover,,,,,,,,,,Allen,,,Traveling,,,,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=358
 ,,,,,,,,,,4,11.26,Cleveland Cavaliers,shot,Miles,,,,,,,,,Thompson,2,,,made,,Jump Shot,,,59-62,5,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=359
 ,,,,,,,,,,4,10.58,Philadelphia 76ers,shot,Allen,,,,,,,,,Richardson,2,,,made,,Jump Shot,,,59-64,18,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=360
-,,,,,,,,,,4,10.58,Cleveland Cavaliers,shot,,,,,,,,,,Casspi,,,,missed,,Jump Shot,,,59-64,21,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=377
+,,,,,,,,,,4,10.58,Cleveland Cavaliers,shot,,,Turner,,,,,,,Casspi,,,,missed,,Jump Shot,,,59-64,21,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=377
 ,,,,,,,,,,4,10.58,Cleveland Cavaliers,rebound,,,,,,,,,,Miles,,,,,,,,,59-64,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=390
 ,,,,,,,,,,4,10.31,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,3PT Jump Shot,,,59-64,28,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=364
 ,,,,,,,,,,4,10.30,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,59-64,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=365
@@ -330,14 +330,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.12,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,3PT Jump Shot,,,59-64,24,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=383
 ,,,,,,,,,,4,9.09,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,59-64,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=384
 ,,,,,,,,,,4,9.05,Philadelphia 76ers,shot,Turner,,,,,,,,,Ivey,2,,,made,,Layup,,,59-66,2,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=385
-,,,,,,,,,,4,8.51,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,59-66,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=386
+,,,,,,,,,,4,8.51,Cleveland Cavaliers,shot,,,Hawes,,,,,,,Thompson,,,,missed,,Jump Shot,,,59-66,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=386
 ,,,,,,,,,,4,8.49,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,59-66,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=387
 ,,,,,,,,,,4,8.49,Cleveland Cavaliers,foul,,,,,,,,,,Casspi,,,,,,Personal,,,59-66,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=388
 ,,,,,,,,,,4,8.49,Cleveland Cavaliers,substitute,,,,Waiters,,Miles,,,,,,,,,,,,,59-66,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=392
 ,,,,,,,,,,4,8.31,Philadelphia 76ers,shot,Turner,,,,,,,,,Richardson,3,,,made,,3PT Jump Shot,,,59-69,25,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=394
 ,,,,,,,,,,4,8.10,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Traveling,,,,,,59-69,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=395
 ,,,,,,,,,,4,8.10,Cleveland Cavaliers,substitute,,,,Gee,,Casspi,,,,,,,,,,,,,59-69,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=396
-,,,,,,,,,,4,7.51,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,,,,,59-69,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=397
+,,,,,,,,,,4,7.51,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,Zeller,,,,59-69,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=397
 ,,,,,,,,,,4,7.26,Cleveland Cavaliers,shot,Thompson,,,,,,,,,Pargo,3,,,made,,3PT Jump Bank Shot,,,62-69,28,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=398
 ,,,,,,,,,,4,7.18,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,62-69,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=399
 ,,,,,,,,,,4,7.18,Cleveland Cavaliers,substitute,,,,Irving,,Thompson,,,,,,,,,,,,,62-69,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=401
@@ -363,7 +363,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.19,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=421
 ,,,,,,,,,,4,5.14,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,69-73,26,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=422
 ,,,,,,,,,,4,5.11,Cleveland Cavaliers,rebound,,,,,,,,,,Irving,,,,,,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=423
-,,,,,,,,,,4,4.55,Cleveland Cavaliers,shot,,,,,,,,,,Varejao,,,,missed,,Layup,,,69-73,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=424
+,,,,,,,,,,4,4.55,Cleveland Cavaliers,shot,,,Hawes,,,,,,,Varejao,,,,missed,,Layup,,,69-73,3,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=424
 ,,,,,,,,,,4,4.53,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=426
 ,,,,,,,,,,4,4.53,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,2,,,made,,Putback Layup,,,71-73,1,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=425
 ,,,,,,,,,,4,4.36,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,3PT Jump Shot,,,71-73,26,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=427
@@ -394,7 +394,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.57,Philadelphia 76ers,rebound,,,,,,,,,,Richardson,,,,,,,,,75-82,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=453
 ,,,,,,,,,,4,1.49,Philadelphia 76ers,shot,Holiday,,,,,,,,,Turner,2,,,made,,Turnaround Jump Shot,,,75-84,11,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=454
 ,,,,,,,,,,4,1.49,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=455
-,,,,,,,,,,4,1.45,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=456
+,,,,,,,,,,4,1.45,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,Holiday,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=456
 ,,,,,,,,,,4,1.21,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,75-84,6,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=457
 ,,,,,,,,,,4,1.19,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=458
 ,,,,,,,,,,4,1.11,Philadelphia 76ers,foul,,,,,,,,,,Hawes,,,,,,Shooting,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200141&GameEventID=461

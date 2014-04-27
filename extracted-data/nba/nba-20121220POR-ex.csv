@@ -49,9 +49,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.35,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=52
 ,,,,,,,,,,1,6.10,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Fadeaway Jumper,,,8-15,16,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=53
 ,,,,,,,,,,1,6.09,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=54
-,,,,,,,,,,1,5.59,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,8-15,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=55
+,,,,,,,,,,1,5.59,Portland Trail Blazers,shot,,,McGee,,,,,,,Hickson,,,,missed,,Layup,,,8-15,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=55
 ,,,,,,,,,,1,5.57,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=56
-,,,,,,,,,,1,5.53,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=57
+,,,,,,,,,,1,5.53,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,Batum,,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=57
 ,,,,,,,,,,1,5.53,Denver Nuggets,foul,,,,,,,,,,Gallinari,,,,,,Personal,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=58
 ,,,,,,,,,,1,5.53,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=59
 ,,,,,,,,,,1,5.53,Denver Nuggets,substitute,,,,Miller,,Gallinari,,,,,,,,,,,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=60
@@ -97,11 +97,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.10,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,12-23,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=103
 ,,,,,,,,,,1,1.10,Portland Trail Blazers,shot,,,,,,,,,,Leonard,,,,missed,,Tip Shot,,,12-23,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=102
 ,,,,,,,,,,1,1.08,Portland Trail Blazers,rebound,,,,,,,,,,Claver,,,,,,,,,12-23,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=104
-,,,,,,,,,,1,1.07,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Bad Pass,,,,,,12-23,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=105
+,,,,,,,,,,1,1.07,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Bad Pass,,Fournier,,,,12-23,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=105
 ,,,,,,,,,,1,1.02,Denver Nuggets,shot,Fournier,,,,,,,,,Hamilton,2,,,made,,Layup,,,14-23,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=106
 ,,,,,,,,,,1,0.45,Portland Trail Blazers,shot,,,,,,,,,,Claver,,,,missed,,3PT Jump Shot,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=107
 ,,,,,,,,,,1,0.44,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=108
-,,,,,,,,,,1,0.36,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=109
+,,,,,,,,,,1,0.36,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Matthews,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=109
 ,,,,,,,,,,1,0.27,Portland Trail Blazers,shot,,,,,,,,,,Babbitt,,,,missed,,Pullup Jump Shot,,,14-23,18,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=110
 ,,,,,,,,,,1,0.26,Denver Nuggets,rebound,,,,,,,,,,Hamilton,,,,,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=111
 ,,,,,,,,,,1,0.10,Denver Nuggets,shot,,,,,,,,,,Hamilton,,,,missed,,Running Jump Shot,,,14-23,10,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=112
@@ -129,15 +129,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.58,Denver Nuggets,shot,,,,,,,,,,Randolph,2,,,made,,Hook Shot,,,20-36,7,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=139
 ,,,,,,,,,,2,8.47,Portland Trail Blazers,shot,,,,,,,,,,Price,,,,missed,,Fadeaway Jumper,,,20-36,10,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=140
 ,,,,,,,,,,2,8.46,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,20-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=141
-,,,,,,,,,,2,8.41,Denver Nuggets,turnover,,,,,,,,,,Fournier,,,Lost Ball,,,,,,20-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=142
-,,,,,,,,,,2,8.35,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,20-36,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=143
+,,,,,,,,,,2,8.41,Denver Nuggets,turnover,,,,,,,,,,Fournier,,,Lost Ball,,Pavlovic,,,,20-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=142
+,,,,,,,,,,2,8.35,Portland Trail Blazers,shot,,,Mozgov,,,,,,,Hickson,,,,missed,,Layup,,,20-36,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=143
 ,,,,,,,,,,2,8.33,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,20-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=144
 ,,,,,,,,,,2,8.27,Denver Nuggets,shot,Miller,,,,,,,,,Randolph,2,,,made,,Dunk,,,22-36,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=145
 ,,,,,,,,,,2,8.09,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,3PT Jump Shot,,,22-36,24,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=146
 ,,,,,,,,,,2,8.07,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,22-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=147
 ,,,,,,,,,,2,8.01,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,Driving Finger Roll Layup,,,22-36,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=148
 ,,,,,,,,,,2,7.59,Portland Trail Blazers,rebound,,,,,,,,,,Price,,,,,,,,,22-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=149
-,,,,,,,,,,2,7.51,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,22-36,3,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=150
+,,,,,,,,,,2,7.51,Portland Trail Blazers,shot,,,Randolph,,,,,,,Hickson,,,,missed,,Layup,,,22-36,3,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=150
 ,,,,,,,,,,2,7.49,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,22-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=151
 ,,,,,,,,,,2,7.48,Denver Nuggets,shot,Miller,,,,,,,,,Brewer,2,,,made,,Dunk,,,24-36,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=152
 ,,,,,,,,,,2,7.48,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,24-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=153
@@ -149,7 +149,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.20,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,24-36,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=159
 ,,,,,,,,,,2,7.18,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,24-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=160
 ,,,,,,,,,,2,7.11,Portland Trail Blazers,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,24-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=161
-,,,,,,,,,,2,7.05,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Driving Layup,,,24-36,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=162
+,,,,,,,,,,2,7.05,Denver Nuggets,shot,,,Price,,,,,,,Lawson,,,,missed,,Driving Layup,,,24-36,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=162
 ,,,,,,,,,,2,7.03,Portland Trail Blazers,rebound,,,,,,,,,,Babbitt,,,,,,,,,24-36,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=163
 ,,,,,,,,,,2,6.48,Portland Trail Blazers,shot,Price,,,,,,,,,Hickson,2,,,made,,Dunk,,,24-38,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=164
 ,,,,,,,,,,2,6.27,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Jump Shot,,,24-38,3,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=165
@@ -173,7 +173,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.37,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,3PT Jump Shot,,,28-38,25,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=187
 ,,,,,,,,,,2,4.36,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,28-38,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=188
 ,,,,,,,,,,2,4.32,Denver Nuggets,shot,,,,,,,,,,Brewer,2,,,made,,Driving Slam Dunk,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=189
-,,,,,,,,,,2,4.13,Portland Trail Blazers,turnover,,,,,,,,,,Pavlovic,,,Bad Pass,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=190
+,,,,,,,,,,2,4.13,Portland Trail Blazers,turnover,,,,,,,,,,Pavlovic,,,Bad Pass,,Brewer,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=190
 ,,,,,,,,,,2,4.08,Denver Nuggets,shot,Lawson,,,,,,,,,Gallinari,2,,,made,,Dunk,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=191
 ,,,,,,,,,,2,4.06,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=192
 ,,,,,,,,,,2,4.06,Portland Trail Blazers,substitute,,,,Freeland,,Pavlovic,,,,,,,,,,,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=194
@@ -195,10 +195,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.10,Portland Trail Blazers,shot,Matthews,,,,,,,,,Freeland,2,,,made,,Driving Dunk,,,32-41,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=216
 ,,,,,,,,,,2,2.58,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Jump Shot,,,32-41,21,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=217
 ,,,,,,,,,,2,2.57,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,32-41,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=218
-,,,,,,,,,,2,2.48,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,32-41,4,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=219
+,,,,,,,,,,2,2.48,Portland Trail Blazers,shot,,,Koufos,,,,,,,Lillard,,,,missed,,Jump Shot,,,32-41,4,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=219
 ,,,,,,,,,,2,2.45,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,32-41,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=221
 ,,,,,,,,,,2,2.45,Portland Trail Blazers,shot,,,,,,,,,,Hickson,2,,,made,,Putback Layup,,,32-43,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=220
-,,,,,,,,,,2,2.37,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,32-43,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=222
+,,,,,,,,,,2,2.37,Denver Nuggets,shot,,,Hickson,,,,,,,Lawson,,,,missed,,Layup,,,32-43,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=222
 ,,,,,,,,,,2,2.37,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=223
 ,,,,,,,,,,2,2.37,Portland Trail Blazers,foul,,,,,,,,,,Hickson,,,,,,Shooting,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=224
 ,,,,,,,,,,2,2.37,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=225
@@ -212,7 +212,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.39,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,35-45,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=235
 ,,,,,,,,,,2,1.32,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,35-45,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=236
 ,,,,,,,,,,2,1.30,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,35-45,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=237
-,,,,,,,,,,2,1.29,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Layup,,,35-45,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=238
+,,,,,,,,,,2,1.29,Denver Nuggets,shot,,,Hickson,,,,,,,Gallinari,,,,missed,,Layup,,,35-45,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=238
 ,,,,,,,,,,2,1.27,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,35-45,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=239
 ,,,,,,,,,,2,1.20,Portland Trail Blazers,shot,Matthews,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,35-48,25,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=240
 ,,,,,,,,,,2,1.18,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=241
@@ -236,10 +236,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.42,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Pullup Jump Shot,,,40-52,20,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=268
 ,,,,,,,,,,3,11.23,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,Hook Shot,,,40-52,8,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=269
 ,,,,,,,,,,3,11.23,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,40-52,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=270
-,,,,,,,,,,3,11.12,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,40-52,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=271
+,,,,,,,,,,3,11.12,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Iguodala,,,,40-52,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=271
 ,,,,,,,,,,3,11.09,Denver Nuggets,shot,,,,,,,,,,Iguodala,2,,,made,,Driving Dunk,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=272
 ,,,,,,,,,,3,10.50,Portland Trail Blazers,shot,Lillard,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,42-55,24,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=273
-,,,,,,,,,,3,10.32,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Layup,,,42-55,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=274
+,,,,,,,,,,3,10.32,Denver Nuggets,shot,,,Hickson,,,,,,,Gallinari,,,,missed,,Layup,,,42-55,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=274
 ,,,,,,,,,,3,10.30,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,42-55,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=275
 ,,,,,,,,,,3,10.20,Portland Trail Blazers,shot,,,,,,,,,,Freeland,,,,missed,,Hook Shot,,,42-55,4,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=276
 ,,,,,,,,,,3,10.20,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,42-55,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=277
@@ -266,7 +266,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.14,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Palming,,,,,,47-61,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=301
 ,,,,,,,,,,3,8.02,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,47-61,25,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=302
 ,,,,,,,,,,3,8.02,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,47-61,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=303
-,,,,,,,,,,3,7.57,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Driving Layup,,,47-61,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=304
+,,,,,,,,,,3,7.57,Denver Nuggets,shot,,,Batum,,,,,,,Lawson,,,,missed,,Driving Layup,,,47-61,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=304
 ,,,,,,,,,,3,7.55,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,47-61,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=306
 ,,,,,,,,,,3,7.55,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Putback Layup,,,47-61,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=305
 ,,,,,,,,,,3,7.54,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,47-61,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=308
@@ -306,7 +306,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.55,Portland Trail Blazers,shot,,,,,,,,,,Babbitt,,,,missed,,3PT Jump Shot,,,50-62,25,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=346
 ,,,,,,,,,,3,4.54,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,50-62,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=347
 ,,,,,,,,,,3,4.50,Denver Nuggets,shot,Lawson,,,,,,,,,Iguodala,2,,,made,,Layup,,,52-62,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=348
-,,,,,,,,,,3,4.29,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,Driving Layup,,,52-62,3,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=349
+,,,,,,,,,,3,4.29,Portland Trail Blazers,shot,,,Koufos,,,,,,,Batum,,,,missed,,Driving Layup,,,52-62,3,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=349
 ,,,,,,,,,,3,4.29,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,52-62,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=350
 ,,,,,,,,,,3,4.29,Denver Nuggets,substitute,,,,McGee,,Koufos,,,,,,,,,,,,,52-62,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=351
 ,,,,,,,,,,3,4.29,Portland Trail Blazers,substitute,,,,Leonard,,Hickson,,,,,,,,,,,,,52-62,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=352
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.19,Denver Nuggets,shot,Iguodala,,,,,,,,,McGee,2,,,made,,Dunk,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=355
 ,,,,,,,,,,3,3.59,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Step Back Jump Shot,,,54-62,25,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=356
 ,,,,,,,,,,3,3.58,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=357
-,,,,,,,,,,3,3.55,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=358
+,,,,,,,,,,3,3.55,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,Lillard,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=358
 ,,,,,,,,,,3,3.37,Portland Trail Blazers,shot,Lillard,,,,,,,,,Leonard,2,,,made,,Layup,,,54-64,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=359
 ,,,,,,,,,,3,3.37,Denver Nuggets,foul,,,,,,,,,,McGee,,,,,,Shooting,,,54-64,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=360
 ,,,,,,,,,,3,3.37,Denver Nuggets,substitute,,,,Miller,,Lawson,,,,,,,,,,,,,54-64,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=361
@@ -368,7 +368,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.50,Portland Trail Blazers,foul,,,,,,,,,,Pavlovic,,,,,,Personal,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=420
 ,,,,,,,,,,4,11.41,Denver Nuggets,shot,,,,,,,,,,Hamilton,,,,missed,,3PT Jump Shot,,,61-69,24,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=421
 ,,,,,,,,,,4,11.40,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=422
-,,,,,,,,,,4,11.30,Portland Trail Blazers,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=423
+,,,,,,,,,,4,11.30,Portland Trail Blazers,turnover,,,,,,,,,,Price,,,Bad Pass,,Hamilton,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=423
 ,,,,,,,,,,4,11.25,Denver Nuggets,shot,Lawson,,,,,,,,,Miller,2,,,made,,Dunk,,,63-69,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=425
 ,,,,,,,,,,4,11.06,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,3PT Jump Shot,,,63-69,24,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=426
 ,,,,,,,,,,4,11.04,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,63-69,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=427
@@ -385,7 +385,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.42,Denver Nuggets,free throw,,,,,,,1,,2,Miller,1,,foul,made,,,,,66-71,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=439
 ,,,,,,,,,,4,9.42,Denver Nuggets,free throw,,,,,,,2,,2,Miller,1,,foul,made,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=441
 ,,,,,,,,,,4,9.29,Portland Trail Blazers,shot,Price,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,67-74,25,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=443
-,,,,,,,,,,4,9.11,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=444
+,,,,,,,,,,4,9.11,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,Price,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=444
 ,,,,,,,,,,4,9.08,Portland Trail Blazers,shot,,,,,,,,,,Price,2,,,made,,Driving Dunk,,,67-76,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=445
 ,,,,,,,,,,4,9.06,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=446
 ,,,,,,,,,,4,9.06,Portland Trail Blazers,substitute,,,,Matthews,,Pavlovic,,,,,,,,,,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=450
@@ -409,11 +409,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.39,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=468
 ,,,,,,,,,,4,6.31,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,3PT Jump Shot,,,73-78,24,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=469
 ,,,,,,,,,,4,6.29,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=470
-,,,,,,,,,,4,6.18,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=471
+,,,,,,,,,,4,6.18,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,Brewer,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=471
 ,,,,,,,,,,4,6.16,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Shooting,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=472
 ,,,,,,,,,,4,6.16,Denver Nuggets,free throw,,,,,,,1,,2,Brewer,1,,foul,made,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=474
 ,,,,,,,,,,4,6.16,Denver Nuggets,free throw,,,,,,,2,,2,Brewer,1,,foul,made,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=476
-,,,,,,,,,,4,6.03,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,Driving Layup,,,75-78,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=478
+,,,,,,,,,,4,6.03,Portland Trail Blazers,shot,,,McGee,,,,,,,Batum,,,,missed,,Driving Layup,,,75-78,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=478
 ,,,,,,,,,,4,6.00,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=479
 ,,,,,,,,,,4,5.56,Portland Trail Blazers,shot,Matthews,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,75-81,25,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=480
 ,,,,,,,,,,4,5.40,Denver Nuggets,shot,Lawson,,,,,,,,,McGee,2,,,made,,Alley Oop Dunk,,,77-81,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=481
@@ -421,7 +421,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.06,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Running Jump Shot,,,79-84,8,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=483
 ,,,,,,,,,,4,4.48,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Running Jump Shot,,,79-84,4,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=484
 ,,,,,,,,,,4,4.48,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=485
-,,,,,,,,,,4,4.41,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,Reverse Layup,,,79-84,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=486
+,,,,,,,,,,4,4.41,Denver Nuggets,shot,,,Batum,,,,,,,Brewer,,,,missed,,Reverse Layup,,,79-84,1,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=486
 ,,,,,,,,,,4,4.39,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=487
 ,,,,,,,,,,4,4.32,Portland Trail Blazers,shot,,,,,,,,,,Babbitt,,,,missed,,3PT Jump Shot,,,79-84,24,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=488
 ,,,,,,,,,,4,4.32,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=489
@@ -452,7 +452,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.15,Denver Nuggets,free throw,,,,,,,1,,2,Gallinari,1,,foul,made,,,,,84-92,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=522
 ,,,,,,,,,,4,2.15,Denver Nuggets,free throw,,,,,,,2,,2,Gallinari,1,,foul,made,,,,,85-92,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=524
 ,,,,,,,,,,4,1.58,Portland Trail Blazers,shot,Batum,,,,,,,,,Lillard,2,,,made,,Driving Slam Dunk,,,85-94,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=526
-,,,,,,,,,,4,1.53,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,85-94,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=527
+,,,,,,,,,,4,1.53,Denver Nuggets,shot,,,Matthews,,,,,,,Miller,,,,missed,,Layup,,,85-94,2,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=527
 ,,,,,,,,,,4,1.53,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,85-94,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=528
 ,,,,,,,,,,4,1.51,Portland Trail Blazers,foul,,,,,,,,,,Pavlovic,,,,,,Personal,,,85-94,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=529
 ,,,,,,,,,,4,1.51,Denver Nuggets,free throw,,,,,,,1,,2,Iguodala,1,,foul,made,,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021200379&GameEventID=530

@@ -9,9 +9,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.58,Houston Rockets,shot,,,,,,,,,,Patterson,,,,missed,,Turnaround Jump Shot,,,1-0,8,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=12
 ,,,,,,,,,,1,10.56,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,1-0,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=13
 ,,,,,,,,,,1,10.50,Miami Heat,shot,Wade,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,3-0,18,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=14
-,,,,,,,,,,1,10.34,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Jump Shot,,,3-0,6,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=15
+,,,,,,,,,,1,10.34,Houston Rockets,shot,,,Battier,,,,,,,Asik,,,,missed,,Jump Shot,,,3-0,6,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=15
 ,,,,,,,,,,1,10.32,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=16
-,,,,,,,,,,1,10.30,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=17
+,,,,,,,,,,1,10.30,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,Chalmers,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=17
 ,,,,,,,,,,1,10.26,Miami Heat,shot,Chalmers,,,,,,,,,James,2,,,made,,Alley Oop Dunk,,,5-0,2,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=18
 ,,,,,,,,,,1,10.05,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,5-0,25,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=19
 ,,,,,,,,,,1,10.04,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=20
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.39,Houston Rockets,foul,,,,,,,,,,Morris,,,,,,Personal,,,22-9,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=76
 ,,,,,,,,,,1,3.39,Houston Rockets,substitute,,,,Douglas,,Lin,,,,,,,,,,,,,22-9,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=78
 ,,,,,,,,,,1,3.39,Miami Heat,substitute,,,,Haslem,,Bosh,,,,,,,,,,,,,22-9,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=79
-,,,,,,,,,,1,3.27,Miami Heat,shot,,,,,,,,,,Haslem,,,,missed,,Jump Shot,,,22-9,3,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=81
+,,,,,,,,,,1,3.27,Miami Heat,shot,,,Patterson,,,,,,,Haslem,,,,missed,,Jump Shot,,,22-9,3,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=81
 ,,,,,,,,,,1,3.25,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,22-9,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=82
 ,,,,,,,,,,1,3.15,Miami Heat,foul,,,,,,,,,,Chalmers,,,,,,Shooting,,,22-9,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=83
 ,,,,,,,,,,1,3.15,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,22-10,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=84
@@ -79,7 +79,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.53,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,22-10,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=93
 ,,,,,,,,,,1,2.36,Houston Rockets,shot,,,,,,,,,,Douglas,,,,missed,,3PT Jump Shot,,,22-10,24,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=95
 ,,,,,,,,,,1,2.35,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,22-10,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=96
-,,,,,,,,,,1,2.27,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Jump Shot,,,22-10,7,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=97
+,,,,,,,,,,1,2.27,Miami Heat,shot,,,Harden,,,,,,,Cole,,,,missed,,Jump Shot,,,22-10,7,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=97
 ,,,,,,,,,,1,2.24,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,22-10,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=98
 ,,,,,,,,,,1,2.21,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Shooting,,,22-10,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=99
 ,,,,,,,,,,1,2.21,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,22-10,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=101
@@ -87,7 +87,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.21,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,22-11,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=104
 ,,,,,,,,,,1,2.21,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,22-12,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=106
 ,,,,,,,,,,1,2.14,Miami Heat,turnover,,,,,,,,,,Cole Out of Bounds,,,Lost Ball,,,,,,22-12,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=108
-,,,,,,,,,,1,2.00,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,,,,,22-12,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=109
+,,,,,,,,,,1,2.00,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,Allen,,,,22-12,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=109
 ,,,,,,,,,,1,1.54,Miami Heat,shot,,,,,,,,,,Lewis,,,,missed,,Jump Shot,,,22-12,22,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=110
 ,,,,,,,,,,1,1.52,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,22-12,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=111
 ,,,,,,,,,,1,1.46,Houston Rockets,shot,Douglas,,,,,,,,,Harden,2,,,made,,Driving Layup,,,22-14,2,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=112
@@ -103,11 +103,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.41,Miami Heat,foul,,,,,,,,,,Lewis,,,,,,Loose ball,,,23-16,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=123
 ,,,,,,,,,,1,0.41,Houston Rockets,substitute,,,,Parsons,,Morris,,,,,,,,,,,,,23-16,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=124
 ,,,,,,,,,,1,0.31,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,,,,,23-16,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=125
-,,,,,,,,,,1,0.13,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Driving Layup,,,23-16,4,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=126
+,,,,,,,,,,1,0.13,Miami Heat,shot,,,Asik,,,,,,,Cole,,,,missed,,Driving Layup,,,23-16,4,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=126
 ,,,,,,,,,,1,0.12,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,23-16,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=127
 ,,,,,,,,,,1,0.11,Miami Heat,shot,,,,,,,,,,Haslem,2,,,made,,Layup,,,25-16,2,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=128
 ,,,,,,,,,,1,0.00,Houston Rockets,shot,,,,,,,,,,Harden,3,,,made,,3PT Pullup Jump Shot,,,25-19,25,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=129
-,,,,,,,,,,2,11.45,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=133
+,,,,,,,,,,2,11.45,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,Wade,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=133
 ,,,,,,,,,,2,11.42,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Layup,,,27-19,2,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=134
 ,,,,,,,,,,2,11.36,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,27-19,25,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=135
 ,,,,,,,,,,2,11.34,Miami Heat,rebound,,,,,,,,,,Cole,,,,,,,,,27-19,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=136
@@ -164,7 +164,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.50,Houston Rockets,shot,,,,,,,,,,Patterson,2,,,made,,Layup,,,37-28,3,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=201
 ,,,,,,,,,,2,7.37,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Running Jump Shot,,,39-28,10,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=202
 ,,,,,,,,,,2,7.21,Houston Rockets,shot,Lin,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,39-31,24,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=203
-,,,,,,,,,,2,7.07,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Jump Shot,,,39-31,5,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=204
+,,,,,,,,,,2,7.07,Miami Heat,shot,,,Lin,,,,,,,Chalmers,,,,missed,,Jump Shot,,,39-31,5,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=204
 ,,,,,,,,,,2,7.07,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=206
 ,,,,,,,,,,2,7.07,Miami Heat,substitute,,,,Battier,,Haslem,,,,,,,,,,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=205
 ,,,,,,,,,,2,7.07,Houston Rockets,substitute,,,,Harden,,Delfino,,,,,,,,,,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=208
@@ -183,7 +183,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.03,Houston Rockets,rebound,,,,,,,,,,Patterson,,,,,,,,,39-35,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=231
 ,,,,,,,,,,2,5.41,Houston Rockets,shot,Asik,,,,,,,,,Patterson,2,,,made,,Slam Dunk,,,39-37,1,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=232
 ,,,,,,,,,,2,5.22,Miami Heat,shot,Chalmers,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,41-37,20,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=233
-,,,,,,,,,,2,5.09,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,,,,,41-37,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=234
+,,,,,,,,,,2,5.09,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,Battier,,,,41-37,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=234
 ,,,,,,,,,,2,5.01,Miami Heat,shot,Chalmers,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,44-37,24,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=235
 ,,,,,,,,,,2,4.40,Miami Heat,foul,,,,,,,,,,Bosh,,,,,,Personal,,,44-37,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=236
 ,,,,,,,,,,2,4.40,Houston Rockets,free throw,,,,,,,1,,2,Asik,1,,foul,made,,,,,44-38,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=237
@@ -199,7 +199,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.21,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Shooting,,,48-41,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=252
 ,,,,,,,,,,2,3.21,Houston Rockets,free throw,,,,,,,1,,2,Asik,1,,foul,made,,,,,48-42,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=253
 ,,,,,,,,,,2,3.21,Houston Rockets,free throw,,,,,,,2,,2,Asik,1,,foul,made,,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=255
-,,,,,,,,,,2,3.03,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=257
+,,,,,,,,,,2,3.03,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Parsons,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=257
 ,,,,,,,,,,2,2.53,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Reverse Layup,,,48-43,2,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=258
 ,,,,,,,,,,2,2.50,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=259
 ,,,,,,,,,,2,2.43,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Jump Shot,,,50-43,5,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=260
@@ -208,7 +208,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.43,Miami Heat,free throw,,,,,,,1,,1,Wade,1,,foul,made,,,,,51-43,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=266
 ,,,,,,,,,,2,2.23,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,51-43,16,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=268
 ,,,,,,,,,,2,2.22,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,51-43,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=269
-,,,,,,,,,,2,2.21,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,51-43,1,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=270
+,,,,,,,,,,2,2.21,Houston Rockets,shot,,,Bosh,,,,,,,Asik,,,,missed,,Layup,,,51-43,1,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=270
 ,,,,,,,,,,2,2.19,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,51-43,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=272
 ,,,,,,,,,,2,2.19,Houston Rockets,shot,,,,,,,,,,Parsons,2,,,made,,Layup,,,51-45,1,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=271
 ,,,,,,,,,,2,2.02,Miami Heat,shot,Battier,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,53-45,21,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=273
@@ -237,8 +237,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Miami Heat,shot,,,,,,,,,,Haslem,2,,,made,,Tip Shot,,,56-52,1,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=303
 ,,,,,,,,,,3,11.39,Houston Rockets,shot,,,,,,,,,,Patterson,,,,missed,,3PT Jump Shot,,,56-52,24,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=307
 ,,,,,,,,,,3,11.38,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,56-52,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=308
-,,,,,,,,,,3,11.29,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,56-52,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=309
-,,,,,,,,,,3,11.23,Houston Rockets,shot,,,,,,,,,,Patterson,,,,missed,,Layup,,,56-52,2,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=310
+,,,,,,,,,,3,11.29,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Harden,,,,56-52,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=309
+,,,,,,,,,,3,11.23,Houston Rockets,shot,,,Battier,,,,,,,Patterson,,,,missed,,Layup,,,56-52,2,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=310
 ,,,,,,,,,,3,11.21,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,56-52,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=311
 ,,,,,,,,,,3,11.06,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,56-52,14,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=312
 ,,,,,,,,,,3,11.04,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,56-52,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=313
@@ -269,7 +269,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.11,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=341
 ,,,,,,,,,,3,8.04,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,66-59,25,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=342
 ,,,,,,,,,,3,8.02,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=343
-,,,,,,,,,,3,7.56,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Driving Layup,,,66-59,4,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=344
+,,,,,,,,,,3,7.56,Houston Rockets,shot,,,Battier,,,,,,,Harden,,,,missed,,Driving Layup,,,66-59,4,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=344
 ,,,,,,,,,,3,7.54,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=345
 ,,,,,,,,,,3,7.50,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Running Jump Shot,,,66-59,7,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=346
 ,,,,,,,,,,3,7.49,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=347
@@ -292,7 +292,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.13,Miami Heat,foul,,,,,,,,,,James,,,,,,Shooting,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=368
 ,,,,,,,,,,3,6.13,Houston Rockets,free throw,,,,,,,1,,2,Parsons,1,,foul,made,,,,,69-64,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=369
 ,,,,,,,,,,3,6.13,Houston Rockets,free throw,,,,,,,2,,2,Parsons,1,,foul,made,,,,,69-65,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=371
-,,,,,,,,,,3,6.04,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,,,,,69-65,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=373
+,,,,,,,,,,3,6.04,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,Lin,,,,69-65,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=373
 ,,,,,,,,,,3,6.00,Houston Rockets,shot,Lin,,,,,,,,,Parsons,2,,,made,,Slam Dunk,,,69-67,1,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=374
 ,,,,,,,,,,3,5.59,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=375
 ,,,,,,,,,,3,5.43,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Layup,,,69-67,2,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=378
@@ -344,7 +344,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.00,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,82-85,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=433
 ,,,,,,,,,,4,11.39,Miami Heat,shot,,,,,,,,,,Lewis,2,,,made,,Driving Layup,,,84-85,3,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=437
 ,,,,,,,,,,4,11.24,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,84-85,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=439
-,,,,,,,,,,4,11.16,Miami Heat,turnover,,,,,,,,,,Cole,,,Lost Ball,,,,,,84-85,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=440
+,,,,,,,,,,4,11.16,Miami Heat,turnover,,,,,,,,,,Cole,,,Lost Ball,,Douglas,,,,84-85,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=440
 ,,,,,,,,,,4,11.13,Miami Heat,foul,,,,,,,,,,Wade,,,,,,Shooting,,,84-85,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=441
 ,,,,,,,,,,4,11.13,Houston Rockets,free throw,,,,,,,1,,2,Parsons,1,,foul,made,,,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=442
 ,,,,,,,,,,4,11.13,Miami Heat,substitute,,,,Chalmers,,Cole,,,,,,,,,,,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=444
@@ -362,7 +362,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.38,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,86-92,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=461
 ,,,,,,,,,,4,9.26,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,86-92,25,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=462
 ,,,,,,,,,,4,9.25,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,86-92,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=463
-,,,,,,,,,,4,9.16,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,,,,,86-92,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=464
+,,,,,,,,,,4,9.16,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,Parsons,,,,86-92,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=464
 ,,,,,,,,,,4,9.09,Houston Rockets,shot,Douglas,,,,,,,,,Asik,2,,,made,,Layup,,,86-94,3,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=465
 ,,,,,,,,,,4,9.08,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=466
 ,,,,,,,,,,4,9.08,Miami Heat,substitute,,,,James,,Lewis,,,,,,,,,,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=469
@@ -392,13 +392,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.42,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,93-101,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=498
 ,,,,,,,,,,4,5.25,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Turnaround Fadeaway Shot,,,93-101,10,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=499
 ,,,,,,,,,,4,5.23,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,93-101,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=500
-,,,,,,,,,,4,5.12,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,93-101,6,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=501
+,,,,,,,,,,4,5.12,Miami Heat,shot,,,Lin,,,,,,,Allen,,,,missed,,Jump Shot,,,93-101,6,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=501
 ,,,,,,,,,,4,5.11,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,93-101,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=502
 ,,,,,,,,,,4,5.04,Miami Heat,shot,Wade,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,96-101,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=503
 ,,,,,,,,,,4,4.48,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Personal,,,96-101,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=504
 ,,,,,,,,,,4,4.37,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Driving Jump Shot,,,96-101,8,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=505
 ,,,,,,,,,,4,4.35,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,96-101,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=506
-,,,,,,,,,,4,4.25,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Layup,,,96-101,3,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=513
+,,,,,,,,,,4,4.25,Miami Heat,shot,,,Lin,,,,,,,James,,,,missed,,Layup,,,96-101,3,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=513
 ,,,,,,,,,,4,4.24,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,96-101,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=517
 ,,,,,,,,,,4,4.13,Houston Rockets,shot,,,,,,,,,,Patterson,2,,,made,,Jump Shot,,,96-103,13,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=508
 ,,,,,,,,,,4,3.54,Houston Rockets,foul,,,,,,,,,,Harden,,,,,,Shooting,,,96-103,,http://stats.nba.com/cvp.html?GameID=0021200099&GameEventID=510

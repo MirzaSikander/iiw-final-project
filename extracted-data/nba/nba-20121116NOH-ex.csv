@@ -1,6 +1,6 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.41,Oklahoma City Thunder,shot,Durant,,,,,,,,,Perkins,2,,,made,,Layup,,,2-0,2,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=2
-,,,,,,,,,,1,11.18,New Orleans Hornets,turnover,,,,,,,,,,Lopez,,,Lost Ball,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=3
+,,,,,,,,,,1,11.18,New Orleans Hornets,turnover,,,,,,,,,,Lopez,,,Lost Ball,,Perkins,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=3
 ,,,,,,,,,,1,11.12,New Orleans Hornets,foul,,,,,,,,,,Aminu,,,,,,Shooting,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=4
 ,,,,,,,,,,1,11.12,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=5
 ,,,,,,,,,,1,11.12,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=7
@@ -11,7 +11,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.28,Oklahoma City Thunder,shot,Durant,,,,,,,,,Sefolosha,3,,,made,,3PT Jump Shot,,,7-0,26,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=13
 ,,,,,,,,,,1,10.07,New Orleans Hornets,shot,Vasquez,,,,,,,,,Lopez,2,,,made,,Jump Shot,,,7-2,11,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=14
 ,,,,,,,,,,1,9.47,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Durant,2,,,made,,Jump Shot,,,9-2,15,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=15
-,,,,,,,,,,1,9.24,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Layup,,,9-2,2,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=16
+,,,,,,,,,,1,9.24,New Orleans Hornets,shot,,,Ibaka,,,,,,,Lopez,,,,missed,,Layup,,,9-2,2,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=16
 ,,,,,,,,,,1,9.22,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,9-2,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=17
 ,,,,,,,,,,1,9.16,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Layup,,,11-2,1,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=18
 ,,,,,,,,,,1,9.02,New Orleans Hornets,shot,Vasquez,,,,,,,,,Davis,2,,,made,,Jump Shot,,,11-4,20,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=19
@@ -30,7 +30,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.20,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Layup,,,15-8,2,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=33
 ,,,,,,,,,,1,6.19,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,15-8,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=34
 ,,,,,,,,,,1,6.16,Oklahoma City Thunder,turnover,,,,,,,,,,Sefolosha,,,Traveling,,,,,,15-8,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=35
-,,,,,,,,,,1,6.00,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,15-8,7,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=36
+,,,,,,,,,,1,6.00,New Orleans Hornets,shot,,,Ibaka,,,,,,,Davis,,,,missed,,Jump Shot,,,15-8,7,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=36
 ,,,,,,,,,,1,5.54,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,15-8,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=37
 ,,,,,,,,,,1,5.50,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,15-8,15,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=38
 ,,,,,,,,,,1,5.48,New Orleans Hornets,rebound,,,,,,,,,,Vasquez,,,,,,,,,15-8,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=39
@@ -44,7 +44,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.37,Oklahoma City Thunder,substitute,,,,Collison,,Perkins,,,,,,,,,,,,,17-10,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=48
 ,,,,,,,,,,1,4.37,New Orleans Hornets,substitute,,,,Miller,,Aminu,,,,,,,,,,,,,17-10,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=49
 ,,,,,,,,,,1,4.37,New Orleans Hornets,substitute,,,,Anderson,,Lopez,,,,,,,,,,,,,17-10,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=50
-,,,,,,,,,,1,4.26,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Layup,,,17-10,3,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=52
+,,,,,,,,,,1,4.26,Oklahoma City Thunder,shot,,,Davis,,,,,,,Westbrook,,,,missed,,Layup,,,17-10,3,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=52
 ,,,,,,,,,,1,4.23,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,17-10,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=53
 ,,,,,,,,,,1,4.21,New Orleans Hornets,shot,,,,,,,,,,Rivers,,,,missed,,Layup,,,17-10,3,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=54
 ,,,,,,,,,,1,4.19,Oklahoma City Thunder,rebound,,,,,,,,,,Martin,,,,,,,,,17-10,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=55
@@ -94,9 +94,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.07,New Orleans Hornets,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,36-18,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=107
 ,,,,,,,,,,2,11.44,New Orleans Hornets,shot,Miller,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,36-21,25,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=111
 ,,,,,,,,,,2,11.30,Oklahoma City Thunder,shot,,,,,,,,,,Martin,2,,,made,,Fadeaway Jumper,,,38-21,16,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=112
-,,,,,,,,,,2,11.10,New Orleans Hornets,shot,,,,,,,,,,Mason Jr.,,,,missed,,Jump Shot,,,38-21,5,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=113
+,,,,,,,,,,2,11.10,New Orleans Hornets,shot,,,Thabeet,,,,,,,Mason Jr.,,,,missed,,Jump Shot,,,38-21,5,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=113
 ,,,,,,,,,,2,11.07,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,38-21,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=114
-,,,,,,,,,,2,11.00,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Lost Ball,,,,,,38-21,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=115
+,,,,,,,,,,2,11.00,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Lost Ball,,Miller,,,,38-21,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=115
 ,,,,,,,,,,2,11.00,Oklahoma City Thunder,foul,,,,,,,,,,Maynor,,,,,,Personal,,,38-21,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=116
 ,,,,,,,,,,2,10.45,New Orleans Hornets,shot,,,,,,,,,,Mason Jr.,2,,,made,,Jump Shot,,,38-23,17,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=117
 ,,,,,,,,,,2,10.26,Oklahoma City Thunder,shot,,,,,,,,,,Maynor,,,,missed,,3PT Jump Shot,,,38-23,24,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=118
@@ -127,7 +127,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.26,New Orleans Hornets,rebound,,,,,,,,,,Smith,,,,,,,,,47-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=150
 ,,,,,,,,,,2,7.05,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,47-27,13,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=151
 ,,,,,,,,,,2,7.04,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,47-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=152
-,,,,,,,,,,2,6.57,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Layup,,,47-27,2,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=153
+,,,,,,,,,,2,6.57,Oklahoma City Thunder,shot,,,Davis,,,,,,,Durant,,,,missed,,Layup,,,47-27,2,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=153
 ,,,,,,,,,,2,6.57,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,47-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=154
 ,,,,,,,,,,2,6.57,New Orleans Hornets,substitute,,,,Rivers,,Mason Jr.,,,,,,,,,,,,,47-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=155
 ,,,,,,,,,,2,6.57,New Orleans Hornets,substitute,,,,Vasquez,,Roberts,,,,,,,,,,,,,47-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=156
@@ -145,8 +145,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.47,Oklahoma City Thunder,substitute,,,,Perkins,,Thabeet,,,,,,,,,,,,,50-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=170
 ,,,,,,,,,,2,5.38,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,53-27,24,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=171
 ,,,,,,,,,,2,5.25,New Orleans Hornets,turnover,,,,,,,,,,Davis,,,Backcourt,,,,,,53-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=172
-,,,,,,,,,,2,5.13,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,,,,,53-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=173
-,,,,,,,,,,2,5.07,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,,,,,53-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=174
+,,,,,,,,,,2,5.13,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,Anderson,,,,53-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=173
+,,,,,,,,,,2,5.07,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,Durant,,,,53-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=174
 ,,,,,,,,,,2,4.57,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,53-27,17,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=175
 ,,,,,,,,,,2,4.56,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,53-27,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=176
 ,,,,,,,,,,2,4.47,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Layup,,,53-27,1,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=177
@@ -162,7 +162,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.45,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,55-29,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=190
 ,,,,,,,,,,2,3.45,New Orleans Hornets,shot,,,,,,,,,,Davis,2,,,made,,Dunk,,,55-31,2,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=189
 ,,,,,,,,,,2,3.30,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Ibaka,2,,,made,,Jump Shot,,,57-31,16,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=191
-,,,,,,,,,,2,3.15,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Lost Ball,,,,,,57-31,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=192
+,,,,,,,,,,2,3.15,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Lost Ball,,Westbrook,,,,57-31,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=192
 ,,,,,,,,,,2,3.04,Oklahoma City Thunder,shot,Martin,,,,,,,,,Durant,2,,,made,,Running Bank Shot,,,59-31,7,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=193
 ,,,,,,,,,,2,2.59,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Personal,,,59-31,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=194
 ,,,,,,,,,,2,2.59,New Orleans Hornets,timeout,,,,,,,,,,,,,,,,,,,59-31,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=195
@@ -174,7 +174,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.17,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,61-36,22,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=202
 ,,,,,,,,,,2,1.16,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,61-36,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=203
 ,,,,,,,,,,2,1.00,Oklahoma City Thunder,shot,Perkins,,,,,,,,,Sefolosha,3,,,made,,3PT Jump Shot,,,64-36,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=204
-,,,,,,,,,,2,0.40,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,,,,,64-36,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=205
+,,,,,,,,,,2,0.40,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,Durant,,,,64-36,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=205
 ,,,,,,,,,,2,0.36,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Alley Oop Dunk,,,66-36,1,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=206
 ,,,,,,,,,,2,0.21,Oklahoma City Thunder,foul,,,,,,,,,,Perkins,,,,,,Personal,,,66-36,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=207
 ,,,,,,,,,,2,0.21,New Orleans Hornets,free throw,,,,,,,1,,2,Lopez,,,foul,missed,,,,,66-36,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=208
@@ -190,7 +190,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.04,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,68-37,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=224
 ,,,,,,,,,,3,11.04,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Tip Shot,,,68-37,4,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=223
 ,,,,,,,,,,3,11.01,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,68-37,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=225
-,,,,,,,,,,3,10.59,New Orleans Hornets,turnover,,,,,,,,,,Davis,,,Lost Ball,,,,,,68-37,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=226
+,,,,,,,,,,3,10.59,New Orleans Hornets,turnover,,,,,,,,,,Davis,,,Lost Ball,,Sefolosha,,,,68-37,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=226
 ,,,,,,,,,,3,10.51,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Ibaka,2,,,made,,Layup,,,70-37,4,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=383
 ,,,,,,,,,,3,10.51,New Orleans Hornets,foul,,,,,,,,,,Rivers,,,,,,Shooting,,,70-37,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=454
 ,,,,,,,,,,3,10.51,Oklahoma City Thunder,free throw,,,,,,,1,,1,Ibaka,1,,foul,made,,,,,71-37,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=229
@@ -218,7 +218,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.43,Oklahoma City Thunder,foul,,,,,,,,,,Perkins,,,,,,Shooting,,,74-43,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=255
 ,,,,,,,,,,3,8.43,New Orleans Hornets,free throw,,,,,,,1,,2,Lopez,1,,foul,made,,,,,74-44,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=256
 ,,,,,,,,,,3,8.43,New Orleans Hornets,free throw,,,,,,,2,,2,Lopez,1,,foul,made,,,,,74-45,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=259
-,,,,,,,,,,3,8.23,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,74-45,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=262
+,,,,,,,,,,3,8.23,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,Vasquez,,,,74-45,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=262
 ,,,,,,,,,,3,8.15,New Orleans Hornets,shot,,,,,,,,,,Aminu,,,,missed,,Layup,,,74-45,3,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=263
 ,,,,,,,,,,3,8.11,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,74-45,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=265
 ,,,,,,,,,,3,8.11,New Orleans Hornets,shot,,,,,,,,,,Davis,2,,,made,,Tip Shot,,,74-47,1,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=264
@@ -243,7 +243,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.30,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,80-56,17,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=288
 ,,,,,,,,,,3,5.28,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,80-56,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=289
 ,,,,,,,,,,3,5.14,Oklahoma City Thunder,shot,,,,,,,,,,Durant,3,,,made,,3PT Jump Shot,,,83-56,26,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=290
-,,,,,,,,,,3,4.48,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Layup,,,83-56,1,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=291
+,,,,,,,,,,3,4.48,New Orleans Hornets,shot,,,Perkins,,,,,,,Davis,,,,missed,,Layup,,,83-56,1,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=291
 ,,,,,,,,,,3,4.46,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,83-56,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=292
 ,,,,,,,,,,3,4.30,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,83-56,18,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=293
 ,,,,,,,,,,3,4.29,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,83-56,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=294
@@ -253,7 +253,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.24,Oklahoma City Thunder,substitute,,,,Collison,,Sefolosha,,,,,,,,,,,,,83-57,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=299
 ,,,,,,,,,,3,4.24,New Orleans Hornets,free throw,,,,,,,2,,2,Vasquez,1,,foul,made,,,,,83-58,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=300
 ,,,,,,,,,,3,4.08,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Jump Shot,,,85-58,10,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=302
-,,,,,,,,,,3,3.49,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Layup,,,85-58,3,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=303
+,,,,,,,,,,3,3.49,New Orleans Hornets,shot,,,Durant,,,,,,,Lopez,,,,missed,,Layup,,,85-58,3,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=303
 ,,,,,,,,,,3,3.47,Oklahoma City Thunder,rebound,,,,,,,,,,Martin,,,,,,,,,85-58,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=304
 ,,,,,,,,,,3,3.40,Oklahoma City Thunder,shot,Martin,,,,,,,,,Ibaka,2,,,made,,Jump Shot,,,87-58,16,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=305
 ,,,,,,,,,,3,3.22,New Orleans Hornets,shot,,,,,,,,,,Vasquez,2,,,made,,Jump Bank Shot,,,87-60,5,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=306
@@ -270,7 +270,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.56,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,88-60,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=319
 ,,,,,,,,,,3,2.45,Oklahoma City Thunder,foul,,,,,,,,,,,,,,,,,,,88-60,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=321
 ,,,,,,,,,,3,2.45,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Foul,,,,,,88-60,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=322
-,,,,,,,,,,3,2.24,New Orleans Hornets,shot,,,,,,,,,,Mason Jr.,,,,missed,,Jump Shot,,,88-60,5,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=323
+,,,,,,,,,,3,2.24,New Orleans Hornets,shot,,,Ibaka,,,,,,,Mason Jr.,,,,missed,,Jump Shot,,,88-60,5,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=323
 ,,,,,,,,,,3,2.22,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,88-60,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=324
 ,,,,,,,,,,3,2.19,New Orleans Hornets,shot,Anderson,,,,,,,,,Roberts,3,,,made,,3PT Jump Shot,,,88-63,26,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=325
 ,,,,,,,,,,3,2.05,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,3PT Jump Shot,,,88-63,27,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=326
@@ -289,8 +289,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.38,New Orleans Hornets,shot,,,,,,,,,,Rivers,,,,missed,,3PT Jump Shot,,,92-67,26,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=341
 ,,,,,,,,,,3,0.37,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,92-67,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=342
 ,,,,,,,,,,3,0.32,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Jump Shot,,,94-67,3,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=343
-,,,,,,,,,,3,0.19,New Orleans Hornets,turnover,,,,,,,,,,Roberts,,,Lost Ball,,,,,,94-67,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=344
-,,,,,,,,,,3,0.00,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,94-67,4,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=346
+,,,,,,,,,,3,0.19,New Orleans Hornets,turnover,,,,,,,,,,Roberts,,,Lost Ball,,Collison,,,,94-67,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=344
+,,,,,,,,,,3,0.00,Oklahoma City Thunder,shot,,,Smith,,,,,,,Durant,,,,missed,,Jump Shot,,,94-67,4,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=346
 ,,,,,,,,,,3,0.00,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,94-67,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=347
 ,,,,,,,,,,3,0.00,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,3PT Jump Shot,,,94-67,55,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=348
 ,,,,,,,,,,3,0.00,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,94-67,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=350
@@ -313,19 +313,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.07,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,3PT Jump Shot,,,98-74,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=371
 ,,,,,,,,,,4,9.07,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,98-74,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=372
 ,,,,,,,,,,4,9.07,New Orleans Hornets,foul,,,,,,,,,,Smith,,,,,,Loose ball,,,98-74,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=373
-,,,,,,,,,,4,9.01,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Lost Ball,,,,,,98-74,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=374
+,,,,,,,,,,4,9.01,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Lost Ball,,Rivers,,,,98-74,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=374
 ,,,,,,,,,,4,9.00,Oklahoma City Thunder,foul,,,,,,,,,,Maynor,,,,,,Personal,,,98-74,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=375
 ,,,,,,,,,,4,9.00,New Orleans Hornets,substitute,,,,Aminu,,Rivers,,,,,,,,,,,,,98-74,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=376
 ,,,,,,,,,,4,8.46,New Orleans Hornets,shot,Roberts,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,98-77,27,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=377
 ,,,,,,,,,,4,8.22,Oklahoma City Thunder,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,98-77,17,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=378
 ,,,,,,,,,,4,8.21,New Orleans Hornets,rebound,,,,,,,,,,Miller,,,,,,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=379
 ,,,,,,,,,,4,8.19,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Personal,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=380
-,,,,,,,,,,4,8.07,New Orleans Hornets,turnover,,,,,,,,,,Aminu,,,Bad Pass,,,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=384
-,,,,,,,,,,4,8.02,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Bad Pass,,,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=385
+,,,,,,,,,,4,8.07,New Orleans Hornets,turnover,,,,,,,,,,Aminu,,,Bad Pass,,Thabeet,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=384
+,,,,,,,,,,4,8.02,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Bad Pass,,Roberts,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=385
 ,,,,,,,,,,4,8.02,Oklahoma City Thunder,violation,,,,,,,,,,Jones,,,Kicked Ball,,,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=386
 ,,,,,,,,,,4,7.45,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,98-77,13,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=387
 ,,,,,,,,,,4,7.44,Oklahoma City Thunder,rebound,,,,,,,,,,Jones,,,,,,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=388
-,,,,,,,,,,4,7.38,Oklahoma City Thunder,turnover,,,,,,,,,,Collison,,,Lost Ball,,,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=389
+,,,,,,,,,,4,7.38,Oklahoma City Thunder,turnover,,,,,,,,,,Collison,,,Lost Ball,,Roberts,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=389
 ,,,,,,,,,,4,7.34,Oklahoma City Thunder,foul,,,,,,,,,,Jones,,,,,,Shooting,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=390
 ,,,,,,,,,,4,7.34,New Orleans Hornets,free throw,,,,,,,1,,2,Smith,,,foul,missed,,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=391
 ,,,,,,,,,,4,7.34,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,98-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=392
@@ -338,7 +338,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.43,New Orleans Hornets,substitute,,,,Lopez,,Smith,,,,,,,,,,,,,101-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=400
 ,,,,,,,,,,4,6.43,Oklahoma City Thunder,substitute,,,,Jackson,,Collison,,,,,,,,,,,,,101-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=401
 ,,,,,,,,,,4,6.43,New Orleans Hornets,substitute,,,,Davis,,Anderson,,,,,,,,,,,,,101-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=402
-,,,,,,,,,,4,6.24,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Lost Ball,,,,,,101-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=403
+,,,,,,,,,,4,6.24,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Lost Ball,,Aminu,,,,101-77,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=403
 ,,,,,,,,,,4,6.18,New Orleans Hornets,shot,Aminu,,,,,,,,,Roberts,2,,,made,,Layup,,,101-79,2,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=404
 ,,,,,,,,,,4,6.02,Oklahoma City Thunder,turnover,,,,,,,,,,Jones,,,Traveling,,,,,,101-79,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=405
 ,,,,,,,,,,4,5.49,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Shooting,,,101-79,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=406
@@ -357,7 +357,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.09,New Orleans Hornets,turnover,,,,,,,,,,Aminu Out of Bounds,,,Lost Ball,,,,,,101-80,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=426
 ,,,,,,,,,,4,4.49,Oklahoma City Thunder,shot,Martin,,,,,,,,,Jones,2,,,made,,Jump Shot,,,103-80,18,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=427
 ,,,,,,,,,,4,4.31,New Orleans Hornets,substitute,,,,Thomas,,Aminu,,,,,,,,,,,,,103-80,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=429
-,,,,,,,,,,4,4.25,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,Layup,,,103-80,3,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=430
+,,,,,,,,,,4,4.25,New Orleans Hornets,shot,,,Thabeet,,,,,,,Roberts,,,,missed,,Layup,,,103-80,3,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=430
 ,,,,,,,,,,4,4.21,New Orleans Hornets,rebound,,,,,,,,,,Thomas,,,,,,,,,103-80,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=431
 ,,,,,,,,,,4,4.18,New Orleans Hornets,shot,,,,,,,,,,Thomas,,,,missed,,Layup,,,103-80,2,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=432
 ,,,,,,,,,,4,4.17,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,103-80,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=433
@@ -393,7 +393,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.14,New Orleans Hornets,free throw,,,,,,,1,,2,Thomas,,,foul,missed,,,,,110-90,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=476
 ,,,,,,,,,,4,1.14,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,110-90,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=477
 ,,,,,,,,,,4,1.14,New Orleans Hornets,free throw,,,,,,,2,,2,Thomas,1,,foul,made,,,,,110-91,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=478
-,,,,,,,,,,4,0.51,Oklahoma City Thunder,shot,,,,,,,,,,Lamb,,,,missed,,Jump Shot,,,110-91,18,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=481
+,,,,,,,,,,4,0.51,Oklahoma City Thunder,shot,,,Lopez,,,,,,,Lamb,,,,missed,,Jump Shot,,,110-91,18,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=481
 ,,,,,,,,,,4,0.49,New Orleans Hornets,rebound,,,,,,,,,,Rivers,,,,,,,,,110-91,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=482
 ,,,,,,,,,,4,0.42,New Orleans Hornets,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,110-91,5,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=483
 ,,,,,,,,,,4,0.41,New Orleans Hornets,rebound,,,,,,,,,,Thomas,,,,,,,,,110-91,,http://stats.nba.com/cvp.html?GameID=0021200125&GameEventID=484

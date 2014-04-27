@@ -12,10 +12,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.17,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Jump Bank Shot,,,3-5,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=13
 ,,,,,,,,,,1,10.06,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,3-5,18,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=14
 ,,,,,,,,,,1,10.05,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,3-5,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=15
-,,,,,,,,,,1,10.00,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,,,,,3-5,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=16
+,,,,,,,,,,1,10.00,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,Dragic,,,,3-5,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=16
 ,,,,,,,,,,1,9.47,Phoenix Suns,foul,,,,,,,,,,,,,,,,,,,3-5,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=17
 ,,,,,,,,,,1,9.47,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Foul,,,,,,3-5,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=18
-,,,,,,,,,,1,9.34,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,3-5,4,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=19
+,,,,,,,,,,1,9.34,Utah Jazz,shot,,,Gortat,,,,,,,Hayward,,,,missed,,Jump Shot,,,3-5,4,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=19
 ,,,,,,,,,,1,9.32,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,3-5,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=21
 ,,,,,,,,,,1,9.32,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Tip Shot,,,3-5,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=20
 ,,,,,,,,,,1,9.30,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,3-5,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=23
@@ -35,7 +35,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.16,Utah Jazz,shot,Williams,,,,,,,,,Jefferson,2,,,made,,Jump Shot,,,5-13,19,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=36
 ,,,,,,,,,,1,7.09,Utah Jazz,jumpball,,Dragic,,,Tinsley,,,,,,,,,,,,,,5-13,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=37
 ,,,,,,,,,,1,6.48,Phoenix Suns,shot,Beasley,,,,,,,,,Scola,2,,,made,,Jump Shot,,,7-13,4,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=38
-,,,,,,,,,,1,6.36,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,7-13,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=39
+,,,,,,,,,,1,6.36,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Gortat,,,,7-13,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=39
 ,,,,,,,,,,1,6.36,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Personal,,,7-13,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=40
 ,,,,,,,,,,1,6.23,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Bank Shot,,,7-13,8,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=41
 ,,,,,,,,,,1,6.22,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,7-13,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=42
@@ -68,7 +68,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.14,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,11-22,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=73
 ,,,,,,,,,,1,4.02,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Turnaround Jump Shot,,,11-22,10,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=74
 ,,,,,,,,,,1,4.00,Utah Jazz,rebound,,,,,,,,,,Tinsley,,,,,,,,,11-22,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=75
-,,,,,,,,,,1,3.47,Utah Jazz,turnover,,,,,,,,,,Favors,,,Bad Pass,,,,,,11-22,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=76
+,,,,,,,,,,1,3.47,Utah Jazz,turnover,,,,,,,,,,Favors,,,Bad Pass,,Dragic,,,,11-22,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=76
 ,,,,,,,,,,1,3.34,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Running Jump Shot,,,11-22,7,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=77
 ,,,,,,,,,,1,3.33,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,11-22,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=78
 ,,,,,,,,,,1,3.20,Phoenix Suns,foul,,,,,,,,,,Gortat,,,,,,Personal,,,11-22,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=79
@@ -82,11 +82,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.34,Utah Jazz,substitute,,,,Kanter,,Jefferson,,,,,,,,,,,,,13-23,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=88
 ,,,,,,,,,,1,2.34,Utah Jazz,substitute,,,,Foye,,Hayward,,,,,,,,,,,,,13-23,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=89
 ,,,,,,,,,,1,2.21,Utah Jazz,shot,,,,,,,,,,Kanter,2,,,made,,Driving Layup,,,13-25,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=90
-,,,,,,,,,,1,2.09,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,13-25,4,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=91
+,,,,,,,,,,1,2.09,Phoenix Suns,shot,,,Favors,,,,,,,Gortat,,,,missed,,Jump Shot,,,13-25,4,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=91
 ,,,,,,,,,,1,2.06,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,13-25,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=92
 ,,,,,,,,,,1,1.47,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Driving Layup,,,13-25,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=93
 ,,,,,,,,,,1,1.47,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,13-25,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=94
-,,,,,,,,,,1,1.35,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Layup,,,13-25,1,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=95
+,,,,,,,,,,1,1.35,Phoenix Suns,shot,,,Williams,,,,,,,Gortat,,,,missed,,Layup,,,13-25,1,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=95
 ,,,,,,,,,,1,1.33,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,13-25,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=96
 ,,,,,,,,,,1,1.27,Utah Jazz,shot,Tinsley,,,,,,,,,Kanter,2,,,made,,Slam Dunk,,,13-27,1,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=97
 ,,,,,,,,,,1,1.04,Phoenix Suns,shot,Dragic,,,,,,,,,Tucker,2,,,made,,Jump Shot,,,15-27,20,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=98
@@ -123,7 +123,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.18,Phoenix Suns,free throw,,,,,,,1,,1,Scola,1,,foul,made,,,,,22-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=135
 ,,,,,,,,,,2,10.01,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,22-35,24,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=137
 ,,,,,,,,,,2,10.00,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,22-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=138
-,,,,,,,,,,2,9.52,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,22-35,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=139
+,,,,,,,,,,2,9.52,Phoenix Suns,shot,,,Favors,,,,,,,Brown,,,,missed,,Jump Shot,,,22-35,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=139
 ,,,,,,,,,,2,9.52,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,22-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=140
 ,,,,,,,,,,2,9.52,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Inbound,,,22-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=141
 ,,,,,,,,,,2,9.52,Phoenix Suns,free throw,,,,,,,1,,2,Telfair,1,,foul,made,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=142
@@ -134,13 +134,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.44,Phoenix Suns,foul,,,,,,,,,,Telfair,,,,,,Personal,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=149
 ,,,,,,,,,,2,9.36,Utah Jazz,foul,,,,,,,,,,,,,,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=150
 ,,,,,,,,,,2,9.36,Utah Jazz,turnover,,,,,,,,,,Favors,,,Foul,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=151
-,,,,,,,,,,2,9.23,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Dunk,,,23-35,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=152
+,,,,,,,,,,2,9.23,Phoenix Suns,shot,,,Favors,,,,,,,Gortat,,,,missed,,Dunk,,,23-35,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=152
 ,,,,,,,,,,2,9.22,Utah Jazz,rebound,,,,,,,,,,Burks,,,,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=153
-,,,,,,,,,,2,9.19,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Jump Shot,,,23-35,5,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=154
+,,,,,,,,,,2,9.19,Utah Jazz,shot,,,Dudley,,,,,,,Foye,,,,missed,,Jump Shot,,,23-35,5,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=154
 ,,,,,,,,,,2,9.19,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=155
 ,,,,,,,,,,2,9.16,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Jump Shot,,,23-35,19,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=156
 ,,,,,,,,,,2,9.14,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=157
-,,,,,,,,,,2,9.12,Utah Jazz,turnover,,,,,,,,,,Favors,,,Lost Ball,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=158
+,,,,,,,,,,2,9.12,Utah Jazz,turnover,,,,,,,,,,Favors,,,Lost Ball,,Scola,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=158
 ,,,,,,,,,,2,9.05,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,23-35,11,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=159
 ,,,,,,,,,,2,9.04,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=160
 ,,,,,,,,,,2,8.56,Utah Jazz,foul,,,,,,,,,,,,,,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=162
@@ -156,7 +156,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.52,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,3PT Jump Shot,,,28-37,25,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=175
 ,,,,,,,,,,2,7.51,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,28-37,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=176
 ,,,,,,,,,,2,7.51,Phoenix Suns,foul,,,,,,,,,,Telfair,,,,,,Loose ball,,,28-37,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=177
-,,,,,,,,,,2,7.41,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,28-37,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=178
+,,,,,,,,,,2,7.41,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Scola,,,,28-37,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=178
 ,,,,,,,,,,2,7.35,Phoenix Suns,shot,Telfair,,,,,,,,,Dudley,2,,,made,,Layup,,,30-37,1,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=179
 ,,,,,,,,,,2,7.18,Utah Jazz,shot,Tinsley,,,,,,,,,Hayward,2,,,made,,Layup,,,30-39,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=180
 ,,,,,,,,,,2,7.07,Phoenix Suns,shot,,,,,,,,,,Telfair,2,,,made,,Jump Shot,,,32-39,18,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=181
@@ -201,8 +201,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.51,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=228
 ,,,,,,,,,,2,2.46,Phoenix Suns,turnover,,,,,,,,,,Dudley Poss,,,Lost Ball,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=229
 ,,,,,,,,,,2,2.46,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=230
-,,,,,,,,,,2,2.34,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=231
-,,,,,,,,,,2,2.17,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Layup,,,38-48,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=232
+,,,,,,,,,,2,2.34,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,Dudley,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=231
+,,,,,,,,,,2,2.17,Phoenix Suns,shot,,,Millsap,,,,,,,Telfair,,,,missed,,Layup,,,38-48,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=232
 ,,,,,,,,,,2,2.16,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=233
 ,,,,,,,,,,2,2.07,Utah Jazz,foul,,,,,,,,,,,,,,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=234
 ,,,,,,,,,,2,2.07,Utah Jazz,turnover,,,,,,,,,,Williams,,,Foul,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=235
@@ -213,7 +213,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.53,Phoenix Suns,free throw,,,,,,,1,,2,Gortat,1,,foul,made,,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=240
 ,,,,,,,,,,2,1.53,Phoenix Suns,free throw,,,,,,,2,,2,Gortat,,,foul,missed,,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=242
 ,,,,,,,,,,2,1.51,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=244
-,,,,,,,,,,2,1.34,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=245
+,,,,,,,,,,2,1.34,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,Telfair,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=245
 ,,,,,,,,,,2,1.29,Phoenix Suns,shot,Telfair,,,,,,,,,Dragic,2,,,made,,Driving Layup,,,41-48,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=246
 ,,,,,,,,,,2,1.12,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,3PT Jump Shot,,,41-48,25,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=247
 ,,,,,,,,,,2,1.11,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=248
@@ -223,7 +223,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.33,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Floating Jump Shot,,,43-50,9,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=252
 ,,,,,,,,,,2,0.23,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,3PT Jump Shot,,,43-50,25,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=253
 ,,,,,,,,,,2,0.22,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,43-50,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=254
-,,,,,,,,,,2,0.02,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Layup,,,43-50,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=255
+,,,,,,,,,,2,0.02,Utah Jazz,shot,,,Dudley,,,,,,,Hayward,,,,missed,,Layup,,,43-50,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=255
 ,,,,,,,,,,2,0.02,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,43-50,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=256
 ,,,,,,,,,,2,0.00,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Layup,,,43-50,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=257
 ,,,,,,,,,,2,0.00,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,43-50,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=258
@@ -253,7 +253,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.12,Utah Jazz,shot,,,,,,,,,,Millsap,2,,,made,,Fadeaway Jumper,,,48-57,17,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=288
 ,,,,,,,,,,3,8.58,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,48-57,5,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=289
 ,,,,,,,,,,3,8.56,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,48-57,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=290
-,,,,,,,,,,3,8.56,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,48-57,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=291
+,,,,,,,,,,3,8.56,Phoenix Suns,shot,,,Jefferson,,,,,,,Scola,,,,missed,,Layup,,,48-57,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=291
 ,,,,,,,,,,3,8.56,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,48-57,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=292
 ,,,,,,,,,,3,8.56,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Kicked Ball Violation,,,,,,48-57,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=314
 ,,,,,,,,,,3,8.40,Utah Jazz,shot,,,,,,,,,,Williams,2,,,made,,Layup,,,48-59,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=293
@@ -289,7 +289,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.40,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,51-66,19,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=330
 ,,,,,,,,,,3,5.38,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,51-66,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=331
 ,,,,,,,,,,3,5.31,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Jump Shot,,,53-66,21,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=332
-,,,,,,,,,,3,5.11,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,,,,,53-66,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=333
+,,,,,,,,,,3,5.11,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,Brown,,,,53-66,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=333
 ,,,,,,,,,,3,5.03,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,53-66,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=334
 ,,,,,,,,,,3,5.02,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,53-66,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=335
 ,,,,,,,,,,3,4.54,Utah Jazz,shot,,,,,,,,,,Hayward,2,,,made,,Layup,,,53-68,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=336
@@ -337,7 +337,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.47,Utah Jazz,rebound,,,,,,,,,,Foye,,,,,,,,,59-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=384
 ,,,,,,,,,,3,0.37,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,59-77,25,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=385
 ,,,,,,,,,,3,0.36,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,59-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=386
-,,,,,,,,,,3,0.32,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,,,,,59-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=387
+,,,,,,,,,,3,0.32,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,Foye,,,,59-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=387
 ,,,,,,,,,,3,0.21,Utah Jazz,turnover,,,,,,,,,,Foye,,,Bad Pass,,,,,,59-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=388
 ,,,,,,,,,,3,0.03,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Jump Shot,,,59-77,5,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=389
 ,,,,,,,,,,3,0.03,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,59-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=391
@@ -349,7 +349,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.22,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Traveling,,,,,,64-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=400
 ,,,,,,,,,,4,11.09,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Hook Shot,,,64-77,6,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=401
 ,,,,,,,,,,4,11.07,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,64-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=402
-,,,,,,,,,,4,10.58,Utah Jazz,turnover,,,,,,,,,,Burks,,,Bad Pass,,,,,,64-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=403
+,,,,,,,,,,4,10.58,Utah Jazz,turnover,,,,,,,,,,Burks,,,Bad Pass,,Telfair,,,,64-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=403
 ,,,,,,,,,,4,10.53,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Jump Shot,,,64-77,5,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=404
 ,,,,,,,,,,4,10.52,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,64-77,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=405
 ,,,,,,,,,,4,10.48,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,3PT Jump Shot,,,64-77,24,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=406
@@ -368,7 +368,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.35,Phoenix Suns,shot,Dragic,,,,,,,,,Telfair,2,,,made,,Driving Layup,,,70-79,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=420
 ,,,,,,,,,,4,9.34,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=421
 ,,,,,,,,,,4,9.34,Utah Jazz,substitute,,,,Hayward,,Burks,,,,,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=423
-,,,,,,,,,,4,9.10,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=424
+,,,,,,,,,,4,9.10,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,Telfair,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=424
 ,,,,,,,,,,4,8.56,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Jump Shot,,,70-79,21,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=425
 ,,,,,,,,,,4,8.54,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=426
 ,,,,,,,,,,4,8.54,Phoenix Suns,foul,,,,,,,,,,Telfair,,,,,,Loose ball,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=427
@@ -381,7 +381,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.10,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=434
 ,,,,,,,,,,4,7.47,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,70-79,25,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=435
 ,,,,,,,,,,4,7.45,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=436
-,,,,,,,,,,4,7.40,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,70-79,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=437
+,,,,,,,,,,4,7.40,Utah Jazz,shot,,,Dragic,,,,,,,Hayward,,,,missed,,Jump Shot,,,70-79,3,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=437
 ,,,,,,,,,,4,7.38,Phoenix Suns,rebound,,,,,,,,,,Telfair,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=438
 ,,,,,,,,,,4,7.33,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Traveling,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=439
 ,,,,,,,,,,4,7.10,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,70-79,25,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=440
@@ -394,16 +394,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.35,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=447
 ,,,,,,,,,,4,6.18,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,70-79,17,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=448
 ,,,,,,,,,,4,6.17,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=449
-,,,,,,,,,,4,5.57,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=450
+,,,,,,,,,,4,5.57,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,Dudley,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=450
 ,,,,,,,,,,4,5.52,Phoenix Suns,shot,,,,,,,,,,Dudley,2,,,made,,Slam Dunk,,,72-79,1,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=451
 ,,,,,,,,,,4,5.44,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=452
-,,,,,,,,,,4,5.38,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=453
+,,,,,,,,,,4,5.38,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,Telfair,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=453
 ,,,,,,,,,,4,5.26,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Driving Layup,,,72-79,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=454
 ,,,,,,,,,,4,5.24,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=456
 ,,,,,,,,,,4,5.24,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Putback Dunk,,,74-79,1,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=455
 ,,,,,,,,,,4,5.05,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,3PT Jump Shot,,,74-79,24,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=457
 ,,,,,,,,,,4,5.03,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,74-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=458
-,,,,,,,,,,4,4.46,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,74-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=459
+,,,,,,,,,,4,4.46,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Millsap,,,,74-79,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=459
 ,,,,,,,,,,4,4.29,Utah Jazz,shot,,,,,,,,,,Millsap,2,,,made,,Jump Shot,,,74-81,20,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=460
 ,,,,,,,,,,4,4.28,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=461
 ,,,,,,,,,,4,4.07,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,74-81,18,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=462
@@ -423,7 +423,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.50,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Turnaround Jump Shot,,,79-88,10,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=477
 ,,,,,,,,,,4,1.38,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Jump Shot,,,79-88,21,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=478
 ,,,,,,,,,,4,1.37,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,79-88,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=479
-,,,,,,,,,,4,1.25,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,79-88,11,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=480
+,,,,,,,,,,4,1.25,Phoenix Suns,shot,,,Jefferson,,,,,,,Scola,,,,missed,,Jump Shot,,,79-88,11,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=480
 ,,,,,,,,,,4,1.23,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,79-88,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=481
 ,,,,,,,,,,4,1.10,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,79-88,25,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=482
 ,,,,,,,,,,4,1.09,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,79-88,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=483
@@ -432,7 +432,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.00,Phoenix Suns,shot,,,,,,,,,,Dudley,2,,,made,,Jump Shot,,,81-90,23,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=486
 ,,,,,,,,,,4,0.40,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Turnaround Hook Shot,,,81-92,8,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=487
 ,,,,,,,,,,4,0.40,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,81-92,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=488
-,,,,,,,,,,4,0.34,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,81-92,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=490
+,,,,,,,,,,4,0.34,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Jefferson,,,,81-92,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=490
 ,,,,,,,,,,4,0.13,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,81-92,20,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=491
 ,,,,,,,,,,4,0.13,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,81-92,,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=493
 ,,,,,,,,,,4,0.13,Utah Jazz,shot,,,,,,,,,,Millsap,2,,,made,,Layup,,,81-94,2,http://stats.nba.com/cvp.html?GameID=0021200087&GameEventID=492

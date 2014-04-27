@@ -5,7 +5,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.08,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,3PT Jump Shot,,,0-2,25,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=5
 ,,,,,,,,,,1,11.07,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=6
 ,,,,,,,,,,1,10.59,Miami Heat,shot,James,,,,,,,,,Chalmers,3,,,made,,3PT Jump Shot,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=7
-,,,,,,,,,,1,10.49,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=8
+,,,,,,,,,,1,10.49,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,James,,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=8
 ,,,,,,,,,,1,10.45,Miami Heat,shot,Chalmers,,,,,,,,,James,2,,,made,,Running Dunk,,,0-7,1,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=9
 ,,,,,,,,,,1,10.29,Oklahoma City Thunder,foul,,,,,,,,,,,,,,,,,,,0-7,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=10
 ,,,,,,,,,,1,10.29,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Foul,,,,,,0-7,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=11
@@ -24,8 +24,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.24,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,2-11,14,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=28
 ,,,,,,,,,,1,8.23,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=29
 ,,,,,,,,,,1,8.20,Miami Heat,shot,,,,,,,,,,Chalmers,2,,,made,,Driving Layup,,,2-13,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=30
-,,,,,,,,,,1,8.01,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,2-13,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=31
-,,,,,,,,,,1,7.57,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,2-13,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=32
+,,,,,,,,,,1,8.01,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,James,,,,2-13,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=31
+,,,,,,,,,,1,7.57,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,Perkins,,,,2-13,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=32
 ,,,,,,,,,,1,7.57,Miami Heat,foul,,,,,,,,,,James,,,,,,Shooting,,,2-13,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=33
 ,,,,,,,,,,1,7.57,Oklahoma City Thunder,free throw,,,,,,,1,,2,Ibaka,,,foul,missed,,,,,2-13,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=34
 ,,,,,,,,,,1,7.57,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,2-13,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=35
@@ -34,7 +34,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.29,Oklahoma City Thunder,shot,Durant,,,,,,,,,Perkins,2,,,made,,Layup,,,5-15,2,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=39
 ,,,,,,,,,,1,7.10,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,5-15,25,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=40
 ,,,,,,,,,,1,7.09,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,5-15,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=41
-,,,,,,,,,,1,6.59,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,5-15,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=42
+,,,,,,,,,,1,6.59,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Sefolosha,,,,5-15,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=42
 ,,,,,,,,,,1,6.50,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,5-15,9,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=43
 ,,,,,,,,,,1,6.49,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,5-15,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=44
 ,,,,,,,,,,1,6.48,Miami Heat,foul,,,,,,,,,,Haslem,,,,,,Personal,,,5-15,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=45
@@ -84,7 +84,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.54,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,Jump Shot,,,16-27,21,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=95
 ,,,,,,,,,,1,1.53,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,16-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=96
 ,,,,,,,,,,1,1.33,Miami Heat,substitute,,,,Cole,,Chalmers,,,,,,,,,,,,,16-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=98
-,,,,,,,,,,1,1.30,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,,,,,16-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=99
+,,,,,,,,,,1,1.30,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,Anthony,,,,16-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=99
 ,,,,,,,,,,1,1.24,Oklahoma City Thunder,foul,,,,,,,,,,Sefolosha,,,,,,Personal,,,16-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=100
 ,,,,,,,,,,1,1.06,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,16-27,24,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=101
 ,,,,,,,,,,1,1.05,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,16-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=102
@@ -100,7 +100,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.11,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=115
 ,,,,,,,,,,1,0.11,Miami Heat,foul,,,,,,,,,,James,,,,,,Technical,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=116
 ,,,,,,,,,,1,0.11,Oklahoma City Thunder,free throw,,,,,,,,,,Martin,1,,Technical,made,,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=117
-,,,,,,,,,,1,0.01,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Driving Jump Shot,,,22-27,4,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=120
+,,,,,,,,,,1,0.01,Oklahoma City Thunder,shot,,,Anthony,,,,,,,Westbrook,,,,missed,,Driving Jump Shot,,,22-27,4,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=120
 ,,,,,,,,,,1,0.00,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=121
 ,,,,,,,,,,1,0.00,Miami Heat,foul,,,,,,,,,,Cole,,,,,,Shooting,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=122
 ,,,,,,,,,,1,0.00,Oklahoma City Thunder,free throw,,,,,,,1,,2,Collison,1,,foul,made,,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=123
@@ -169,7 +169,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.53,Miami Heat,turnover,,,,,,,,,,Bosh,,,Foul,,,,,,39-41,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=203
 ,,,,,,,,,,2,4.53,Miami Heat,substitute,,,,Haslem,,Bosh,,,,,,,,,,,,,39-41,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=204
 ,,,,,,,,,,2,4.53,Oklahoma City Thunder,substitute,,,,Perkins,,Sefolosha,,,,,,,,,,,,,39-41,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=205
-,,,,,,,,,,2,4.40,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,,,,,39-41,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=206
+,,,,,,,,,,2,4.40,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,Chalmers,,,,39-41,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=206
 ,,,,,,,,,,2,4.29,Miami Heat,shot,,,,,,,,,,Miller,,,,missed,,3PT Jump Shot,,,39-41,25,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=207
 ,,,,,,,,,,2,4.28,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,39-41,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=208
 ,,,,,,,,,,2,4.27,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Putback Dunk,,,39-43,1,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=209
@@ -181,11 +181,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.17,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Foul,,,,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=217
 ,,,,,,,,,,2,3.17,Oklahoma City Thunder,substitute,,,,Sefolosha,,Durant,,,,,,,,,,,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=218
 ,,,,,,,,,,2,2.59,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Shot,,,41-47,18,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=219
-,,,,,,,,,,2,2.47,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,,,,,41-47,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=220
+,,,,,,,,,,2,2.47,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,Haslem,,,,41-47,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=220
 ,,,,,,,,,,2,2.40,Miami Heat,shot,Wade,,,,,,,,,Haslem,2,,,made,,Dunk,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=221
 ,,,,,,,,,,2,2.31,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=222
 ,,,,,,,,,,2,2.17,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Turnaround Jump Shot,,,43-49,12,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=227
-,,,,,,,,,,2,1.58,Miami Heat,turnover,,,,,,,,,,Battier,,,Bad Pass,,,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=228
+,,,,,,,,,,2,1.58,Miami Heat,turnover,,,,,,,,,,Battier,,,Bad Pass,,Sefolosha,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=228
 ,,,,,,,,,,2,1.53,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Shooting,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=229
 ,,,,,,,,,,2,1.53,Oklahoma City Thunder,free throw,,,,,,,1,,2,Martin,,,foul,missed,,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=230
 ,,,,,,,,,,2,1.53,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=231
@@ -203,7 +203,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.48,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,46-52,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=246
 ,,,,,,,,,,2,0.47,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,2,,,made,,Layup,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=247
 ,,,,,,,,,,2,0.24,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Shot,,,48-54,22,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=248
-,,,,,,,,,,2,0.02,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,48-54,13,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=249
+,,,,,,,,,,2,0.02,Oklahoma City Thunder,shot,,,James,,,,,,,Perkins,,,,missed,,Jump Shot,,,48-54,13,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=249
 ,,,,,,,,,,2,0.01,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,48-54,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=250
 ,,,,,,,,,,2,0.00,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,3PT Jump Shot,,,48-54,42,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=254
 ,,,,,,,,,,2,0.00,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,48-54,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=255
@@ -225,10 +225,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.06,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=276
 ,,,,,,,,,,3,8.55,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,3PT Jump Shot,,,52-56,26,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=277
 ,,,,,,,,,,3,8.54,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=278
-,,,,,,,,,,3,8.50,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=279
+,,,,,,,,,,3,8.50,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,Westbrook,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=279
 ,,,,,,,,,,3,8.49,Oklahoma City Thunder,foul,,,,,,,,,,,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=280
 ,,,,,,,,,,3,8.49,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Foul,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=281
-,,,,,,,,,,3,8.23,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,52-56,15,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=282
+,,,,,,,,,,3,8.23,Miami Heat,shot,,,Ibaka,,,,,,,Bosh,,,,missed,,Jump Shot,,,52-56,15,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=282
 ,,,,,,,,,,3,8.22,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=283
 ,,,,,,,,,,3,8.16,Miami Heat,foul,,,,,,,,,,Chalmers,,,,,,Shooting,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=284
 ,,,,,,,,,,3,8.16,Oklahoma City Thunder,free throw,,,,,,,1,,2,Westbrook,,,foul,missed,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=285
@@ -280,7 +280,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.29,Miami Heat,substitute,,,,Allen,,Wade,,,,,,,,,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=342
 ,,,,,,,,,,3,3.19,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,3PT Jump Shot,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=344
 ,,,,,,,,,,3,3.18,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=345
-,,,,,,,,,,3,3.08,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Layup,,,65-65,1,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=346
+,,,,,,,,,,3,3.08,Oklahoma City Thunder,shot,,,Anthony,,,,,,,Durant,,,,missed,,Layup,,,65-65,1,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=346
 ,,,,,,,,,,3,3.07,Miami Heat,rebound,,,,,,,,,,Anthony,,,,,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=347
 ,,,,,,,,,,3,2.52,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Layup,,,65-65,2,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=348
 ,,,,,,,,,,3,2.51,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=349
@@ -323,12 +323,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.02,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,72-74,16,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=399
 ,,,,,,,,,,3,0.00,Miami Heat,rebound,,,,,,,,,,Anthony,,,,,,,,,72-74,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=400
 ,,,,,,,,,,4,11.47,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Traveling,,,,,,72-74,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=405
-,,,,,,,,,,4,11.34,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,,,,,72-74,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=406
+,,,,,,,,,,4,11.34,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,Martin,,,,72-74,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=406
 ,,,,,,,,,,4,11.31,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,Driving Layup,,,72-74,2,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=408
 ,,,,,,,,,,4,11.29,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,72-74,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=409
 ,,,,,,,,,,4,11.12,Miami Heat,shot,,,,,,,,,,Wade,3,,,made,,3PT Jump Shot,,,72-77,25,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=411
-,,,,,,,,,,4,11.04,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,,,,,72-77,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=412
-,,,,,,,,,,4,10.54,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,,,,,72-77,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=413
+,,,,,,,,,,4,11.04,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,Anthony,,,,72-77,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=412
+,,,,,,,,,,4,10.54,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,Westbrook,,,,72-77,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=413
 ,,,,,,,,,,4,10.52,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Shooting,,,72-77,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=414
 ,,,,,,,,,,4,10.52,Oklahoma City Thunder,free throw,,,,,,,1,,2,Westbrook,1,,foul,made,,,,,73-77,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=417
 ,,,,,,,,,,4,10.52,Oklahoma City Thunder,substitute,,,,Durant,,Ibaka,,,,,,,,,,,,,73-77,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=420
@@ -367,7 +367,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.43,Miami Heat,shot,Chalmers,,,,,,,,,Wade,2,,,made,,Alley Oop Layup,,,88-92,1,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=466
 ,,,,,,,,,,4,5.24,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Turnaround Jump Shot,,,88-92,16,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=467
 ,,,,,,,,,,4,5.23,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=468
-,,,,,,,,,,4,5.02,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=469
+,,,,,,,,,,4,5.02,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Collison,,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=469
 ,,,,,,,,,,4,4.54,Miami Heat,foul,,,,,,,,,,Allen,,,,,,Shooting,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=470
 ,,,,,,,,,,4,4.54,Oklahoma City Thunder,substitute,,,,Perkins,,Collison,,,,,,,,,,,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=474
 ,,,,,,,,,,4,4.54,Oklahoma City Thunder,free throw,,,,,,,1,,2,Martin,1,,foul,made,,,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=476
@@ -378,7 +378,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.59,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Bank Shot,,,90-94,9,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=483
 ,,,,,,,,,,4,3.58,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,90-94,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=484
 ,,,,,,,,,,4,3.50,Miami Heat,foul,,,,,,,,,,Wade,,,,,,Personal,,,90-94,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=487
-,,,,,,,,,,4,3.43,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Running Jump Shot,,,90-94,9,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=488
+,,,,,,,,,,4,3.43,Oklahoma City Thunder,shot,,,Chalmers,,,,,,,Westbrook,,,,missed,,Running Jump Shot,,,90-94,9,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=488
 ,,,,,,,,,,4,3.42,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,90-94,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=497
 ,,,,,,,,,,4,3.24,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Shooting,,,90-94,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=489
 ,,,,,,,,,,4,3.24,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,90-95,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=490
@@ -404,7 +404,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.53,Miami Heat,substitute,,,,Battier,,Allen,,,,,,,,,,,,,92-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=521
 ,,,,,,,,,,4,1.31,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,92-96,25,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=523
 ,,,,,,,,,,4,1.30,Oklahoma City Thunder,rebound,,,,,,,,,,Martin,,,,,,,,,92-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=524
-,,,,,,,,,,4,1.21,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,Layup,,,92-96,1,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=525
+,,,,,,,,,,4,1.21,Oklahoma City Thunder,shot,,,Battier,,,,,,,Martin,,,,missed,,Layup,,,92-96,1,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=525
 ,,,,,,,,,,4,1.20,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,92-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=526
 ,,,,,,,,,,4,1.11,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Driving Finger Roll Layup,,,92-96,1,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=527
 ,,,,,,,,,,4,1.10,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,92-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=529
@@ -412,7 +412,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.08,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,,,foul,missed,,,,,92-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=531
 ,,,,,,,,,,4,1.08,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,92-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=532
 ,,,,,,,,,,4,1.08,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,93-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=533
-,,,,,,,,,,4,0.50,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,,,,,93-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=536
+,,,,,,,,,,4,0.50,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,Perkins,,,,93-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=536
 ,,,,,,,,,,4,0.44,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Driving Dunk,,,95-96,1,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=537
 ,,,,,,,,,,4,0.44,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,95-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=540
 ,,,,,,,,,,4,0.44,Miami Heat,substitute,,,,Allen,,Battier,,,,,,,,,,,,,95-96,,http://stats.nba.com/cvp.html?GameID=0021200407&GameEventID=542

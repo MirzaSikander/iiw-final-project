@@ -10,7 +10,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.21,Indiana Pacers,free throw,,,,,,,1,,2,West,1,,foul,made,,,,,5-2,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=11
 ,,,,,,,,,,1,10.21,Indiana Pacers,free throw,,,,,,,2,,2,West,1,,foul,made,,,,,6-2,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=13
 ,,,,,,,,,,1,10.06,Atlanta Hawks,shot,Harris,,,,,,,,,Horford,2,,,made,,Jump Shot,,,6-4,17,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=15
-,,,,,,,,,,1,9.52,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=16
+,,,,,,,,,,1,9.52,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Horford,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=16
 ,,,,,,,,,,1,9.35,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Running Jump Shot,,,6-4,10,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=17
 ,,,,,,,,,,1,9.34,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=18
 ,,,,,,,,,,1,9.26,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,6-4,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=19
@@ -38,9 +38,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.15,Indiana Pacers,foul,,,,,,,,,,West,,,,,,Personal,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=46
 ,,,,,,,,,,1,6.15,Indiana Pacers,substitute,,,,Hansbrough,,West,,,,,,,,,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=47
 ,,,,,,,,,,1,6.15,Atlanta Hawks,substitute,,,,Johnson,,Petro,,,,,,,,,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=48
-,,,,,,,,,,1,6.06,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=49
+,,,,,,,,,,1,6.06,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,Hill,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=49
 ,,,,,,,,,,1,6.04,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Personal,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=50
-,,,,,,,,,,1,5.52,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Lost Ball,,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=51
+,,,,,,,,,,1,5.52,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Lost Ball,,Teague,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=51
 ,,,,,,,,,,1,5.46,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,3PT Jump Shot,,,12-12,24,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=52
 ,,,,,,,,,,1,5.45,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=53
 ,,,,,,,,,,1,5.31,Indiana Pacers,shot,,,,,,,,,,Hansbrough,2,,,made,,Turnaround Jump Shot,,,14-12,4,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=54
@@ -59,10 +59,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.03,Indiana Pacers,shot,Hansbrough,,,,,,,,,George,3,,,made,,3PT Jump Shot,,,17-14,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=68
 ,,,,,,,,,,1,3.48,Atlanta Hawks,foul,,,,,,,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=69
 ,,,,,,,,,,1,3.48,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Foul,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=70
-,,,,,,,,,,1,3.29,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Turnaround Jump Shot,,,17-14,5,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=72
+,,,,,,,,,,1,3.29,Indiana Pacers,shot,,,Horford,,,,,,,Hansbrough,,,,missed,,Turnaround Jump Shot,,,17-14,5,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=72
 ,,,,,,,,,,1,3.26,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=73
 ,,,,,,,,,,1,3.24,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Putback Dunk,,,19-14,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=74
-,,,,,,,,,,1,3.06,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=75
+,,,,,,,,,,1,3.06,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,George,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=75
 ,,,,,,,,,,1,2.55,Atlanta Hawks,foul,,,,,,,,,,Johnson,,,,,,Personal Block,,,19-14,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=76
 ,,,,,,,,,,1,2.55,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=77
 ,,,,,,,,,,1,2.55,Atlanta Hawks,substitute,,,,Harris,,Teague,,,,,,,,,,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=79
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.55,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,21-16,5,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=92
 ,,,,,,,,,,1,0.54,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,21-16,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=93
 ,,,,,,,,,,1,0.50,Atlanta Hawks,shot,Harris,,,,,,,,,Horford,2,,,made,,Turnaround Jump Shot,,,21-18,6,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=94
-,,,,,,,,,,1,0.40,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Lost Ball,,,,,,21-18,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=95
+,,,,,,,,,,1,0.40,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Lost Ball,,Harris,,,,21-18,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=95
 ,,,,,,,,,,1,0.31,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,3PT Jump Shot,,,21-18,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=96
 ,,,,,,,,,,1,0.30,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,21-18,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=97
 ,,,,,,,,,,1,0.30,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Shooting,,,21-18,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=98
@@ -110,7 +110,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.14,Indiana Pacers,shot,Mahinmi,,,,,,,,,Augustin,2,,,made,,Jump Shot,,,24-30,19,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=132
 ,,,,,,,,,,2,9.54,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Jump Shot,,,24-32,20,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=133
 ,,,,,,,,,,2,9.52,Atlanta Hawks,violation,,,,,,,,,,HAWKS,,, Delay of game Violation,,,,,,24-32,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=134
-,,,,,,,,,,2,9.32,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,,,,,24-32,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=135
+,,,,,,,,,,2,9.32,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,Harris,,,,24-32,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=135
 ,,,,,,,,,,2,9.31,Indiana Pacers,foul,,,,,,,,,,Augustin,,,,,,Personal,,,24-32,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=136
 ,,,,,,,,,,2,9.31,Indiana Pacers,substitute,,,,Stephenson,,George,,,,,,,,,,,,,24-32,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=137
 ,,,,,,,,,,2,9.18,Atlanta Hawks,shot,Korver,,,,,,,,,Tolliver,3,,,made,,3PT Jump Shot,,,24-35,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=138
@@ -124,7 +124,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.39,Atlanta Hawks,substitute,,,,Horford,,Smith,,,,,,,,,,,,,24-36,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=148
 ,,,,,,,,,,2,8.26,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,Jump Shot,,,24-36,20,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=149
 ,,,,,,,,,,2,8.25,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,24-36,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=150
-,,,,,,,,,,2,8.11,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,,,,,24-36,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=151
+,,,,,,,,,,2,8.11,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,West,,,,24-36,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=151
 ,,,,,,,,,,2,8.02,Indiana Pacers,shot,Stephenson,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,27-36,24,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=152
 ,,,,,,,,,,2,7.44,Atlanta Hawks,shot,Horford,,,,,,,,,Korver,3,,,made,,3PT Jump Shot,,,27-39,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=153
 ,,,,,,,,,,2,7.30,Indiana Pacers,shot,Stephenson,,,,,,,,,Augustin,3,,,made,,3PT Jump Shot,,,30-39,26,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=154
@@ -136,7 +136,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.50,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=161
 ,,,,,,,,,,2,6.50,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Putback Layup,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=160
 ,,,,,,,,,,2,6.46,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=162
-,,,,,,,,,,2,6.45,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Lost Ball,,,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=163
+,,,,,,,,,,2,6.45,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Lost Ball,,Korver,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=163
 ,,,,,,,,,,2,6.38,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Driving Jump Shot,,,30-41,6,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=164
 ,,,,,,,,,,2,6.30,Indiana Pacers,foul,,,,,,,,,,,,,,,,,,,30-41,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=165
 ,,,,,,,,,,2,6.30,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Foul,,,,,,30-41,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=166
@@ -170,7 +170,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.48,Atlanta Hawks,free throw,,,,,,,1,,2,Harris,,,foul,missed,,,,,38-49,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=200
 ,,,,,,,,,,2,2.48,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,38-49,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=201
 ,,,,,,,,,,2,2.48,Atlanta Hawks,free throw,,,,,,,2,,2,Harris,1,,foul,made,,,,,38-50,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=202
-,,,,,,,,,,2,2.35,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,,,,,38-50,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=205
+,,,,,,,,,,2,2.35,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,Smith,,,,38-50,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=205
 ,,,,,,,,,,2,2.27,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,38-50,1,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=206
 ,,,,,,,,,,2,2.25,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,38-50,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=208
 ,,,,,,,,,,2,2.25,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Tip Shot,,,38-52,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=207
@@ -184,7 +184,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.34,Atlanta Hawks,shot,Teague,,,,,,,,,Harris,3,,,made,,3PT Jump Shot,,,38-55,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=217
 ,,,,,,,,,,2,1.18,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,38-55,17,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=218
 ,,,,,,,,,,2,1.17,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,38-55,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=219
-,,,,,,,,,,2,1.03,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Driving Layup,,,38-55,2,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=220
+,,,,,,,,,,2,1.03,Atlanta Hawks,shot,,,Hibbert,,,,,,,Harris,,,,missed,,Driving Layup,,,38-55,2,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=220
 ,,,,,,,,,,2,1.02,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,38-55,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=221
 ,,,,,,,,,,2,0.52,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Turnaround Jump Shot,,,38-55,3,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=222
 ,,,,,,,,,,2,0.50,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,38-55,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=223
@@ -245,14 +245,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.01,Indiana Pacers,turnover,,,,,,,,,,George,,,Foul,,,,,,49-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=291
 ,,,,,,,,,,3,7.39,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Driving Hook Shot,,,49-64,5,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=293
 ,,,,,,,,,,3,7.37,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,49-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=294
-,,,,,,,,,,3,7.29,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Driving Layup,,,49-64,2,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=295
+,,,,,,,,,,3,7.29,Indiana Pacers,shot,,,Korver,,,,,,,Stephenson,,,,missed,,Driving Layup,,,49-64,2,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=295
 ,,,,,,,,,,3,7.29,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,49-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=296
 ,,,,,,,,,,3,7.19,Indiana Pacers,shot,Hill,,,,,,,,,Hibbert,2,,,made,,Turnaround Hook Shot,,,51-64,4,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=297
 ,,,,,,,,,,3,7.13,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=298
-,,,,,,,,,,3,6.58,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Driving Layup,,,51-64,5,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=302
+,,,,,,,,,,3,6.58,Atlanta Hawks,shot,,,Hibbert,,,,,,,Teague,,,,missed,,Driving Layup,,,51-64,5,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=302
 ,,,,,,,,,,3,6.56,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=303
 ,,,,,,,,,,3,6.52,Indiana Pacers,shot,Stephenson,,,,,,,,,George,2,,,made,,Running Dunk,,,53-64,1,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=304
-,,,,,,,,,,3,6.34,Atlanta Hawks,turnover,,,,,,,,,,Johnson Poss,,,Lost Ball,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=305
+,,,,,,,,,,3,6.34,Atlanta Hawks,turnover,,,,,,,,,,Johnson Poss,,,Lost Ball,,George,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=305
 ,,,,,,,,,,3,6.27,Indiana Pacers,shot,George,,,,,,,,,Stephenson,2,,,made,,Running Layup,,,55-64,1,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=307
 ,,,,,,,,,,3,6.11,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,3PT Jump Shot,,,55-64,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=309
 ,,,,,,,,,,3,6.10,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=310
@@ -263,8 +263,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.38,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,57-64,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=318
 ,,,,,,,,,,3,5.36,Atlanta Hawks,rebound,,,,,,,,,,Teague,,,,,,,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=320
 ,,,,,,,,,,3,5.29,Indiana Pacers,foul,,,,,,,,,,Hibbert,,,,,,Personal,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=321
-,,,,,,,,,,3,5.24,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=323
-,,,,,,,,,,3,5.16,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=324
+,,,,,,,,,,3,5.24,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Hill,,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=323
+,,,,,,,,,,3,5.16,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Tolliver,,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=324
 ,,,,,,,,,,3,5.10,Indiana Pacers,foul,,,,,,,,,,Hibbert,,,,,,Shooting,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=325
 ,,,,,,,,,,3,5.10,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,,,foul,missed,,,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=326
 ,,,,,,,,,,3,5.10,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=327
@@ -272,7 +272,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.10,Atlanta Hawks,substitute,,,,Harris,,Teague,,,,,,,,,,,,,57-64,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=329
 ,,,,,,,,,,3,5.10,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,57-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=330
 ,,,,,,,,,,3,5.00,Indiana Pacers,shot,,,,,,,,,,Stephenson,2,,,made,,Driving Layup,,,59-65,2,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=333
-,,,,,,,,,,3,4.40,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=335
+,,,,,,,,,,3,4.40,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,Hill,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=335
 ,,,,,,,,,,3,4.35,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Running Layup,,,59-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=336
 ,,,,,,,,,,3,4.34,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=337
 ,,,,,,,,,,3,4.21,Indiana Pacers,foul,,,,,,,,,,Mahinmi,,,,,,Shooting,,,59-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=338
@@ -287,14 +287,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.16,Atlanta Hawks,jumpball,,Hill,,,Smith,,,,,,,,,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=351
 ,,,,,,,,,,3,3.08,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,61-65,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=352
 ,,,,,,,,,,3,3.07,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=353
-,,,,,,,,,,3,3.06,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=354
+,,,,,,,,,,3,3.06,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,Smith,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=354
 ,,,,,,,,,,3,3.06,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Personal,,,61-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=355
 ,,,,,,,,,,3,3.06,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,,,foul,missed,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=357
 ,,,,,,,,,,3,3.06,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=358
 ,,,,,,,,,,3,3.06,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,61-66,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=359
-,,,,,,,,,,3,2.54,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,,,,,61-66,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=362
+,,,,,,,,,,3,2.54,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,Smith,,,,61-66,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=362
 ,,,,,,,,,,3,2.51,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,61-66,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=364
-,,,,,,,,,,3,2.41,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Driving Jump Shot,,,61-66,8,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=368
+,,,,,,,,,,3,2.41,Atlanta Hawks,shot,,,Mahinmi,,,,,,,Teague,,,,missed,,Driving Jump Shot,,,61-66,8,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=368
 ,,,,,,,,,,3,2.38,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,61-66,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=369
 ,,,,,,,,,,3,2.25,Atlanta Hawks,foul,,,,,,,,,,Tolliver,,,,,,Personal,,,61-66,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=370
 ,,,,,,,,,,3,2.16,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,61-66,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=371
@@ -312,12 +312,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.34,Atlanta Hawks,shot,,,,,,,,,,Harris,2,,,made,,Running Layup,,,61-69,2,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=386
 ,,,,,,,,,,3,1.17,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Driving Layup,,,61-69,1,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=387
 ,,,,,,,,,,3,1.15,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=388
-,,,,,,,,,,3,1.13,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Layup,,,61-69,4,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=400
+,,,,,,,,,,3,1.13,Indiana Pacers,shot,,,Johnson,,,,,,,George,,,,missed,,Layup,,,61-69,4,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=400
 ,,,,,,,,,,3,1.12,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=410
 ,,,,,,,,,,3,1.11,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,61-69,15,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=389
 ,,,,,,,,,,3,1.10,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=390
 ,,,,,,,,,,3,1.10,Indiana Pacers,substitute,,,,Mahinmi,,Hansbrough,,,,,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=391
-,,,,,,,,,,3,0.54,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Dunk,,,61-69,1,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=392
+,,,,,,,,,,3,0.54,Atlanta Hawks,shot,,,George,,,,,,,Johnson,,,,missed,,Dunk,,,61-69,1,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=392
 ,,,,,,,,,,3,0.50,Indiana Pacers,rebound,,,,,,,,,,Augustin,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=393
 ,,,,,,,,,,3,0.41,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Personal,,,61-69,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=394
 ,,,,,,,,,,3,0.41,Indiana Pacers,free throw,,,,,,,1,,2,Mahinmi,,,foul,missed,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=395
@@ -335,7 +335,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.25,Atlanta Hawks,free throw,,,,,,,1,,2,Teague,,,foul,missed,,,,,62-69,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=416
 ,,,,,,,,,,4,11.25,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,62-69,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=417
 ,,,,,,,,,,4,11.25,Atlanta Hawks,free throw,,,,,,,2,,2,Teague,1,,foul,made,,,,,62-70,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=418
-,,,,,,,,,,4,11.06,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,,,,,62-70,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=420
+,,,,,,,,,,4,11.06,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,Teague,,,,62-70,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=420
 ,,,,,,,,,,4,11.02,Atlanta Hawks,foul,,,,,,,,,,Teague,,,,,,Offensive Charge,,,62-70,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=421
 ,,,,,,,,,,4,11.02,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Foul,,,,,,62-70,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=422
 ,,,,,,,,,,4,10.41,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,Driving Layup,,,62-70,2,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=423
@@ -375,7 +375,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.42,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=472
 ,,,,,,,,,,4,7.42,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Tip Shot,,,67-76,1,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=471
 ,,,,,,,,,,4,7.41,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=473
-,,,,,,,,,,4,7.37,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=474
+,,,,,,,,,,4,7.37,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,George,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=474
 ,,,,,,,,,,4,7.32,Indiana Pacers,shot,Hill,,,,,,,,,George,3,,,made,,3PT Jump Shot,,,70-76,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=475
 ,,,,,,,,,,4,7.16,Indiana Pacers,foul,,,,,,,,,,Mahinmi,,,,,,Personal,,,70-76,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=476
 ,,,,,,,,,,4,7.16,Atlanta Hawks,free throw,,,,,,,1,,2,Horford,1,,foul,made,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=477
@@ -408,7 +408,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.55,Indiana Pacers,substitute,,,,Hibbert,,Hansbrough,,,,,,,,,,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=516
 ,,,,,,,,,,4,4.55,Atlanta Hawks,free throw,,,,,,,2,,2,Horford,,,foul,missed,,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=517
 ,,,,,,,,,,4,4.54,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=519
-,,,,,,,,,,4,4.43,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Driving Layup,,,77-84,2,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=521
+,,,,,,,,,,4,4.43,Indiana Pacers,shot,,,Smith,,,,,,,Stephenson,,,,missed,,Driving Layup,,,77-84,2,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=521
 ,,,,,,,,,,4,4.41,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=522
 ,,,,,,,,,,4,4.38,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Jump Shot,,,79-84,6,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=523
 ,,,,,,,,,,4,4.23,Atlanta Hawks,shot,Smith,,,,,,,,,Horford,2,,,made,,Jump Shot,,,79-86,3,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=524
@@ -439,7 +439,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.07,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,87-96,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=563
 ,,,,,,,,,,4,1.02,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,3PT Jump Shot,,,87-96,25,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=567
 ,,,,,,,,,,4,1.00,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,87-96,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=568
-,,,,,,,,,,4,0.45,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,87-96,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=569
+,,,,,,,,,,4,0.45,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,George,,,,87-96,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=569
 ,,,,,,,,,,4,0.37,Indiana Pacers,shot,Stephenson,,,,,,,,,West,2,,,made,,Layup,,,89-96,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=570
 ,,,,,,,,,,4,0.26,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Personal Take,,,89-96,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=571
 ,,,,,,,,,,4,0.26,Atlanta Hawks,free throw,,,,,,,1,,2,Teague,1,,foul,made,,,,,89-97,,http://stats.nba.com/cvp.html?GameID=0041200124&GameEventID=572

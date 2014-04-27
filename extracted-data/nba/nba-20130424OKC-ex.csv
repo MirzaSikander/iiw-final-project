@@ -6,7 +6,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.55,Houston Rockets,foul,,,,,,,,,,Harden,,,,,,Personal,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=8
 ,,,,,,,,,,1,10.50,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,2-2,18,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=9
 ,,,,,,,,,,1,10.48,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=10
-,,,,,,,,,,1,10.37,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Driving Layup,,,2-2,3,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=11
+,,,,,,,,,,1,10.37,Houston Rockets,shot,,,Ibaka,,,,,,,Parsons,,,,missed,,Driving Layup,,,2-2,3,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=11
 ,,,,,,,,,,1,10.35,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=12
 ,,,,,,,,,,1,10.25,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Driving Layup,,,2-2,2,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=13
 ,,,,,,,,,,1,10.24,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=14
@@ -22,7 +22,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.12,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Pullup Jump Shot,,,7-2,16,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=24
 ,,,,,,,,,,1,9.11,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,7-2,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=25
 ,,,,,,,,,,1,9.05,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Jump Shot,,,7-4,8,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=26
-,,,,,,,,,,1,8.49,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Jump Shot,,,7-4,19,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=27
+,,,,,,,,,,1,8.49,Houston Rockets,shot,,,Perkins,,,,,,,Parsons,,,,missed,,Jump Shot,,,7-4,19,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=27
 ,,,,,,,,,,1,8.48,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,7-4,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=28
 ,,,,,,,,,,1,8.42,Houston Rockets,turnover,,,,,,,,,,Asik Out of Bounds,,,Lost Ball,,,,,,7-4,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=29
 ,,,,,,,,,,1,8.17,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,7-4,19,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=31
@@ -47,7 +47,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.18,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Offensive Charge,,,13-12,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=55
 ,,,,,,,,,,1,6.18,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Foul,,,,,,13-12,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=56
 ,,,,,,,,,,1,6.18,Oklahoma City Thunder,substitute,,,,Jackson,,Westbrook,,,,,,,,,,,,,13-12,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=57
-,,,,,,,,,,1,5.59,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Driving Layup,,,13-12,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=58
+,,,,,,,,,,1,5.59,Houston Rockets,shot,,,Ibaka,,,,,,,Beverley,,,,missed,,Driving Layup,,,13-12,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=58
 ,,,,,,,,,,1,5.57,Oklahoma City Thunder,rebound,,,,,,,,,,Jackson,,,,,,,,,13-12,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=59
 ,,,,,,,,,,1,5.53,Oklahoma City Thunder,foul,,,,,,,,,,Jackson,,,,,,Offensive Charge,,,13-12,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=60
 ,,,,,,,,,,1,5.53,Oklahoma City Thunder,turnover,,,,,,,,,,Jackson,,,Foul,,,,,,13-12,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=61
@@ -92,9 +92,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.34,Houston Rockets,rebound,,,,,,,,,,Garcia,,,,,,,,,26-26,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=107
 ,,,,,,,,,,1,0.26,Houston Rockets,shot,Beverley,,,,,,,,,Harden,2,,,made,,Driving Layup,,,28-26,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=108
 ,,,,,,,,,,1,0.01,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Jackson,3,,,made,,3PT Jump Shot,,,28-29,24,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=109
-,,,,,,,,,,1,0.00,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Running Jump Shot,,,28-29,46,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=110
+,,,,,,,,,,1,0.00,Houston Rockets,shot,,,Sefolosha,,,,,,,Harden,,,,missed,,3PT Running Jump Shot,,,28-29,46,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=110
 ,,,,,,,,,,1,0.00,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=112
-,,,,,,,,,,2,11.46,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=116
+,,,,,,,,,,2,11.46,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,Asik,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=116
 ,,,,,,,,,,2,11.34,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Step Back Jump Shot,,,28-29,15,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=117
 ,,,,,,,,,,2,11.33,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=118
 ,,,,,,,,,,2,11.14,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,Jump Shot,,,28-29,14,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=119
@@ -112,7 +112,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.52,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,31-29,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=132
 ,,,,,,,,,,2,9.51,Oklahoma City Thunder,shot,,,,,,,,,,Collison,2,,,made,,Layup,,,31-31,2,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=133
 ,,,,,,,,,,2,9.42,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=134
-,,,,,,,,,,2,9.31,Oklahoma City Thunder,shot,,,,,,,,,,Collison,,,,missed,,Layup,,,31-31,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=135
+,,,,,,,,,,2,9.31,Oklahoma City Thunder,shot,,,Asik,,,,,,,Collison,,,,missed,,Layup,,,31-31,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=135
 ,,,,,,,,,,2,9.30,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=136
 ,,,,,,,,,,2,9.27,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,3PT Jump Shot,,,31-31,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=137
 ,,,,,,,,,,2,9.26,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=138
@@ -156,13 +156,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.16,Houston Rockets,shot,,,,,,,,,,Beverley,2,,,made,,Layup,,,40-41,2,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=181
 ,,,,,,,,,,2,5.57,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,3PT Jump Shot,,,40-41,24,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=182
 ,,,,,,,,,,2,5.56,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,40-41,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=183
-,,,,,,,,,,2,5.44,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Driving Layup,,,40-41,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=184
+,,,,,,,,,,2,5.44,Houston Rockets,shot,,,Ibaka,,,,,,,Harden,,,,missed,,Driving Layup,,,40-41,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=184
 ,,,,,,,,,,2,5.43,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,40-41,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=185
 ,,,,,,,,,,2,5.42,Houston Rockets,shot,,,,,,,,,,Smith,2,,,made,,Dunk,,,42-41,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=186
 ,,,,,,,,,,2,5.34,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=187
 ,,,,,,,,,,2,5.34,Oklahoma City Thunder,substitute,,,,Sefolosha,,Fisher,,,,,,,,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=188
 ,,,,,,,,,,2,5.24,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Sefolosha,3,,,made,,3PT Jump Shot,,,42-44,24,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=190
-,,,,,,,,,,2,5.07,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,,,,,42-44,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=191
+,,,,,,,,,,2,5.07,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,Westbrook,,,,42-44,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=191
 ,,,,,,,,,,2,5.02,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Finger Roll Layup,,,42-46,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=192
 ,,,,,,,,,,2,4.47,Oklahoma City Thunder,foul,,,,,,,,,,Martin,,,,,,Shooting,,,42-46,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=193
 ,,,,,,,,,,2,4.47,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,43-46,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=194
@@ -177,7 +177,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.55,Oklahoma City Thunder,shot,Durant,,,,,,,,,Sefolosha,3,,,made,,3PT Jump Shot,,,46-49,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=205
 ,,,,,,,,,,2,3.32,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Driving Layup,,,46-49,2,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=206
 ,,,,,,,,,,2,3.31,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=207
-,,,,,,,,,,2,3.28,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=208
+,,,,,,,,,,2,3.28,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,Beverley,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=208
 ,,,,,,,,,,2,3.25,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,46-49,26,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=209
 ,,,,,,,,,,2,3.23,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=210
 ,,,,,,,,,,2,3.22,Houston Rockets,shot,,,,,,,,,,Smith,2,,,made,,Reverse Dunk,,,48-49,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=211
@@ -185,7 +185,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.18,Oklahoma City Thunder,free throw,,,,,,,,,,Durant,1,,Technical,made,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=213
 ,,,,,,,,,,2,3.18,Houston Rockets,substitute,,,,Delfino,,Parsons,,,,,,,,,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=215
 ,,,,,,,,,,2,3.05,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,3 Second Violation,,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=216
-,,,,,,,,,,2,2.58,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=217
+,,,,,,,,,,2,2.58,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Perkins,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=217
 ,,,,,,,,,,2,2.56,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Layup,,,48-52,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=218
 ,,,,,,,,,,2,2.38,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Driving Layup,,,50-52,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=219
 ,,,,,,,,,,2,2.38,Oklahoma City Thunder,foul,,,,,,,,,,Perkins,,,,,,Shooting,,,50-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=220
@@ -199,7 +199,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.14,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=231
 ,,,,,,,,,,2,2.07,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,3PT Pullup Jump Shot,,,51-52,24,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=232
 ,,,,,,,,,,2,2.06,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=233
-,,,,,,,,,,2,1.56,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=234
+,,,,,,,,,,2,1.56,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,Westbrook,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=234
 ,,,,,,,,,,2,1.53,Oklahoma City Thunder,foul,,,,,,,,,,,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=235
 ,,,,,,,,,,2,1.53,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Foul,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=236
 ,,,,,,,,,,2,1.53,Oklahoma City Thunder,substitute,,,,Jackson,,Westbrook,,,,,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=237
@@ -207,11 +207,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.43,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=239
 ,,,,,,,,,,2,1.38,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,3PT Jump Shot,,,51-52,25,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=240
 ,,,,,,,,,,2,1.37,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=241
-,,,,,,,,,,2,1.31,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=242
+,,,,,,,,,,2,1.31,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Perkins,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=242
 ,,,,,,,,,,2,1.13,Oklahoma City Thunder,shot,Jackson,,,,,,,,,Durant,2,,,made,,Jump Shot,,,51-54,17,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=243
 ,,,,,,,,,,2,0.57,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,51-54,24,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=244
 ,,,,,,,,,,2,0.56,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,51-54,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=245
-,,,,,,,,,,2,0.43,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Lost Ball,,,,,,51-54,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=246
+,,,,,,,,,,2,0.43,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Lost Ball,,Harden,,,,51-54,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=246
 ,,,,,,,,,,2,0.38,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,Layup,,,51-54,2,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=247
 ,,,,,,,,,,2,0.37,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,51-54,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=249
 ,,,,,,,,,,2,0.37,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Tip Shot,,,51-54,2,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=248
@@ -229,7 +229,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.47,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,55-57,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=265
 ,,,,,,,,,,3,11.35,Oklahoma City Thunder,foul,,,,,,,,,,,,,,,,,,,55-57,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=266
 ,,,,,,,,,,3,11.35,Houston Rockets,free throw,,,,,,,,,,Harden,1,,Technical,made,,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=267
-,,,,,,,,,,3,11.28,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=269
+,,,,,,,,,,3,11.28,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Westbrook,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=269
 ,,,,,,,,,,3,11.12,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,3PT Jump Shot,,,56-57,24,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=270
 ,,,,,,,,,,3,11.11,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=271
 ,,,,,,,,,,3,11.00,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Driving Layup,,,56-57,3,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=272
@@ -240,7 +240,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.27,Oklahoma City Thunder,shot,Durant,,,,,,,,,Ibaka,2,,,made,,Running Jump Shot,,,56-59,3,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=277
 ,,,,,,,,,,3,10.18,Oklahoma City Thunder,violation,,,,,,,,,,Perkins,,,Kicked Ball,,,,,,56-59,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=278
 ,,,,,,,,,,3,10.09,Oklahoma City Thunder,foul,,,,,,,,,,Perkins,,,,,,Personal,,,56-59,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=279
-,,,,,,,,,,3,10.02,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,56-59,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=280
+,,,,,,,,,,3,10.02,Houston Rockets,shot,,,Ibaka,,,,,,,Asik,,,,missed,,Layup,,,56-59,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=280
 ,,,,,,,,,,3,10.01,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,56-59,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=281
 ,,,,,,,,,,3,9.55,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Layup,,,56-59,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=282
 ,,,,,,,,,,3,9.52,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,56-59,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=283
@@ -260,7 +260,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.00,Houston Rockets,foul,,,,,,,,,,Beverley,,,,,,Personal,,,59-61,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=297
 ,,,,,,,,,,3,7.56,Houston Rockets,foul,,,,,,,,,,Beverley,,,,,,Personal,,,59-61,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=298
 ,,,,,,,,,,3,7.56,Houston Rockets,substitute,,,,Brooks,,Beverley,,,,,,,,,,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=299
-,,,,,,,,,,3,7.46,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,Jump Shot,,,59-61,13,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=300
+,,,,,,,,,,3,7.46,Oklahoma City Thunder,shot,,,Brooks,,,,,,,Sefolosha,,,,missed,,Jump Shot,,,59-61,13,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=300
 ,,,,,,,,,,3,7.45,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=301
 ,,,,,,,,,,3,7.36,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Shooting,,,59-61,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=302
 ,,,,,,,,,,3,7.36,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,60-61,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=303
@@ -278,7 +278,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.11,Houston Rockets,foul,,,,,,,,,,Delfino,,,,,,Shooting,,,63-61,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=320
 ,,,,,,,,,,3,6.11,Oklahoma City Thunder,free throw,,,,,,,1,,2,Ibaka,1,,foul,made,,,,,63-62,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=321
 ,,,,,,,,,,3,6.11,Oklahoma City Thunder,free throw,,,,,,,2,,2,Ibaka,1,,foul,made,,,,,63-63,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=322
-,,,,,,,,,,3,6.02,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Dunk,,,63-63,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=324
+,,,,,,,,,,3,6.02,Houston Rockets,shot,,,Ibaka,,,,,,,Asik,,,,missed,,Dunk,,,63-63,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=324
 ,,,,,,,,,,3,6.01,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,63-63,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=325
 ,,,,,,,,,,3,5.52,Houston Rockets,substitute,,,,Smith,,Asik,,,,,,,,,,,,,63-63,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=326
 ,,,,,,,,,,3,5.52,Oklahoma City Thunder,jumpball,,Delfino,,,Durant,,,,,,,,,,,,,,63-63,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=327
@@ -332,7 +332,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.55,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=381
 ,,,,,,,,,,3,1.44,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Pullup Jump Shot,,,68-76,17,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=382
 ,,,,,,,,,,3,1.43,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=383
-,,,,,,,,,,3,1.23,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=384
+,,,,,,,,,,3,1.23,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Collison,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=384
 ,,,,,,,,,,3,1.04,Oklahoma City Thunder,shot,Durant,,,,,,,,,Westbrook,2,,,made,,Jump Shot,,,68-78,18,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=385
 ,,,,,,,,,,3,0.46,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,Step Back Jump Shot,,,68-78,20,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=386
 ,,,,,,,,,,3,0.45,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,68-78,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=387
@@ -340,7 +340,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.41,Houston Rockets,free throw,,,,,,,1,,2,Asik,1,,foul,made,,,,,69-78,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=390
 ,,,,,,,,,,3,0.41,Houston Rockets,substitute,,,,Garcia,,Parsons,,,,,,,,,,,,,69-78,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=392
 ,,,,,,,,,,3,0.41,Houston Rockets,free throw,,,,,,,2,,2,Asik,1,,foul,made,,,,,70-78,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=393
-,,,,,,,,,,3,0.25,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,,,,,70-78,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=395
+,,,,,,,,,,3,0.25,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,Beverley,,,,70-78,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=395
 ,,,,,,,,,,3,0.22,Oklahoma City Thunder,foul,,,,,,,,,,Jackson,,,,,,Personal,,,70-78,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=396
 ,,,,,,,,,,3,0.22,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,71-78,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=397
 ,,,,,,,,,,3,0.22,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=399
@@ -350,7 +350,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.39,Oklahoma City Thunder,free throw,,,,,,,1,,2,Collison,1,,foul,made,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=407
 ,,,,,,,,,,4,11.39,Oklahoma City Thunder,free throw,,,,,,,2,,2,Collison,1,,foul,made,,,,,72-80,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=409
 ,,,,,,,,,,4,11.26,Oklahoma City Thunder,violation,,,,,,,,,,Durant,,,Kicked Ball,,,,,,72-80,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=411
-,,,,,,,,,,4,11.21,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,,,,,72-80,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=412
+,,,,,,,,,,4,11.21,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,Westbrook,,,,72-80,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=412
 ,,,,,,,,,,4,11.12,Oklahoma City Thunder,shot,Durant,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,72-83,25,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=413
 ,,,,,,,,,,4,10.59,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Driving Layup,,,74-83,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=414
 ,,,,,,,,,,4,10.35,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Turnaround Jump Shot,,,74-83,17,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=415
@@ -364,7 +364,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.45,Houston Rockets,substitute,,,,Parsons,,Garcia,,,,,,,,,,,,,74-86,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=423
 ,,,,,,,,,,4,9.36,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,3PT Jump Shot,,,74-86,24,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=424
 ,,,,,,,,,,4,9.35,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,74-86,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=425
-,,,,,,,,,,4,9.30,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,,,,,74-86,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=426
+,,,,,,,,,,4,9.30,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,Martin,,,,74-86,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=426
 ,,,,,,,,,,4,9.24,Oklahoma City Thunder,shot,Jackson,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,74-89,24,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=427
 ,,,,,,,,,,4,9.22,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=428
 ,,,,,,,,,,4,9.03,Houston Rockets,shot,Harden,,,,,,,,,Beverley,3,,,made,,3PT Jump Shot,,,77-89,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=429
@@ -382,7 +382,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.43,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,80-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=441
 ,,,,,,,,,,4,7.43,Oklahoma City Thunder,substitute,,,,Ibaka,,Collison,,,,,,,,,,,,,80-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=443
 ,,,,,,,,,,4,7.43,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,81-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=444
-,,,,,,,,,,4,7.29,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Pullup Jump Shot,,,81-91,16,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=446
+,,,,,,,,,,4,7.29,Oklahoma City Thunder,shot,,,Beverley,,,,,,,Westbrook,,,,missed,,Pullup Jump Shot,,,81-91,16,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=446
 ,,,,,,,,,,4,7.28,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,81-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=447
 ,,,,,,,,,,4,7.13,Houston Rockets,shot,Harden,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,84-91,25,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=448
 ,,,,,,,,,,4,7.11,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=449
@@ -391,7 +391,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.47,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,84-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=453
 ,,,,,,,,,,4,6.46,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=454
 ,,,,,,,,,,4,6.36,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Step Out of Bounds,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=455
-,,,,,,,,,,4,6.25,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Driving Layup,,,84-91,2,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=456
+,,,,,,,,,,4,6.25,Houston Rockets,shot,,,Ibaka,,,,,,,Beverley,,,,missed,,Driving Layup,,,84-91,2,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=456
 ,,,,,,,,,,4,6.23,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=457
 ,,,,,,,,,,4,6.22,Houston Rockets,shot,,,,,,,,,,Asik,2,,,made,,Dunk,,,86-91,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=458
 ,,,,,,,,,,4,6.20,Houston Rockets,violation,,,,,,,,,,Rockets,,, Delay of game Violation,,,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=459
@@ -424,7 +424,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.48,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,92-91,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=493
 ,,,,,,,,,,4,3.27,Houston Rockets,shot,Harden,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,95-91,25,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=494
 ,,,,,,,,,,4,3.10,Oklahoma City Thunder,shot,Durant,,,,,,,,,Ibaka,2,,,made,,Layup,,,95-93,1,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=495
-,,,,,,,,,,4,3.05,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,95-93,3,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=496
+,,,,,,,,,,4,3.05,Houston Rockets,shot,,,Durant,,,,,,,Parsons,,,,missed,,Layup,,,95-93,3,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=496
 ,,,,,,,,,,4,3.03,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,95-93,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=497
 ,,,,,,,,,,4,2.56,Houston Rockets,foul,,,,,,,,,,Asik,,,,,,Shooting Block,,,95-93,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=498
 ,,,,,,,,,,4,2.56,Oklahoma City Thunder,free throw,,,,,,,1,,2,Westbrook,1,,foul,made,,,,,95-94,,http://stats.nba.com/cvp.html?GameID=0041200142&GameEventID=501

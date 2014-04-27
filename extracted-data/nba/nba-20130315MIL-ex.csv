@@ -1,6 +1,6 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.45,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Layup,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=2
-,,,,,,,,,,1,11.31,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=3
+,,,,,,,,,,1,11.31,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,Chalmers,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=3
 ,,,,,,,,,,1,11.27,Miami Heat,shot,Chalmers,,,,,,,,,James,2,,,made,,Dunk,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=4
 ,,,,,,,,,,1,11.10,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Jump Shot,,,4-0,17,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=5
 ,,,,,,,,,,1,11.09,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=7
@@ -10,7 +10,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.51,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=10
 ,,,,,,,,,,1,10.35,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,3PT Jump Shot,,,4-0,25,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=11
 ,,,,,,,,,,1,10.34,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=12
-,,,,,,,,,,1,10.32,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=13
+,,,,,,,,,,1,10.32,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Sanders,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=13
 ,,,,,,,,,,1,10.24,Milwaukee Bucks,shot,Ellis,,,,,,,,,Daniels,2,,,made,,Layup,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=14
 ,,,,,,,,,,1,10.07,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Jump Shot,,,4-2,5,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=15
 ,,,,,,,,,,1,10.06,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=16
@@ -31,10 +31,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.34,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=32
 ,,,,,,,,,,1,8.24,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Layup,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=33
 ,,,,,,,,,,1,8.23,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=34
-,,,,,,,,,,1,8.16,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=35
+,,,,,,,,,,1,8.16,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,Wade,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=35
 ,,,,,,,,,,1,8.04,Miami Heat,shot,Wade,,,,,,,,,Bosh,2,,,made,,Dunk,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=36
 ,,,,,,,,,,1,7.43,Milwaukee Bucks,turnover,,,,,,,,,,Daniels,,,Backcourt,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=37
-,,,,,,,,,,1,7.27,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,8-4,3,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=38
+,,,,,,,,,,1,7.27,Miami Heat,shot,,,Sanders,,,,,,,Wade,,,,missed,,Jump Shot,,,8-4,3,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=38
 ,,,,,,,,,,1,7.25,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=39
 ,,,,,,,,,,1,7.20,Milwaukee Bucks,shot,Ellis,,,,,,,,,Daniels,2,,,made,,Layup,,,8-6,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=40
 ,,,,,,,,,,1,7.17,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=41
@@ -51,7 +51,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.51,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,12-6,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=53
 ,,,,,,,,,,1,5.40,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,12-6,20,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=54
 ,,,,,,,,,,1,5.38,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,12-6,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=55
-,,,,,,,,,,1,5.26,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,12-6,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=56
+,,,,,,,,,,1,5.26,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Daniels,,,,12-6,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=56
 ,,,,,,,,,,1,5.21,Milwaukee Bucks,shot,,,,,,,,,,Daniels,2,,,made,,Layup,,,12-8,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=57
 ,,,,,,,,,,1,4.59,Miami Heat,shot,Haslem,,,,,,,,,Allen,2,,,made,,Jump Shot,,,14-8,20,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=58
 ,,,,,,,,,,1,4.48,Milwaukee Bucks,shot,Sanders,,,,,,,,,Ilyasova,2,,,made,,Layup,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=59
@@ -83,7 +83,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.11,Milwaukee Bucks,shot,Jennings,,,,,,,,,Ilyasova,3,,,made,,3PT Jump Shot,,,26-27,26,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=88
 ,,,,,,,,,,1,0.03,Milwaukee Bucks,foul,,,,,,,,,,Daniels,,,,,,Personal,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=89
 ,,,,,,,,,,1,0.03,Milwaukee Bucks,substitute,,,,Dunleavy,,Daniels,,,,,,,,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=90
-,,,,,,,,,,1,0.00,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Jump Shot,,,26-27,16,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=91
+,,,,,,,,,,1,0.00,Miami Heat,shot,,,Jennings,,,,,,,Cole,,,,missed,,Jump Shot,,,26-27,16,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=91
 ,,,,,,,,,,1,0.00,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=92
 ,,,,,,,,,,2,11.39,Milwaukee Bucks,shot,,,,,,,,,,Henson,,,,missed,,Layup,,,26-27,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=96
 ,,,,,,,,,,2,11.37,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=97
@@ -109,7 +109,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.06,Milwaukee Bucks,substitute,,,,Ellis,,Jennings,,,,,,,,,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=119
 ,,,,,,,,,,2,8.48,Milwaukee Bucks,shot,,,,,,,,,,Udoh,,,,missed,,Jump Shot,,,34-29,3,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=120
 ,,,,,,,,,,2,8.47,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=121
-,,,,,,,,,,2,8.43,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=122
+,,,,,,,,,,2,8.43,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,Ellis,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=122
 ,,,,,,,,,,2,8.39,Milwaukee Bucks,shot,,,,,,,,,,Ellis,2,,,made,,Layup,,,34-31,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=123
 ,,,,,,,,,,2,8.31,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,34-31,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=124
 ,,,,,,,,,,2,8.31,Miami Heat,substitute,,,,Miller,,James,,,,,,,,,,,,,34-31,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=126
@@ -119,7 +119,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.01,Milwaukee Bucks,shot,Ellis,,,,,,,,,Redick,3,,,made,,3PT Jump Shot,,,34-34,28,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=130
 ,,,,,,,,,,2,7.45,Milwaukee Bucks,foul,,,,,,,,,,Redick,,,,,,Personal,,,34-34,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=131
 ,,,,,,,,,,2,7.45,Miami Heat,substitute,,,,Wade,,Allen,,,,,,,,,,,,,34-34,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=132
-,,,,,,,,,,2,7.32,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Layup,,,34-34,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=133
+,,,,,,,,,,2,7.32,Miami Heat,shot,,,Udoh,,,,,,,Cole,,,,missed,,Layup,,,34-34,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=133
 ,,,,,,,,,,2,7.29,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,34-34,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=134
 ,,,,,,,,,,2,7.16,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,3PT Jump Shot,,,34-34,26,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=135
 ,,,,,,,,,,2,7.15,Miami Heat,rebound,,,,,,,,,,Miller,,,,,,,,,34-34,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=136
@@ -135,7 +135,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.59,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,38-34,7,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=148
 ,,,,,,,,,,2,5.57,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,38-34,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=150
 ,,,,,,,,,,2,5.57,Milwaukee Bucks,shot,,,,,,,,,,Henson,2,,,made,,Tip Shot,,,38-36,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=149
-,,,,,,,,,,2,5.47,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,38-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=151
+,,,,,,,,,,2,5.47,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Henson,,,,38-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=151
 ,,,,,,,,,,2,5.39,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,3PT Jump Shot,,,38-36,24,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=152
 ,,,,,,,,,,2,5.38,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,38-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=153
 ,,,,,,,,,,2,5.16,Milwaukee Bucks,foul,,,,,,,,,,Henson,,,,,,Shooting,,,38-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=154
@@ -145,12 +145,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.16,Miami Heat,free throw,,,,,,,2,,2,Andersen,1,,foul,made,,,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=161
 ,,,,,,,,,,2,4.57,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Layup,,,40-36,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=163
 ,,,,,,,,,,2,4.55,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=164
-,,,,,,,,,,2,4.43,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,,,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=165
+,,,,,,,,,,2,4.43,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,Ellis,,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=165
 ,,,,,,,,,,2,4.38,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=166
 ,,,,,,,,,,2,4.38,Miami Heat,substitute,,,,Haslem,,Andersen,,,,,,,,,,,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=167
 ,,,,,,,,,,2,4.20,Miami Heat,shot,,,,,,,,,,Haslem,,,,missed,,Jump Shot,,,40-36,15,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=168
 ,,,,,,,,,,2,4.18,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=169
-,,,,,,,,,,2,4.09,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Layup,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=170
+,,,,,,,,,,2,4.09,Milwaukee Bucks,shot,,,Bosh,,,,,,,Ellis,,,,missed,,Layup,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=170
 ,,,,,,,,,,2,4.07,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=171
 ,,,,,,,,,,2,4.01,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Layup,,,40-36,2,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=172
 ,,,,,,,,,,2,4.00,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,40-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=173
@@ -164,7 +164,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.58,Milwaukee Bucks,substitute,,,,Jennings,,Redick,,,,,,,,,,,,,44-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=182
 ,,,,,,,,,,2,2.58,Milwaukee Bucks,substitute,,,,Daniels,,Dunleavy,,,,,,,,,,,,,44-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=183
 ,,,,,,,,,,2,2.58,Miami Heat,substitute,,,,James,,Miller,,,,,,,,,,,,,44-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=184
-,,,,,,,,,,2,2.43,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Lost Ball,,,,,,44-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=185
+,,,,,,,,,,2,2.43,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Lost Ball,,Bosh,,,,44-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=185
 ,,,,,,,,,,2,2.36,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,44-36,26,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=186
 ,,,,,,,,,,2,2.35,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,44-36,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=187
 ,,,,,,,,,,2,2.20,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Jump Shot,,,44-36,8,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=188
@@ -182,7 +182,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.47,Milwaukee Bucks,shot,Daniels,,,,,,,,,Sanders,2,,,made,,Layup,,,48-40,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=200
 ,,,,,,,,,,2,0.29,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,48-40,16,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=201
 ,,,,,,,,,,2,0.28,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,48-40,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=202
-,,,,,,,,,,2,0.27,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Lost Ball,,,,,,48-40,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=203
+,,,,,,,,,,2,0.27,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Lost Ball,,Chalmers,,,,48-40,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=203
 ,,,,,,,,,,2,0.27,Miami Heat,shot,,,,,,,,,,Chalmers,2,,,made,,Layup,,,50-40,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=204
 ,,,,,,,,,,2,0.27,Milwaukee Bucks,foul,,,,,,,,,,Ilyasova,,,,,,Technical,,,50-40,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=205
 ,,,,,,,,,,2,0.27,Miami Heat,free throw,,,,,,,,,,Chalmers,1,,Technical,made,,,,,51-40,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=206
@@ -191,7 +191,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.03,Milwaukee Bucks,shot,Daniels,,,,,,,,,Ellis,2,,,made,,Reverse Layup,,,51-42,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=210
 ,,,,,,,,,,2,0.00,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,3PT Jump Shot,,,51-42,29,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=211
 ,,,,,,,,,,2,0.00,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,51-42,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=212
-,,,,,,,,,,3,11.47,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Layup,,,51-42,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=216
+,,,,,,,,,,3,11.47,Milwaukee Bucks,shot,,,James,,,,,,,Ellis,,,,missed,,Layup,,,51-42,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=216
 ,,,,,,,,,,3,11.45,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,51-42,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=217
 ,,,,,,,,,,3,11.45,Miami Heat,free throw,,,,,,,,,,Chalmers,1,,Technical,made,,,,,52-42,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=219
 ,,,,,,,,,,3,11.31,Miami Heat,shot,Wade,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,54-42,20,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=221
@@ -203,7 +203,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.05,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,57-44,29,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=227
 ,,,,,,,,,,3,10.05,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,57-44,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=228
 ,,,,,,,,,,3,10.05,Miami Heat,turnover,,,,,,,,,,,,,Shot Clock,,,,,,57-44,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=229
-,,,,,,,,,,3,9.48,Milwaukee Bucks,shot,,,,,,,,,,Daniels,,,,missed,,Jump Shot,,,57-44,5,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=230
+,,,,,,,,,,3,9.48,Milwaukee Bucks,shot,,,Wade,,,,,,,Daniels,,,,missed,,Jump Shot,,,57-44,5,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=230
 ,,,,,,,,,,3,9.47,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,57-44,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=231
 ,,,,,,,,,,3,9.34,Milwaukee Bucks,shot,,,,,,,,,,Jennings,3,,,made,,3PT Jump Shot,,,57-47,26,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=233
 ,,,,,,,,,,3,9.21,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,57-47,17,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=234
@@ -217,7 +217,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.33,Miami Heat,shot,Wade,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,61-49,20,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=244
 ,,,,,,,,,,3,8.06,Milwaukee Bucks,shot,,,,,,,,,,Daniels,,,,missed,,Jump Shot,,,61-49,18,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=245
 ,,,,,,,,,,3,8.05,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=246
-,,,,,,,,,,3,7.55,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=247
+,,,,,,,,,,3,7.55,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Daniels,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=247
 ,,,,,,,,,,3,7.52,Miami Heat,violation,,,,,,,,,,Bosh,,,Defensive Goaltending,,,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=249
 ,,,,,,,,,,3,7.52,Milwaukee Bucks,shot,,,,,,,,,,Daniels,2,,,made,,Layup,,,61-51,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=248
 ,,,,,,,,,,3,7.27,Miami Heat,shot,James,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,63-51,21,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=250
@@ -279,12 +279,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.00,Milwaukee Bucks,substitute,,,,Udoh,,Sanders,,,,,,,,,,,,,71-62,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=327
 ,,,,,,,,,,3,3.00,Milwaukee Bucks,free throw,,,,,,,3,,3,Redick,1,,foul,made,,,,,71-63,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=318
 ,,,,,,,,,,3,2.46,Miami Heat,shot,Andersen,,,,,,,,,James,2,,,made,,Layup,,,73-63,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=320
-,,,,,,,,,,3,2.28,Milwaukee Bucks,shot,,,,,,,,,,Udoh,,,,missed,,Layup,,,73-63,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=321
+,,,,,,,,,,3,2.28,Milwaukee Bucks,shot,,,Andersen,,,,,,,Udoh,,,,missed,,Layup,,,73-63,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=321
 ,,,,,,,,,,3,2.22,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,73-63,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=322
 ,,,,,,,,,,3,2.14,Miami Heat,shot,Allen,,,,,,,,,Andersen,2,,,made,,Layup,,,75-63,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=323
 ,,,,,,,,,,3,2.14,Milwaukee Bucks,foul,,,,,,,,,,Udoh,,,,,,Shooting,,,75-63,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=324
 ,,,,,,,,,,3,2.14,Miami Heat,free throw,,,,,,,1,,1,Andersen,1,,foul,made,,,,,76-63,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=325
-,,,,,,,,,,3,2.03,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,76-63,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=328
+,,,,,,,,,,3,2.03,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,Wade,,,,76-63,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=328
 ,,,,,,,,,,3,2.00,Miami Heat,shot,Wade,,,,,,,,,James,2,,,made,,Alley Oop Dunk,,,78-63,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=329
 ,,,,,,,,,,3,1.48,Milwaukee Bucks,shot,Jennings,,,,,,,,,Redick,3,,,made,,3PT Jump Shot,,,78-66,26,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=330
 ,,,,,,,,,,3,1.20,Miami Heat,shot,James,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,81-66,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=332
@@ -312,7 +312,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.29,Milwaukee Bucks,free throw,,,,,,,2,,2,Udoh,1,,foul,made,,,,,84-70,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=363
 ,,,,,,,,,,4,11.08,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,84-70,18,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=365
 ,,,,,,,,,,4,11.07,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,84-70,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=366
-,,,,,,,,,,4,11.01,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,84-70,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=367
+,,,,,,,,,,4,11.01,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,Battier,,,,84-70,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=367
 ,,,,,,,,,,4,10.55,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,3PT Jump Shot,,,84-70,26,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=368
 ,,,,,,,,,,4,10.53,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,84-70,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=369
 ,,,,,,,,,,4,10.50,Miami Heat,foul,,,,,,,,,,Andersen,,,,,,Shooting,,,84-70,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=370
@@ -343,12 +343,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.14,Milwaukee Bucks,rebound,,,,,,,,,,Udoh,,,,,,,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=405
 ,,,,,,,,,,4,8.14,Milwaukee Bucks,shot,,,,,,,,,,Udoh,,,,missed,,Tip Shot,,,88-79,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=404
 ,,,,,,,,,,4,8.13,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=406
-,,,,,,,,,,4,8.02,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,88-79,12,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=407
+,,,,,,,,,,4,8.02,Miami Heat,shot,,,Dunleavy,,,,,,,Allen,,,,missed,,Jump Shot,,,88-79,12,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=407
 ,,,,,,,,,,4,8.02,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=409
 ,,,,,,,,,,4,8.02,Milwaukee Bucks,substitute,,,,Sanders,,Udoh,,,,,,,,,,,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=410
 ,,,,,,,,,,4,7.55,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=412
 ,,,,,,,,,,4,7.54,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=413
-,,,,,,,,,,4,7.35,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,,,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=414
+,,,,,,,,,,4,7.35,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,Cole,,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=414
 ,,,,,,,,,,4,7.33,Milwaukee Bucks,foul,,,,,,,,,,Redick,,,,,,Personal Block,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=415
 ,,,,,,,,,,4,7.29,Miami Heat,turnover,,,,,,,,,,Bosh,,,Traveling,,,,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=418
 ,,,,,,,,,,4,7.10,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,3PT Jump Shot,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=419
@@ -361,7 +361,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.31,Miami Heat,shot,Wade,,,,,,,,,Cole,3,,,made,,3PT Jump Shot,,,95-81,25,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=428
 ,,,,,,,,,,4,5.31,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,95-81,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=429
 ,,,,,,,,,,4,5.31,Milwaukee Bucks,substitute,,,,Ellis,,Dunleavy,,,,,,,,,,,,,95-81,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=431
-,,,,,,,,,,4,5.16,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Layup,,,95-81,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=432
+,,,,,,,,,,4,5.16,Milwaukee Bucks,shot,,,Bosh,,,,,,,Sanders,,,,missed,,Layup,,,95-81,1,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=432
 ,,,,,,,,,,4,5.16,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,95-81,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=433
 ,,,,,,,,,,4,5.16,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Shooting,,,95-81,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=434
 ,,,,,,,,,,4,5.16,Milwaukee Bucks,free throw,,,,,,,1,,2,Sanders,1,,foul,made,,,,,95-82,,http://stats.nba.com/cvp.html?GameID=0021200975&GameEventID=435

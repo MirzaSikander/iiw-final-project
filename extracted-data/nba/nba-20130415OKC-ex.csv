@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.44,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,,9,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=2
 ,,,,,,,,,,1,11.43,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=3
-,,,,,,,,,,1,11.31,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=4
+,,,,,,,,,,1,11.31,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,Westbrook,,,,,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=4
 ,,,,,,,,,,1,11.28,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Sefolosha,2,,,made,,Dunk,,,0-2,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=5
 ,,,,,,,,,,1,11.06,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Driving Jump Shot,,,0-2,6,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=6
 ,,,,,,,,,,1,11.05,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=7
@@ -12,7 +12,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.19,Sacramento Kings,foul,,,,,,,,,,Salmons,,,,,,Shooting,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=12
 ,,,,,,,,,,1,10.19,Oklahoma City Thunder,free throw,,,,,,,1,,2,Sefolosha,1,,foul,made,,,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=13
 ,,,,,,,,,,1,10.19,Oklahoma City Thunder,free throw,,,,,,,2,,2,Sefolosha,1,,foul,made,,,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=15
-,,,,,,,,,,1,10.01,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Driving Dunk,,,0-6,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=17
+,,,,,,,,,,1,10.01,Sacramento Kings,shot,,,Ibaka,,,,,,,Cousins,,,,missed,,Driving Dunk,,,0-6,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=17
 ,,,,,,,,,,1,9.59,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=18
 ,,,,,,,,,,1,9.45,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Turnaround Jump Shot,,,0-8,13,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=19
 ,,,,,,,,,,1,9.32,Sacramento Kings,shot,Evans,,,,,,,,,Thompson,2,,,made,,Jump Shot,,,2-8,18,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=20
@@ -31,7 +31,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.28,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,4-10,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=34
 ,,,,,,,,,,1,7.23,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Durant,2,,,made,,Jump Bank Shot,,,4-12,10,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=35
 ,,,,,,,,,,1,7.09,Sacramento Kings,shot,Cousins,,,,,,,,,Evans,2,,,made,,Jump Shot,,,6-12,24,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=36
-,,,,,,,,,,1,6.44,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=37
+,,,,,,,,,,1,6.44,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,Evans,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=37
 ,,,,,,,,,,1,6.40,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Reverse Layup,,,8-12,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=38
 ,,,,,,,,,,1,6.23,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,8-12,15,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=39
 ,,,,,,,,,,1,6.22,Sacramento Kings,rebound,,,,,,,,,,Salmons,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=40
@@ -41,10 +41,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.55,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,10-12,7,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=44
 ,,,,,,,,,,1,5.55,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,10-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=46
 ,,,,,,,,,,1,5.52,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Loose ball,,,10-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=48
-,,,,,,,,,,1,5.43,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,10-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=49
+,,,,,,,,,,1,5.43,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Thabeet,,,,10-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=49
 ,,,,,,,,,,1,5.34,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Layup,,,10-12,2,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=50
 ,,,,,,,,,,1,5.32,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,10-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=51
-,,,,,,,,,,1,5.20,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Layup,,,10-12,3,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=53
+,,,,,,,,,,1,5.20,Sacramento Kings,shot,,,Ibaka,,,,,,,Cousins,,,,missed,,Layup,,,10-12,3,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=53
 ,,,,,,,,,,1,5.19,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,10-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=54
 ,,,,,,,,,,1,5.19,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Shooting,,,10-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=55
 ,,,,,,,,,,1,5.19,Sacramento Kings,free throw,,,,,,,1,,2,Thompson,,,foul,missed,,,,,10-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=56
@@ -54,11 +54,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.09,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Personal,,,11-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=62
 ,,,,,,,,,,1,5.02,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,3PT Jump Shot,,,11-12,25,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=63
 ,,,,,,,,,,1,5.00,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,11-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=64
-,,,,,,,,,,1,4.52,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,,,,,11-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=65
+,,,,,,,,,,1,4.52,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,Orton,,,,11-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=65
 ,,,,,,,,,,1,4.46,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Driving Layup,,,11-12,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=66
 ,,,,,,,,,,1,4.45,Oklahoma City Thunder,rebound,,,,,,,,,,Orton,,,,,,,,,11-12,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=68
 ,,,,,,,,,,1,4.45,Oklahoma City Thunder,shot,,,,,,,,,,Orton,2,,,made,,Putback Layup,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=67
-,,,,,,,,,,1,4.30,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=69
+,,,,,,,,,,1,4.30,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,Westbrook,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=69
 ,,,,,,,,,,1,4.24,Oklahoma City Thunder,shot,,,,,,,,,,Brewer,,,,missed,,Layup,,,11-14,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=70
 ,,,,,,,,,,1,4.22,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=71
 ,,,,,,,,,,1,4.19,Sacramento Kings,shot,Salmons,,,,,,,,,Cousins,2,,,made,,Dunk,,,13-14,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=72
@@ -126,14 +126,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.29,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,21-29,19,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=156
 ,,,,,,,,,,2,10.28,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=157
 ,,,,,,,,,,2,10.06,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Jump Shot,,,21-31,15,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=158
-,,,,,,,,,,2,9.54,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,,,,,21-31,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=159
+,,,,,,,,,,2,9.54,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,Orton,,,,21-31,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=159
 ,,,,,,,,,,2,9.49,Sacramento Kings,foul,,,,,,,,,,Douglas,,,,,,Shooting,,,21-31,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=160
 ,,,,,,,,,,2,9.49,Oklahoma City Thunder,free throw,,,,,,,1,,2,Jackson,1,,foul,made,,,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=161
 ,,,,,,,,,,2,9.49,Sacramento Kings,substitute,,,,Aldrich,,Cousins,,,,,,,,,,,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=163
 ,,,,,,,,,,2,9.49,Oklahoma City Thunder,free throw,,,,,,,2,,2,Jackson,1,,foul,made,,,,,21-33,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=164
 ,,,,,,,,,,2,9.33,Sacramento Kings,shot,,,,,,,,,,Douglas,,,,missed,,Jump Shot,,,21-33,16,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=166
 ,,,,,,,,,,2,9.32,Oklahoma City Thunder,rebound,,,,,,,,,,Brewer,,,,,,,,,21-33,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=167
-,,,,,,,,,,2,9.20,Oklahoma City Thunder,turnover,,,,,,,,,,Orton,,,Bad Pass,,,,,,21-33,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=168
+,,,,,,,,,,2,9.20,Oklahoma City Thunder,turnover,,,,,,,,,,Orton,,,Bad Pass,,Thornton,,,,21-33,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=168
 ,,,,,,,,,,2,9.17,Sacramento Kings,shot,Thornton,,,,,,,,,Outlaw,2,,,made,,Dunk,,,23-33,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=169
 ,,,,,,,,,,2,9.07,Oklahoma City Thunder,shot,,,,,,,,,,Jackson,2,,,made,,Driving Layup,,,23-35,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=170
 ,,,,,,,,,,2,8.58,Sacramento Kings,shot,Patterson,,,,,,,,,Thornton,2,,,made,,Layup,,,25-35,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=171
@@ -141,7 +141,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.40,Oklahoma City Thunder,rebound,,,,,,,,,,Brewer,,,,,,,,,25-35,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=173
 ,,,,,,,,,,2,8.38,Oklahoma City Thunder,shot,,,,,,,,,,Brewer,,,,missed,,Layup,,,25-35,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=174
 ,,,,,,,,,,2,8.37,Oklahoma City Thunder,rebound,,,,,,,,,,Orton,,,,,,,,,25-35,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=175
-,,,,,,,,,,2,8.35,Oklahoma City Thunder,turnover,,,,,,,,,,Orton,,,Bad Pass,,,,,,25-35,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=176
+,,,,,,,,,,2,8.35,Oklahoma City Thunder,turnover,,,,,,,,,,Orton,,,Bad Pass,,Thornton,,,,25-35,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=176
 ,,,,,,,,,,2,8.33,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Bad Pass,,,,,,25-35,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=177
 ,,,,,,,,,,2,8.17,Oklahoma City Thunder,shot,Jackson,,,,,,,,,Durant,3,,,made,,3PT Jump Shot,,,25-38,24,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=180
 ,,,,,,,,,,2,8.03,Sacramento Kings,shot,,,,,,,,,,Patterson,,,,missed,,Jump Shot,,,25-38,17,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=181
@@ -160,7 +160,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.11,Sacramento Kings,substitute,,,,Fredette,,Douglas,,,,,,,,,,,,,27-41,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=194
 ,,,,,,,,,,2,7.11,Oklahoma City Thunder,free throw,,,,,,,1,,1,Durant,,,foul,missed,,,,,27-41,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=195
 ,,,,,,,,,,2,7.11,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,27-41,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=197
-,,,,,,,,,,2,7.01,Sacramento Kings,turnover,,,,,,,,,,Aldrich Poss,,,Lost Ball,,,,,,27-41,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=199
+,,,,,,,,,,2,7.01,Sacramento Kings,turnover,,,,,,,,,,Aldrich Poss,,,Lost Ball,,Ibaka,,,,27-41,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=199
 ,,,,,,,,,,2,6.47,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,3PT Jump Shot,,,27-41,24,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=200
 ,,,,,,,,,,2,6.45,Sacramento Kings,rebound,,,,,,,,,,Salmons,,,,,,,,,27-41,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=201
 ,,,,,,,,,,2,6.34,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,27-41,15,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=203
@@ -199,16 +199,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.26,Sacramento Kings,substitute,,,,Cousins,,Aldrich,,,,,,,,,,,,,38-46,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=240
 ,,,,,,,,,,2,2.26,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,38-47,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=241
 ,,,,,,,,,,2,2.26,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=243
-,,,,,,,,,,2,2.09,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Bad Pass,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=245
+,,,,,,,,,,2,2.09,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Bad Pass,,Westbrook,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=245
 ,,,,,,,,,,2,2.06,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Slam Dunk,,,38-50,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=246
 ,,,,,,,,,,2,1.42,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Reverse Layup,,,38-50,2,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=247
 ,,,,,,,,,,2,1.41,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,38-50,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=248
-,,,,,,,,,,2,1.27,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,38-50,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=249
+,,,,,,,,,,2,1.27,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Fredette,,,,38-50,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=249
 ,,,,,,,,,,2,1.24,Sacramento Kings,shot,Fredette,,,,,,,,,Salmons,2,,,made,,Dunk,,,40-50,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=250
 ,,,,,,,,,,2,0.58,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,2,,,made,,Driving Bank Shot,,,40-52,3,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=251
 ,,,,,,,,,,2,0.51,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Personal,,,40-52,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=252
 ,,,,,,,,,,2,0.51,Oklahoma City Thunder,substitute,,,,Collison,,Thabeet,,,,,,,,,,,,,40-52,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=253
-,,,,,,,,,,2,0.42,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Driving Layup,,,40-52,2,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=254
+,,,,,,,,,,2,0.42,Sacramento Kings,shot,,,Sefolosha,,,,,,,Cousins,,,,missed,,Driving Layup,,,40-52,2,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=254
 ,,,,,,,,,,2,0.41,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,40-52,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=255
 ,,,,,,,,,,2,0.38,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Alley Oop Dunk,,,40-54,2,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=256
 ,,,,,,,,,,2,0.25,Sacramento Kings,shot,,,,,,,,,,Thomas,3,,,made,,3PT Step Back Jump Shot,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=257
@@ -216,7 +216,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.01,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=259
 ,,,,,,,,,,2,0.01,Oklahoma City Thunder,turnover,,,,,,,,,,,,,Shot Clock,,,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=260
 ,,,,,,,,,,2,0.00,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Traveling,,,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=261
-,,,,,,,,,,2,0.00,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=262
+,,,,,,,,,,2,0.00,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Fredette,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=262
 ,,,,,,,,,,3,11.41,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Layup,,,43-54,3,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=266
 ,,,,,,,,,,3,11.40,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=267
 ,,,,,,,,,,3,11.20,Oklahoma City Thunder,shot,Durant,,,,,,,,,Ibaka,2,,,made,,Driving Dunk,,,43-56,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=268
@@ -246,8 +246,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.16,Sacramento Kings,free throw,,,,,,,1,,2,Thompson,,,foul,missed,,,,,47-62,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=294
 ,,,,,,,,,,3,8.16,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,47-62,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=295
 ,,,,,,,,,,3,8.16,Sacramento Kings,free throw,,,,,,,2,,2,Thompson,1,,foul,made,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=296
-,,,,,,,,,,3,8.05,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=298
-,,,,,,,,,,3,7.58,Sacramento Kings,turnover,,,,,,,,,,Salmons,,,Bad Pass,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=299
+,,,,,,,,,,3,8.05,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,Thompson,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=298
+,,,,,,,,,,3,7.58,Sacramento Kings,turnover,,,,,,,,,,Salmons,,,Bad Pass,,Sefolosha,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=299
 ,,,,,,,,,,3,7.53,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Durant,2,,,made,,Jump Shot,,,48-64,10,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=300
 ,,,,,,,,,,3,7.51,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,48-64,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=301
 ,,,,,,,,,,3,7.40,Oklahoma City Thunder,foul,,,,,,,,,,Orton,,,,,,Personal,,,48-64,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=303
@@ -287,7 +287,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.22,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,51-75,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=341
 ,,,,,,,,,,3,4.01,Sacramento Kings,shot,,,,,,,,,,Outlaw,2,,,made,,Jump Shot,,,53-75,16,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=342
 ,,,,,,,,,,3,3.39,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Orton,2,,,made,,Slam Dunk,,,53-77,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=344
-,,,,,,,,,,3,3.23,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Driving Layup,,,53-77,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=345
+,,,,,,,,,,3,3.23,Sacramento Kings,shot,,,Sefolosha,,,,,,,Fredette,,,,missed,,Driving Layup,,,53-77,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=345
 ,,,,,,,,,,3,3.23,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,53-77,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=346
 ,,,,,,,,,,3,3.23,Sacramento Kings,substitute,,,,Aldrich,,Cousins,,,,,,,,,,,,,53-77,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=347
 ,,,,,,,,,,3,3.23,Sacramento Kings,substitute,,,,Patterson,,Thompson,,,,,,,,,,,,,53-77,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=348
@@ -297,7 +297,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.04,Oklahoma City Thunder,substitute,,,,Jackson,,Westbrook,,,,,,,,,,,,,55-77,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=354
 ,,,,,,,,,,3,2.59,Oklahoma City Thunder,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,55-77,25,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=355
 ,,,,,,,,,,3,2.58,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,55-77,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=356
-,,,,,,,,,,3,2.54,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,55-77,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=357
+,,,,,,,,,,3,2.54,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Orton,,,,55-77,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=357
 ,,,,,,,,,,3,2.40,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,2,,,made,,Turnaround Jump Shot,,,55-79,10,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=358
 ,,,,,,,,,,3,2.21,Oklahoma City Thunder,foul,,,,,,,,,,Collison,,,,,,Shooting,,,55-79,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=359
 ,,,,,,,,,,3,2.21,Sacramento Kings,free throw,,,,,,,1,,2,Outlaw,1,,foul,made,,,,,56-79,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=360
@@ -376,7 +376,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.19,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,75-88,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=447
 ,,,,,,,,,,4,7.12,Sacramento Kings,shot,,,,,,,,,,Outlaw,2,,,made,,Fadeaway Bank Shot,,,77-88,8,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=448
 ,,,,,,,,,,4,6.46,Oklahoma City Thunder,shot,Brewer,,,,,,,,,Collison,2,,,made,,Dunk,,,77-90,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=449
-,,,,,,,,,,4,6.33,Sacramento Kings,shot,,,,,,,,,,Patterson,,,,missed,,Turnaround Jump Shot,,,77-90,7,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=450
+,,,,,,,,,,4,6.33,Sacramento Kings,shot,,,Durant,,,,,,,Patterson,,,,missed,,Turnaround Jump Shot,,,77-90,7,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=450
 ,,,,,,,,,,4,6.32,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=451
 ,,,,,,,,,,4,6.31,Sacramento Kings,shot,,,,,,,,,,Aldrich,2,,,made,,Dunk,,,79-90,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=452
 ,,,,,,,,,,4,6.13,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,79-90,10,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=453
@@ -396,19 +396,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.11,Oklahoma City Thunder,shot,,,,,,,,,,Lamb,2,,,made,,Tip Shot,,,80-92,2,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=470
 ,,,,,,,,,,4,4.57,Sacramento Kings,shot,Douglas,,,,,,,,,Thompson,2,,,made,,Jump Shot,,,82-92,18,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=472
 ,,,,,,,,,,4,4.38,Oklahoma City Thunder,shot,Brewer,,,,,,,,,Lamb,2,,,made,,Floating Jump Shot,,,82-94,5,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=473
-,,,,,,,,,,4,4.28,Sacramento Kings,turnover,,,,,,,,,,Aldrich,,,Lost Ball,,,,,,82-94,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=474
+,,,,,,,,,,4,4.28,Sacramento Kings,turnover,,,,,,,,,,Aldrich,,,Lost Ball,,Durant,,,,82-94,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=474
 ,,,,,,,,,,4,4.22,Oklahoma City Thunder,shot,Durant,,,,,,,,,Westbrook,2,,,made,,Layup,,,82-96,2,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=475
 ,,,,,,,,,,4,4.08,Sacramento Kings,shot,,,,,,,,,,Fredette,2,,,made,,Jump Shot,,,84-96,10,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=476
 ,,,,,,,,,,4,3.47,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Lamb,2,,,made,,Floating Jump Shot,,,84-98,6,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=477
 ,,,,,,,,,,4,3.38,Sacramento Kings,shot,,,,,,,,,,Fredette,2,,,made,,Pullup Jump Shot,,,86-98,20,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=478
-,,,,,,,,,,4,3.19,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=479
+,,,,,,,,,,4,3.19,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,Douglas,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=479
 ,,,,,,,,,,4,3.13,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,3PT Jump Shot,,,86-98,25,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=480
 ,,,,,,,,,,4,3.12,Oklahoma City Thunder,rebound,,,,,,,,,,Brewer,,,,,,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=481
 ,,,,,,,,,,4,3.06,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Fadeaway Jumper,,,86-100,9,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=482
 ,,,,,,,,,,4,2.57,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,86-100,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=483
-,,,,,,,,,,4,2.49,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Turnaround Jump Shot,,,86-100,7,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=486
+,,,,,,,,,,4,2.49,Sacramento Kings,shot,,,Durant,,,,,,,Thompson,,,,missed,,Turnaround Jump Shot,,,86-100,7,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=486
 ,,,,,,,,,,4,2.47,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,86-100,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=487
-,,,,,,,,,,4,2.34,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,86-100,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=488
+,,,,,,,,,,4,2.34,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Outlaw,,,,86-100,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=488
 ,,,,,,,,,,4,2.31,Sacramento Kings,shot,,,,,,,,,,Outlaw,2,,,made,,Dunk,,,88-100,1,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=489
 ,,,,,,,,,,4,2.28,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Technical,,,88-100,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=490
 ,,,,,,,,,,4,2.28,Oklahoma City Thunder,ejection,,,,,,,,,,Westbrook,,,Second Technical,,,,,,88-100,,http://stats.nba.com/cvp.html?GameID=0021201209&GameEventID=508

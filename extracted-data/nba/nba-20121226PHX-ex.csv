@@ -40,7 +40,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.28,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,13-11,25,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=43
 ,,,,,,,,,,1,6.27,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=44
 ,,,,,,,,,,1,6.27,New York Knicks,substitute,,,,Smith,,White,,,,,,,,,,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=45
-,,,,,,,,,,1,6.13,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=46
+,,,,,,,,,,1,6.13,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Smith,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=46
 ,,,,,,,,,,1,6.09,Phoenix Suns,foul,,,,,,,,,,Dudley,,,,,,Shooting,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=47
 ,,,,,,,,,,1,6.09,New York Knicks,free throw,,,,,,,1,,2,Thomas,1,,foul,made,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=48
 ,,,,,,,,,,1,6.09,New York Knicks,free throw,,,,,,,2,,2,Thomas,,,foul,missed,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=50
@@ -65,14 +65,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.25,New York Knicks,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=71
 ,,,,,,,,,,1,3.10,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,3PT Jump Shot,,,19-21,25,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=73
 ,,,,,,,,,,1,3.08,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=74
-,,,,,,,,,,1,3.03,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,19-21,5,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=75
+,,,,,,,,,,1,3.03,New York Knicks,shot,,,Brown,,,,,,,Smith,,,,missed,,Jump Shot,,,19-21,5,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=75
 ,,,,,,,,,,1,3.01,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=76
 ,,,,,,,,,,1,2.56,New York Knicks,shot,Thomas,,,,,,,,,Chandler,2,,,made,,Jump Shot,,,21-21,15,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=77
 ,,,,,,,,,,1,2.42,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Driving Layup,,,21-21,3,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=78
 ,,,,,,,,,,1,2.39,New York Knicks,rebound,,,,,,,,,,Thomas,,,,,,,,,21-21,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=79
 ,,,,,,,,,,1,2.34,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Step Back Jump Shot,,,23-21,18,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=80
 ,,,,,,,,,,1,2.23,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Pullup Jump Shot,,,23-23,9,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=81
-,,,,,,,,,,1,2.10,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=82
+,,,,,,,,,,1,2.10,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Scola,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=82
 ,,,,,,,,,,1,2.07,New York Knicks,foul,,,,,,,,,,Smith,,,,,,Shooting,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=83
 ,,,,,,,,,,1,2.07,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=84
 ,,,,,,,,,,1,2.07,Phoenix Suns,substitute,,,,Tucker,,Brown,,,,,,,,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=86
@@ -103,9 +103,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.46,Phoenix Suns,shot,Telfair,,,,,,,,,Beasley,2,,,made,,Layup,,,27-31,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=118
 ,,,,,,,,,,2,11.31,New York Knicks,shot,Prigioni,,,,,,,,,Novak,3,,,made,,3PT Jump Shot,,,30-31,24,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=119
 ,,,,,,,,,,2,11.21,New York Knicks,foul,,,,,,,,,,Copeland,,,,,,Personal,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=120
-,,,,,,,,,,2,11.09,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Bad Pass,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=121
-,,,,,,,,,,2,11.03,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=122
-,,,,,,,,,,2,10.43,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=123
+,,,,,,,,,,2,11.09,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Bad Pass,,Smith,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=121
+,,,,,,,,,,2,11.03,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Telfair,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=122
+,,,,,,,,,,2,10.43,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,Prigioni,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=123
 ,,,,,,,,,,2,10.43,New York Knicks,turnover,,,,,,,,,,Prigioni Out of Bounds,,,Lost Ball,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=124
 ,,,,,,,,,,2,10.31,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,3PT Jump Shot,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=125
 ,,,,,,,,,,2,10.29,New York Knicks,rebound,,,,,,,,,,Novak,,,,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=126
@@ -131,16 +131,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.46,New York Knicks,foul,,,,,,,,,,Smith,,,,,,Personal,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=150
 ,,,,,,,,,,2,7.46,Phoenix Suns,substitute,,,,Dudley,,Tucker,,,,,,,,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=151
 ,,,,,,,,,,2,7.44,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=152
-,,,,,,,,,,2,7.41,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=156
+,,,,,,,,,,2,7.41,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Prigioni,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=156
 ,,,,,,,,,,2,7.38,New York Knicks,shot,Prigioni,,,,,,,,,Smith,2,,,made,,Dunk,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=157
 ,,,,,,,,,,2,7.23,Phoenix Suns,shot,,,,,,,,,,Telfair,2,,,made,,Driving Layup,,,35-33,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=158
 ,,,,,,,,,,2,7.12,New York Knicks,shot,Prigioni,,,,,,,,,Camby,2,,,made,,Dunk,,,37-33,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=159
-,,,,,,,,,,2,6.58,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Jump Shot,,,37-33,3,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=160
+,,,,,,,,,,2,6.58,Phoenix Suns,shot,,,Camby,,,,,,,Telfair,,,,missed,,Jump Shot,,,37-33,3,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=160
 ,,,,,,,,,,2,6.58,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,37-33,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=161
 ,,,,,,,,,,2,6.55,Phoenix Suns,shot,Beasley,,,,,,,,,O'Neal,2,,,made,,Jump Shot,,,37-35,15,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=162
 ,,,,,,,,,,2,6.35,New York Knicks,shot,,,,,,,,,,Camby,,,,missed,,Driving Layup,,,37-35,3,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=163
 ,,,,,,,,,,2,6.33,New York Knicks,rebound,,,,,,,,,,Camby,,,,,,,,,37-35,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=165
-,,,,,,,,,,2,6.33,New York Knicks,shot,,,,,,,,,,Camby,,,,missed,,Layup,,,37-35,2,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=164
+,,,,,,,,,,2,6.33,New York Knicks,shot,,,Morris,,,,,,,Camby,,,,missed,,Layup,,,37-35,2,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=164
 ,,,,,,,,,,2,6.33,New York Knicks,rebound,,,,,,,,,,Camby,,,,,,,,,37-35,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=166
 ,,,,,,,,,,2,6.33,Phoenix Suns,foul,,,,,,,,,,O'Neal,,,,,,Shooting,,,37-35,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=167
 ,,,,,,,,,,2,6.33,New York Knicks,free throw,,,,,,,1,,2,Camby,,,foul,missed,,,,,37-35,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=168
@@ -161,7 +161,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.43,New York Knicks,substitute,,,,Kidd,,Prigioni,,,,,,,,,,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=188
 ,,,,,,,,,,2,5.37,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Jump Shot,,,40-37,19,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=189
 ,,,,,,,,,,2,5.35,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=190
-,,,,,,,,,,2,5.35,New York Knicks,turnover,,,,,,,,,,Kidd Poss,,,Lost Ball,,,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=193
+,,,,,,,,,,2,5.35,New York Knicks,turnover,,,,,,,,,,Kidd Poss,,,Lost Ball,,Dudley,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=193
 ,,,,,,,,,,2,5.33,Phoenix Suns,shot,,,,,,,,,,Dudley,2,,,made,,Driving Dunk,,,40-39,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=191
 ,,,,,,,,,,2,5.13,New York Knicks,shot,Smith,,,,,,,,,Copeland,3,,,made,,3PT Jump Shot,,,43-39,24,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=192
 ,,,,,,,,,,2,4.49,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,43-39,27,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=194
@@ -218,7 +218,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.20,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Driving Reverse Layup,,,57-46,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=254
 ,,,,,,,,,,3,10.17,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,57-46,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=255
 ,,,,,,,,,,3,10.17,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,57-46,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=256
-,,,,,,,,,,3,10.15,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,3PT Jump Shot,,,57-46,25,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=260
+,,,,,,,,,,3,10.15,Phoenix Suns,shot,,,Chandler,,,,,,,Gortat,,,,missed,,3PT Jump Shot,,,57-46,25,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=260
 ,,,,,,,,,,3,10.15,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,57-46,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=261
 ,,,,,,,,,,3,10.15,Phoenix Suns,turnover,,,,,,,,,,,,,Shot Clock,,,,,,57-46,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=262
 ,,,,,,,,,,3,10.03,New York Knicks,shot,,,,,,,,,,Kidd,2,,,made,,Driving Layup,,,59-46,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=263
@@ -258,7 +258,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.18,New York Knicks,free throw,,,,,,,1,,2,Chandler,1,,foul,made,,,,,69-59,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=297
 ,,,,,,,,,,3,5.18,New York Knicks,substitute,,,,Prigioni,,Kidd,,,,,,,,,,,,,69-59,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=299
 ,,,,,,,,,,3,5.18,New York Knicks,free throw,,,,,,,2,,2,Chandler,1,,foul,made,,,,,70-59,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=300
-,,,,,,,,,,3,4.59,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,70-59,22,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=302
+,,,,,,,,,,3,4.59,Phoenix Suns,shot,,,Chandler,,,,,,,Beasley,,,,missed,,Jump Shot,,,70-59,22,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=302
 ,,,,,,,,,,3,4.56,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,70-59,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=303
 ,,,,,,,,,,3,4.49,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,70-59,16,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=304
 ,,,,,,,,,,3,4.47,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,70-59,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=305
@@ -271,25 +271,25 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.40,New York Knicks,shot,,,,,,,,,,Prigioni,2,,,made,,Running Bank Shot,,,72-64,9,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=315
 ,,,,,,,,,,3,3.20,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,3PT Jump Shot,,,72-64,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=316
 ,,,,,,,,,,3,3.18,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,72-64,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=317
-,,,,,,,,,,3,3.05,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,,,,,72-64,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=318
+,,,,,,,,,,3,3.05,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,Brown,,,,72-64,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=318
 ,,,,,,,,,,3,3.01,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Layup,,,72-66,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=319
 ,,,,,,,,,,3,3.01,New York Knicks,foul,,,,,,,,,,Novak,,,,,,Shooting,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=320
 ,,,,,,,,,,3,3.01,Phoenix Suns,free throw,,,,,,,1,,1,Brown,1,,foul,made,,,,,72-67,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=321
 ,,,,,,,,,,3,2.42,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,72-67,20,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=323
 ,,,,,,,,,,3,2.40,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,72-67,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=324
 ,,,,,,,,,,3,2.32,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Driving Dunk,,,72-69,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=325
-,,,,,,,,,,3,2.16,New York Knicks,shot,,,,,,,,,,Prigioni,,,,missed,,Jump Shot,,,72-69,5,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=326
+,,,,,,,,,,3,2.16,New York Knicks,shot,,,Gortat,,,,,,,Prigioni,,,,missed,,Jump Shot,,,72-69,5,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=326
 ,,,,,,,,,,3,2.13,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,72-69,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=327
 ,,,,,,,,,,3,2.10,Phoenix Suns,shot,Brown,,,,,,,,,Dudley,3,,,made,,3PT Jump Shot,,,72-72,25,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=328
 ,,,,,,,,,,3,1.53,New York Knicks,shot,,,,,,,,,,Prigioni,,,,missed,,3PT Jump Shot,,,72-72,26,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=329
 ,,,,,,,,,,3,1.51,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,72-72,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=330
 ,,,,,,,,,,3,1.42,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,72-72,21,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=331
 ,,,,,,,,,,3,1.41,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,72-72,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=332
-,,,,,,,,,,3,1.27,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,72-72,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=333
+,,,,,,,,,,3,1.27,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Telfair,,,,72-72,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=333
 ,,,,,,,,,,3,1.23,Phoenix Suns,shot,Telfair,,,,,,,,,Brown,2,,,made,,Layup,,,72-74,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=334
 ,,,,,,,,,,3,1.12,Phoenix Suns,foul,,,,,,,,,,Telfair,,,,,,Personal,,,72-74,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=335
 ,,,,,,,,,,3,1.12,New York Knicks,substitute,,,,Camby,,Chandler,,,,,,,,,,,,,72-74,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=336
-,,,,,,,,,,3,0.58,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Dunk,,,72-74,4,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=337
+,,,,,,,,,,3,0.58,New York Knicks,shot,,,Gortat,,,,,,,Smith,,,,missed,,Dunk,,,72-74,4,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=337
 ,,,,,,,,,,3,0.58,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,72-74,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=338
 ,,,,,,,,,,3,0.56,New York Knicks,shot,Novak,,,,,,,,,Copeland,2,,,made,,Jump Shot,,,74-74,16,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=339
 ,,,,,,,,,,3,0.44,Phoenix Suns,shot,Dudley,,,,,,,,,Beasley,2,,,made,,Jump Shot,,,74-76,21,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=340
@@ -298,10 +298,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.26,New York Knicks,rebound,,,,,,,,,,Camby,,,,,,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=343
 ,,,,,,,,,,3,0.07,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,76-76,11,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=344
 ,,,,,,,,,,3,0.06,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=345
-,,,,,,,,,,3,0.05,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=346
-,,,,,,,,,,3,0.01,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,76-76,28,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=347
+,,,,,,,,,,3,0.05,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Smith,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=346
+,,,,,,,,,,3,0.01,New York Knicks,shot,,,Beasley,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,76-76,28,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=347
 ,,,,,,,,,,3,0.00,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=349
-,,,,,,,,,,4,11.38,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=352
+,,,,,,,,,,4,11.38,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,Beasley,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=352
 ,,,,,,,,,,4,11.32,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Jump Shot,,,76-78,15,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=353
 ,,,,,,,,,,4,11.12,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,76-78,7,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=354
 ,,,,,,,,,,4,11.12,New York Knicks,rebound,,,,,,,,,,Camby,,,,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=359
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.23,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,78-80,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=365
 ,,,,,,,,,,4,10.11,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,Layup,,,78-80,2,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=366
 ,,,,,,,,,,4,10.09,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,78-80,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=367
-,,,,,,,,,,4,10.02,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Jump Shot,,,78-80,3,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=368
+,,,,,,,,,,4,10.02,Phoenix Suns,shot,,,Copeland,,,,,,,Telfair,,,,missed,,Jump Shot,,,78-80,3,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=368
 ,,,,,,,,,,4,10.00,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,78-80,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=369
 ,,,,,,,,,,4,9.37,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Jump Shot,,,80-80,22,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=370
 ,,,,,,,,,,4,9.24,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,3PT Jump Shot,,,80-80,24,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=371
@@ -331,13 +331,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.06,New York Knicks,substitute,,,,Chandler,,Camby,,,,,,,,,,,,,80-82,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=382
 ,,,,,,,,,,4,8.06,New York Knicks,free throw,,,,,,,1,,2,Kidd,1,,foul,made,,,,,81-82,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=384
 ,,,,,,,,,,4,8.06,New York Knicks,free throw,,,,,,,2,,2,Kidd,1,,foul,made,,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=386
-,,,,,,,,,,4,7.53,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Layup,,,82-82,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=389
+,,,,,,,,,,4,7.53,Phoenix Suns,shot,,,Copeland,,,,,,,O'Neal,,,,missed,,Layup,,,82-82,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=389
 ,,,,,,,,,,4,7.50,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=390
 ,,,,,,,,,,4,7.40,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,Jump Shot,,,82-82,7,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=391
 ,,,,,,,,,,4,7.38,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=392
 ,,,,,,,,,,4,7.32,New York Knicks,shot,,,,,,,,,,Copeland,,,,missed,,Layup,,,82-82,3,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=393
 ,,,,,,,,,,4,7.31,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=394
-,,,,,,,,,,4,7.30,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=395
+,,,,,,,,,,4,7.30,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,Kidd,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=395
 ,,,,,,,,,,4,7.27,New York Knicks,shot,,,,,,,,,,Kidd,2,,,made,,Layup,,,84-82,2,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=396
 ,,,,,,,,,,4,7.00,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Jump Shot,,,84-84,8,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=397
 ,,,,,,,,,,4,6.35,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,Jump Bank Shot,,,84-84,8,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=398
@@ -355,9 +355,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.10,New York Knicks,free throw,,,,,,,1,,2,Smith,1,,foul,made,,,,,87-90,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=419
 ,,,,,,,,,,4,5.10,New York Knicks,substitute,,,,White,,Novak,,,,,,,,,,,,,87-90,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=421
 ,,,,,,,,,,4,5.10,New York Knicks,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=422
-,,,,,,,,,,4,4.54,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=424
+,,,,,,,,,,4,4.54,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,Smith,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=424
 ,,,,,,,,,,4,4.51,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Dunk,,,90-90,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=425
-,,,,,,,,,,4,4.30,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Bad Pass,,,,,,90-90,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=426
+,,,,,,,,,,4,4.30,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Bad Pass,,Smith,,,,90-90,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=426
 ,,,,,,,,,,4,4.23,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,90-90,27,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=427
 ,,,,,,,,,,4,4.21,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,90-90,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=428
 ,,,,,,,,,,4,4.10,New York Knicks,shot,Smith,,,,,,,,,Kidd,3,,,made,,3PT Jump Shot,,,93-90,25,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=429
@@ -378,11 +378,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.19,New York Knicks,foul,,,,,,,,,,White,,,,,,Personal,,,95-90,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=446
 ,,,,,,,,,,4,2.05,Phoenix Suns,shot,Tucker,,,,,,,,,Telfair,3,,,made,,3PT Jump Shot,,,95-93,27,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=447
 ,,,,,,,,,,4,1.50,Phoenix Suns,foul,,,,,,,,,,Gortat,,,,,,Personal,,,95-93,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=448
-,,,,,,,,,,4,1.48,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,95-93,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=449
+,,,,,,,,,,4,1.48,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Telfair,,,,95-93,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=449
 ,,,,,,,,,,4,1.48,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Step Out of Bounds,,,,,,95-93,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=450
 ,,,,,,,,,,4,1.35,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,Jump Shot,,,95-93,22,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=451
 ,,,,,,,,,,4,1.33,Phoenix Suns,rebound,,,,,,,,,,Telfair,,,,,,,,,95-93,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=452
-,,,,,,,,,,4,1.29,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Layup,,,95-93,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=453
+,,,,,,,,,,4,1.29,Phoenix Suns,shot,,,Smith,,,,,,,Telfair,,,,missed,,Layup,,,95-93,1,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=453
 ,,,,,,,,,,4,1.28,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,95-93,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=454
 ,,,,,,,,,,4,1.28,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,95-93,,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=455
 ,,,,,,,,,,4,1.16,Phoenix Suns,shot,Telfair,,,,,,,,,Brown,2,,,made,,Jump Shot,,,95-95,20,http://stats.nba.com/cvp.html?GameID=0021200421&GameEventID=459

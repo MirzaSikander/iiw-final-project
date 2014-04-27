@@ -6,7 +6,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.06,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,Running Bank Shot,,,,4,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=6
 ,,,,,,,,,,1,11.05,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=7
 ,,,,,,,,,,1,10.54,Washington Wizards,shot,Webster,,,,,,,,,Beal,3,,,made,,3PT Jump Shot,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=8
-,,,,,,,,,,1,10.42,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Driving Layup,,,3-0,3,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=9
+,,,,,,,,,,1,10.42,Denver Nuggets,shot,,,Beal,,,,,,,Gallinari,,,,missed,,Driving Layup,,,3-0,3,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=9
 ,,,,,,,,,,1,10.41,Washington Wizards,rebound,,,,,,,,,,Price,,,,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=10
 ,,,,,,,,,,1,10.35,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,3PT Jump Shot,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=11
 ,,,,,,,,,,1,10.33,Washington Wizards,rebound,,,,,,,,,,Beal,,,,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=12
@@ -14,8 +14,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.14,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,3-0,16,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=14
 ,,,,,,,,,,1,10.13,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=15
 ,,,,,,,,,,1,9.58,Washington Wizards,shot,Beal,,,,,,,,,Webster,3,,,made,,3PT Jump Shot,,,6-0,25,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=16
-,,,,,,,,,,1,9.42,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Lost Ball,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=17
-,,,,,,,,,,1,9.38,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=18
+,,,,,,,,,,1,9.42,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Lost Ball,,Nene,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=17
+,,,,,,,,,,1,9.38,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,Iguodala,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=18
 ,,,,,,,,,,1,9.21,Denver Nuggets,shot,,,,,,,,,,Koufos,2,,,made,,Layup,,,6-2,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=19
 ,,,,,,,,,,1,8.59,Denver Nuggets,foul,,,,,,,,,,,,,,,,,,,6-2,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=20
 ,,,,,,,,,,1,8.59,Washington Wizards,free throw,,,,,,,,,,Beal,,,Technical,missed,,,,,6-2,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=21
@@ -36,7 +36,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.23,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Layup,,,8-7,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=36
 ,,,,,,,,,,1,7.22,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,8-7,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=37
 ,,,,,,,,,,1,7.10,Denver Nuggets,shot,Lawson,,,,,,,,,Faried,2,,,made,,Slam Dunk,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=39
-,,,,,,,,,,1,6.55,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,,,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=40
+,,,,,,,,,,1,6.55,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,Gallinari,,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=40
 ,,,,,,,,,,1,6.49,Washington Wizards,foul,,,,,,,,,,Price,,,,,,Shooting,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=41
 ,,,,,,,,,,1,6.49,Denver Nuggets,free throw,,,,,,,1,,2,Gallinari,1,,foul,made,,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=42
 ,,,,,,,,,,1,6.49,Washington Wizards,substitute,,,,Seraphin,,Okafor,,,,,,,,,,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=44
@@ -46,12 +46,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.18,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Driving Finger Roll Layup,,,8-11,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=49
 ,,,,,,,,,,1,6.17,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,8-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=50
 ,,,,,,,,,,1,6.07,Washington Wizards,shot,Beal,,,,,,,,,Nene,2,,,made,,Jump Shot,,,10-11,19,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=51
-,,,,,,,,,,1,5.49,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=52
+,,,,,,,,,,1,5.49,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,Price,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=52
 ,,,,,,,,,,1,5.48,Denver Nuggets,foul,,,,,,,,,,Gallinari,,,,,,Personal,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=53
 ,,,,,,,,,,1,5.48,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=54
 ,,,,,,,,,,1,5.48,Washington Wizards,substitute,,,,Wall,,Price,,,,,,,,,,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=56
 ,,,,,,,,,,1,5.31,Denver Nuggets,foul,,,,,,,,,,Iguodala,,,,,,Personal,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=58
-,,,,,,,,,,1,5.24,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=59
+,,,,,,,,,,1,5.24,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Iguodala,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=59
 ,,,,,,,,,,1,5.18,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,3PT Jump Shot,,,10-11,24,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=60
 ,,,,,,,,,,1,5.15,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=61
 ,,,,,,,,,,1,5.15,Denver Nuggets,substitute,,,,Brewer,,Gallinari,,,,,,,,,,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=63
@@ -62,7 +62,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.05,Denver Nuggets,free throw,,,,,,,2,,2,Brewer,,,foul,missed,,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=68
 ,,,,,,,,,,1,5.02,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,10-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=70
 ,,,,,,,,,,1,4.57,Washington Wizards,shot,,,,,,,,,,Webster,2,,,made,,Driving Dunk,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=71
-,,,,,,,,,,1,4.38,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=72
+,,,,,,,,,,1,4.38,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Nene,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=72
 ,,,,,,,,,,1,4.36,Denver Nuggets,foul,,,,,,,,,,Lawson,,,,,,Personal,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=73
 ,,,,,,,,,,1,4.36,Denver Nuggets,substitute,,,,Chandler,,Faried,,,,,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=74
 ,,,,,,,,,,1,4.25,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Step Out of Bounds,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=75
@@ -84,7 +84,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.52,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Traveling,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=92
 ,,,,,,,,,,1,2.52,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=93
 ,,,,,,,,,,1,2.52,Washington Wizards,substitute,,,,Ariza,,Webster,,,,,,,,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=96
-,,,,,,,,,,1,2.39,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=97
+,,,,,,,,,,1,2.39,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Brewer,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=97
 ,,,,,,,,,,1,2.34,Denver Nuggets,shot,,,,,,,,,,Brewer,2,,,made,,Driving Finger Roll Layup,,,15-17,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=98
 ,,,,,,,,,,1,2.22,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,3PT Jump Shot,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=99
 ,,,,,,,,,,1,2.21,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=100
@@ -93,11 +93,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.13,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=103
 ,,,,,,,,,,1,2.13,Denver Nuggets,free throw,,,,,,,2,,2,Iguodala,,,foul,missed,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=104
 ,,,,,,,,,,1,2.11,Washington Wizards,rebound,,,,,,,,,,Ariza,,,,,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=106
-,,,,,,,,,,1,2.00,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,Layup,,,15-17,3,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=107
+,,,,,,,,,,1,2.00,Washington Wizards,shot,,,Iguodala,,,,,,,Ariza,,,,missed,,Layup,,,15-17,3,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=107
 ,,,,,,,,,,1,1.58,Washington Wizards,rebound,,,,,,,,,,Crawford,,,,,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=108
-,,,,,,,,,,1,1.56,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Lost Ball,,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=109
+,,,,,,,,,,1,1.56,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Lost Ball,,Brewer,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=109
 ,,,,,,,,,,1,1.51,Denver Nuggets,shot,,,,,,,,,,Brewer,2,,,made,,Layup,,,15-19,3,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=110
-,,,,,,,,,,1,1.32,Washington Wizards,shot,,,,,,,,,,Vesely,,,,missed,,Jump Hook Shot,,,15-19,5,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=111
+,,,,,,,,,,1,1.32,Washington Wizards,shot,,,McGee,,,,,,,Vesely,,,,missed,,Jump Hook Shot,,,15-19,5,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=111
 ,,,,,,,,,,1,1.31,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,15-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=112
 ,,,,,,,,,,1,1.27,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,15-19,26,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=114
 ,,,,,,,,,,1,1.25,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,15-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=115
@@ -108,7 +108,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.00,Washington Wizards,free throw,,,,,,,2,,2,Wall,1,,foul,made,,,,,17-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=121
 ,,,,,,,,,,1,0.46,Denver Nuggets,shot,,,,,,,,,,Chandler,,,,missed,,3PT Jump Shot,,,17-19,25,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=123
 ,,,,,,,,,,1,0.45,Washington Wizards,rebound,,,,,,,,,,Wall,,,,,,,,,17-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=124
-,,,,,,,,,,1,0.40,Washington Wizards,shot,,,,,,,,,,Vesely,,,,missed,,Layup,,,17-19,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=125
+,,,,,,,,,,1,0.40,Washington Wizards,shot,,,Chandler,,,,,,,Vesely,,,,missed,,Layup,,,17-19,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=125
 ,,,,,,,,,,1,0.38,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,17-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=126
 ,,,,,,,,,,1,0.35,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Reverse Layup,,,17-19,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=127
 ,,,,,,,,,,1,0.34,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,17-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=128
@@ -121,14 +121,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.21,Washington Wizards,free throw,,,,,,,1,,2,Wall,1,,foul,made,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=136
 ,,,,,,,,,,1,0.21,Washington Wizards,substitute,,,,Booker,,Vesely,,,,,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=138
 ,,,,,,,,,,1,0.21,Washington Wizards,free throw,,,,,,,2,,2,Wall,1,,foul,made,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=139
-,,,,,,,,,,1,0.02,Denver Nuggets,shot,,,,,,,,,,Chandler,,,,missed,,Turnaround Jump Shot,,,19-19,21,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=141
+,,,,,,,,,,1,0.02,Denver Nuggets,shot,,,Ariza,,,,,,,Chandler,,,,missed,,Turnaround Jump Shot,,,19-19,21,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=141
 ,,,,,,,,,,1,0.00,Washington Wizards,rebound,,,,,,,,,,Ariza,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=142
 ,,,,,,,,,,2,11.41,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Turnaround Jump Shot,,,19-19,14,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=146
 ,,,,,,,,,,2,11.40,Washington Wizards,rebound,,,,,,,,,,Booker,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=147
 ,,,,,,,,,,2,11.29,Denver Nuggets,violation,,,,,,,,,,Chandler,,,Kicked Ball,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=148
 ,,,,,,,,,,2,11.29,Denver Nuggets,substitute,,,,Faried,,McGee,,,,,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=149
 ,,,,,,,,,,2,11.18,Washington Wizards,shot,Wall,,,,,,,,,Seraphin,2,,,made,,Jump Hook Shot,,,21-19,10,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=150
-,,,,,,,,,,2,11.04,Denver Nuggets,shot,,,,,,,,,,Chandler,,,,missed,,Running Jump Shot,,,21-19,5,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=151
+,,,,,,,,,,2,11.04,Denver Nuggets,shot,,,Wall,,,,,,,Chandler,,,,missed,,Running Jump Shot,,,21-19,5,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=151
 ,,,,,,,,,,2,11.03,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,21-19,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=152
 ,,,,,,,,,,2,10.55,Denver Nuggets,shot,,,,,,,,,,Gallinari,2,,,made,,Driving Layup,,,21-21,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=154
 ,,,,,,,,,,2,10.38,Washington Wizards,shot,Wall,,,,,,,,,Crawford,2,,,made,,Jump Shot,,,23-21,20,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=155
@@ -140,14 +140,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.50,Washington Wizards,shot,Crawford,,,,,,,,,Seraphin,2,,,made,,Jump Shot,,,27-25,17,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=163
 ,,,,,,,,,,2,9.39,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,3PT Jump Shot,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=164
 ,,,,,,,,,,2,9.38,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=165
-,,,,,,,,,,2,9.30,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=166
+,,,,,,,,,,2,9.30,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Gallinari,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=166
 ,,,,,,,,,,2,9.22,Denver Nuggets,shot,,,,,,,,,,Miller,2,,,made,,Finger Roll Layup,,,27-27,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=167
 ,,,,,,,,,,2,9.08,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Hook Shot,,,27-27,11,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=168
 ,,,,,,,,,,2,9.07,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=169
 ,,,,,,,,,,2,8.58,Denver Nuggets,shot,Chandler,,,,,,,,,Brewer,3,,,made,,3PT Jump Shot,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=170
 ,,,,,,,,,,2,8.36,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,Running Jump Shot,,,27-30,7,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=171
 ,,,,,,,,,,2,8.35,Washington Wizards,rebound,,,,,,,,,,Wall,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=172
-,,,,,,,,,,2,8.31,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Driving Layup,,,27-30,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=173
+,,,,,,,,,,2,8.31,Washington Wizards,shot,,,Gallinari,,,,,,,Wall,,,,missed,,Driving Layup,,,27-30,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=173
 ,,,,,,,,,,2,8.30,Washington Wizards,rebound,,,,,,,,,,Booker,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=174
 ,,,,,,,,,,2,8.29,Denver Nuggets,foul,,,,,,,,,,Faried,,,,,,Shooting,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=175
 ,,,,,,,,,,2,8.29,Denver Nuggets,substitute,,,,Lawson,,Chandler,,,,,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=178
@@ -160,7 +160,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.12,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Step Back Jump Shot,,,27-30,21,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=186
 ,,,,,,,,,,2,8.11,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=187
 ,,,,,,,,,,2,8.11,Washington Wizards,substitute,,,,Okafor,,Booker,,,,,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=189
-,,,,,,,,,,2,7.55,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Lost Ball,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=190
+,,,,,,,,,,2,7.55,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Lost Ball,,Lawson,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=190
 ,,,,,,,,,,2,7.49,Denver Nuggets,shot,Lawson,,,,,,,,,Faried,2,,,made,,Alley Oop Layup,,,27-32,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=191
 ,,,,,,,,,,2,7.35,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,,,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=192
 ,,,,,,,,,,2,7.35,Washington Wizards,substitute,,,,Beal,,Crawford,,,,,,,,,,,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=193
@@ -173,7 +173,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.00,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,27-35,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=201
 ,,,,,,,,,,2,6.41,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Jump Shot,,,27-35,21,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=202
 ,,,,,,,,,,2,6.40,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,27-35,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=203
-,,,,,,,,,,2,6.38,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Layup,,,27-35,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=204
+,,,,,,,,,,2,6.38,Denver Nuggets,shot,,,Okafor,,,,,,,Faried,,,,missed,,Layup,,,27-35,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=204
 ,,,,,,,,,,2,6.36,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,27-35,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=205
 ,,,,,,,,,,2,6.33,Washington Wizards,shot,Webster,,,,,,,,,Price,3,,,made,,3PT Jump Shot,,,30-35,25,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=206
 ,,,,,,,,,,2,6.22,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Driving Reverse Layup,,,30-35,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=207
@@ -196,7 +196,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.33,Washington Wizards,free throw,,,,,,,1,,1,Nene,,,foul,missed,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=227
 ,,,,,,,,,,2,5.30,Washington Wizards,rebound,,,,,,,,,,Beal,,,,,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=229
 ,,,,,,,,,,2,5.13,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Traveling,,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=230
-,,,,,,,,,,2,5.01,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=231
+,,,,,,,,,,2,5.01,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Okafor,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=231
 ,,,,,,,,,,2,4.55,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,Layup,,,32-36,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=232
 ,,,,,,,,,,2,4.53,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=233
 ,,,,,,,,,,2,4.40,Washington Wizards,foul,,,,,,,,,,Okafor,,,,,,Shooting,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=234
@@ -244,7 +244,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.36,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,45-46,12,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=282
 ,,,,,,,,,,2,0.36,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=283
 ,,,,,,,,,,2,0.33,Denver Nuggets,shot,Brewer,,,,,,,,,McGee,2,,,made,,Alley Oop Dunk,,,45-48,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=284
-,,,,,,,,,,2,0.24,Washington Wizards,turnover,,,,,,,,,,Wall,,,Lost Ball,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=285
+,,,,,,,,,,2,0.24,Washington Wizards,turnover,,,,,,,,,,Wall,,,Lost Ball,,Iguodala,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=285
 ,,,,,,,,,,2,0.03,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=286
 ,,,,,,,,,,2,0.02,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=288
 ,,,,,,,,,,2,0.02,Denver Nuggets,shot,,,,,,,,,,McGee,2,,,made,,Putback Dunk,,,45-50,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=287
@@ -253,9 +253,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.37,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,Fadeaway Jumper,,,45-50,16,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=294
 ,,,,,,,,,,3,11.36,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=295
 ,,,,,,,,,,3,11.20,Washington Wizards,shot,Webster,,,,,,,,,Nene,2,,,made,,Jump Shot,,,47-50,17,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=296
-,,,,,,,,,,3,11.01,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,,,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=297
+,,,,,,,,,,3,11.01,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,Okafor,,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=297
 ,,,,,,,,,,3,11.00,Denver Nuggets,foul,,,,,,,,,,Lawson,,,,,,Personal,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=298
-,,,,,,,,,,3,10.43,Washington Wizards,turnover,,,,,,,,,,Price,,,Lost Ball,,,,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=299
+,,,,,,,,,,3,10.43,Washington Wizards,turnover,,,,,,,,,,Price,,,Lost Ball,,Iguodala,,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=299
 ,,,,,,,,,,3,10.38,Denver Nuggets,shot,Iguodala,,,,,,,,,Gallinari,2,,,made,,Alley Oop Dunk,,,47-52,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=300
 ,,,,,,,,,,3,10.17,Denver Nuggets,foul,,,,,,,,,,Iguodala,,,,,,Shooting,,,47-52,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=301
 ,,,,,,,,,,3,10.17,Washington Wizards,free throw,,,,,,,1,,2,Webster,1,,foul,made,,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=302
@@ -263,7 +263,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.58,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Running Jump Shot,,,49-52,6,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=306
 ,,,,,,,,,,3,9.58,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=307
 ,,,,,,,,,,3,9.52,Washington Wizards,shot,Price,,,,,,,,,Beal,2,,,made,,Layup,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=308
-,,,,,,,,,,3,9.40,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=309
+,,,,,,,,,,3,9.40,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Okafor,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=309
 ,,,,,,,,,,3,9.33,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,3PT Jump Shot,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=310
 ,,,,,,,,,,3,9.33,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=311
 ,,,,,,,,,,3,9.20,Washington Wizards,foul,,,,,,,,,,Webster,,,,,,Personal,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=312
@@ -275,14 +275,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.28,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,Layup,,,53-58,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=319
 ,,,,,,,,,,3,8.27,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,53-58,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=320
 ,,,,,,,,,,3,8.22,Washington Wizards,shot,Webster,,,,,,,,,Okafor,2,,,made,,Jump Shot,,,55-58,4,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=321
-,,,,,,,,,,3,8.16,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Driving Layup,,,55-58,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=322
+,,,,,,,,,,3,8.16,Denver Nuggets,shot,,,Nene,,,,,,,Gallinari,,,,missed,,Driving Layup,,,55-58,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=322
 ,,,,,,,,,,3,8.15,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,55-58,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=323
 ,,,,,,,,,,3,8.09,Washington Wizards,shot,Price,,,,,,,,,Beal,3,,,made,,3PT Jump Shot,,,58-58,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=324
 ,,,,,,,,,,3,7.56,Washington Wizards,violation,,,,,,,,,,Price,,,Kicked Ball,,,,,,58-58,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=325
 ,,,,,,,,,,3,7.56,Washington Wizards,substitute,,,,Ariza,,Webster,,,,,,,,,,,,,58-58,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=326
 ,,,,,,,,,,3,7.50,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Jump Shot,,,58-60,18,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=327
-,,,,,,,,,,3,7.34,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Bad Pass,,,,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=328
-,,,,,,,,,,3,7.27,Denver Nuggets,shot,,,,,,,,,,Koufos,,,,missed,,Layup,,,58-60,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=329
+,,,,,,,,,,3,7.34,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Bad Pass,,Iguodala,,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=328
+,,,,,,,,,,3,7.27,Denver Nuggets,shot,,,Okafor,,,,,,,Koufos,,,,missed,,Layup,,,58-60,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=329
 ,,,,,,,,,,3,7.26,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=330
 ,,,,,,,,,,3,7.21,Denver Nuggets,shot,Koufos,,,,,,,,,Lawson,3,,,made,,3PT Jump Shot,,,58-63,26,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=331
 ,,,,,,,,,,3,7.06,Washington Wizards,shot,Beal,,,,,,,,,Price,3,,,made,,3PT Jump Shot,,,61-63,27,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=332
@@ -292,7 +292,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.29,Washington Wizards,free throw,,,,,,,1,,1,Ariza,1,,foul,made,,,,,64-66,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=336
 ,,,,,,,,,,3,6.08,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Fadeaway Jumper,,,64-68,19,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=338
 ,,,,,,,,,,3,5.42,Washington Wizards,shot,Beal,,,,,,,,,Okafor,2,,,made,,Jump Hook Shot,,,66-68,12,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=339
-,,,,,,,,,,3,5.29,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,,,,,66-68,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=340
+,,,,,,,,,,3,5.29,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,Nene,,,,66-68,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=340
 ,,,,,,,,,,3,5.20,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,3PT Jump Shot,,,66-68,25,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=341
 ,,,,,,,,,,3,5.19,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,66-68,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=342
 ,,,,,,,,,,3,5.11,Washington Wizards,foul,,,,,,,,,,Okafor,,,,,,Personal,,,66-68,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=343
@@ -333,12 +333,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.23,Denver Nuggets,foul,,,,,,,,,,McGee,,,,,,Personal,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=386
 ,,,,,,,,,,3,2.10,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,3PT Jump Shot,,,73-81,25,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=387
 ,,,,,,,,,,3,2.09,Washington Wizards,rebound,,,,,,,,,,Booker,,,,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=388
-,,,,,,,,,,3,2.05,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=389
+,,,,,,,,,,3,2.05,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Lawson,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=389
 ,,,,,,,,,,3,2.02,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Personal Block,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=390
 ,,,,,,,,,,3,2.02,Denver Nuggets,free throw,,,,,,,1,,2,Lawson,1,,foul,made,,,,,73-82,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=391
 ,,,,,,,,,,3,2.02,Denver Nuggets,free throw,,,,,,,2,,2,Lawson,1,,foul,made,,,,,73-83,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=393
 ,,,,,,,,,,3,1.38,Washington Wizards,shot,Wall,,,,,,,,,Ariza,3,,,made,,3PT Jump Shot,,,76-83,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=395
-,,,,,,,,,,3,1.24,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Dunk,,,76-83,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=396
+,,,,,,,,,,3,1.24,Denver Nuggets,shot,,,Seraphin,,,,,,,McGee,,,,missed,,Dunk,,,76-83,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=396
 ,,,,,,,,,,3,1.23,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,76-83,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=397
 ,,,,,,,,,,3,1.18,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,76-83,24,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=398
 ,,,,,,,,,,3,1.17,Washington Wizards,rebound,,,,,,,,,,Ariza,,,,,,,,,76-83,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=399
@@ -347,7 +347,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.00,Denver Nuggets,free throw,,,,,,,1,,2,McGee,1,,foul,made,,,,,78-84,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=402
 ,,,,,,,,,,3,1.00,Washington Wizards,substitute,,,,Crawford,,Beal,,,,,,,,,,,,,78-84,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=404
 ,,,,,,,,,,3,1.00,Denver Nuggets,free throw,,,,,,,2,,2,McGee,1,,foul,made,,,,,78-85,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=405
-,,,,,,,,,,3,0.43,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,78-85,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=407
+,,,,,,,,,,3,0.43,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Brewer,,,,78-85,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=407
 ,,,,,,,,,,3,0.40,Denver Nuggets,shot,Brewer,,,,,,,,,Lawson,2,,,made,,Dunk,,,78-87,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=408
 ,,,,,,,,,,3,0.27,Washington Wizards,shot,,,,,,,,,,Ariza,2,,,made,,Reverse Layup,,,80-87,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=409
 ,,,,,,,,,,3,0.05,Denver Nuggets,foul,,,,,,,,,,,,,,,,,,,80-87,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=410
@@ -361,7 +361,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.04,Washington Wizards,free throw,,,,,,,2,,2,Seraphin,1,,foul,made,,,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=423
 ,,,,,,,,,,4,10.55,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Traveling,,,,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=425
 ,,,,,,,,,,4,10.30,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Running Jump Shot,,,87-87,5,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=426
-,,,,,,,,,,4,10.25,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=427
+,,,,,,,,,,4,10.25,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Seraphin,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=427
 ,,,,,,,,,,4,10.19,Washington Wizards,shot,,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,90-87,25,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=428
 ,,,,,,,,,,4,10.18,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=429
 ,,,,,,,,,,4,10.18,Denver Nuggets,substitute,,,,Gallinari,,Lawson,,,,,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=431
@@ -374,7 +374,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.44,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Running Bank Shot,,,92-89,10,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=439
 ,,,,,,,,,,4,8.43,Washington Wizards,rebound,,,,,,,,,,Booker,,,,,,,,,92-89,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=440
 ,,,,,,,,,,4,8.24,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Jump Shot,,,94-89,16,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=441
-,,,,,,,,,,4,8.10,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,94-89,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=442
+,,,,,,,,,,4,8.10,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Seraphin,,,,94-89,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=442
 ,,,,,,,,,,4,8.00,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Driving Layup,,,94-89,1,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=443
 ,,,,,,,,,,4,7.59,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,94-89,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=444
 ,,,,,,,,,,4,7.48,Denver Nuggets,shot,,,,,,,,,,Miller,2,,,made,,Jump Shot,,,94-91,17,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=445
@@ -383,7 +383,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.10,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,96-91,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=449
 ,,,,,,,,,,4,7.10,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Tip Shot,,,96-91,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=448
 ,,,,,,,,,,4,7.07,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,96-91,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=450
-,,,,,,,,,,4,6.52,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,96-91,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=451
+,,,,,,,,,,4,6.52,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Chandler,,,,96-91,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=451
 ,,,,,,,,,,4,6.49,Denver Nuggets,turnover,,,,,,,,,,Chandler,,,Bad Pass,,,,,,96-91,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=452
 ,,,,,,,,,,4,6.49,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,96-91,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=453
 ,,,,,,,,,,4,6.49,Denver Nuggets,substitute,,,,Iguodala,,Chandler,,,,,,,,,,,,,96-91,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=455
@@ -398,7 +398,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.49,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,98-93,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=466
 ,,,,,,,,,,4,5.39,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,98-93,26,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=467
 ,,,,,,,,,,4,5.38,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,98-93,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=468
-,,,,,,,,,,4,5.18,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Driving Layup,,,98-93,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=469
+,,,,,,,,,,4,5.18,Denver Nuggets,shot,,,Booker,,,,,,,Gallinari,,,,missed,,Driving Layup,,,98-93,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=469
 ,,,,,,,,,,4,5.16,Washington Wizards,rebound,,,,,,,,,,Beal,,,,,,,,,98-93,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=470
 ,,,,,,,,,,4,5.03,Washington Wizards,shot,,,,,,,,,,Seraphin,2,,,made,,Turnaround Jump Shot,,,100-93,4,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=471
 ,,,,,,,,,,4,4.51,Denver Nuggets,shot,,,,,,,,,,Miller,2,,,made,,Jump Bank Shot,,,100-95,8,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=472
@@ -471,7 +471,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.08,Denver Nuggets,substitute,,,,Miller,,Faried,,,,,,,,,,,,,110-108,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=556
 ,,,,,,,,,,4,0.08,Washington Wizards,substitute,,,,Booker,,Wall,,,,,,,,,,,,,110-108,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=557
 ,,,,,,,,,,4,0.02,Washington Wizards,substitute,,,,Wall,,Booker,,,,,,,,,,,,,110-108,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=561
-,,,,,,,,,,4,0.02,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Driving Layup,,,110-108,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=558
+,,,,,,,,,,4,0.02,Denver Nuggets,shot,,,Wall,,,,,,,Lawson,,,,missed,,Driving Layup,,,110-108,2,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=558
 ,,,,,,,,,,4,0.02,Washington Wizards,rebound,,,,,,,,,,Wall,,,,,,,,,110-108,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=559
 ,,,,,,,,,,4,0.02,Denver Nuggets,foul,,,,,,,,,,Koufos,,,,,,Personal Take,,,110-108,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=560
 ,,,,,,,,,,4,0.02,Washington Wizards,free throw,,,,,,,1,,2,Wall,1,,foul,made,,,,,111-108,,http://stats.nba.com/cvp.html?GameID=0021200591&GameEventID=562

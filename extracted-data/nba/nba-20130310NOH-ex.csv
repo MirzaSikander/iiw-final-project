@@ -12,7 +12,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.01,Portland Trail Blazers,shot,Lillard,,,,,,,,,Hickson,2,,,made,,Dunk,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=15
 ,,,,,,,,,,1,9.38,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Shot,,,8-2,12,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=16
 ,,,,,,,,,,1,9.36,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=17
-,,,,,,,,,,1,9.25,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,8-2,6,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=18
+,,,,,,,,,,1,9.25,Portland Trail Blazers,shot,,,Lopez,,,,,,,Aldridge,,,,missed,,Jump Shot,,,8-2,6,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=18
 ,,,,,,,,,,1,9.23,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=19
 ,,,,,,,,,,1,9.13,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,8-2,15,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=20
 ,,,,,,,,,,1,9.12,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=21
@@ -51,14 +51,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.15,New Orleans Hornets,substitute,,,,Anderson,,Davis,,,,,,,,,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=58
 ,,,,,,,,,,1,5.15,Portland Trail Blazers,free throw,,,,,,,1,,1,Lillard,,,foul,missed,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=59
 ,,,,,,,,,,1,5.13,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=61
-,,,,,,,,,,1,5.12,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,12-13,3,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=62
+,,,,,,,,,,1,5.12,Portland Trail Blazers,shot,,,Lopez,,,,,,,Hickson,,,,missed,,Layup,,,12-13,3,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=62
 ,,,,,,,,,,1,5.10,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=63
 ,,,,,,,,,,1,4.53,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Hook Shot,,,12-13,12,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=64
 ,,,,,,,,,,1,4.51,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=65
 ,,,,,,,,,,1,4.36,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Driving Layup,,,14-13,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=67
-,,,,,,,,,,1,4.16,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,,,,,14-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=68
+,,,,,,,,,,1,4.16,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,Batum,,,,14-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=68
 ,,,,,,,,,,1,4.02,Portland Trail Blazers,shot,,,,,,,,,,Hickson,2,,,made,,Driving Layup,,,16-13,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=69
-,,,,,,,,,,1,3.48,New Orleans Hornets,turnover,,,,,,,,,,Anderson,,,Lost Ball,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=71
+,,,,,,,,,,1,3.48,New Orleans Hornets,turnover,,,,,,,,,,Anderson,,,Lost Ball,,Aldridge,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=71
 ,,,,,,,,,,1,3.39,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Pullup Jump Shot,,,18-13,22,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=72
 ,,,,,,,,,,1,3.24,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,18-13,27,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=73
 ,,,,,,,,,,1,3.22,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,18-13,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=74
@@ -79,9 +79,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.38,New Orleans Hornets,shot,,,,,,,,,,Vasquez,2,,,made,,Running Jump Shot,,,22-15,5,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=90
 ,,,,,,,,,,1,1.27,New Orleans Hornets,violation,,,,,,,,,,Miller,,,Kicked Ball,,,,,,22-15,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=91
 ,,,,,,,,,,1,1.27,New Orleans Hornets,substitute,,,,Roberts,,Vasquez,,,,,,,,,,,,,22-15,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=92
-,,,,,,,,,,1,1.19,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,22-15,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=93
+,,,,,,,,,,1,1.19,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Anderson,,,,22-15,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=93
 ,,,,,,,,,,1,1.09,New Orleans Hornets,shot,,,,,,,,,,Roberts,2,,,made,,Jump Shot,,,22-17,3,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=94
-,,,,,,,,,,1,0.54,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,22-17,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=95
+,,,,,,,,,,1,0.54,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Jr.,,,,22-17,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=95
 ,,,,,,,,,,1,0.42,New Orleans Hornets,shot,Roberts,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,22-20,26,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=96
 ,,,,,,,,,,1,0.28,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,22-20,25,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=97
 ,,,,,,,,,,1,0.27,New Orleans Hornets,rebound,,,,,,,,,,Miller,,,,,,,,,22-20,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=98
@@ -125,7 +125,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.45,Portland Trail Blazers,shot,,,,,,,,,,Barton,2,,,made,,Turnaround Jump Shot,,,32-38,10,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=151
 ,,,,,,,,,,2,7.31,New Orleans Hornets,shot,Roberts,,,,,,,,,Davis,2,,,made,,Alley Oop Dunk,,,32-40,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=152
 ,,,,,,,,,,2,7.14,Portland Trail Blazers,shot,Maynor,,,,,,,,,Aldridge,2,,,made,,Jump Shot,,,34-40,21,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=153
-,,,,,,,,,,2,6.53,New Orleans Hornets,turnover,,,,,,,,,,Anderson,,,Bad Pass,,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=154
+,,,,,,,,,,2,6.53,New Orleans Hornets,turnover,,,,,,,,,,Anderson,,,Bad Pass,,Matthews,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=154
 ,,,,,,,,,,2,6.48,Portland Trail Blazers,shot,Matthews,,,,,,,,,Barton,2,,,made,,Layup,,,36-40,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=155
 ,,,,,,,,,,2,6.29,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,Jump Shot,,,36-40,17,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=156
 ,,,,,,,,,,2,6.27,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,36-40,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=157
@@ -154,7 +154,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.34,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,Layup,,,40-46,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=184
 ,,,,,,,,,,2,3.33,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=186
 ,,,,,,,,,,2,3.33,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Tip Shot,,,42-46,3,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=185
-,,,,,,,,,,2,3.20,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Layup,,,42-46,1,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=187
+,,,,,,,,,,2,3.20,New Orleans Hornets,shot,,,Hickson,,,,,,,Davis,,,,missed,,Layup,,,42-46,1,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=187
 ,,,,,,,,,,2,3.19,New Orleans Hornets,rebound,,,,,,,,,,Vasquez,,,,,,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=188
 ,,,,,,,,,,2,3.11,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=190
 ,,,,,,,,,,2,3.09,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=191
@@ -172,10 +172,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.35,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=206
 ,,,,,,,,,,2,2.17,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,42-48,24,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=208
 ,,,,,,,,,,2,2.15,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=209
-,,,,,,,,,,2,1.57,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Lost Ball,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=210
+,,,,,,,,,,2,1.57,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Lost Ball,,Lillard,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=210
 ,,,,,,,,,,2,1.57,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Step Out of Bounds,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=212
 ,,,,,,,,,,2,1.56,New Orleans Hornets,substitute,,,,Lopez,,Davis,,,,,,,,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=211
-,,,,,,,,,,2,1.52,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=213
+,,,,,,,,,,2,1.52,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,Hickson,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=213
 ,,,,,,,,,,2,1.37,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Step Back Jump Shot,,,44-48,14,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=214
 ,,,,,,,,,,2,1.15,New Orleans Hornets,shot,,,,,,,,,,Vasquez,,,,missed,,3PT Jump Shot,,,44-48,25,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=215
 ,,,,,,,,,,2,1.14,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,44-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=216
@@ -184,7 +184,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.10,Portland Trail Blazers,foul,,,,,,,,,,Batum,,,,,,Loose ball,,,44-48,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=219
 ,,,,,,,,,,2,1.04,New Orleans Hornets,shot,,,,,,,,,,Vasquez,2,,,made,,Driving Layup,,,44-50,3,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=221
 ,,,,,,,,,,2,0.43,New Orleans Hornets,foul,,,,,,,,,,Anderson,,,,,,Personal,,,44-50,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=223
-,,,,,,,,,,2,0.33,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,44-50,3,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=224
+,,,,,,,,,,2,0.33,Portland Trail Blazers,shot,,,Anderson,,,,,,,Hickson,,,,missed,,Layup,,,44-50,3,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=224
 ,,,,,,,,,,2,0.32,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,44-50,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=225
 ,,,,,,,,,,2,0.13,New Orleans Hornets,shot,Vasquez,,,,,,,,,Mason Jr.,3,,,made,,3PT Jump Shot,,,44-53,26,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=226
 ,,,,,,,,,,3,11.44,New Orleans Hornets,shot,,,,,,,,,,Vasquez,2,,,made,,Jump Shot,,,44-55,22,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=230
@@ -197,7 +197,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.26,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,46-55,18,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=237
 ,,,,,,,,,,3,10.25,New Orleans Hornets,rebound,,,,,,,,,,Vasquez,,,,,,,,,46-55,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=238
 ,,,,,,,,,,3,10.14,New Orleans Hornets,shot,Vasquez,,,,,,,,,Lopez,2,,,made,,Jump Shot,,,46-57,16,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=239
-,,,,,,,,,,3,9.56,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,,,,,46-57,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=240
+,,,,,,,,,,3,9.56,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,Vasquez,,,,46-57,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=240
 ,,,,,,,,,,3,9.48,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,Jump Shot,,,46-57,22,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=241
 ,,,,,,,,,,3,9.47,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,46-57,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=242
 ,,,,,,,,,,3,9.34,Portland Trail Blazers,shot,Lillard,,,,,,,,,Hickson,2,,,made,,Layup,,,48-57,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=243
@@ -205,7 +205,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.13,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,48-57,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=245
 ,,,,,,,,,,3,9.12,New Orleans Hornets,shot,,,,,,,,,,Aminu,,,,missed,,Layup,,,48-57,3,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=246
 ,,,,,,,,,,3,9.11,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,48-57,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=247
-,,,,,,,,,,3,9.03,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,48-57,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=248
+,,,,,,,,,,3,9.03,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Aminu,,,,48-57,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=248
 ,,,,,,,,,,3,8.58,New Orleans Hornets,shot,,,,,,,,,,Aminu,,,,missed,,Layup,,,48-57,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=249
 ,,,,,,,,,,3,8.57,New Orleans Hornets,rebound,,,,,,,,,,Vasquez,,,,,,,,,48-57,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=251
 ,,,,,,,,,,3,8.57,New Orleans Hornets,shot,,,,,,,,,,Vasquez,2,,,made,,Tip Shot,,,48-59,1,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=250
@@ -218,7 +218,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.02,New Orleans Hornets,violation,,,,,,,,,,Aminu,,,Lane,,,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=261
 ,,,,,,,,,,3,8.02,Portland Trail Blazers,free throw,,,,,,,2,,2,Hickson,1,,foul,made,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=263
 ,,,,,,,,,,3,7.42,New Orleans Hornets,turnover,,,,,,,,,,Lopez,,,Traveling,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=265
-,,,,,,,,,,3,7.31,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,53-61,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=266
+,,,,,,,,,,3,7.31,Portland Trail Blazers,shot,,,Davis,,,,,,,Hickson,,,,missed,,Layup,,,53-61,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=266
 ,,,,,,,,,,3,7.31,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=268
 ,,,,,,,,,,3,7.31,New Orleans Hornets,substitute,,,,Mason Jr.,,Roberts,,,,,,,,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=267
 ,,,,,,,,,,3,7.31,New Orleans Hornets,jumpball,,Hickson,,,Davis,,,,,,,,,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=269
@@ -230,8 +230,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.23,New Orleans Hornets,foul,,,,,,,,,,,,,,,,,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=276
 ,,,,,,,,,,3,6.23,New Orleans Hornets,turnover,,,,,,,,,,Lopez,,,Foul,,,,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=277
 ,,,,,,,,,,3,6.23,New Orleans Hornets,substitute,,,,Roberts,,Aminu,,,,,,,,,,,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=278
-,,,,,,,,,,3,6.13,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=280
-,,,,,,,,,,3,6.01,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,,,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=281
+,,,,,,,,,,3,6.13,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Vasquez,,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=280
+,,,,,,,,,,3,6.01,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,Hickson,,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=281
 ,,,,,,,,,,3,5.47,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,58-63,26,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=282
 ,,,,,,,,,,3,5.45,New Orleans Hornets,rebound,,,,,,,,,,Roberts,,,,,,,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=283
 ,,,,,,,,,,3,5.45,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Personal,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=284
@@ -242,7 +242,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.42,Portland Trail Blazers,substitute,,,,Jeffries,,Hickson,,,,,,,,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=292
 ,,,,,,,,,,3,4.38,New Orleans Hornets,shot,,,,,,,,,,Mason Jr.,,,,missed,,3PT Jump Shot,,,61-65,28,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=293
 ,,,,,,,,,,3,4.36,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=294
-,,,,,,,,,,3,4.21,New Orleans Hornets,turnover,,,,,,,,,,Mason Jr.,,,Lost Ball,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=295
+,,,,,,,,,,3,4.21,New Orleans Hornets,turnover,,,,,,,,,,Mason Jr.,,,Lost Ball,,Matthews,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=295
 ,,,,,,,,,,3,4.06,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Layup,,,63-65,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=296
 ,,,,,,,,,,3,3.48,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,Layup,,,63-65,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=298
 ,,,,,,,,,,3,3.46,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=299
@@ -275,7 +275,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.56,New Orleans Hornets,shot,,,,,,,,,,Thomas,2,,,made,,Tip Shot,,,67-73,1,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=332
 ,,,,,,,,,,3,0.56,Portland Trail Blazers,foul,,,,,,,,,,Aldridge,,,,,,Shooting,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=334
 ,,,,,,,,,,3,0.56,New Orleans Hornets,free throw,,,,,,,1,,1,Thomas,1,,foul,made,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=335
-,,,,,,,,,,3,0.41,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=338
+,,,,,,,,,,3,0.41,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,Roberts,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=338
 ,,,,,,,,,,3,0.30,New Orleans Hornets,shot,Roberts,,,,,,,,,Miller,2,,,made,,Jump Shot,,,67-76,18,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=339
 ,,,,,,,,,,3,0.10,New Orleans Hornets,foul,,,,,,,,,,Thomas,,,,,,Personal,,,67-76,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=340
 ,,,,,,,,,,3,0.10,Portland Trail Blazers,free throw,,,,,,,1,,2,Aldridge,1,,foul,made,,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=341
@@ -301,14 +301,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.18,New Orleans Hornets,rebound,,,,,,,,,,Thomas,,,,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=368
 ,,,,,,,,,,4,9.18,New Orleans Hornets,shot,,,,,,,,,,Thomas,,,,missed,,Dunk,,,75-78,1,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=367
 ,,,,,,,,,,4,9.15,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=369
-,,,,,,,,,,4,9.10,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=370
+,,,,,,,,,,4,9.10,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Anderson,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=370
 ,,,,,,,,,,4,8.48,New Orleans Hornets,shot,,,,,,,,,,Mason Jr.,,,,missed,,Layup,,,75-78,2,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=371
 ,,,,,,,,,,4,8.48,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=373
 ,,,,,,,,,,4,8.48,New Orleans Hornets,turnover,,,,,,,,,,Mason Jr.,,,Traveling,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=372
 ,,,,,,,,,,4,8.48,Portland Trail Blazers,substitute,,,,Batum,,Jeffries,,,,,,,,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=375
 ,,,,,,,,,,4,8.48,New Orleans Hornets,substitute,,,,Vasquez,,Mason Jr.,,,,,,,,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=376
 ,,,,,,,,,,4,8.48,New Orleans Hornets,substitute,,,,Davis,,Thomas,,,,,,,,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=377
-,,,,,,,,,,4,8.33,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=378
+,,,,,,,,,,4,8.33,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Davis,,,,75-78,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=378
 ,,,,,,,,,,4,8.20,New Orleans Hornets,shot,Roberts,,,,,,,,,Miller,3,,,made,,3PT Jump Shot,,,75-81,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=379
 ,,,,,,,,,,4,8.01,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Driving Layup,,,77-81,1,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=380
 ,,,,,,,,,,4,7.47,New Orleans Hornets,shot,Roberts,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,77-84,26,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=381
@@ -328,14 +328,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.02,Portland Trail Blazers,shot,,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,82-87,26,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=398
 ,,,,,,,,,,4,5.32,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,82-87,9,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=399
 ,,,,,,,,,,4,5.30,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,82-87,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=400
-,,,,,,,,,,4,5.21,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,82-87,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=401
+,,,,,,,,,,4,5.21,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Roberts,,,,82-87,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=401
 ,,,,,,,,,,4,5.01,New Orleans Hornets,shot,,,,,,,,,,Vasquez,,,,missed,,3PT Jump Shot,,,82-87,26,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=402
 ,,,,,,,,,,4,5.00,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,82-87,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=403
 ,,,,,,,,,,4,4.49,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=404
 ,,,,,,,,,,4,4.48,New Orleans Hornets,timeout,,,,,,,,,,,,,,,,,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=406
 ,,,,,,,,,,4,4.26,New Orleans Hornets,shot,Vasquez,,,,,,,,,Roberts,3,,,made,,3PT Jump Shot,,,85-90,29,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=407
 ,,,,,,,,,,4,4.02,Portland Trail Blazers,shot,Hickson,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,88-90,26,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=408
-,,,,,,,,,,4,3.35,New Orleans Hornets,turnover,,,,,,,,,,Davis,,,Lost Ball,,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=409
+,,,,,,,,,,4,3.35,New Orleans Hornets,turnover,,,,,,,,,,Davis,,,Lost Ball,,Hickson,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=409
 ,,,,,,,,,,4,3.24,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,88-90,4,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=410
 ,,,,,,,,,,4,3.23,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=411
 ,,,,,,,,,,4,2.58,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,Jump Shot,,,88-90,17,http://stats.nba.com/cvp.html?GameID=0021200939&GameEventID=412

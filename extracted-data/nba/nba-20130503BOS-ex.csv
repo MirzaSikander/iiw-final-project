@@ -10,7 +10,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.32,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,Driving Layup,,,4-4,2,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=10
 ,,,,,,,,,,1,9.31,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,4-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=11
 ,,,,,,,,,,1,9.29,New York Knicks,shot,,,,,,,,,,Chandler,2,,,made,,Layup,,,6-4,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=12
-,,,,,,,,,,1,9.18,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Layup,,,6-4,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=13
+,,,,,,,,,,1,9.18,Boston Celtics,shot,,,Chandler,,,,,,,Bradley,,,,missed,,Layup,,,6-4,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=13
 ,,,,,,,,,,1,9.17,New York Knicks,rebound,,,,,,,,,,Prigioni,,,,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=14
 ,,,,,,,,,,1,8.58,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Jump Shot,,,6-4,23,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=15
 ,,,,,,,,,,1,8.57,New York Knicks,rebound,,,,,,,,,,Shumpert,,,,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=16
@@ -19,7 +19,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.44,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,6-4,24,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=19
 ,,,,,,,,,,1,8.43,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=20
 ,,,,,,,,,,1,8.32,New York Knicks,shot,Felton,,,,,,,,,Prigioni,3,,,made,,3PT Jump Shot,,,9-4,27,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=21
-,,,,,,,,,,1,8.17,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=22
+,,,,,,,,,,1,8.17,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Chandler,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=22
 ,,,,,,,,,,1,8.11,New York Knicks,shot,,,,,,,,,,Prigioni,,,,missed,,Layup,,,9-4,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=23
 ,,,,,,,,,,1,8.09,Boston Celtics,rebound,,,,,,,,,,Bradley,,,,,,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=24
 ,,,,,,,,,,1,7.50,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,9-4,19,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=25
@@ -27,7 +27,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.38,Boston Celtics,foul,,,,,,,,,,Green,,,,,,Personal,,,9-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=27
 ,,,,,,,,,,1,7.24,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Jump Shot,,,9-4,22,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=28
 ,,,,,,,,,,1,7.22,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=29
-,,,,,,,,,,1,7.08,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=30
+,,,,,,,,,,1,7.08,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,Anthony,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=30
 ,,,,,,,,,,1,7.03,New York Knicks,shot,Shumpert,,,,,,,,,Anthony,2,,,made,,Dunk,,,11-4,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=31
 ,,,,,,,,,,1,6.42,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,11-4,25,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=32
 ,,,,,,,,,,1,6.41,New York Knicks,rebound,,,,,,,,,,Felton,,,,,,,,,11-4,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=33
@@ -46,7 +46,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.08,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,18-5,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=49
 ,,,,,,,,,,1,5.00,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,,,,,18-5,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=50
 ,,,,,,,,,,1,5.00,Boston Celtics,substitute,,,,Williams,,Bradley,,,,,,,,,,,,,18-5,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=51
-,,,,,,,,,,1,4.50,Boston Celtics,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,18-5,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=52
+,,,,,,,,,,1,4.50,Boston Celtics,turnover,,,,,,,,,,Williams,,,Bad Pass,,Felton,,,,18-5,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=52
 ,,,,,,,,,,1,4.26,New York Knicks,shot,,,,,,,,,,Prigioni,3,,,made,,3PT Jump Shot,,,21-5,24,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=54
 ,,,,,,,,,,1,4.08,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Running Jump Shot,,,21-5,4,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=55
 ,,,,,,,,,,1,4.07,New York Knicks,rebound,,,,,,,,,,Prigioni,,,,,,,,,21-5,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=56
@@ -64,7 +64,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.24,Boston Celtics,free throw,,,,,,,2,,2,Bass,1,,foul,made,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=68
 ,,,,,,,,,,1,3.01,New York Knicks,shot,,,,,,,,,,Prigioni,,,,missed,,3PT Jump Shot,,,21-8,26,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=70
 ,,,,,,,,,,1,2.59,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=71
-,,,,,,,,,,1,2.50,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,21-8,3,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=72
+,,,,,,,,,,1,2.50,Boston Celtics,shot,,,Chandler,,,,,,,Pierce,,,,missed,,Layup,,,21-8,3,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=72
 ,,,,,,,,,,1,2.48,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=73
 ,,,,,,,,,,1,2.45,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=74
 ,,,,,,,,,,1,2.44,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=75
@@ -75,7 +75,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.11,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=82
 ,,,,,,,,,,1,2.11,New York Knicks,shot,,,,,,,,,,Chandler,,,,missed,,Tip Shot,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=83
 ,,,,,,,,,,1,2.09,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=84
-,,,,,,,,,,1,1.55,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=85
+,,,,,,,,,,1,1.55,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Martin,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=85
 ,,,,,,,,,,1,1.35,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,Fadeaway Jumper,,,21-8,15,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=86
 ,,,,,,,,,,1,1.34,Boston Celtics,rebound,,,,,,,,,,Williams,,,,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=87
 ,,,,,,,,,,1,1.29,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,21-8,26,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=88
@@ -102,11 +102,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.19,Boston Celtics,rebound,,,,,,,,,,Williams,,,,,,,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=115
 ,,,,,,,,,,2,11.12,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,3PT Jump Shot,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=116
 ,,,,,,,,,,2,11.10,Boston Celtics,rebound,,,,,,,,,,Williams,,,,,,,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=117
-,,,,,,,,,,2,11.02,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=118
-,,,,,,,,,,2,10.57,New York Knicks,turnover,,,,,,,,,,Kidd,,,Lost Ball,,,,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=119
+,,,,,,,,,,2,11.02,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Smith,,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=118
+,,,,,,,,,,2,10.57,New York Knicks,turnover,,,,,,,,,,Kidd,,,Lost Ball,,Green,,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=119
 ,,,,,,,,,,2,10.44,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Running Bank Shot,,,24-12,3,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=120
 ,,,,,,,,,,2,10.43,New York Knicks,rebound,,,,,,,,,,Camby,,,,,,,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=121
-,,,,,,,,,,2,10.29,New York Knicks,turnover,,,,,,,,,,Camby,,,Bad Pass,,,,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=122
+,,,,,,,,,,2,10.29,New York Knicks,turnover,,,,,,,,,,Camby,,,Bad Pass,,Lee,,,,24-12,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=122
 ,,,,,,,,,,2,10.23,Boston Celtics,shot,Lee,,,,,,,,,Terry,2,,,made,,Layup,,,24-14,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=123
 ,,,,,,,,,,2,10.18,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,24-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=124
 ,,,,,,,,,,2,10.18,Boston Celtics,substitute,,,,Pierce,,Terry,,,,,,,,,,,,,24-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=126
@@ -118,8 +118,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.51,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Turnaround Fadeaway Shot,,,25-14,6,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=133
 ,,,,,,,,,,2,9.50,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=134
 ,,,,,,,,,,2,9.36,New York Knicks,shot,,,,,,,,,,Felton,2,,,made,,Driving Layup,,,27-14,2,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=135
-,,,,,,,,,,2,9.22,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Lost Ball,,,,,,27-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=136
-,,,,,,,,,,2,9.18,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,,,,,27-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=137
+,,,,,,,,,,2,9.22,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Lost Ball,,Felton,,,,27-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=136
+,,,,,,,,,,2,9.18,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,Garnett,,,,27-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=137
 ,,,,,,,,,,2,9.13,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,27-14,24,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=138
 ,,,,,,,,,,2,9.12,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,27-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=139
 ,,,,,,,,,,2,9.01,New York Knicks,shot,Kidd,,,,,,,,,Anthony,2,,,made,,Turnaround Jump Shot,,,29-14,14,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=140
@@ -131,13 +131,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.44,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=147
 ,,,,,,,,,,2,8.38,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,3PT Pullup Jump Shot,,,30-14,26,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=148
 ,,,,,,,,,,2,8.37,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=149
-,,,,,,,,,,2,8.29,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Driving Layup,,,30-14,2,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=150
+,,,,,,,,,,2,8.29,Boston Celtics,shot,,,Kidd,,,,,,,Bradley,,,,missed,,Driving Layup,,,30-14,2,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=150
 ,,,,,,,,,,2,8.28,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=151
 ,,,,,,,,,,2,8.04,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,30-14,23,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=152
 ,,,,,,,,,,2,8.03,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=153
-,,,,,,,,,,2,7.52,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,30-14,16,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=154
+,,,,,,,,,,2,7.52,Boston Celtics,shot,,,Felton,,,,,,,Pierce,,,,missed,,Jump Shot,,,30-14,16,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=154
 ,,,,,,,,,,2,7.51,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=155
-,,,,,,,,,,2,7.42,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,30-14,4,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=156
+,,,,,,,,,,2,7.42,Boston Celtics,shot,,,Martin,,,,,,,Bass,,,,missed,,Jump Shot,,,30-14,4,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=156
 ,,,,,,,,,,2,7.41,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=157
 ,,,,,,,,,,2,7.40,Boston Celtics,turnover,,,,,,,,,,,,,Shot Clock,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=158
 ,,,,,,,,,,2,7.21,New York Knicks,shot,,,,,,,,,,Martin,,,,missed,,Jump Shot,,,30-14,18,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=159
@@ -145,7 +145,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.05,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Turnaround Jump Shot,,,30-14,7,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=161
 ,,,,,,,,,,2,7.04,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=162
 ,,,,,,,,,,2,6.58,Boston Celtics,substitute,,,,Terry,,Garnett,,,,,,,,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=163
-,,,,,,,,,,2,6.58,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=165
+,,,,,,,,,,2,6.58,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Kidd,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=165
 ,,,,,,,,,,2,6.58,Boston Celtics,jumpball,,Kidd,,,Pierce,,,,,,,,,,,,,,30-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=164
 ,,,,,,,,,,2,6.46,New York Knicks,shot,Felton,,,,,,,,,Martin,2,,,made,,Dunk,,,32-14,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=166
 ,,,,,,,,,,2,6.36,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,32-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=167
@@ -154,7 +154,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.02,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Jump Shot,,,32-14,6,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=171
 ,,,,,,,,,,2,6.01,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,32-14,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=172
 ,,,,,,,,,,2,5.43,Boston Celtics,shot,Pierce,,,,,,,,,Bass,2,,,made,,Jump Shot,,,32-16,13,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=173
-,,,,,,,,,,2,5.23,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Layup,,,32-16,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=174
+,,,,,,,,,,2,5.23,New York Knicks,shot,,,Pierce,,,,,,,Anthony,,,,missed,,Layup,,,32-16,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=174
 ,,,,,,,,,,2,5.21,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,32-16,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=175
 ,,,,,,,,,,2,5.19,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Jump Shot,,,34-16,8,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=176
 ,,,,,,,,,,2,4.58,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,34-16,25,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=177
@@ -168,7 +168,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.37,Boston Celtics,free throw,,,,,,,2,,2,Green,1,,foul,made,,,,,34-18,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=186
 ,,,,,,,,,,2,4.16,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Turnaround Fadeaway Shot,,,34-18,13,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=188
 ,,,,,,,,,,2,4.15,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,34-18,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=189
-,,,,,,,,,,2,4.12,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Layup,,,34-18,2,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=190
+,,,,,,,,,,2,4.12,Boston Celtics,shot,,,Shumpert,,,,,,,Bass,,,,missed,,Layup,,,34-18,2,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=190
 ,,,,,,,,,,2,4.11,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,34-18,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=191
 ,,,,,,,,,,2,4.11,Boston Celtics,substitute,,,,Garnett,,Bradley,,,,,,,,,,,,,34-18,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=192
 ,,,,,,,,,,2,4.05,New York Knicks,foul,,,,,,,,,,Chandler,,,,,,Personal,,,34-18,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=193
@@ -190,7 +190,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.40,New York Knicks,foul,,,,,,,,,,,,,,,,,,,34-24,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=212
 ,,,,,,,,,,2,1.40,Boston Celtics,free throw,,,,,,,,,,Terry,1,,Technical,made,,,,,34-25,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=213
 ,,,,,,,,,,2,1.40,New York Knicks,substitute,,,,Smith,,Prigioni,,,,,,,,,,,,,34-25,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=215
-,,,,,,,,,,2,1.26,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,34-25,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=216
+,,,,,,,,,,2,1.26,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,Anthony,,,,34-25,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=216
 ,,,,,,,,,,2,1.23,New York Knicks,turnover,,,,,,,,,,Anthony,,,Bad Pass,,,,,,34-25,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=217
 ,,,,,,,,,,2,1.04,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,34-25,19,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=218
 ,,,,,,,,,,2,1.03,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,34-25,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=219
@@ -248,7 +248,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.57,New York Knicks,foul,,,,,,,,,,Felton,,,,,,Shooting Block,,,53-36,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=287
 ,,,,,,,,,,3,6.57,Boston Celtics,free throw,,,,,,,1,,2,Pierce,1,,foul,made,,,,,53-37,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=288
 ,,,,,,,,,,3,6.57,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,53-38,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=290
-,,,,,,,,,,3,6.47,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,,,,,53-38,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=292
+,,,,,,,,,,3,6.47,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,Garnett,,,,53-38,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=292
 ,,,,,,,,,,3,6.43,Boston Celtics,shot,Garnett,,,,,,,,,Green,2,,,made,,Driving Finger Roll Layup,,,53-40,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=293
 ,,,,,,,,,,3,6.24,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Pullup Jump Shot,,,53-40,19,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=294
 ,,,,,,,,,,3,6.23,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,53-40,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=295
@@ -276,12 +276,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.40,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Foul,,,,,,57-45,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=319
 ,,,,,,,,,,3,3.21,New York Knicks,shot,Felton,,,,,,,,,Shumpert,3,,,made,,3PT Jump Shot,,,60-45,25,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=320
 ,,,,,,,,,,3,2.59,Boston Celtics,shot,,,,,,,,,,Garnett,2,,,made,,Layup,,,60-47,3,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=321
-,,,,,,,,,,3,2.32,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=322
+,,,,,,,,,,3,2.32,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Pierce,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=322
 ,,,,,,,,,,3,2.27,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=323
 ,,,,,,,,,,3,2.27,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=324
 ,,,,,,,,,,3,2.27,Boston Celtics,substitute,,,,Williams,,Green,,,,,,,,,,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=331
 ,,,,,,,,,,3,2.10,New York Knicks,shot,Anthony,,,,,,,,,Smith,3,,,made,,3PT Jump Shot,,,63-47,24,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=332
-,,,,,,,,,,3,1.55,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,,,,,63-47,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=333
+,,,,,,,,,,3,1.55,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,Shumpert,,,,63-47,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=333
 ,,,,,,,,,,3,1.36,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,3PT Jump Shot,,,63-47,26,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=334
 ,,,,,,,,,,3,1.35,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,63-47,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=335
 ,,,,,,,,,,3,1.29,Boston Celtics,shot,,,,,,,,,,Williams,,,,missed,,Layup,,,63-47,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=336
@@ -337,7 +337,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.49,Boston Celtics,free throw,,,,,,,1,,2,Green,1,,foul,made,,,,,75-52,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=400
 ,,,,,,,,,,4,8.49,Boston Celtics,free throw,,,,,,,2,,2,Green,1,,foul,made,,,,,75-53,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=402
 ,,,,,,,,,,4,8.32,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,,,,,75-53,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=404
-,,,,,,,,,,4,8.27,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,75-53,4,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=405
+,,,,,,,,,,4,8.27,Boston Celtics,shot,,,Martin,,,,,,,Green,,,,missed,,Jump Shot,,,75-53,4,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=405
 ,,,,,,,,,,4,8.25,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,75-53,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=406
 ,,,,,,,,,,4,8.20,Boston Celtics,shot,Pierce,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,75-56,24,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=407
 ,,,,,,,,,,4,7.53,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Driving Layup,,,75-56,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=408
@@ -346,16 +346,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.42,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,75-58,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=411
 ,,,,,,,,,,4,7.42,New York Knicks,substitute,,,,Felton,,Shumpert,,,,,,,,,,,,,75-58,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=413
 ,,,,,,,,,,4,7.30,Boston Celtics,foul,,,,,,,,,,Green,,,,,,Personal,,,75-58,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=414
-,,,,,,,,,,4,7.28,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,75-58,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=415
+,,,,,,,,,,4,7.28,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Bradley,,,,75-58,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=415
 ,,,,,,,,,,4,7.25,Boston Celtics,shot,,,,,,,,,,Bradley,2,,,made,,Layup,,,75-60,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=416
 ,,,,,,,,,,4,7.21,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,75-60,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=417
 ,,,,,,,,,,4,7.14,Boston Celtics,shot,Bradley,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,75-63,24,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=418
-,,,,,,,,,,4,6.56,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,,,,,75-63,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=419
+,,,,,,,,,,4,6.56,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,Pierce,,,,75-63,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=419
 ,,,,,,,,,,4,6.55,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Layup,,,75-65,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=420
 ,,,,,,,,,,4,6.55,New York Knicks,foul,,,,,,,,,,Felton,,,,,,Shooting Block,,,75-65,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=421
 ,,,,,,,,,,4,6.55,New York Knicks,substitute,,,,Chandler,,Martin,,,,,,,,,,,,,75-65,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=422
 ,,,,,,,,,,4,6.55,Boston Celtics,free throw,,,,,,,1,,1,Pierce,1,,foul,made,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=423
-,,,,,,,,,,4,6.39,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=425
+,,,,,,,,,,4,6.39,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,Bradley,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=425
 ,,,,,,,,,,4,6.39,New York Knicks,foul,,,,,,,,,,Kidd,,,,,,Personal,,,75-66,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=426
 ,,,,,,,,,,4,6.39,Boston Celtics,free throw,,,,,,,1,,2,Bradley,1,,foul,made,,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=427
 ,,,,,,,,,,4,6.39,Boston Celtics,free throw,,,,,,,2,,2,Bradley,1,,foul,made,,,,,75-68,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=429
@@ -375,7 +375,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.44,Boston Celtics,free throw,,,,,,,2,,2,Green,1,,foul,made,,,,,75-69,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=448
 ,,,,,,,,,,4,5.21,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Step Back Jump Shot,,,75-69,21,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=451
 ,,,,,,,,,,4,5.20,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,75-69,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=452
-,,,,,,,,,,4,5.10,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,75-69,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=453
+,,,,,,,,,,4,5.10,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Shumpert,,,,75-69,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=453
 ,,,,,,,,,,4,5.06,New York Knicks,shot,,,,,,,,,,Shumpert,2,,,made,,Layup,,,77-69,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=454
 ,,,,,,,,,,4,4.40,Boston Celtics,shot,,,,,,,,,,Bradley,2,,,made,,Layup,,,77-71,2,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=455
 ,,,,,,,,,,4,4.15,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,77-71,24,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=456
@@ -388,7 +388,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.50,New York Knicks,free throw,,,,,,,2,,2,Anthony,1,,foul,made,,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=467
 ,,,,,,,,,,4,3.44,Boston Celtics,foul,,,,,,,,,,Green,,,,,,Offensive Charge,,,79-73,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=469
 ,,,,,,,,,,4,3.44,Boston Celtics,turnover,,,,,,,,,,Green,,,Foul,,,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=470
-,,,,,,,,,,4,3.36,New York Knicks,turnover,,,,,,,,,,Anthony,,,Lost Ball,,,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=471
+,,,,,,,,,,4,3.36,New York Knicks,turnover,,,,,,,,,,Anthony,,,Lost Ball,,Bradley,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=471
 ,,,,,,,,,,4,3.32,Boston Celtics,shot,,,,,,,,,,Bradley,2,,,made,,Slam Dunk,,,79-75,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=472
 ,,,,,,,,,,4,3.10,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Pullup Jump Shot,,,81-75,13,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=473
 ,,,,,,,,,,4,2.55,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,81-75,25,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=474
@@ -402,7 +402,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.05,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,81-75,25,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=483
 ,,,,,,,,,,4,2.04,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,81-75,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=484
 ,,,,,,,,,,4,1.43,New York Knicks,shot,Felton,,,,,,,,,Anthony,3,,,made,,3PT Jump Shot,,,84-75,25,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=485
-,,,,,,,,,,4,1.28,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Driving Layup,,,84-75,3,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=486
+,,,,,,,,,,4,1.28,Boston Celtics,shot,,,Anthony,,,,,,,Pierce,,,,missed,,Driving Layup,,,84-75,3,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=486
 ,,,,,,,,,,4,1.27,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,84-75,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=487
 ,,,,,,,,,,4,1.21,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Layup,,,86-75,1,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=488
 ,,,,,,,,,,4,1.21,Boston Celtics,foul,,,,,,,,,,Green,,,,,,Shooting,,,86-75,,http://stats.nba.com/cvp.html?GameID=0041200116&GameEventID=489

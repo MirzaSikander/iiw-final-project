@@ -21,7 +21,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.29,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Step Out of Bounds,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=23
 ,,,,,,,,,,1,8.14,Minnesota Timberwolves,shot,,,,,,,,,,Howard,,,,missed,,Layup,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=24
 ,,,,,,,,,,1,8.13,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=25
-,,,,,,,,,,1,8.08,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=26
+,,,,,,,,,,1,8.08,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Lee,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=26
 ,,,,,,,,,,1,8.03,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,2,,,made,,Layup,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=27
 ,,,,,,,,,,1,7.51,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,8-8,25,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=28
 ,,,,,,,,,,1,7.50,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=29
@@ -46,14 +46,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.37,Boston Celtics,shot,Rondo,,,,,,,,,Terry,2,,,made,,Jump Shot,,,14-17,22,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=49
 ,,,,,,,,,,1,5.30,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,14-17,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=50
 ,,,,,,,,,,1,5.30,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,14-17,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=55
-,,,,,,,,,,1,5.19,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,14-17,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=56
+,,,,,,,,,,1,5.19,Minnesota Timberwolves,shot,,,Sullinger,,,,,,,Pekovic,,,,missed,,Layup,,,14-17,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=56
 ,,,,,,,,,,1,5.18,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,14-17,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=57
 ,,,,,,,,,,1,5.14,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,14-17,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=58
 ,,,,,,,,,,1,5.07,Minnesota Timberwolves,foul,,,,,,,,,,,,,,,,,,,14-17,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=59
 ,,,,,,,,,,1,5.07,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Foul,,,,,,14-17,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=60
 ,,,,,,,,,,1,4.55,Boston Celtics,shot,Rondo,,,,,,,,,Sullinger,2,,,made,,Jump Shot,,,14-19,21,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=61
-,,,,,,,,,,1,4.34,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Bad Pass,,,,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=63
-,,,,,,,,,,1,4.30,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=64
+,,,,,,,,,,1,4.34,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Bad Pass,,Pierce,,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=63
+,,,,,,,,,,1,4.30,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Lee,,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=64
 ,,,,,,,,,,1,4.30,Boston Celtics,foul,,,,,,,,,,Sullinger,,,,,,Shooting,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=65
 ,,,,,,,,,,1,4.30,Minnesota Timberwolves,free throw,,,,,,,1,,2,Love,,,foul,missed,,,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=66
 ,,,,,,,,,,1,4.30,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=67
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.13,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,23-21,20,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=91
 ,,,,,,,,,,1,2.12,Minnesota Timberwolves,rebound,,,,,,,,,,Shved,,,,,,,,,23-21,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=92
 ,,,,,,,,,,1,1.47,Minnesota Timberwolves,shot,Cunningham,,,,,,,,,Stiemsma,2,,,made,,Running Layup,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=93
-,,,,,,,,,,1,1.31,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Layup,,,25-21,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=94
+,,,,,,,,,,1,1.31,Boston Celtics,shot,,,Stiemsma,,,,,,,Green,,,,missed,,Layup,,,25-21,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=94
 ,,,,,,,,,,1,1.30,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=95
 ,,,,,,,,,,1,1.28,Boston Celtics,shot,,,,,,,,,,Green,2,,,made,,Layup,,,25-23,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=96
 ,,,,,,,,,,1,1.07,Minnesota Timberwolves,shot,,,,,,,,,,Howard,,,,missed,,Jump Shot,,,25-23,19,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=97
@@ -113,9 +113,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.27,Minnesota Timberwolves,foul,,,,,,,,,,Stiemsma,,,,,,Personal,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=133
 ,,,,,,,,,,2,9.19,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=134
 ,,,,,,,,,,2,9.18,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=135
-,,,,,,,,,,2,9.10,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,,,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=136
+,,,,,,,,,,2,9.10,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,Lee,,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=136
 ,,,,,,,,,,2,9.08,Minnesota Timberwolves,foul,,,,,,,,,,Shved,,,,,,Personal,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=137
-,,,,,,,,,,2,8.51,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Layup,,,32-35,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=138
+,,,,,,,,,,2,8.51,Boston Celtics,shot,,,Stiemsma,,,,,,,Terry,,,,missed,,Layup,,,32-35,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=138
 ,,,,,,,,,,2,8.50,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=139
 ,,,,,,,,,,2,8.45,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,3PT Jump Shot,,,32-35,25,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=142
 ,,,,,,,,,,2,8.44,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=143
@@ -129,7 +129,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.42,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,32-37,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=151
 ,,,,,,,,,,2,7.33,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Turnaround Jump Shot,,,32-37,8,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=152
 ,,,,,,,,,,2,7.32,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,32-37,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=153
-,,,,,,,,,,2,7.23,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,,,,,32-37,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=154
+,,,,,,,,,,2,7.23,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,Bass,,,,32-37,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=154
 ,,,,,,,,,,2,7.18,Boston Celtics,shot,Lee,,,,,,,,,Terry,2,,,made,,Pullup Jump Shot,,,32-39,11,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=155
 ,,,,,,,,,,2,7.00,Minnesota Timberwolves,shot,,,,,,,,,,Shved,2,,,made,,Floating Jump Shot,,,34-39,4,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=156
 ,,,,,,,,,,2,6.54,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,34-39,2,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=157
@@ -167,7 +167,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.10,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Running Jump Shot,,,40-43,3,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=194
 ,,,,,,,,,,2,4.01,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Layup,,,40-43,2,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=195
 ,,,,,,,,,,2,4.00,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=196
-,,,,,,,,,,2,3.50,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=197
+,,,,,,,,,,2,3.50,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Shved,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=197
 ,,,,,,,,,,2,3.46,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,3PT Jump Shot,,,40-43,25,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=198
 ,,,,,,,,,,2,3.45,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=199
 ,,,,,,,,,,2,3.43,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,2,,,made,,Layup,,,42-43,2,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=200
@@ -186,7 +186,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.26,Minnesota Timberwolves,free throw,,,,,,,2,,2,Pekovic,1,,foul,made,,,,,46-45,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=216
 ,,,,,,,,,,2,2.14,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Traveling,,,,,,46-45,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=218
 ,,,,,,,,,,2,2.14,Boston Celtics,substitute,,,,Lee,,Terry,,,,,,,,,,,,,46-45,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=219
-,,,,,,,,,,2,1.53,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,Layup,,,46-45,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=220
+,,,,,,,,,,2,1.53,Minnesota Timberwolves,shot,,,Bass,,,,,,,Love,,,,missed,,Layup,,,46-45,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=220
 ,,,,,,,,,,2,1.51,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,46-45,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=221
 ,,,,,,,,,,2,1.47,Minnesota Timberwolves,foul,,,,,,,,,,Howard,,,,,,Shooting Block,,,46-45,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=222
 ,,,,,,,,,,2,1.47,Boston Celtics,free throw,,,,,,,1,,2,Pierce,1,,foul,made,,,,,46-46,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=223
@@ -202,18 +202,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.15,Boston Celtics,substitute,,,,Garnett,,Wilcox,,,,,,,,,,,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=235
 ,,,,,,,,,,2,1.15,Minnesota Timberwolves,free throw,,,,,,,2,,2,Love,,,foul,missed,,,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=236
 ,,,,,,,,,,2,1.14,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=238
-,,,,,,,,,,2,1.03,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=239
+,,,,,,,,,,2,1.03,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Pekovic,,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=239
 ,,,,,,,,,,2,0.53,Minnesota Timberwolves,shot,,,,,,,,,,Love,2,,,made,,Layup,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=240
-,,,,,,,,,,2,0.47,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=241
+,,,,,,,,,,2,0.47,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Howard,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=241
 ,,,,,,,,,,2,0.45,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Personal,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=242
 ,,,,,,,,,,2,0.45,Minnesota Timberwolves,free throw,,,,,,,1,,2,Howard,,,foul,missed,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=243
 ,,,,,,,,,,2,0.45,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=244
 ,,,,,,,,,,2,0.45,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=245
 ,,,,,,,,,,2,0.45,Minnesota Timberwolves,substitute,,,,Cunningham,,Love,,,,,,,,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=247
 ,,,,,,,,,,2,0.45,Minnesota Timberwolves,free throw,,,,,,,2,,2,Howard,1,,foul,made,,,,,49-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=248
-,,,,,,,,,,2,0.31,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,49-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=250
+,,,,,,,,,,2,0.31,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Howard,,,,49-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=250
 ,,,,,,,,,,2,0.29,Minnesota Timberwolves,shot,Barea,,,,,,,,,Howard,2,,,made,,Dunk,,,51-47,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=251
-,,,,,,,,,,2,0.23,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,,,,,51-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=252
+,,,,,,,,,,2,0.23,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,Pekovic,,,,51-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=252
 ,,,,,,,,,,2,0.01,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Jump Shot,,,51-47,25,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=253
 ,,,,,,,,,,2,0.01,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,51-47,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=254
 ,,,,,,,,,,2,0.00,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,3PT Jump Shot,,,51-47,71,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=255
@@ -230,7 +230,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.59,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,2,,,made,,Turnaround Jump Shot,,,55-52,11,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=268
 ,,,,,,,,,,3,9.47,Boston Celtics,shot,Garnett,,,,,,,,,Bass,2,,,made,,Jump Shot,,,55-54,18,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=269
 ,,,,,,,,,,3,9.22,Minnesota Timberwolves,shot,Love,,,,,,,,,Pekovic,2,,,made,,Turnaround Hook Shot,,,57-54,9,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=270
-,,,,,,,,,,3,9.13,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,57-54,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=271
+,,,,,,,,,,3,9.13,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Ridnour,,,,57-54,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=271
 ,,,,,,,,,,3,8.58,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Turnaround Hook Shot,,,57-54,9,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=272
 ,,,,,,,,,,3,8.56,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,57-54,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=273
 ,,,,,,,,,,3,8.47,Boston Celtics,shot,Rondo,,,,,,,,,Bass,2,,,made,,Jump Shot,,,57-56,14,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=274
@@ -248,7 +248,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.08,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour Out of Bounds,,,Lost Ball,,,,,,61-59,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=288
 ,,,,,,,,,,3,7.08,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,61-59,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=289
 ,,,,,,,,,,3,6.53,Boston Celtics,shot,Pierce,,,,,,,,,Bass,2,,,made,,Jump Shot,,,61-61,19,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=290
-,,,,,,,,,,3,6.34,Minnesota Timberwolves,shot,,,,,,,,,,Howard,,,,missed,,Layup,,,61-61,2,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=291
+,,,,,,,,,,3,6.34,Minnesota Timberwolves,shot,,,Bass,,,,,,,Howard,,,,missed,,Layup,,,61-61,2,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=291
 ,,,,,,,,,,3,6.30,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=292
 ,,,,,,,,,,3,6.29,Minnesota Timberwolves,foul,,,,,,,,,,Pekovic,,,,,,Shooting,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=293
 ,,,,,,,,,,3,6.29,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=294
@@ -271,7 +271,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.43,Minnesota Timberwolves,shot,,,,,,,,,,Howard,2,,,made,,Layup,,,63-67,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=313
 ,,,,,,,,,,3,4.33,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=314
 ,,,,,,,,,,3,4.33,Boston Celtics,substitute,,,,Green,,Pierce,,,,,,,,,,,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=316
-,,,,,,,,,,3,4.23,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=317
+,,,,,,,,,,3,4.23,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Howard,,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=317
 ,,,,,,,,,,3,4.02,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,63-67,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=318
 ,,,,,,,,,,3,4.01,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=319
 ,,,,,,,,,,3,4.01,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,Tip Shot,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=320
@@ -285,7 +285,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.21,Boston Celtics,shot,,,,,,,,,,Bass,2,,,made,,Driving Layup,,,67-73,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=330
 ,,,,,,,,,,3,2.08,Minnesota Timberwolves,shot,Love,,,,,,,,,Ridnour,2,,,made,,Floating Jump Shot,,,69-73,7,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=331
 ,,,,,,,,,,3,1.52,Boston Celtics,shot,,,,,,,,,,Wilcox,2,,,made,,Layup,,,69-75,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=332
-,,,,,,,,,,3,1.34,Minnesota Timberwolves,shot,,,,,,,,,,Howard,,,,missed,,Layup,,,69-75,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=333
+,,,,,,,,,,3,1.34,Minnesota Timberwolves,shot,,,Bass,,,,,,,Howard,,,,missed,,Layup,,,69-75,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=333
 ,,,,,,,,,,3,1.32,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=334
 ,,,,,,,,,,3,1.30,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,2,,,made,,Layup,,,71-75,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=335
 ,,,,,,,,,,3,1.14,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Jump Shot,,,71-77,18,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=336
@@ -302,7 +302,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.25,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,3PT Jump Shot,,,72-77,24,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=349
 ,,,,,,,,,,3,0.24,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,72-77,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=350
 ,,,,,,,,,,3,0.24,Boston Celtics,shot,,,,,,,,,,Wilcox,2,,,made,,Putback Layup,,,72-79,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=351
-,,,,,,,,,,3,0.06,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=352
+,,,,,,,,,,3,0.06,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,Rondo,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=352
 ,,,,,,,,,,3,0.04,Boston Celtics,substitute,,,,Barbosa,,Sullinger,,,,,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=354
 ,,,,,,,,,,3,0.01,Minnesota Timberwolves,foul,,,,,,,,,,Barea,,,,,,Personal Take,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=355
 ,,,,,,,,,,3,0.01,Minnesota Timberwolves,substitute,,,,Ridnour,,Love,,,,,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=356
@@ -344,7 +344,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.40,Boston Celtics,foul,,,,,,,,,,Terry,,,,,,Personal,,,75-87,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=406
 ,,,,,,,,,,4,8.28,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Jump Shot,,,75-87,6,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=409
 ,,,,,,,,,,4,8.24,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,75-87,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=412
-,,,,,,,,,,4,8.18,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Lost Ball,,,,,,75-87,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=413
+,,,,,,,,,,4,8.18,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Lost Ball,,Garnett,,,,75-87,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=413
 ,,,,,,,,,,4,8.10,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Jump Shot,,,75-87,19,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=414
 ,,,,,,,,,,4,8.09,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,75-87,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=415
 ,,,,,,,,,,4,8.00,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,Layup,,,75-87,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=416
@@ -352,7 +352,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.53,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Layup,,,75-87,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=420
 ,,,,,,,,,,4,7.52,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,75-87,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=421
 ,,,,,,,,,,4,7.48,Boston Celtics,shot,Sullinger,,,,,,,,,Terry,3,,,made,,3PT Jump Shot,,,75-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=422
-,,,,,,,,,,4,7.28,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,Jump Shot,,,75-90,3,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=423
+,,,,,,,,,,4,7.28,Minnesota Timberwolves,shot,,,Sullinger,,,,,,,Love,,,,missed,,Jump Shot,,,75-90,3,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=423
 ,,,,,,,,,,4,7.26,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,75-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=424
 ,,,,,,,,,,4,7.23,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,75-90,24,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=425
 ,,,,,,,,,,4,7.21,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,75-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=426
@@ -370,8 +370,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.56,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Foul,,,,,,75-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=440
 ,,,,,,,,,,4,6.56,Boston Celtics,substitute,,,,Bass,,Sullinger,,,,,,,,,,,,,75-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=441
 ,,,,,,,,,,4,6.51,Minnesota Timberwolves,shot,,,,,,,,,,Barea,2,,,made,,Driving Layup,,,77-90,1,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=442
-,,,,,,,,,,4,6.39,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Bad Pass,,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=443
-,,,,,,,,,,4,6.35,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=444
+,,,,,,,,,,4,6.39,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Bad Pass,,Shved,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=443
+,,,,,,,,,,4,6.35,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,Bass,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=444
 ,,,,,,,,,,4,6.30,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Shooting,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=445
 ,,,,,,,,,,4,6.30,Boston Celtics,free throw,,,,,,,1,,2,Lee,,,foul,missed,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=446
 ,,,,,,,,,,4,6.30,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=447
@@ -428,12 +428,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.00,Boston Celtics,substitute,,,,Green,,Pierce,,,,,,,,,,,,,85-101,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=513
 ,,,,,,,,,,4,3.00,Boston Celtics,free throw,,,,,,,2,,2,Rondo,1,,foul,made,,,,,85-102,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=514
 ,,,,,,,,,,4,2.39,Minnesota Timberwolves,shot,Shved,,,,,,,,,Williams,2,,,made,,Dunk,,,87-102,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=516
-,,,,,,,,,,4,2.19,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Turnaround Jump Shot,,,87-102,12,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=517
+,,,,,,,,,,4,2.19,Boston Celtics,shot,,,Lee,,,,,,,Green,,,,missed,,Turnaround Jump Shot,,,87-102,12,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=517
 ,,,,,,,,,,4,2.18,Minnesota Timberwolves,rebound,,,,,,,,,,Amundson,,,,,,,,,87-102,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=518
 ,,,,,,,,,,4,2.06,Minnesota Timberwolves,shot,,,,,,,,,,Lee,,,,missed,,3PT Jump Shot,,,87-102,25,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=519
 ,,,,,,,,,,4,2.05,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,87-102,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=520
 ,,,,,,,,,,4,1.46,Boston Celtics,shot,,,,,,,,,,Bass,2,,,made,,Jump Shot,,,87-104,19,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=521
-,,,,,,,,,,4,1.34,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,Layup,,,87-104,2,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=522
+,,,,,,,,,,4,1.34,Minnesota Timberwolves,shot,,,Wilcox,,,,,,,Shved,,,,missed,,Layup,,,87-104,2,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=522
 ,,,,,,,,,,4,1.32,Minnesota Timberwolves,rebound,,,,,,,,,,Lee,,,,,,,,,87-104,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=523
 ,,,,,,,,,,4,1.29,Minnesota Timberwolves,shot,,,,,,,,,,Lee,3,,,made,,3PT Jump Shot,,,90-104,25,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=524
 ,,,,,,,,,,4,1.05,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,3PT Jump Shot,,,90-104,24,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=525
@@ -447,7 +447,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.04,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=534
 ,,,,,,,,,,4,1.04,Minnesota Timberwolves,free throw,,,,,,,2,,2,Amundson,,,foul,missed,,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=535
 ,,,,,,,,,,4,1.03,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=537
-,,,,,,,,,,4,0.53,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=538
+,,,,,,,,,,4,0.53,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Amundson,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=538
 ,,,,,,,,,,4,0.35,Boston Celtics,foul,,,,,,,,,,Sullinger,,,,,,Shooting,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=539
 ,,,,,,,,,,4,0.35,Minnesota Timberwolves,free throw,,,,,,,1,,2,Lee,1,,foul,made,,,,,91-104,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=540
 ,,,,,,,,,,4,0.35,Minnesota Timberwolves,free throw,,,,,,,2,,2,Lee,,,foul,missed,,,,,91-104,,http://stats.nba.com/cvp.html?GameID=0021200259&GameEventID=542

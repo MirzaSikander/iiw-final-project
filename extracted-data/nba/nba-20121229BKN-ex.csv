@@ -5,8 +5,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.26,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=5
 ,,,,,,,,,,1,11.26,Brooklyn Nets,free throw,,,,,,,2,,2,Wallace,,,foul,missed,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=6
 ,,,,,,,,,,1,11.25,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=8
-,,,,,,,,,,1,11.04,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=9
-,,,,,,,,,,1,11.00,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Lost Ball,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=10
+,,,,,,,,,,1,11.04,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,Bogans,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=9
+,,,,,,,,,,1,11.00,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Lost Ball,,Waiters,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=10
 ,,,,,,,,,,1,10.43,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,2-0,14,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=11
 ,,,,,,,,,,1,10.42,Brooklyn Nets,rebound,,,,,,,,,,Bogans,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=12
 ,,,,,,,,,,1,10.24,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Hook Shot,,,2-0,5,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=13
@@ -25,7 +25,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.08,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,6-4,27,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=27
 ,,,,,,,,,,1,8.07,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=28
 ,,,,,,,,,,1,8.06,Brooklyn Nets,shot,,,,,,,,,,Lopez,2,,,made,,Putback Layup,,,6-6,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=29
-,,,,,,,,,,1,7.52,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=30
+,,,,,,,,,,1,7.52,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,Johnson,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=30
 ,,,,,,,,,,1,7.46,Brooklyn Nets,shot,Johnson,,,,,,,,,Bogans,3,,,made,,3PT Jump Shot,,,6-9,25,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=31
 ,,,,,,,,,,1,7.20,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,6-9,14,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=33
 ,,,,,,,,,,1,7.18,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,6-9,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=34
@@ -36,7 +36,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.15,Cleveland Cavaliers,free throw,,,,,,,1,,2,Waiters,1,,foul,made,,,,,9-13,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=39
 ,,,,,,,,,,1,6.15,Cleveland Cavaliers,free throw,,,,,,,2,,2,Waiters,,,foul,missed,,,,,9-13,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=41
 ,,,,,,,,,,1,6.14,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,9-13,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=43
-,,,,,,,,,,1,5.52,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,,,,,9-13,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=44
+,,,,,,,,,,1,5.52,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,Gee,,,,9-13,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=44
 ,,,,,,,,,,1,5.46,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Alley Oop Layup,,,9-13,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=45
 ,,,,,,,,,,1,5.44,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,9-13,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=46
 ,,,,,,,,,,1,5.43,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,2,,,made,,Putback Dunk,,,11-13,2,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=47
@@ -105,18 +105,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.01,Brooklyn Nets,free throw,,,,,,,2,,2,D. Williams,1,,foul,made,,,,,24-34,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=118
 ,,,,,,,,,,2,11.40,Brooklyn Nets,shot,Stackhouse,,,,,,,,,Blatche,3,,,made,,3PT Jump Shot,,,24-37,24,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=123
 ,,,,,,,,,,2,11.13,Cleveland Cavaliers,shot,Thompson,,,,,,,,,Pargo,2,,,made,,Running Jump Shot,,,26-37,5,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=124
-,,,,,,,,,,2,10.53,Brooklyn Nets,shot,,,,,,,,,,Evans,,,,missed,,Jump Shot,,,26-37,4,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=125
+,,,,,,,,,,2,10.53,Brooklyn Nets,shot,,,Thompson,,,,,,,Evans,,,,missed,,Jump Shot,,,26-37,4,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=125
 ,,,,,,,,,,2,10.51,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,26-37,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=126
 ,,,,,,,,,,2,10.48,Brooklyn Nets,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,26-37,2,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=127
 ,,,,,,,,,,2,10.47,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,26-37,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=128
 ,,,,,,,,,,2,10.41,Cleveland Cavaliers,shot,,,,,,,,,,Miles,2,,,made,,Jump Shot,,,28-37,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=129
-,,,,,,,,,,2,10.23,Brooklyn Nets,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,28-37,1,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=130
+,,,,,,,,,,2,10.23,Brooklyn Nets,shot,,,Thompson,,,,,,,Evans,,,,missed,,Layup,,,28-37,1,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=130
 ,,,,,,,,,,2,10.22,Cleveland Cavaliers,rebound,,,,,,,,,,Walton,,,,,,,,,28-37,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=131
 ,,,,,,,,,,2,10.09,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,3PT Jump Shot,,,28-37,26,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=132
 ,,,,,,,,,,2,10.08,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,28-37,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=133
 ,,,,,,,,,,2,9.55,Brooklyn Nets,shot,,,,,,,,,,Stackhouse,2,,,made,,Turnaround Jump Shot,,,28-39,12,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=134
-,,,,,,,,,,2,9.40,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,,,,,28-39,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=135
-,,,,,,,,,,2,9.27,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,28-39,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=136
+,,,,,,,,,,2,9.40,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,Evans,,,,28-39,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=135
+,,,,,,,,,,2,9.27,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Waiters,,,,28-39,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=136
 ,,,,,,,,,,2,9.24,Cleveland Cavaliers,shot,Waiters,,,,,,,,,Miles,2,,,made,,Layup,,,30-39,2,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=137
 ,,,,,,,,,,2,9.24,Brooklyn Nets,foul,,,,,,,,,,Watson,,,,,,Shooting,,,30-39,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=143
 ,,,,,,,,,,2,9.24,Cleveland Cavaliers,free throw,,,,,,,1,,1,Miles,1,,foul,made,,,,,31-39,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=138
@@ -131,7 +131,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.21,Cleveland Cavaliers,foul,,,,,,,,,,Thompson,,,,,,Loose ball,,,33-41,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=151
 ,,,,,,,,,,2,8.08,Brooklyn Nets,shot,,,,,,,,,,Stackhouse,,,,missed,,Jump Shot,,,33-41,8,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=152
 ,,,,,,,,,,2,8.07,Cleveland Cavaliers,rebound,,,,,,,,,,Pargo,,,,,,,,,33-41,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=153
-,,,,,,,,,,2,8.02,Cleveland Cavaliers,shot,,,,,,,,,,Pargo,,,,missed,,Driving Layup,,,33-41,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=154
+,,,,,,,,,,2,8.02,Cleveland Cavaliers,shot,,,Blatche,,,,,,,Pargo,,,,missed,,Driving Layup,,,33-41,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=154
 ,,,,,,,,,,2,8.01,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,33-41,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=155
 ,,,,,,,,,,2,7.52,Cleveland Cavaliers,shot,Waiters,,,,,,,,,Walton,2,,,made,,Jump Shot,,,35-41,18,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=156
 ,,,,,,,,,,2,7.25,Brooklyn Nets,shot,,,,,,,,,,Wallace,2,,,made,,Reverse Layup,,,35-43,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=157
@@ -140,7 +140,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.10,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=160
 ,,,,,,,,,,2,7.08,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=161
 ,,,,,,,,,,2,7.08,Brooklyn Nets,substitute,,,,Brooks,,Stackhouse,,,,,,,,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=162
-,,,,,,,,,,2,7.02,Cleveland Cavaliers,shot,,,,,,,,,,Pargo,,,,missed,,Jump Shot,,,35-43,20,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=163
+,,,,,,,,,,2,7.02,Cleveland Cavaliers,shot,,,Watson,,,,,,,Pargo,,,,missed,,Jump Shot,,,35-43,20,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=163
 ,,,,,,,,,,2,7.01,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=164
 ,,,,,,,,,,2,6.44,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Turnaround Jump Shot,,,35-43,9,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=165
 ,,,,,,,,,,2,6.42,Cleveland Cavaliers,rebound,,,,,,,,,,Walton,,,,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=166
@@ -158,7 +158,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.50,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Layup,,,38-47,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=181
 ,,,,,,,,,,2,4.49,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,38-47,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=182
 ,,,,,,,,,,2,4.48,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,2,,,made,,Tip Shot,,,40-47,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=183
-,,,,,,,,,,2,4.31,Brooklyn Nets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,,,,,40-47,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=184
+,,,,,,,,,,2,4.31,Brooklyn Nets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,Waiters,,,,40-47,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=184
 ,,,,,,,,,,2,4.29,Brooklyn Nets,foul,,,,,,,,,,Johnson,,,,,,Personal,,,40-47,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=185
 ,,,,,,,,,,2,4.29,Cleveland Cavaliers,substitute,,,,Zeller,,Thompson,,,,,,,,,,,,,40-47,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=186
 ,,,,,,,,,,2,4.29,Cleveland Cavaliers,substitute,,,,Irving,,Pargo,,,,,,,,,,,,,40-47,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=188
@@ -168,7 +168,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.48,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,42-49,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=191
 ,,,,,,,,,,2,3.43,Brooklyn Nets,shot,D. Williams,,,,,,,,,Lopez,2,,,made,,Slam Dunk,,,42-51,1,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=192
 ,,,,,,,,,,2,3.34,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,42-51,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=193
-,,,,,,,,,,2,3.20,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,,,,,42-51,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=195
+,,,,,,,,,,2,3.20,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,Wallace,,,,42-51,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=195
 ,,,,,,,,,,2,3.17,Cleveland Cavaliers,foul,,,,,,,,,,Irving,,,,,,Shooting,,,42-51,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=196
 ,,,,,,,,,,2,3.17,Brooklyn Nets,free throw,,,,,,,1,,2,Wallace,1,,foul,made,,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=197
 ,,,,,,,,,,2,3.17,Cleveland Cavaliers,substitute,,,,Walton,,Waiters,,,,,,,,,,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=199
@@ -177,9 +177,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.06,Cleveland Cavaliers,shot,Walton,,,,,,,,,Zeller,2,,,made,,Layup,,,44-52,2,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=203
 ,,,,,,,,,,2,2.49,Brooklyn Nets,shot,,,,,,,,,,Brooks,,,,missed,,Jump Shot,,,44-52,11,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=204
 ,,,,,,,,,,2,2.48,Cleveland Cavaliers,rebound,,,,,,,,,,Gee,,,,,,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=205
-,,,,,,,,,,2,2.45,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Lost Ball,,,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=206
+,,,,,,,,,,2,2.45,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Lost Ball,,Brooks,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=206
 ,,,,,,,,,,2,2.39,Brooklyn Nets,shot,D. Williams,,,,,,,,,Brooks,2,,,made,,Jump Shot,,,44-54,20,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=207
-,,,,,,,,,,2,2.24,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,44-54,5,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=208
+,,,,,,,,,,2,2.24,Cleveland Cavaliers,shot,,,Wallace,,,,,,,Zeller,,,,missed,,Jump Shot,,,44-54,5,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=208
 ,,,,,,,,,,2,2.22,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,44-54,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=209
 ,,,,,,,,,,2,2.20,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,2,,,made,,Slam Dunk,,,46-54,1,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=210
 ,,,,,,,,,,2,1.56,Brooklyn Nets,shot,D. Williams,,,,,,,,,Brooks,2,,,made,,Slam Dunk,,,46-56,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=211
@@ -188,7 +188,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.33,Brooklyn Nets,shot,Wallace,,,,,,,,,Lopez,2,,,made,,Dunk,,,46-58,2,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=214
 ,,,,,,,,,,2,1.18,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,Fadeaway Jumper,,,46-58,10,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=215
 ,,,,,,,,,,2,1.17,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,46-58,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=216
-,,,,,,,,,,2,1.03,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,,,,,46-58,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=217
+,,,,,,,,,,2,1.03,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,Gee,,,,46-58,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=217
 ,,,,,,,,,,2,1.00,Cleveland Cavaliers,shot,,,,,,,,,,Gee,2,,,made,,Slam Dunk,,,48-58,1,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=218
 ,,,,,,,,,,2,0.40,Brooklyn Nets,shot,,,,,,,,,,Brooks,,,,missed,,Jump Shot,,,48-58,14,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=219
 ,,,,,,,,,,2,0.39,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,48-58,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=220
@@ -263,7 +263,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.25,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,61-72,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=304
 ,,,,,,,,,,3,5.24,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Tip Shot,,,61-72,2,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=329
 ,,,,,,,,,,3,5.23,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,61-72,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=330
-,,,,,,,,,,3,5.20,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Layup,,,61-72,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=331
+,,,,,,,,,,3,5.20,Cleveland Cavaliers,shot,,,Lopez,,,,,,,Zeller,,,,missed,,Layup,,,61-72,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=331
 ,,,,,,,,,,3,5.18,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,61-72,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=332
 ,,,,,,,,,,3,5.10,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,Jump Shot,,,61-72,17,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=305
 ,,,,,,,,,,3,5.09,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,61-72,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=306
@@ -271,7 +271,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.39,Cleveland Cavaliers,shot,Gee,,,,,,,,,Zeller,2,,,made,,Layup,,,63-74,4,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=308
 ,,,,,,,,,,3,4.19,Brooklyn Nets,shot,,,,,,,,,,Bogans,,,,missed,,3PT Jump Shot,,,63-74,25,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=309
 ,,,,,,,,,,3,4.18,Cleveland Cavaliers,rebound,,,,,,,,,,Gee,,,,,,,,,63-74,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=310
-,,,,,,,,,,3,4.07,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Lost Ball,,,,,,63-74,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=311
+,,,,,,,,,,3,4.07,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Lost Ball,,Johnson,,,,63-74,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=311
 ,,,,,,,,,,3,4.00,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Shooting,,,63-74,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=312
 ,,,,,,,,,,3,4.00,Brooklyn Nets,free throw,,,,,,,1,,2,Lopez,,,foul,missed,,,,,63-74,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=313
 ,,,,,,,,,,3,4.00,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,63-74,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=314
@@ -280,7 +280,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.00,Brooklyn Nets,free throw,,,,,,,2,,2,Lopez,1,,foul,made,,,,,63-75,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=317
 ,,,,,,,,,,3,3.41,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,63-75,21,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=320
 ,,,,,,,,,,3,3.39,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,63-75,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=321
-,,,,,,,,,,3,3.28,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Bad Pass,,,,,,63-75,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=322
+,,,,,,,,,,3,3.28,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Bad Pass,,Irving,,,,63-75,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=322
 ,,,,,,,,,,3,3.23,Cleveland Cavaliers,shot,,,,,,,,,,Irving,2,,,made,,Layup,,,65-75,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=323
 ,,,,,,,,,,3,3.01,Brooklyn Nets,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,65-75,2,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=324
 ,,,,,,,,,,3,3.00,Cleveland Cavaliers,rebound,,,,,,,,,,Miles,,,,,,,,,65-75,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=325
@@ -297,7 +297,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.50,Cleveland Cavaliers,substitute,,,,Thompson,,Zeller,,,,,,,,,,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=342
 ,,,,,,,,,,3,1.32,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,3PT Jump Shot,,,67-77,24,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=343
 ,,,,,,,,,,3,1.31,Cleveland Cavaliers,rebound,,,,,,,,,,Walton,,,,,,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=344
-,,,,,,,,,,3,1.20,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=345
+,,,,,,,,,,3,1.20,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,Wallace,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=345
 ,,,,,,,,,,3,1.19,Cleveland Cavaliers,foul,,,,,,,,,,Walton,,,,,,Personal,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=346
 ,,,,,,,,,,3,1.19,Brooklyn Nets,free throw,,,,,,,1,,2,Wallace,1,,foul,made,,,,,67-78,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=347
 ,,,,,,,,,,3,1.19,Brooklyn Nets,free throw,,,,,,,2,,2,Wallace,1,,foul,made,,,,,67-79,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=349
@@ -305,7 +305,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.49,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Jump Shot,,,69-79,12,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=354
 ,,,,,,,,,,3,0.48,Cleveland Cavaliers,rebound,,,,,,,,,,Irving,,,,,,,,,69-79,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=355
 ,,,,,,,,,,3,0.35,Cleveland Cavaliers,shot,Walton,,,,,,,,,Miles,3,,,made,,3PT Jump Shot,,,72-79,25,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=356
-,,,,,,,,,,3,0.15,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Bad Pass,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=358
+,,,,,,,,,,3,0.15,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Bad Pass,,Gee,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=358
 ,,,,,,,,,,3,0.04,Brooklyn Nets,foul,,,,,,,,,,Blatche,,,,,,Personal,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=359
 ,,,,,,,,,,3,0.00,Brooklyn Nets,foul,,,,,,,,,,D. Williams,,,,,,Shooting,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=360
 ,,,,,,,,,,3,0.00,Cleveland Cavaliers,free throw,,,,,,,1,,2,Irving,1,,foul,made,,,,,73-79,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=361
@@ -336,16 +336,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.32,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,Jump Shot,,,79-83,19,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=398
 ,,,,,,,,,,4,9.31,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=399
 ,,,,,,,,,,4,9.29,Brooklyn Nets,shot,,,,,,,,,,Evans,2,,,made,,Putback Layup,,,79-85,3,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=400
-,,,,,,,,,,4,9.15,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Lost Ball,,,,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=401
+,,,,,,,,,,4,9.15,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Lost Ball,,Evans,,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=401
 ,,,,,,,,,,4,9.13,Cleveland Cavaliers,foul,,,,,,,,,,Miles,,,,,,Shooting Block,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=402
 ,,,,,,,,,,4,9.13,Brooklyn Nets,free throw,,,,,,,1,,2,Evans,1,,foul,made,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=403
 ,,,,,,,,,,4,9.13,Brooklyn Nets,substitute,,,,Watson,,Stackhouse,,,,,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=405
 ,,,,,,,,,,4,9.13,Cleveland Cavaliers,substitute,,,,Zeller,,Thompson,,,,,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=406
 ,,,,,,,,,,4,9.13,Brooklyn Nets,free throw,,,,,,,2,,2,Evans,1,,foul,made,,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=407
-,,,,,,,,,,4,8.56,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=409
+,,,,,,,,,,4,8.56,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,Williams,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=409
 ,,,,,,,,,,4,8.44,Brooklyn Nets,shot,,,,,,,,,,Watson,,,,missed,,3PT Jump Shot,,,79-87,25,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=410
 ,,,,,,,,,,4,8.43,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=411
-,,,,,,,,,,4,8.26,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=412
+,,,,,,,,,,4,8.26,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,Evans,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=412
 ,,,,,,,,,,4,8.17,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Shooting,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=413
 ,,,,,,,,,,4,8.17,Brooklyn Nets,substitute,,,,Wallace,,D. Williams,,,,,,,,,,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=415
 ,,,,,,,,,,4,8.17,Brooklyn Nets,free throw,,,,,,,1,,2,Lopez,,,foul,missed,,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=416
@@ -358,7 +358,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.28,Brooklyn Nets,shot,,,,,,,,,,Johnson,2,,,made,,Fadeaway Jumper,,,81-90,14,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=425
 ,,,,,,,,,,4,7.17,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,Jump Shot,,,81-90,20,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=426
 ,,,,,,,,,,4,7.15,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=427
-,,,,,,,,,,4,7.14,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Lost Ball,,,,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=428
+,,,,,,,,,,4,7.14,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Lost Ball,,Johnson,,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=428
 ,,,,,,,,,,4,7.07,Cleveland Cavaliers,foul,,,,,,,,,,Miles,,,,,,Personal,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=429
 ,,,,,,,,,,4,7.07,Brooklyn Nets,free throw,,,,,,,1,,2,Evans,1,,foul,made,,,,,81-91,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=430
 ,,,,,,,,,,4,7.07,Brooklyn Nets,free throw,,,,,,,2,,2,Evans,1,,foul,made,,,,,81-92,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=432
@@ -411,7 +411,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.10,Cleveland Cavaliers,free throw,,,,,,,2,,2,Thompson,1,,foul,made,,,,,95-100,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=490
 ,,,,,,,,,,4,1.45,Brooklyn Nets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,95-100,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=492
 ,,,,,,,,,,4,1.45,Brooklyn Nets,substitute,,,,Evans,,Stackhouse,,,,,,,,,,,,,95-100,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=493
-,,,,,,,,,,4,1.25,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,,,,,95-100,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=494
+,,,,,,,,,,4,1.25,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,Williams,,,,95-100,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=494
 ,,,,,,,,,,4,1.06,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,95-100,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=495
 ,,,,,,,,,,4,1.06,Brooklyn Nets,substitute,,,,Stackhouse,,Evans,,,,,,,,,,,,,95-100,,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=496
 ,,,,,,,,,,4,0.59,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,3PT Jump Shot,,,95-100,24,http://stats.nba.com/cvp.html?GameID=0021200440&GameEventID=497

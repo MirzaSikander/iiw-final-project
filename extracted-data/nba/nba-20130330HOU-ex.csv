@@ -19,16 +19,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.46,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,2-4,19,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=22
 ,,,,,,,,,,1,9.45,Houston Rockets,rebound,,,,,,,,,,Anderson,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=23
 ,,,,,,,,,,1,9.39,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Driving Layup,,,2-6,1,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=24
-,,,,,,,,,,1,9.18,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=25
+,,,,,,,,,,1,9.18,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,Asik,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=25
 ,,,,,,,,,,1,9.14,Houston Rockets,shot,Asik,,,,,,,,,Parsons,2,,,made,,Dunk,,,2-8,1,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=26
 ,,,,,,,,,,1,8.58,Los Angeles Clippers,shot,Green,,,,,,,,,Butler,3,,,made,,3PT Jump Shot,,,5-8,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=27
 ,,,,,,,,,,1,8.53,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,5-8,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=28
 ,,,,,,,,,,1,8.38,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,5-8,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=29
 ,,,,,,,,,,1,8.36,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,5-8,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=30
-,,,,,,,,,,1,8.33,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Reverse Layup,,,5-8,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=31
+,,,,,,,,,,1,8.33,Los Angeles Clippers,shot,,,Asik,,,,,,,Butler,,,,missed,,Reverse Layup,,,5-8,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=31
 ,,,,,,,,,,1,8.31,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,5-8,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=32
 ,,,,,,,,,,1,8.25,Houston Rockets,shot,Parsons,,,,,,,,,Asik,2,,,made,,Dunk,,,5-10,1,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=33
-,,,,,,,,,,1,8.03,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,5-10,8,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=35
+,,,,,,,,,,1,8.03,Los Angeles Clippers,shot,,,Parsons,,,,,,,Butler,,,,missed,,Jump Shot,,,5-10,8,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=35
 ,,,,,,,,,,1,8.01,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=36
 ,,,,,,,,,,1,7.55,Los Angeles Clippers,foul,,,,,,,,,,Green,,,,,,Personal,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=37
 ,,,,,,,,,,1,7.45,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=38
@@ -36,7 +36,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.36,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Foul,,,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=40
 ,,,,,,,,,,1,7.26,Houston Rockets,turnover,,,,,,,,,,Asik,,,3 Second Violation,,,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=42
 ,,,,,,,,,,1,7.14,Los Angeles Clippers,shot,Paul,,,,,,,,,Jordan,2,,,made,,Alley Oop Dunk,,,7-10,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=43
-,,,,,,,,,,1,6.57,Houston Rockets,turnover,,,,,,,,,,Anderson,,,Bad Pass,,,,,,7-10,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=44
+,,,,,,,,,,1,6.57,Houston Rockets,turnover,,,,,,,,,,Anderson,,,Bad Pass,,Paul,,,,7-10,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=44
 ,,,,,,,,,,1,6.49,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Jump Shot,,,7-10,5,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=45
 ,,,,,,,,,,1,6.48,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,7-10,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=55
 ,,,,,,,,,,1,6.45,Houston Rockets,shot,,,,,,,,,,Parsons,2,,,made,,Layup,,,7-12,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=46
@@ -59,14 +59,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.48,Houston Rockets,shot,,,,,,,,,,Anderson,,,,missed,,Running Bank Shot,,,16-19,11,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=69
 ,,,,,,,,,,1,3.47,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,16-19,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=70
 ,,,,,,,,,,1,3.47,Houston Rockets,shot,,,,,,,,,,Smith,2,,,made,,Putback Layup,,,16-21,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=71
-,,,,,,,,,,1,3.30,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Bad Pass,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=72
+,,,,,,,,,,1,3.30,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Bad Pass,,Anderson,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=72
 ,,,,,,,,,,1,3.23,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Jump Bank Shot,,,16-21,18,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=73
 ,,,,,,,,,,1,3.21,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=74
 ,,,,,,,,,,1,3.12,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Pullup Jump Shot,,,18-21,19,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=75
-,,,,,,,,,,1,3.03,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=76
+,,,,,,,,,,1,3.03,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Paul,,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=76
 ,,,,,,,,,,1,2.57,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,18-21,19,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=77
 ,,,,,,,,,,1,2.55,Houston Rockets,rebound,,,,,,,,,,Anderson,,,,,,,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=78
-,,,,,,,,,,1,2.38,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=79
+,,,,,,,,,,1,2.38,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Paul,,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=79
 ,,,,,,,,,,1,2.31,Los Angeles Clippers,shot,Paul,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,21-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=80
 ,,,,,,,,,,1,2.19,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,21-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=81
 ,,,,,,,,,,1,2.19,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,21-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=82
@@ -78,7 +78,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.19,Los Angeles Clippers,substitute,,,,Barnes,,Green,,,,,,,,,,,,,21-21,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=89
 ,,,,,,,,,,1,2.03,Houston Rockets,shot,Delfino,,,,,,,,,Beverley,3,,,made,,3PT Jump Shot,,,21-24,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=90
 ,,,,,,,,,,1,1.43,Los Angeles Clippers,shot,Paul,,,,,,,,,Barnes,3,,,made,,3PT Jump Shot,,,24-24,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=91
-,,,,,,,,,,1,1.27,Houston Rockets,shot,,,,,,,,,,Anderson,,,,missed,,Layup,,,24-24,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=92
+,,,,,,,,,,1,1.27,Houston Rockets,shot,,,Hollins,,,,,,,Anderson,,,,missed,,Layup,,,24-24,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=92
 ,,,,,,,,,,1,1.25,Houston Rockets,rebound,,,,,,,,,,Anderson,,,,,,,,,24-24,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=93
 ,,,,,,,,,,1,1.23,Houston Rockets,shot,,,,,,,,,,Anderson,2,,,made,,Layup,,,24-26,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=94
 ,,,,,,,,,,1,1.01,Los Angeles Clippers,shot,Paul,,,,,,,,,Griffin,2,,,made,,Jump Shot,,,26-26,15,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=95
@@ -92,7 +92,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.06,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=103
 ,,,,,,,,,,1,0.06,Los Angeles Clippers,foul,,,,,,,,,,Hollins,,,,,,Loose ball,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=104
 ,,,,,,,,,,1,0.06,Houston Rockets,substitute,,,,Garcia,,Asik,,,,,,,,,,,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=105
-,,,,,,,,,,1,0.01,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Running Jump Shot,,,29-28,6,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=106
+,,,,,,,,,,1,0.01,Houston Rockets,shot,,,Hollins,,,,,,,Beverley,,,,missed,,Running Jump Shot,,,29-28,6,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=106
 ,,,,,,,,,,1,0.00,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=107
 ,,,,,,,,,,2,11.45,Houston Rockets,foul,,,,,,,,,,Parsons,,,,,,Shooting,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=111
 ,,,,,,,,,,2,11.45,Los Angeles Clippers,free throw,,,,,,,1,,2,Crawford,1,,foul,made,,,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=112
@@ -104,7 +104,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.13,Houston Rockets,free throw,,,,,,,1,,2,Beverley,1,,foul,made,,,,,31-29,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=120
 ,,,,,,,,,,2,11.13,Houston Rockets,free throw,,,,,,,2,,2,Beverley,1,,foul,made,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=122
 ,,,,,,,,,,2,10.55,Los Angeles Clippers,shot,,,,,,,,,,Crawford,2,,,made,,Pullup Jump Shot,,,33-30,11,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=124
-,,,,,,,,,,2,10.35,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,Jump Shot,,,33-30,6,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=125
+,,,,,,,,,,2,10.35,Houston Rockets,shot,,,Barnes,,,,,,,Motiejunas,,,,missed,,Jump Shot,,,33-30,6,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=125
 ,,,,,,,,,,2,10.33,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=126
 ,,,,,,,,,,2,10.24,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,3PT Jump Shot,,,33-30,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=127
 ,,,,,,,,,,2,10.24,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=128
@@ -112,7 +112,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.10,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=130
 ,,,,,,,,,,2,9.58,Houston Rockets,shot,,,,,,,,,,Garcia,,,,missed,,3PT Jump Shot,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=131
 ,,,,,,,,,,2,9.57,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=132
-,,,,,,,,,,2,9.44,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,33-30,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=133
+,,,,,,,,,,2,9.44,Houston Rockets,shot,,,Odom,,,,,,,Parsons,,,,missed,,Layup,,,33-30,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=133
 ,,,,,,,,,,2,9.42,Los Angeles Clippers,rebound,,,,,,,,,,Crawford,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=134
 ,,,,,,,,,,2,9.32,Houston Rockets,foul,,,,,,,,,,Beverley,,,,,,Personal,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=135
 ,,,,,,,,,,2,9.32,Los Angeles Clippers,substitute,,,,Jordan,,Hollins,,,,,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=136
@@ -123,7 +123,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.09,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=143
 ,,,,,,,,,,2,9.08,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Layup,,,33-30,1,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=142
 ,,,,,,,,,,2,9.07,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=144
-,,,,,,,,,,2,9.06,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=145
+,,,,,,,,,,2,9.06,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,Garcia,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=145
 ,,,,,,,,,,2,9.05,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Shooting,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=146
 ,,,,,,,,,,2,9.05,Houston Rockets,free throw,,,,,,,1,,2,Garcia,1,,foul,made,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=147
 ,,,,,,,,,,2,9.05,Houston Rockets,free throw,,,,,,,2,,2,Garcia,1,,foul,made,,,,,33-32,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=149
@@ -152,7 +152,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.32,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=177
 ,,,,,,,,,,2,6.18,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Reverse Layup,,,34-40,3,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=178
 ,,,,,,,,,,2,6.16,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=179
-,,,,,,,,,,2,6.11,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=180
+,,,,,,,,,,2,6.11,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,Anderson,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=180
 ,,,,,,,,,,2,6.09,Los Angeles Clippers,foul,,,,,,,,,,Griffin,,,,,,clear path,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=181
 ,,,,,,,,,,2,6.09,Houston Rockets,free throw,,,,,,,,,,Anderson,,,foul,missed,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=182
 ,,,,,,,,,,2,6.09,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=183
@@ -162,18 +162,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.54,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Turnaround Fadeaway Shot,,,34-42,20,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=190
 ,,,,,,,,,,2,5.52,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,34-42,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=191
 ,,,,,,,,,,2,5.39,Los Angeles Clippers,shot,Griffin,,,,,,,,,Jordan,2,,,made,,Hook Shot,,,36-42,4,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=192
-,,,,,,,,,,2,5.22,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=193
+,,,,,,,,,,2,5.22,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Bledsoe,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=193
 ,,,,,,,,,,2,5.17,Los Angeles Clippers,shot,Jordan,,,,,,,,,Griffin,2,,,made,,Slam Dunk,,,38-42,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=194
 ,,,,,,,,,,2,4.54,Houston Rockets,shot,Lin,,,,,,,,,Garcia,3,,,made,,3PT Jump Shot,,,38-45,27,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=195
 ,,,,,,,,,,2,4.36,Houston Rockets,foul,,,,,,,,,,,,,,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=196
 ,,,,,,,,,,2,4.36,Los Angeles Clippers,free throw,,,,,,,,,,Paul,1,,Technical,made,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=201
 ,,,,,,,,,,2,4.26,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Fadeaway Jumper,,,39-45,9,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=203
 ,,,,,,,,,,2,4.24,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=204
-,,,,,,,,,,2,4.16,Houston Rockets,turnover,,,,,,,,,,Anderson,,,Lost Ball,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=205
+,,,,,,,,,,2,4.16,Houston Rockets,turnover,,,,,,,,,,Anderson,,,Lost Ball,,Bledsoe,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=205
 ,,,,,,,,,,2,4.08,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,3PT Jump Shot,,,39-45,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=206
 ,,,,,,,,,,2,4.07,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=207
 ,,,,,,,,,,2,3.55,Los Angeles Clippers,shot,,,,,,,,,,Paul,3,,,made,,3PT Jump Shot,,,42-45,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=208
-,,,,,,,,,,2,3.30,Houston Rockets,turnover,,,,,,,,,,Anderson,,,Bad Pass,,,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=209
+,,,,,,,,,,2,3.30,Houston Rockets,turnover,,,,,,,,,,Anderson,,,Bad Pass,,Crawford,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=209
 ,,,,,,,,,,2,3.26,Los Angeles Clippers,shot,,,,,,,,,,Crawford,2,,,made,,Layup,,,44-45,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=210
 ,,,,,,,,,,2,3.07,Houston Rockets,shot,Anderson,,,,,,,,,Garcia,3,,,made,,3PT Jump Shot,,,44-48,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=211
 ,,,,,,,,,,2,2.51,Los Angeles Clippers,shot,Paul,,,,,,,,,Griffin,2,,,made,,Jump Shot,,,46-48,20,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=212
@@ -195,7 +195,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.14,Houston Rockets,free throw,,,,,,,2,,2,Asik,1,,foul,made,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=230
 ,,,,,,,,,,2,2.00,Los Angeles Clippers,foul,,,,,,,,,,Green,,,,,,Offensive Charge,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=232
 ,,,,,,,,,,2,2.00,Los Angeles Clippers,turnover,,,,,,,,,,Green,,,Foul,,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=233
-,,,,,,,,,,2,1.48,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,46-50,4,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=234
+,,,,,,,,,,2,1.48,Houston Rockets,shot,,,Griffin,,,,,,,Smith,,,,missed,,Jump Shot,,,46-50,4,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=234
 ,,,,,,,,,,2,1.46,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=235
 ,,,,,,,,,,2,1.41,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Traveling,,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=236
 ,,,,,,,,,,2,1.33,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Driving Layup,,,46-52,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=237
@@ -207,7 +207,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.36,Houston Rockets,free throw,,,,,,,1,,2,Lin,1,,foul,made,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=244
 ,,,,,,,,,,2,0.36,Houston Rockets,free throw,,,,,,,2,,2,Lin,,,foul,missed,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=246
 ,,,,,,,,,,2,0.35,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=248
-,,,,,,,,,,2,0.30,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Layup,,,48-53,4,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=249
+,,,,,,,,,,2,0.30,Los Angeles Clippers,shot,,,Lin,,,,,,,Green,,,,missed,,Layup,,,48-53,4,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=249
 ,,,,,,,,,,2,0.30,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=250
 ,,,,,,,,,,2,0.24,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Personal,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=251
 ,,,,,,,,,,2,0.24,Los Angeles Clippers,free throw,,,,,,,1,,2,Paul,1,,foul,made,,,,,49-53,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=252
@@ -241,7 +241,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.58,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,52-60,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=291
 ,,,,,,,,,,3,8.54,Houston Rockets,shot,Anderson,,,,,,,,,Asik,2,,,made,,Layup,,,52-62,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=292
 ,,,,,,,,,,3,8.27,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Fadeaway Jumper,,,54-62,19,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=293
-,,,,,,,,,,3,8.14,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Driving Layup,,,54-62,4,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=294
+,,,,,,,,,,3,8.14,Houston Rockets,shot,,,Jordan,,,,,,,Lin,,,,missed,,Driving Layup,,,54-62,4,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=294
 ,,,,,,,,,,3,8.14,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=295
 ,,,,,,,,,,3,8.00,Houston Rockets,shot,Asik,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,54-65,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=296
 ,,,,,,,,,,3,7.47,Los Angeles Clippers,turnover,,,,,,,,,,Green Out of Bounds,,,Lost Ball,,,,,,54-65,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=297
@@ -254,7 +254,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.18,Houston Rockets,rebound,,,,,,,,,,Anderson,,,,,,,,,54-67,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=305
 ,,,,,,,,,,3,7.10,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,54-67,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=306
 ,,,,,,,,,,3,7.09,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,54-67,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=307
-,,,,,,,,,,3,7.05,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Jump Shot,,,54-67,5,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=308
+,,,,,,,,,,3,7.05,Houston Rockets,shot,,,Hollins,,,,,,,Asik,,,,missed,,Jump Shot,,,54-67,5,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=308
 ,,,,,,,,,,3,7.04,Los Angeles Clippers,rebound,,,,,,,,,,Hollins,,,,,,,,,54-67,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=309
 ,,,,,,,,,,3,7.02,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Personal,,,54-67,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=310
 ,,,,,,,,,,3,6.43,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,54-67,26,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=311
@@ -288,7 +288,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.19,Houston Rockets,shot,Parsons,,,,,,,,,Garcia,2,,,made,,Layup,,,59-75,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=342
 ,,,,,,,,,,3,3.58,Los Angeles Clippers,foul,,,,,,,,,,,,,,,,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=343
 ,,,,,,,,,,3,3.58,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Foul,,,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=344
-,,,,,,,,,,3,3.46,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=345
+,,,,,,,,,,3,3.46,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Barnes,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=345
 ,,,,,,,,,,3,3.39,Houston Rockets,foul,,,,,,,,,,Parsons,,,,,,Personal,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=346
 ,,,,,,,,,,3,3.24,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,59-75,27,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=347
 ,,,,,,,,,,3,3.23,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=348
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.31,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,63-79,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=374
 ,,,,,,,,,,3,1.29,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,63-79,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=375
 ,,,,,,,,,,3,1.24,Houston Rockets,shot,Beverley,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,63-82,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=376
-,,,,,,,,,,3,1.05,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,63-82,13,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=377
+,,,,,,,,,,3,1.05,Los Angeles Clippers,shot,,,Garcia,,,,,,,Crawford,,,,missed,,Jump Shot,,,63-82,13,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=377
 ,,,,,,,,,,3,1.03,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,63-82,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=378
 ,,,,,,,,,,3,1.03,Houston Rockets,substitute,,,,Smith,,Asik,,,,,,,,,,,,,63-82,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=379
 ,,,,,,,,,,3,0.51,Los Angeles Clippers,foul,,,,,,,,,,Hollins,,,,,,Shooting,,,63-82,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=380
@@ -324,12 +324,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.51,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,63-83,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=385
 ,,,,,,,,,,3,0.35,Los Angeles Clippers,shot,,,,,,,,,,Hill,,,,missed,,Pullup Jump Shot,,,63-83,16,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=386
 ,,,,,,,,,,3,0.33,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,63-83,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=387
-,,,,,,,,,,3,0.29,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,,,,,63-83,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=388
+,,,,,,,,,,3,0.29,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,Bledsoe,,,,63-83,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=388
 ,,,,,,,,,,3,0.16,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,63-83,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=389
 ,,,,,,,,,,3,0.14,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,63-83,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=390
 ,,,,,,,,,,3,0.03,Los Angeles Clippers,violation,,,,,,,,,,Hollins,,,Defensive Goaltending,,,,,,63-83,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=392
 ,,,,,,,,,,3,0.03,Houston Rockets,shot,,,,,,,,,,Beverley,2,,,made,,Running Jump Shot,,,63-85,6,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=391
-,,,,,,,,,,3,0.00,Los Angeles Clippers,turnover,,,,,,,,,,Hill,,,Lost Ball,,,,,,63-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=393
+,,,,,,,,,,3,0.00,Los Angeles Clippers,turnover,,,,,,,,,,Hill,,,Lost Ball,,Delfino,,,,63-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=393
 ,,,,,,,,,,4,11.38,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Hook Shot,,,63-85,8,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=397
 ,,,,,,,,,,4,11.36,Los Angeles Clippers,rebound,,,,,,,,,,Hollins,,,,,,,,,63-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=398
 ,,,,,,,,,,4,11.20,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,63-85,24,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=399
@@ -348,11 +348,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.06,Los Angeles Clippers,rebound,,,,,,,,,,Hollins,,,,,,,,,67-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=415
 ,,,,,,,,,,4,9.55,Los Angeles Clippers,shot,Bledsoe,,,,,,,,,Hollins,2,,,made,,Layup,,,69-85,1,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=416
 ,,,,,,,,,,4,9.53,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,69-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=417
-,,,,,,,,,,4,9.39,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,,,,,69-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=421
+,,,,,,,,,,4,9.39,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,Barnes,,,,69-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=421
 ,,,,,,,,,,4,9.35,Los Angeles Clippers,shot,Barnes,,,,,,,,,Bledsoe,2,,,made,,Layup,,,71-85,1,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=422
 ,,,,,,,,,,4,9.08,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Jump Shot,,,71-85,17,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=423
 ,,,,,,,,,,4,9.07,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,71-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=424
-,,,,,,,,,,4,8.55,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,,,,,71-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=425
+,,,,,,,,,,4,8.55,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,Delfino,,,,71-85,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=425
 ,,,,,,,,,,4,8.51,Houston Rockets,shot,,,,,,,,,,Delfino,2,,,made,,Layup,,,71-87,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=426
 ,,,,,,,,,,4,8.51,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Shooting,,,71-87,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=427
 ,,,,,,,,,,4,8.51,Houston Rockets,substitute,,,,Lin,,Beverley,,,,,,,,,,,,,71-87,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=428
@@ -387,7 +387,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.35,Houston Rockets,shot,Parsons,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,75-93,25,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=459
 ,,,,,,,,,,4,5.34,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,75-93,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=460
 ,,,,,,,,,,4,5.27,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Personal,,,75-93,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=464
-,,,,,,,,,,4,5.17,Los Angeles Clippers,shot,,,,,,,,,,Hollins,,,,missed,,Dunk,,,75-93,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=465
+,,,,,,,,,,4,5.17,Los Angeles Clippers,shot,,,Asik,,,,,,,Hollins,,,,missed,,Dunk,,,75-93,2,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=465
 ,,,,,,,,,,4,5.15,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,75-93,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=466
 ,,,,,,,,,,4,4.52,Houston Rockets,shot,,,,,,,,,,Garcia,,,,missed,,Running Jump Shot,,,75-93,15,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=467
 ,,,,,,,,,,4,4.52,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,75-93,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=468
@@ -410,7 +410,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.12,Los Angeles Clippers,substitute,,,,Wayns,,Paul,,,,,,,,,,,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=485
 ,,,,,,,,,,4,3.12,Los Angeles Clippers,substitute,,,,Green,,Crawford,,,,,,,,,,,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=486
 ,,,,,,,,,,4,3.12,Houston Rockets,substitute,,,,Ohlbrecht,,Asik,,,,,,,,,,,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=487
-,,,,,,,,,,4,3.02,Los Angeles Clippers,turnover,,,,,,,,,,Hollins,,,Bad Pass,,,,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=488
+,,,,,,,,,,4,3.02,Los Angeles Clippers,turnover,,,,,,,,,,Hollins,,,Bad Pass,,Parsons,,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=488
 ,,,,,,,,,,4,3.01,Los Angeles Clippers,foul,,,,,,,,,,Wayns,,,,,,clear path,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=489
 ,,,,,,,,,,4,3.01,Houston Rockets,free throw,,,,,,,,,,Parsons,,,foul,missed,,,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=490
 ,,,,,,,,,,4,3.01,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=491
@@ -433,7 +433,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.34,Houston Rockets,violation,,,,,,,,,,Robinson,,,Kicked Ball,,,,,,79-96,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=516
 ,,,,,,,,,,4,1.30,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,79-96,22,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=517
 ,,,,,,,,,,4,1.29,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,79-96,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=518
-,,,,,,,,,,4,1.14,Houston Rockets,turnover,,,,,,,,,,Ohlbrecht,,,Bad Pass,,,,,,79-96,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=519
+,,,,,,,,,,4,1.14,Houston Rockets,turnover,,,,,,,,,,Ohlbrecht,,,Bad Pass,,Hill,,,,79-96,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=519
 ,,,,,,,,,,4,1.02,Los Angeles Clippers,shot,,,,,,,,,,Hill,2,,,made,,Turnaround Fadeaway,,,81-96,15,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=520
 ,,,,,,,,,,4,1.02,Houston Rockets,foul,,,,,,,,,,Brooks,,,,,,Shooting,,,81-96,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=521
 ,,,,,,,,,,4,1.02,Los Angeles Clippers,free throw,,,,,,,1,,1,Hill,,,foul,missed,,,,,81-96,,http://stats.nba.com/cvp.html?GameID=0021201088&GameEventID=522

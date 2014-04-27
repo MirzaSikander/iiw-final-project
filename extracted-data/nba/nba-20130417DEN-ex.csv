@@ -6,9 +6,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.18,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,,13,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=6
 ,,,,,,,,,,1,11.17,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=7
 ,,,,,,,,,,1,11.10,Denver Nuggets,shot,,,,,,,,,,Chandler,2,,,made,,Jump Shot,,,0-2,18,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=8
-,,,,,,,,,,1,10.51,Phoenix Suns,turnover,,,,,,,,,,W. Johnson,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=9
+,,,,,,,,,,1,10.51,Phoenix Suns,turnover,,,,,,,,,,W. Johnson,,,Bad Pass,,Chandler,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=9
 ,,,,,,,,,,1,10.50,Phoenix Suns,foul,,,,,,,,,,W. Johnson,,,,,,Personal,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=10
-,,,,,,,,,,1,10.31,Denver Nuggets,shot,,,,,,,,,,Fournier,,,,missed,,Driving Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=11
+,,,,,,,,,,1,10.31,Denver Nuggets,shot,,,Marshall,,,,,,,Fournier,,,,missed,,Driving Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=11
 ,,,,,,,,,,1,10.30,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=12
 ,,,,,,,,,,1,10.23,Denver Nuggets,shot,,,,,,,,,,Fournier,,,,missed,,Jump Shot,,,0-2,22,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=14
 ,,,,,,,,,,1,10.22,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=15
@@ -93,12 +93,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.03,Denver Nuggets,shot,,,,,,,,,,Iguodala,2,,,made,,Dunk,,,20-33,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=108
 ,,,,,,,,,,1,0.53,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,20-33,3,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=109
 ,,,,,,,,,,1,0.52,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,20-33,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=110
-,,,,,,,,,,1,0.51,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Layup,,,20-33,3,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=111
+,,,,,,,,,,1,0.51,Phoenix Suns,shot,,,McGee,,,,,,,Tucker,,,,missed,,Layup,,,20-33,3,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=111
 ,,,,,,,,,,1,0.50,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,20-33,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=113
-,,,,,,,,,,1,0.49,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Layup,,,20-33,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=112
+,,,,,,,,,,1,0.49,Phoenix Suns,shot,,,Iguodala,,,,,,,Tucker,,,,missed,,Layup,,,20-33,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=112
 ,,,,,,,,,,1,0.48,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,20-33,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=114
-,,,,,,,,,,1,0.35,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,,,,,20-33,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=116
-,,,,,,,,,,1,0.30,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Layup,,,20-33,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=117
+,,,,,,,,,,1,0.35,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,Tucker,,,,20-33,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=116
+,,,,,,,,,,1,0.30,Phoenix Suns,shot,,,Randolph,,,,,,,Dudley,,,,missed,,Layup,,,20-33,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=117
 ,,,,,,,,,,1,0.29,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,20-33,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=118
 ,,,,,,,,,,1,0.18,Denver Nuggets,shot,Miller,,,,,,,,,Randolph,2,,,made,,Slam Dunk,,,20-35,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=119
 ,,,,,,,,,,1,0.09,Denver Nuggets,foul,,,,,,,,,,Miller,,,,,,Personal Take,,,20-35,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=120
@@ -113,13 +113,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.18,Phoenix Suns,substitute,,,,Haddadi,,Scola,,,,,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=135
 ,,,,,,,,,,2,11.18,Phoenix Suns,free throw,,,,,,,2,,2,Dudley,,,foul,missed,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=136
 ,,,,,,,,,,2,11.16,Denver Nuggets,rebound,,,,,,,,,,Randolph,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=138
-,,,,,,,,,,2,10.59,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=139
+,,,,,,,,,,2,10.59,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,Morris,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=139
 ,,,,,,,,,,2,10.55,Phoenix Suns,shot,Dudley,,,,,,,,,Morris,2,,,made,,Layup,,,25-37,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=140
-,,,,,,,,,,2,10.43,Denver Nuggets,turnover,,,,,,,,,,Randolph,,,Bad Pass,,,,,,25-37,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=141
+,,,,,,,,,,2,10.43,Denver Nuggets,turnover,,,,,,,,,,Randolph,,,Bad Pass,,Dudley,,,,25-37,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=141
 ,,,,,,,,,,2,10.38,Phoenix Suns,shot,,,,,,,,,,Marshall,,,,missed,,Layup,,,25-37,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=142
 ,,,,,,,,,,2,10.37,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,25-37,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=143
 ,,,,,,,,,,2,10.25,Denver Nuggets,shot,Miller,,,,,,,,,McGee,2,,,made,,Alley Oop Dunk,,,25-39,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=144
-,,,,,,,,,,2,10.11,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Lost Ball,,,,,,25-39,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=145
+,,,,,,,,,,2,10.11,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Lost Ball,,Randolph,,,,25-39,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=145
 ,,,,,,,,,,2,10.08,Phoenix Suns,foul,,,,,,,,,,Marshall,,,,,,Shooting,,,25-39,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=146
 ,,,,,,,,,,2,10.08,Denver Nuggets,free throw,,,,,,,1,,2,Randolph,1,,foul,made,,,,,25-40,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=147
 ,,,,,,,,,,2,10.08,Denver Nuggets,substitute,,,,Fournier,,Iguodala,,,,,,,,,,,,,25-40,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=149
@@ -134,7 +134,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.55,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,25-43,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=159
 ,,,,,,,,,,2,8.48,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Layup,,,25-43,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=160
 ,,,,,,,,,,2,8.41,Phoenix Suns,rebound,,,,,,,,,,Haddadi,,,,,,,,,25-43,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=162
-,,,,,,,,,,2,8.41,Phoenix Suns,shot,,,,,,,,,,Haddadi,,,,missed,,Layup,,,25-43,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=161
+,,,,,,,,,,2,8.41,Phoenix Suns,shot,,,Koufos,,,,,,,Haddadi,,,,missed,,Layup,,,25-43,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=161
 ,,,,,,,,,,2,8.40,Denver Nuggets,rebound,,,,,,,,,,Fournier,,,,,,,,,25-43,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=163
 ,,,,,,,,,,2,8.30,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,25-43,24,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=200
 ,,,,,,,,,,2,8.29,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,25-43,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=202
@@ -142,7 +142,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.26,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,25-45,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=166
 ,,,,,,,,,,2,8.26,Denver Nuggets,substitute,,,,Chandler,,McGee,,,,,,,,,,,,,25-45,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=168
 ,,,,,,,,,,2,8.17,Phoenix Suns,turnover,,,,,,,,,,Beasley Out of Bounds,,,Lost Ball,,,,,,25-45,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=170
-,,,,,,,,,,2,7.53,Denver Nuggets,shot,,,,,,,,,,Chandler,,,,missed,,Layup,,,25-45,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=171
+,,,,,,,,,,2,7.53,Denver Nuggets,shot,,,Beasley,,,,,,,Chandler,,,,missed,,Layup,,,25-45,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=171
 ,,,,,,,,,,2,7.51,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,25-45,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=172
 ,,,,,,,,,,2,7.42,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,25-45,11,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=173
 ,,,,,,,,,,2,7.41,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,25-45,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=174
@@ -153,8 +153,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.09,Phoenix Suns,substitute,,,,Garrett,,Marshall,,,,,,,,,,,,,27-48,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=180
 ,,,,,,,,,,2,7.09,Phoenix Suns,substitute,,,,Scola,,Haddadi,,,,,,,,,,,,,27-48,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=181
 ,,,,,,,,,,2,7.09,Denver Nuggets,free throw,,,,,,,2,,2,Fournier,1,,foul,made,,,,,27-49,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=182
-,,,,,,,,,,2,6.53,Phoenix Suns,turnover,,,,,,,,,,Garrett,,,Bad Pass,,,,,,27-49,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=184
-,,,,,,,,,,2,6.48,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,,,,,27-49,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=185
+,,,,,,,,,,2,6.53,Phoenix Suns,turnover,,,,,,,,,,Garrett,,,Bad Pass,,Fournier,,,,27-49,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=184
+,,,,,,,,,,2,6.48,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,Scola,,,,27-49,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=185
 ,,,,,,,,,,2,6.42,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,27-49,22,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=186
 ,,,,,,,,,,2,6.40,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,27-49,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=188
 ,,,,,,,,,,2,6.40,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,27-49,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=187
@@ -180,7 +180,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.10,Phoenix Suns,shot,Garrett,,,,,,,,,Scola,2,,,made,,Jump Shot,,,31-54,16,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=212
 ,,,,,,,,,,2,4.56,Denver Nuggets,foul,,,,,,,,,,Chandler,,,,,,Offensive Charge,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=213
 ,,,,,,,,,,2,4.56,Denver Nuggets,turnover,,,,,,,,,,Chandler,,,Foul,,,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=214
-,,,,,,,,,,2,4.39,Phoenix Suns,turnover,,,,,,,,,,Garrett,,,Bad Pass,,,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=215
+,,,,,,,,,,2,4.39,Phoenix Suns,turnover,,,,,,,,,,Garrett,,,Bad Pass,,Brewer,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=215
 ,,,,,,,,,,2,4.34,Denver Nuggets,shot,,,,,,,,,,Fournier,,,,missed,,Layup,,,31-54,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=216
 ,,,,,,,,,,2,4.33,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=218
 ,,,,,,,,,,2,4.32,Denver Nuggets,shot,,,,,,,,,,Mozgov,2,,,made,,Putback Dunk,,,31-56,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=217
@@ -191,7 +191,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.46,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,33-56,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=223
 ,,,,,,,,,,2,3.37,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Jump Shot,,,33-56,17,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=224
 ,,,,,,,,,,2,3.36,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,33-56,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=225
-,,,,,,,,,,2,3.32,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,33-56,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=226
+,,,,,,,,,,2,3.32,Phoenix Suns,shot,,,Mozgov,,,,,,,Scola,,,,missed,,Layup,,,33-56,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=226
 ,,,,,,,,,,2,3.31,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,33-56,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=227
 ,,,,,,,,,,2,3.30,Denver Nuggets,foul,,,,,,,,,,Fournier,,,,,,Personal,,,33-56,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=228
 ,,,,,,,,,,2,3.30,Denver Nuggets,substitute,,,,Lawson,,Miller,,,,,,,,,,,,,33-56,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=229
@@ -220,7 +220,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.13,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,37-61,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=280
 ,,,,,,,,,,2,1.13,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Tip Shot,,,37-61,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=281
 ,,,,,,,,,,2,1.12,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,37-61,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=282
-,,,,,,,,,,2,1.11,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,37-61,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=256
+,,,,,,,,,,2,1.11,Phoenix Suns,shot,,,Randolph,,,,,,,Scola,,,,missed,,Layup,,,37-61,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=256
 ,,,,,,,,,,2,1.07,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,37-61,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=257
 ,,,,,,,,,,2,1.07,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Personal Take,,,37-61,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=258
 ,,,,,,,,,,2,1.07,Denver Nuggets,free throw,,,,,,,1,,2,Iguodala,1,,foul,made,,,,,37-62,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=259
@@ -251,8 +251,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.32,Phoenix Suns,shot,Scola,,,,,,,,,Tucker,3,,,made,,3PT Jump Shot,,,47-71,25,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=298
 ,,,,,,,,,,3,10.18,Denver Nuggets,shot,Lawson,,,,,,,,,Iguodala,2,,,made,,Alley Oop Layup,,,47-73,3,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=299
 ,,,,,,,,,,3,10.04,Phoenix Suns,shot,Marshall,,,,,,,,,Tucker,3,,,made,,3PT Jump Shot,,,50-73,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=300
-,,,,,,,,,,3,9.48,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,50-73,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=301
-,,,,,,,,,,3,9.44,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Bad Pass,,,,,,50-73,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=302
+,,,,,,,,,,3,9.48,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Tucker,,,,50-73,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=301
+,,,,,,,,,,3,9.44,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Bad Pass,,Chandler,,,,50-73,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=302
 ,,,,,,,,,,3,9.38,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,3PT Jump Shot,,,50-73,25,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=303
 ,,,,,,,,,,3,9.36,Phoenix Suns,rebound,,,,,,,,,,W. Johnson,,,,,,,,,50-73,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=304
 ,,,,,,,,,,3,9.22,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,50-73,20,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=305
@@ -266,7 +266,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.26,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Step Out of Bounds,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=317
 ,,,,,,,,,,3,8.08,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,Turnaround Fadeaway Shot,,,50-75,15,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=318
 ,,,,,,,,,,3,8.08,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=319
-,,,,,,,,,,3,8.04,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,Layup,,,50-75,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=320
+,,,,,,,,,,3,8.04,Denver Nuggets,shot,,,Tucker,,,,,,,Iguodala,,,,missed,,Layup,,,50-75,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=320
 ,,,,,,,,,,3,8.03,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=321
 ,,,,,,,,,,3,8.00,Denver Nuggets,shot,,,,,,,,,,Koufos,,,,missed,,Fadeaway Jumper,,,50-75,16,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=323
 ,,,,,,,,,,3,7.59,Phoenix Suns,rebound,,,,,,,,,,Marshall,,,,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=324
@@ -274,7 +274,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.49,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=326
 ,,,,,,,,,,3,7.42,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,3PT Jump Shot,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=327
 ,,,,,,,,,,3,7.41,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=328
-,,,,,,,,,,3,7.28,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=329
+,,,,,,,,,,3,7.28,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,Marshall,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=329
 ,,,,,,,,,,3,7.22,Denver Nuggets,foul,,,,,,,,,,Koufos,,,,,,Shooting,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=330
 ,,,,,,,,,,3,7.22,Phoenix Suns,free throw,,,,,,,1,,2,Morris,,,foul,missed,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=331
 ,,,,,,,,,,3,7.22,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=332
@@ -289,7 +289,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.23,Phoenix Suns,substitute,,,,Dudley,,W. Johnson,,,,,,,,,,,,,50-77,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=342
 ,,,,,,,,,,3,6.14,Denver Nuggets,shot,,,,,,,,,,Fournier,,,,missed,,Jump Shot,,,50-77,18,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=343
 ,,,,,,,,,,3,6.13,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,50-77,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=344
-,,,,,,,,,,3,6.04,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,,,,,50-77,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=345
+,,,,,,,,,,3,6.04,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,Iguodala,,,,50-77,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=345
 ,,,,,,,,,,3,5.58,Denver Nuggets,shot,Iguodala,,,,,,,,,Koufos,2,,,made,,Jump Shot,,,50-79,5,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=346
 ,,,,,,,,,,3,5.51,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,50-79,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=347
 ,,,,,,,,,,3,5.51,Phoenix Suns,substitute,,,,Brown,,Morris,,,,,,,,,,,,,50-79,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=349
@@ -299,8 +299,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.51,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Fadeaway Jumper,,,52-81,12,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=353
 ,,,,,,,,,,3,4.50,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,52-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=354
 ,,,,,,,,,,3,4.46,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Jump Shot,,,54-81,16,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=355
-,,,,,,,,,,3,4.34,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,,,,,54-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=356
-,,,,,,,,,,3,4.31,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Jump Shot,,,54-81,5,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=357
+,,,,,,,,,,3,4.34,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,Tucker,,,,54-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=356
+,,,,,,,,,,3,4.31,Phoenix Suns,shot,,,Iguodala,,,,,,,Tucker,,,,missed,,Jump Shot,,,54-81,5,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=357
 ,,,,,,,,,,3,4.31,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,54-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=359
 ,,,,,,,,,,3,4.31,Denver Nuggets,substitute,,,,Randolph,,Chandler,,,,,,,,,,,,,54-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=358
 ,,,,,,,,,,3,4.31,Denver Nuggets,substitute,,,,McGee,,Koufos,,,,,,,,,,,,,54-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=360
@@ -308,7 +308,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.26,Phoenix Suns,shot,,,,,,,,,,Marshall,,,,missed,,3PT Jump Shot,,,54-81,25,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=362
 ,,,,,,,,,,3,4.25,Denver Nuggets,rebound,,,,,,,,,,Randolph,,,,,,,,,54-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=363
 ,,,,,,,,,,3,4.24,Denver Nuggets,turnover,,,,,,,,,,Randolph,,,Step Out of Bounds,,,,,,54-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=364
-,,,,,,,,,,3,4.16,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,54-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=365
+,,,,,,,,,,3,4.16,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Iguodala,,,,54-81,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=365
 ,,,,,,,,,,3,4.11,Denver Nuggets,shot,,,,,,,,,,Iguodala,2,,,made,,Dunk,,,54-83,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=366
 ,,,,,,,,,,3,4.00,Phoenix Suns,shot,Marshall,,,,,,,,,Tucker,2,,,made,,Dunk,,,56-83,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=367
 ,,,,,,,,,,3,3.47,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,56-83,18,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=368
@@ -369,7 +369,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.34,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Jump Shot,,,71-92,18,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=440
 ,,,,,,,,,,4,10.18,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,3PT Jump Shot,,,71-92,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=441
 ,,,,,,,,,,4,10.18,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,71-92,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=442
-,,,,,,,,,,4,10.15,Denver Nuggets,turnover,,,,,,,,,,Mozgov,,,Bad Pass,,,,,,71-92,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=443
+,,,,,,,,,,4,10.15,Denver Nuggets,turnover,,,,,,,,,,Mozgov,,,Bad Pass,,Brown,,,,71-92,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=443
 ,,,,,,,,,,4,10.08,Denver Nuggets,substitute,,,,Hamilton,,Iguodala,,,,,,,,,,,,,71-92,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=445
 ,,,,,,,,,,4,10.02,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Fadeaway Jumper,,,71-92,16,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=446
 ,,,,,,,,,,4,10.01,Denver Nuggets,rebound,,,,,,,,,,Randolph,,,,,,,,,71-92,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=447
@@ -417,7 +417,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.46,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,84-104,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=496
 ,,,,,,,,,,4,4.42,Denver Nuggets,shot,,,,,,,,,,Mozgov,2,,,made,,Jump Hook Shot,,,84-106,5,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=497
 ,,,,,,,,,,4,4.26,Phoenix Suns,shot,,,,,,,,,,Haddadi,2,,,made,,Jump Bank Shot,,,86-106,15,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=498
-,,,,,,,,,,4,4.07,Denver Nuggets,shot,,,,,,,,,,Fournier,,,,missed,,Driving Layup,,,86-106,3,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=499
+,,,,,,,,,,4,4.07,Denver Nuggets,shot,,,Haddadi,,,,,,,Fournier,,,,missed,,Driving Layup,,,86-106,3,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=499
 ,,,,,,,,,,4,4.06,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,86-106,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=500
 ,,,,,,,,,,4,3.55,Denver Nuggets,shot,,,,,,,,,,Hamilton,2,,,made,,Running Jump Shot,,,86-108,10,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=501
 ,,,,,,,,,,4,3.50,Denver Nuggets,foul,,,,,,,,,,Chandler,,,,,,Shooting,,,86-108,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=502
@@ -426,7 +426,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.50,Denver Nuggets,substitute,,,,Randolph,,Chandler,,,,,,,,,,,,,86-108,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=505
 ,,,,,,,,,,4,3.50,Denver Nuggets,substitute,,,,Miller,,Miller,,,,,,,,,,,,,86-108,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=506
 ,,,,,,,,,,4,3.50,Phoenix Suns,free throw,,,,,,,2,,2,Beasley,1,,foul,made,,,,,87-108,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=507
-,,,,,,,,,,4,3.35,Denver Nuggets,shot,,,,,,,,,,Hamilton,,,,missed,,Driving Layup,,,87-108,3,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=509
+,,,,,,,,,,4,3.35,Denver Nuggets,shot,,,Haddadi,,,,,,,Hamilton,,,,missed,,Driving Layup,,,87-108,3,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=509
 ,,,,,,,,,,4,3.33,Denver Nuggets,rebound,,,,,,,,,,Randolph,,,,,,,,,87-108,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=510
 ,,,,,,,,,,4,3.25,Denver Nuggets,shot,,,,,,,,,,Fournier,,,,missed,,3PT Jump Shot,,,87-108,28,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=511
 ,,,,,,,,,,4,3.24,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,87-108,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=512
@@ -442,12 +442,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.03,Denver Nuggets,shot,,,,,,,,,,Mozgov,,,,missed,,Jump Shot,,,92-112,18,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=525
 ,,,,,,,,,,4,2.02,Phoenix Suns,rebound,,,,,,,,,,Haddadi,,,,,,,,,92-112,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=526
 ,,,,,,,,,,4,2.00,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,92-112,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=528
-,,,,,,,,,,4,1.49,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Driving Layup,,,92-112,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=533
+,,,,,,,,,,4,1.49,Phoenix Suns,shot,,,Randolph,,,,,,,Beasley,,,,missed,,Driving Layup,,,92-112,1,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=533
 ,,,,,,,,,,4,1.47,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,92-112,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=534
 ,,,,,,,,,,4,1.45,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Jump Shot,,,94-112,20,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=535
 ,,,,,,,,,,4,1.27,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Jump Shot,,,94-112,17,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=536
 ,,,,,,,,,,4,1.26,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,94-112,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=537
-,,,,,,,,,,4,1.23,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,94-112,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=538
+,,,,,,,,,,4,1.23,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Fournier,,,,94-112,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=538
 ,,,,,,,,,,4,1.19,Denver Nuggets,shot,Fournier,,,,,,,,,Hamilton,2,,,made,,Layup,,,94-114,,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=539
 ,,,,,,,,,,4,1.13,Phoenix Suns,shot,,,,,,,,,,Haddadi,2,,,made,,Slam Dunk,,,96-114,2,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=540
 ,,,,,,,,,,4,0.58,Denver Nuggets,shot,,,,,,,,,,Mozgov,,,,missed,,Jump Shot,,,96-114,14,http://stats.nba.com/cvp.html?GameID=0021201227&GameEventID=541

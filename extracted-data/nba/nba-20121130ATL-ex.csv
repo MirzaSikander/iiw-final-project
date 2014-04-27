@@ -9,7 +9,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.49,Atlanta Hawks,foul,,,,,,,,,,Smith,,,,,,Shooting,,,,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=9
 ,,,,,,,,,,1,10.49,Cleveland Cavaliers,free throw,,,,,,,1,,2,Pargo,1,,foul,made,,,,,1-0,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=10
 ,,,,,,,,,,1,10.49,Cleveland Cavaliers,free throw,,,,,,,2,,2,Pargo,1,,foul,made,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=12
-,,,,,,,,,,1,10.28,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=15
+,,,,,,,,,,1,10.28,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Pargo,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=15
 ,,,,,,,,,,1,10.22,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Alley Oop Layup,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=24
 ,,,,,,,,,,1,10.20,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=40
 ,,,,,,,,,,1,10.19,Cleveland Cavaliers,shot,,,,,,,,,,Varejao,2,,,made,,Layup,,,4-0,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=16
@@ -17,7 +17,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.11,Cleveland Cavaliers,foul,,,,,,,,,,Waiters,,,,,,Shooting,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=18
 ,,,,,,,,,,1,10.11,Atlanta Hawks,free throw,,,,,,,1,,1,Harris,1,,foul,made,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=19
 ,,,,,,,,,,1,9.57,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Personal,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=21
-,,,,,,,,,,1,9.46,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,4-3,6,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=22
+,,,,,,,,,,1,9.46,Cleveland Cavaliers,shot,,,Smith,,,,,,,Thompson,,,,missed,,Jump Shot,,,4-3,6,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=22
 ,,,,,,,,,,1,9.44,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=23
 ,,,,,,,,,,1,9.42,Cleveland Cavaliers,foul,,,,,,,,,,Waiters,,,,,,Shooting,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=25
 ,,,,,,,,,,1,9.42,Atlanta Hawks,free throw,,,,,,,1,,2,Teague,,,foul,missed,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=26
@@ -35,18 +35,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.46,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Fadeaway Jumper,,,4-5,11,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=41
 ,,,,,,,,,,1,8.43,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=42
 ,,,,,,,,,,1,8.33,Cleveland Cavaliers,shot,Varejao,,,,,,,,,Gee,2,,,made,,Driving Dunk,,,6-5,2,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=43
-,,,,,,,,,,1,8.13,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Driving Layup,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=44
+,,,,,,,,,,1,8.13,Atlanta Hawks,shot,,,Thompson,,,,,,,Smith,,,,missed,,Driving Layup,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=44
 ,,,,,,,,,,1,8.11,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=45
 ,,,,,,,,,,1,7.59,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Jump Shot,,,6-5,16,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=46
 ,,,,,,,,,,1,7.58,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=47
 ,,,,,,,,,,1,7.54,Cleveland Cavaliers,foul,,,,,,,,,,Gee,,,,,,Shooting,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=48
 ,,,,,,,,,,1,7.54,Atlanta Hawks,free throw,,,,,,,1,,2,Harris,1,,foul,made,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=50
 ,,,,,,,,,,1,7.54,Atlanta Hawks,free throw,,,,,,,2,,2,Harris,1,,foul,made,,,,,6-7,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=52
-,,,,,,,,,,1,7.32,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Driving Layup,,,6-7,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=55
+,,,,,,,,,,1,7.32,Cleveland Cavaliers,shot,,,Smith,,,,,,,Gee,,,,missed,,Driving Layup,,,6-7,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=55
 ,,,,,,,,,,1,7.31,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,6-7,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=63
 ,,,,,,,,,,1,7.31,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,2,,,made,,Putback Dunk,,,8-7,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=56
 ,,,,,,,,,,1,7.14,Atlanta Hawks,shot,Teague,,,,,,,,,Stevenson,3,,,made,,3PT Jump Shot,,,8-10,25,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=58
-,,,,,,,,,,1,7.02,Cleveland Cavaliers,turnover,,,,,,,,,,Varejao,,,Lost Ball,,,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=59
+,,,,,,,,,,1,7.02,Cleveland Cavaliers,turnover,,,,,,,,,,Varejao,,,Lost Ball,,Teague,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=59
 ,,,,,,,,,,1,6.57,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Running Layup,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=61
 ,,,,,,,,,,1,6.35,Cleveland Cavaliers,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,8-12,21,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=64
 ,,,,,,,,,,1,6.35,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=65
@@ -69,7 +69,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.02,Cleveland Cavaliers,foul,,,,,,,,,,Gibson,,,,,,Shooting,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=87
 ,,,,,,,,,,1,4.02,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,1,,foul,made,,,,,14-20,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=88
 ,,,,,,,,,,1,4.02,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,14-21,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=90
-,,,,,,,,,,1,3.49,Cleveland Cavaliers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,,,,,14-21,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=92
+,,,,,,,,,,1,3.49,Cleveland Cavaliers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,Smith,,,,14-21,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=92
 ,,,,,,,,,,1,3.45,Atlanta Hawks,shot,Harris,,,,,,,,,Smith,2,,,made,,Alley Oop Dunk,,,14-23,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=93
 ,,,,,,,,,,1,3.27,Atlanta Hawks,foul,,,,,,,,,,Stevenson,,,,,,Shooting,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=94
 ,,,,,,,,,,1,3.27,Cleveland Cavaliers,free throw,,,,,,,1,,2,Gee,1,,foul,made,,,,,15-23,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=95
@@ -91,7 +91,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.40,Cleveland Cavaliers,free throw,,,,,,,1,,2,Zeller,1,,foul,made,,,,,22-25,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=114
 ,,,,,,,,,,1,1.40,Atlanta Hawks,substitute,,,,Teague,,Harris,,,,,,,,,,,,,22-25,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=116
 ,,,,,,,,,,1,1.40,Cleveland Cavaliers,free throw,,,,,,,2,,2,Zeller,1,,foul,made,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=117
-,,,,,,,,,,1,1.26,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=119
+,,,,,,,,,,1,1.26,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Gibson,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=119
 ,,,,,,,,,,1,1.22,Cleveland Cavaliers,shot,Sloan,,,,,,,,,Zeller,2,,,made,,Running Dunk,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=120
 ,,,,,,,,,,1,1.08,Atlanta Hawks,shot,,,,,,,,,,Morrow,2,,,made,,Jump Shot,,,25-27,14,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=121
 ,,,,,,,,,,1,0.52,Atlanta Hawks,foul,,,,,,,,,,Morrow,,,,,,Shooting,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=122
@@ -105,13 +105,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.36,Cleveland Cavaliers,foul,,,,,,,,,,Gibson,,,,,,Shooting,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=132
 ,,,,,,,,,,1,0.36,Atlanta Hawks,free throw,,,,,,,1,,2,Williams,1,,foul,made,,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=133
 ,,,,,,,,,,1,0.36,Atlanta Hawks,free throw,,,,,,,2,,2,Williams,1,,foul,made,,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=135
-,,,,,,,,,,1,0.18,Cleveland Cavaliers,shot,,,,,,,,,,Sloan,,,,missed,,Driving Layup,,,27-29,4,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=138
+,,,,,,,,,,1,0.18,Cleveland Cavaliers,shot,,,Pachulia,,,,,,,Sloan,,,,missed,,Driving Layup,,,27-29,4,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=138
 ,,,,,,,,,,1,0.16,Cleveland Cavaliers,rebound,,,,,,,,,,Sloan,,,,,,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=139
 ,,,,,,,,,,1,0.01,Cleveland Cavaliers,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,27-29,21,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=141
 ,,,,,,,,,,1,0.01,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=142
 ,,,,,,,,,,2,11.45,Cleveland Cavaliers,shot,,,,,,,,,,Sloan,2,,,made,,Driving Layup,,,29-29,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=146
 ,,,,,,,,,,2,11.28,Atlanta Hawks,shot,Horford,,,,,,,,,Morrow,3,,,made,,3PT Jump Shot,,,29-32,25,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=147
-,,,,,,,,,,2,11.06,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,,,,,29-32,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=148
+,,,,,,,,,,2,11.06,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,Morrow,,,,29-32,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=148
 ,,,,,,,,,,2,11.00,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,3PT Jump Shot,,,29-32,24,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=149
 ,,,,,,,,,,2,10.57,Atlanta Hawks,rebound,,,,,,,,,,Pachulia,,,,,,,,,29-32,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=150
 ,,,,,,,,,,2,10.54,Atlanta Hawks,shot,,,,,,,,,,Morrow,,,,missed,,3PT Jump Shot,,,29-32,24,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=151
@@ -169,7 +169,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.18,Cleveland Cavaliers,free throw,,,,,,,1,,1,Varejao,1,,foul,made,,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=214
 ,,,,,,,,,,2,3.59,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,49-45,26,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=216
 ,,,,,,,,,,2,3.58,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=217
-,,,,,,,,,,2,3.54,Cleveland Cavaliers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=218
+,,,,,,,,,,2,3.54,Cleveland Cavaliers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,Harris,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=218
 ,,,,,,,,,,2,3.46,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Jump Shot,,,49-45,5,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=219
 ,,,,,,,,,,2,3.45,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=221
 ,,,,,,,,,,2,3.45,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Putback Layup,,,49-45,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=220
@@ -190,7 +190,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.36,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,54-53,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=240
 ,,,,,,,,,,2,2.36,Cleveland Cavaliers,substitute,,,,Sloan,,Pargo,,,,,,,,,,,,,54-53,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=243
 ,,,,,,,,,,2,2.18,Atlanta Hawks,shot,Teague,,,,,,,,,Smith,2,,,made,,Dunk,,,54-55,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=244
-,,,,,,,,,,2,2.01,Cleveland Cavaliers,shot,,,,,,,,,,Sloan,,,,missed,,Jump Shot,,,54-55,6,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=245
+,,,,,,,,,,2,2.01,Cleveland Cavaliers,shot,,,Horford,,,,,,,Sloan,,,,missed,,Jump Shot,,,54-55,6,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=245
 ,,,,,,,,,,2,2.00,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=246
 ,,,,,,,,,,2,1.59,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Putback Layup,,,54-55,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=247
 ,,,,,,,,,,2,1.57,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=248
@@ -203,7 +203,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.17,Cleveland Cavaliers,foul,,,,,,,,,,Sloan,,,,,,Shooting,,,56-57,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=257
 ,,,,,,,,,,2,1.17,Atlanta Hawks,free throw,,,,,,,1,,2,Teague,1,,foul,made,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=258
 ,,,,,,,,,,2,1.17,Atlanta Hawks,free throw,,,,,,,2,,2,Teague,1,,foul,made,,,,,56-59,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=260
-,,,,,,,,,,2,0.59,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Lost Ball,,,,,,56-59,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=263
+,,,,,,,,,,2,0.59,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Lost Ball,,Johnson,,,,56-59,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=263
 ,,,,,,,,,,2,0.45,Atlanta Hawks,shot,Johnson,,,,,,,,,Horford,2,,,made,,Layup,,,56-61,2,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=264
 ,,,,,,,,,,2,0.45,Cleveland Cavaliers,foul,,,,,,,,,,Gee,,,,,,Shooting,,,56-61,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=265
 ,,,,,,,,,,2,0.45,Atlanta Hawks,free throw,,,,,,,1,,1,Horford,1,,foul,made,,,,,56-62,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=266
@@ -260,7 +260,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.59,Atlanta Hawks,free throw,,,,,,,1,,2,Horford,1,,foul,made,,,,,66-72,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=328
 ,,,,,,,,,,3,7.59,Atlanta Hawks,free throw,,,,,,,2,,2,Horford,,,foul,missed,,,,,66-72,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=330
 ,,,,,,,,,,3,7.58,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,66-72,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=332
-,,,,,,,,,,3,7.44,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,,,,,66-72,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=333
+,,,,,,,,,,3,7.44,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,Teague,,,,66-72,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=333
 ,,,,,,,,,,3,7.44,Cleveland Cavaliers,foul,,,,,,,,,,Thompson,,,,,,Personal,,,66-72,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=334
 ,,,,,,,,,,3,7.25,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Turnaround Hook Shot,,,66-72,8,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=335
 ,,,,,,,,,,3,7.22,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,66-72,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=336
@@ -269,7 +269,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.00,Atlanta Hawks,free throw,,,,,,,1,,2,Teague,1,,foul,made,,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=339
 ,,,,,,,,,,3,7.00,Cleveland Cavaliers,substitute,,,,Zeller,,Thompson,,,,,,,,,,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=341
 ,,,,,,,,,,3,7.00,Atlanta Hawks,free throw,,,,,,,2,,2,Teague,1,,foul,made,,,,,69-74,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=342
-,,,,,,,,,,3,6.43,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,Driving Layup,,,69-74,4,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=344
+,,,,,,,,,,3,6.43,Cleveland Cavaliers,shot,,,Smith,,,,,,,Waiters,,,,missed,,Driving Layup,,,69-74,4,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=344
 ,,,,,,,,,,3,6.41,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,69-74,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=346
 ,,,,,,,,,,3,6.41,Cleveland Cavaliers,shot,,,,,,,,,,Varejao,2,,,made,,Putback Layup,,,71-74,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=345
 ,,,,,,,,,,3,6.30,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,71-74,15,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=347
@@ -284,7 +284,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.49,Atlanta Hawks,free throw,,,,,,,1,,2,Horford,,,foul,missed,,,,,73-74,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=358
 ,,,,,,,,,,3,5.49,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,73-74,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=359
 ,,,,,,,,,,3,5.49,Atlanta Hawks,free throw,,,,,,,2,,2,Horford,1,,foul,made,,,,,73-75,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=360
-,,,,,,,,,,3,5.30,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,,,,,73-75,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=362
+,,,,,,,,,,3,5.30,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,Teague,,,,73-75,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=362
 ,,,,,,,,,,3,5.26,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Running Layup,,,73-77,2,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=363
 ,,,,,,,,,,3,5.26,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Shooting,,,73-77,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=364
 ,,,,,,,,,,3,5.26,Atlanta Hawks,substitute,,,,Pachulia,,Horford,,,,,,,,,,,,,73-77,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=365
@@ -299,13 +299,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.25,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=378
 ,,,,,,,,,,3,4.20,Atlanta Hawks,shot,,,,,,,,,,Pachulia,,,,missed,,Layup,,,73-81,3,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=379
 ,,,,,,,,,,3,4.18,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=380
-,,,,,,,,,,3,4.13,Cleveland Cavaliers,turnover,,,,,,,,,,Varejao,,,Bad Pass,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=381
+,,,,,,,,,,3,4.13,Cleveland Cavaliers,turnover,,,,,,,,,,Varejao,,,Bad Pass,,Harris,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=381
 ,,,,,,,,,,3,4.07,Atlanta Hawks,shot,,,,,,,,,,Stevenson,,,,missed,,3PT Jump Shot,,,73-81,25,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=382
 ,,,,,,,,,,3,4.05,Cleveland Cavaliers,rebound,,,,,,,,,,Gibson,,,,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=383
 ,,,,,,,,,,3,3.54,Cleveland Cavaliers,shot,,,,,,,,,,Casspi,,,,missed,,Fadeaway Jumper,,,73-81,11,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=384
 ,,,,,,,,,,3,3.52,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=385
 ,,,,,,,,,,3,3.37,Cleveland Cavaliers,shot,Gibson,,,,,,,,,Varejao,2,,,made,,Jump Shot,,,75-81,18,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=386
-,,,,,,,,,,3,3.20,Atlanta Hawks,shot,,,,,,,,,,Pachulia,,,,missed,,Driving Layup,,,75-81,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=388
+,,,,,,,,,,3,3.20,Atlanta Hawks,shot,,,Zeller,,,,,,,Pachulia,,,,missed,,Driving Layup,,,75-81,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=388
 ,,,,,,,,,,3,3.17,Cleveland Cavaliers,rebound,,,,,,,,,,Casspi,,,,,,,,,75-81,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=389
 ,,,,,,,,,,3,3.16,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Shooting,,,75-81,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=390
 ,,,,,,,,,,3,3.16,Cleveland Cavaliers,free throw,,,,,,,1,,2,Waiters,1,,foul,made,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=391
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.01,Atlanta Hawks,shot,Stevenson,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,77-84,24,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=397
 ,,,,,,,,,,3,2.47,Cleveland Cavaliers,shot,,,,,,,,,,Varejao,,,,missed,,Jump Shot,,,77-84,18,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=399
 ,,,,,,,,,,3,2.45,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=400
-,,,,,,,,,,3,2.33,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=401
+,,,,,,,,,,3,2.33,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Casspi,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=401
 ,,,,,,,,,,3,2.28,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,Running Layup,,,77-84,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=402
 ,,,,,,,,,,3,2.25,Cleveland Cavaliers,rebound,,,,,,,,,,Casspi,,,,,,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=404
 ,,,,,,,,,,3,2.25,Cleveland Cavaliers,shot,,,,,,,,,,Casspi,2,,,made,,Putback Layup,,,79-84,2,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=403
@@ -341,14 +341,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.14,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,82-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=438
 ,,,,,,,,,,3,0.06,Atlanta Hawks,foul,,,,,,,,,,Williams,,,,,,Personal Take,,,82-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=439
 ,,,,,,,,,,3,0.06,Atlanta Hawks,substitute,,,,Teague,,Harris,,,,,,,,,,,,,82-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=440
-,,,,,,,,,,3,0.01,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,,,,,82-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=441
-,,,,,,,,,,4,11.41,Atlanta Hawks,turnover,,,,,,,,,,Pachulia Poss,,,Lost Ball,,,,,,82-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=445
+,,,,,,,,,,3,0.01,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,Teague,,,,82-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=441
+,,,,,,,,,,4,11.41,Atlanta Hawks,turnover,,,,,,,,,,Pachulia Poss,,,Lost Ball,,Thompson,,,,82-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=445
 ,,,,,,,,,,4,11.26,Cleveland Cavaliers,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,82-91,21,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=446
 ,,,,,,,,,,4,11.25,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,82-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=447
 ,,,,,,,,,,4,11.08,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,82-91,26,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=449
 ,,,,,,,,,,4,11.07,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,82-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=450
 ,,,,,,,,,,4,10.47,Cleveland Cavaliers,shot,Casspi,,,,,,,,,Zeller,2,,,made,,Driving Layup,,,84-91,2,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=452
-,,,,,,,,,,4,10.32,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=453
+,,,,,,,,,,4,10.32,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,Casspi,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=453
 ,,,,,,,,,,4,10.25,Cleveland Cavaliers,shot,,,,,,,,,,Casspi,,,,missed,,3PT Jump Shot,,,84-91,26,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=454
 ,,,,,,,,,,4,10.23,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=455
 ,,,,,,,,,,4,10.11,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Running Jump Shot,,,84-91,14,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=456
@@ -365,7 +365,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.20,Atlanta Hawks,substitute,,,,Smith,,Johnson,,,,,,,,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=467
 ,,,,,,,,,,4,9.04,Cleveland Cavaliers,shot,Zeller,,,,,,,,,Gee,3,,,made,,3PT Jump Shot,,,87-91,24,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=469
 ,,,,,,,,,,4,8.42,Atlanta Hawks,shot,Smith,,,,,,,,,Horford,2,,,made,,Dunk,,,87-93,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=470
-,,,,,,,,,,4,8.29,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Lost Ball,,,,,,87-93,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=471
+,,,,,,,,,,4,8.29,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Lost Ball,,Smith,,,,87-93,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=471
 ,,,,,,,,,,4,8.26,Cleveland Cavaliers,foul,,,,,,,,,,Gee,,,,,,Shooting,,,87-93,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=472
 ,,,,,,,,,,4,8.26,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,,,foul,missed,,,,,87-93,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=476
 ,,,,,,,,,,4,8.26,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,87-93,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=477
@@ -383,7 +383,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.45,Cleveland Cavaliers,shot,,,,,,,,,,Pargo,,,,missed,,3PT Jump Shot,,,89-97,25,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=493
 ,,,,,,,,,,4,6.43,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,89-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=494
 ,,,,,,,,,,4,6.39,Cleveland Cavaliers,shot,Thompson,,,,,,,,,Gibson,3,,,made,,3PT Jump Shot,,,92-97,25,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=495
-,,,,,,,,,,4,6.19,Atlanta Hawks,shot,,,,,,,,,,Pachulia,,,,missed,,Turnaround Hook Shot,,,92-97,6,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=496
+,,,,,,,,,,4,6.19,Atlanta Hawks,shot,,,Zeller,,,,,,,Pachulia,,,,missed,,Turnaround Hook Shot,,,92-97,6,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=496
 ,,,,,,,,,,4,6.17,Cleveland Cavaliers,rebound,,,,,,,,,,Pargo,,,,,,,,,92-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=497
 ,,,,,,,,,,4,6.13,Cleveland Cavaliers,shot,Pargo,,,,,,,,,Gee,2,,,made,,Jump Shot,,,94-97,18,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=498
 ,,,,,,,,,,4,6.09,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,94-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=499
@@ -392,8 +392,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.09,Cleveland Cavaliers,substitute,,,,Varejao,,Zeller,,,,,,,,,,,,,94-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=503
 ,,,,,,,,,,4,5.55,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Driving Jump Shot,,,94-97,8,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=504
 ,,,,,,,,,,4,5.53,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,94-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=505
-,,,,,,,,,,4,5.43,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,,,,,94-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=520
-,,,,,,,,,,4,5.38,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,94-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=523
+,,,,,,,,,,4,5.43,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,Teague,,,,94-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=520
+,,,,,,,,,,4,5.38,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Pargo,,,,94-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=523
 ,,,,,,,,,,4,5.15,Cleveland Cavaliers,shot,Varejao,,,,,,,,,Pargo,2,,,made,,Driving Layup,,,96-97,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=506
 ,,,,,,,,,,4,4.56,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,Driving Jump Shot,,,96-97,13,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=507
 ,,,,,,,,,,4,4.54,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,96-97,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=508
@@ -409,8 +409,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.16,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,103-99,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=518
 ,,,,,,,,,,4,3.02,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Turnaround Hook Shot,,,103-99,12,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=524
 ,,,,,,,,,,4,2.59,Cleveland Cavaliers,rebound,,,,,,,,,,Varejao,,,,,,,,,103-99,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=525
-,,,,,,,,,,4,2.44,Cleveland Cavaliers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,,,,,103-99,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=526
-,,,,,,,,,,4,2.41,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,103-99,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=545
+,,,,,,,,,,4,2.44,Cleveland Cavaliers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,Teague,,,,103-99,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=526
+,,,,,,,,,,4,2.41,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Gibson,,,,103-99,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=545
 ,,,,,,,,,,4,2.24,Cleveland Cavaliers,shot,,,,,,,,,,Pargo,2,,,made,,Jump Shot,,,105-99,20,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=527
 ,,,,,,,,,,4,2.04,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Driving Jump Shot,,,105-101,9,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=528
 ,,,,,,,,,,4,2.04,Cleveland Cavaliers,foul,,,,,,,,,,Pargo,,,,,,Shooting,,,105-101,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=529
@@ -418,7 +418,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.04,Atlanta Hawks,free throw,,,,,,,1,,1,Teague,1,,foul,made,,,,,105-102,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=532
 ,,,,,,,,,,4,1.42,Cleveland Cavaliers,shot,,,,,,,,,,Gibson,,,,missed,,3PT Jump Shot,,,105-102,25,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=534
 ,,,,,,,,,,4,1.40,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,105-102,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=535
-,,,,,,,,,,4,1.38,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,,,,,105-102,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=536
+,,,,,,,,,,4,1.38,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,Thompson,,,,105-102,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=536
 ,,,,,,,,,,4,1.22,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,Driving Layup,,,105-102,1,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=538
 ,,,,,,,,,,4,1.21,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,105-102,,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=539
 ,,,,,,,,,,4,1.16,Atlanta Hawks,shot,Smith,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,105-105,24,http://stats.nba.com/cvp.html?GameID=0021200227&GameEventID=540

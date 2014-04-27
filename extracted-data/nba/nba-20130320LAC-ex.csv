@@ -14,7 +14,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.10,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,2-0,26,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=14
 ,,,,,,,,,,1,10.09,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=15
 ,,,,,,,,,,1,9.54,Philadelphia 76ers,shot,,,,,,,,,,Wilkins,2,,,made,,Jump Shot,,,4-0,22,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=16
-,,,,,,,,,,1,9.38,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=17
+,,,,,,,,,,1,9.38,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Hawes,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=17
 ,,,,,,,,,,1,9.32,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,4-0,13,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=18
 ,,,,,,,,,,1,9.31,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=20
 ,,,,,,,,,,1,9.31,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Tip Shot,,,4-0,1,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=19
@@ -24,10 +24,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.31,Philadelphia 76ers,free throw,,,,,,,2,,2,Hawes,1,,foul,made,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=25
 ,,,,,,,,,,1,9.15,Philadelphia 76ers,foul,,,,,,,,,,Young,,,,,,Personal,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=27
 ,,,,,,,,,,1,9.15,Philadelphia 76ers,substitute,,,,Allen,,Young,,,,,,,,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=28
-,,,,,,,,,,1,9.05,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Running Jump Shot,,,6-0,5,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=29
+,,,,,,,,,,1,9.05,Los Angeles Clippers,shot,,,Hawes,,,,,,,Butler,,,,missed,,Running Jump Shot,,,6-0,5,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=29
 ,,,,,,,,,,1,9.05,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=30
-,,,,,,,,,,1,8.57,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=31
-,,,,,,,,,,1,8.52,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=32
+,,,,,,,,,,1,8.57,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,Paul,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=31
+,,,,,,,,,,1,8.52,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,Holiday,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=32
 ,,,,,,,,,,1,8.46,Philadelphia 76ers,shot,Turner,,,,,,,,,Hawes,2,,,made,,Layup,,,8-0,1,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=33
 ,,,,,,,,,,1,8.32,Los Angeles Clippers,shot,Paul,,,,,,,,,Green,2,,,made,,Jump Shot,,,8-2,21,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=34
 ,,,,,,,,,,1,8.18,Philadelphia 76ers,shot,Hawes,,,,,,,,,Turner,2,,,made,,Driving Bank Shot,,,10-2,8,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=35
@@ -93,10 +93,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.16,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=110
 ,,,,,,,,,,1,1.53,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,20-20,26,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=111
 ,,,,,,,,,,1,1.52,Philadelphia 76ers,rebound,,,,,,,,,,Moultrie,,,,,,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=112
-,,,,,,,,,,1,1.37,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=113
+,,,,,,,,,,1,1.37,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Paul,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=113
 ,,,,,,,,,,1,1.31,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Jump Shot,,,20-20,20,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=114
 ,,,,,,,,,,1,1.29,Los Angeles Clippers,rebound,,,,,,,,,,Hollins,,,,,,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=115
-,,,,,,,,,,1,1.13,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=116
+,,,,,,,,,,1,1.13,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,Holiday,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=116
 ,,,,,,,,,,1,1.03,Philadelphia 76ers,turnover,,,,,,,,,,Moultrie,,,3 Second Violation,,,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=117
 ,,,,,,,,,,1,0.39,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,3PT Jump Shot,,,20-20,27,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=118
 ,,,,,,,,,,1,0.38,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=119
@@ -112,12 +112,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.31,Los Angeles Clippers,shot,,,,,,,,,,Wayns,2,,,made,,Driving Layup,,,20-22,4,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=132
 ,,,,,,,,,,2,11.09,Philadelphia 76ers,shot,,,,,,,,,,Wilkins,,,,missed,,Jump Shot,,,20-22,20,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=133
 ,,,,,,,,,,2,11.08,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=134
-,,,,,,,,,,2,11.03,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=135
+,,,,,,,,,,2,11.03,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,Moultrie,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=135
 ,,,,,,,,,,2,11.03,Los Angeles Clippers,foul,,,,,,,,,,Hollins,,,,,,Personal,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=136
 ,,,,,,,,,,2,10.45,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,20-22,21,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=138
 ,,,,,,,,,,2,10.44,Philadelphia 76ers,rebound,,,,,,,,,,Moultrie,,,,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=139
 ,,,,,,,,,,2,10.44,Los Angeles Clippers,foul,,,,,,,,,,Wayns,,,,,,Personal,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=140
-,,,,,,,,,,2,10.33,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=142
+,,,,,,,,,,2,10.33,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,Odom,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=142
 ,,,,,,,,,,2,10.29,Los Angeles Clippers,shot,Crawford,,,,,,,,,Hollins,2,,,made,,Driving Dunk,,,20-24,3,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=143
 ,,,,,,,,,,2,10.14,Philadelphia 76ers,foul,,,,,,,,,,,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=144
 ,,,,,,,,,,2,10.14,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Foul,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=145
@@ -129,7 +129,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.32,Los Angeles Clippers,rebound,,,,,,,,,,Hollins,,,,,,,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=151
 ,,,,,,,,,,2,9.24,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=152
 ,,,,,,,,,,2,9.23,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=153
-,,,,,,,,,,2,9.11,Philadelphia 76ers,turnover,,,,,,,,,,Wilkins,,,Bad Pass,,,,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=154
+,,,,,,,,,,2,9.11,Philadelphia 76ers,turnover,,,,,,,,,,Wilkins,,,Bad Pass,,Barnes,,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=154
 ,,,,,,,,,,2,9.07,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Driving Layup,,,20-28,4,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=155
 ,,,,,,,,,,2,8.55,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,20-28,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=156
 ,,,,,,,,,,2,8.55,Philadelphia 76ers,substitute,,,,Holiday,,Wilkins,,,,,,,,,,,,,20-28,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=158
@@ -205,7 +205,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.30,Philadelphia 76ers,substitute,,,,Ivey,,Turner,,,,,,,,,,,,,36-46,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=237
 ,,,,,,,,,,2,0.09,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,36-46,15,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=238
 ,,,,,,,,,,2,0.08,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,36-46,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=239
-,,,,,,,,,,2,0.06,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,36-46,5,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=240
+,,,,,,,,,,2,0.06,Philadelphia 76ers,shot,,,Barnes,,,,,,,Holiday,,,,missed,,Jump Shot,,,36-46,5,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=240
 ,,,,,,,,,,2,0.06,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,36-46,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=241
 ,,,,,,,,,,2,0.06,Philadelphia 76ers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,36-46,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=242
 ,,,,,,,,,,2,0.06,Los Angeles Clippers,substitute,,,,Crawford,,Jordan,,,,,,,,,,,,,36-46,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=243
@@ -232,14 +232,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.22,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,40-52,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=269
 ,,,,,,,,,,3,9.16,Los Angeles Clippers,shot,Griffin,,,,,,,,,Jordan,2,,,made,,Alley Oop Dunk,,,40-54,2,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=270
 ,,,,,,,,,,3,8.58,Philadelphia 76ers,shot,Hawes,,,,,,,,,Turner,3,,,made,,3PT Jump Shot,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=271
-,,,,,,,,,,3,8.37,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Driving Reverse Layup,,,43-54,2,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=272
+,,,,,,,,,,3,8.37,Los Angeles Clippers,shot,,,Hawes,,,,,,,Green,,,,missed,,Driving Reverse Layup,,,43-54,2,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=272
 ,,,,,,,,,,3,8.34,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=273
-,,,,,,,,,,3,8.31,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=274
+,,,,,,,,,,3,8.31,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,Griffin,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=274
 ,,,,,,,,,,3,8.25,Los Angeles Clippers,shot,Griffin,,,,,,,,,Paul,3,,,made,,3PT Jump Shot,,,43-57,27,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=275
-,,,,,,,,,,3,8.08,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,,,,,43-57,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=276
+,,,,,,,,,,3,8.08,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,Paul,,,,43-57,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=276
 ,,,,,,,,,,3,8.04,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,43-57,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=277
 ,,,,,,,,,,3,7.50,Philadelphia 76ers,shot,Hawes,,,,,,,,,Turner,3,,,made,,3PT Jump Shot,,,46-57,28,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=278
-,,,,,,,,,,3,7.27,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Layup,,,46-57,3,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=279
+,,,,,,,,,,3,7.27,Los Angeles Clippers,shot,,,Hawes,,,,,,,Butler,,,,missed,,Layup,,,46-57,3,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=279
 ,,,,,,,,,,3,7.25,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,46-57,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=280
 ,,,,,,,,,,3,7.20,Philadelphia 76ers,shot,,,,,,,,,,Wilkins,,,,missed,,Fadeaway Jumper,,,46-57,17,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=281
 ,,,,,,,,,,3,7.18,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,46-57,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=282
@@ -253,9 +253,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.12,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,46-61,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=290
 ,,,,,,,,,,3,5.55,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,,,,,46-61,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=292
 ,,,,,,,,,,3,5.55,Philadelphia 76ers,substitute,,,,Wright,,Wilkins,,,,,,,,,,,,,46-61,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=294
-,,,,,,,,,,3,5.36,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,46-61,5,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=295
+,,,,,,,,,,3,5.36,Los Angeles Clippers,shot,,,Hawes,,,,,,,Butler,,,,missed,,Jump Shot,,,46-61,5,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=295
 ,,,,,,,,,,3,5.35,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,46-61,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=296
-,,,,,,,,,,3,5.18,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,46-61,5,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=297
+,,,,,,,,,,3,5.18,Philadelphia 76ers,shot,,,Jordan,,,,,,,Young,,,,missed,,Jump Shot,,,46-61,5,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=297
 ,,,,,,,,,,3,5.16,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,46-61,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=298
 ,,,,,,,,,,3,5.14,Philadelphia 76ers,foul,,,,,,,,,,Holiday,,,,,,Shooting,,,46-61,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=299
 ,,,,,,,,,,3,5.14,Los Angeles Clippers,free throw,,,,,,,1,,2,Green,1,,foul,made,,,,,46-62,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=300
@@ -270,7 +270,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.00,Los Angeles Clippers,free throw,,,,,,,,,,Paul,1,,Technical,made,,,,,46-63,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=312
 ,,,,,,,,,,3,4.45,Los Angeles Clippers,shot,Paul,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,46-66,26,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=314
 ,,,,,,,,,,3,4.33,Philadelphia 76ers,shot,Holiday,,,,,,,,,Hawes,2,,,made,,Jump Shot,,,48-66,18,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=315
-,,,,,,,,,,3,4.16,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,48-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=316
+,,,,,,,,,,3,4.16,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Holiday,,,,48-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=316
 ,,,,,,,,,,3,4.16,Los Angeles Clippers,foul,,,,,,,,,,Griffin,,,,,,Personal,,,48-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=317
 ,,,,,,,,,,3,4.06,Los Angeles Clippers,foul,,,,,,,,,,Butler,,,,,,Shooting,,,48-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=318
 ,,,,,,,,,,3,4.06,Philadelphia 76ers,free throw,,,,,,,1,,2,Young,1,,foul,made,,,,,49-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=319
@@ -282,16 +282,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.37,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=327
 ,,,,,,,,,,3,3.26,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,52-66,26,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=329
 ,,,,,,,,,,3,3.25,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=330
-,,,,,,,,,,3,3.20,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=331
+,,,,,,,,,,3,3.20,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Paul,,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=331
 ,,,,,,,,,,3,3.18,Philadelphia 76ers,foul,,,,,,,,,,Turner,,,,,,Personal,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=332
 ,,,,,,,,,,3,3.18,Los Angeles Clippers,substitute,,,,Hollins,,Jordan,,,,,,,,,,,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=333
 ,,,,,,,,,,3,3.18,Los Angeles Clippers,substitute,,,,Barnes,,Butler,,,,,,,,,,,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=334
 ,,,,,,,,,,3,3.18,Los Angeles Clippers,substitute,,,,Crawford,,Green,,,,,,,,,,,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=335
 ,,,,,,,,,,3,3.08,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Traveling,,,,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=336
-,,,,,,,,,,3,2.54,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,52-66,3,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=340
+,,,,,,,,,,3,2.54,Philadelphia 76ers,shot,,,Hollins,,,,,,,Turner,,,,missed,,Jump Shot,,,52-66,3,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=340
 ,,,,,,,,,,3,2.53,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,52-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=341
 ,,,,,,,,,,3,2.50,Philadelphia 76ers,shot,Turner,,,,,,,,,Hawes,2,,,made,,Floating Jump Shot,,,54-66,7,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=343
-,,,,,,,,,,3,2.29,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,54-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=344
+,,,,,,,,,,3,2.29,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Hawes,,,,54-66,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=344
 ,,,,,,,,,,3,2.15,Philadelphia 76ers,shot,Holiday,,,,,,,,,Hawes,2,,,made,,Layup,,,56-66,2,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=345
 ,,,,,,,,,,3,1.57,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Turnaround Bank Hook Shot,,,56-68,5,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=346
 ,,,,,,,,,,3,1.44,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,56-68,19,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=347
@@ -301,7 +301,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.35,Los Angeles Clippers,substitute,,,,Odom,,Griffin,,,,,,,,,,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=351
 ,,,,,,,,,,3,1.35,Los Angeles Clippers,free throw,,,,,,,1,,1,Hollins,,,foul,missed,,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=353
 ,,,,,,,,,,3,1.34,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=355
-,,,,,,,,,,3,1.19,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=356
+,,,,,,,,,,3,1.19,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,Paul,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=356
 ,,,,,,,,,,3,1.00,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Driving Layup,,,56-72,4,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=357
 ,,,,,,,,,,3,0.56,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Traveling,,,,,,56-72,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=358
 ,,,,,,,,,,3,0.34,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Jump Shot,,,56-74,17,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=360
@@ -327,7 +327,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.03,Los Angeles Clippers,substitute,,,,Wayns,,Paul,,,,,,,,,,,,,60-80,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=387
 ,,,,,,,,,,4,10.03,Philadelphia 76ers,substitute,,,,Moultrie,,Hawes,,,,,,,,,,,,,60-80,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=388
 ,,,,,,,,,,4,10.03,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,60-81,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=389
-,,,,,,,,,,4,9.45,Philadelphia 76ers,turnover,,,,,,,,,,Moultrie,,,Bad Pass,,,,,,60-81,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=391
+,,,,,,,,,,4,9.45,Philadelphia 76ers,turnover,,,,,,,,,,Moultrie,,,Bad Pass,,Odom,,,,60-81,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=391
 ,,,,,,,,,,4,9.42,Philadelphia 76ers,foul,,,,,,,,,,Ivey,,,,,,Shooting,,,60-81,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=392
 ,,,,,,,,,,4,9.42,Los Angeles Clippers,free throw,,,,,,,1,,2,Wayns,1,,foul,made,,,,,60-82,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=393
 ,,,,,,,,,,4,9.42,Philadelphia 76ers,substitute,,,,Young,,Moultrie,,,,,,,,,,,,,60-82,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=395
@@ -347,13 +347,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.24,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,62-83,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=413
 ,,,,,,,,,,4,8.01,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,62-83,27,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=414
 ,,,,,,,,,,4,8.00,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,62-83,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=415
-,,,,,,,,,,4,7.44,Philadelphia 76ers,turnover,,,,,,,,,,Allen,,,Lost Ball,,,,,,62-83,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=416
+,,,,,,,,,,4,7.44,Philadelphia 76ers,turnover,,,,,,,,,,Allen,,,Lost Ball,,Odom,,,,62-83,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=416
 ,,,,,,,,,,4,7.40,Los Angeles Clippers,shot,Odom,,,,,,,,,Barnes,2,,,made,,Driving Layup,,,62-85,3,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=417
-,,,,,,,,,,4,7.22,Philadelphia 76ers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,,,,,62-85,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=418
+,,,,,,,,,,4,7.22,Philadelphia 76ers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,Odom,,,,62-85,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=418
 ,,,,,,,,,,4,6.58,Los Angeles Clippers,shot,Wayns,,,,,,,,,Hollins,2,,,made,,Hook Shot,,,62-87,4,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=419
 ,,,,,,,,,,4,6.46,Philadelphia 76ers,turnover,,,,,,,,,,Ivey Out of Bounds,,,Lost Ball,,,,,,62-87,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=420
 ,,,,,,,,,,4,6.32,Los Angeles Clippers,shot,Crawford,,,,,,,,,Hollins,2,,,made,,Alley Oop Dunk,,,62-89,1,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=422
-,,,,,,,,,,4,6.19,Philadelphia 76ers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,,,,,62-89,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=423
+,,,,,,,,,,4,6.19,Philadelphia 76ers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,Odom,,,,62-89,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=423
 ,,,,,,,,,,4,6.00,Los Angeles Clippers,shot,,,,,,,,,,Wayns,,,,missed,,Driving Reverse Layup,,,62-89,3,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=424
 ,,,,,,,,,,4,6.00,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,62-89,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=425
 ,,,,,,,,,,4,6.00,Los Angeles Clippers,foul,,,,,,,,,,Hollins,,,,,,Loose ball,,,62-89,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=426
@@ -385,7 +385,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.16,Philadelphia 76ers,foul,,,,,,,,,,Ivey,,,,,,Shooting,,,70-97,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=454
 ,,,,,,,,,,4,2.16,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,70-97,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=455
 ,,,,,,,,,,4,2.16,Los Angeles Clippers,free throw,,,,,,,1,,1,Crawford,1,,foul,made,,,,,70-98,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=457
-,,,,,,,,,,4,2.02,Philadelphia 76ers,turnover,,,,,,,,,,Ivey,,,Bad Pass,,,,,,70-98,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=460
+,,,,,,,,,,4,2.02,Philadelphia 76ers,turnover,,,,,,,,,,Ivey,,,Bad Pass,,Wayns,,,,70-98,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=460
 ,,,,,,,,,,4,1.46,Los Angeles Clippers,shot,Summers,,,,,,,,,Green,2,,,made,,Driving Layup,,,70-100,4,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=461
 ,,,,,,,,,,4,1.46,Philadelphia 76ers,foul,,,,,,,,,,Allen,,,,,,Shooting,,,70-100,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=462
 ,,,,,,,,,,4,1.46,Los Angeles Clippers,free throw,,,,,,,1,,1,Green,1,,foul,made,,,,,70-101,,http://stats.nba.com/cvp.html?GameID=0021201018&GameEventID=463

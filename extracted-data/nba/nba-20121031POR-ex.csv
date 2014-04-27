@@ -3,7 +3,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.25,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=3
 ,,,,,,,,,,1,11.24,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=4
 ,,,,,,,,,,1,11.23,Portland Trail Blazers,shot,,,,,,,,,,Batum,2,,,made,,Putback Layup,,,2-2,2,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=5
-,,,,,,,,,,1,11.10,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Layup,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=6
+,,,,,,,,,,1,11.10,Los Angeles Lakers,shot,,,Hickson,,,,,,,Howard,,,,missed,,Layup,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=6
 ,,,,,,,,,,1,11.07,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=8
 ,,,,,,,,,,1,11.07,Los Angeles Lakers,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,2-2,5,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=7
 ,,,,,,,,,,1,11.05,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=9
@@ -17,15 +17,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.21,Los Angeles Lakers,shot,Nash,,,,,,,,,World Peace,2,,,made,,Layup,,,4-2,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=17
 ,,,,,,,,,,1,10.13,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,Driving Layup,,,4-2,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=18
 ,,,,,,,,,,1,10.11,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=19
-,,,,,,,,,,1,9.50,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Lost Ball,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=20
+,,,,,,,,,,1,9.50,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Lost Ball,,Matthews,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=20
 ,,,,,,,,,,1,9.48,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Driving Layup,,,4-4,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=21
 ,,,,,,,,,,1,9.48,Los Angeles Lakers,foul,,,,,,,,,,Nash,,,,,,Shooting,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=22
 ,,,,,,,,,,1,9.48,Portland Trail Blazers,free throw,,,,,,,1,,1,Matthews,1,,foul,made,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=23
 ,,,,,,,,,,1,9.35,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Traveling,,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=24
 ,,,,,,,,,,1,9.24,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Step Out of Bounds,,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=25
 ,,,,,,,,,,1,9.14,Portland Trail Blazers,foul,,,,,,,,,,Lillard,,,,,,Personal,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=26
-,,,,,,,,,,1,9.07,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=27
-,,,,,,,,,,1,9.01,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=28
+,,,,,,,,,,1,9.07,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,Hickson,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=27
+,,,,,,,,,,1,9.01,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Nash,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=28
 ,,,,,,,,,,1,8.55,Los Angeles Lakers,shot,Nash,,,,,,,,,Howard,2,,,made,,Driving Layup,,,6-5,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=29
 ,,,,,,,,,,1,8.41,Portland Trail Blazers,shot,,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,6-8,25,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=30
 ,,,,,,,,,,1,8.28,Los Angeles Lakers,shot,,,,,,,,,,Gasol,,,,missed,,Layup,,,6-8,2,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=31
@@ -43,7 +43,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.04,Portland Trail Blazers,foul,,,,,,,,,,Batum,,,,,,Shooting,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=45
 ,,,,,,,,,,1,7.04,Los Angeles Lakers,free throw,,,,,,,1,,2,Gasol,1,,foul,made,,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=46
 ,,,,,,,,,,1,7.04,Los Angeles Lakers,free throw,,,,,,,2,,2,Gasol,1,,foul,made,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=48
-,,,,,,,,,,1,6.54,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Driving Layup,,,15-14,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=50
+,,,,,,,,,,1,6.54,Portland Trail Blazers,shot,,,Howard,,,,,,,Lillard,,,,missed,,Driving Layup,,,15-14,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=50
 ,,,,,,,,,,1,6.53,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=51
 ,,,,,,,,,,1,6.44,Los Angeles Lakers,shot,Howard,,,,,,,,,Bryant,2,,,made,,Driving Dunk,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=52
 ,,,,,,,,,,1,6.32,Los Angeles Lakers,foul,,,,,,,,,,Gasol,,,,,,Personal,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=53
@@ -83,7 +83,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.00,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=94
 ,,,,,,,,,,1,3.42,Portland Trail Blazers,shot,,,,,,,,,,Smith,,,,missed,,Running Jump Shot,,,23-22,3,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=95
 ,,,,,,,,,,1,3.40,Los Angeles Lakers,rebound,,,,,,,,,,Nash,,,,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=96
-,,,,,,,,,,1,3.31,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=97
+,,,,,,,,,,1,3.31,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Batum,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=97
 ,,,,,,,,,,1,3.28,Portland Trail Blazers,shot,,,,,,,,,,Batum,2,,,made,,Driving Layup,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=98
 ,,,,,,,,,,1,3.28,Los Angeles Lakers,foul,,,,,,,,,,Bryant,,,,,,Shooting,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=99
 ,,,,,,,,,,1,3.28,Los Angeles Lakers,substitute,,,,Hill,,Howard,,,,,,,,,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=100
@@ -123,7 +123,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.01,Los Angeles Lakers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,26-30,19,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=145
 ,,,,,,,,,,1,0.00,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,26-30,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=146
 ,,,,,,,,,,2,11.46,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,26-33,27,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=150
-,,,,,,,,,,2,11.15,Los Angeles Lakers,turnover,,,,,,,,,,Ebanks,,,Lost Ball,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=151
+,,,,,,,,,,2,11.15,Los Angeles Lakers,turnover,,,,,,,,,,Ebanks,,,Lost Ball,,Lillard,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=151
 ,,,,,,,,,,2,11.10,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Running Jump Shot,,,26-35,8,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=152
 ,,,,,,,,,,2,10.47,Los Angeles Lakers,foul,,,,,,,,,,,,,,,,,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=153
 ,,,,,,,,,,2,10.47,Los Angeles Lakers,turnover,,,,,,,,,,Hill,,,Foul,,,,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=154
@@ -131,7 +131,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.42,Los Angeles Lakers,foul,,,,,,,,,,Hill,,,,,,Personal,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=156
 ,,,,,,,,,,2,10.42,Portland Trail Blazers,substitute,,,,Batum,,Pavlovic,,,,,,,,,,,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=157
 ,,,,,,,,,,2,10.33,Los Angeles Lakers,substitute,,,,Ebanks,,Hill,,,,,,,,,,,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=159
-,,,,,,,,,,2,10.33,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,,,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=161
+,,,,,,,,,,2,10.33,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,Blake,,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=161
 ,,,,,,,,,,2,10.33,Portland Trail Blazers,jumpball,,Blake,,,Lillard,,,,,,,,,,,,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=160
 ,,,,,,,,,,2,10.21,Portland Trail Blazers,foul,,,,,,,,,,Leonard,,,,,,Shooting,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=162
 ,,,,,,,,,,2,10.21,Los Angeles Lakers,free throw,,,,,,,1,,2,Howard,1,,foul,made,,,,,27-35,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=163
@@ -157,7 +157,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.36,Portland Trail Blazers,substitute,,,,Aldridge,,Jeffries,,,,,,,,,,,,,32-37,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=192
 ,,,,,,,,,,2,8.36,Los Angeles Lakers,free throw,,,,,,,1,,2,Howard,1,,foul,made,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=195
 ,,,,,,,,,,2,8.36,Los Angeles Lakers,free throw,,,,,,,2,,2,Howard,1,,foul,made,,,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=197
-,,,,,,,,,,2,8.15,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=199
+,,,,,,,,,,2,8.15,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Howard,,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=199
 ,,,,,,,,,,2,8.01,Los Angeles Lakers,shot,,,,,,,,,,Jamison,,,,missed,,3PT Jump Shot,,,34-37,25,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=200
 ,,,,,,,,,,2,8.01,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=201
 ,,,,,,,,,,2,7.55,Los Angeles Lakers,foul,,,,,,,,,,Howard,,,,,,Personal,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=202
@@ -177,7 +177,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.35,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,37-41,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=218
 ,,,,,,,,,,2,6.32,Los Angeles Lakers,shot,Howard,,,,,,,,,World Peace,3,,,made,,3PT Jump Shot,,,40-41,25,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=219
 ,,,,,,,,,,2,6.14,Portland Trail Blazers,shot,Smith,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,40-44,25,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=220
-,,,,,,,,,,2,5.55,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=221
+,,,,,,,,,,2,5.55,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,Matthews,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=221
 ,,,,,,,,,,2,5.52,Portland Trail Blazers,shot,,,,,,,,,,Batum,2,,,made,,Driving Slam Dunk,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=222
 ,,,,,,,,,,2,5.51,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=223
 ,,,,,,,,,,2,5.51,Portland Trail Blazers,substitute,,,,Pavlovic,,Matthews,,,,,,,,,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=225
@@ -219,9 +219,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.13,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Driving Layup,,,57-59,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=267
 ,,,,,,,,,,2,0.12,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=268
 ,,,,,,,,,,2,0.06,Portland Trail Blazers,shot,Matthews,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=269
-,,,,,,,,,,2,0.01,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=270
+,,,,,,,,,,2,0.01,Los Angeles Lakers,shot,,,Batum,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=270
 ,,,,,,,,,,2,0.00,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=271
-,,,,,,,,,,3,11.52,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=275
+,,,,,,,,,,3,11.52,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Peace,,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=275
 ,,,,,,,,,,3,11.45,Los Angeles Lakers,foul,,,,,,,,,,World,,,,,,Peace Offensive Charge,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=276
 ,,,,,,,,,,3,11.45,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Foul,,,,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=277
 ,,,,,,,,,,3,11.30,Los Angeles Lakers,foul,,,,,,,,,,,,,,,,,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=278
@@ -271,7 +271,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.15,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=328
 ,,,,,,,,,,3,7.15,Los Angeles Lakers,free throw,,,,,,,2,,2,Bryant,1,,foul,made,,,,,64-70,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=329
 ,,,,,,,,,,3,7.01,Portland Trail Blazers,shot,,,,,,,,,,Batum,2,,,made,,Driving Slam Dunk,,,64-72,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=331
-,,,,,,,,,,3,6.46,Los Angeles Lakers,turnover,,,,,,,,,,Ebanks,,,Lost Ball,,,,,,64-72,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=332
+,,,,,,,,,,3,6.46,Los Angeles Lakers,turnover,,,,,,,,,,Ebanks,,,Lost Ball,,Batum,,,,64-72,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=332
 ,,,,,,,,,,3,6.44,Portland Trail Blazers,shot,Batum,,,,,,,,,Matthews,2,,,made,,Dunk,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=333
 ,,,,,,,,,,3,6.43,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=334
 ,,,,,,,,,,3,6.24,Los Angeles Lakers,shot,,,,,,,,,,Ebanks,,,,missed,,Jump Shot,,,64-74,9,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=336
@@ -282,7 +282,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.06,Portland Trail Blazers,substitute,,,,Smith,,Lillard,,,,,,,,,,,,,66-76,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=342
 ,,,,,,,,,,3,6.06,Portland Trail Blazers,substitute,,,,Pavlovic,,Matthews,,,,,,,,,,,,,66-76,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=343
 ,,,,,,,,,,3,6.06,Portland Trail Blazers,free throw,,,,,,,1,,1,Hickson,1,,foul,made,,,,,66-77,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=344
-,,,,,,,,,,3,5.51,Los Angeles Lakers,shot,,,,,,,,,,Gasol,,,,missed,,Layup,,,66-77,3,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=346
+,,,,,,,,,,3,5.51,Los Angeles Lakers,shot,,,Aldridge,,,,,,,Gasol,,,,missed,,Layup,,,66-77,3,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=346
 ,,,,,,,,,,3,5.50,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,66-77,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=347
 ,,,,,,,,,,3,5.45,Los Angeles Lakers,shot,Ebanks,,,,,,,,,Bryant,3,,,made,,3PT Jump Shot,,,69-77,24,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=348
 ,,,,,,,,,,3,5.30,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Traveling,,,,,,69-77,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=349
@@ -310,7 +310,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.54,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=375
 ,,,,,,,,,,3,2.47,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,76-79,23,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=376
 ,,,,,,,,,,3,2.45,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=377
-,,,,,,,,,,3,2.35,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=378
+,,,,,,,,,,3,2.35,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Pavlovic,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=378
 ,,,,,,,,,,3,2.31,Portland Trail Blazers,shot,Pavlovic,,,,,,,,,Lillard,2,,,made,,Dunk,,,76-81,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=379
 ,,,,,,,,,,3,2.04,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,76-81,5,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=380
 ,,,,,,,,,,3,2.03,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=381
@@ -372,7 +372,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.51,Los Angeles Lakers,shot,,,,,,,,,,Gasol,2,,,made,,Running Jump Shot,,,85-102,9,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=451
 ,,,,,,,,,,4,8.28,Portland Trail Blazers,shot,,,,,,,,,,Leonard,,,,missed,,Jump Shot,,,85-102,18,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=452
 ,,,,,,,,,,4,8.27,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,85-102,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=453
-,,,,,,,,,,4,8.05,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,,,,,85-102,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=454
+,,,,,,,,,,4,8.05,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,Matthews,,,,85-102,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=454
 ,,,,,,,,,,4,8.04,Los Angeles Lakers,foul,,,,,,,,,,Bryant,,,,,,Technical,,,85-102,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=455
 ,,,,,,,,,,4,8.04,Portland Trail Blazers,substitute,,,,Hickson,,Leonard,,,,,,,,,,,,,85-102,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=458
 ,,,,,,,,,,4,8.04,Portland Trail Blazers,free throw,,,,,,,,,,Matthews,1,,Technical,made,,,,,85-103,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=459
@@ -389,9 +389,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.49,Los Angeles Lakers,rebound,,,,,,,,,,Blake,,,,,,,,,87-103,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=472
 ,,,,,,,,,,4,6.33,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,87-103,26,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=473
 ,,,,,,,,,,4,6.31,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,87-103,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=474
-,,,,,,,,,,4,6.28,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,87-103,4,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=475
+,,,,,,,,,,4,6.28,Los Angeles Lakers,shot,,,Aldridge,,,,,,,Bryant,,,,missed,,Jump Shot,,,87-103,4,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=475
 ,,,,,,,,,,4,6.26,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,87-103,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=476
-,,,,,,,,,,4,6.24,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,87-103,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=477
+,,,,,,,,,,4,6.24,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Gasol,,,,87-103,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=477
 ,,,,,,,,,,4,6.24,Los Angeles Lakers,shot,,,,,,,,,,Gasol,2,,,made,,Layup,,,89-103,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=478
 ,,,,,,,,,,4,6.24,Los Angeles Lakers,foul,,,,,,,,,,Howard,,,,,,Loose ball,,,89-103,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=479
 ,,,,,,,,,,4,6.24,Portland Trail Blazers,substitute,,,,Lillard,,Smith,,,,,,,,,,,,,89-103,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=480
@@ -404,7 +404,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.42,Los Angeles Lakers,free throw,,,,,,,2,,2,Howard,1,,foul,made,,,,,91-105,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=489
 ,,,,,,,,,,4,5.20,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Turnaround Jump Shot,,,91-105,16,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=491
 ,,,,,,,,,,4,5.19,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,91-105,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=492
-,,,,,,,,,,4,5.04,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Jump Shot,,,91-105,8,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=493
+,,,,,,,,,,4,5.04,Los Angeles Lakers,shot,,,Hickson,,,,,,,Howard,,,,missed,,Jump Shot,,,91-105,8,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=493
 ,,,,,,,,,,4,5.02,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,91-105,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=494
 ,,,,,,,,,,4,5.02,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Layup,,,93-105,2,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=495
 ,,,,,,,,,,4,5.02,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Shooting,,,93-105,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=496
@@ -414,7 +414,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.26,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,94-105,26,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=501
 ,,,,,,,,,,4,4.26,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,94-105,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=502
 ,,,,,,,,,,4,4.11,Portland Trail Blazers,shot,Hickson,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,94-108,25,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=503
-,,,,,,,,,,4,3.53,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,,,,,94-108,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=504
+,,,,,,,,,,4,3.53,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,Matthews,,,,94-108,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=504
 ,,,,,,,,,,4,3.52,Los Angeles Lakers,foul,,,,,,,,,,Bryant,,,,,,Personal,,,94-108,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=505
 ,,,,,,,,,,4,3.52,Portland Trail Blazers,free throw,,,,,,,1,,2,Matthews,,,foul,missed,,,,,94-108,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=506
 ,,,,,,,,,,4,3.52,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,94-108,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=507
@@ -433,14 +433,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.42,Portland Trail Blazers,shot,Matthews,,,,,,,,,Hickson,2,,,made,,Turnaround Fadeaway,,,98-112,15,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=526
 ,,,,,,,,,,4,2.20,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,3PT Jump Shot,,,98-112,25,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=527
 ,,,,,,,,,,4,2.19,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,98-112,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=528
-,,,,,,,,,,4,2.02,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,98-112,3,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=529
+,,,,,,,,,,4,2.02,Portland Trail Blazers,shot,,,Peace,,,,,,,Hickson,,,,missed,,Layup,,,98-112,3,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=529
 ,,,,,,,,,,4,1.59,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,98-112,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=530
 ,,,,,,,,,,4,1.40,Los Angeles Lakers,shot,,,,,,,,,,Blake,2,,,made,,Jump Shot,,,100-112,21,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=531
 ,,,,,,,,,,4,1.29,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,100-112,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=532
 ,,,,,,,,,,4,1.18,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Layup,,,100-112,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=533
 ,,,,,,,,,,4,1.16,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,100-112,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=534
 ,,,,,,,,,,4,1.15,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Layup,,,102-112,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=535
-,,,,,,,,,,4,1.06,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,102-112,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=536
+,,,,,,,,,,4,1.06,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Blake,,,,102-112,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=536
 ,,,,,,,,,,4,1.03,Los Angeles Lakers,shot,Bryant,,,,,,,,,World Peace,2,,,made,,Driving Dunk,,,104-112,1,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=537
 ,,,,,,,,,,4,0.48,Los Angeles Lakers,foul,,,,,,,,,,World Peace,,,,,,Personal,,,104-112,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=538
 ,,,,,,,,,,4,0.48,Los Angeles Lakers,substitute,,,,Meeks,,World Peace,,,,,,,,,,,,,104-112,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=539
@@ -448,4 +448,4 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.48,Portland Trail Blazers,free throw,,,,,,,2,,2,Lillard,1,,foul,made,,,,,104-114,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=542
 ,,,,,,,,,,4,0.42,Los Angeles Lakers,shot,Blake,,,,,,,,,Gasol,2,,,made,,Dunk,,,106-114,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=544
 ,,,,,,,,,,4,0.22,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Jump Shot,,,106-116,21,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=545
-,,,,,,,,,,4,0.10,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,106-116,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=546
+,,,,,,,,,,4,0.10,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Batum,,,,106-116,,http://stats.nba.com/cvp.html?GameID=0021200012&GameEventID=546

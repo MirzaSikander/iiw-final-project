@@ -54,7 +54,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.10,Chicago Bulls,turnover,,,,,,,,,,Hamilton,,,Foul,,,,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=56
 ,,,,,,,,,,1,5.10,Chicago Bulls,substitute,,,,Butler,,Hamilton,,,,,,,,,,,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=57
 ,,,,,,,,,,1,4.52,Boston Celtics,shot,Pierce,,,,,,,,,Green,2,,,made,,Dunk,,,9-14,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=58
-,,,,,,,,,,1,4.44,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Lost Ball,,,,,,9-14,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=59
+,,,,,,,,,,1,4.44,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Lost Ball,,Bradley,,,,9-14,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=59
 ,,,,,,,,,,1,4.42,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,Personal,,,9-14,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=60
 ,,,,,,,,,,1,4.42,Boston Celtics,free throw,,,,,,,1,,2,Bradley,1,,foul,made,,,,,9-15,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=61
 ,,,,,,,,,,1,4.42,Boston Celtics,free throw,,,,,,,2,,2,Bradley,1,,foul,made,,,,,9-16,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=63
@@ -84,7 +84,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.49,Chicago Bulls,shot,Gibson,,,,,,,,,Butler,2,,,made,,Jump Shot,,,13-20,20,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=88
 ,,,,,,,,,,1,1.23,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,13-20,6,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=89
 ,,,,,,,,,,1,1.22,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,13-20,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=90
-,,,,,,,,,,1,1.19,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Bad Pass,,,,,,13-20,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=91
+,,,,,,,,,,1,1.19,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Bad Pass,,Collins,,,,13-20,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=91
 ,,,,,,,,,,1,1.15,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Jump Shot,,,13-20,14,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=92
 ,,,,,,,,,,1,1.14,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,13-20,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=93
 ,,,,,,,,,,1,0.56,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,13-20,17,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=94
@@ -101,9 +101,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.00,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,15-24,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=111
 ,,,,,,,,,,2,11.42,Chicago Bulls,shot,Noah,,,,,,,,,Belinelli,2,,,made,,Driving Layup,,,17-24,2,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=115
 ,,,,,,,,,,2,11.16,Boston Celtics,shot,Collins,,,,,,,,,Lee,3,,,made,,3PT Jump Shot,,,17-27,25,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=116
-,,,,,,,,,,2,10.56,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Lost Ball,,,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=117
+,,,,,,,,,,2,10.56,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Lost Ball,,Lee,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=117
 ,,,,,,,,,,2,10.44,Chicago Bulls,foul,,,,,,,,,,Belinelli,,,,,,Personal,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=118
-,,,,,,,,,,2,10.32,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,17-27,8,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=119
+,,,,,,,,,,2,10.32,Boston Celtics,shot,,,Butler,,,,,,,Green,,,,missed,,Jump Shot,,,17-27,8,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=119
 ,,,,,,,,,,2,10.31,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=120
 ,,,,,,,,,,2,10.17,Chicago Bulls,shot,Belinelli,,,,,,,,,Gibson,2,,,made,,Jump Shot,,,19-27,14,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=121
 ,,,,,,,,,,2,10.01,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Running Jump Shot,,,19-27,8,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=122
@@ -113,7 +113,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.52,Chicago Bulls,substitute,,,,Boozer,,Noah,,,,,,,,,,,,,20-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=127
 ,,,,,,,,,,2,9.52,Chicago Bulls,free throw,,,,,,,2,,2,Teague,,,foul,missed,,,,,20-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=128
 ,,,,,,,,,,2,9.51,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,20-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=130
-,,,,,,,,,,2,9.37,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,20-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=131
+,,,,,,,,,,2,9.37,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Butler,,,,20-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=131
 ,,,,,,,,,,2,9.31,Chicago Bulls,shot,Teague,,,,,,,,,Gibson,2,,,made,,Driving Dunk,,,22-27,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=132
 ,,,,,,,,,,2,9.27,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=133
 ,,,,,,,,,,2,9.27,Boston Celtics,substitute,,,,Garnett,,Collins,,,,,,,,,,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=135
@@ -197,12 +197,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.12,Chicago Bulls,free throw,,,,,,,2,,2,Belinelli,1,,foul,made,,,,,34-33,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=223
 ,,,,,,,,,,2,0.57,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Driving Layup,,,34-33,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=225
 ,,,,,,,,,,2,0.56,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,34-33,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=226
-,,,,,,,,,,2,0.36,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,34-33,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=227
+,,,,,,,,,,2,0.36,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,Terry,,,,34-33,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=227
 ,,,,,,,,,,2,0.32,Boston Celtics,shot,Pierce,,,,,,,,,Terry,2,,,made,,Driving Finger Roll Layup,,,34-35,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=228
 ,,,,,,,,,,2,0.16,Chicago Bulls,shot,,,,,,,,,,Teague,2,,,made,,Driving Layup,,,36-35,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=229
 ,,,,,,,,,,2,0.16,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=230
 ,,,,,,,,,,2,0.16,Boston Celtics,substitute,,,,Bradley,,Bass,,,,,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=232
-,,,,,,,,,,2,0.00,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=233
+,,,,,,,,,,2,0.00,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Deng,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=233
 ,,,,,,,,,,3,11.36,Chicago Bulls,shot,Hamilton,,,,,,,,,Robinson,3,,,made,,3PT Jump Shot,,,39-35,27,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=237
 ,,,,,,,,,,3,11.17,Boston Celtics,foul,,,,,,,,,,,,,,,,,,,39-35,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=239
 ,,,,,,,,,,3,11.17,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Foul,,,,,,39-35,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=240
@@ -213,8 +213,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.36,Boston Celtics,substitute,,,,Green,,Bradley,,,,,,,,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=246
 ,,,,,,,,,,3,10.27,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,39-37,12,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=247
 ,,,,,,,,,,3,10.26,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=248
-,,,,,,,,,,3,10.17,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=249
-,,,,,,,,,,3,9.59,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Jump Shot,,,39-37,8,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=250
+,,,,,,,,,,3,10.17,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,Noah,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=249
+,,,,,,,,,,3,9.59,Chicago Bulls,shot,,,Bass,,,,,,,Noah,,,,missed,,Jump Shot,,,39-37,8,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=250
 ,,,,,,,,,,3,9.58,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=251
 ,,,,,,,,,,3,9.55,Chicago Bulls,shot,,,,,,,,,,Hamilton,,,,missed,,Jump Shot,,,39-37,15,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=252
 ,,,,,,,,,,3,9.54,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=253
@@ -237,7 +237,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.47,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=270
 ,,,,,,,,,,3,7.28,Chicago Bulls,shot,,,,,,,,,,Hamilton,,,,missed,,Jump Shot,,,39-39,18,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=271
 ,,,,,,,,,,3,7.25,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=272
-,,,,,,,,,,3,7.23,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=273
+,,,,,,,,,,3,7.23,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,Lee,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=273
 ,,,,,,,,,,3,7.15,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,39-39,12,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=274
 ,,,,,,,,,,3,7.14,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=275
 ,,,,,,,,,,3,7.14,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Tip Shot,,,39-39,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=276
@@ -246,13 +246,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.52,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=279
 ,,,,,,,,,,3,6.44,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,39-39,19,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=280
 ,,,,,,,,,,3,6.41,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=281
-,,,,,,,,,,3,6.35,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,39-39,14,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=282
+,,,,,,,,,,3,6.35,Boston Celtics,shot,,,Noah,,,,,,,Bass,,,,missed,,Jump Shot,,,39-39,14,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=282
 ,,,,,,,,,,3,6.34,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=283
 ,,,,,,,,,,3,6.28,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Layup,,,39-39,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=284
 ,,,,,,,,,,3,6.27,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=285
 ,,,,,,,,,,3,6.27,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=286
 ,,,,,,,,,,3,6.27,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=289
-,,,,,,,,,,3,6.18,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=290
+,,,,,,,,,,3,6.18,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,Robinson,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=290
 ,,,,,,,,,,3,6.17,Boston Celtics,foul,,,,,,,,,,Wilcox,,,,,,Personal,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=291
 ,,,,,,,,,,3,6.01,Chicago Bulls,shot,Robinson,,,,,,,,,Boozer,2,,,made,,Driving Dunk,,,41-39,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=294
 ,,,,,,,,,,3,5.39,Boston Celtics,shot,,,,,,,,,,Bass,2,,,made,,Turnaround Fadeaway,,,41-41,11,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=296
@@ -274,13 +274,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.20,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=314
 ,,,,,,,,,,3,3.00,Boston Celtics,shot,,,,,,,,,,Collins,,,,missed,,Jump Shot,,,47-41,15,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=315
 ,,,,,,,,,,3,2.59,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=316
-,,,,,,,,,,3,2.44,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Layup,,,47-41,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=317
+,,,,,,,,,,3,2.44,Chicago Bulls,shot,,,Green,,,,,,,Boozer,,,,missed,,Layup,,,47-41,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=317
 ,,,,,,,,,,3,2.43,Boston Celtics,rebound,,,,,,,,,,Collins,,,,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=318
-,,,,,,,,,,3,2.33,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,47-41,18,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=319
+,,,,,,,,,,3,2.33,Boston Celtics,shot,,,Deng,,,,,,,Bass,,,,missed,,Jump Shot,,,47-41,18,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=319
 ,,,,,,,,,,3,2.33,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=320
 ,,,,,,,,,,3,2.19,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,3PT Jump Shot,,,47-41,31,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=321
 ,,,,,,,,,,3,2.17,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=322
-,,,,,,,,,,3,2.04,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Driving Layup,,,47-41,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=323
+,,,,,,,,,,3,2.04,Boston Celtics,shot,,,Noah,,,,,,,Pierce,,,,missed,,Driving Layup,,,47-41,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=323
 ,,,,,,,,,,3,2.03,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=324
 ,,,,,,,,,,3,1.58,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Layup,,,47-41,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=325
 ,,,,,,,,,,3,1.57,Boston Celtics,rebound,,,,,,,,,,Collins,,,,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=326
@@ -316,7 +316,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.35,Chicago Bulls,shot,,,,,,,,,,Noah,2,,,made,,Tip Shot,,,54-47,2,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=362
 ,,,,,,,,,,4,10.20,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,54-47,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=363
 ,,,,,,,,,,4,10.19,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,54-47,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=364
-,,,,,,,,,,4,10.03,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Bad Pass,,,,,,54-47,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=365
+,,,,,,,,,,4,10.03,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Bad Pass,,Bass,,,,54-47,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=365
 ,,,,,,,,,,4,9.58,Boston Celtics,shot,,,,,,,,,,Bass,2,,,made,,Dunk,,,54-49,1,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=366
 ,,,,,,,,,,4,9.39,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Jump Shot,,,54-49,22,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=368
 ,,,,,,,,,,4,9.38,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,54-49,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=369
@@ -326,10 +326,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.22,Chicago Bulls,substitute,,,,Butler,,Deng,,,,,,,,,,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=374
 ,,,,,,,,,,4,8.59,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=375
 ,,,,,,,,,,4,8.57,Chicago Bulls,rebound,,,,,,,,,,Butler,,,,,,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=376
-,,,,,,,,,,4,8.50,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=377
+,,,,,,,,,,4,8.50,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,Garnett,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=377
 ,,,,,,,,,,4,8.38,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,54-51,26,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=378
 ,,,,,,,,,,4,8.37,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=379
-,,,,,,,,,,4,8.33,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Running Layup,,,54-51,2,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=380
+,,,,,,,,,,4,8.33,Chicago Bulls,shot,,,Green,,,,,,,Butler,,,,missed,,Running Layup,,,54-51,2,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=380
 ,,,,,,,,,,4,8.32,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=381
 ,,,,,,,,,,4,8.09,Boston Celtics,shot,Green,,,,,,,,,Garnett,2,,,made,,Step Back Jump Shot,,,54-53,18,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=382
 ,,,,,,,,,,4,7.41,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,Jump Shot,,,54-53,14,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=383
@@ -341,7 +341,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.53,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=389
 ,,,,,,,,,,4,6.35,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Running Jump Shot,,,54-55,8,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=390
 ,,,,,,,,,,4,6.34,Chicago Bulls,rebound,,,,,,,,,,Butler,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=391
-,,,,,,,,,,4,6.31,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Lost Ball,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=392
+,,,,,,,,,,4,6.31,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Lost Ball,,Bradley,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=392
 ,,,,,,,,,,4,6.18,Boston Celtics,foul,,,,,,,,,,,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=393
 ,,,,,,,,,,4,6.18,Boston Celtics,turnover,,,,,,,,,,Bass,,,Foul,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=394
 ,,,,,,,,,,4,6.06,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,3PT Jump Shot,,,54-55,25,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=395
@@ -356,7 +356,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.50,Boston Celtics,foul,,,,,,,,,,Bass,,,,,,Shooting,,,56-59,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=408
 ,,,,,,,,,,4,4.50,Chicago Bulls,free throw,,,,,,,1,,1,Butler,1,,foul,made,,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=409
 ,,,,,,,,,,4,4.50,Boston Celtics,substitute,,,,Pierce,,Garnett,,,,,,,,,,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=413
-,,,,,,,,,,4,4.34,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=412
+,,,,,,,,,,4,4.34,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Robinson,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=412
 ,,,,,,,,,,4,4.22,Boston Celtics,foul,,,,,,,,,,Terry,,,,,,Shooting,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=414
 ,,,,,,,,,,4,4.22,Chicago Bulls,free throw,,,,,,,1,,2,Butler,,,foul,missed,,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=415
 ,,,,,,,,,,4,4.22,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=416
@@ -376,7 +376,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.46,Chicago Bulls,free throw,,,,,,,1,,2,Noah,1,,foul,made,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=437
 ,,,,,,,,,,4,2.46,Chicago Bulls,free throw,,,,,,,2,,2,Noah,1,,foul,made,,,,,62-65,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=439
 ,,,,,,,,,,4,2.24,Boston Celtics,shot,Pierce,,,,,,,,,Garnett,2,,,made,,Turnaround Bank Shot,,,62-67,8,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=441
-,,,,,,,,,,4,2.01,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Lost Ball,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=442
+,,,,,,,,,,4,2.01,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Lost Ball,,Pierce,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=442
 ,,,,,,,,,,4,2.00,Chicago Bulls,foul,,,,,,,,,,Noah,,,,,,Personal,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=443
 ,,,,,,,,,,4,1.37,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,62-67,26,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=444
 ,,,,,,,,,,4,1.36,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=445
@@ -421,7 +421,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.06,Chicago Bulls,substitute,,,,Gibson,,Cook,,,,,,,,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=492
 ,,,,,,,,,,4,0.06,Chicago Bulls,free throw,,,,,,,2,,2,Robinson,,,foul,missed,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=493
 ,,,,,,,,,,4,0.04,Chicago Bulls,rebound,,,,,,,,,,Belinelli,,,,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=495
-,,,,,,,,,,4,0.02,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,3PT Jump Shot,,,69-71,29,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=496
+,,,,,,,,,,4,0.02,Chicago Bulls,shot,,,Terry,,,,,,,Belinelli,,,,missed,,3PT Jump Shot,,,69-71,29,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=496
 ,,,,,,,,,,4,0.01,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=497
 ,,,,,,,,,,4,0.00,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,3PT Jump Shot,,,69-71,27,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=498
 ,,,,,,,,,,4,0.00,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200778&GameEventID=499

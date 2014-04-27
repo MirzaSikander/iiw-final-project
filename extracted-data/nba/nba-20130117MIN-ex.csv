@@ -4,12 +4,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.35,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Tip Shot,,,,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=4
 ,,,,,,,,,,1,11.32,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=6
 ,,,,,,,,,,1,11.22,Los Angeles Clippers,shot,Butler,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=7
-,,,,,,,,,,1,11.04,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=8
-,,,,,,,,,,1,11.01,Los Angeles Clippers,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=9
+,,,,,,,,,,1,11.04,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,Bledsoe,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=8
+,,,,,,,,,,1,11.01,Los Angeles Clippers,turnover,,,,,,,,,,Green,,,Bad Pass,,Rubio,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=9
 ,,,,,,,,,,1,10.55,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,Jump Shot,,,3-0,21,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=10
 ,,,,,,,,,,1,10.54,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=11
-,,,,,,,,,,1,10.46,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=12
-,,,,,,,,,,1,10.40,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,3-0,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=13
+,,,,,,,,,,1,10.46,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,Williams,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=12
+,,,,,,,,,,1,10.40,Minnesota Timberwolves,shot,,,Jordan,,,,,,,Pekovic,,,,missed,,Layup,,,3-0,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=13
 ,,,,,,,,,,1,10.39,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=14
 ,,,,,,,,,,1,10.39,Los Angeles Clippers,foul,,,,,,,,,,Bledsoe,,,,,,Loose ball,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=15
 ,,,,,,,,,,1,10.29,Minnesota Timberwolves,shot,Williams,,,,,,,,,Kirilenko,3,,,made,,3PT Jump Shot,,,3-3,25,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=16
@@ -21,7 +21,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.14,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Turnaround Jump Shot,,,5-5,10,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=23
 ,,,,,,,,,,1,9.13,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,5-5,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=24
 ,,,,,,,,,,1,9.07,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Ridnour,2,,,made,,Layup,,,5-7,2,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=25
-,,,,,,,,,,1,8.52,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,5-7,4,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=26
+,,,,,,,,,,1,8.52,Los Angeles Clippers,shot,,,Williams,,,,,,,Griffin,,,,missed,,Jump Shot,,,5-7,4,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=26
 ,,,,,,,,,,1,8.50,Minnesota Timberwolves,rebound,,,,,,,,,,Rubio,,,,,,,,,5-7,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=27
 ,,,,,,,,,,1,8.43,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,Jump Shot,,,5-7,20,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=28
 ,,,,,,,,,,1,8.42,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,5-7,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=29
@@ -74,7 +74,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.59,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,2,,,made,,Layup,,,19-15,3,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=82
 ,,,,,,,,,,1,2.39,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Layup,,,19-15,3,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=83
 ,,,,,,,,,,1,2.39,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=84
-,,,,,,,,,,1,2.34,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,19-15,4,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=85
+,,,,,,,,,,1,2.34,Los Angeles Clippers,shot,,,Williams,,,,,,,Green,,,,missed,,Jump Shot,,,19-15,4,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=85
 ,,,,,,,,,,1,2.32,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=86
 ,,,,,,,,,,1,2.29,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Ridnour,2,,,made,,Driving Layup,,,19-17,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=87
 ,,,,,,,,,,1,2.21,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=88
@@ -91,7 +91,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.44,Los Angeles Clippers,free throw,,,,,,,1,,1,Crawford,,,foul,missed,,,,,23-17,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=100
 ,,,,,,,,,,1,1.43,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,23-17,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=102
 ,,,,,,,,,,1,1.42,Los Angeles Clippers,shot,,,,,,,,,,Odom,2,,,made,,Dunk,,,25-17,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=103
-,,,,,,,,,,1,1.33,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,,,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=105
+,,,,,,,,,,1,1.33,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,Crawford,,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=105
 ,,,,,,,,,,1,1.27,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Reverse Layup,,,25-17,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=106
 ,,,,,,,,,,1,1.27,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=107
 ,,,,,,,,,,1,1.08,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Jump Shot,,,25-17,13,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=108
@@ -99,7 +99,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.58,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=110
 ,,,,,,,,,,1,0.57,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=111
 ,,,,,,,,,,1,0.45,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,3,,,made,,3PT Jump Shot,,,25-20,25,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=112
-,,,,,,,,,,1,0.28,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,25-20,5,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=113
+,,,,,,,,,,1,0.28,Los Angeles Clippers,shot,,,Ridnour,,,,,,,Barnes,,,,missed,,Jump Shot,,,25-20,5,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=113
 ,,,,,,,,,,1,0.27,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=114
 ,,,,,,,,,,1,0.20,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Running Jump Shot,,,27-20,11,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=115
 ,,,,,,,,,,1,0.04,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Jump Shot,,,27-20,7,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=116
@@ -116,7 +116,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.16,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Jump Shot,,,27-22,24,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=136
 ,,,,,,,,,,2,11.15,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,27-22,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=137
 ,,,,,,,,,,2,11.06,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Cunningham,2,,,made,,Jump Shot,,,27-24,15,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=138
-,,,,,,,,,,2,10.52,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Layup,,,27-24,3,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=139
+,,,,,,,,,,2,10.52,Los Angeles Clippers,shot,,,Stiemsma,,,,,,,Crawford,,,,missed,,Layup,,,27-24,3,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=139
 ,,,,,,,,,,2,10.51,Los Angeles Clippers,rebound,,,,,,,,,,Turiaf,,,,,,,,,27-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=140
 ,,,,,,,,,,2,10.50,Los Angeles Clippers,shot,,,,,,,,,,Turiaf,2,,,made,,Dunk,,,29-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=141
 ,,,,,,,,,,2,10.36,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Traveling,,,,,,29-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=142
@@ -124,7 +124,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.06,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,31-24,19,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=144
 ,,,,,,,,,,2,10.04,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=145
 ,,,,,,,,,,2,9.59,Los Angeles Clippers,shot,Odom,,,,,,,,,Turiaf,2,,,made,,Running Layup,,,33-24,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=146
-,,,,,,,,,,2,9.41,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Lost Ball,,,,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=147
+,,,,,,,,,,2,9.41,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Lost Ball,,Barnes,,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=147
 ,,,,,,,,,,2,9.27,Los Angeles Clippers,shot,,,,,,,,,,Crawford,2,,,made,,Jump Shot,,,35-24,14,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=148
 ,,,,,,,,,,2,9.13,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,Jump Shot,,,35-24,11,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=149
 ,,,,,,,,,,2,9.13,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,35-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=150
@@ -135,10 +135,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.42,Minnesota Timberwolves,foul,,,,,,,,,,,,,,,,,,,35-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=155
 ,,,,,,,,,,2,8.42,Los Angeles Clippers,free throw,,,,,,,,,,Crawford,,,Technical,missed,,,,,35-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=158
 ,,,,,,,,,,2,8.42,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,35-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=159
-,,,,,,,,,,2,8.38,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,35-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=160
+,,,,,,,,,,2,8.38,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Kirilenko,,,,35-24,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=160
 ,,,,,,,,,,2,8.35,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,2,,,made,,Slam Dunk,,,35-26,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=161
 ,,,,,,,,,,2,8.12,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Turnaround Jump Shot,,,37-26,7,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=162
-,,,,,,,,,,2,7.50,Minnesota Timberwolves,shot,,,,,,,,,,Stiemsma,,,,missed,,Jump Shot,,,37-26,4,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=163
+,,,,,,,,,,2,7.50,Minnesota Timberwolves,shot,,,Odom,,,,,,,Stiemsma,,,,missed,,Jump Shot,,,37-26,4,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=163
 ,,,,,,,,,,2,7.48,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,37-26,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=164
 ,,,,,,,,,,2,7.36,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,37-26,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=165
 ,,,,,,,,,,2,7.36,Minnesota Timberwolves,rebound,,,,,,,,,,Barea,,,,,,,,,37-26,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=166
@@ -166,7 +166,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.22,Los Angeles Clippers,substitute,,,,Jordan,,Turiaf,,,,,,,,,,,,,42-32,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=190
 ,,,,,,,,,,2,5.22,Minnesota Timberwolves,free throw,,,,,,,1,,2,Shved,1,,foul,made,,,,,42-33,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=191
 ,,,,,,,,,,2,5.22,Minnesota Timberwolves,free throw,,,,,,,2,,2,Shved,1,,foul,made,,,,,42-34,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=193
-,,,,,,,,,,2,5.02,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,,,,,42-34,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=195
+,,,,,,,,,,2,5.02,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,Shved,,,,42-34,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=195
 ,,,,,,,,,,2,4.57,Minnesota Timberwolves,shot,,,,,,,,,,Barea,2,,,made,,Driving Layup,,,42-36,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=196
 ,,,,,,,,,,2,4.30,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Jump Shot,,,42-36,22,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=197
 ,,,,,,,,,,2,4.29,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,42-36,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=198
@@ -178,7 +178,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.40,Minnesota Timberwolves,substitute,,,,Rubio,,Shved,,,,,,,,,,,,,42-36,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=206
 ,,,,,,,,,,2,3.33,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,42-36,20,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=207
 ,,,,,,,,,,2,3.33,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,42-36,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=208
-,,,,,,,,,,2,3.09,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Bad Pass,,,,,,42-36,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=210
+,,,,,,,,,,2,3.09,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Bad Pass,,Kirilenko,,,,42-36,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=210
 ,,,,,,,,,,2,3.03,Los Angeles Clippers,foul,,,,,,,,,,Jordan,,,,,,Shooting,,,42-36,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=211
 ,,,,,,,,,,2,3.03,Minnesota Timberwolves,free throw,,,,,,,1,,2,Pekovic,,,foul,missed,,,,,42-36,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=214
 ,,,,,,,,,,2,3.03,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,42-36,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=217
@@ -195,12 +195,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.42,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Jump Shot,,,44-39,9,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=230
 ,,,,,,,,,,2,1.42,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,44-39,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=231
 ,,,,,,,,,,2,1.36,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,44-41,16,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=232
-,,,,,,,,,,2,1.13,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Lost Ball,,,,,,44-41,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=233
+,,,,,,,,,,2,1.13,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Lost Ball,,Kirilenko,,,,44-41,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=233
 ,,,,,,,,,,2,1.06,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,Layup,,,44-41,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=234
 ,,,,,,,,,,2,1.06,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,44-41,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=235
 ,,,,,,,,,,2,0.59,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,44-41,17,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=236
 ,,,,,,,,,,2,0.58,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,44-41,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=237
-,,,,,,,,,,2,0.46,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Lost Ball,,,,,,44-41,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=238
+,,,,,,,,,,2,0.46,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Lost Ball,,Crawford,,,,44-41,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=238
 ,,,,,,,,,,2,0.40,Los Angeles Clippers,shot,Bledsoe,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,47-41,24,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=239
 ,,,,,,,,,,2,0.27,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,2,,,made,,Running Hook Shot,,,47-43,7,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=240
 ,,,,,,,,,,2,0.11,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,47-43,25,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=241
@@ -222,7 +222,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.46,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Turnaround Fadeaway,,,49-43,14,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=261
 ,,,,,,,,,,3,10.23,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,49-43,2,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=262
 ,,,,,,,,,,3,10.22,Minnesota Timberwolves,rebound,,,,,,,,,,Rubio,,,,,,,,,49-43,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=263
-,,,,,,,,,,3,10.20,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,Layup,,,49-43,2,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=264
+,,,,,,,,,,3,10.20,Minnesota Timberwolves,shot,,,Bledsoe,,,,,,,Rubio,,,,missed,,Layup,,,49-43,2,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=264
 ,,,,,,,,,,3,10.18,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,49-43,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=265
 ,,,,,,,,,,3,10.11,Los Angeles Clippers,shot,,,,,,,,,,Butler,2,,,made,,Jump Shot,,,51-43,17,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=266
 ,,,,,,,,,,3,9.52,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,51-45,17,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=267
@@ -236,10 +236,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.02,Los Angeles Clippers,free throw,,,,,,,1,,2,Butler,1,,foul,made,,,,,52-45,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=275
 ,,,,,,,,,,3,9.02,Los Angeles Clippers,free throw,,,,,,,2,,2,Butler,1,,foul,made,,,,,53-45,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=277
 ,,,,,,,,,,3,8.50,Los Angeles Clippers,foul,,,,,,,,,,Green,,,,,,Personal,,,53-45,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=279
-,,,,,,,,,,3,8.38,Minnesota Timberwolves,turnover,,,,,,,,,,Pekovic,,,Lost Ball,,,,,,53-45,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=280
+,,,,,,,,,,3,8.38,Minnesota Timberwolves,turnover,,,,,,,,,,Pekovic,,,Lost Ball,,Butler,,,,53-45,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=280
 ,,,,,,,,,,3,8.26,Los Angeles Clippers,shot,,,,,,,,,,Butler,2,,,made,,Turnaround Fadeaway,,,55-45,15,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=281
-,,,,,,,,,,3,8.04,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,,,,,55-45,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=282
-,,,,,,,,,,3,8.00,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,,,,,55-45,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=283
+,,,,,,,,,,3,8.04,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,Bledsoe,,,,55-45,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=282
+,,,,,,,,,,3,8.00,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,Ridnour,,,,55-45,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=283
 ,,,,,,,,,,3,7.51,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Rubio,2,,,made,,Reverse Layup,,,55-47,1,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=284
 ,,,,,,,,,,3,7.27,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,55-47,20,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=285
 ,,,,,,,,,,3,7.27,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,55-47,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=286
@@ -265,7 +265,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.27,Minnesota Timberwolves,substitute,,,,Cunningham,,Williams,,,,,,,,,,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=309
 ,,,,,,,,,,3,5.17,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,58-52,20,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=310
 ,,,,,,,,,,3,5.17,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=311
-,,,,,,,,,,3,5.13,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=312
+,,,,,,,,,,3,5.13,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,Bledsoe,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=312
 ,,,,,,,,,,3,5.12,Minnesota Timberwolves,foul,,,,,,,,,,Cunningham,,,,,,Personal,,,58-52,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=313
 ,,,,,,,,,,3,5.12,Los Angeles Clippers,substitute,,,,Crawford,,Green,,,,,,,,,,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=314
 ,,,,,,,,,,3,4.58,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,58-52,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=315
@@ -285,7 +285,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.59,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,59-55,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=331
 ,,,,,,,,,,3,3.50,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,59-55,14,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=332
 ,,,,,,,,,,3,3.49,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,59-55,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=333
-,,,,,,,,,,3,3.48,Minnesota Timberwolves,turnover,,,,,,,,,,Cunningham,,,Lost Ball,,,,,,59-55,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=334
+,,,,,,,,,,3,3.48,Minnesota Timberwolves,turnover,,,,,,,,,,Cunningham,,,Lost Ball,,Bledsoe,,,,59-55,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=334
 ,,,,,,,,,,3,3.39,Minnesota Timberwolves,foul,,,,,,,,,,Pekovic,,,,,,Personal,,,59-55,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=335
 ,,,,,,,,,,3,3.39,Los Angeles Clippers,free throw,,,,,,,1,,2,Griffin,1,,foul,made,,,,,60-55,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=336
 ,,,,,,,,,,3,3.39,Minnesota Timberwolves,substitute,,,,Stiemsma,,Pekovic,,,,,,,,,,,,,60-55,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=338
@@ -316,7 +316,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.22,Los Angeles Clippers,shot,Odom,,,,,,,,,Griffin,2,,,made,,Driving Slam Dunk,,,65-59,2,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=370
 ,,,,,,,,,,3,1.05,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Jump Shot,,,65-59,6,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=372
 ,,,,,,,,,,3,1.03,Los Angeles Clippers,rebound,,,,,,,,,,Crawford,,,,,,,,,65-59,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=373
-,,,,,,,,,,3,0.48,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,,,,,65-59,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=374
+,,,,,,,,,,3,0.48,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,Stiemsma,,,,65-59,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=374
 ,,,,,,,,,,3,0.43,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,2,,,made,,Pullup Jump Shot,,,65-61,13,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=375
 ,,,,,,,,,,3,0.30,Minnesota Timberwolves,foul,,,,,,,,,,Shved,,,,,,Personal,,,65-61,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=376
 ,,,,,,,,,,3,0.30,Los Angeles Clippers,free throw,,,,,,,1,,2,Crawford,,,foul,missed,,,,,65-61,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=377
@@ -354,7 +354,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.42,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,76-66,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=424
 ,,,,,,,,,,4,9.28,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,76-66,27,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=425
 ,,,,,,,,,,4,9.27,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,76-66,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=426
-,,,,,,,,,,4,9.19,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Lost Ball,,,,,,76-66,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=427
+,,,,,,,,,,4,9.19,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Lost Ball,,Barnes,,,,76-66,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=427
 ,,,,,,,,,,4,9.02,Minnesota Timberwolves,foul,,,,,,,,,,Barea,,,,,,Shooting,,,76-66,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=428
 ,,,,,,,,,,4,9.02,Los Angeles Clippers,free throw,,,,,,,1,,2,Turiaf,1,,foul,made,,,,,77-66,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=429
 ,,,,,,,,,,4,9.02,Los Angeles Clippers,free throw,,,,,,,2,,2,Turiaf,,,foul,missed,,,,,77-66,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=431
@@ -362,7 +362,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.50,Minnesota Timberwolves,shot,Barea,,,,,,,,,Stiemsma,2,,,made,,Jump Shot,,,77-68,18,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=434
 ,,,,,,,,,,4,8.31,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Running Hook Shot,,,77-68,7,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=435
 ,,,,,,,,,,4,8.31,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,77-68,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=436
-,,,,,,,,,,4,8.21,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,77-68,5,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=439
+,,,,,,,,,,4,8.21,Minnesota Timberwolves,shot,,,Turiaf,,,,,,,Cunningham,,,,missed,,Jump Shot,,,77-68,5,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=439
 ,,,,,,,,,,4,8.20,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,77-68,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=440
 ,,,,,,,,,,4,8.11,Los Angeles Clippers,shot,Turiaf,,,,,,,,,Crawford,2,,,made,,Alley Oop Layup,,,79-68,3,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=441
 ,,,,,,,,,,4,7.50,Minnesota Timberwolves,shot,Cunningham,,,,,,,,,Stiemsma,2,,,made,,Jump Shot,,,79-70,16,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=442
@@ -373,7 +373,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.22,Los Angeles Clippers,foul,,,,,,,,,,Turiaf,,,,,,Personal,,,79-70,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=447
 ,,,,,,,,,,4,7.05,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,79-70,26,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=448
 ,,,,,,,,,,4,7.04,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,79-70,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=449
-,,,,,,,,,,4,6.48,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,,,,,79-70,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=450
+,,,,,,,,,,4,6.48,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,Kirilenko,,,,79-70,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=450
 ,,,,,,,,,,4,6.44,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Shooting,,,79-70,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=451
 ,,,,,,,,,,4,6.44,Minnesota Timberwolves,free throw,,,,,,,1,,2,Shved,,,foul,missed,,,,,79-70,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=452
 ,,,,,,,,,,4,6.44,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,79-70,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=453
@@ -386,7 +386,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.16,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,81-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=462
 ,,,,,,,,,,4,6.16,Minnesota Timberwolves,free throw,,,,,,,2,,2,Kirilenko,,,foul,missed,,,,,81-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=463
 ,,,,,,,,,,4,6.15,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,81-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=465
-,,,,,,,,,,4,5.58,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,81-71,4,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=466
+,,,,,,,,,,4,5.58,Los Angeles Clippers,shot,,,Cunningham,,,,,,,Griffin,,,,missed,,Jump Shot,,,81-71,4,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=466
 ,,,,,,,,,,4,5.57,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,81-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=467
 ,,,,,,,,,,4,5.51,Los Angeles Clippers,violation,,,,,,,,,,Hill,,,Kicked Ball,,,,,,81-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=468
 ,,,,,,,,,,4,5.51,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,81-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=469
@@ -396,9 +396,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.34,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,81-71,18,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=474
 ,,,,,,,,,,4,5.33,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,81-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=475
 ,,,,,,,,,,4,5.09,Los Angeles Clippers,shot,,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,84-71,29,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=476
-,,,,,,,,,,4,4.57,Minnesota Timberwolves,turnover,,,,,,,,,,Williams,,,Lost Ball,,,,,,84-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=477
+,,,,,,,,,,4,4.57,Minnesota Timberwolves,turnover,,,,,,,,,,Williams,,,Lost Ball,,Odom,,,,84-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=477
 ,,,,,,,,,,4,4.34,Los Angeles Clippers,shot,Odom,,,,,,,,,Griffin,2,,,made,,Alley Oop Dunk,,,86-71,2,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=478
-,,,,,,,,,,4,4.14,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Layup,,,86-71,2,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=479
+,,,,,,,,,,4,4.14,Minnesota Timberwolves,shot,,,Griffin,,,,,,,Williams,,,,missed,,Layup,,,86-71,2,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=479
 ,,,,,,,,,,4,4.14,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,86-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=480
 ,,,,,,,,,,4,4.14,Minnesota Timberwolves,foul,,,,,,,,,,,,,,,,,,,86-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=481
 ,,,,,,,,,,4,4.14,Minnesota Timberwolves,turnover,,,,,,,,,,Williams,,,Foul,,,,,,86-71,,http://stats.nba.com/cvp.html?GameID=0021200581&GameEventID=482

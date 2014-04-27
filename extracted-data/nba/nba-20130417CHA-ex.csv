@@ -21,7 +21,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.21,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=23
 ,,,,,,,,,,1,8.13,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,3PT Jump Shot,,,4-8,25,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=24
 ,,,,,,,,,,1,8.11,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=25
-,,,,,,,,,,1,8.06,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,4-8,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=26
+,,,,,,,,,,1,8.06,Cleveland Cavaliers,shot,,,Biyombo,,,,,,,Thompson,,,,missed,,Layup,,,4-8,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=26
 ,,,,,,,,,,1,8.06,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=27
 ,,,,,,,,,,1,7.40,Charlotte Bobcats,shot,Kidd-Gilchrist,,,,,,,,,McRoberts,3,,,made,,3PT Jump Shot,,,4-11,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=28
 ,,,,,,,,,,1,7.18,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,4-11,20,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=29
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.08,Cleveland Cavaliers,free throw,,,,,,,2,,2,Thompson,,,foul,missed,,,,,12-25,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=94
 ,,,,,,,,,,1,2.06,Charlotte Bobcats,rebound,,,,,,,,,,Adrien,,,,,,,,,12-25,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=96
 ,,,,,,,,,,1,1.52,Charlotte Bobcats,shot,Walker,,,,,,,,,Thomas,2,,,made,,Jump Shot,,,12-27,13,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=97
-,,,,,,,,,,1,1.36,Cleveland Cavaliers,turnover,,,,,,,,,,Speights,,,Bad Pass,,,,,,12-27,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=98
+,,,,,,,,,,1,1.36,Cleveland Cavaliers,turnover,,,,,,,,,,Speights,,,Bad Pass,,Taylor,,,,12-27,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=98
 ,,,,,,,,,,1,1.31,Charlotte Bobcats,shot,,,,,,,,,,Taylor,2,,,made,,Driving Layup,,,12-29,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=99
 ,,,,,,,,,,1,1.21,Cleveland Cavaliers,shot,,,,,,,,,,Gee,2,,,made,,Driving Dunk,,,14-29,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=100
 ,,,,,,,,,,1,1.11,Cleveland Cavaliers,foul,,,,,,,,,,Waiters,,,,,,Shooting,,,14-29,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=101
@@ -91,7 +91,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.58,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,14-30,4,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=106
 ,,,,,,,,,,1,0.57,Charlotte Bobcats,rebound,,,,,,,,,,Taylor,,,,,,,,,14-30,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=107
 ,,,,,,,,,,1,0.54,Charlotte Bobcats,shot,Taylor,,,,,,,,,Walker,2,,,made,,Layup,,,14-32,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=108
-,,,,,,,,,,1,0.39,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,,,,,14-32,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=109
+,,,,,,,,,,1,0.39,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,Thomas,,,,14-32,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=109
 ,,,,,,,,,,1,0.34,Charlotte Bobcats,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,14-32,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=110
 ,,,,,,,,,,1,0.28,Cleveland Cavaliers,shot,Gee,,,,,,,,,Thompson,2,,,made,,Dunk,,,16-32,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=111
 ,,,,,,,,,,1,0.04,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,16-32,21,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=112
@@ -149,7 +149,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.36,Cleveland Cavaliers,shot,Irving,,,,,,,,,Casspi,3,,,made,,3PT Jump Shot,,,29-46,24,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=173
 ,,,,,,,,,,2,5.11,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,29-46,26,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=174
 ,,,,,,,,,,2,5.10,Cleveland Cavaliers,rebound,,,,,,,,,,Jones,,,,,,,,,29-46,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=175
-,,,,,,,,,,2,4.59,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,,,,,29-46,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=176
+,,,,,,,,,,2,4.59,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,Pargo,,,,29-46,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=176
 ,,,,,,,,,,2,4.59,Cleveland Cavaliers,foul,,,,,,,,,,Livingston,,,,,,Personal,,,29-46,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=177
 ,,,,,,,,,,2,4.57,Cleveland Cavaliers,substitute,,,,Ellington,,Livingston,,,,,,,,,,,,,29-46,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=179
 ,,,,,,,,,,2,4.57,Cleveland Cavaliers,substitute,,,,Thompson,,Jones,,,,,,,,,,,,,29-46,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=180
@@ -164,14 +164,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.41,Charlotte Bobcats,free throw,,,,,,,1,,2,Henderson,,,foul,missed,,,,,34-48,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=192
 ,,,,,,,,,,2,3.41,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,34-48,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=193
 ,,,,,,,,,,2,3.41,Charlotte Bobcats,free throw,,,,,,,2,,2,Henderson,1,,foul,made,,,,,34-49,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=194
-,,,,,,,,,,2,3.21,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,3PT Jump Shot,,,34-49,26,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=196
+,,,,,,,,,,2,3.21,Cleveland Cavaliers,shot,,,Walker,,,,,,,Ellington,,,,missed,,3PT Jump Shot,,,34-49,26,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=196
 ,,,,,,,,,,2,3.21,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,34-49,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=197
-,,,,,,,,,,2,3.05,Charlotte Bobcats,turnover,,,,,,,,,,McRoberts,,,Bad Pass,,,,,,34-49,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=198
+,,,,,,,,,,2,3.05,Charlotte Bobcats,turnover,,,,,,,,,,McRoberts,,,Bad Pass,,Casspi,,,,34-49,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=198
 ,,,,,,,,,,2,2.57,Cleveland Cavaliers,shot,Irving,,,,,,,,,Casspi,2,,,made,,Layup,,,36-49,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=199
 ,,,,,,,,,,2,2.39,Charlotte Bobcats,shot,,,,,,,,,,Gordon,2,,,made,,Driving Layup,,,36-51,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=200
 ,,,,,,,,,,2,2.33,Cleveland Cavaliers,shot,Irving,,,,,,,,,Zeller,2,,,made,,Dunk,,,38-51,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=201
-,,,,,,,,,,2,2.18,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=202
-,,,,,,,,,,2,2.13,Cleveland Cavaliers,turnover,,,,,,,,,,Casspi,,,Bad Pass,,,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=203
+,,,,,,,,,,2,2.18,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,Casspi,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=202
+,,,,,,,,,,2,2.13,Cleveland Cavaliers,turnover,,,,,,,,,,Casspi,,,Bad Pass,,Henderson,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=203
 ,,,,,,,,,,2,2.01,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,38-51,24,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=204
 ,,,,,,,,,,2,2.00,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=205
 ,,,,,,,,,,2,1.55,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=206
@@ -185,7 +185,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.38,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,43-53,17,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=216
 ,,,,,,,,,,2,0.37,Cleveland Cavaliers,rebound,,,,,,,,,,Casspi,,,,,,,,,43-53,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=217
 ,,,,,,,,,,2,0.24,Cleveland Cavaliers,shot,Irving,,,,,,,,,Ellington,2,,,made,,Jump Shot,,,45-53,10,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=218
-,,,,,,,,,,2,0.02,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=219
+,,,,,,,,,,2,0.02,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,Zeller,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=219
 ,,,,,,,,,,2,0.00,Cleveland Cavaliers,shot,Irving,,,,,,,,,Ellington,2,,,made,,Layup,,,47-53,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=220
 ,,,,,,,,,,3,11.47,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Alley Oop Dunk,,,47-53,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=225
 ,,,,,,,,,,3,11.45,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,47-53,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=226
@@ -204,24 +204,24 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.49,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,47-60,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=239
 ,,,,,,,,,,3,9.33,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,47-60,16,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=242
 ,,,,,,,,,,3,9.32,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,47-60,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=243
-,,,,,,,,,,3,9.23,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,,,,,47-60,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=244
+,,,,,,,,,,3,9.23,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,Walker,,,,47-60,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=244
 ,,,,,,,,,,3,9.17,Charlotte Bobcats,shot,Walker,,,,,,,,,Kidd-Gilchrist,2,,,made,,Layup,,,47-62,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=245
 ,,,,,,,,,,3,9.03,Cleveland Cavaliers,shot,Zeller,,,,,,,,,Ellington,3,,,made,,3PT Jump Shot,,,50-62,26,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=246
 ,,,,,,,,,,3,8.45,Charlotte Bobcats,shot,Walker,,,,,,,,,Kidd-Gilchrist,2,,,made,,Jump Shot,,,50-64,18,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=247
 ,,,,,,,,,,3,8.27,Cleveland Cavaliers,shot,Zeller,,,,,,,,,Ellington,2,,,made,,Layup,,,52-64,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=248
-,,,,,,,,,,3,8.18,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Bad Pass,,,,,,52-64,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=249
+,,,,,,,,,,3,8.18,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Bad Pass,,Zeller,,,,52-64,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=249
 ,,,,,,,,,,3,8.14,Cleveland Cavaliers,shot,Ellington,,,,,,,,,Irving,2,,,made,,Layup,,,54-64,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=250
-,,,,,,,,,,3,7.57,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Lost Ball,,,,,,54-64,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=251
+,,,,,,,,,,3,7.57,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Lost Ball,,Ellington,,,,54-64,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=251
 ,,,,,,,,,,3,7.55,Charlotte Bobcats,foul,,,,,,,,,,Henderson,,,,,,Shooting,,,54-64,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=252
 ,,,,,,,,,,3,7.55,Cleveland Cavaliers,free throw,,,,,,,1,,2,Ellington,1,,foul,made,,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=253
 ,,,,,,,,,,3,7.55,Charlotte Bobcats,substitute,,,,Taylor,,Henderson,,,,,,,,,,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=255
 ,,,,,,,,,,3,7.55,Cleveland Cavaliers,free throw,,,,,,,2,,2,Ellington,1,,foul,made,,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=256
 ,,,,,,,,,,3,7.39,Charlotte Bobcats,shot,Taylor,,,,,,,,,Walker,3,,,made,,3PT Jump Shot,,,56-67,26,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=258
-,,,,,,,,,,3,7.16,Cleveland Cavaliers,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=259
+,,,,,,,,,,3,7.16,Cleveland Cavaliers,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Kidd-Gilchrist,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=259
 ,,,,,,,,,,3,7.09,Charlotte Bobcats,turnover,,,,,,,,,,McRoberts,,,Traveling,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=260
 ,,,,,,,,,,3,6.57,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,56-67,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=261
 ,,,,,,,,,,3,6.55,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=263
-,,,,,,,,,,3,6.55,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,56-67,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=262
+,,,,,,,,,,3,6.55,Cleveland Cavaliers,shot,,,Biyombo,,,,,,,Thompson,,,,missed,,Layup,,,56-67,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=262
 ,,,,,,,,,,3,6.53,Charlotte Bobcats,rebound,,,,,,,,,,Taylor,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=264
 ,,,,,,,,,,3,6.49,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,56-67,10,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=265
 ,,,,,,,,,,3,6.45,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=266
@@ -233,7 +233,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.17,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=275
 ,,,,,,,,,,3,6.00,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,3PT Jump Shot,,,56-67,27,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=276
 ,,,,,,,,,,3,5.58,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=277
-,,,,,,,,,,3,5.50,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=278
+,,,,,,,,,,3,5.50,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,Gee,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=278
 ,,,,,,,,,,3,5.46,Charlotte Bobcats,foul,,,,,,,,,,Walker,,,,,,Personal,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=279
 ,,,,,,,,,,3,5.36,Cleveland Cavaliers,shot,Irving,,,,,,,,,Ellington,2,,,made,,Jump Shot,,,58-67,19,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=280
 ,,,,,,,,,,3,5.10,Cleveland Cavaliers,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,58-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=281
@@ -241,12 +241,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.10,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,58-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=283
 ,,,,,,,,,,3,5.10,Cleveland Cavaliers,substitute,,,,Livingston,,Ellington,,,,,,,,,,,,,58-67,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=284
 ,,,,,,,,,,3,5.10,Charlotte Bobcats,free throw,,,,,,,2,,2,McRoberts,1,,foul,made,,,,,58-68,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=285
-,,,,,,,,,,3,4.51,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Bad Pass,,,,,,58-68,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=287
+,,,,,,,,,,3,4.51,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Bad Pass,,McRoberts,,,,58-68,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=287
 ,,,,,,,,,,3,4.28,Charlotte Bobcats,shot,McRoberts,,,,,,,,,Kidd-Gilchrist,2,,,made,,Jump Shot,,,58-70,18,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=288
 ,,,,,,,,,,3,4.02,Cleveland Cavaliers,shot,Zeller,,,,,,,,,Gee,3,,,made,,3PT Jump Shot,,,61-70,24,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=289
 ,,,,,,,,,,3,3.47,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Layup,,,61-70,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=290
 ,,,,,,,,,,3,3.46,Cleveland Cavaliers,rebound,,,,,,,,,,Irving,,,,,,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=291
-,,,,,,,,,,3,3.40,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,Layup,,,61-70,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=292
+,,,,,,,,,,3,3.40,Cleveland Cavaliers,shot,,,Biyombo,,,,,,,Irving,,,,missed,,Layup,,,61-70,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=292
 ,,,,,,,,,,3,3.38,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=293
 ,,,,,,,,,,3,3.34,Charlotte Bobcats,shot,Kidd-Gilchrist,,,,,,,,,Walker,2,,,made,,Layup,,,61-72,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=294
 ,,,,,,,,,,3,3.24,Cleveland Cavaliers,shot,Livingston,,,,,,,,,Gee,3,,,made,,3PT Jump Shot,,,64-72,26,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=295
@@ -257,7 +257,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.40,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,64-72,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=300
 ,,,,,,,,,,3,2.40,Charlotte Bobcats,substitute,,,,Pargo,,Walker,,,,,,,,,,,,,64-72,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=301
 ,,,,,,,,,,3,2.40,Cleveland Cavaliers,free throw,,,,,,,2,,2,Thompson,1,,foul,made,,,,,65-72,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=302
-,,,,,,,,,,3,2.23,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,65-72,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=304
+,,,,,,,,,,3,2.23,Charlotte Bobcats,shot,,,Livingston,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,65-72,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=304
 ,,,,,,,,,,3,2.21,Cleveland Cavaliers,rebound,,,,,,,,,,Irving,,,,,,,,,65-72,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=305
 ,,,,,,,,,,3,2.21,Charlotte Bobcats,foul,,,,,,,,,,Taylor,,,,,,Personal,,,65-72,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=306
 ,,,,,,,,,,3,2.21,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,65-72,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=307
@@ -293,7 +293,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.07,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,2,,,made,,Pullup Jump Shot,,,75-76,9,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=344
 ,,,,,,,,,,4,10.07,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,75-76,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=345
 ,,,,,,,,,,4,10.07,Charlotte Bobcats,substitute,,,,Walker,,Pargo,,,,,,,,,,,,,75-76,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=348
-,,,,,,,,,,4,9.47,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Layup,,,75-76,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=349
+,,,,,,,,,,4,9.47,Charlotte Bobcats,shot,,,Speights,,,,,,,Henderson,,,,missed,,Layup,,,75-76,2,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=349
 ,,,,,,,,,,4,9.45,Cleveland Cavaliers,rebound,,,,,,,,,,Jones,,,,,,,,,75-76,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=350
 ,,,,,,,,,,4,9.30,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,2,,,made,,Driving Layup,,,77-76,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=351
 ,,,,,,,,,,4,9.12,Charlotte Bobcats,shot,Henderson,,,,,,,,,Walker,3,,,made,,3PT Jump Shot,,,77-79,26,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=352
@@ -302,7 +302,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.42,Charlotte Bobcats,shot,Walker,,,,,,,,,Biyombo,2,,,made,,Dunk,,,77-81,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=355
 ,,,,,,,,,,4,8.21,Cleveland Cavaliers,shot,,,,,,,,,,Casspi,,,,missed,,Turnaround Fadeaway Shot,,,77-81,18,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=356
 ,,,,,,,,,,4,8.18,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,77-81,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=357
-,,,,,,,,,,4,8.14,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,77-81,4,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=358
+,,,,,,,,,,4,8.14,Charlotte Bobcats,shot,,,Livingston,,,,,,,Walker,,,,missed,,Jump Shot,,,77-81,4,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=358
 ,,,,,,,,,,4,8.11,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,77-81,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=360
 ,,,,,,,,,,4,8.11,Charlotte Bobcats,shot,,,,,,,,,,Henderson,2,,,made,,Putback Dunk,,,77-83,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=359
 ,,,,,,,,,,4,8.11,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,77-83,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=361
@@ -328,7 +328,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.46,Charlotte Bobcats,shot,Henderson,,,,,,,,,Walker,3,,,made,,3PT Jump Shot,,,84-88,25,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=384
 ,,,,,,,,,,4,5.31,Cleveland Cavaliers,shot,,,,,,,,,,Casspi,,,,missed,,3PT Jump Shot,,,84-88,26,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=385
 ,,,,,,,,,,4,5.30,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=386
-,,,,,,,,,,4,5.17,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=387
+,,,,,,,,,,4,5.17,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,Casspi,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=387
 ,,,,,,,,,,4,5.10,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,3PT Jump Shot,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=388
 ,,,,,,,,,,4,5.08,Charlotte Bobcats,rebound,,,,,,,,,,McRoberts,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=389
 ,,,,,,,,,,4,5.05,Cleveland Cavaliers,foul,,,,,,,,,,Thompson,,,,,,Personal,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=390
@@ -346,7 +346,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.40,Cleveland Cavaliers,foul,,,,,,,,,,Casspi,,,,,,Shooting,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=407
 ,,,,,,,,,,4,3.40,Charlotte Bobcats,free throw,,,,,,,1,,2,Henderson,1,,foul,made,,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=409
 ,,,,,,,,,,4,3.40,Charlotte Bobcats,free throw,,,,,,,2,,2,Henderson,1,,foul,made,,,,,86-92,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=411
-,,,,,,,,,,4,3.26,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,,,,,86-92,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=413
+,,,,,,,,,,4,3.26,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,Walker,,,,86-92,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=413
 ,,,,,,,,,,4,3.23,Cleveland Cavaliers,foul,,,,,,,,,,Waiters,,,,,,Shooting,,,86-92,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=414
 ,,,,,,,,,,4,3.23,Charlotte Bobcats,free throw,,,,,,,1,,2,Walker,1,,foul,made,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=415
 ,,,,,,,,,,4,3.23,Charlotte Bobcats,free throw,,,,,,,2,,2,Walker,1,,foul,made,,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=417
@@ -358,7 +358,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.03,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=424
 ,,,,,,,,,,4,3.03,Charlotte Bobcats,free throw,,,,,,,2,,2,Walker,1,,foul,made,,,,,86-95,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=425
 ,,,,,,,,,,4,2.49,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,3,,,made,,3PT Jump Shot,,,89-95,26,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=427
-,,,,,,,,,,4,2.23,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,,,,,89-95,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=428
+,,,,,,,,,,4,2.23,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,Waiters,,,,89-95,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=428
 ,,,,,,,,,,4,2.21,Charlotte Bobcats,foul,,,,,,,,,,Taylor,,,,,,Shooting,,,89-95,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=429
 ,,,,,,,,,,4,2.21,Cleveland Cavaliers,free throw,,,,,,,1,,2,Waiters,,,foul,missed,,,,,89-95,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=430
 ,,,,,,,,,,4,2.21,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,89-95,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=431
@@ -384,7 +384,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.28,Charlotte Bobcats,free throw,,,,,,,2,,2,Walker,,,foul,missed,,,,,94-101,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=461
 ,,,,,,,,,,4,0.26,Cleveland Cavaliers,rebound,,,,,,,,,,Casspi,,,,,,,,,94-101,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=463
 ,,,,,,,,,,4,0.18,Cleveland Cavaliers,shot,Casspi,,,,,,,,,Gee,2,,,made,,Layup,,,96-101,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=464
-,,,,,,,,,,4,0.17,Charlotte Bobcats,turnover,,,,,,,,,,McRoberts,,,Bad Pass,,,,,,96-101,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=465
+,,,,,,,,,,4,0.17,Charlotte Bobcats,turnover,,,,,,,,,,McRoberts,,,Bad Pass,,Casspi,,,,96-101,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=465
 ,,,,,,,,,,4,0.15,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,2,,,made,,Layup,,,98-101,1,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=466
 ,,,,,,,,,,4,0.15,Cleveland Cavaliers,foul,,,,,,,,,,Gee,,,,,,Personal,,,98-101,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=467
 ,,,,,,,,,,4,0.15,Charlotte Bobcats,free throw,,,,,,,1,,2,Walker,1,,foul,made,,,,,98-102,,http://stats.nba.com/cvp.html?GameID=0021201219&GameEventID=469

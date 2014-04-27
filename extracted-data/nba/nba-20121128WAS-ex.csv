@@ -25,9 +25,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.43,Washington Wizards,shot,,,,,,,,,,Seraphin,2,,,made,,Jump Hook Shot,,,15-6,9,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=26
 ,,,,,,,,,,1,7.19,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,15-6,25,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=27
 ,,,,,,,,,,1,7.18,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,15-6,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=28
-,,,,,,,,,,1,7.11,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Layup,,,15-6,1,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=29
+,,,,,,,,,,1,7.11,Washington Wizards,shot,,,Batum,,,,,,,Seraphin,,,,missed,,Layup,,,15-6,1,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=29
 ,,,,,,,,,,1,7.11,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,15-6,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=31
-,,,,,,,,,,1,7.04,Washington Wizards,turnover,,,,,,,,,,Beal,,,Lost Ball,,,,,,15-6,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=32
+,,,,,,,,,,1,7.04,Washington Wizards,turnover,,,,,,,,,,Beal,,,Lost Ball,,Lillard,,,,15-6,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=32
 ,,,,,,,,,,1,7.01,Washington Wizards,foul,,,,,,,,,,Price,,,,,,Shooting,,,15-6,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=33
 ,,,,,,,,,,1,7.01,Portland Trail Blazers,free throw,,,,,,,1,,2,Matthews,1,,foul,made,,,,,16-6,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=34
 ,,,,,,,,,,1,7.01,Portland Trail Blazers,free throw,,,,,,,2,,2,Matthews,,,foul,missed,,,,,16-6,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=36
@@ -48,7 +48,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.23,Washington Wizards,foul,,,,,,,,,,Ariza,,,,,,Shooting,,,18-9,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=53
 ,,,,,,,,,,1,5.23,Portland Trail Blazers,free throw,,,,,,,1,,2,Batum,1,,foul,made,,,,,19-9,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=54
 ,,,,,,,,,,1,5.23,Portland Trail Blazers,free throw,,,,,,,2,,2,Batum,1,,foul,made,,,,,20-9,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=56
-,,,,,,,,,,1,5.01,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,Jump Shot,,,20-9,4,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=58
+,,,,,,,,,,1,5.01,Washington Wizards,shot,,,Hickson,,,,,,,Ariza,,,,missed,,Jump Shot,,,20-9,4,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=58
 ,,,,,,,,,,1,4.59,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,20-9,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=59
 ,,,,,,,,,,1,4.58,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Layup,,,20-9,1,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=60
 ,,,,,,,,,,1,4.58,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,20-9,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=62
@@ -57,7 +57,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.42,Washington Wizards,rebound,,,,,,,,,,Price,,,,,,,,,20-9,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=64
 ,,,,,,,,,,1,4.31,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,Jump Shot,,,20-9,17,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=65
 ,,,,,,,,,,1,4.30,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,20-9,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=66
-,,,,,,,,,,1,4.18,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,20-9,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=67
+,,,,,,,,,,1,4.18,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Okafor,,,,20-9,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=67
 ,,,,,,,,,,1,4.06,Washington Wizards,shot,Ariza,,,,,,,,,Okafor,2,,,made,,Driving Bank Shot,,,20-11,8,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=68
 ,,,,,,,,,,1,3.48,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,3PT Jump Shot,,,20-11,25,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=69
 ,,,,,,,,,,1,3.47,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,20-11,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=70
@@ -74,8 +74,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.56,Portland Trail Blazers,foul,,,,,,,,,,,,,,,,,,,20-14,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=82
 ,,,,,,,,,,1,2.56,Portland Trail Blazers,turnover,,,,,,,,,,Leonard,,,Foul,,,,,,20-14,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=83
 ,,,,,,,,,,1,2.40,Washington Wizards,shot,Singleton,,,,,,,,,Webster,2,,,made,,Jump Shot,,,20-16,21,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=84
-,,,,,,,,,,1,2.23,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=85
-,,,,,,,,,,1,2.10,Washington Wizards,turnover,,,,,,,,,,Singleton,,,Bad Pass,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=86
+,,,,,,,,,,1,2.23,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Ariza,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=85
+,,,,,,,,,,1,2.10,Washington Wizards,turnover,,,,,,,,,,Singleton,,,Bad Pass,,Batum,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=86
 ,,,,,,,,,,1,2.02,Portland Trail Blazers,shot,,,,,,,,,,Leonard,,,,missed,,Layup,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=87
 ,,,,,,,,,,1,2.01,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=88
 ,,,,,,,,,,1,1.58,Portland Trail Blazers,shot,,,,,,,,,,Leonard,2,,,made,,Putback Layup,,,22-16,1,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=89
@@ -130,18 +130,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.39,Washington Wizards,substitute,,,,Seraphin,,Nene,,,,,,,,,,,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=149
 ,,,,,,,,,,2,8.29,Washington Wizards,shot,,,,,,,,,,Crawford,2,,,made,,Driving Layup,,,29-30,2,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=150
 ,,,,,,,,,,2,8.03,Portland Trail Blazers,shot,Price,,,,,,,,,Hickson,2,,,made,,Layup,,,31-30,1,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=151
-,,,,,,,,,,2,7.42,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Bad Pass,,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=152
-,,,,,,,,,,2,7.32,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=153
+,,,,,,,,,,2,7.42,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Bad Pass,,Hickson,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=152
+,,,,,,,,,,2,7.32,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Livingston,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=153
 ,,,,,,,,,,2,7.27,Washington Wizards,shot,,,,,,,,,,Crawford,2,,,made,,Jump Shot,,,31-32,20,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=154
 ,,,,,,,,,,2,7.27,Portland Trail Blazers,foul,,,,,,,,,,Price,,,,,,Shooting,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=155
 ,,,,,,,,,,2,7.27,Washington Wizards,free throw,,,,,,,1,,1,Crawford,1,,foul,made,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=156
 ,,,,,,,,,,2,7.17,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,31-33,24,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=158
 ,,,,,,,,,,2,7.15,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=159
-,,,,,,,,,,2,7.13,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=160
-,,,,,,,,,,2,7.01,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=161
+,,,,,,,,,,2,7.13,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Webster,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=160
+,,,,,,,,,,2,7.01,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Price,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=161
 ,,,,,,,,,,2,6.52,Portland Trail Blazers,shot,,,,,,,,,,Price,,,,missed,,3PT Jump Shot,,,31-33,26,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=162
 ,,,,,,,,,,2,6.51,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=163
-,,,,,,,,,,2,6.47,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,Jump Shot,,,31-33,3,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=164
+,,,,,,,,,,2,6.47,Portland Trail Blazers,shot,,,Seraphin,,,,,,,Barton,,,,missed,,Jump Shot,,,31-33,3,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=164
 ,,,,,,,,,,2,6.45,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=165
 ,,,,,,,,,,2,6.37,Portland Trail Blazers,foul,,,,,,,,,,Price,,,,,,Personal,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=166
 ,,,,,,,,,,2,6.37,Washington Wizards,free throw,,,,,,,1,,2,Crawford,1,,foul,made,,,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=167
@@ -195,7 +195,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.23,Washington Wizards,foul,,,,,,,,,,Livingston,,,,,,Personal,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=224
 ,,,,,,,,,,2,1.23,Portland Trail Blazers,free throw,,,,,,,1,,2,Lillard,1,,foul,made,,,,,39-41,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=225
 ,,,,,,,,,,2,1.23,Portland Trail Blazers,free throw,,,,,,,2,,2,Lillard,1,,foul,made,,,,,40-41,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=227
-,,,,,,,,,,2,1.01,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Lost Ball,,,,,,40-41,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=230
+,,,,,,,,,,2,1.01,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Lost Ball,,Aldridge,,,,40-41,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=230
 ,,,,,,,,,,2,0.54,Portland Trail Blazers,shot,Lillard,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,43-41,25,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=231
 ,,,,,,,,,,2,0.41,Washington Wizards,shot,,,,,,,,,,Livingston,2,,,made,,Turnaround Jump Shot,,,43-43,17,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=232
 ,,,,,,,,,,2,0.21,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,43-43,18,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=233
@@ -203,7 +203,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,43-43,5,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=235
 ,,,,,,,,,,2,0.00,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,43-43,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=236
 ,,,,,,,,,,3,11.44,Portland Trail Blazers,shot,Batum,,,,,,,,,Hickson,2,,,made,,Layup,,,45-43,1,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=240
-,,,,,,,,,,3,11.20,Washington Wizards,turnover,,,,,,,,,,Beal,,,Lost Ball,,,,,,45-43,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=241
+,,,,,,,,,,3,11.20,Washington Wizards,turnover,,,,,,,,,,Beal,,,Lost Ball,,Matthews,,,,45-43,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=241
 ,,,,,,,,,,3,11.13,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,45-43,2,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=242
 ,,,,,,,,,,3,11.12,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,45-43,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=243
 ,,,,,,,,,,3,11.10,Portland Trail Blazers,shot,,,,,,,,,,Hickson,2,,,made,,Dunk,,,47-43,1,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=244
@@ -223,7 +223,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.46,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,Jump Shot,,,52-48,17,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=259
 ,,,,,,,,,,3,8.45,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=260
 ,,,,,,,,,,3,8.32,Washington Wizards,shot,Seraphin,,,,,,,,,Ariza,2,,,made,,Jump Shot,,,52-50,20,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=261
-,,,,,,,,,,3,8.11,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,52-50,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=262
+,,,,,,,,,,3,8.11,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Okafor,,,,52-50,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=262
 ,,,,,,,,,,3,7.50,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Jump Shot,,,52-50,6,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=263
 ,,,,,,,,,,3,7.49,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,52-50,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=264
 ,,,,,,,,,,3,7.33,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,52-50,18,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=265
@@ -243,12 +243,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.20,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,3PT Jump Shot,,,55-55,25,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=280
 ,,,,,,,,,,3,5.18,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,55-55,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=281
 ,,,,,,,,,,3,5.00,Washington Wizards,shot,,,,,,,,,,Okafor,2,,,made,,Jump Bank Hook Shot,,,55-57,10,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=282
-,,,,,,,,,,3,4.33,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,55-57,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=283
+,,,,,,,,,,3,4.33,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Okafor,,,,55-57,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=283
 ,,,,,,,,,,3,4.27,Washington Wizards,shot,Price,,,,,,,,,Seraphin,2,,,made,,Jump Hook Shot,,,55-59,4,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=284
 ,,,,,,,,,,3,4.06,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,55-59,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=285
 ,,,,,,,,,,3,4.05,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,55-59,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=286
 ,,,,,,,,,,3,4.01,Portland Trail Blazers,shot,,,,,,,,,,Hickson,2,,,made,,Hook Shot,,,57-59,9,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=287
-,,,,,,,,,,3,3.49,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=288
+,,,,,,,,,,3,3.49,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,Batum,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=288
 ,,,,,,,,,,3,3.43,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,57-59,2,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=289
 ,,,,,,,,,,3,3.42,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,57-59,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=290
 ,,,,,,,,,,3,3.33,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,57-59,2,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=291
@@ -277,7 +277,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.49,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,57-61,1,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=316
 ,,,,,,,,,,3,1.49,Washington Wizards,rebound,,,,,,,,,,Singleton,,,,,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=317
 ,,,,,,,,,,3,1.49,Portland Trail Blazers,foul,,,,,,,,,,Jeffries,,,,,,Loose ball,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=318
-,,,,,,,,,,3,1.31,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,Jump Shot,,,57-61,6,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=319
+,,,,,,,,,,3,1.31,Washington Wizards,shot,,,Jeffries,,,,,,,Beal,,,,missed,,Jump Shot,,,57-61,6,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=319
 ,,,,,,,,,,3,1.31,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=320
 ,,,,,,,,,,3,1.31,Washington Wizards,substitute,,,,Crawford,,Beal,,,,,,,,,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=321
 ,,,,,,,,,,3,1.26,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,3PT Jump Shot,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=322
@@ -308,12 +308,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.48,Washington Wizards,free throw,,,,,,,2,,2,Nene,1,,foul,made,,,,,59-70,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=356
 ,,,,,,,,,,4,11.29,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,59-70,26,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=358
 ,,,,,,,,,,4,11.28,Washington Wizards,rebound,,,,,,,,,,Singleton,,,,,,,,,59-70,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=359
-,,,,,,,,,,4,11.15,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,,,,,59-70,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=360
+,,,,,,,,,,4,11.15,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,Lillard,,,,59-70,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=360
 ,,,,,,,,,,4,11.14,Washington Wizards,foul,,,,,,,,,,Price,,,,,,Personal,,,59-70,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=361
 ,,,,,,,,,,4,11.14,Portland Trail Blazers,substitute,,,,Pavlovic,,Matthews,,,,,,,,,,,,,59-70,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=362
 ,,,,,,,,,,4,11.08,Portland Trail Blazers,shot,,,,,,,,,,Lillard,3,,,made,,3PT Pullup Jump Shot,,,62-70,24,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=363
 ,,,,,,,,,,4,10.53,Washington Wizards,shot,Price,,,,,,,,,Singleton,2,,,made,,Jump Shot,,,62-72,18,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=364
-,,,,,,,,,,4,10.36,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,62-72,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=365
+,,,,,,,,,,4,10.36,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Nene,,,,62-72,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=365
 ,,,,,,,,,,4,10.17,Portland Trail Blazers,foul,,,,,,,,,,Pavlovic,,,,,,Shooting,,,62-72,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=366
 ,,,,,,,,,,4,10.17,Washington Wizards,free throw,,,,,,,1,,2,Webster,1,,foul,made,,,,,62-73,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=367
 ,,,,,,,,,,4,10.17,Washington Wizards,free throw,,,,,,,2,,2,Webster,1,,foul,made,,,,,62-74,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=369
@@ -384,7 +384,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.49,Portland Trail Blazers,substitute,,,,Matthews,,Pavlovic,,,,,,,,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=447
 ,,,,,,,,,,4,2.42,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,79-79,20,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=448
 ,,,,,,,,,,4,2.39,Washington Wizards,rebound,,,,,,,,,,Crawford,,,,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=449
-,,,,,,,,,,4,2.34,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=450
+,,,,,,,,,,4,2.34,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Batum,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=450
 ,,,,,,,,,,4,2.27,Washington Wizards,foul,,,,,,,,,,Ariza,,,,,,Shooting,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=451
 ,,,,,,,,,,4,2.27,Portland Trail Blazers,free throw,,,,,,,1,,2,Batum,,,foul,missed,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=452
 ,,,,,,,,,,4,2.27,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=453
@@ -393,7 +393,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.45,Portland Trail Blazers,shot,Lillard,,,,,,,,,Aldridge,2,,,made,,Jump Shot,,,82-82,21,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=458
 ,,,,,,,,,,4,1.21,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,82-82,13,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=459
 ,,,,,,,,,,4,1.20,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=460
-,,,,,,,,,,4,0.56,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,Jump Shot,,,82-82,3,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=462
+,,,,,,,,,,4,0.56,Portland Trail Blazers,shot,,,Okafor,,,,,,,Batum,,,,missed,,Jump Shot,,,82-82,3,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=462
 ,,,,,,,,,,4,0.53,Washington Wizards,rebound,,,,,,,,,,Price,,,,,,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=463
 ,,,,,,,,,,4,0.39,Portland Trail Blazers,foul,,,,,,,,,,Aldridge,,,,,,Shooting,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=464
 ,,,,,,,,,,4,0.39,Washington Wizards,free throw,,,,,,,1,,2,Okafor,1,,foul,made,,,,,82-83,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=465
@@ -415,7 +415,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.00,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=486
 ,,,,,,,,,,4,0.00,Washington Wizards,substitute,,,,Crawford,,Webster,,,,,,,,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=488
 ,,,,,,,,,,4,0.00,Portland Trail Blazers,substitute,,,,Pavlovic,,Aldridge,,,,,,,,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=489
-,,,,,,,,,,4,0.00,Washington Wizards,turnover,,,,,,,,,,Ariza,,,Bad Pass,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=490
+,,,,,,,,,,4,0.00,Washington Wizards,turnover,,,,,,,,,,Ariza,,,Bad Pass,,Matthews,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=490
 ,,,,,,,,,,4,0.00,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=492
 ,,,,,,,,,,4,0.00,Portland Trail Blazers,substitute,,,,Aldridge,,Pavlovic,,,,,,,,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=494
 ,,,,,,,,,,4,0.00,Washington Wizards,substitute,,,,Webster,,Crawford,,,,,,,,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200209&GameEventID=495

@@ -1,13 +1,13 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.41,Los Angeles Lakers,shot,Bryant,,,,,,,,,World Peace,3,,,made,,3PT Jump Shot,,,0-3,25,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=2
-,,,,,,,,,,1,11.24,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=3
-,,,,,,,,,,1,11.01,Los Angeles Lakers,shot,,,,,,,,,,Clark,,,,missed,,Jump Shot,,,0-3,5,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=4
+,,,,,,,,,,1,11.24,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Bryant,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=3
+,,,,,,,,,,1,11.01,Los Angeles Lakers,shot,,,Ibaka,,,,,,,Clark,,,,missed,,Jump Shot,,,0-3,5,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=4
 ,,,,,,,,,,1,10.59,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=5
 ,,,,,,,,,,1,10.59,Los Angeles Lakers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=6
 ,,,,,,,,,,1,10.48,Los Angeles Lakers,foul,,,,,,,,,,Clark,,,,,,Personal,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=7
 ,,,,,,,,,,1,10.42,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,3PT Jump Shot,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=8
 ,,,,,,,,,,1,10.41,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=9
-,,,,,,,,,,1,10.29,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=10
+,,,,,,,,,,1,10.29,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Westbrook,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=10
 ,,,,,,,,,,1,10.25,Los Angeles Lakers,foul,,,,,,,,,,Nash,,,,,,Shooting Block,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=11
 ,,,,,,,,,,1,10.25,Oklahoma City Thunder,free throw,,,,,,,1,,2,Westbrook,1,,foul,made,,,,,1-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=12
 ,,,,,,,,,,1,10.25,Oklahoma City Thunder,free throw,,,,,,,2,,2,Westbrook,,,foul,missed,,,,,1-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=14
@@ -20,9 +20,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.06,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,1-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=22
 ,,,,,,,,,,1,9.59,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Layup,,,1-3,3,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=23
 ,,,,,,,,,,1,9.56,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,1-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=24
-,,,,,,,,,,1,9.45,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,1-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=25
+,,,,,,,,,,1,9.45,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Sefolosha,,,,1-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=25
 ,,,,,,,,,,1,9.40,Oklahoma City Thunder,shot,Perkins,,,,,,,,,Durant,2,,,made,,Running Jump Shot,,,3-3,7,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=26
-,,,,,,,,,,1,9.23,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,3-3,8,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=27
+,,,,,,,,,,1,9.23,Los Angeles Lakers,shot,,,Ibaka,,,,,,,Bryant,,,,missed,,Jump Shot,,,3-3,8,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=27
 ,,,,,,,,,,1,9.20,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,3-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=28
 ,,,,,,,,,,1,9.18,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Driving Dunk,,,5-3,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=29
 ,,,,,,,,,,1,8.57,Oklahoma City Thunder,foul,,,,,,,,,,Perkins,,,,,,Personal,,,5-3,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=30
@@ -73,7 +73,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.59,Los Angeles Lakers,rebound,,,,,,,,,,Clark,,,,,,,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=85
 ,,,,,,,,,,1,4.53,Los Angeles Lakers,shot,,,,,,,,,,Nash,,,,missed,,3PT Jump Shot,,,11-11,27,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=86
 ,,,,,,,,,,1,4.51,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=87
-,,,,,,,,,,1,4.39,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Layup,,,11-11,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=88
+,,,,,,,,,,1,4.39,Oklahoma City Thunder,shot,,,Gasol,,,,,,,Durant,,,,missed,,Layup,,,11-11,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=88
 ,,,,,,,,,,1,4.37,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=89
 ,,,,,,,,,,1,4.33,Los Angeles Lakers,shot,Nash,,,,,,,,,Clark,2,,,made,,Driving Dunk,,,11-13,3,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=90
 ,,,,,,,,,,1,4.14,Los Angeles Lakers,violation,,,,,,,,,,Bryant,,,Kicked Ball,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=91
@@ -88,7 +88,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.33,Oklahoma City Thunder,foul,,,,,,,,,,Martin,,,,,,Personal,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=100
 ,,,,,,,,,,1,3.29,Los Angeles Lakers,shot,Gasol,,,,,,,,,World Peace,2,,,made,,Reverse Layup,,,13-17,3,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=101
 ,,,,,,,,,,1,3.14,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Jump Shot,,,15-17,18,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=102
-,,,,,,,,,,1,2.56,Los Angeles Lakers,shot,,,,,,,,,,Jamison,,,,missed,,Layup,,,15-17,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=103
+,,,,,,,,,,1,2.56,Los Angeles Lakers,shot,,,Ibaka,,,,,,,Jamison,,,,missed,,Layup,,,15-17,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=103
 ,,,,,,,,,,1,2.54,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=104
 ,,,,,,,,,,1,2.49,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,3PT Jump Shot,,,15-17,27,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=105
 ,,,,,,,,,,1,2.48,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=106
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.30,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Personal,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=110
 ,,,,,,,,,,1,2.30,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=111
 ,,,,,,,,,,1,2.30,Oklahoma City Thunder,substitute,,,,Liggins,,Durant,,,,,,,,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=113
-,,,,,,,,,,1,2.21,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=114
+,,,,,,,,,,1,2.21,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Collison,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=114
 ,,,,,,,,,,1,2.17,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Martin,2,,,made,,Driving Layup,,,19-17,1,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=115
 ,,,,,,,,,,1,2.04,Los Angeles Lakers,shot,Bryant,,,,,,,,,Gasol,2,,,made,,Jump Shot,,,19-19,20,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=116
 ,,,,,,,,,,1,1.49,Oklahoma City Thunder,shot,,,,,,,,,,Martin,2,,,made,,Jump Shot,,,21-19,21,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=117
@@ -119,9 +119,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.01,Los Angeles Lakers,free throw,,,,,,,3,,3,Jamison,1,,foul,made,,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=137
 ,,,,,,,,,,2,11.48,Oklahoma City Thunder,shot,,,,,,,,,,Martin,2,,,made,,Running Jump Shot,,,25-27,7,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=142
 ,,,,,,,,,,2,11.33,Los Angeles Lakers,shot,Duhon,,,,,,,,,Jamison,2,,,made,,Jump Shot,,,25-29,20,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=143
-,,,,,,,,,,2,11.14,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Bad Pass,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=144
+,,,,,,,,,,2,11.14,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Bad Pass,,Peace,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=144
 ,,,,,,,,,,2,11.13,Oklahoma City Thunder,foul,,,,,,,,,,Martin,,,,,,Personal,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=145
-,,,,,,,,,,2,11.03,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Jump Shot,,,25-29,15,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=146
+,,,,,,,,,,2,11.03,Los Angeles Lakers,shot,,,Liggins,,,,,,,World Peace,,,,missed,,Jump Shot,,,25-29,15,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=146
 ,,,,,,,,,,2,11.03,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=148
 ,,,,,,,,,,2,11.03,Los Angeles Lakers,jumpball,,Liggins,,,World Peace,,,,,,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=147
 ,,,,,,,,,,2,10.56,Los Angeles Lakers,shot,World Peace,,,,,,,,,Jamison,2,,,made,,Driving Layup,,,25-31,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=149
@@ -136,7 +136,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.58,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Collison,2,,,made,,Jump Shot,,,27-34,19,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=160
 ,,,,,,,,,,2,9.39,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Personal,,,27-34,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=161
 ,,,,,,,,,,2,9.30,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Traveling,,,,,,27-34,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=162
-,,,,,,,,,,2,9.15,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Layup,,,27-34,3,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=163
+,,,,,,,,,,2,9.15,Oklahoma City Thunder,shot,,,Jamison,,,,,,,Durant,,,,missed,,Layup,,,27-34,3,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=163
 ,,,,,,,,,,2,9.13,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,27-34,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=165
 ,,,,,,,,,,2,9.13,Oklahoma City Thunder,shot,,,,,,,,,,Thabeet,2,,,made,,Tip Shot,,,29-34,1,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=164
 ,,,,,,,,,,2,9.00,Los Angeles Lakers,shot,Meeks,,,,,,,,,Jamison,2,,,made,,Jump Shot,,,29-36,19,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=166
@@ -145,7 +145,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.42,Los Angeles Lakers,substitute,,,,Clark,,World Peace,,,,,,,,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=171
 ,,,,,,,,,,2,8.42,Los Angeles Lakers,substitute,,,,Howard,,Gasol,,,,,,,,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=172
 ,,,,,,,,,,2,8.42,Oklahoma City Thunder,free throw,,,,,,,1,,1,Durant,1,,foul,made,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=175
-,,,,,,,,,,2,8.23,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Jump Shot,,,32-36,26,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=177
+,,,,,,,,,,2,8.23,Los Angeles Lakers,shot,,,Sefolosha,,,,,,,Meeks,,,,missed,,3PT Jump Shot,,,32-36,26,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=177
 ,,,,,,,,,,2,8.17,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=178
 ,,,,,,,,,,2,8.15,Oklahoma City Thunder,shot,Collison,,,,,,,,,Jackson,2,,,made,,Driving Layup,,,34-36,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=179
 ,,,,,,,,,,2,8.03,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Shooting,,,34-36,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=180
@@ -178,19 +178,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.25,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,3PT Jump Shot,,,38-36,27,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=214
 ,,,,,,,,,,2,6.24,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,38-36,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=215
 ,,,,,,,,,,2,6.20,Los Angeles Lakers,shot,Nash,,,,,,,,,Bryant,2,,,made,,Layup,,,38-38,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=216
-,,,,,,,,,,2,5.59,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,38-38,6,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=217
+,,,,,,,,,,2,5.59,Oklahoma City Thunder,shot,,,Bryant,,,,,,,Durant,,,,missed,,Jump Shot,,,38-38,6,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=217
 ,,,,,,,,,,2,5.57,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=218
 ,,,,,,,,,,2,5.52,Los Angeles Lakers,shot,Bryant,,,,,,,,,Nash,3,,,made,,3PT Jump Shot,,,38-41,27,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=219
 ,,,,,,,,,,2,5.51,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=220
 ,,,,,,,,,,2,5.51,Oklahoma City Thunder,substitute,,,,Ibaka,,Collison,,,,,,,,,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=222
 ,,,,,,,,,,2,5.38,Oklahoma City Thunder,shot,Perkins,,,,,,,,,Durant,2,,,made,,Jump Shot,,,40-41,19,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=223
 ,,,,,,,,,,2,5.19,Los Angeles Lakers,shot,Howard,,,,,,,,,World Peace,3,,,made,,3PT Jump Shot,,,40-44,26,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=224
-,,,,,,,,,,2,5.03,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=225
+,,,,,,,,,,2,5.03,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Peace,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=225
 ,,,,,,,,,,2,4.50,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,3PT Jump Shot,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=226
 ,,,,,,,,,,2,4.49,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=227
 ,,,,,,,,,,2,4.43,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,40-44,19,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=228
 ,,,,,,,,,,2,4.42,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=229
-,,,,,,,,,,2,4.26,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Jump Shot,,,40-44,4,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=230
+,,,,,,,,,,2,4.26,Los Angeles Lakers,shot,,,Ibaka,,,,,,,World Peace,,,,missed,,Jump Shot,,,40-44,4,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=230
 ,,,,,,,,,,2,4.26,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=231
 ,,,,,,,,,,2,4.06,Oklahoma City Thunder,shot,Durant,,,,,,,,,Sefolosha,3,,,made,,3PT Jump Shot,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=232
 ,,,,,,,,,,2,3.46,Los Angeles Lakers,shot,,,,,,,,,,Nash,,,,missed,,Jump Shot,,,43-44,19,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=233
@@ -199,7 +199,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.37,Los Angeles Lakers,foul,,,,,,,,,,Gasol,,,,,,Shooting,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=236
 ,,,,,,,,,,2,3.37,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,44-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=237
 ,,,,,,,,,,2,3.37,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,45-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=239
-,,,,,,,,,,2,3.24,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Bad Pass,,,,,,45-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=241
+,,,,,,,,,,2,3.24,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Bad Pass,,Sefolosha,,,,45-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=241
 ,,,,,,,,,,2,3.21,Los Angeles Lakers,violation,,,,,,,,,,Howard,,,Defensive Goaltending,,,,,,45-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=243
 ,,,,,,,,,,2,3.21,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Sefolosha,2,,,made,,Driving Layup,,,47-44,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=242
 ,,,,,,,,,,2,3.21,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,47-44,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=244
@@ -214,7 +214,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.16,Los Angeles Lakers,free throw,,,,,,,2,,2,Gasol,,,foul,missed,,,,,49-48,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=254
 ,,,,,,,,,,2,2.15,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,49-48,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=256
 ,,,,,,,,,,2,1.54,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Perkins,2,,,made,,Jump Shot,,,51-48,10,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=257
-,,,,,,,,,,2,1.29,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,51-48,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=258
+,,,,,,,,,,2,1.29,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Durant,,,,51-48,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=258
 ,,,,,,,,,,2,1.24,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,51-48,26,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=259
 ,,,,,,,,,,2,1.22,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,51-48,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=260
 ,,,,,,,,,,2,1.17,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Shooting,,,51-48,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=261
@@ -230,7 +230,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.38,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,51-50,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=272
 ,,,,,,,,,,2,0.30,Los Angeles Lakers,shot,Bryant,,,,,,,,,Howard,2,,,made,,Slam Dunk,,,51-52,3,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=274
 ,,,,,,,,,,2,0.09,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Jump Shot,,,53-52,22,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=275
-,,,,,,,,,,2,0.01,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,,,,,53-52,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=276
+,,,,,,,,,,2,0.01,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,Sefolosha,,,,53-52,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=276
 ,,,,,,,,,,3,11.44,Oklahoma City Thunder,shot,Durant,,,,,,,,,Perkins,2,,,made,,Layup,,,55-52,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=280
 ,,,,,,,,,,3,11.27,Los Angeles Lakers,shot,,,,,,,,,,Clark,,,,missed,,Jump Shot,,,55-52,21,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=281
 ,,,,,,,,,,3,11.25,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,55-52,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=283
@@ -279,8 +279,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.30,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Driving Layup,,,63-61,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=333
 ,,,,,,,,,,3,6.06,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Hook Shot,,,63-61,10,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=334
 ,,,,,,,,,,3,6.04,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=335
-,,,,,,,,,,3,6.01,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Lost Ball,,,,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=336
-,,,,,,,,,,3,5.40,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=338
+,,,,,,,,,,3,6.01,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Lost Ball,,Ibaka,,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=336
+,,,,,,,,,,3,5.40,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,Clark,,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=338
 ,,,,,,,,,,3,5.24,Los Angeles Lakers,shot,Bryant,,,,,,,,,Gasol,2,,,made,,Jump Shot,,,63-63,16,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=339
 ,,,,,,,,,,3,5.07,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,63-63,14,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=340
 ,,,,,,,,,,3,5.06,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,63-63,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=341
@@ -312,7 +312,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.07,Oklahoma City Thunder,free throw,,,,,,,1,,2,Sefolosha,,,foul,missed,,,,,70-69,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=372
 ,,,,,,,,,,3,2.07,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,70-69,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=373
 ,,,,,,,,,,3,2.07,Oklahoma City Thunder,free throw,,,,,,,2,,2,Sefolosha,1,,foul,made,,,,,71-69,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=374
-,,,,,,,,,,3,1.54,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,,,,,71-69,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=376
+,,,,,,,,,,3,1.54,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,Liggins,,,,71-69,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=376
 ,,,,,,,,,,3,1.48,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,Layup,,,71-69,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=377
 ,,,,,,,,,,3,1.43,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,71-69,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=379
 ,,,,,,,,,,3,1.43,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Putback Dunk,,,73-69,2,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=378
@@ -358,12 +358,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.24,Los Angeles Lakers,free throw,,,,,,,1,,2,Howard,1,,foul,made,,,,,82-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=430
 ,,,,,,,,,,4,8.24,Los Angeles Lakers,free throw,,,,,,,2,,2,Howard,,,foul,missed,,,,,82-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=432
 ,,,,,,,,,,4,8.23,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,82-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=434
-,,,,,,,,,,4,8.09,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,82-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=435
+,,,,,,,,,,4,8.09,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Howard,,,,82-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=435
 ,,,,,,,,,,4,7.52,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,3PT Jump Shot,,,82-86,26,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=436
 ,,,,,,,,,,4,7.51,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,82-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=437
 ,,,,,,,,,,4,7.33,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,82-86,17,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=438
 ,,,,,,,,,,4,7.32,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,82-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=439
-,,,,,,,,,,4,7.23,Los Angeles Lakers,turnover,,,,,,,,,,Duhon,,,Lost Ball,,,,,,82-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=440
+,,,,,,,,,,4,7.23,Los Angeles Lakers,turnover,,,,,,,,,,Duhon,,,Lost Ball,,Westbrook,,,,82-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=440
 ,,,,,,,,,,4,7.20,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Slam Dunk,,,84-86,1,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=441
 ,,,,,,,,,,4,7.03,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Personal,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=442
 ,,,,,,,,,,4,7.03,Los Angeles Lakers,substitute,,,,Nash,,Duhon,,,,,,,,,,,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=443
@@ -419,7 +419,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.00,Oklahoma City Thunder,free throw,,,,,,,2,,2,Westbrook,,,foul,missed,,,,,96-101,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=504
 ,,,,,,,,,,4,0.59,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,96-101,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=506
 ,,,,,,,,,,4,0.37,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Jump Shot,,,96-103,19,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=507
-,,,,,,,,,,4,0.31,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,96-103,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=508
+,,,,,,,,,,4,0.31,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Howard,,,,96-103,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=508
 ,,,,,,,,,,4,0.31,Oklahoma City Thunder,foul,,,,,,,,,,Durant,,,,,,Personal,,,96-103,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=509
 ,,,,,,,,,,4,0.30,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Personal,,,96-103,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=510
 ,,,,,,,,,,4,0.30,Los Angeles Lakers,free throw,,,,,,,1,,2,Nash,1,,foul,made,,,,,96-104,,http://stats.nba.com/cvp.html?GameID=0021200653&GameEventID=511

@@ -6,7 +6,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.02,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Jump Shot,,,2-0,19,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=6
 ,,,,,,,,,,1,11.00,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=7
 ,,,,,,,,,,1,10.58,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Layup,,,2-2,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=8
-,,,,,,,,,,1,10.47,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,2-2,6,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=9
+,,,,,,,,,,1,10.47,Boston Celtics,shot,,,Hibbert,,,,,,,Bass,,,,missed,,Jump Shot,,,2-2,6,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=9
 ,,,,,,,,,,1,10.46,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=10
 ,,,,,,,,,,1,10.34,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Jump Bank Shot,,,2-4,7,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=11
 ,,,,,,,,,,1,10.17,Boston Celtics,shot,Pierce,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,4-4,20,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=12
@@ -15,7 +15,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.42,Boston Celtics,foul,,,,,,,,,,Lee,,,,,,Personal,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=15
 ,,,,,,,,,,1,9.24,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Jump Shot,,,7-6,7,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=16
 ,,,,,,,,,,1,9.23,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=17
-,,,,,,,,,,1,9.21,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Layup,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=18
+,,,,,,,,,,1,9.21,Indiana Pacers,shot,,,Garnett,,,,,,,Hibbert,,,,missed,,Layup,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=18
 ,,,,,,,,,,1,9.20,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=19
 ,,,,,,,,,,1,9.18,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,3PT Jump Shot,,,7-6,24,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=20
 ,,,,,,,,,,1,9.17,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=21
@@ -23,7 +23,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.58,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,7-8,19,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=23
 ,,,,,,,,,,1,8.55,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=24
 ,,,,,,,,,,1,8.53,Boston Celtics,shot,,,,,,,,,,Lee,2,,,made,,Pullup Jump Shot,,,9-8,18,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=25
-,,,,,,,,,,1,8.42,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=26
+,,,,,,,,,,1,8.42,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Lee,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=26
 ,,,,,,,,,,1,8.35,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,9-8,20,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=27
 ,,,,,,,,,,1,8.34,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=28
 ,,,,,,,,,,1,8.21,Boston Celtics,shot,,,,,,,,,,Bradley,2,,,made,,Pullup Jump Shot,,,11-8,20,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=29
@@ -31,7 +31,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.04,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=31
 ,,,,,,,,,,1,8.01,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Layup,,,11-8,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=32
 ,,,,,,,,,,1,8.00,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=33
-,,,,,,,,,,1,7.56,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=34
+,,,,,,,,,,1,7.56,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,George,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=34
 ,,,,,,,,,,1,7.55,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Personal Take,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=35
 ,,,,,,,,,,1,7.55,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=36
 ,,,,,,,,,,1,7.39,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Jump Shot,,,11-10,19,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=37
@@ -51,7 +51,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.09,Indiana Pacers,foul,,,,,,,,,,West,,,,,,Personal,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=52
 ,,,,,,,,,,1,6.03,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,13-14,27,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=53
 ,,,,,,,,,,1,6.02,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=54
-,,,,,,,,,,1,5.49,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Dunk,,,13-14,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=55
+,,,,,,,,,,1,5.49,Indiana Pacers,shot,,,Bass,,,,,,,Hibbert,,,,missed,,Dunk,,,13-14,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=55
 ,,,,,,,,,,1,5.47,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=56
 ,,,,,,,,,,1,5.39,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Jump Shot,,,13-14,17,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=57
 ,,,,,,,,,,1,5.38,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=58
@@ -87,14 +87,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.18,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=92
 ,,,,,,,,,,1,2.00,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,19-23,5,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=93
 ,,,,,,,,,,1,1.59,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=94
-,,,,,,,,,,1,1.47,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=95
-,,,,,,,,,,1,1.43,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=96
+,,,,,,,,,,1,1.47,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Wilcox,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=95
+,,,,,,,,,,1,1.43,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,George,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=96
 ,,,,,,,,,,1,1.38,Indiana Pacers,shot,Hill,,,,,,,,,West,2,,,made,,Jump Shot,,,19-25,16,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=97
 ,,,,,,,,,,1,1.13,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Jump Shot,,,19-25,16,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=98
 ,,,,,,,,,,1,1.12,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=99
 ,,,,,,,,,,1,1.04,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,19-25,28,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=100
 ,,,,,,,,,,1,1.01,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=101
-,,,,,,,,,,1,0.48,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=102
+,,,,,,,,,,1,0.48,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,West,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=102
 ,,,,,,,,,,1,0.43,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Driving Finger Roll Layup,,,19-27,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=103
 ,,,,,,,,,,1,0.26,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,19-27,27,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=104
 ,,,,,,,,,,1,0.25,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=105
@@ -103,11 +103,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.43,Boston Celtics,shot,,,,,,,,,,Terry,2,,,made,,Pullup Jump Shot,,,21-27,18,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=111
 ,,,,,,,,,,2,11.20,Indiana Pacers,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,21-27,24,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=112
 ,,,,,,,,,,2,11.19,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=113
-,,,,,,,,,,2,11.15,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=114
+,,,,,,,,,,2,11.15,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,George,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=114
 ,,,,,,,,,,2,11.09,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,21-27,27,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=115
 ,,,,,,,,,,2,11.08,Boston Celtics,rebound,,,,,,,,,,White,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=116
 ,,,,,,,,,,2,11.03,Boston Celtics,shot,Terry,,,,,,,,,Crawford,2,,,made,,Layup,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=117
-,,,,,,,,,,2,10.42,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,23-27,8,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=118
+,,,,,,,,,,2,10.42,Indiana Pacers,shot,,,White,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,23-27,8,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=118
 ,,,,,,,,,,2,10.41,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=119
 ,,,,,,,,,,2,10.22,Boston Celtics,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,23-27,25,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=120
 ,,,,,,,,,,2,10.21,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=121
@@ -121,11 +121,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.40,Boston Celtics,free throw,,,,,,,1,,2,Garnett,,,foul,missed,,,,,23-28,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=131
 ,,,,,,,,,,2,9.40,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,23-28,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=132
 ,,,,,,,,,,2,9.40,Boston Celtics,free throw,,,,,,,2,,2,Garnett,1,,foul,made,,,,,24-28,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=133
-,,,,,,,,,,2,9.27,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Layup,,,24-28,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=135
+,,,,,,,,,,2,9.27,Indiana Pacers,shot,,,White,,,,,,,George,,,,missed,,Layup,,,24-28,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=135
 ,,,,,,,,,,2,9.25,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,24-28,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=136
-,,,,,,,,,,2,9.21,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Layup,,,24-28,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=137
+,,,,,,,,,,2,9.21,Boston Celtics,shot,,,Johnson,,,,,,,Terry,,,,missed,,Layup,,,24-28,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=137
 ,,,,,,,,,,2,9.19,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,24-28,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=138
-,,,,,,,,,,2,9.14,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Layup,,,24-28,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=139
+,,,,,,,,,,2,9.14,Boston Celtics,shot,,,Johnson,,,,,,,Terry,,,,missed,,Layup,,,24-28,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=139
 ,,,,,,,,,,2,9.13,Indiana Pacers,rebound,,,,,,,,,,Augustin,,,,,,,,,24-28,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=140
 ,,,,,,,,,,2,9.07,Indiana Pacers,shot,Augustin,,,,,,,,,Johnson,2,,,made,,Step Back Jump Shot,,,24-30,9,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=141
 ,,,,,,,,,,2,8.47,Boston Celtics,shot,,,,,,,,,,White,,,,missed,,Jump Shot,,,24-30,16,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=142
@@ -141,7 +141,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.53,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,24-30,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=154
 ,,,,,,,,,,2,7.39,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,24-30,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=155
 ,,,,,,,,,,2,7.38,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,24-30,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=156
-,,,,,,,,,,2,7.20,Indiana Pacers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,24-30,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=157
+,,,,,,,,,,2,7.20,Indiana Pacers,turnover,,,,,,,,,,Young,,,Bad Pass,,Terry,,,,24-30,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=157
 ,,,,,,,,,,2,7.15,Boston Celtics,shot,,,,,,,,,,Green,2,,,made,,Driving Layup,,,26-30,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=158
 ,,,,,,,,,,2,6.50,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,26-30,20,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=159
 ,,,,,,,,,,2,6.48,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,26-30,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=160
@@ -166,7 +166,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.50,Boston Celtics,substitute,,,,Lee,,Terry,,,,,,,,,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=180
 ,,,,,,,,,,2,5.39,Boston Celtics,foul,,,,,,,,,,,,,,,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=181
 ,,,,,,,,,,2,5.39,Indiana Pacers,free throw,,,,,,,,,,Hill,1,,Technical,made,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=182
-,,,,,,,,,,2,5.29,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Jump Shot,,,26-33,6,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=184
+,,,,,,,,,,2,5.29,Indiana Pacers,shot,,,Green,,,,,,,West,,,,missed,,Jump Shot,,,26-33,6,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=184
 ,,,,,,,,,,2,5.27,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=185
 ,,,,,,,,,,2,5.24,Boston Celtics,shot,,,,,,,,,,Green,2,,,made,,Driving Finger Roll Layup,,,28-33,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=186
 ,,,,,,,,,,2,5.02,Indiana Pacers,shot,,,,,,,,,,Young,2,,,made,,Jump Bank Shot,,,28-35,7,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=187
@@ -181,8 +181,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.05,Indiana Pacers,substitute,,,,George,,Young,,,,,,,,,,,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=198
 ,,,,,,,,,,2,4.05,Indiana Pacers,free throw,,,,,,,2,,2,Hill,1,,foul,made,,,,,34-38,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=199
 ,,,,,,,,,,2,3.56,Boston Celtics,shot,,,,,,,,,,Bradley,2,,,made,,Pullup Jump Shot,,,36-38,19,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=201
-,,,,,,,,,,2,3.39,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,36-38,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=202
-,,,,,,,,,,2,3.33,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,36-38,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=203
+,,,,,,,,,,2,3.39,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Wilcox,,,,36-38,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=202
+,,,,,,,,,,2,3.33,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,Stephenson,,,,36-38,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=203
 ,,,,,,,,,,2,3.27,Indiana Pacers,shot,,,,,,,,,,Stephenson,2,,,made,,Driving Finger Roll Layup,,,36-40,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=204
 ,,,,,,,,,,2,3.13,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Personal,,,36-40,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=205
 ,,,,,,,,,,2,2.59,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,36-40,28,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=206
@@ -198,13 +198,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.05,Boston Celtics,substitute,,,,Bass,,Green,,,,,,,,,,,,,38-42,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=217
 ,,,,,,,,,,2,2.02,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Layup,,,38-42,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=218
 ,,,,,,,,,,2,2.01,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,38-42,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=219
-,,,,,,,,,,2,1.53,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,38-42,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=220
+,,,,,,,,,,2,1.53,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Stephenson,,,,38-42,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=220
 ,,,,,,,,,,2,1.49,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Dunk,,,38-44,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=221
 ,,,,,,,,,,2,1.30,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Jump Shot,,,38-44,20,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=222
 ,,,,,,,,,,2,1.29,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,38-44,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=223
 ,,,,,,,,,,2,1.22,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Layup,,,38-44,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=224
 ,,,,,,,,,,2,1.20,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,38-44,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=225
-,,,,,,,,,,2,1.13,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,38-44,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=226
+,,,,,,,,,,2,1.13,Boston Celtics,shot,,,Hibbert,,,,,,,Pierce,,,,missed,,Layup,,,38-44,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=226
 ,,,,,,,,,,2,1.11,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,38-44,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=227
 ,,,,,,,,,,2,1.10,Boston Celtics,shot,,,,,,,,,,Wilcox,2,,,made,,Tip Shot,,,40-44,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=228
 ,,,,,,,,,,2,0.43,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,40-44,6,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=229
@@ -212,10 +212,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.42,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=231
 ,,,,,,,,,,2,0.42,Indiana Pacers,substitute,,,,Mahinmi,,Hibbert,,,,,,,,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=233
 ,,,,,,,,,,2,0.42,Boston Celtics,substitute,,,,Green,,Wilcox,,,,,,,,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=234
-,,,,,,,,,,2,0.35,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Layup,,,40-44,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=235
+,,,,,,,,,,2,0.35,Boston Celtics,shot,,,Hill,,,,,,,Bradley,,,,missed,,Layup,,,40-44,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=235
 ,,,,,,,,,,2,0.34,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=236
 ,,,,,,,,,,2,0.31,Indiana Pacers,shot,Hill,,,,,,,,,George,2,,,made,,Dunk,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=237
-,,,,,,,,,,2,0.20,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=238
+,,,,,,,,,,2,0.20,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Stephenson,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=238
 ,,,,,,,,,,2,0.16,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Layup,,,40-46,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=239
 ,,,,,,,,,,2,0.15,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=240
 ,,,,,,,,,,2,0.14,Indiana Pacers,shot,,,,,,,,,,West,2,,,made,,Layup,,,40-48,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=241
@@ -232,21 +232,21 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.59,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,42-49,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=259
 ,,,,,,,,,,3,10.38,Indiana Pacers,shot,,,,,,,,,,West,2,,,made,,Driving Finger Roll Layup,,,42-51,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=260
 ,,,,,,,,,,3,10.18,Boston Celtics,shot,Pierce,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,44-51,20,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=261
-,,,,,,,,,,3,10.00,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,,,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=262
+,,,,,,,,,,3,10.00,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,Lee,,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=262
 ,,,,,,,,,,3,9.52,Indiana Pacers,foul,,,,,,,,,,,,,,,,,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=263
 ,,,,,,,,,,3,9.52,Boston Celtics,free throw,,,,,,,,,,Pierce,1,,Technical,made,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=264
-,,,,,,,,,,3,9.39,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,45-51,16,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=266
+,,,,,,,,,,3,9.39,Boston Celtics,shot,,,Hibbert,,,,,,,Lee,,,,missed,,Jump Shot,,,45-51,16,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=266
 ,,,,,,,,,,3,9.38,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=267
 ,,,,,,,,,,3,9.35,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,45-51,26,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=268
 ,,,,,,,,,,3,9.34,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=269
 ,,,,,,,,,,3,9.10,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,3PT Jump Shot,,,45-51,27,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=270
 ,,,,,,,,,,3,9.09,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=271
-,,,,,,,,,,3,9.02,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Layup,,,45-51,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=272
+,,,,,,,,,,3,9.02,Boston Celtics,shot,,,West,,,,,,,Bass,,,,missed,,Layup,,,45-51,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=272
 ,,,,,,,,,,3,8.59,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=273
 ,,,,,,,,,,3,8.58,Indiana Pacers,jumpball,,Garnett,,,Hibbert,,,,,,,,,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=274
-,,,,,,,,,,3,8.41,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Layup,,,45-51,3,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=275
+,,,,,,,,,,3,8.41,Indiana Pacers,shot,,,Pierce,,,,,,,George,,,,missed,,Layup,,,45-51,3,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=275
 ,,,,,,,,,,3,8.39,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=276
-,,,,,,,,,,3,8.38,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Lost Ball,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=277
+,,,,,,,,,,3,8.38,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Lost Ball,,Stephenson,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=277
 ,,,,,,,,,,3,8.35,Indiana Pacers,shot,,,,,,,,,,Stephenson,2,,,made,,Finger Roll Layup,,,45-53,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=278
 ,,,,,,,,,,3,8.18,Boston Celtics,shot,Pierce,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,47-53,19,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=279
 ,,,,,,,,,,3,7.57,Indiana Pacers,shot,West,,,,,,,,,George,3,,,made,,3PT Jump Shot,,,47-56,24,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=280
@@ -262,7 +262,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.38,Boston Celtics,foul,,,,,,,,,,Bass,,,,,,Shooting,,,49-60,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=292
 ,,,,,,,,,,3,6.38,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,49-60,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=293
 ,,,,,,,,,,3,6.38,Indiana Pacers,free throw,,,,,,,1,,1,West,1,,foul,made,,,,,49-61,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=294
-,,,,,,,,,,3,6.25,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,49-61,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=296
+,,,,,,,,,,3,6.25,Boston Celtics,shot,,,Hibbert,,,,,,,Pierce,,,,missed,,Layup,,,49-61,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=296
 ,,,,,,,,,,3,6.23,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,49-61,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=297
 ,,,,,,,,,,3,6.18,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,49-61,26,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=298
 ,,,,,,,,,,3,6.17,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,49-61,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=299
@@ -284,9 +284,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.50,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=317
 ,,,,,,,,,,3,3.43,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,55-63,20,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=318
 ,,,,,,,,,,3,3.42,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=319
-,,,,,,,,,,3,3.35,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=321
+,,,,,,,,,,3,3.35,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,Wilcox,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=321
 ,,,,,,,,,,3,3.35,Indiana Pacers,jumpball,,Wilcox,,,George,,,,,,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=320
-,,,,,,,,,,3,3.28,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Lost Ball,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=322
+,,,,,,,,,,3,3.28,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Lost Ball,,Stephenson,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=322
 ,,,,,,,,,,3,3.06,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Shooting,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=323
 ,,,,,,,,,,3,3.06,Indiana Pacers,free throw,,,,,,,1,,2,Mahinmi,,,foul,missed,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=324
 ,,,,,,,,,,3,3.06,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=325
@@ -307,7 +307,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.00,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,58-66,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=341
 ,,,,,,,,,,3,0.46,Boston Celtics,foul,,,,,,,,,,Lee,,,,,,Personal,,,58-66,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=342
 ,,,,,,,,,,3,0.46,Boston Celtics,substitute,,,,Terry,,Pierce,,,,,,,,,,,,,58-66,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=343
-,,,,,,,,,,3,0.35,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Jump Shot,,,58-66,11,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=344
+,,,,,,,,,,3,0.35,Indiana Pacers,shot,,,Garnett,,,,,,,Mahinmi,,,,missed,,Jump Shot,,,58-66,11,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=344
 ,,,,,,,,,,3,0.34,Boston Celtics,rebound,,,,,,,,,,Bradley,,,,,,,,,58-66,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=345
 ,,,,,,,,,,3,0.34,Indiana Pacers,foul,,,,,,,,,,Augustin,,,,,,Personal Take,,,58-66,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=346
 ,,,,,,,,,,3,0.34,Indiana Pacers,substitute,,,,Johnson,,Stephenson,,,,,,,,,,,,,58-66,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=347
@@ -336,11 +336,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.52,Boston Celtics,free throw,,,,,,,1,,2,Garnett,1,,foul,made,,,,,64-70,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=375
 ,,,,,,,,,,4,9.52,Indiana Pacers,substitute,,,,Hill,,Augustin,,,,,,,,,,,,,64-70,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=377
 ,,,,,,,,,,4,9.52,Boston Celtics,free throw,,,,,,,2,,2,Garnett,1,,foul,made,,,,,65-70,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=378
-,,,,,,,,,,4,9.28,Indiana Pacers,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,65-70,11,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=379
+,,,,,,,,,,4,9.28,Indiana Pacers,shot,,,Green,,,,,,,Johnson,,,,missed,,Jump Shot,,,65-70,11,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=379
 ,,,,,,,,,,4,9.27,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,65-70,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=380
 ,,,,,,,,,,4,9.27,Indiana Pacers,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,65-70,26,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=381
 ,,,,,,,,,,4,9.27,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,65-70,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=382
-,,,,,,,,,,4,9.06,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,,,,,65-70,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=384
+,,,,,,,,,,4,9.06,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,Lee,,,,65-70,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=384
 ,,,,,,,,,,4,9.05,Indiana Pacers,foul,,,,,,,,,,Hansbrough,,,,,,Personal,,,65-70,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=385
 ,,,,,,,,,,4,8.54,Boston Celtics,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,65-70,26,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=386
 ,,,,,,,,,,4,8.52,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,65-70,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=387
@@ -364,12 +364,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.20,Indiana Pacers,shot,George,,,,,,,,,Hill,3,,,made,,3PT Jump Shot,,,69-73,27,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=408
 ,,,,,,,,,,4,6.04,Boston Celtics,shot,Green,,,,,,,,,Terry,3,,,made,,3PT Jump Shot,,,72-73,25,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=409
 ,,,,,,,,,,4,5.44,Indiana Pacers,shot,,,,,,,,,,Hill,3,,,made,,3PT Jump Shot,,,72-76,27,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=410
-,,,,,,,,,,4,5.25,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,72-76,4,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=411
+,,,,,,,,,,4,5.25,Boston Celtics,shot,,,Hibbert,,,,,,,Green,,,,missed,,Jump Shot,,,72-76,4,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=411
 ,,,,,,,,,,4,5.23,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,72-76,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=412
 ,,,,,,,,,,4,5.19,Indiana Pacers,shot,George,,,,,,,,,Hill,2,,,made,,Dunk,,,72-78,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=413
 ,,,,,,,,,,4,5.18,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=414
 ,,,,,,,,,,4,5.18,Boston Celtics,substitute,,,,Pierce,,Crawford,,,,,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=416
-,,,,,,,,,,4,5.03,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,72-78,12,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=417
+,,,,,,,,,,4,5.03,Boston Celtics,shot,,,George,,,,,,,Pierce,,,,missed,,Jump Shot,,,72-78,12,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=417
 ,,,,,,,,,,4,5.02,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=418
 ,,,,,,,,,,4,4.53,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,72-78,27,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=419
 ,,,,,,,,,,4,4.52,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=420
@@ -388,7 +388,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.03,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=435
 ,,,,,,,,,,4,3.00,Indiana Pacers,violation,,,,,,,,,,George,,,Defensive Goaltending,,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=437
 ,,,,,,,,,,4,3.00,Boston Celtics,shot,Terry,,,,,,,,,Bradley,2,,,made,,Layup,,,76-81,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=436
-,,,,,,,,,,4,2.46,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=438
+,,,,,,,,,,4,2.46,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,Terry,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=438
 ,,,,,,,,,,4,2.42,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Layup,,,76-81,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=439
 ,,,,,,,,,,4,2.41,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=440
 ,,,,,,,,,,4,2.40,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,76-81,2,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=441
@@ -396,11 +396,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.33,Boston Celtics,shot,Terry,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,79-81,26,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=443
 ,,,,,,,,,,4,2.15,Indiana Pacers,turnover,,,,,,,,,,West Poss,,,Lost Ball,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=444
 ,,,,,,,,,,4,2.09,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=445
-,,,,,,,,,,4,1.56,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Layup,,,79-81,3,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=447
+,,,,,,,,,,4,1.56,Boston Celtics,shot,,,Hibbert,,,,,,,Green,,,,missed,,Layup,,,79-81,3,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=447
 ,,,,,,,,,,4,1.54,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=448
 ,,,,,,,,,,4,1.39,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Jump Shot,,,79-81,9,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=449
 ,,,,,,,,,,4,1.39,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=450
-,,,,,,,,,,4,1.36,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=451
+,,,,,,,,,,4,1.36,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Pierce,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=451
 ,,,,,,,,,,4,1.21,Boston Celtics,shot,Garnett,,,,,,,,,Bradley,2,,,made,,Layup,,,81-81,1,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=452
 ,,,,,,,,,,4,1.07,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Jump Shot,,,81-81,17,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=453
 ,,,,,,,,,,4,1.06,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,81-81,,http://stats.nba.com/cvp.html?GameID=0021200901&GameEventID=454

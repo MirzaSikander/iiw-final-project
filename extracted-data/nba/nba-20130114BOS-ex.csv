@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.40,Boston Celtics,shot,Rondo,,,,,,,,,Bradley,2,,,made,,Driving Dunk,,,0-2,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=3
 ,,,,,,,,,,1,11.20,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=5
-,,,,,,,,,,1,11.08,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=6
+,,,,,,,,,,1,11.08,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,Henderson,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=6
 ,,,,,,,,,,1,11.02,Charlotte Bobcats,shot,Warrick,,,,,,,,,Kidd-Gilchrist,2,,,made,,Layup,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=7
 ,,,,,,,,,,1,10.48,Charlotte Bobcats,violation,,,,,,,,,,Biyombo,,,Defensive Goaltending,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=10
 ,,,,,,,,,,1,10.48,Boston Celtics,shot,Rondo,,,,,,,,,Pierce,2,,,made,,Layup,,,2-4,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=8
@@ -22,9 +22,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.41,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=26
 ,,,,,,,,,,1,8.20,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,2-11,24,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=27
 ,,,,,,,,,,1,8.19,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=28
-,,,,,,,,,,1,8.13,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,2-11,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=29
+,,,,,,,,,,1,8.13,Charlotte Bobcats,shot,,,Bass,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,2-11,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=29
 ,,,,,,,,,,1,8.12,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=30
-,,,,,,,,,,1,8.06,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Layup,,,2-11,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=31
+,,,,,,,,,,1,8.06,Charlotte Bobcats,shot,,,Garnett,,,,,,,Walker,,,,missed,,Layup,,,2-11,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=31
 ,,,,,,,,,,1,8.05,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=32
 ,,,,,,,,,,1,8.04,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Jump Shot,,,2-11,13,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=33
 ,,,,,,,,,,1,8.03,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=34
@@ -42,7 +42,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.42,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Traveling,,,,,,6-13,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=46
 ,,,,,,,,,,1,6.42,Boston Celtics,substitute,,,,Sullinger,,Garnett,,,,,,,,,,,,,6-13,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=47
 ,,,,,,,,,,1,6.42,Charlotte Bobcats,substitute,,,,Gordon,,Kidd-Gilchrist,,,,,,,,,,,,,6-13,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=48
-,,,,,,,,,,1,6.19,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,6-13,11,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=49
+,,,,,,,,,,1,6.19,Charlotte Bobcats,shot,,,Bradley,,,,,,,Walker,,,,missed,,Jump Shot,,,6-13,11,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=49
 ,,,,,,,,,,1,6.17,Boston Celtics,rebound,,,,,,,,,,Bradley,,,,,,,,,6-13,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=51
 ,,,,,,,,,,1,6.16,Boston Celtics,shot,Bradley,,,,,,,,,Rondo,2,,,made,,Layup,,,6-15,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=52
 ,,,,,,,,,,1,6.16,Charlotte Bobcats,foul,,,,,,,,,,Walker,,,,,,Shooting,,,6-15,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=53
@@ -54,7 +54,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.32,Boston Celtics,foul,,,,,,,,,,Sullinger,,,,,,Personal,,,8-19,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=62
 ,,,,,,,,,,1,5.19,Charlotte Bobcats,shot,,,,,,,,,,Warrick,2,,,made,,Dunk,,,10-19,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=63
 ,,,,,,,,,,1,5.03,Boston Celtics,shot,Pierce,,,,,,,,,Bass,2,,,made,,Jump Shot,,,10-21,16,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=64
-,,,,,,,,,,1,4.56,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Jump Shot,,,10-21,13,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=65
+,,,,,,,,,,1,4.56,Charlotte Bobcats,shot,,,Pierce,,,,,,,Gordon,,,,missed,,Jump Shot,,,10-21,13,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=65
 ,,,,,,,,,,1,4.55,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,10-21,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=66
 ,,,,,,,,,,1,4.49,Charlotte Bobcats,shot,,,,,,,,,,Gordon,2,,,made,,Jump Shot,,,12-21,21,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=67
 ,,,,,,,,,,1,4.27,Boston Celtics,shot,Pierce,,,,,,,,,Bass,2,,,made,,Jump Shot,,,12-23,15,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=68
@@ -91,8 +91,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.28,Charlotte Bobcats,substitute,,,,Adrien,,Henderson,,,,,,,,,,,,,15-25,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=102
 ,,,,,,,,,,1,1.28,Charlotte Bobcats,substitute,,,,Taylor,,Warrick,,,,,,,,,,,,,15-25,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=103
 ,,,,,,,,,,1,1.28,Boston Celtics,substitute,,,,Lee,,Rondo,,,,,,,,,,,,,15-25,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=104
-,,,,,,,,,,1,1.19,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,15-25,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=105
-,,,,,,,,,,1,1.05,Charlotte Bobcats,turnover,,,,,,,,,,Taylor,,,Bad Pass,,,,,,15-25,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=106
+,,,,,,,,,,1,1.19,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,Adrien,,,,15-25,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=105
+,,,,,,,,,,1,1.05,Charlotte Bobcats,turnover,,,,,,,,,,Taylor,,,Bad Pass,,Lee,,,,15-25,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=106
 ,,,,,,,,,,1,0.57,Boston Celtics,shot,Pierce,,,,,,,,,Collins,2,,,made,,Layup,,,15-27,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=107
 ,,,,,,,,,,1,0.57,Charlotte Bobcats,foul,,,,,,,,,,Taylor,,,,,,Shooting,,,15-27,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=108
 ,,,,,,,,,,1,0.57,Boston Celtics,substitute,,,,Garnett,,Pierce,,,,,,,,,,,,,15-27,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=109
@@ -116,7 +116,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.04,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=134
 ,,,,,,,,,,2,11.01,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Jump Shot,,,18-30,17,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=136
 ,,,,,,,,,,2,11.00,Charlotte Bobcats,rebound,,,,,,,,,,Adrien,,,,,,,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=137
-,,,,,,,,,,2,10.38,Charlotte Bobcats,turnover,,,,,,,,,,Haywood,,,Lost Ball,,,,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=139
+,,,,,,,,,,2,10.38,Charlotte Bobcats,turnover,,,,,,,,,,Haywood,,,Lost Ball,,Garnett,,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=139
 ,,,,,,,,,,2,10.32,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,18-30,16,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=140
 ,,,,,,,,,,2,10.30,Charlotte Bobcats,rebound,,,,,,,,,,Gordon,,,,,,,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=141
 ,,,,,,,,,,2,10.25,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,18-30,27,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=142
@@ -129,7 +129,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.44,Charlotte Bobcats,shot,Walker,,,,,,,,,Warrick,2,,,made,,Jump Shot,,,20-32,17,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=151
 ,,,,,,,,,,2,9.28,Boston Celtics,shot,Terry,,,,,,,,,Sullinger,2,,,made,,Jump Shot,,,20-34,17,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=152
 ,,,,,,,,,,2,9.09,Charlotte Bobcats,shot,Sessions,,,,,,,,,Walker,3,,,made,,3PT Jump Shot,,,23-34,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=153
-,,,,,,,,,,2,9.00,Boston Celtics,turnover,,,,,,,,,,Sullinger,,,Bad Pass,,,,,,23-34,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=154
+,,,,,,,,,,2,9.00,Boston Celtics,turnover,,,,,,,,,,Sullinger,,,Bad Pass,,Walker,,,,23-34,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=154
 ,,,,,,,,,,2,8.59,Boston Celtics,foul,,,,,,,,,,Terry,,,,,,clear path,,,23-34,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=155
 ,,,,,,,,,,2,8.59,Charlotte Bobcats,free throw,,,,,,,,,,Walker,1,,foul,made,,,,,24-34,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=157
 ,,,,,,,,,,2,8.59,Charlotte Bobcats,free throw,,,,,,,,,,Walker,1,,foul,made,,,,,25-34,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=159
@@ -162,7 +162,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.28,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,32-42,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=195
 ,,,,,,,,,,2,6.02,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,32-42,25,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=197
 ,,,,,,,,,,2,6.00,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,32-42,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=198
-,,,,,,,,,,2,5.56,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Layup,,,32-42,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=199
+,,,,,,,,,,2,5.56,Boston Celtics,shot,,,Sessions,,,,,,,Green,,,,missed,,Layup,,,32-42,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=199
 ,,,,,,,,,,2,5.55,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,32-42,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=200
 ,,,,,,,,,,2,5.55,Charlotte Bobcats,substitute,,,,Biyombo,,Haywood,,,,,,,,,,,,,32-42,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=203
 ,,,,,,,,,,2,5.55,Charlotte Bobcats,substitute,,,,Gordon,,Sessions,,,,,,,,,,,,,32-42,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=204
@@ -177,12 +177,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.40,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,32-44,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=215
 ,,,,,,,,,,2,5.27,Charlotte Bobcats,foul,,,,,,,,,,,,,,,,,,,32-44,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=217
 ,,,,,,,,,,2,5.27,Charlotte Bobcats,turnover,,,,,,,,,,Gordon,,,Foul,,,,,,32-44,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=218
-,,,,,,,,,,2,5.09,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,32-44,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=219
+,,,,,,,,,,2,5.09,Boston Celtics,shot,,,Biyombo,,,,,,,Pierce,,,,missed,,Layup,,,32-44,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=219
 ,,,,,,,,,,2,5.07,Boston Celtics,rebound,,,,,,,,,,Collins,,,,,,,,,32-44,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=220
 ,,,,,,,,,,2,5.02,Boston Celtics,shot,Collins,,,,,,,,,Bradley,3,,,made,,3PT Jump Shot,,,32-47,24,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=221
 ,,,,,,,,,,2,4.51,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,32-47,16,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=222
 ,,,,,,,,,,2,4.50,Boston Celtics,rebound,,,,,,,,,,Collins,,,,,,,,,32-47,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=223
-,,,,,,,,,,2,4.42,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,32-47,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=224
+,,,,,,,,,,2,4.42,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Henderson,,,,32-47,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=224
 ,,,,,,,,,,2,4.36,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Layup,,,32-47,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=225
 ,,,,,,,,,,2,4.34,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,32-47,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=226
 ,,,,,,,,,,2,4.32,Boston Celtics,shot,Rondo,,,,,,,,,Pierce,2,,,made,,Layup,,,32-49,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=227
@@ -200,7 +200,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.58,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,36-50,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=241
 ,,,,,,,,,,2,3.58,Charlotte Bobcats,substitute,,,,Adrien,,Taylor,,,,,,,,,,,,,36-50,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=242
 ,,,,,,,,,,2,3.58,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,36-51,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=243
-,,,,,,,,,,2,3.42,Charlotte Bobcats,turnover,,,,,,,,,,Gordon,,,Lost Ball,,,,,,36-51,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=246
+,,,,,,,,,,2,3.42,Charlotte Bobcats,turnover,,,,,,,,,,Gordon,,,Lost Ball,,Green,,,,36-51,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=246
 ,,,,,,,,,,2,3.42,Boston Celtics,jumpball,,Gordon,,,Green,,,,,,,,,,,,,,36-51,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=245
 ,,,,,,,,,,2,3.28,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Step Back Jump Shot,,,36-51,11,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=247
 ,,,,,,,,,,2,3.28,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,36-51,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=248
@@ -223,7 +223,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.35,Charlotte Bobcats,shot,,,,,,,,,,Sessions,3,,,made,,3PT Jump Shot,,,41-51,27,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=268
 ,,,,,,,,,,2,1.29,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,41-51,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=269
 ,,,,,,,,,,2,1.18,Boston Celtics,shot,Garnett,,,,,,,,,Bradley,3,,,made,,3PT Jump Shot,,,41-54,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=271
-,,,,,,,,,,2,1.11,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,41-54,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=272
+,,,,,,,,,,2,1.11,Charlotte Bobcats,shot,,,Bradley,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,41-54,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=272
 ,,,,,,,,,,2,1.09,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,41-54,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=273
 ,,,,,,,,,,2,1.01,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,3PT Jump Shot,,,41-54,25,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=274
 ,,,,,,,,,,2,1.00,Charlotte Bobcats,rebound,,,,,,,,,,Adrien,,,,,,,,,41-54,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=275
@@ -271,28 +271,28 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.56,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=333
 ,,,,,,,,,,3,8.44,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Jump Shot,,,54-58,21,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=334
 ,,,,,,,,,,3,8.35,Charlotte Bobcats,shot,Warrick,,,,,,,,,Henderson,2,,,made,,Reverse Layup,,,56-58,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=335
-,,,,,,,,,,3,8.20,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=337
+,,,,,,,,,,3,8.20,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,Warrick,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=337
 ,,,,,,,,,,3,8.16,Charlotte Bobcats,shot,Warrick,,,,,,,,,Kidd-Gilchrist,2,,,made,,Dunk,,,58-58,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=338
 ,,,,,,,,,,3,7.54,Charlotte Bobcats,foul,,,,,,,,,,Henderson,,,,,,Personal,,,58-58,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=340
 ,,,,,,,,,,3,7.48,Charlotte Bobcats,foul,,,,,,,,,,Henderson,,,,,,Shooting,,,58-58,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=341
 ,,,,,,,,,,3,7.48,Boston Celtics,free throw,,,,,,,1,,2,Garnett,1,,foul,made,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=342
 ,,,,,,,,,,3,7.48,Boston Celtics,free throw,,,,,,,2,,2,Garnett,1,,foul,made,,,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=345
 ,,,,,,,,,,3,7.37,Charlotte Bobcats,turnover,,,,,,,,,,Biyombo,,,Offensive Goaltending,,,,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=348
-,,,,,,,,,,3,7.17,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Layup,,,58-60,3,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=350
+,,,,,,,,,,3,7.17,Boston Celtics,shot,,,Biyombo,,,,,,,Rondo,,,,missed,,Layup,,,58-60,3,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=350
 ,,,,,,,,,,3,7.15,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=351
 ,,,,,,,,,,3,7.11,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,58-60,3,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=352
 ,,,,,,,,,,3,7.10,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=353
 ,,,,,,,,,,3,7.10,Boston Celtics,substitute,,,,Sullinger,,Garnett,,,,,,,,,,,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=354
 ,,,,,,,,,,3,6.52,Boston Celtics,shot,Pierce,,,,,,,,,Sullinger,2,,,made,,Hook Shot,,,58-62,4,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=355
-,,,,,,,,,,3,6.39,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,58-62,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=357
+,,,,,,,,,,3,6.39,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,Bass,,,,58-62,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=357
 ,,,,,,,,,,3,6.29,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,58-62,26,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=358
 ,,,,,,,,,,3,6.28,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,58-62,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=359
 ,,,,,,,,,,3,6.17,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Step Out of Bounds,,,,,,58-62,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=360
 ,,,,,,,,,,3,6.11,Boston Celtics,shot,Rondo,,,,,,,,,Bradley,3,,,made,,3PT Jump Shot,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=361
 ,,,,,,,,,,3,6.10,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=362
 ,,,,,,,,,,3,5.52,Charlotte Bobcats,shot,,,,,,,,,,Warrick,2,,,made,,Jump Shot,,,60-65,14,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=367
-,,,,,,,,,,3,5.24,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,,,,,60-65,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=368
-,,,,,,,,,,3,5.17,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Lost Ball,,,,,,60-65,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=369
+,,,,,,,,,,3,5.24,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,Warrick,,,,60-65,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=368
+,,,,,,,,,,3,5.17,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Lost Ball,,Pierce,,,,60-65,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=369
 ,,,,,,,,,,3,5.04,Boston Celtics,shot,Rondo,,,,,,,,,Pierce,2,,,made,,Dunk,,,60-67,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=371
 ,,,,,,,,,,3,4.41,Charlotte Bobcats,foul,,,,,,,,,,Walker,,,,,,Offensive Charge,,,60-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=372
 ,,,,,,,,,,3,4.41,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Foul,,,,,,60-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=373
@@ -300,12 +300,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.41,Charlotte Bobcats,substitute,,,,Sessions,,Walker,,,,,,,,,,,,,60-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=375
 ,,,,,,,,,,3,4.41,Charlotte Bobcats,substitute,,,,Haywood,,Biyombo,,,,,,,,,,,,,60-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=376
 ,,,,,,,,,,3,4.41,Charlotte Bobcats,substitute,,,,Taylor,,Henderson,,,,,,,,,,,,,60-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=377
-,,,,,,,,,,3,4.23,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Layup,,,60-67,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=379
+,,,,,,,,,,3,4.23,Boston Celtics,shot,,,Haywood,,,,,,,Bass,,,,missed,,Layup,,,60-67,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=379
 ,,,,,,,,,,3,4.21,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,60-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=380
 ,,,,,,,,,,3,4.19,Charlotte Bobcats,shot,Sessions,,,,,,,,,Taylor,2,,,made,,Slam Dunk,,,62-67,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=381
 ,,,,,,,,,,3,3.56,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,62-67,25,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=382
 ,,,,,,,,,,3,3.55,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=383
-,,,,,,,,,,3,3.34,Charlotte Bobcats,shot,,,,,,,,,,Warrick,,,,missed,,Jump Shot,,,62-67,15,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=384
+,,,,,,,,,,3,3.34,Charlotte Bobcats,shot,,,Bass,,,,,,,Warrick,,,,missed,,Jump Shot,,,62-67,15,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=384
 ,,,,,,,,,,3,3.33,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=385
 ,,,,,,,,,,3,3.32,Charlotte Bobcats,foul,,,,,,,,,,Sessions,,,,,,Personal,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=386
 ,,,,,,,,,,3,3.32,Charlotte Bobcats,substitute,,,,Gordon,,Kidd-Gilchrist,,,,,,,,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=387
@@ -327,7 +327,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.55,Charlotte Bobcats,rebound,,,,,,,,,,Warrick,,,,,,,,,65-72,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=405
 ,,,,,,,,,,3,1.34,Charlotte Bobcats,shot,Haywood,,,,,,,,,Taylor,3,,,made,,3PT Jump Shot,,,68-72,26,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=406
 ,,,,,,,,,,3,1.14,Boston Celtics,shot,Green,,,,,,,,,Lee,2,,,made,,Running Layup,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=407
-,,,,,,,,,,3,0.59,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,,,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=408
+,,,,,,,,,,3,0.59,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,Terry,,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=408
 ,,,,,,,,,,3,0.58,Charlotte Bobcats,foul,,,,,,,,,,Warrick,,,,,,Personal,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=409
 ,,,,,,,,,,3,0.58,Boston Celtics,substitute,,,,Garnett,,Rondo,,,,,,,,,,,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=410
 ,,,,,,,,,,3,0.58,Charlotte Bobcats,substitute,,,,Adrien,,Warrick,,,,,,,,,,,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=411
@@ -337,7 +337,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.02,Boston Celtics,shot,Terry,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,70-76,20,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=415
 ,,,,,,,,,,3,0.00,Charlotte Bobcats,shot,,,,,,,,,,Haywood,,,,missed,,3PT Jump Shot,,,70-76,31,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=416
 ,,,,,,,,,,3,0.00,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,70-76,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=417
-,,,,,,,,,,4,11.44,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,70-76,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=421
+,,,,,,,,,,4,11.44,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Taylor,,,,70-76,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=421
 ,,,,,,,,,,4,11.38,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Layup,,,70-76,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=422
 ,,,,,,,,,,4,11.37,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,70-76,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=423
 ,,,,,,,,,,4,11.32,Boston Celtics,shot,Green,,,,,,,,,Sullinger,2,,,made,,Dunk,,,70-78,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=424
@@ -368,7 +368,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.48,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Jump Shot,,,74-82,18,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=452
 ,,,,,,,,,,4,7.37,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,74-82,12,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=453
 ,,,,,,,,,,4,7.36,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=454
-,,,,,,,,,,4,7.35,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=455
+,,,,,,,,,,4,7.35,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,Taylor,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=455
 ,,,,,,,,,,4,7.18,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=456
 ,,,,,,,,,,4,7.17,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=457
 ,,,,,,,,,,4,7.13,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=458
@@ -377,7 +377,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.02,Charlotte Bobcats,substitute,,,,Biyombo,,Haywood,,,,,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=461
 ,,,,,,,,,,4,7.02,Charlotte Bobcats,substitute,,,,Walker,,Sessions,,,,,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=462
 ,,,,,,,,,,4,7.02,Charlotte Bobcats,substitute,,,,Henderson,,Taylor,,,,,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=463
-,,,,,,,,,,4,6.50,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,74-82,3,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=464
+,,,,,,,,,,4,6.50,Charlotte Bobcats,shot,,,Sullinger,,,,,,,Walker,,,,missed,,Jump Shot,,,74-82,3,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=464
 ,,,,,,,,,,4,6.48,Charlotte Bobcats,rebound,,,,,,,,,,Warrick,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=465
 ,,,,,,,,,,4,6.43,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,3PT Jump Shot,,,74-82,24,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=466
 ,,,,,,,,,,4,6.42,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=467
@@ -395,7 +395,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.34,Charlotte Bobcats,shot,,,,,,,,,,Henderson,2,,,made,,Pullup Jump Shot,,,79-89,11,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=480
 ,,,,,,,,,,4,4.12,Boston Celtics,shot,,,,,,,,,,Barbosa,,,,missed,,Layup,,,79-89,2,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=481
 ,,,,,,,,,,4,4.11,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,79-89,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=482
-,,,,,,,,,,4,4.09,Charlotte Bobcats,shot,,,,,,,,,,Warrick,,,,missed,,Layup,,,79-89,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=483
+,,,,,,,,,,4,4.09,Charlotte Bobcats,shot,,,Lee,,,,,,,Warrick,,,,missed,,Layup,,,79-89,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=483
 ,,,,,,,,,,4,4.08,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,79-89,,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=484
 ,,,,,,,,,,4,4.06,Charlotte Bobcats,shot,Walker,,,,,,,,,Henderson,2,,,made,,Slam Dunk,,,81-89,1,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=485
 ,,,,,,,,,,4,3.48,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Jump Shot,,,81-89,4,http://stats.nba.com/cvp.html?GameID=0021200557&GameEventID=486

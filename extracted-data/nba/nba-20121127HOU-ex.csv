@@ -1,5 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.45,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=2
+,,,,,,,,,,1,11.45,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Lin,,,,,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=2
 ,,,,,,,,,,1,11.25,Houston Rockets,shot,Lin,,,,,,,,,Asik,2,,,made,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=4
 ,,,,,,,,,,1,11.08,Houston Rockets,violation,,,,,,,,,,Patterson,,,Kicked Ball,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=5
 ,,,,,,,,,,1,10.59,Toronto Raptors,shot,Lowry,,,,,,,,,DeRozan,2,,,made,,Jump Shot,,,2-2,21,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=6
@@ -10,7 +10,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.32,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Pullup Jump Shot,,,2-2,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=11
 ,,,,,,,,,,1,10.30,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=12
 ,,,,,,,,,,1,10.21,Houston Rockets,foul,,,,,,,,,,Patterson,,,,,,Personal,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=13
-,,,,,,,,,,1,10.12,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=14
+,,,,,,,,,,1,10.12,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,Asik,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=14
 ,,,,,,,,,,1,10.07,Houston Rockets,shot,Asik,,,,,,,,,Lin,2,,,made,,Layup,,,2-4,2,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=15
 ,,,,,,,,,,1,9.47,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Turnaround Jump Shot,,,2-4,12,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=16
 ,,,,,,,,,,1,9.45,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=17
@@ -48,7 +48,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.19,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=54
 ,,,,,,,,,,1,6.19,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Tip Shot,,,9-10,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=53
 ,,,,,,,,,,1,6.17,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=55
-,,,,,,,,,,1,6.16,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Reverse Layup,,,9-10,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=56
+,,,,,,,,,,1,6.16,Houston Rockets,shot,,,Valanciunas,,,,,,,Asik,,,,missed,,Reverse Layup,,,9-10,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=56
 ,,,,,,,,,,1,6.13,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=57
 ,,,,,,,,,,1,6.03,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Traveling,,,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=58
 ,,,,,,,,,,1,5.42,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Pullup Jump Shot,,,9-12,16,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=59
@@ -74,9 +74,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.01,Toronto Raptors,free throw,,,,,,,1,,2,Valanciunas,1,,foul,made,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=82
 ,,,,,,,,,,1,3.01,Toronto Raptors,free throw,,,,,,,2,,2,Valanciunas,,,foul,missed,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=84
 ,,,,,,,,,,1,3.00,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=86
-,,,,,,,,,,1,2.43,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=87
+,,,,,,,,,,1,2.43,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Morris,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=87
 ,,,,,,,,,,1,2.39,Houston Rockets,shot,Parsons,,,,,,,,,Harden,2,,,made,,Layup,,,16-22,2,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=88
-,,,,,,,,,,1,2.28,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,16-22,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=89
+,,,,,,,,,,1,2.28,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Lin,,,,16-22,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=89
 ,,,,,,,,,,1,2.18,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,16-22,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=90
 ,,,,,,,,,,1,2.17,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,16-22,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=92
 ,,,,,,,,,,1,2.17,Houston Rockets,shot,,,,,,,,,,Morris,2,,,made,,Putback Layup,,,16-24,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=91
@@ -90,7 +90,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.12,Houston Rockets,substitute,,,,Douglas,,Lin,,,,,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=101
 ,,,,,,,,,,1,0.58,Toronto Raptors,shot,,,,,,,,,,Calderon,,,,missed,,3PT Jump Shot,,,21-27,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=102
 ,,,,,,,,,,1,0.57,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=103
-,,,,,,,,,,1,0.43,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,21-27,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=104
+,,,,,,,,,,1,0.43,Houston Rockets,shot,,,Davis,,,,,,,Parsons,,,,missed,,Layup,,,21-27,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=104
 ,,,,,,,,,,1,0.41,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=105
 ,,,,,,,,,,1,0.40,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,21-27,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=106
 ,,,,,,,,,,1,0.40,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=108
@@ -110,7 +110,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.39,Toronto Raptors,shot,Johnson,,,,,,,,,Davis,2,,,made,,Dunk,,,28-32,2,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=126
 ,,,,,,,,,,2,10.24,Houston Rockets,shot,,,,,,,,,,Douglas,,,,missed,,3PT Jump Shot,,,28-32,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=127
 ,,,,,,,,,,2,10.22,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,28-32,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=128
-,,,,,,,,,,2,10.02,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,28-32,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=129
+,,,,,,,,,,2,10.02,Toronto Raptors,shot,,,Harden,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,28-32,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=129
 ,,,,,,,,,,2,10.01,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,28-32,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=130
 ,,,,,,,,,,2,10.01,Toronto Raptors,shot,,,,,,,,,,Johnson,2,,,made,,Jump Shot,,,30-32,5,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=131
 ,,,,,,,,,,2,10.01,Houston Rockets,foul,,,,,,,,,,Morris,,,,,,Shooting,,,30-32,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=132
@@ -168,7 +168,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.45,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=193
 ,,,,,,,,,,2,3.36,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,42-50,5,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=194
 ,,,,,,,,,,2,3.35,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=195
-,,,,,,,,,,2,3.32,Toronto Raptors,turnover,,,,,,,,,,Ross,,,Lost Ball,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=196
+,,,,,,,,,,2,3.32,Toronto Raptors,turnover,,,,,,,,,,Ross,,,Lost Ball,,Harden,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=196
 ,,,,,,,,,,2,3.26,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,42-50,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=197
 ,,,,,,,,,,2,3.24,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=198
 ,,,,,,,,,,2,3.09,Toronto Raptors,shot,,,,,,,,,,Calderon,,,,missed,,3PT Jump Shot,,,42-50,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=199
@@ -178,8 +178,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.51,Toronto Raptors,substitute,,,,DeRozan,,Calderon,,,,,,,,,,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=204
 ,,,,,,,,,,2,2.51,Houston Rockets,substitute,,,,Parsons,,Cook,,,,,,,,,,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=205
 ,,,,,,,,,,2,2.38,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Turnaround Jump Shot,,,44-52,12,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=206
-,,,,,,,,,,2,2.24,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=207
-,,,,,,,,,,2,2.16,Toronto Raptors,turnover,,,,,,,,,,Bargnani,,,Bad Pass,,,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=208
+,,,,,,,,,,2,2.24,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,DeRozan,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=207
+,,,,,,,,,,2,2.16,Toronto Raptors,turnover,,,,,,,,,,Bargnani,,,Bad Pass,,Harden,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=208
 ,,,,,,,,,,2,2.11,Houston Rockets,shot,Harden,,,,,,,,,Parsons,2,,,made,,Layup,,,44-54,3,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=209
 ,,,,,,,,,,2,1.48,Toronto Raptors,shot,DeRozan,,,,,,,,,Bargnani,3,,,made,,3PT Jump Shot,,,47-54,26,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=210
 ,,,,,,,,,,2,1.34,Houston Rockets,shot,Harden,,,,,,,,,Patterson,2,,,made,,Jump Shot,,,47-56,17,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=211
@@ -211,7 +211,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.04,Toronto Raptors,free throw,,,,,,,2,,2,DeRozan,1,,foul,made,,,,,55-68,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=241
 ,,,,,,,,,,3,9.49,Houston Rockets,shot,,,,,,,,,,Patterson,,,,missed,,Jump Shot,,,55-68,10,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=243
 ,,,,,,,,,,3,9.48,Toronto Raptors,rebound,,,,,,,,,,McGuire,,,,,,,,,55-68,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=244
-,,,,,,,,,,3,9.28,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,55-68,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=245
+,,,,,,,,,,3,9.28,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Parsons,,,,55-68,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=245
 ,,,,,,,,,,3,9.24,Houston Rockets,shot,Lin,,,,,,,,,Harden,2,,,made,,Dunk,,,55-70,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=246
 ,,,,,,,,,,3,9.18,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,55-70,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=247
 ,,,,,,,,,,3,9.18,Toronto Raptors,substitute,,,,Ross,,McGuire,,,,,,,,,,,,,55-70,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=250
@@ -221,7 +221,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.36,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Turnaround Jump Shot,,,55-73,7,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=254
 ,,,,,,,,,,3,8.34,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,55-73,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=255
 ,,,,,,,,,,3,8.24,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Traveling,,,,,,55-73,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=256
-,,,,,,,,,,3,8.14,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,55-73,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=257
+,,,,,,,,,,3,8.14,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Patterson,,,,55-73,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=257
 ,,,,,,,,,,3,8.10,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Shooting,,,55-73,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=258
 ,,,,,,,,,,3,8.10,Houston Rockets,free throw,,,,,,,1,,2,Patterson,1,,foul,made,,,,,55-74,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=259
 ,,,,,,,,,,3,8.10,Houston Rockets,free throw,,,,,,,2,,2,Patterson,1,,foul,made,,,,,55-75,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=261
@@ -233,7 +233,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.25,Toronto Raptors,shot,,,,,,,,,,Lowry,2,,,made,,Driving Layup,,,57-78,2,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=268
 ,,,,,,,,,,3,7.25,Houston Rockets,foul,,,,,,,,,,Asik,,,,,,Shooting,,,57-78,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=269
 ,,,,,,,,,,3,7.25,Toronto Raptors,free throw,,,,,,,1,,1,Lowry,1,,foul,made,,,,,58-78,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=270
-,,,,,,,,,,3,7.06,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,,,,,58-78,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=272
+,,,,,,,,,,3,7.06,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,Lowry,,,,58-78,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=272
 ,,,,,,,,,,3,7.01,Toronto Raptors,shot,Lowry,,,,,,,,,Ross,2,,,made,,Driving Slam Dunk,,,60-78,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=273
 ,,,,,,,,,,3,6.50,Houston Rockets,shot,,,,,,,,,,Patterson,3,,,made,,3PT Jump Shot,,,60-81,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=274
 ,,,,,,,,,,3,6.34,Toronto Raptors,shot,Valanciunas,,,,,,,,,Lowry,2,,,made,,Layup,,,62-81,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=275
@@ -288,7 +288,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.43,Toronto Raptors,shot,,,,,,,,,,Calderon,,,,missed,,Jump Shot,,,69-96,20,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=343
 ,,,,,,,,,,3,1.42,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,69-96,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=344
 ,,,,,,,,,,3,1.38,Toronto Raptors,shot,Johnson,,,,,,,,,Calderon,3,,,made,,3PT Jump Shot,,,72-96,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=345
-,,,,,,,,,,3,1.17,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,72-96,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=346
+,,,,,,,,,,3,1.17,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,DeRozan,,,,72-96,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=346
 ,,,,,,,,,,3,1.14,Houston Rockets,foul,,,,,,,,,,Cook,,,,,,Shooting,,,72-96,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=347
 ,,,,,,,,,,3,1.14,Toronto Raptors,free throw,,,,,,,1,,2,Davis,1,,foul,made,,,,,73-96,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=348
 ,,,,,,,,,,3,1.14,Toronto Raptors,free throw,,,,,,,2,,2,Davis,1,,foul,made,,,,,74-96,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=350
@@ -313,10 +313,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.31,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,83-100,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=376
 ,,,,,,,,,,4,10.16,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,Pullup Jump Shot,,,83-100,20,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=377
 ,,,,,,,,,,4,10.13,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,83-100,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=378
-,,,,,,,,,,4,9.59,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,83-100,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=379
+,,,,,,,,,,4,9.59,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Davis,,,,83-100,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=379
 ,,,,,,,,,,4,9.55,Toronto Raptors,shot,,,,,,,,,,Ross,2,,,made,,Dunk,,,85-100,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=380
 ,,,,,,,,,,4,9.55,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,85-100,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=382
-,,,,,,,,,,4,9.37,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,,,,,85-100,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=386
+,,,,,,,,,,4,9.37,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,Johnson,,,,85-100,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=386
 ,,,,,,,,,,4,9.18,Toronto Raptors,shot,,,,,,,,,,Lucas III,,,,missed,,Pullup Jump Shot,,,85-100,19,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=387
 ,,,,,,,,,,4,9.15,Toronto Raptors,rebound,,,,,,,,,,Davis,,,,,,,,,85-100,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=388
 ,,,,,,,,,,4,9.04,Toronto Raptors,shot,,,,,,,,,,Lucas III,,,,missed,,3PT Jump Shot,,,85-100,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=389
@@ -325,7 +325,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.45,Houston Rockets,shot,,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,85-103,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=393
 ,,,,,,,,,,4,8.22,Toronto Raptors,shot,,,,,,,,,,Calderon,,,,missed,,3PT Jump Shot,,,85-103,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=394
 ,,,,,,,,,,4,8.20,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,85-103,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=395
-,,,,,,,,,,4,8.15,Toronto Raptors,turnover,,,,,,,,,,Davis,,,Lost Ball,,,,,,85-103,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=396
+,,,,,,,,,,4,8.15,Toronto Raptors,turnover,,,,,,,,,,Davis,,,Lost Ball,,Asik,,,,85-103,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=396
 ,,,,,,,,,,4,8.10,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,85-103,3,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=397
 ,,,,,,,,,,4,8.06,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,85-103,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=398
 ,,,,,,,,,,4,7.57,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,85-103,25,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=399
@@ -343,7 +343,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.18,Toronto Raptors,foul,,,,,,,,,,Davis,,,,,,Personal,,,90-107,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=413
 ,,,,,,,,,,4,6.18,Toronto Raptors,substitute,,,,Lowry,,Calderon,,,,,,,,,,,,,90-107,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=414
 ,,,,,,,,,,4,6.18,Toronto Raptors,substitute,,,,Bargnani,,Davis,,,,,,,,,,,,,90-107,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=415
-,,,,,,,,,,4,6.05,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Lost Ball,,,,,,90-107,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=416
+,,,,,,,,,,4,6.05,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Lost Ball,,Bargnani,,,,90-107,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=416
 ,,,,,,,,,,4,6.01,Toronto Raptors,shot,Lucas III,,,,,,,,,Ross,2,,,made,,Dunk,,,92-107,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=417
 ,,,,,,,,,,4,5.31,Houston Rockets,shot,,,,,,,,,,Patterson,,,,missed,,Jump Shot,,,92-107,6,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=418
 ,,,,,,,,,,4,5.29,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,92-107,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=419
@@ -351,7 +351,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.16,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,92-107,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=421
 ,,,,,,,,,,4,5.14,Toronto Raptors,shot,,,,,,,,,,Valanciunas,2,,,made,,Turnaround Hook Shot,,,94-107,3,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=422
 ,,,,,,,,,,4,4.47,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Driving Layup,,,94-109,4,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=424
-,,,,,,,,,,4,4.41,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,,,,,94-109,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=425
+,,,,,,,,,,4,4.41,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,Harden,,,,94-109,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=425
 ,,,,,,,,,,4,4.27,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Pullup Jump Shot,,,94-109,19,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=426
 ,,,,,,,,,,4,4.25,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,94-109,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=427
 ,,,,,,,,,,4,4.19,Toronto Raptors,shot,Lowry,,,,,,,,,Valanciunas,2,,,made,,Layup,,,96-109,3,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=428
@@ -375,7 +375,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.27,Houston Rockets,foul,,,,,,,,,,,,,,,,,,,99-112,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=452
 ,,,,,,,,,,4,2.27,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Foul,,,,,,99-112,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=453
 ,,,,,,,,,,4,2.27,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,99-112,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=454
-,,,,,,,,,,4,2.17,Toronto Raptors,turnover,,,,,,,,,,Bargnani,,,Lost Ball,,,,,,99-112,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=458
+,,,,,,,,,,4,2.17,Toronto Raptors,turnover,,,,,,,,,,Bargnani,,,Lost Ball,,Lin,,,,99-112,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=458
 ,,,,,,,,,,4,2.13,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Dunk,,,99-114,1,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=459
 ,,,,,,,,,,4,1.55,Toronto Raptors,shot,,,,,,,,,,Valanciunas,,,,missed,,Hook Shot,,,99-114,4,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=460
 ,,,,,,,,,,4,1.53,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,99-114,,http://stats.nba.com/cvp.html?GameID=0021200206&GameEventID=461

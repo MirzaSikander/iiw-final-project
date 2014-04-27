@@ -8,7 +8,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.32,Toronto Raptors,shot,Gay,,,,,,,,,DeRozan,2,,,made,,Jump Shot,,,4-2,17,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=8
 ,,,,,,,,,,1,10.19,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,Jump Shot,,,4-2,19,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=9
 ,,,,,,,,,,1,10.17,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=10
-,,,,,,,,,,1,10.10,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=11
+,,,,,,,,,,1,10.10,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Pekovic,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=11
 ,,,,,,,,,,1,10.07,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Kirilenko,2,,,made,,Dunk,,,4-4,2,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=12
 ,,,,,,,,,,1,9.52,Minnesota Timberwolves,foul,,,,,,,,,,Kirilenko,,,,,,Shooting,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=13
 ,,,,,,,,,,1,9.52,Toronto Raptors,free throw,,,,,,,1,,2,Valanciunas,1,,foul,made,,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=14
@@ -38,7 +38,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.55,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=44
 ,,,,,,,,,,1,6.48,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Alley Oop Layup,,,11-13,2,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=45
 ,,,,,,,,,,1,6.47,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=47
-,,,,,,,,,,1,6.42,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=48
+,,,,,,,,,,1,6.42,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Bad Pass,,Kirilenko,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=48
 ,,,,,,,,,,1,6.36,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,2,,,made,,Dunk,,,11-15,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=49
 ,,,,,,,,,,1,6.30,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,11-15,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=50
 ,,,,,,,,,,1,6.13,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Step Back Jump Shot,,,11-15,18,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=52
@@ -60,7 +60,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.26,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Foul,,,,,,13-19,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=72
 ,,,,,,,,,,1,4.07,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,2,,,made,,Fadeaway Jumper,,,13-21,14,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=73
 ,,,,,,,,,,1,3.54,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Personal,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=74
-,,,,,,,,,,1,3.40,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,13-21,21,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=75
+,,,,,,,,,,1,3.40,Toronto Raptors,shot,,,Kirilenko,,,,,,,Anderson,,,,missed,,Jump Shot,,,13-21,21,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=75
 ,,,,,,,,,,1,3.39,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=76
 ,,,,,,,,,,1,3.39,Toronto Raptors,turnover,,,,,,,,,,,,,Shot Clock,,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=77
 ,,,,,,,,,,1,3.28,Toronto Raptors,foul,,,,,,,,,,Gray,,,,,,Personal,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=78
@@ -73,11 +73,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.06,Minnesota Timberwolves,substitute,,,,Budinger,,Ridnour,,,,,,,,,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=86
 ,,,,,,,,,,1,3.06,Toronto Raptors,free throw,,,,,,,2,,2,Gray,,,foul,missed,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=87
 ,,,,,,,,,,1,3.06,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=89
-,,,,,,,,,,1,2.52,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Layup,,,13-21,3,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=90
+,,,,,,,,,,1,2.52,Minnesota Timberwolves,shot,,,Johnson,,,,,,,Williams,,,,missed,,Layup,,,13-21,3,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=90
 ,,,,,,,,,,1,2.50,Toronto Raptors,rebound,,,,,,,,,,Anderson,,,,,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=91
 ,,,,,,,,,,1,2.46,Toronto Raptors,shot,,,,,,,,,,Anderson,2,,,made,,Driving Layup,,,15-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=92
-,,,,,,,,,,1,2.38,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Lost Ball,,,,,,15-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=93
-,,,,,,,,,,1,2.33,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Lost Ball,,,,,,15-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=94
+,,,,,,,,,,1,2.38,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Lost Ball,,Anderson,,,,15-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=93
+,,,,,,,,,,1,2.33,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Lost Ball,,Rubio,,,,15-21,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=94
 ,,,,,,,,,,1,2.29,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Kirilenko,2,,,made,,Layup,,,15-23,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=95
 ,,,,,,,,,,1,2.16,Toronto Raptors,shot,,,,,,,,,,Gray,,,,missed,,Layup,,,15-23,2,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=96
 ,,,,,,,,,,1,2.15,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,15-23,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=97
@@ -118,27 +118,27 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.01,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Step Back Jump Shot,,,22-28,14,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=138
 ,,,,,,,,,,2,10.00,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,22-28,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=139
 ,,,,,,,,,,2,9.47,Minnesota Timberwolves,shot,Cunningham,,,,,,,,,Budinger,2,,,made,,Jump Shot,,,22-30,20,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=140
-,,,,,,,,,,2,9.26,Toronto Raptors,turnover,,,,,,,,,,Acy,,,Bad Pass,,,,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=141
+,,,,,,,,,,2,9.26,Toronto Raptors,turnover,,,,,,,,,,Acy,,,Bad Pass,,Cunningham,,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=141
 ,,,,,,,,,,2,9.14,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,Running Layup,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=142
 ,,,,,,,,,,2,9.13,Toronto Raptors,rebound,,,,,,,,,,Gray,,,,,,,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=143
 ,,,,,,,,,,2,8.52,Toronto Raptors,shot,,,,,,,,,,Telfair,,,,missed,,Running Jump Shot,,,22-30,6,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=144
 ,,,,,,,,,,2,8.51,Minnesota Timberwolves,rebound,,,,,,,,,,Stiemsma,,,,,,,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=145
-,,,,,,,,,,2,8.47,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Lost Ball,,,,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=146
+,,,,,,,,,,2,8.47,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Lost Ball,,Acy,,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=146
 ,,,,,,,,,,2,8.32,Toronto Raptors,shot,Anderson,,,,,,,,,Ross,3,,,made,,3PT Jump Shot,,,25-30,26,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=147
 ,,,,,,,,,,2,8.03,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Jump Shot,,,25-30,30,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=148
 ,,,,,,,,,,2,8.02,Minnesota Timberwolves,rebound,,,,,,,,,,Barea,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=149
 ,,,,,,,,,,2,8.01,Minnesota Timberwolves,turnover,,,,,,,,,,,,,Shot Clock,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=150
 ,,,,,,,,,,2,8.01,Toronto Raptors,substitute,,,,Gay,,Anderson,,,,,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=153
 ,,,,,,,,,,2,8.01,Toronto Raptors,substitute,,,,Valanciunas,,Gray,,,,,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=154
-,,,,,,,,,,2,7.50,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,Jump Shot,,,25-30,13,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=155
+,,,,,,,,,,2,7.50,Toronto Raptors,shot,,,Shved,,,,,,,Ross,,,,missed,,Jump Shot,,,25-30,13,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=155
 ,,,,,,,,,,2,7.49,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=156
 ,,,,,,,,,,2,7.38,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Jump Shot,,,27-30,19,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=157
 ,,,,,,,,,,2,7.20,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Jump Shot,,,27-30,19,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=158
 ,,,,,,,,,,2,7.19,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=159
-,,,,,,,,,,2,7.14,Toronto Raptors,turnover,,,,,,,,,,Telfair,,,Bad Pass,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=160
+,,,,,,,,,,2,7.14,Toronto Raptors,turnover,,,,,,,,,,Telfair,,,Bad Pass,,Cunningham,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=160
 ,,,,,,,,,,2,6.55,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,27-30,5,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=161
 ,,,,,,,,,,2,6.54,Minnesota Timberwolves,rebound,,,,,,,,,,Shved,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=162
-,,,,,,,,,,2,6.53,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,Layup,,,27-30,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=163
+,,,,,,,,,,2,6.53,Minnesota Timberwolves,shot,,,Valanciunas,,,,,,,Shved,,,,missed,,Layup,,,27-30,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=163
 ,,,,,,,,,,2,6.52,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=164
 ,,,,,,,,,,2,6.52,Toronto Raptors,substitute,,,,Johnson,,Acy,,,,,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=165
 ,,,,,,,,,,2,6.45,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Jump Shot,,,27-30,25,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=166
@@ -157,7 +157,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.32,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,29-32,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=181
 ,,,,,,,,,,2,5.32,Toronto Raptors,substitute,,,,Lowry,,Telfair,,,,,,,,,,,,,29-32,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=183
 ,,,,,,,,,,2,5.25,Minnesota Timberwolves,shot,Cunningham,,,,,,,,,Budinger,3,,,made,,3PT Jump Shot,,,29-35,25,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=185
-,,,,,,,,,,2,5.05,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Layup,,,29-35,2,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=186
+,,,,,,,,,,2,5.05,Toronto Raptors,shot,,,Cunningham,,,,,,,Johnson,,,,missed,,Layup,,,29-35,2,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=186
 ,,,,,,,,,,2,5.04,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,29-35,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=187
 ,,,,,,,,,,2,5.03,Minnesota Timberwolves,foul,,,,,,,,,,Stiemsma,,,,,,Shooting,,,29-35,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=188
 ,,,,,,,,,,2,5.03,Toronto Raptors,free throw,,,,,,,1,,2,Valanciunas,1,,foul,made,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=189
@@ -173,7 +173,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.46,Minnesota Timberwolves,shot,Budinger,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,33-37,22,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=202
 ,,,,,,,,,,2,4.36,Toronto Raptors,shot,DeRozan,,,,,,,,,Gay,3,,,made,,3PT Jump Shot,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=203
 ,,,,,,,,,,2,4.18,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Budinger,2,,,made,,Pullup Jump Shot,,,36-39,16,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=204
-,,,,,,,,,,2,4.03,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,36-39,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=205
+,,,,,,,,,,2,4.03,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Cunningham,,,,36-39,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=205
 ,,,,,,,,,,2,3.52,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,36-39,22,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=206
 ,,,,,,,,,,2,3.50,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,36-39,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=207
 ,,,,,,,,,,2,3.26,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,3PT Jump Shot,,,36-39,26,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=208
@@ -201,7 +201,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.01,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=237
 ,,,,,,,,,,2,0.48,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Pekovic,2,,,made,,Layup,,,42-48,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=238
 ,,,,,,,,,,2,0.35,Toronto Raptors,shot,Johnson,,,,,,,,,DeRozan,2,,,made,,Jump Shot,,,44-48,21,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=239
-,,,,,,,,,,2,0.29,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,,,,,44-48,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=240
+,,,,,,,,,,2,0.29,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,Lowry,,,,44-48,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=240
 ,,,,,,,,,,2,0.24,Toronto Raptors,shot,Lowry,,,,,,,,,Gay,2,,,made,,Driving Layup,,,46-48,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=241
 ,,,,,,,,,,2,0.01,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,3PT Jump Shot,,,46-48,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=242
 ,,,,,,,,,,2,0.00,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,46-48,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=243
@@ -215,7 +215,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.38,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,48-48,2,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=254
 ,,,,,,,,,,3,10.37,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,48-48,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=255
 ,,,,,,,,,,3,10.28,Toronto Raptors,shot,Lowry,,,,,,,,,DeRozan,2,,,made,,Turnaround Jump Shot,,,50-48,14,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=256
-,,,,,,,,,,3,10.08,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,50-48,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=257
+,,,,,,,,,,3,10.08,Minnesota Timberwolves,shot,,,Johnson,,,,,,,Pekovic,,,,missed,,Layup,,,50-48,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=257
 ,,,,,,,,,,3,10.06,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,50-48,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=258
 ,,,,,,,,,,3,10.01,Minnesota Timberwolves,shot,Williams,,,,,,,,,Rubio,3,,,made,,3PT Jump Bank Shot,,,50-51,25,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=259
 ,,,,,,,,,,3,9.40,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Fadeaway Jumper,,,50-51,6,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=260
@@ -241,7 +241,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.44,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=286
 ,,,,,,,,,,3,7.33,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,50-61,20,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=288
 ,,,,,,,,,,3,7.32,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=289
-,,,,,,,,,,3,7.11,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=290
+,,,,,,,,,,3,7.11,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,Gay,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=290
 ,,,,,,,,,,3,6.59,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Pullup Jump Shot,,,52-61,12,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=291
 ,,,,,,,,,,3,6.44,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,Driving Layup,,,52-61,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=292
 ,,,,,,,,,,3,6.43,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=293
@@ -263,7 +263,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.02,Minnesota Timberwolves,free throw,,,,,,,1,,2,Pekovic,1,,foul,made,,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=311
 ,,,,,,,,,,3,5.02,Minnesota Timberwolves,free throw,,,,,,,2,,2,Pekovic,1,,foul,made,,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=313
 ,,,,,,,,,,3,4.45,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Pullup Jump Shot,,,58-64,21,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=315
-,,,,,,,,,,3,4.20,Minnesota Timberwolves,turnover,,,,,,,,,,Williams,,,Lost Ball,,,,,,58-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=316
+,,,,,,,,,,3,4.20,Minnesota Timberwolves,turnover,,,,,,,,,,Williams,,,Lost Ball,,Lowry,,,,58-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=316
 ,,,,,,,,,,3,4.15,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,58-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=317
 ,,,,,,,,,,3,4.15,Minnesota Timberwolves,substitute,,,,Budinger,,Ridnour,,,,,,,,,,,,,58-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=318
 ,,,,,,,,,,3,4.00,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,58-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=319
@@ -272,12 +272,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.42,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,58-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=322
 ,,,,,,,,,,3,3.41,Minnesota Timberwolves,foul,,,,,,,,,,Cunningham,,,,,,Personal,,,58-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=323
 ,,,,,,,,,,3,3.35,Toronto Raptors,shot,Lowry,,,,,,,,,Fields,2,,,made,,Layup,,,60-64,2,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=325
-,,,,,,,,,,3,3.20,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,,,,,60-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=326
+,,,,,,,,,,3,3.20,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,Gay,,,,60-64,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=326
 ,,,,,,,,,,3,3.17,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Driving Dunk,,,62-64,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=327
 ,,,,,,,,,,3,2.57,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Cunningham,2,,,made,,Layup,,,62-66,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=328
 ,,,,,,,,,,3,2.40,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Step Back Jump Shot,,,62-66,19,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=329
 ,,,,,,,,,,3,2.39,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,62-66,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=330
-,,,,,,,,,,3,2.31,Minnesota Timberwolves,shot,,,,,,,,,,Budinger,,,,missed,,Layup,,,62-66,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=331
+,,,,,,,,,,3,2.31,Minnesota Timberwolves,shot,,,Valanciunas,,,,,,,Budinger,,,,missed,,Layup,,,62-66,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=331
 ,,,,,,,,,,3,2.30,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,62-66,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=332
 ,,,,,,,,,,3,2.16,Toronto Raptors,shot,Gay,,,,,,,,,Lowry,3,,,made,,3PT Jump Shot,,,65-66,26,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=333
 ,,,,,,,,,,3,1.59,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,3PT Jump Shot,,,65-66,26,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=334
@@ -296,7 +296,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.46,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,67-68,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=351
 ,,,,,,,,,,3,0.33,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Pekovic,2,,,made,,Layup,,,67-70,1,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=352
 ,,,,,,,,,,3,0.30,Toronto Raptors,shot,,,,,,,,,,Lowry,2,,,made,,Running Jump Shot,,,69-70,6,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=353
-,,,,,,,,,,3,0.10,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Jump Shot,,,69-70,5,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=354
+,,,,,,,,,,3,0.10,Minnesota Timberwolves,shot,,,Gray,,,,,,,Pekovic,,,,missed,,Jump Shot,,,69-70,5,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=354
 ,,,,,,,,,,3,0.09,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,69-70,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=355
 ,,,,,,,,,,3,0.09,Toronto Raptors,foul,,,,,,,,,,Gray,,,,,,Shooting,,,69-70,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=356
 ,,,,,,,,,,3,0.09,Minnesota Timberwolves,free throw,,,,,,,1,,2,Pekovic,,,foul,missed,,,,,69-70,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=357
@@ -338,7 +338,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.52,Minnesota Timberwolves,free throw,,,,,,,1,,2,Rubio,1,,foul,made,,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=402
 ,,,,,,,,,,4,7.52,Toronto Raptors,substitute,,,,Valanciunas,,Gray,,,,,,,,,,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=404
 ,,,,,,,,,,4,7.52,Minnesota Timberwolves,free throw,,,,,,,2,,2,Rubio,1,,foul,made,,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=405
-,,,,,,,,,,4,7.32,Toronto Raptors,turnover,,,,,,,,,,Telfair,,,Bad Pass,,,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=407
+,,,,,,,,,,4,7.32,Toronto Raptors,turnover,,,,,,,,,,Telfair,,,Bad Pass,,Cunningham,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=407
 ,,,,,,,,,,4,7.17,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,3PT Pullup Jump Shot,,,81-80,25,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=408
 ,,,,,,,,,,4,7.16,Toronto Raptors,rebound,,,,,,,,,,Telfair,,,,,,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=409
 ,,,,,,,,,,4,7.04,Minnesota Timberwolves,foul,,,,,,,,,,Budinger,,,,,,Shooting Block,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=410
@@ -363,7 +363,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.21,Minnesota Timberwolves,free throw,,,,,,,2,,2,Rubio,1,,foul,made,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=431
 ,,,,,,,,,,4,5.06,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Step Back Jump Shot,,,85-84,15,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=433
 ,,,,,,,,,,4,5.05,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=434
-,,,,,,,,,,4,4.52,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,Jump Shot,,,85-84,4,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=435
+,,,,,,,,,,4,4.52,Minnesota Timberwolves,shot,,,Valanciunas,,,,,,,Ridnour,,,,missed,,Jump Shot,,,85-84,4,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=435
 ,,,,,,,,,,4,4.51,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=436
 ,,,,,,,,,,4,4.38,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,3PT Jump Shot,,,85-84,26,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=437
 ,,,,,,,,,,4,4.37,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=438
@@ -381,7 +381,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.48,Minnesota Timberwolves,free throw,,,,,,,1,,2,Pekovic,1,,foul,made,,,,,87-85,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=459
 ,,,,,,,,,,4,3.48,Minnesota Timberwolves,substitute,,,,Budinger,,Ridnour,,,,,,,,,,,,,87-85,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=461
 ,,,,,,,,,,4,3.48,Minnesota Timberwolves,free throw,,,,,,,2,,2,Pekovic,1,,foul,made,,,,,87-86,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=462
-,,,,,,,,,,4,3.30,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,87-86,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=465
+,,,,,,,,,,4,3.30,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,Kirilenko,,,,87-86,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=465
 ,,,,,,,,,,4,3.15,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,2,,,made,,Jump Shot,,,87-88,16,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=467
 ,,,,,,,,,,4,2.51,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Pullup Jump Shot,,,89-88,10,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=469
 ,,,,,,,,,,4,2.35,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,2,,,made,,Layup,,,89-90,2,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=470
@@ -398,7 +398,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.23,Minnesota Timberwolves,rebound,,,,,,,,,,Budinger,,,,,,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=484
 ,,,,,,,,,,4,1.14,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=485
 ,,,,,,,,,,4,1.12,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=486
-,,,,,,,,,,4,0.55,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=487
+,,,,,,,,,,4,0.55,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,Kirilenko,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=487
 ,,,,,,,,,,4,0.55,Toronto Raptors,foul,,,,,,,,,,Gay,,,,,,Personal,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=488
 ,,,,,,,,,,4,0.55,Minnesota Timberwolves,free throw,,,,,,,1,,2,Kirilenko,,,foul,missed,,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=489
 ,,,,,,,,,,4,0.55,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021201132&GameEventID=490

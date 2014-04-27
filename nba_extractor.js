@@ -176,22 +176,24 @@ function parseOtherEvents(raw_txt, metrics) {
             console.log('\nFile:' + currentFile + '\nLine number:' + currentRow + '\nData: ' + raw_txt);
             throw err;
         }
-        // } else if (raw_txt.search(/STEAL/) != -1) {
-        //     try {
-        //         var array = raw_txt.match(/(\S+) STEAL/);
-        //         metrics.steal = array[1];
-        //     } catch (err) {
-        //         console.log('\nFile:' + currentFile + '\nLine number:' + currentRow + '\nData: ' + raw_txt);
-        //         throw err;
-        //     }
-        // } else if (raw_txt.search(/BLOCK/) != -1) {
-        //     try {
-        //         var array = raw_txt.match(/(\S+) BLOCK/);
-        //         metrics.block = array[1];
-        //     } catch (err) {
-        //         console.log('\nFile:' + currentFile + '\nLine number:' + currentRow + '\nData: ' + raw_txt);
-        //         throw err;
-        //     }
+    } else if (raw_txt.search(/STEAL/) != -1) {
+        try {
+            var array = raw_txt.match(/(\S+) STEAL/);
+            metrics.eventtype = 'steal';
+            metrics.steal = array[1];
+        } catch (err) {
+            console.log('\nFile:' + currentFile + '\nLine number:' + currentRow + '\nData: ' + raw_txt);
+            throw err;
+        }
+    } else if (raw_txt.search(/BLOCK/) != -1) {
+        try {
+            var array = raw_txt.match(/(\S+) BLOCK/);
+            metrics.eventtype = 'block';
+            metrics.block = array[1];
+        } catch (err) {
+            console.log('\nFile:' + currentFile + '\nLine number:' + currentRow + '\nData: ' + raw_txt);
+            throw err;
+        }
     } else if (raw_txt.search(/Violation/) != -1) {
         try {
             var array = raw_txt.match(/(.*) Violation:(.*)/);
@@ -235,7 +237,7 @@ function parseOtherEvents(raw_txt, metrics) {
 
     } else if (raw_txt.search(/Timeout/) != -1) {
         metrics.eventtype = 'timeout';
-    } else if(raw_txt.search(/Pacers/) != -1){
+    } else if (raw_txt.search(/Pacers/) != -1) {
 
     } else {
         console.log('\nFile:' + currentFile + '\nLine number:' + currentRow + '\nData: ' + raw_txt);
@@ -273,8 +275,8 @@ function readdir(err, files) {
             time: "",
 
         }
-        var extracted_data = "a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url \n";
-        //var extracted_data = [];
+        //var extracted_data = "a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url \n";
+        var extracted_data = [];
         for (var j = 1; j < lines.length; j++) {
             if (lines[j] == "") {
                 console.log("\nSkipped line " + currentRow + "\n\n");
@@ -305,9 +307,9 @@ function readdir(err, files) {
                 shotdistance: ''
             };
 
-            if (columns[4].search(/BLOCK/) != -1 || columns[4].search(/STEAL/) != -1) {
-                continue;
-            }
+            // if (columns[4].search(/BLOCK/) != -1 || columns[4].search(/STEAL/) != -1) {
+            //     continue;
+            // }
 
             parseScore(columns[2], metrics, previous_score);
             if (metrics.away_score != '') {
@@ -356,37 +358,54 @@ function readdir(err, files) {
 
             extracted_columns[33] = metrics.shotdistance;
             extracted_columns[34] = columns[0];
-            var newline = "";
-            for (var k = 0; k < 34; k++) {
-                if (typeof extracted_columns[k] == 'undefined')
-                    newline += ',';
-                else
-                    newline += extracted_columns[k] + ',';
-            }
-            newline += extracted_columns[k] + '\n';
-            console.log(newline);
-            extracted_data += newline;
-            //extracted_data.push(extracted_columns);
+
+            //extracted_data += newline;
+            extracted_data.push(extracted_columns);
         };
 
-        // var rows_w_same_time = [];
-        // var current_time = null;
-        // var current_quarter = null;
-        // var result[];
-        // for (var j = 0; j < extracted_data.length; j++) {
-        //    var row = extracted_data[j]; 
-        //    if (row[10] == current_quarter && row[11] == current_time){
-        //         rows_w_same_time.push(row);
-        //    }else{
-        //         unfold(rows_w_same_time, result);
-        //         rows_w_same_time = [];
-        //         rows_w_same_time.push(row);
-        //         current_quarter = row[10];
-        //         current_time = row[11];
-        //    }
-        // }
+        for (var j = 0; j < extracted_data.length; j++) {
+            var currentRow = extracted_data[j];
+            if (currentRow[13] == 'steal') {
+                var row_before = extracted_data[j - 1];
+                var row_after = extracted_data[j + 1];
+                if (typeof row_before != 'undefined' && row_before[13] == 'turnover' && currentRow[11] == row_before[11]) {
+                    row_before[28] = currentRow[28];
+                } else if (typeof row_after != 'undefined' && row_after[13] == 'turnover' && currentRow[11] == row_after[11]) {
+                    row_after[28] = currentRow[28];
+                } else {
+                    throw new Error();
+                }
+            } else if (currentRow[13] == 'block') {
+                var row_before = extracted_data[j - 1];
+                var row_after = extracted_data[j + 1];
+                if (typeof row_before != 'undefined' && row_before[13] == 'shot' && row_before[27] == 'missed' && currentRow[11] == row_before[11]) {
+                    row_before[16] = currentRow[16];
+                } else if (typeof row_after != 'undefined' && row_after[13] == 'shot' && row_after[27] == 'missed' && currentRow[11] == row_after[11]) {
+                    row_after[16] = currentRow[16];
+                } else {
+                    throw new Error();
+                }
+            }
+        }
+        var output = "a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url \n";
+        for (var j = 0; j < extracted_data.length; j++) {
+            var currentRow = extracted_data[j];
+            if (currentRow[13] == 'steal' || currentRow[13] == 'block') {
+                continue;
+            }
+            var newline = "";
+            for (var k = 0; k < 34; k++) {
+                if (typeof currentRow[k] == 'undefined')
+                    newline += ',';
+                else
+                    newline += currentRow[k] + ',';
+            }
+            newline += currentRow[k] + '\n';
+            console.log(newline);
+            output += newline;
+        }
         var output_file = extracted_data_dir + '/' + file.replace(/.*\w\/(.*)-raw.csv/, "$1-ex.csv");
-        fs.writeFileSync(output_file, extracted_data);
+        fs.writeFileSync(output_file, output);
         console.log(output_file + " was saved");
     }
 }

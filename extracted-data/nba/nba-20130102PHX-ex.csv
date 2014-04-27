@@ -56,7 +56,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.06,Philadelphia 76ers,free throw,,,,,,,1,,2,Holiday,1,,foul,made,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=62
 ,,,,,,,,,,1,5.06,Philadelphia 76ers,free throw,,,,,,,2,,2,Holiday,,,foul,missed,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=64
 ,,,,,,,,,,1,5.04,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=66
-,,,,,,,,,,1,4.53,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=67
+,,,,,,,,,,1,4.53,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,Young,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=67
 ,,,,,,,,,,1,4.52,Phoenix Suns,foul,,,,,,,,,,Gortat,,,,,,Personal,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=68
 ,,,,,,,,,,1,4.42,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,18-15,9,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=69
 ,,,,,,,,,,1,4.40,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=70
@@ -79,14 +79,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.44,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,20-22,9,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=93
 ,,,,,,,,,,1,2.42,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=94
 ,,,,,,,,,,1,2.33,Phoenix Suns,substitute,,,,Morris,,Scola,,,,,,,,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=96
-,,,,,,,,,,1,2.23,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=97
+,,,,,,,,,,1,2.23,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,Brown,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=97
 ,,,,,,,,,,1,2.15,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,20-22,21,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=98
 ,,,,,,,,,,1,2.13,Philadelphia 76ers,rebound,,,,,,,,,,Ivey,,,,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=99
-,,,,,,,,,,1,2.03,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Layup,,,20-22,1,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=100
+,,,,,,,,,,1,2.03,Philadelphia 76ers,shot,,,Dragic,,,,,,,Young,,,,missed,,Layup,,,20-22,1,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=100
 ,,,,,,,,,,1,2.01,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=101
 ,,,,,,,,,,1,2.01,Philadelphia 76ers,foul,,,,,,,,,,Ivey,,,,,,Personal Block,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=102
 ,,,,,,,,,,1,1.45,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Driving Layup,,,20-24,1,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=103
-,,,,,,,,,,1,1.26,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Layup,,,20-24,3,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=104
+,,,,,,,,,,1,1.26,Philadelphia 76ers,shot,,,Gortat,,,,,,,Hawes,,,,missed,,Layup,,,20-24,3,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=104
 ,,,,,,,,,,1,1.24,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=105
 ,,,,,,,,,,1,1.20,Phoenix Suns,shot,Brown,,,,,,,,,Gortat,2,,,made,,Dunk,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=106
 ,,,,,,,,,,1,1.01,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Shooting Block,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=107
@@ -98,10 +98,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.46,Phoenix Suns,shot,,,,,,,,,,Morris,2,,,made,,Putback Layup,,,22-28,2,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=114
 ,,,,,,,,,,1,0.28,Philadelphia 76ers,shot,,,,,,,,,,Wright,2,,,made,,Turnaround Fadeaway,,,24-28,16,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=116
 ,,,,,,,,,,1,0.05,Phoenix Suns,shot,Brown,,,,,,,,,Morris,3,,,made,,3PT Jump Shot,,,24-31,25,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=117
-,,,,,,,,,,1,0.01,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Bad Pass,,,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=118
+,,,,,,,,,,1,0.01,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Bad Pass,,Dragic,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=118
 ,,,,,,,,,,2,11.39,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,24-31,16,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=122
 ,,,,,,,,,,2,11.37,Phoenix Suns,rebound,,,,,,,,,,Telfair,,,,,,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=123
-,,,,,,,,,,2,11.17,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Layup,,,24-31,2,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=124
+,,,,,,,,,,2,11.17,Phoenix Suns,shot,,,Hawes,,,,,,,O'Neal,,,,missed,,Layup,,,24-31,2,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=124
 ,,,,,,,,,,2,11.15,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=125
 ,,,,,,,,,,2,11.05,Philadelphia 76ers,shot,Holiday,,,,,,,,,Young,3,,,made,,3PT Jump Shot,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=126
 ,,,,,,,,,,2,10.53,Philadelphia 76ers,foul,,,,,,,,,,Holiday,,,,,,Personal,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=127
@@ -111,7 +111,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.21,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=131
 ,,,,,,,,,,2,10.14,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,27-31,22,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=132
 ,,,,,,,,,,2,10.12,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=133
-,,,,,,,,,,2,9.57,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,3PT Jump Shot,,,27-31,24,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=134
+,,,,,,,,,,2,9.57,Phoenix Suns,shot,,,Holiday,,,,,,,Telfair,,,,missed,,3PT Jump Shot,,,27-31,24,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=134
 ,,,,,,,,,,2,9.54,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=135
 ,,,,,,,,,,2,9.47,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,3PT Jump Shot,,,27-31,26,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=136
 ,,,,,,,,,,2,9.45,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=137
@@ -119,17 +119,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.08,Phoenix Suns,shot,,,,,,,,,,O'Neal,2,,,made,,Fadeaway Jumper,,,29-33,12,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=141
 ,,,,,,,,,,2,8.52,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Hook Shot,,,29-33,5,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=142
 ,,,,,,,,,,2,8.49,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=143
-,,,,,,,,,,2,8.40,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Lost Ball,,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=144
+,,,,,,,,,,2,8.40,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Lost Ball,,Young,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=144
 ,,,,,,,,,,2,8.36,Philadelphia 76ers,shot,Young,,,,,,,,,Wright,2,,,made,,Dunk,,,31-33,1,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=145
 ,,,,,,,,,,2,8.27,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=146
 ,,,,,,,,,,2,8.21,Phoenix Suns,foul,,,,,,,,,,,,,,,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=149
 ,,,,,,,,,,2,8.21,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Foul,,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=150
-,,,,,,,,,,2,8.10,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=151
+,,,,,,,,,,2,8.10,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,Telfair,,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=151
 ,,,,,,,,,,2,8.06,Phoenix Suns,shot,Telfair,,,,,,,,,Morris,2,,,made,,Layup,,,31-35,1,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=152
 ,,,,,,,,,,2,7.50,Philadelphia 76ers,shot,Hawes,,,,,,,,,Allen,2,,,made,,Jump Shot,,,33-35,18,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=153
 ,,,,,,,,,,2,7.31,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,33-35,18,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=154
 ,,,,,,,,,,2,7.29,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=155
-,,,,,,,,,,2,7.21,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,33-35,12,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=156
+,,,,,,,,,,2,7.21,Philadelphia 76ers,shot,,,Beasley,,,,,,,Wright,,,,missed,,Jump Shot,,,33-35,12,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=156
 ,,,,,,,,,,2,7.19,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=157
 ,,,,,,,,,,2,7.06,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,3PT Jump Shot,,,33-35,25,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=158
 ,,,,,,,,,,2,7.05,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=159
@@ -144,7 +144,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.06,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Running Jump Shot,,,35-37,8,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=168
 ,,,,,,,,,,2,6.03,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=169
 ,,,,,,,,,,2,5.48,Philadelphia 76ers,shot,Holiday,,,,,,,,,Wright,3,,,made,,3PT Jump Shot,,,38-37,25,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=170
-,,,,,,,,,,2,5.30,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=171
+,,,,,,,,,,2,5.30,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,Holiday,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=171
 ,,,,,,,,,,2,5.22,Philadelphia 76ers,shot,Wright,,,,,,,,,Young,3,,,made,,3PT Jump Shot,,,41-37,26,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=172
 ,,,,,,,,,,2,5.16,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,41-37,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=173
 ,,,,,,,,,,2,5.16,Phoenix Suns,substitute,,,,Dragic,,Brown,,,,,,,,,,,,,41-37,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=177
@@ -155,7 +155,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.02,Phoenix Suns,shot,Dudley,,,,,,,,,Dragic,2,,,made,,Jump Shot,,,41-39,19,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=183
 ,,,,,,,,,,2,4.43,Philadelphia 76ers,turnover,,,,,,,,,,Holiday Out of Bounds,,,Lost Ball,,,,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=184
 ,,,,,,,,,,2,4.30,Phoenix Suns,shot,Scola,,,,,,,,,Dudley,2,,,made,,Jump Shot,,,41-41,17,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=185
-,,,,,,,,,,2,4.15,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=186
+,,,,,,,,,,2,4.15,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Gortat,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=186
 ,,,,,,,,,,2,4.03,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,41-41,17,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=187
 ,,,,,,,,,,2,4.02,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=188
 ,,,,,,,,,,2,3.57,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,3PT Jump Shot,,,41-41,24,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=189
@@ -173,7 +173,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.26,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,43-43,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=202
 ,,,,,,,,,,2,3.15,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Bank Shot,,,43-43,7,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=203
 ,,,,,,,,,,2,3.12,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,43-43,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=204
-,,,,,,,,,,2,3.07,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,43-43,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=205
+,,,,,,,,,,2,3.07,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Gortat,,,,43-43,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=205
 ,,,,,,,,,,2,2.55,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,43-43,19,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=206
 ,,,,,,,,,,2,2.54,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,43-43,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=207
 ,,,,,,,,,,2,2.41,Philadelphia 76ers,shot,Allen,,,,,,,,,Turner,2,,,made,,Layup,,,45-43,1,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=208
@@ -190,14 +190,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.37,Phoenix Suns,shot,Scola,,,,,,,,,Tucker,2,,,made,,Jump Shot,,,45-46,16,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=222
 ,,,,,,,,,,2,1.19,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,3PT Jump Shot,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=223
 ,,,,,,,,,,2,1.17,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=224
-,,,,,,,,,,2,1.15,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=225
+,,,,,,,,,,2,1.15,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Holiday,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=225
 ,,,,,,,,,,2,1.12,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=226
 ,,,,,,,,,,2,1.03,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=227
 ,,,,,,,,,,2,0.41,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Jump Shot,,,45-46,4,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=228
 ,,,,,,,,,,2,0.39,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=229
 ,,,,,,,,,,2,0.38,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Layup,,,45-46,2,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=230
 ,,,,,,,,,,2,0.36,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=231
-,,,,,,,,,,2,0.32,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Bad Pass,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=232
+,,,,,,,,,,2,0.32,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Bad Pass,,Turner,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=232
 ,,,,,,,,,,2,0.29,Philadelphia 76ers,shot,,,,,,,,,,Turner,2,,,made,,Dunk,,,47-46,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=233
 ,,,,,,,,,,2,0.12,Phoenix Suns,shot,,,,,,,,,,Gortat,2,,,made,,Turnaround Jump Shot,,,47-48,15,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=234
 ,,,,,,,,,,2,0.08,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,47-48,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=235
@@ -235,7 +235,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.22,Philadelphia 76ers,rebound,,,,,,,,,,Richardson,,,,,,,,,53-56,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=273
 ,,,,,,,,,,3,8.16,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,53-56,21,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=274
 ,,,,,,,,,,3,8.14,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,53-56,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=275
-,,,,,,,,,,3,8.09,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Lost Ball,,,,,,53-56,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=276
+,,,,,,,,,,3,8.09,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Lost Ball,,Dudley,,,,53-56,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=276
 ,,,,,,,,,,3,8.04,Phoenix Suns,shot,Dragic,,,,,,,,,Tucker,2,,,made,,Layup,,,53-58,1,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=277
 ,,,,,,,,,,3,7.41,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,53-58,15,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=278
 ,,,,,,,,,,3,7.40,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,53-58,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=279
@@ -246,12 +246,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.58,Philadelphia 76ers,shot,Young,,,,,,,,,Holiday,2,,,made,,Layup,,,57-60,2,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=286
 ,,,,,,,,,,3,6.42,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,57-60,25,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=287
 ,,,,,,,,,,3,6.39,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=288
-,,,,,,,,,,3,6.34,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,57-60,3,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=289
+,,,,,,,,,,3,6.34,Philadelphia 76ers,shot,,,Dragic,,,,,,,Turner,,,,missed,,Jump Shot,,,57-60,3,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=289
 ,,,,,,,,,,3,6.34,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=290
 ,,,,,,,,,,3,6.27,Philadelphia 76ers,shot,Young,,,,,,,,,Allen,2,,,made,,Jump Shot,,,59-60,19,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=291
 ,,,,,,,,,,3,6.10,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Driving Reverse Layup,,,59-60,2,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=292
 ,,,,,,,,,,3,6.06,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=293
-,,,,,,,,,,3,5.54,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,59-60,4,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=294
+,,,,,,,,,,3,5.54,Philadelphia 76ers,shot,,,Dragic,,,,,,,Holiday,,,,missed,,Jump Shot,,,59-60,4,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=294
 ,,,,,,,,,,3,5.52,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=295
 ,,,,,,,,,,3,5.50,Philadelphia 76ers,foul,,,,,,,,,,Turner,,,,,,Personal Block,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=296
 ,,,,,,,,,,3,5.50,Philadelphia 76ers,foul,,,,,,,,,,Holiday,,,,,,Inbound,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=297
@@ -272,7 +272,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.13,Philadelphia 76ers,substitute,,,,Wright,,Allen,,,,,,,,,,,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=313
 ,,,,,,,,,,3,4.13,Philadelphia 76ers,substitute,,,,Hawes,,Richardson,,,,,,,,,,,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=314
 ,,,,,,,,,,3,4.13,Phoenix Suns,substitute,,,,Brown,,Tucker,,,,,,,,,,,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=315
-,,,,,,,,,,3,3.59,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,,,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=316
+,,,,,,,,,,3,3.59,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,Dudley,,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=316
 ,,,,,,,,,,3,3.53,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,59-63,24,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=317
 ,,,,,,,,,,3,3.53,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=318
 ,,,,,,,,,,3,3.53,Philadelphia 76ers,foul,,,,,,,,,,Hawes,,,,,,Loose ball,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=319
@@ -289,7 +289,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.14,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Traveling,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=330
 ,,,,,,,,,,3,2.14,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=331
 ,,,,,,,,,,3,2.14,Philadelphia 76ers,substitute,,,,Young,,Turner,,,,,,,,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=334
-,,,,,,,,,,3,2.02,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=335
+,,,,,,,,,,3,2.02,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,Scola,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=335
 ,,,,,,,,,,3,1.51,Phoenix Suns,shot,Scola,,,,,,,,,Brown,2,,,made,,Jump Shot,,,62-69,18,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=337
 ,,,,,,,,,,3,1.33,Philadelphia 76ers,shot,Holiday,,,,,,,,,Hawes,2,,,made,,Jump Shot,,,64-69,5,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=338
 ,,,,,,,,,,3,1.18,Philadelphia 76ers,foul,,,,,,,,,,Young,,,,,,Personal Block,,,64-69,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=339
@@ -304,7 +304,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.00,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,3PT Jump Shot,,,66-75,26,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=350
 ,,,,,,,,,,3,0.00,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,66-75,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=352
 ,,,,,,,,,,4,11.44,Phoenix Suns,shot,O'Neal,,,,,,,,,Scola,2,,,made,,Jump Shot,,,66-77,19,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=355
-,,,,,,,,,,4,11.25,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Jump Shot,,,66-77,5,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=356
+,,,,,,,,,,4,11.25,Philadelphia 76ers,shot,,,Scola,,,,,,,Hawes,,,,missed,,Jump Shot,,,66-77,5,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=356
 ,,,,,,,,,,4,11.23,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,66-77,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=357
 ,,,,,,,,,,4,11.11,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Jump Shot,,,66-77,3,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=358
 ,,,,,,,,,,4,11.09,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,66-77,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=359
@@ -316,16 +316,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.19,Philadelphia 76ers,shot,Hawes,,,,,,,,,Young,2,,,made,,Jump Shot,,,68-77,17,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=365
 ,,,,,,,,,,4,9.58,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Jump Shot,,,68-77,4,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=366
 ,,,,,,,,,,4,9.58,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,68-77,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=367
-,,,,,,,,,,4,9.47,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,,,,,68-77,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=369
+,,,,,,,,,,4,9.47,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,O'Neal,,,,68-77,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=369
 ,,,,,,,,,,4,9.47,Phoenix Suns,jumpball,,Turner,,,O'Neal,,,,,,,,,,,,,,68-77,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=368
 ,,,,,,,,,,4,9.43,Phoenix Suns,shot,Scola,,,,,,,,,Dragic,2,,,made,,Jump Shot,,,68-79,16,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=370
-,,,,,,,,,,4,9.22,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Lost Ball,,,,,,68-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=372
+,,,,,,,,,,4,9.22,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Lost Ball,,Scola,,,,68-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=372
 ,,,,,,,,,,4,9.14,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Jump Shot,,,68-79,17,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=373
 ,,,,,,,,,,4,9.13,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,68-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=374
 ,,,,,,,,,,4,9.07,Phoenix Suns,foul,,,,,,,,,,Dragic,,,,,,Personal,,,68-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=375
 ,,,,,,,,,,4,9.07,Philadelphia 76ers,substitute,,,,Young,,Hawes,,,,,,,,,,,,,68-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=376
 ,,,,,,,,,,4,8.55,Philadelphia 76ers,shot,Allen,,,,,,,,,Wright,2,,,made,,Jump Shot,,,70-79,19,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=377
-,,,,,,,,,,4,8.34,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=378
+,,,,,,,,,,4,8.34,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,Turner,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=378
 ,,,,,,,,,,4,8.29,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Shooting Block,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=379
 ,,,,,,,,,,4,8.29,Phoenix Suns,substitute,,,,Tucker,,Scola,,,,,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=383
 ,,,,,,,,,,4,8.29,Phoenix Suns,substitute,,,,Morris,,Dudley,,,,,,,,,,,,,70-79,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=384
@@ -349,7 +349,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.24,Phoenix Suns,substitute,,,,Gortat,,O'Neal,,,,,,,,,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=404
 ,,,,,,,,,,4,6.11,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Turnaround Jump Shot,,,76-81,15,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=405
 ,,,,,,,,,,4,6.08,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=406
-,,,,,,,,,,4,5.50,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,76-81,8,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=407
+,,,,,,,,,,4,5.50,Philadelphia 76ers,shot,,,Morris,,,,,,,Turner,,,,missed,,Jump Shot,,,76-81,8,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=407
 ,,,,,,,,,,4,5.50,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=408
 ,,,,,,,,,,4,5.50,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=409
 ,,,,,,,,,,4,5.47,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,76-81,25,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=413
@@ -377,7 +377,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.00,Philadelphia 76ers,shot,,,,,,,,,,Holiday,3,,,made,,3PT Jump Shot,,,83-87,25,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=438
 ,,,,,,,,,,4,2.34,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,3PT Jump Shot,,,83-87,26,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=439
 ,,,,,,,,,,4,2.32,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=440
-,,,,,,,,,,4,2.24,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Bad Pass,,,,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=441
+,,,,,,,,,,4,2.24,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Bad Pass,,Young,,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=441
 ,,,,,,,,,,4,2.19,Philadelphia 76ers,shot,,,,,,,,,,Wright,2,,,made,,Alley Oop Layup,,,85-87,2,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=442
 ,,,,,,,,,,4,2.16,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=443
 ,,,,,,,,,,4,2.16,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=446
@@ -386,7 +386,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.02,Phoenix Suns,free throw,,,,,,,1,,2,Dragic,1,,foul,made,,,,,85-88,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=450
 ,,,,,,,,,,4,2.02,Phoenix Suns,free throw,,,,,,,2,,2,Dragic,1,,foul,made,,,,,85-89,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=452
 ,,,,,,,,,,4,1.55,Phoenix Suns,foul,,,,,,,,,,Dragic,,,,,,Personal,,,85-89,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=454
-,,,,,,,,,,4,1.42,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,85-89,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=455
+,,,,,,,,,,4,1.42,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Tucker,,,,85-89,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=455
 ,,,,,,,,,,4,1.18,Phoenix Suns,shot,Scola,,,,,,,,,Tucker,2,,,made,,Jump Shot,,,85-91,11,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=456
 ,,,,,,,,,,4,1.16,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,85-91,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=457
 ,,,,,,,,,,4,1.16,Philadelphia 76ers,substitute,,,,Young,,Allen,,,,,,,,,,,,,85-91,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=459
@@ -394,7 +394,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.16,Philadelphia 76ers,turnover,,,,,,,,,,,,,5 Second Inbound,,,,,,85-91,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=461
 ,,,,,,,,,,4,1.16,Phoenix Suns,substitute,,,,Gortat,,Morris,,,,,,,,,,,,,85-91,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=462
 ,,,,,,,,,,4,1.16,Philadelphia 76ers,substitute,,,,Allen,,Young,,,,,,,,,,,,,85-91,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=463
-,,,,,,,,,,4,0.57,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,3PT Jump Shot,,,85-91,24,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=464
+,,,,,,,,,,4,0.57,Phoenix Suns,shot,,,Holiday,,,,,,,Dudley,,,,missed,,3PT Jump Shot,,,85-91,24,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=464
 ,,,,,,,,,,4,0.57,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,85-91,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=465
 ,,,,,,,,,,4,0.57,Philadelphia 76ers,foul,,,,,,,,,,Holiday,,,,,,Personal,,,85-91,,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=468
 ,,,,,,,,,,4,0.47,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,3PT Jump Shot,,,85-91,25,http://stats.nba.com/cvp.html?GameID=0021200474&GameEventID=469

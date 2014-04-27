@@ -12,10 +12,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.46,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=12
 ,,,,,,,,,,1,10.40,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,3PT Jump Shot,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=13
 ,,,,,,,,,,1,10.39,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=14
-,,,,,,,,,,1,10.34,Washington Wizards,shot,,,,,,,,,,Temple,,,,missed,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=15
+,,,,,,,,,,1,10.34,Washington Wizards,shot,,,Duncan,,,,,,,Temple,,,,missed,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=15
 ,,,,,,,,,,1,10.32,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=16
 ,,,,,,,,,,1,10.19,San Antonio Spurs,shot,Parker,,,,,,,,,Duncan,2,,,made,,Jump Shot,,,0-4,20,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=17
-,,,,,,,,,,1,10.07,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=18
+,,,,,,,,,,1,10.07,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,Splitter,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=18
 ,,,,,,,,,,1,9.56,San Antonio Spurs,shot,Parker,,,,,,,,,Leonard,3,,,made,,3PT Jump Shot,,,0-7,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=19
 ,,,,,,,,,,1,9.37,Washington Wizards,shot,Nene,,,,,,,,,Temple,2,,,made,,Pullup Jump Shot,,,2-7,17,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=20
 ,,,,,,,,,,1,9.24,Washington Wizards,foul,,,,,,,,,,Temple,,,,,,Personal,,,2-7,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=21
@@ -45,7 +45,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.32,San Antonio Spurs,substitute,,,,Jackson,,Leonard,,,,,,,,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=49
 ,,,,,,,,,,1,5.21,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,9-17,25,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=50
 ,,,,,,,,,,1,5.20,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=51
-,,,,,,,,,,1,5.08,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Jump Shot,,,9-17,9,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=52
+,,,,,,,,,,1,5.08,Washington Wizards,shot,,,Splitter,,,,,,,Nene,,,,missed,,Jump Shot,,,9-17,9,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=52
 ,,,,,,,,,,1,5.07,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=53
 ,,,,,,,,,,1,5.04,San Antonio Spurs,turnover,,,,,,,,,,Green Out of Bounds,,,Lost Ball,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=54
 ,,,,,,,,,,1,5.04,Washington Wizards,substitute,,,,Price,,Wall,,,,,,,,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=55
@@ -70,7 +70,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.59,Washington Wizards,rebound,,,,,,,,,,Price,,,,,,,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=75
 ,,,,,,,,,,1,2.40,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Jump Shot,,,11-21,17,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=76
 ,,,,,,,,,,1,2.39,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=77
-,,,,,,,,,,1,2.32,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,,,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=78
+,,,,,,,,,,1,2.32,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,Ariza,,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=78
 ,,,,,,,,,,1,2.32,San Antonio Spurs,foul,,,,,,,,,,Jackson,,,,,,Personal,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=79
 ,,,,,,,,,,1,2.32,San Antonio Spurs,substitute,,,,De Colo,,Parker,,,,,,,,,,,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=80
 ,,,,,,,,,,1,2.24,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Traveling,,,,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=81
@@ -94,7 +94,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.48,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Traveling,,,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=105
 ,,,,,,,,,,2,11.27,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Reverse Layup,,,17-27,1,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=106
 ,,,,,,,,,,2,11.26,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=107
-,,,,,,,,,,2,11.16,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=108
+,,,,,,,,,,2,11.16,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,Blair,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=108
 ,,,,,,,,,,2,11.13,San Antonio Spurs,shot,De Colo,,,,,,,,,Neal,2,,,made,,Dunk,,,17-29,2,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=109
 ,,,,,,,,,,2,11.00,Washington Wizards,foul,,,,,,,,,,,,,,,,,,,17-29,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=110
 ,,,,,,,,,,2,11.00,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Foul,,,,,,17-29,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=111
@@ -127,7 +127,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.33,San Antonio Spurs,substitute,,,,Green,,Neal,,,,,,,,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=140
 ,,,,,,,,,,2,8.18,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Layup,,,21-29,2,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=141
 ,,,,,,,,,,2,8.17,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=142
-,,,,,,,,,,2,8.15,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=143
+,,,,,,,,,,2,8.15,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,Ariza,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=143
 ,,,,,,,,,,2,8.07,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,Layup,,,21-29,2,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=144
 ,,,,,,,,,,2,8.06,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=145
 ,,,,,,,,,,2,8.00,Washington Wizards,shot,Nene,,,,,,,,,Wall,2,,,made,,Jump Shot,,,23-29,21,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=146
@@ -174,7 +174,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.25,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,23-38,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=190
 ,,,,,,,,,,2,4.13,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Layup,,,23-38,1,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=191
 ,,,,,,,,,,2,4.11,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,23-38,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=192
-,,,,,,,,,,2,4.04,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,Driving Jump Shot,,,23-38,4,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=193
+,,,,,,,,,,2,4.04,Washington Wizards,shot,,,Leonard,,,,,,,Webster,,,,missed,,Driving Jump Shot,,,23-38,4,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=193
 ,,,,,,,,,,2,4.04,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,23-38,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=201
 ,,,,,,,,,,2,3.57,San Antonio Spurs,shot,,,,,,,,,,Green,2,,,made,,Layup,,,23-40,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=194
 ,,,,,,,,,,2,3.54,San Antonio Spurs,foul,,,,,,,,,,Parker,,,,,,Personal,,,23-40,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=197
@@ -219,7 +219,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Washington Wizards,shot,,,,,,,,,,Crawford,2,,,made,,Running Jump Shot,,,26-51,6,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=245
 ,,,,,,,,,,3,11.45,San Antonio Spurs,violation,,,,,,,,,,Splitter,,,Kicked Ball,,,,,,26-51,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=252
 ,,,,,,,,,,3,11.32,Washington Wizards,shot,,,,,,,,,,Nene,2,,,made,,Hook Shot,,,28-51,6,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=253
-,,,,,,,,,,3,11.12,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Jump Shot,,,28-51,7,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=254
+,,,,,,,,,,3,11.12,San Antonio Spurs,shot,,,Nene,,,,,,,Splitter,,,,missed,,Jump Shot,,,28-51,7,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=254
 ,,,,,,,,,,3,11.12,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,28-51,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=255
 ,,,,,,,,,,3,11.12,San Antonio Spurs,free throw,,,,,,,,,,Leonard,1,,Technical,made,,,,,28-52,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=257
 ,,,,,,,,,,3,11.01,Washington Wizards,foul,,,,,,,,,,Webster,,,,,,Shooting,,,28-52,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=260
@@ -240,13 +240,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.46,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,35-59,5,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=280
 ,,,,,,,,,,3,8.45,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,35-59,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=281
 ,,,,,,,,,,3,8.40,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,35-59,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=282
-,,,,,,,,,,3,8.26,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Layup,,,35-59,3,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=283
+,,,,,,,,,,3,8.26,San Antonio Spurs,shot,,,Okafor,,,,,,,Splitter,,,,missed,,Layup,,,35-59,3,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=283
 ,,,,,,,,,,3,8.26,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,35-59,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=284
 ,,,,,,,,,,3,8.11,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Reverse Layup,,,35-59,3,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=285
 ,,,,,,,,,,3,8.09,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,35-59,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=286
 ,,,,,,,,,,3,8.01,San Antonio Spurs,shot,Parker,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,35-62,25,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=287
 ,,,,,,,,,,3,7.44,Washington Wizards,turnover,,,,,,,,,,Temple Out of Bounds,,,Lost Ball,,,,,,35-62,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=288
-,,,,,,,,,,3,7.27,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,35-62,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=289
+,,,,,,,,,,3,7.27,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,Webster,,,,35-62,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=289
 ,,,,,,,,,,3,7.23,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Layup,,,37-62,2,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=290
 ,,,,,,,,,,3,7.03,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Jump Shot,,,37-64,16,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=291
 ,,,,,,,,,,3,6.48,Washington Wizards,turnover,,,,,,,,,,Nene Out of Bounds,,,Lost Ball,,,,,,37-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=292
@@ -255,12 +255,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.31,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Driving Jump Shot,,,37-64,4,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=296
 ,,,,,,,,,,3,6.29,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,37-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=297
 ,,,,,,,,,,3,6.12,Washington Wizards,shot,Webster,,,,,,,,,Wall,2,,,made,,Jump Shot,,,39-64,19,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=298
-,,,,,,,,,,3,5.55,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Bad Pass,,,,,,39-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=299
+,,,,,,,,,,3,5.55,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Bad Pass,,Singleton,,,,39-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=299
 ,,,,,,,,,,3,5.47,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Jump Shot,,,39-64,19,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=300
 ,,,,,,,,,,3,5.46,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,39-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=301
 ,,,,,,,,,,3,5.40,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,39-64,25,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=302
 ,,,,,,,,,,3,5.39,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,39-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=303
-,,,,,,,,,,3,5.23,Washington Wizards,turnover,,,,,,,,,,Webster,,,Lost Ball,,,,,,39-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=304
+,,,,,,,,,,3,5.23,Washington Wizards,turnover,,,,,,,,,,Webster,,,Lost Ball,,Diaw,,,,39-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=304
 ,,,,,,,,,,3,5.23,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,39-64,20,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=308
 ,,,,,,,,,,3,5.06,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,39-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=305
 ,,,,,,,,,,3,5.06,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,39-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=306
@@ -272,13 +272,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.56,Washington Wizards,free throw,,,,,,,1,,1,Wall,1,,foul,made,,,,,42-64,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=314
 ,,,,,,,,,,3,4.35,San Antonio Spurs,shot,Parker,,,,,,,,,Blair,2,,,made,,Layup,,,42-66,2,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=315
 ,,,,,,,,,,3,4.17,Washington Wizards,shot,Wall,,,,,,,,,Singleton,2,,,made,,Step Back Jump Shot,,,44-66,16,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=316
-,,,,,,,,,,3,3.51,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,,,,,44-66,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=317
+,,,,,,,,,,3,3.51,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,Singleton,,,,44-66,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=317
 ,,,,,,,,,,3,3.47,Washington Wizards,shot,Wall,,,,,,,,,Webster,2,,,made,,Alley Oop Dunk,,,46-66,1,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=318
 ,,,,,,,,,,3,3.35,Washington Wizards,foul,,,,,,,,,,Singleton,,,,,,Personal,,,46-66,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=319
 ,,,,,,,,,,3,3.35,San Antonio Spurs,substitute,,,,De Colo,,Neal,,,,,,,,,,,,,46-66,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=320
 ,,,,,,,,,,3,3.25,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Layup,,,46-66,2,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=321
 ,,,,,,,,,,3,3.23,Washington Wizards,rebound,,,,,,,,,,Singleton,,,,,,,,,46-66,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=322
-,,,,,,,,,,3,3.18,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,46-66,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=323
+,,,,,,,,,,3,3.18,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Blair,,,,46-66,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=323
 ,,,,,,,,,,3,2.56,San Antonio Spurs,shot,,,,,,,,,,Diaw,,,,missed,,Jump Shot,,,46-66,5,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=324
 ,,,,,,,,,,3,2.55,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,46-66,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=325
 ,,,,,,,,,,3,2.55,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,46-66,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=326
@@ -294,7 +294,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.20,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Jump Shot,,,54-68,5,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=337
 ,,,,,,,,,,3,1.19,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,54-68,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=338
 ,,,,,,,,,,3,1.09,Washington Wizards,shot,,,,,,,,,,Webster,2,,,made,,Driving Dunk,,,56-68,1,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=339
-,,,,,,,,,,3,1.04,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,,,,,56-68,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=340
+,,,,,,,,,,3,1.04,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,Singleton,,,,56-68,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=340
 ,,,,,,,,,,3,1.01,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,3PT Jump Shot,,,56-68,25,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=341
 ,,,,,,,,,,3,0.59,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,56-68,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=342
 ,,,,,,,,,,3,0.48,San Antonio Spurs,foul,,,,,,,,,,,,,,,,,,,56-68,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=343
@@ -337,7 +337,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.51,Washington Wizards,free throw,,,,,,,2,,2,Price,,,foul,missed,,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=389
 ,,,,,,,,,,4,9.51,San Antonio Spurs,rebound,,,,,,,,,,Bonner,,,,,,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=391
 ,,,,,,,,,,4,9.41,Washington Wizards,foul,,,,,,,,,,Seraphin,,,,,,Personal,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=392
-,,,,,,,,,,4,9.32,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=393
+,,,,,,,,,,4,9.32,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,Wall,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=393
 ,,,,,,,,,,4,9.28,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Layup,,,61-73,1,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=394
 ,,,,,,,,,,4,9.26,Washington Wizards,rebound,,,,,,,,,,Wall,,,,,,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=396
 ,,,,,,,,,,4,9.26,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Putback Layup,,,61-73,2,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=395
@@ -350,7 +350,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.58,San Antonio Spurs,substitute,,,,Parker,,Mills,,,,,,,,,,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=404
 ,,,,,,,,,,4,8.58,San Antonio Spurs,substitute,,,,Leonard,,Jackson,,,,,,,,,,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=405
 ,,,,,,,,,,4,8.58,San Antonio Spurs,substitute,,,,Splitter,,Diaw,,,,,,,,,,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=406
-,,,,,,,,,,4,8.42,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=407
+,,,,,,,,,,4,8.42,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,Ariza,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=407
 ,,,,,,,,,,4,8.37,Washington Wizards,shot,Price,,,,,,,,,Ariza,2,,,made,,Layup,,,67-73,1,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=408
 ,,,,,,,,,,4,8.19,San Antonio Spurs,shot,,,,,,,,,,Splitter,2,,,made,,Dunk,,,67-75,1,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=409
 ,,,,,,,,,,4,8.04,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,3PT Jump Shot,,,67-75,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=410
@@ -400,11 +400,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.39,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=459
 ,,,,,,,,,,4,2.18,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Driving Layup,,,75-84,1,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=460
 ,,,,,,,,,,4,2.16,Washington Wizards,rebound,,,,,,,,,,Singleton,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=461
-,,,,,,,,,,4,2.13,Washington Wizards,turnover,,,,,,,,,,Wall,,,Lost Ball,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=462
+,,,,,,,,,,4,2.13,Washington Wizards,turnover,,,,,,,,,,Wall,,,Lost Ball,,Leonard,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=462
 ,,,,,,,,,,4,2.11,Washington Wizards,foul,,,,,,,,,,Webster,,,,,,Personal,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=463
 ,,,,,,,,,,4,2.11,San Antonio Spurs,free throw,,,,,,,1,,2,Leonard,1,,foul,made,,,,,75-85,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=464
 ,,,,,,,,,,4,2.11,San Antonio Spurs,free throw,,,,,,,2,,2,Leonard,1,,foul,made,,,,,75-86,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=466
-,,,,,,,,,,4,2.04,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Jump Shot,,,75-86,4,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=468
+,,,,,,,,,,4,2.04,Washington Wizards,shot,,,Green,,,,,,,Wall,,,,missed,,Jump Shot,,,75-86,4,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=468
 ,,,,,,,,,,4,2.03,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,75-86,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=469
 ,,,,,,,,,,4,1.50,San Antonio Spurs,shot,Splitter,,,,,,,,,Parker,2,,,made,,Reverse Layup,,,75-88,1,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=470
 ,,,,,,,,,,4,1.50,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,75-88,,http://stats.nba.com/cvp.html?GameID=0021200702&GameEventID=471

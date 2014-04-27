@@ -18,7 +18,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.50,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=18
 ,,,,,,,,,,1,8.31,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,6-6,19,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=19
 ,,,,,,,,,,1,8.30,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=20
-,,,,,,,,,,1,8.29,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Lost Ball,,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=21
+,,,,,,,,,,1,8.29,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Lost Ball,,Millsap,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=21
 ,,,,,,,,,,1,8.22,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,6-6,14,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=22
 ,,,,,,,,,,1,8.21,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=23
 ,,,,,,,,,,1,8.18,Utah Jazz,shot,,,,,,,,,,Millsap,2,,,made,,Layup,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=24
@@ -59,7 +59,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.19,Utah Jazz,substitute,,,,Evans,,Millsap,,,,,,,,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=62
 ,,,,,,,,,,1,2.19,Los Angeles Clippers,free throw,,,,,,,2,,2,Barnes,,,foul,missed,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=63
 ,,,,,,,,,,1,2.17,Utah Jazz,rebound,,,,,,,,,,Foye,,,,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=65
-,,,,,,,,,,1,1.59,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=66
+,,,,,,,,,,1,1.59,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,Crawford,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=66
 ,,,,,,,,,,1,1.51,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,16-21,18,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=67
 ,,,,,,,,,,1,1.50,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=68
 ,,,,,,,,,,1,1.39,Utah Jazz,shot,Evans,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,16-24,24,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=69
@@ -73,7 +73,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.52,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Jump Shot,,,16-26,23,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=77
 ,,,,,,,,,,1,0.50,Utah Jazz,rebound,,,,,,,,,,Evans,,,,,,,,,16-26,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=78
 ,,,,,,,,,,1,0.42,Utah Jazz,shot,Williams,,,,,,,,,Hayward,3,,,made,,3PT Jump Shot,,,16-29,24,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=79
-,,,,,,,,,,1,0.25,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Layup,,,16-29,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=80
+,,,,,,,,,,1,0.25,Los Angeles Clippers,shot,,,Evans,,,,,,,Bledsoe,,,,missed,,Layup,,,16-29,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=80
 ,,,,,,,,,,1,0.25,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,16-29,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=81
 ,,,,,,,,,,1,0.25,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Layup,,,18-29,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=82
 ,,,,,,,,,,1,0.25,Utah Jazz,foul,,,,,,,,,,Evans,,,,,,Shooting,,,18-29,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=83
@@ -82,20 +82,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.03,Utah Jazz,shot,Williams,,,,,,,,,Foye,2,,,made,,Layup,,,19-31,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=87
 ,,,,,,,,,,1,0.00,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,19-31,46,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=88
 ,,,,,,,,,,1,0.00,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,19-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=89
-,,,,,,,,,,2,11.48,Utah Jazz,turnover,,,,,,,,,,Watson,,,Bad Pass,,,,,,19-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=93
+,,,,,,,,,,2,11.48,Utah Jazz,turnover,,,,,,,,,,Watson,,,Bad Pass,,Barnes,,,,19-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=93
 ,,,,,,,,,,2,11.43,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Reverse Layup,,,21-31,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=94
 ,,,,,,,,,,2,11.43,Utah Jazz,foul,,,,,,,,,,Hayward,,,,,,Shooting,,,21-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=95
 ,,,,,,,,,,2,11.43,Los Angeles Clippers,free throw,,,,,,,1,,1,Bledsoe,1,,foul,made,,,,,22-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=96
-,,,,,,,,,,2,11.29,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Bad Pass,,,,,,22-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=98
+,,,,,,,,,,2,11.29,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Bad Pass,,Bledsoe,,,,22-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=98
 ,,,,,,,,,,2,11.24,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Driving Layup,,,24-31,1,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=99
-,,,,,,,,,,2,10.59,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,Layup,,,24-31,3,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=100
+,,,,,,,,,,2,10.59,Utah Jazz,shot,,,Odom,,,,,,,Burks,,,,missed,,Layup,,,24-31,3,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=100
 ,,,,,,,,,,2,10.58,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=101
 ,,,,,,,,,,2,10.49,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,24-31,25,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=102
 ,,,,,,,,,,2,10.48,Utah Jazz,rebound,,,,,,,,,,Watson,,,,,,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=103
 ,,,,,,,,,,2,10.40,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,24-31,24,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=104
 ,,,,,,,,,,2,10.36,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=106
 ,,,,,,,,,,2,10.36,Utah Jazz,shot,,,,,,,,,,Kanter,2,,,made,,Tip Shot,,,24-33,1,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=105
-,,,,,,,,,,2,10.14,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,,,,,24-33,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=132
+,,,,,,,,,,2,10.14,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,Watson,,,,24-33,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=132
 ,,,,,,,,,,2,10.11,Los Angeles Clippers,foul,,,,,,,,,,Bledsoe,,,,,,Shooting,,,24-33,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=108
 ,,,,,,,,,,2,10.11,Utah Jazz,free throw,,,,,,,1,,2,Hayward,,,foul,missed,,,,,24-33,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=110
 ,,,,,,,,,,2,10.11,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,24-33,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=111
@@ -143,7 +143,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.40,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Jump Shot,,,39-46,19,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=162
 ,,,,,,,,,,2,4.22,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,39-46,23,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=163
 ,,,,,,,,,,2,4.20,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=164
-,,,,,,,,,,2,4.11,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=165
+,,,,,,,,,,2,4.11,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,Williams,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=165
 ,,,,,,,,,,2,4.05,Utah Jazz,shot,,,,,,,,,,Hayward,2,,,made,,Slam Dunk,,,39-48,1,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=166
 ,,,,,,,,,,2,3.51,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Driving Jump Shot,,,41-48,3,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=167
 ,,,,,,,,,,2,3.51,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Shooting,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=168
@@ -175,7 +175,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.41,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Offensive Goaltending,,,,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=201
 ,,,,,,,,,,2,0.31,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=202
 ,,,,,,,,,,2,0.29,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=203
-,,,,,,,,,,2,0.18,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=204
+,,,,,,,,,,2,0.18,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,Butler,,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=204
 ,,,,,,,,,,2,0.01,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Jump Bank Shot,,,51-58,4,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=205
 ,,,,,,,,,,2,0.00,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=206
 ,,,,,,,,,,3,11.39,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Jump Hook Shot,,,51-60,6,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=210
@@ -183,13 +183,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.22,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=212
 ,,,,,,,,,,3,11.22,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Loose ball,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=213
 ,,,,,,,,,,3,11.11,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Turnaround Bank Shot,,,53-60,6,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=214
-,,,,,,,,,,3,10.48,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,53-60,17,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=215
+,,,,,,,,,,3,10.48,Utah Jazz,shot,,,Jordan,,,,,,,Jefferson,,,,missed,,Jump Shot,,,53-60,17,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=215
 ,,,,,,,,,,3,10.47,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,53-60,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=216
 ,,,,,,,,,,3,10.43,Utah Jazz,foul,,,,,,,,,,Williams,,,,,,Personal,,,53-60,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=217
-,,,,,,,,,,3,10.28,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,,,,,53-60,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=218
+,,,,,,,,,,3,10.28,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,Jefferson,,,,53-60,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=218
 ,,,,,,,,,,3,10.11,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,53-60,24,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=219
 ,,,,,,,,,,3,10.10,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,53-60,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=220
-,,,,,,,,,,3,9.53,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Driving Layup,,,53-60,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=221
+,,,,,,,,,,3,9.53,Los Angeles Clippers,shot,,,Jefferson,,,,,,,Griffin,,,,missed,,Driving Layup,,,53-60,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=221
 ,,,,,,,,,,3,9.51,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,53-60,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=222
 ,,,,,,,,,,3,9.40,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,53-60,25,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=223
 ,,,,,,,,,,3,9.39,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,53-60,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=224
@@ -198,13 +198,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.54,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,53-62,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=227
 ,,,,,,,,,,3,8.45,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Fadeaway Jumper,,,53-62,7,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=228
 ,,,,,,,,,,3,8.44,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,53-62,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=229
-,,,,,,,,,,3,8.30,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Driving Dunk,,,53-62,5,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=230
+,,,,,,,,,,3,8.30,Los Angeles Clippers,shot,,,Jefferson,,,,,,,Butler,,,,missed,,Driving Dunk,,,53-62,5,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=230
 ,,,,,,,,,,3,8.30,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,53-62,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=231
-,,,,,,,,,,3,8.28,Los Angeles Clippers,turnover,,,,,,,,,,Billups,,,Bad Pass,,,,,,53-62,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=232
+,,,,,,,,,,3,8.28,Los Angeles Clippers,turnover,,,,,,,,,,Billups,,,Bad Pass,,Foye,,,,53-62,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=232
 ,,,,,,,,,,3,8.24,Utah Jazz,shot,,,,,,,,,,Foye,2,,,made,,Slam Dunk,,,53-64,1,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=233
 ,,,,,,,,,,3,8.23,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=234
 ,,,,,,,,,,3,8.12,Los Angeles Clippers,shot,Paul,,,,,,,,,Griffin,2,,,made,,Slam Dunk,,,55-64,1,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=236
-,,,,,,,,,,3,7.49,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=237
+,,,,,,,,,,3,7.49,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Griffin,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=237
 ,,,,,,,,,,3,7.43,Los Angeles Clippers,shot,Paul,,,,,,,,,Billups,2,,,made,,Layup,,,57-64,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=238
 ,,,,,,,,,,3,7.19,Utah Jazz,shot,Foye,,,,,,,,,Millsap,2,,,made,,Jump Shot,,,57-66,22,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=239
 ,,,,,,,,,,3,7.02,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,3PT Jump Shot,,,57-66,24,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=240
@@ -229,7 +229,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.24,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,57-71,19,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=260
 ,,,,,,,,,,3,5.21,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,57-71,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=262
 ,,,,,,,,,,3,5.21,Los Angeles Clippers,shot,,,,,,,,,,Jordan,2,,,made,,Putback Dunk,,,59-71,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=261
-,,,,,,,,,,3,5.04,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,59-71,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=263
+,,,,,,,,,,3,5.04,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,Paul,,,,59-71,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=263
 ,,,,,,,,,,3,5.00,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Layup,,,59-71,1,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=264
 ,,,,,,,,,,3,4.58,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,59-71,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=266
 ,,,,,,,,,,3,4.58,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Putback Layup,,,61-71,3,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=265
@@ -242,7 +242,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.12,Utah Jazz,shot,Williams,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,61-74,25,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=276
 ,,,,,,,,,,3,3.51,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Jump Shot,,,61-74,20,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=277
 ,,,,,,,,,,3,3.50,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,61-74,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=278
-,,,,,,,,,,3,3.34,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Lost Ball,,,,,,61-74,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=280
+,,,,,,,,,,3,3.34,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Lost Ball,,Butler,,,,61-74,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=280
 ,,,,,,,,,,3,3.34,Utah Jazz,jumpball,,Butler,,,Kanter,,,,,,,,,,,,,,61-74,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=279
 ,,,,,,,,,,3,3.24,Los Angeles Clippers,shot,Crawford,,,,,,,,,Griffin,2,,,made,,Layup,,,63-74,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=281
 ,,,,,,,,,,3,3.24,Utah Jazz,foul,,,,,,,,,,Kanter,,,,,,Shooting,,,63-74,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=282
@@ -277,7 +277,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.09,Utah Jazz,substitute,,,,Evans,,Jefferson,,,,,,,,,,,,,73-83,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=315
 ,,,,,,,,,,3,0.03,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Jump Shot,,,73-83,14,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=316
 ,,,,,,,,,,3,0.01,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,73-83,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=317
-,,,,,,,,,,4,11.51,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Layup,,,73-83,3,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=321
+,,,,,,,,,,4,11.51,Los Angeles Clippers,shot,,,Evans,,,,,,,Griffin,,,,missed,,Layup,,,73-83,3,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=321
 ,,,,,,,,,,4,11.51,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,73-83,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=322
 ,,,,,,,,,,4,11.38,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,73-83,24,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=323
 ,,,,,,,,,,4,11.37,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,73-83,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=324
@@ -322,7 +322,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.49,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,3PT Jump Shot,,,82-88,25,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=369
 ,,,,,,,,,,4,7.48,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=370
 ,,,,,,,,,,4,7.44,Los Angeles Clippers,shot,,,,,,,,,,Odom,2,,,made,,Jump Shot,,,84-88,4,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=371
-,,,,,,,,,,4,7.23,Utah Jazz,turnover,,,,,,,,,,Burks,,,Lost Ball,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=372
+,,,,,,,,,,4,7.23,Utah Jazz,turnover,,,,,,,,,,Burks,,,Lost Ball,,Barnes,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=372
 ,,,,,,,,,,4,7.19,Los Angeles Clippers,foul,,,,,,,,,,,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=373
 ,,,,,,,,,,4,7.19,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Foul,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=374
 ,,,,,,,,,,4,7.19,Utah Jazz,substitute,,,,Foye,,Burks,,,,,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=375
@@ -332,7 +332,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.19,Los Angeles Clippers,substitute,,,,Jordan,,Turiaf,,,,,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=379
 ,,,,,,,,,,4,7.02,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,84-88,23,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=380
 ,,,,,,,,,,4,7.01,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=381
-,,,,,,,,,,4,6.58,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=382
+,,,,,,,,,,4,6.58,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Odom,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=382
 ,,,,,,,,,,4,6.46,Los Angeles Clippers,shot,Barnes,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,87-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=383
 ,,,,,,,,,,4,6.34,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Personal,,,87-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=384
 ,,,,,,,,,,4,6.34,Utah Jazz,substitute,,,,Carroll,,Hayward,,,,,,,,,,,,,87-88,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=385
@@ -343,7 +343,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.01,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Driving Layup,,,89-90,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=390
 ,,,,,,,,,,4,5.41,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,89-90,25,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=391
 ,,,,,,,,,,4,5.38,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=392
-,,,,,,,,,,4,5.27,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,89-90,4,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=393
+,,,,,,,,,,4,5.27,Los Angeles Clippers,shot,,,Millsap,,,,,,,Crawford,,,,missed,,Jump Shot,,,89-90,4,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=393
 ,,,,,,,,,,4,5.27,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=394
 ,,,,,,,,,,4,5.27,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=395
 ,,,,,,,,,,4,5.27,Los Angeles Clippers,substitute,,,,Billups,,Odom,,,,,,,,,,,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=397
@@ -384,7 +384,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.39,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Driving Layup,,,101-99,2,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=437
 ,,,,,,,,,,4,0.39,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,101-99,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=438
 ,,,,,,,,,,4,0.39,Utah Jazz,substitute,,,,Hayward,,Carroll,,,,,,,,,,,,,101-99,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=440
-,,,,,,,,,,4,0.26,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,101-99,6,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=441
+,,,,,,,,,,4,0.26,Utah Jazz,shot,,,Jordan,,,,,,,Jefferson,,,,missed,,Jump Shot,,,101-99,6,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=441
 ,,,,,,,,,,4,0.24,Los Angeles Clippers,rebound,,,,,,,,,,Billups,,,,,,,,,101-99,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=442
 ,,,,,,,,,,4,0.19,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,101-99,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=443
 ,,,,,,,,,,4,0.19,Utah Jazz,substitute,,,,Carroll,,Jefferson,,,,,,,,,,,,,101-99,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=445
@@ -418,4 +418,4 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.05,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,105-101,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=483
 ,,,,,,,,,,4,0.01,Utah Jazz,shot,,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,105-104,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=485
 ,,,,,,,,,,4,0.00,Utah Jazz,substitute,,,,Carroll,,Jefferson,,,,,,,,,,,,,105-104,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=486
-,,,,,,,,,,4,0.00,Los Angeles Clippers,turnover,,,,,,,,,,Billups,,,Bad Pass,,,,,,105-104,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=487
+,,,,,,,,,,4,0.00,Los Angeles Clippers,turnover,,,,,,,,,,Billups,,,Bad Pass,,Foye,,,,105-104,,http://stats.nba.com/cvp.html?GameID=0021200249&GameEventID=487

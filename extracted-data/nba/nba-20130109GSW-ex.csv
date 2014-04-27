@@ -20,7 +20,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.29,Memphis Grizzlies,shot,,,,,,,,,,Gay,2,,,made,,Jump Shot,,,2-4,9,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=21
 ,,,,,,,,,,1,9.17,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Running Jump Shot,,,2-4,9,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=22
 ,,,,,,,,,,1,9.16,Memphis Grizzlies,rebound,,,,,,,,,,Gay,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=23
-,,,,,,,,,,1,9.01,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Jump Shot,,,2-4,4,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=24
+,,,,,,,,,,1,9.01,Memphis Grizzlies,shot,,,Ezeli,,,,,,,Conley,,,,missed,,Jump Shot,,,2-4,4,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=24
 ,,,,,,,,,,1,8.59,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=25
 ,,,,,,,,,,1,8.56,Golden State Warriors,shot,Barnes,,,,,,,,,Thompson,2,,,made,,Driving Layup,,,2-6,1,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=26
 ,,,,,,,,,,1,8.54,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=27
@@ -35,7 +35,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.53,Memphis Grizzlies,rebound,,,,,,,,,,Gay,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=40
 ,,,,,,,,,,1,7.34,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,6-8,21,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=41
 ,,,,,,,,,,1,7.33,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=42
-,,,,,,,,,,1,7.14,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=43
+,,,,,,,,,,1,7.14,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,Randolph,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=43
 ,,,,,,,,,,1,7.08,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Driving Layup,,,8-8,1,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=44
 ,,,,,,,,,,1,6.53,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,8-8,18,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=45
 ,,,,,,,,,,1,6.51,Golden State Warriors,rebound,,,,,,,,,,Ezeli,,,,,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=46
@@ -45,8 +45,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.13,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,8-10,26,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=51
 ,,,,,,,,,,1,6.12,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=52
 ,,,,,,,,,,1,6.11,Golden State Warriors,shot,,,,,,,,,,Thompson,2,,,made,,Layup,,,8-12,2,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=53
-,,,,,,,,,,1,6.04,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Lost Ball,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=54
-,,,,,,,,,,1,5.59,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Lost Ball,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=55
+,,,,,,,,,,1,6.04,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Lost Ball,,Lee,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=54
+,,,,,,,,,,1,5.59,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Lost Ball,,Conley,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=55
 ,,,,,,,,,,1,5.54,Memphis Grizzlies,shot,Conley,,,,,,,,,Gay,2,,,made,,Driving Layup,,,10-12,1,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=56
 ,,,,,,,,,,1,5.34,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Jump Shot,,,10-14,20,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=57
 ,,,,,,,,,,1,5.16,Golden State Warriors,foul,,,,,,,,,,,,,,,,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=58
@@ -76,7 +76,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.17,Memphis Grizzlies,substitute,,,,Speights,,Randolph,,,,,,,,,,,,,21-18,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=84
 ,,,,,,,,,,1,2.17,Memphis Grizzlies,free throw,,,,,,,1,,1,Allen,,,foul,missed,,,,,21-18,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=85
 ,,,,,,,,,,1,2.16,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,21-18,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=87
-,,,,,,,,,,1,2.05,Golden State Warriors,turnover,,,,,,,,,,Jenkins,,,Lost Ball,,,,,,21-18,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=88
+,,,,,,,,,,1,2.05,Golden State Warriors,turnover,,,,,,,,,,Jenkins,,,Lost Ball,,Speights,,,,21-18,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=88
 ,,,,,,,,,,1,2.00,Memphis Grizzlies,shot,Gay,,,,,,,,,Allen,2,,,made,,Driving Layup,,,23-18,1,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=89
 ,,,,,,,,,,1,1.42,Golden State Warriors,shot,Green,,,,,,,,,Landry,2,,,made,,Jump Shot,,,23-20,14,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=90
 ,,,,,,,,,,1,1.26,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,23-20,18,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=91
@@ -123,7 +123,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.52,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,3PT Jump Shot,,,31-30,24,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=142
 ,,,,,,,,,,2,9.51,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=143
 ,,,,,,,,,,2,9.28,Memphis Grizzlies,shot,Conley,,,,,,,,,Arthur,2,,,made,,Turnaround Fadeaway,,,33-30,16,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=144
-,,,,,,,,,,2,9.17,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=145
+,,,,,,,,,,2,9.17,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,Conley,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=145
 ,,,,,,,,,,2,9.13,Golden State Warriors,foul,,,,,,,,,,Jack,,,,,,Shooting,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=146
 ,,,,,,,,,,2,9.13,Memphis Grizzlies,free throw,,,,,,,1,,2,Allen,1,,foul,made,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=147
 ,,,,,,,,,,2,9.13,Memphis Grizzlies,free throw,,,,,,,2,,2,Allen,1,,foul,made,,,,,35-30,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=149
@@ -150,7 +150,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.36,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,43-32,20,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=172
 ,,,,,,,,,,2,6.35,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,43-32,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=173
 ,,,,,,,,,,2,6.25,Memphis Grizzlies,shot,Conley,,,,,,,,,Arthur,2,,,made,,Layup,,,45-32,2,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=174
-,,,,,,,,,,2,6.03,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,,,,,45-32,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=175
+,,,,,,,,,,2,6.03,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,Arthur,,,,45-32,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=175
 ,,,,,,,,,,2,6.01,Golden State Warriors,foul,,,,,,,,,,Lee,,,,,,Personal,,,45-32,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=176
 ,,,,,,,,,,2,6.01,Memphis Grizzlies,substitute,,,,Gasol,,Arthur,,,,,,,,,,,,,45-32,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=177
 ,,,,,,,,,,2,5.43,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Hook Shot,,,45-32,5,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=178
@@ -169,7 +169,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.19,Golden State Warriors,foul,,,,,,,,,,,,,,,,,,,50-36,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=193
 ,,,,,,,,,,2,4.19,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Foul,,,,,,50-36,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=194
 ,,,,,,,,,,2,4.00,Golden State Warriors,jumpball,,Allen,,,Barnes,,,,,,,,,,,,,,50-36,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=195
-,,,,,,,,,,2,3.55,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,,,,,50-36,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=196
+,,,,,,,,,,2,3.55,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,Ezeli,,,,50-36,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=196
 ,,,,,,,,,,2,3.45,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,50-36,3,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=197
 ,,,,,,,,,,2,3.43,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,50-36,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=198
 ,,,,,,,,,,2,3.42,Golden State Warriors,shot,,,,,,,,,,Lee,2,,,made,,Layup,,,50-38,2,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=199
@@ -178,7 +178,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.16,Golden State Warriors,substitute,,,,Jack,,Barnes,,,,,,,,,,,,,50-38,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=204
 ,,,,,,,,,,2,3.16,Memphis Grizzlies,substitute,,,,Gay,,Allen,,,,,,,,,,,,,50-38,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=205
 ,,,,,,,,,,2,3.01,Golden State Warriors,shot,Thompson,,,,,,,,,Curry,3,,,made,,3PT Jump Shot,,,50-41,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=206
-,,,,,,,,,,2,2.35,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,50-41,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=207
+,,,,,,,,,,2,2.35,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Ezeli,,,,50-41,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=207
 ,,,,,,,,,,2,2.20,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,50-41,3,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=208
 ,,,,,,,,,,2,2.19,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,50-41,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=209
 ,,,,,,,,,,2,2.06,Memphis Grizzlies,shot,,,,,,,,,,Gasol,2,,,made,,Hook Shot,,,52-41,7,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=210
@@ -193,7 +193,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.50,Memphis Grizzlies,substitute,,,,Arthur,,Randolph,,,,,,,,,,,,,55-41,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=219
 ,,,,,,,,,,2,0.50,Golden State Warriors,substitute,,,,Landry,,Lee,,,,,,,,,,,,,55-41,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=220
 ,,,,,,,,,,2,0.37,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Reverse Layup,,,55-43,2,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=221
-,,,,,,,,,,2,0.29,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,,,,,55-43,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=222
+,,,,,,,,,,2,0.29,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,Curry,,,,55-43,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=222
 ,,,,,,,,,,2,0.18,Golden State Warriors,shot,Jack,,,,,,,,,Curry,3,,,made,,3PT Jump Shot,,,55-46,26,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=223
 ,,,,,,,,,,2,0.02,Golden State Warriors,foul,,,,,,,,,,Curry,,,,,,Personal Take,,,55-46,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=224
 ,,,,,,,,,,2,0.02,Golden State Warriors,substitute,,,,Jenkins,,Curry,,,,,,,,,,,,,55-46,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=225
@@ -203,8 +203,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,55-46,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=229
 ,,,,,,,,,,3,11.44,Golden State Warriors,shot,Curry,,,,,,,,,Thompson,3,,,made,,3PT Jump Shot,,,55-49,24,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=233
 ,,,,,,,,,,3,11.22,Memphis Grizzlies,shot,Gasol,,,,,,,,,Gay,2,,,made,,Jump Shot,,,57-49,19,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=234
-,,,,,,,,,,3,11.04,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Lost Ball,,,,,,57-49,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=235
-,,,,,,,,,,3,11.00,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,57-49,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=236
+,,,,,,,,,,3,11.04,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Lost Ball,,Conley,,,,57-49,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=235
+,,,,,,,,,,3,11.00,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,Barnes,,,,57-49,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=236
 ,,,,,,,,,,3,10.53,Golden State Warriors,foul,,,,,,,,,,,,,,,,,,,57-49,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=237
 ,,,,,,,,,,3,10.53,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Foul,,,,,,57-49,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=238
 ,,,,,,,,,,3,10.37,Golden State Warriors,jumpball,,Gay,,,Barnes,,,,,,,,,,,,,,57-49,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=239
@@ -217,8 +217,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.39,Golden State Warriors,free throw,,,,,,,1,,2,Lee,,,foul,missed,,,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=246
 ,,,,,,,,,,3,9.39,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=247
 ,,,,,,,,,,3,9.39,Golden State Warriors,free throw,,,,,,,2,,2,Lee,1,,foul,made,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=248
-,,,,,,,,,,3,9.27,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=250
-,,,,,,,,,,3,9.16,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=251
+,,,,,,,,,,3,9.27,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,Thompson,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=250
+,,,,,,,,,,3,9.16,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,Allen,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=251
 ,,,,,,,,,,3,9.11,Memphis Grizzlies,shot,Allen,,,,,,,,,Gay,2,,,made,,Slam Dunk,,,61-50,1,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=252
 ,,,,,,,,,,3,8.58,Golden State Warriors,shot,Curry,,,,,,,,,Ezeli,2,,,made,,Layup,,,61-52,1,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=253
 ,,,,,,,,,,3,8.42,Golden State Warriors,foul,,,,,,,,,,Barnes,,,,,,Personal,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=254
@@ -234,19 +234,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.37,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,3PT Jump Shot,,,61-52,25,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=264
 ,,,,,,,,,,3,7.36,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=265
 ,,,,,,,,,,3,7.34,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=266
-,,,,,,,,,,3,7.18,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=269
+,,,,,,,,,,3,7.18,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Curry,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=269
 ,,,,,,,,,,3,7.15,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Step Out of Bounds,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=270
 ,,,,,,,,,,3,7.08,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,61-52,14,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=271
 ,,,,,,,,,,3,7.06,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=272
-,,,,,,,,,,3,6.56,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=273
-,,,,,,,,,,3,6.32,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=276
+,,,,,,,,,,3,6.56,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Randolph,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=273
+,,,,,,,,,,3,6.32,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Ezeli,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=276
 ,,,,,,,,,,3,6.29,Golden State Warriors,shot,Lee,,,,,,,,,Curry,2,,,made,,Layup,,,61-54,1,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=277
 ,,,,,,,,,,3,6.05,Memphis Grizzlies,shot,,,,,,,,,,Gasol,2,,,made,,Layup,,,63-54,1,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=278
 ,,,,,,,,,,3,6.05,Golden State Warriors,foul,,,,,,,,,,Ezeli,,,,,,Shooting,,,63-54,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=279
 ,,,,,,,,,,3,6.05,Memphis Grizzlies,substitute,,,,Ellington,,Allen,,,,,,,,,,,,,63-54,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=280
 ,,,,,,,,,,3,6.05,Golden State Warriors,substitute,,,,Biedrins,,Ezeli,,,,,,,,,,,,,63-54,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=281
 ,,,,,,,,,,3,6.05,Memphis Grizzlies,free throw,,,,,,,1,,1,Gasol,1,,foul,made,,,,,64-54,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=282
-,,,,,,,,,,3,5.46,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,64-54,3,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=284
+,,,,,,,,,,3,5.46,Golden State Warriors,shot,,,Gasol,,,,,,,Thompson,,,,missed,,Jump Shot,,,64-54,3,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=284
 ,,,,,,,,,,3,5.43,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,64-54,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=285
 ,,,,,,,,,,3,5.39,Memphis Grizzlies,shot,,,,,,,,,,Ellington,,,,missed,,3PT Jump Shot,,,64-54,25,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=286
 ,,,,,,,,,,3,5.37,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,64-54,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=287
@@ -303,7 +303,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.34,Memphis Grizzlies,free throw,,,,,,,1,,2,Gasol,1,,foul,made,,,,,67-63,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=343
 ,,,,,,,,,,3,0.34,Memphis Grizzlies,free throw,,,,,,,2,,2,Gasol,,,foul,missed,,,,,67-63,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=345
 ,,,,,,,,,,3,0.33,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,67-63,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=347
-,,,,,,,,,,3,0.14,Golden State Warriors,turnover,,,,,,,,,,Landry,,,Lost Ball,,,,,,67-63,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=348
+,,,,,,,,,,3,0.14,Golden State Warriors,turnover,,,,,,,,,,Landry,,,Lost Ball,,Bayless,,,,67-63,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=348
 ,,,,,,,,,,3,0.02,Golden State Warriors,foul,,,,,,,,,,Barnes,,,,,,Personal,,,67-63,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=349
 ,,,,,,,,,,3,0.02,Memphis Grizzlies,free throw,,,,,,,1,,2,Conley,,,foul,missed,,,,,67-63,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=350
 ,,,,,,,,,,3,0.02,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,67-63,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=351
@@ -321,7 +321,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.41,Memphis Grizzlies,foul,,,,,,,,,,Speights,,,,,,Shooting,,,70-67,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=367
 ,,,,,,,,,,4,10.41,Golden State Warriors,free throw,,,,,,,1,,1,Lee,,,foul,missed,,,,,70-67,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=368
 ,,,,,,,,,,4,10.40,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,70-67,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=370
-,,,,,,,,,,4,10.21,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Hook Shot,,,70-67,9,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=371
+,,,,,,,,,,4,10.21,Memphis Grizzlies,shot,,,Barnes,,,,,,,Allen,,,,missed,,Hook Shot,,,70-67,9,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=371
 ,,,,,,,,,,4,10.20,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,70-67,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=372
 ,,,,,,,,,,4,10.18,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,70-67,2,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=373
 ,,,,,,,,,,4,10.15,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,70-67,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=375
@@ -363,7 +363,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.54,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,76-74,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=415
 ,,,,,,,,,,4,6.54,Golden State Warriors,free throw,,,,,,,2,,2,Landry,1,,foul,made,,,,,76-75,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=416
 ,,,,,,,,,,4,6.30,Memphis Grizzlies,shot,Gay,,,,,,,,,Conley,2,,,made,,Driving Layup,,,78-75,2,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=418
-,,,,,,,,,,4,6.13,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,78-75,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=419
+,,,,,,,,,,4,6.13,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Bayless,,,,78-75,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=419
 ,,,,,,,,,,4,5.53,Memphis Grizzlies,shot,Gay,,,,,,,,,Randolph,2,,,made,,Hook Shot,,,80-75,6,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=420
 ,,,,,,,,,,4,5.35,Golden State Warriors,shot,Jack,,,,,,,,,Landry,2,,,made,,Jump Shot,,,80-77,15,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=421
 ,,,,,,,,,,4,5.19,Golden State Warriors,foul,,,,,,,,,,Landry,,,,,,Personal,,,80-77,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=422
@@ -392,11 +392,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.27,Memphis Grizzlies,foul,,,,,,,,,,,,,,,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=449
 ,,,,,,,,,,4,2.27,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Foul,,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=450
 ,,,,,,,,,,4,2.27,Golden State Warriors,substitute,,,,Landry,,Ezeli,,,,,,,,,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=451
-,,,,,,,,,,4,2.14,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=452
+,,,,,,,,,,4,2.14,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,Gasol,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=452
 ,,,,,,,,,,4,2.11,Golden State Warriors,foul,,,,,,,,,,Curry,,,,,,Shooting,,,84-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=453
 ,,,,,,,,,,4,2.11,Memphis Grizzlies,free throw,,,,,,,1,,2,Conley,1,,foul,made,,,,,85-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=454
 ,,,,,,,,,,4,2.11,Memphis Grizzlies,free throw,,,,,,,2,,2,Conley,1,,foul,made,,,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=456
-,,,,,,,,,,4,1.55,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Jump Shot,,,86-82,13,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=458
+,,,,,,,,,,4,1.55,Golden State Warriors,shot,,,Bayless,,,,,,,Jack,,,,missed,,Jump Shot,,,86-82,13,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=458
 ,,,,,,,,,,4,1.53,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=459
 ,,,,,,,,,,4,1.51,Memphis Grizzlies,shot,Gay,,,,,,,,,Conley,2,,,made,,Driving Layup,,,88-82,1,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=460
 ,,,,,,,,,,4,1.51,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,88-82,,http://stats.nba.com/cvp.html?GameID=0021200526&GameEventID=461

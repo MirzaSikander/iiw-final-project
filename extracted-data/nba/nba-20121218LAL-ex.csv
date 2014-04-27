@@ -22,7 +22,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.40,Los Angeles Lakers,foul,,,,,,,,,,Ebanks,,,,,,Shooting,,,5-5,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=27
 ,,,,,,,,,,1,9.40,Charlotte Bobcats,free throw,,,,,,,1,,2,Henderson,1,,foul,made,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=28
 ,,,,,,,,,,1,9.40,Charlotte Bobcats,free throw,,,,,,,2,,2,Henderson,1,,foul,made,,,,,7-5,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=30
-,,,,,,,,,,1,9.26,Los Angeles Lakers,shot,,,,,,,,,,Ebanks,,,,missed,,Layup,,,7-5,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=32
+,,,,,,,,,,1,9.26,Los Angeles Lakers,shot,,,Mullens,,,,,,,Ebanks,,,,missed,,Layup,,,7-5,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=32
 ,,,,,,,,,,1,9.24,Los Angeles Lakers,rebound,,,,,,,,,,Ebanks,,,,,,,,,7-5,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=34
 ,,,,,,,,,,1,9.24,Los Angeles Lakers,shot,,,,,,,,,,Ebanks,,,,missed,,Tip Shot,,,7-5,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=33
 ,,,,,,,,,,1,9.21,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,7-5,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=35
@@ -33,7 +33,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.02,Los Angeles Lakers,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,7-5,16,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=40
 ,,,,,,,,,,1,9.01,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,7-5,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=41
 ,,,,,,,,,,1,8.54,Charlotte Bobcats,shot,Henderson,,,,,,,,,Mullens,3,,,made,,3PT Jump Shot,,,10-5,25,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=42
-,,,,,,,,,,1,8.44,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=44
+,,,,,,,,,,1,8.44,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,Walker,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=44
 ,,,,,,,,,,1,8.41,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Driving Layup,,,12-5,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=45
 ,,,,,,,,,,1,8.24,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,12-5,18,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=47
 ,,,,,,,,,,1,8.23,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,12-5,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=48
@@ -51,7 +51,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.38,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=62
 ,,,,,,,,,,1,6.38,Charlotte Bobcats,substitute,,,,Taylor,,Biyombo,,,,,,,,,,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=63
 ,,,,,,,,,,1,6.38,Los Angeles Lakers,free throw,,,,,,,1,,1,Bryant,1,,foul,made,,,,,16-11,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=64
-,,,,,,,,,,1,6.27,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Driving Layup,,,16-11,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=66
+,,,,,,,,,,1,6.27,Charlotte Bobcats,shot,,,Howard,,,,,,,Walker,,,,missed,,Driving Layup,,,16-11,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=66
 ,,,,,,,,,,1,6.27,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,16-11,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=67
 ,,,,,,,,,,1,6.14,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Driving Finger Roll Layup,,,16-13,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=69
 ,,,,,,,,,,1,6.00,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,16-13,19,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=70
@@ -68,13 +68,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.49,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Tip Shot,,,19-13,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=85
 ,,,,,,,,,,1,4.45,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,19-13,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=87
 ,,,,,,,,,,1,4.35,Los Angeles Lakers,shot,,,,,,,,,,Howard,2,,,made,,Layup,,,19-15,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=88
-,,,,,,,,,,1,4.27,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Driving Layup,,,19-15,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=89
+,,,,,,,,,,1,4.27,Charlotte Bobcats,shot,,,Howard,,,,,,,Kidd-Gilchrist,,,,missed,,Driving Layup,,,19-15,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=89
 ,,,,,,,,,,1,4.26,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=90
 ,,,,,,,,,,1,4.26,Los Angeles Lakers,substitute,,,,Gasol,,Howard,,,,,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=91
 ,,,,,,,,,,1,4.24,Charlotte Bobcats,shot,Walker,,,,,,,,,Kidd-Gilchrist,2,,,made,,Layup,,,21-15,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=92
 ,,,,,,,,,,1,4.09,Los Angeles Lakers,shot,,,,,,,,,,Duhon,,,,missed,,3PT Jump Shot,,,21-15,25,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=93
 ,,,,,,,,,,1,4.08,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=94
-,,,,,,,,,,1,4.01,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Bad Pass,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=95
+,,,,,,,,,,1,4.01,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Bad Pass,,Bryant,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=95
 ,,,,,,,,,,1,3.51,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Jump Shot,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=96
 ,,,,,,,,,,1,3.49,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=97
 ,,,,,,,,,,1,3.45,Los Angeles Lakers,shot,Gasol,,,,,,,,,World Peace,3,,,made,,3PT Jump Shot,,,21-18,25,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=98
@@ -88,9 +88,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.07,Los Angeles Lakers,substitute,,,,Morris,,Duhon,,,,,,,,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=106
 ,,,,,,,,,,1,3.07,Charlotte Bobcats,substitute,,,,Williams,,Kidd-Gilchrist,,,,,,,,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=107
 ,,,,,,,,,,1,3.07,Los Angeles Lakers,free throw,,,,,,,2,,2,Gasol,1,,foul,made,,,,,23-19,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=108
-,,,,,,,,,,1,2.48,Charlotte Bobcats,shot,,,,,,,,,,Mullens,,,,missed,,Driving Layup,,,23-19,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=110
+,,,,,,,,,,1,2.48,Charlotte Bobcats,shot,,,Gasol,,,,,,,Mullens,,,,missed,,Driving Layup,,,23-19,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=110
 ,,,,,,,,,,1,2.46,Los Angeles Lakers,rebound,,,,,,,,,,Meeks,,,,,,,,,23-19,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=111
-,,,,,,,,,,1,2.37,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,,,,,23-19,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=112
+,,,,,,,,,,1,2.37,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,Mullens,,,,23-19,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=112
 ,,,,,,,,,,1,2.31,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,23-19,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=113
 ,,,,,,,,,,1,2.29,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,23-19,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=114
 ,,,,,,,,,,1,2.21,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Driving Layup,,,23-21,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=115
@@ -105,12 +105,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.26,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,23-23,19,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=126
 ,,,,,,,,,,1,1.25,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=127
 ,,,,,,,,,,1,1.23,Charlotte Bobcats,shot,,,,,,,,,,Sessions,2,,,made,,Driving Layup,,,25-23,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=128
-,,,,,,,,,,1,1.10,Los Angeles Lakers,shot,,,,,,,,,,Morris,,,,missed,,Reverse Layup,,,25-23,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=129
+,,,,,,,,,,1,1.10,Los Angeles Lakers,shot,,,Williams,,,,,,,Morris,,,,missed,,Reverse Layup,,,25-23,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=129
 ,,,,,,,,,,1,1.08,Los Angeles Lakers,rebound,,,,,,,,,,Morris,,,,,,,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=130
 ,,,,,,,,,,1,1.07,Los Angeles Lakers,shot,,,,,,,,,,Morris,2,,,made,,Layup,,,25-25,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=131
-,,,,,,,,,,1,0.50,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Jump Shot,,,25-25,4,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=132
+,,,,,,,,,,1,0.50,Charlotte Bobcats,shot,,,Gasol,,,,,,,Gordon,,,,missed,,Jump Shot,,,25-25,4,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=132
 ,,,,,,,,,,1,0.46,Charlotte Bobcats,rebound,,,,,,,,,,Gordon,,,,,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=133
-,,,,,,,,,,1,0.45,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Layup,,,25-25,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=134
+,,,,,,,,,,1,0.45,Charlotte Bobcats,shot,,,Gasol,,,,,,,Gordon,,,,missed,,Layup,,,25-25,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=134
 ,,,,,,,,,,1,0.43,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=135
 ,,,,,,,,,,1,0.35,Los Angeles Lakers,shot,,,,,,,,,,Gasol,2,,,made,,Turnaround Fadeaway,,,25-27,7,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=136
 ,,,,,,,,,,1,0.16,Charlotte Bobcats,shot,,,,,,,,,,Taylor,,,,missed,,3PT Jump Shot,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=137
@@ -125,7 +125,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.48,Los Angeles Lakers,shot,Gasol,,,,,,,,,Howard,2,,,made,,Alley Oop Dunk,,,25-32,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=149
 ,,,,,,,,,,2,10.37,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=150
 ,,,,,,,,,,2,10.37,Charlotte Bobcats,substitute,,,,Mullens,,Gordon,,,,,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=151
-,,,,,,,,,,2,10.24,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Bad Pass,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=154
+,,,,,,,,,,2,10.24,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Bad Pass,,Howard,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=154
 ,,,,,,,,,,2,10.18,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Jump Shot,,,25-32,25,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=155
 ,,,,,,,,,,2,10.14,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=156
 ,,,,,,,,,,2,10.10,Los Angeles Lakers,shot,,,,,,,,,,Howard,2,,,made,,Tip Shot,,,25-34,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=157
@@ -139,7 +139,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.50,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,2,,,made,,Layup,,,27-34,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=165
 ,,,,,,,,,,2,9.41,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,3PT Jump Shot,,,27-34,25,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=167
 ,,,,,,,,,,2,9.40,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,27-34,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=168
-,,,,,,,,,,2,9.38,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,,,,,27-34,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=169
+,,,,,,,,,,2,9.38,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,Peace,,,,27-34,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=169
 ,,,,,,,,,,2,9.38,Charlotte Bobcats,foul,,,,,,,,,,Walker,,,,,,Shooting,,,27-34,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=170
 ,,,,,,,,,,2,9.38,Los Angeles Lakers,free throw,,,,,,,1,,2,World Peace,,,foul,missed,,,,,27-34,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=171
 ,,,,,,,,,,2,9.38,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,27-34,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=172
@@ -150,7 +150,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.35,Charlotte Bobcats,violation,,,,,,,,,,Mullens,,,Defensive Goaltending,,,,,,29-35,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=180
 ,,,,,,,,,,2,8.35,Los Angeles Lakers,shot,,,,,,,,,,World Peace,2,,,made,,Jump Shot,,,29-37,21,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=179
 ,,,,,,,,,,2,8.16,Charlotte Bobcats,turnover,,,,,,,,,,Henderson Out of Bounds,,,Lost Ball,,,,,,29-37,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=181
-,,,,,,,,,,2,8.13,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,Layup,,,29-37,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=182
+,,,,,,,,,,2,8.13,Los Angeles Lakers,shot,,,Kidd-Gilchrist,,,,,,,Meeks,,,,missed,,Layup,,,29-37,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=182
 ,,,,,,,,,,2,8.10,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,29-37,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=183
 ,,,,,,,,,,2,8.04,Charlotte Bobcats,shot,,,,,,,,,,Mullens,,,,missed,,3PT Jump Shot,,,29-37,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=184
 ,,,,,,,,,,2,8.03,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,29-37,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=185
@@ -162,7 +162,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.17,Charlotte Bobcats,substitute,,,,Sessions,,Kidd-Gilchrist,,,,,,,,,,,,,31-41,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=192
 ,,,,,,,,,,2,7.17,Los Angeles Lakers,free throw,,,,,,,2,,2,Howard,,,foul,missed,,,,,31-41,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=193
 ,,,,,,,,,,2,7.15,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,31-41,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=195
-,,,,,,,,,,2,7.05,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Lost Ball,,,,,,31-41,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=197
+,,,,,,,,,,2,7.05,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Lost Ball,,Peace,,,,31-41,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=197
 ,,,,,,,,,,2,7.03,Charlotte Bobcats,foul,,,,,,,,,,Sessions,,,,,,Personal Take,,,31-41,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=198
 ,,,,,,,,,,2,7.03,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,31-41,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=199
 ,,,,,,,,,,2,6.49,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,3PT Jump Shot,,,31-41,25,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=202
@@ -179,7 +179,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.23,Charlotte Bobcats,shot,Mullens,,,,,,,,,Walker,2,,,made,,Pullup Jump Shot,,,39-46,17,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=217
 ,,,,,,,,,,2,5.04,Los Angeles Lakers,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,39-46,19,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=218
 ,,,,,,,,,,2,5.03,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=219
-,,,,,,,,,,2,4.55,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Layup,,,39-46,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=220
+,,,,,,,,,,2,4.55,Charlotte Bobcats,shot,,,Bryant,,,,,,,Biyombo,,,,missed,,Layup,,,39-46,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=220
 ,,,,,,,,,,2,4.53,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=221
 ,,,,,,,,,,2,4.52,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Bad Pass,,,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=222
 ,,,,,,,,,,2,4.31,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Floating Jump Shot,,,41-46,7,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=223
@@ -189,7 +189,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.44,Los Angeles Lakers,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,41-48,17,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=227
 ,,,,,,,,,,2,3.42,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=228
 ,,,,,,,,,,2,3.30,Charlotte Bobcats,shot,Sessions,,,,,,,,,Henderson,3,,,made,,3PT Jump Shot,,,44-48,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=229
-,,,,,,,,,,2,3.16,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Layup,,,44-48,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=230
+,,,,,,,,,,2,3.16,Los Angeles Lakers,shot,,,Biyombo,,,,,,,Bryant,,,,missed,,Layup,,,44-48,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=230
 ,,,,,,,,,,2,3.14,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,44-48,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=231
 ,,,,,,,,,,2,3.09,Charlotte Bobcats,shot,,,,,,,,,,Henderson,2,,,made,,Jump Shot,,,46-48,6,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=232
 ,,,,,,,,,,2,3.09,Los Angeles Lakers,foul,,,,,,,,,,Howard,,,,,,Shooting,,,46-48,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=233
@@ -212,7 +212,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.53,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,53-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=255
 ,,,,,,,,,,2,1.32,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,3PT Jump Shot,,,53-51,26,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=256
 ,,,,,,,,,,2,1.31,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,53-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=257
-,,,,,,,,,,2,1.22,Los Angeles Lakers,shot,,,,,,,,,,Gasol,,,,missed,,Layup,,,53-51,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=258
+,,,,,,,,,,2,1.22,Los Angeles Lakers,shot,,,Mullens,,,,,,,Gasol,,,,missed,,Layup,,,53-51,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=258
 ,,,,,,,,,,2,1.20,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,53-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=259
 ,,,,,,,,,,2,1.18,Charlotte Bobcats,shot,Sessions,,,,,,,,,Walker,2,,,made,,Driving Layup,,,55-51,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=260
 ,,,,,,,,,,2,1.04,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Driving Layup,,,55-51,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=261
@@ -221,7 +221,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.59,Charlotte Bobcats,free throw,,,,,,,1,,2,Sessions,1,,foul,made,,,,,56-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=264
 ,,,,,,,,,,2,0.59,Charlotte Bobcats,substitute,,,,Haywood,,Biyombo,,,,,,,,,,,,,56-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=266
 ,,,,,,,,,,2,0.59,Charlotte Bobcats,free throw,,,,,,,2,,2,Sessions,1,,foul,made,,,,,57-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=267
-,,,,,,,,,,2,0.40,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,,,,,57-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=269
+,,,,,,,,,,2,0.40,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,Haywood,,,,57-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=269
 ,,,,,,,,,,2,0.22,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Driving Layup,,,57-51,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=271
 ,,,,,,,,,,2,0.22,Charlotte Bobcats,rebound,,,,,,,,,,Haywood,,,,,,,,,57-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=272
 ,,,,,,,,,,2,0.22,Los Angeles Lakers,foul,,,,,,,,,,Howard,,,,,,Shooting,,,57-51,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=273
@@ -234,7 +234,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.15,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,60-53,25,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=285
 ,,,,,,,,,,3,11.13,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,60-53,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=286
 ,,,,,,,,,,3,11.02,Charlotte Bobcats,shot,Henderson,,,,,,,,,Mullens,3,,,made,,3PT Jump Shot,,,63-53,26,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=287
-,,,,,,,,,,3,10.47,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,63-53,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=288
+,,,,,,,,,,3,10.47,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Walker,,,,63-53,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=288
 ,,,,,,,,,,3,10.42,Los Angeles Lakers,foul,,,,,,,,,,Gasol,,,,,,Shooting,,,63-53,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=289
 ,,,,,,,,,,3,10.42,Charlotte Bobcats,free throw,,,,,,,1,,2,Kidd-Gilchrist,,,foul,missed,,,,,63-53,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=290
 ,,,,,,,,,,3,10.42,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,63-53,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=291
@@ -264,9 +264,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.56,Los Angeles Lakers,substitute,,,,World Peace,,Gasol,,,,,,,,,,,,,71-57,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=319
 ,,,,,,,,,,3,7.56,Charlotte Bobcats,free throw,,,,,,,2,,2,Biyombo,,,foul,missed,,,,,71-57,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=320
 ,,,,,,,,,,3,7.55,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,71-57,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=322
-,,,,,,,,,,3,7.38,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Driving Layup,,,71-57,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=323
+,,,,,,,,,,3,7.38,Los Angeles Lakers,shot,,,Mullens,,,,,,,World Peace,,,,missed,,Driving Layup,,,71-57,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=323
 ,,,,,,,,,,3,7.35,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,71-57,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=324
-,,,,,,,,,,3,7.33,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Layup,,,71-57,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=325
+,,,,,,,,,,3,7.33,Los Angeles Lakers,shot,,,Mullens,,,,,,,Howard,,,,missed,,Layup,,,71-57,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=325
 ,,,,,,,,,,3,7.31,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,71-57,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=326
 ,,,,,,,,,,3,7.30,Charlotte Bobcats,shot,Walker,,,,,,,,,Kidd-Gilchrist,2,,,made,,Dunk,,,73-57,1,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=327
 ,,,,,,,,,,3,7.19,Los Angeles Lakers,shot,Bryant,,,,,,,,,Meeks,3,,,made,,3PT Jump Shot,,,73-60,26,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=328
@@ -324,13 +324,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.02,Los Angeles Lakers,free throw,,,,,,,1,,2,Gasol,,,foul,missed,,,,,80-70,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=394
 ,,,,,,,,,,3,2.02,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,80-70,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=395
 ,,,,,,,,,,3,2.02,Los Angeles Lakers,free throw,,,,,,,2,,2,Gasol,1,,foul,made,,,,,80-71,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=397
-,,,,,,,,,,3,1.38,Charlotte Bobcats,shot,,,,,,,,,,Haywood,,,,missed,,Driving Reverse Layup,,,80-71,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=399
+,,,,,,,,,,3,1.38,Charlotte Bobcats,shot,,,Gasol,,,,,,,Haywood,,,,missed,,Driving Reverse Layup,,,80-71,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=399
 ,,,,,,,,,,3,1.36,Charlotte Bobcats,rebound,,,,,,,,,,Taylor,,,,,,,,,80-71,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=400
 ,,,,,,,,,,3,1.36,Los Angeles Lakers,foul,,,,,,,,,,Gasol,,,,,,Personal,,,80-71,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=401
 ,,,,,,,,,,3,1.27,Charlotte Bobcats,shot,Sessions,,,,,,,,,Gordon,2,,,made,,Jump Shot,,,82-71,17,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=402
 ,,,,,,,,,,3,1.13,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,82-71,18,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=403
 ,,,,,,,,,,3,1.12,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=404
-,,,,,,,,,,3,0.59,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Lost Ball,,,,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=405
+,,,,,,,,,,3,0.59,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Lost Ball,,Peace,,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=405
 ,,,,,,,,,,3,0.56,Charlotte Bobcats,foul,,,,,,,,,,Mullens,,,,,,Shooting Block,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=406
 ,,,,,,,,,,3,0.56,Los Angeles Lakers,free throw,,,,,,,1,,2,World Peace,1,,foul,made,,,,,82-72,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=407
 ,,,,,,,,,,3,0.56,Charlotte Bobcats,substitute,,,,Biyombo,,Mullens,,,,,,,,,,,,,82-72,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=409
@@ -359,7 +359,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.32,Charlotte Bobcats,shot,,,,,,,,,,Mullens,,,,missed,,3PT Jump Shot,,,84-81,25,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=447
 ,,,,,,,,,,4,10.31,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,84-81,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=448
 ,,,,,,,,,,4,10.17,Los Angeles Lakers,shot,Morris,,,,,,,,,Meeks,3,,,made,,3PT Jump Shot,,,84-84,24,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=449
-,,,,,,,,,,4,10.04,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Lost Ball,,,,,,84-84,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=450
+,,,,,,,,,,4,10.04,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Lost Ball,,Peace,,,,84-84,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=450
 ,,,,,,,,,,4,9.53,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Driving Layup,,,84-86,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=451
 ,,,,,,,,,,4,9.53,Charlotte Bobcats,foul,,,,,,,,,,Kidd-Gilchrist,,,,,,Shooting,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=452
 ,,,,,,,,,,4,9.53,Los Angeles Lakers,substitute,,,,Howard,,Gasol,,,,,,,,,,,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=453
@@ -374,14 +374,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.56,Los Angeles Lakers,shot,Bryant,,,,,,,,,Morris,3,,,made,,3PT Jump Shot,,,84-90,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=462
 ,,,,,,,,,,4,8.52,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,84-90,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=463
 ,,,,,,,,,,4,8.34,Charlotte Bobcats,shot,Sessions,,,,,,,,,Walker,2,,,made,,Jump Shot,,,86-90,6,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=465
-,,,,,,,,,,4,8.21,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=466
+,,,,,,,,,,4,8.21,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Walker,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=466
 ,,,,,,,,,,4,8.16,Los Angeles Lakers,foul,,,,,,,,,,Meeks,,,,,,Shooting,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=467
 ,,,,,,,,,,4,8.16,Charlotte Bobcats,free throw,,,,,,,1,,2,Biyombo,,,foul,missed,,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=468
 ,,,,,,,,,,4,8.16,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=469
 ,,,,,,,,,,4,8.16,Charlotte Bobcats,free throw,,,,,,,2,,2,Biyombo,,,foul,missed,,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=470
 ,,,,,,,,,,4,8.15,Los Angeles Lakers,rebound,,,,,,,,,,Meeks,,,,,,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=472
 ,,,,,,,,,,4,8.03,Los Angeles Lakers,shot,,,,,,,,,,Morris,2,,,made,,Driving Layup,,,86-92,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=474
-,,,,,,,,,,4,7.55,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,86-92,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=475
+,,,,,,,,,,4,7.55,Charlotte Bobcats,shot,,,Howard,,,,,,,Sessions,,,,missed,,Layup,,,86-92,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=475
 ,,,,,,,,,,4,7.53,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,86-92,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=476
 ,,,,,,,,,,4,7.52,Charlotte Bobcats,shot,Biyombo,,,,,,,,,Henderson,2,,,made,,Slam Dunk,,,88-92,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=477
 ,,,,,,,,,,4,7.52,Los Angeles Lakers,foul,,,,,,,,,,Howard,,,,,,Shooting,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=478
@@ -414,7 +414,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.00,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Loose ball,,,91-95,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=513
 ,,,,,,,,,,4,4.43,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,91-95,21,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=514
 ,,,,,,,,,,4,4.42,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,91-95,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=515
-,,,,,,,,,,4,4.29,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Driving Layup,,,91-95,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=516
+,,,,,,,,,,4,4.29,Charlotte Bobcats,shot,,,Peace,,,,,,,Henderson,,,,missed,,Driving Layup,,,91-95,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=516
 ,,,,,,,,,,4,4.29,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,91-95,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=517
 ,,,,,,,,,,4,4.23,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,3PT Jump Shot,,,91-95,27,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=518
 ,,,,,,,,,,4,4.22,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,91-95,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=519
@@ -443,7 +443,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.18,Charlotte Bobcats,free throw,,,,,,,2,,2,Biyombo,1,,foul,made,,,,,97-97,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=546
 ,,,,,,,,,,4,2.02,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,97-97,15,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=548
 ,,,,,,,,,,4,2.02,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,97-97,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=549
-,,,,,,,,,,4,1.52,Los Angeles Lakers,shot,,,,,,,,,,Morris,,,,missed,,Driving Layup,,,97-97,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=551
+,,,,,,,,,,4,1.52,Los Angeles Lakers,shot,,,Biyombo,,,,,,,Morris,,,,missed,,Driving Layup,,,97-97,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=551
 ,,,,,,,,,,4,1.49,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,97-97,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=552
 ,,,,,,,,,,4,1.38,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,97-97,10,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=553
 ,,,,,,,,,,4,1.37,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,97-97,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=555
@@ -463,7 +463,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.21,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,100-101,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=572
 ,,,,,,,,,,4,0.21,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,100-101,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=574
 ,,,,,,,,,,4,0.21,Charlotte Bobcats,substitute,,,,Gordon,,Biyombo,,,,,,,,,,,,,100-101,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=576
-,,,,,,,,,,4,0.05,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Layup,,,100-101,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=577
+,,,,,,,,,,4,0.05,Charlotte Bobcats,shot,,,Howard,,,,,,,Walker,,,,missed,,Layup,,,100-101,3,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=577
 ,,,,,,,,,,4,0.04,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,100-101,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=578
 ,,,,,,,,,,4,0.03,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Layup,,,100-101,2,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=579
 ,,,,,,,,,,4,0.02,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,100-101,,http://stats.nba.com/cvp.html?GameID=0021200364&GameEventID=580

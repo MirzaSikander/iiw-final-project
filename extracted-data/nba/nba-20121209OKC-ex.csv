@@ -50,7 +50,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.55,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=54
 ,,,,,,,,,,1,4.55,Oklahoma City Thunder,substitute,,,,Martin,,Sefolosha,,,,,,,,,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=56
 ,,,,,,,,,,1,4.55,Indiana Pacers,substitute,,,,Mahinmi,,Hibbert,,,,,,,,,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=57
-,,,,,,,,,,1,4.35,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=58
+,,,,,,,,,,1,4.35,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,Stephenson,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=58
 ,,,,,,,,,,1,4.18,Indiana Pacers,shot,,,,,,,,,,West,2,,,made,,Jump Bank Shot,,,16-11,7,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=59
 ,,,,,,,,,,1,4.00,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Shooting,,,16-11,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=60
 ,,,,,,,,,,1,4.00,Oklahoma City Thunder,free throw,,,,,,,1,,2,Martin,,,foul,missed,,,,,16-11,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=61
@@ -68,7 +68,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.09,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=75
 ,,,,,,,,,,1,3.09,Indiana Pacers,free throw,,,,,,,2,,2,West,,,foul,missed,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=76
 ,,,,,,,,,,1,3.08,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=78
-,,,,,,,,,,1,2.58,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Driving Layup,,,18-15,4,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=79
+,,,,,,,,,,1,2.58,Oklahoma City Thunder,shot,,,Mahinmi,,,,,,,Westbrook,,,,missed,,Driving Layup,,,18-15,4,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=79
 ,,,,,,,,,,1,2.57,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=80
 ,,,,,,,,,,1,2.51,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=81
 ,,,,,,,,,,1,2.50,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=82
@@ -93,7 +93,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.48,Indiana Pacers,foul,,,,,,,,,,Young,,,,,,Personal,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=104
 ,,,,,,,,,,1,0.48,Oklahoma City Thunder,free throw,,,,,,,1,,2,Martin,1,,foul,made,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=105
 ,,,,,,,,,,1,0.48,Oklahoma City Thunder,free throw,,,,,,,2,,2,Martin,1,,foul,made,,,,,22-23,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=107
-,,,,,,,,,,1,0.36,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,,,,,22-23,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=109
+,,,,,,,,,,1,0.36,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,Sefolosha,,,,22-23,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=109
 ,,,,,,,,,,1,0.30,Oklahoma City Thunder,shot,Maynor,,,,,,,,,Martin,2,,,made,,Jump Shot,,,22-25,19,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=110
 ,,,,,,,,,,1,0.08,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Traveling,,,,,,22-25,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=111
 ,,,,,,,,,,1,0.01,Oklahoma City Thunder,shot,,,,,,,,,,Collison,,,,missed,,3PT Jump Shot,,,22-25,24,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=112
@@ -116,8 +116,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.33,Oklahoma City Thunder,shot,,,,,,,,,,Maynor,2,,,made,,Turnaround Jump Shot,,,30-35,3,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=134
 ,,,,,,,,,,2,8.17,Indiana Pacers,shot,,,,,,,,,,Young,,,,missed,,3PT Jump Shot,,,30-35,24,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=135
 ,,,,,,,,,,2,8.16,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=136
-,,,,,,,,,,2,8.03,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=137
-,,,,,,,,,,2,7.57,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Driving Layup,,,30-35,1,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=138
+,,,,,,,,,,2,8.03,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,Collison,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=137
+,,,,,,,,,,2,7.57,Oklahoma City Thunder,shot,,,Hansbrough,,,,,,,Durant,,,,missed,,Driving Layup,,,30-35,1,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=138
 ,,,,,,,,,,2,7.57,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=139
 ,,,,,,,,,,2,7.57,Indiana Pacers,substitute,,,,George,,Young,,,,,,,,,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=143
 ,,,,,,,,,,2,7.50,Indiana Pacers,foul,,,,,,,,,,Green,,,,,,Shooting,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=144
@@ -152,7 +152,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.14,Indiana Pacers,free throw,,,,,,,1,,2,George,1,,foul,made,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=178
 ,,,,,,,,,,2,4.14,Indiana Pacers,free throw,,,,,,,2,,2,George,1,,foul,made,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=180
 ,,,,,,,,,,2,3.58,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=182
-,,,,,,,,,,2,3.43,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Jump Shot,,,39-45,7,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=183
+,,,,,,,,,,2,3.43,Indiana Pacers,shot,,,Westbrook,,,,,,,Stephenson,,,,missed,,Jump Shot,,,39-45,7,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=183
 ,,,,,,,,,,2,3.40,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=184
 ,,,,,,,,,,2,3.37,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Driving Layup,,,39-45,2,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=185
 ,,,,,,,,,,2,3.36,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=186
@@ -161,7 +161,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.31,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Technical,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=189
 ,,,,,,,,,,2,3.31,Indiana Pacers,free throw,,,,,,,,,,Hill,1,,Technical,made,,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=190
 ,,,,,,,,,,2,3.31,Indiana Pacers,free throw,,,,,,,1,,1,Stephenson,1,,foul,made,,,,,43-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=192
-,,,,,,,,,,2,3.18,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,43-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=193
+,,,,,,,,,,2,3.18,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,George,,,,43-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=193
 ,,,,,,,,,,2,3.14,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Layup,,,45-45,2,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=195
 ,,,,,,,,,,2,3.13,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=196
 ,,,,,,,,,,2,3.03,Indiana Pacers,foul,,,,,,,,,,Hibbert,,,,,,Shooting,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=198
@@ -205,7 +205,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.38,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=251
 ,,,,,,,,,,3,11.24,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Jump Shot,,,56-57,18,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=252
 ,,,,,,,,,,3,11.23,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=253
-,,,,,,,,,,3,11.15,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=254
+,,,,,,,,,,3,11.15,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,West,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=254
 ,,,,,,,,,,3,11.09,Indiana Pacers,shot,Hill,,,,,,,,,George,3,,,made,,3PT Jump Shot,,,59-57,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=255
 ,,,,,,,,,,3,10.50,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Personal,,,59-57,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=256
 ,,,,,,,,,,3,10.43,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,3PT Jump Shot,,,59-57,25,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=257
@@ -230,12 +230,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.56,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,65-64,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=277
 ,,,,,,,,,,3,7.56,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=279
 ,,,,,,,,,,3,7.42,Indiana Pacers,shot,,,,,,,,,,West,2,,,made,,Driving Layup,,,67-65,2,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=281
-,,,,,,,,,,3,7.22,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Turnaround Jump Shot,,,67-65,6,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=282
+,,,,,,,,,,3,7.22,Oklahoma City Thunder,shot,,,Hibbert,,,,,,,Durant,,,,missed,,Turnaround Jump Shot,,,67-65,6,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=282
 ,,,,,,,,,,3,7.20,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,67-65,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=283
 ,,,,,,,,,,3,7.04,Oklahoma City Thunder,foul,,,,,,,,,,Perkins,,,,,,Shooting,,,67-65,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=284
 ,,,,,,,,,,3,7.04,Indiana Pacers,free throw,,,,,,,1,,2,Hibbert,1,,foul,made,,,,,68-65,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=285
 ,,,,,,,,,,3,7.04,Indiana Pacers,free throw,,,,,,,2,,2,Hibbert,1,,foul,made,,,,,69-65,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=287
-,,,,,,,,,,3,6.47,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,69-65,4,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=289
+,,,,,,,,,,3,6.47,Oklahoma City Thunder,shot,,,Hibbert,,,,,,,Perkins,,,,missed,,Jump Shot,,,69-65,4,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=289
 ,,,,,,,,,,3,6.46,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,69-65,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=290
 ,,,,,,,,,,3,6.44,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,2,,,made,,Layup,,,69-67,2,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=291
 ,,,,,,,,,,3,6.28,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Reverse Layup,,,69-67,1,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=292
@@ -286,7 +286,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.05,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=344
 ,,,,,,,,,,3,2.05,Oklahoma City Thunder,turnover,,,,,,,,,,,,,Shot Clock,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=345
 ,,,,,,,,,,3,2.05,Indiana Pacers,substitute,,,,Hansbrough,,West,,,,,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=346
-,,,,,,,,,,3,1.50,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Jump Shot,,,72-79,6,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=347
+,,,,,,,,,,3,1.50,Indiana Pacers,shot,,,Ibaka,,,,,,,Mahinmi,,,,missed,,Jump Shot,,,72-79,6,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=347
 ,,,,,,,,,,3,1.49,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=348
 ,,,,,,,,,,3,1.49,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Personal,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=349
 ,,,,,,,,,,3,1.49,Oklahoma City Thunder,substitute,,,,Maynor,,Westbrook,,,,,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=350
@@ -301,7 +301,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.17,Indiana Pacers,rebound,,,,,,,,,,Young,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=359
 ,,,,,,,,,,3,0.58,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,3PT Jump Shot,,,72-79,24,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=360
 ,,,,,,,,,,3,0.56,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=361
-,,,,,,,,,,3,0.53,Indiana Pacers,shot,,,,,,,,,,Green,,,,missed,,Layup,,,72-79,3,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=362
+,,,,,,,,,,3,0.53,Indiana Pacers,shot,,,Thabeet,,,,,,,Green,,,,missed,,Layup,,,72-79,3,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=362
 ,,,,,,,,,,3,0.50,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=363
 ,,,,,,,,,,3,0.46,Oklahoma City Thunder,shot,,,,,,,,,,Martin,2,,,made,,Running Jump Shot,,,72-81,7,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=364
 ,,,,,,,,,,3,0.46,Indiana Pacers,foul,,,,,,,,,,Hansbrough,,,,,,away from play,,,72-81,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=365
@@ -361,17 +361,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.18,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,91-98,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=434
 ,,,,,,,,,,4,3.58,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,Jump Shot,,,91-98,16,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=435
 ,,,,,,,,,,4,3.57,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,91-98,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=436
-,,,,,,,,,,4,3.45,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Layup,,,91-98,1,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=437
+,,,,,,,,,,4,3.45,Indiana Pacers,shot,,,Westbrook,,,,,,,Hibbert,,,,missed,,Layup,,,91-98,1,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=437
 ,,,,,,,,,,4,3.43,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,91-98,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=438
 ,,,,,,,,,,4,3.28,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Pullup Jump Shot,,,91-100,14,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=439
 ,,,,,,,,,,4,3.28,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,91-100,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=440
-,,,,,,,,,,4,3.19,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,91-100,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=443
+,,,,,,,,,,4,3.19,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Westbrook,,,,91-100,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=443
 ,,,,,,,,,,4,2.59,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Pullup Jump Shot,,,91-102,14,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=445
 ,,,,,,,,,,4,2.33,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,91-102,24,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=446
 ,,,,,,,,,,4,2.32,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,91-102,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=447
 ,,,,,,,,,,4,2.17,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Turnaround Jump Shot,,,91-102,12,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=448
 ,,,,,,,,,,4,2.16,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,91-102,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=449
-,,,,,,,,,,4,2.06,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Dunk,,,91-102,1,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=450
+,,,,,,,,,,4,2.06,Indiana Pacers,shot,,,Ibaka,,,,,,,George,,,,missed,,Dunk,,,91-102,1,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=450
 ,,,,,,,,,,4,2.05,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,91-102,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=451
 ,,,,,,,,,,4,2.05,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Shooting,,,91-102,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=452
 ,,,,,,,,,,4,2.05,Indiana Pacers,free throw,,,,,,,1,,2,George,1,,foul,made,,,,,92-102,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=453
@@ -386,7 +386,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.02,Oklahoma City Thunder,substitute,,,,Sefolosha,,Martin,,,,,,,,,,,,,93-104,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=466
 ,,,,,,,,,,4,0.48,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,93-104,25,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=469
 ,,,,,,,,,,4,0.48,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,93-104,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=468
-,,,,,,,,,,4,0.27,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,93-104,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=470
-,,,,,,,,,,4,0.25,Indiana Pacers,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,93-104,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=471
+,,,,,,,,,,4,0.27,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,George,,,,93-104,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=470
+,,,,,,,,,,4,0.25,Indiana Pacers,turnover,,,,,,,,,,Green,,,Bad Pass,,Westbrook,,,,93-104,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=471
 ,,,,,,,,,,4,0.04,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,3PT Jump Shot,,,93-104,24,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=473
 ,,,,,,,,,,4,0.03,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,93-104,,http://stats.nba.com/cvp.html?GameID=0021200294&GameEventID=474

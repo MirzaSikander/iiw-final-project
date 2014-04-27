@@ -5,7 +5,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.03,New York Knicks,rebound,,,,,,,,,,Brewer,,,,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=5
 ,,,,,,,,,,1,10.50,New York Knicks,shot,Kidd,,,,,,,,,Felton,2,,,made,,Layup,,,3-4,1,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=6
 ,,,,,,,,,,1,10.45,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Bad Pass,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=7
-,,,,,,,,,,1,10.38,New York Knicks,turnover,,,,,,,,,,Chandler,,,Lost Ball,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=8
+,,,,,,,,,,1,10.38,New York Knicks,turnover,,,,,,,,,,Chandler,,,Lost Ball,,Brand,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=8
 ,,,,,,,,,,1,10.33,Dallas Mavericks,shot,Collison,,,,,,,,,Mayo,2,,,made,,Driving Layup,,,5-4,1,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=9
 ,,,,,,,,,,1,10.18,New York Knicks,shot,Felton,,,,,,,,,Brewer,3,,,made,,3PT Jump Shot,,,5-7,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=10
 ,,,,,,,,,,1,9.51,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Turnaround Jump Shot,,,5-7,9,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=11
@@ -16,7 +16,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.26,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,5-7,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=16
 ,,,,,,,,,,1,9.13,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,3PT Jump Shot,,,5-7,26,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=17
 ,,,,,,,,,,1,9.11,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,5-7,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=18
-,,,,,,,,,,1,9.08,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,Driving Layup,,,5-7,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=19
+,,,,,,,,,,1,9.08,Dallas Mavericks,shot,,,Anthony,,,,,,,Crowder,,,,missed,,Driving Layup,,,5-7,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=19
 ,,,,,,,,,,1,9.07,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,5-7,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=20
 ,,,,,,,,,,1,8.52,Dallas Mavericks,shot,Collison,,,,,,,,,Crowder,3,,,made,,3PT Jump Shot,,,8-7,25,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=21
 ,,,,,,,,,,1,8.33,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Jump Shot,,,8-7,18,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=22
@@ -56,7 +56,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.56,Dallas Mavericks,substitute,,,,Jones,,Crowder,,,,,,,,,,,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=61
 ,,,,,,,,,,1,4.56,New York Knicks,substitute,,,,Wallace,,Chandler,,,,,,,,,,,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=62
 ,,,,,,,,,,1,4.40,New York Knicks,foul,,,,,,,,,,Anthony,,,,,,Personal,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=63
-,,,,,,,,,,1,4.34,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=64
+,,,,,,,,,,1,4.34,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Smith,,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=64
 ,,,,,,,,,,1,4.31,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Driving Dunk,,,13-17,1,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=65
 ,,,,,,,,,,1,4.19,Dallas Mavericks,shot,Kaman,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,16-17,26,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=66
 ,,,,,,,,,,1,4.04,Dallas Mavericks,foul,,,,,,,,,,,,,,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=67
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.37,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,20-20,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=91
 ,,,,,,,,,,1,2.31,Dallas Mavericks,shot,Jones,,,,,,,,,Mayo,3,,,made,,3PT Jump Shot,,,23-20,25,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=92
 ,,,,,,,,,,1,2.15,New York Knicks,shot,Brewer,,,,,,,,,Wallace,2,,,made,,Layup,,,23-22,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=93
-,,,,,,,,,,1,1.57,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=94
+,,,,,,,,,,1,1.57,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Smith,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=94
 ,,,,,,,,,,1,1.50,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Driving Layup,,,23-22,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=95
 ,,,,,,,,,,1,1.48,Dallas Mavericks,rebound,,,,,,,,,,Murphy,,,,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=96
 ,,,,,,,,,,1,1.42,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=97
@@ -128,7 +128,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.15,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Driving Layup,,,31-27,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=147
 ,,,,,,,,,,2,9.15,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Shooting,,,31-27,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=148
 ,,,,,,,,,,2,9.15,New York Knicks,free throw,,,,,,,1,,1,Smith,1,,foul,made,,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=149
-,,,,,,,,,,2,8.57,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=151
+,,,,,,,,,,2,8.57,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Smith,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=151
 ,,,,,,,,,,2,8.56,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Personal,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=152
 ,,,,,,,,,,2,8.56,Dallas Mavericks,substitute,,,,Carter,,Mayo,,,,,,,,,,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=154
 ,,,,,,,,,,2,8.42,New York Knicks,shot,,,,,,,,,,Novak,,,,missed,,Jump Shot,,,31-28,20,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=155
@@ -138,9 +138,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.36,New York Knicks,substitute,,,,Anthony,,Novak,,,,,,,,,,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=159
 ,,,,,,,,,,2,8.36,Dallas Mavericks,substitute,,,,Brand,,Kaman,,,,,,,,,,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=160
 ,,,,,,,,,,2,8.36,Dallas Mavericks,free throw,,,,,,,1,,1,Beaubois,1,,foul,made,,,,,34-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=161
-,,,,,,,,,,2,8.27,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,34-28,10,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=163
+,,,,,,,,,,2,8.27,New York Knicks,shot,,,Carter,,,,,,,Smith,,,,missed,,Jump Shot,,,34-28,10,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=163
 ,,,,,,,,,,2,8.26,Dallas Mavericks,rebound,,,,,,,,,,Beaubois,,,,,,,,,34-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=164
-,,,,,,,,,,2,8.22,Dallas Mavericks,shot,,,,,,,,,,Beaubois,,,,missed,,Layup,,,34-28,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=165
+,,,,,,,,,,2,8.22,Dallas Mavericks,shot,,,Anthony,,,,,,,Beaubois,,,,missed,,Layup,,,34-28,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=165
 ,,,,,,,,,,2,8.20,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,34-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=166
 ,,,,,,,,,,2,8.20,New York Knicks,substitute,,,,Felton,,Prigioni,,,,,,,,,,,,,34-28,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=167
 ,,,,,,,,,,2,8.09,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Fadeaway Jumper,,,36-28,20,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=169
@@ -156,14 +156,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.25,New York Knicks,substitute,,,,Chandler,,Camby,,,,,,,,,,,,,37-30,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=180
 ,,,,,,,,,,2,7.25,Dallas Mavericks,free throw,,,,,,,2,,2,Carter,,,foul,missed,,,,,37-30,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=181
 ,,,,,,,,,,2,7.23,New York Knicks,rebound,,,,,,,,,,Wallace,,,,,,,,,37-30,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=183
-,,,,,,,,,,2,7.08,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,,,,,37-30,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=184
+,,,,,,,,,,2,7.08,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,Crowder,,,,37-30,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=184
 ,,,,,,,,,,2,7.03,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Driving Layup,,,39-30,1,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=185
 ,,,,,,,,,,2,7.00,New York Knicks,substitute,,,,Brewer,,Wallace,,,,,,,,,,,,,39-30,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=187
 ,,,,,,,,,,2,6.45,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Driving Layup,,,39-32,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=189
 ,,,,,,,,,,2,6.40,New York Knicks,foul,,,,,,,,,,Felton,,,,,,Personal,,,39-32,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=190
 ,,,,,,,,,,2,6.25,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Fadeaway Jumper,,,41-32,11,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=191
 ,,,,,,,,,,2,6.15,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Driving Dunk,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=192
-,,,,,,,,,,2,6.06,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=193
+,,,,,,,,,,2,6.06,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Kidd,,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=193
 ,,,,,,,,,,2,6.01,New York Knicks,shot,Anthony,,,,,,,,,Kidd,2,,,made,,Layup,,,41-36,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=194
 ,,,,,,,,,,2,6.01,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,41-36,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=195
 ,,,,,,,,,,2,6.01,Dallas Mavericks,substitute,,,,Jones,,Crowder,,,,,,,,,,,,,41-36,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=198
@@ -181,7 +181,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.24,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,3PT Jump Shot,,,44-41,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=211
 ,,,,,,,,,,2,4.21,New York Knicks,rebound,,,,,,,,,,Felton,,,,,,,,,44-41,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=212
 ,,,,,,,,,,2,4.16,New York Knicks,shot,Kidd,,,,,,,,,Anthony,3,,,made,,3PT Jump Shot,,,44-44,24,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=213
-,,,,,,,,,,2,3.58,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Driving Layup,,,44-44,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=214
+,,,,,,,,,,2,3.58,Dallas Mavericks,shot,,,Brewer,,,,,,,Carter,,,,missed,,Driving Layup,,,44-44,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=214
 ,,,,,,,,,,2,3.57,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,44-44,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=216
 ,,,,,,,,,,2,3.57,Dallas Mavericks,substitute,,,,Wright,,Brand,,,,,,,,,,,,,44-44,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=215
 ,,,,,,,,,,2,3.54,Dallas Mavericks,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,44-44,6,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=218
@@ -232,7 +232,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.27,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,57-52,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=279
 ,,,,,,,,,,2,0.27,Dallas Mavericks,free throw,,,,,,,2,,2,Brand,,,foul,missed,,,,,57-52,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=282
 ,,,,,,,,,,2,0.26,New York Knicks,rebound,,,,,,,,,,Wallace,,,,,,,,,57-52,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=284
-,,,,,,,,,,2,0.07,New York Knicks,shot,,,,,,,,,,Brewer,,,,missed,,Driving Dunk,,,57-52,1,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=285
+,,,,,,,,,,2,0.07,New York Knicks,shot,,,Brand,,,,,,,Brewer,,,,missed,,Driving Dunk,,,57-52,1,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=285
 ,,,,,,,,,,2,0.06,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,57-52,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=286
 ,,,,,,,,,,2,0.02,New York Knicks,shot,Brewer,,,,,,,,,Smith,3,,,made,,3PT Jump Shot,,,57-55,24,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=288
 ,,,,,,,,,,3,11.40,New York Knicks,shot,,,,,,,,,,Chandler,,,,missed,,Jump Shot,,,57-55,13,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=292
@@ -255,14 +255,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.17,Dallas Mavericks,free throw,,,,,,,1,,2,Mayo,1,,foul,made,,,,,58-57,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=311
 ,,,,,,,,,,3,10.17,Dallas Mavericks,free throw,,,,,,,2,,2,Mayo,1,,foul,made,,,,,59-57,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=313
 ,,,,,,,,,,3,10.01,New York Knicks,shot,,,,,,,,,,Felton,2,,,made,,Floating Jump Shot,,,59-59,5,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=315
-,,,,,,,,,,3,9.56,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,,,,,59-59,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=316
+,,,,,,,,,,3,9.56,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,Kidd,,,,59-59,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=316
 ,,,,,,,,,,3,9.52,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,3PT Jump Shot,,,59-59,25,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=317
 ,,,,,,,,,,3,9.50,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,59-59,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=318
 ,,,,,,,,,,3,9.36,Dallas Mavericks,shot,,,,,,,,,,Mayo,3,,,made,,3PT Jump Shot,,,62-59,26,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=319
 ,,,,,,,,,,3,9.20,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Shooting,,,62-59,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=320
 ,,,,,,,,,,3,9.20,New York Knicks,free throw,,,,,,,1,,2,Kidd,1,,foul,made,,,,,62-60,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=322
 ,,,,,,,,,,3,9.20,New York Knicks,free throw,,,,,,,2,,2,Kidd,1,,foul,made,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=323
-,,,,,,,,,,3,9.11,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=325
+,,,,,,,,,,3,9.11,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Kidd,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=325
 ,,,,,,,,,,3,9.07,New York Knicks,shot,Kidd,,,,,,,,,Felton,2,,,made,,Driving Layup,,,62-63,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=326
 ,,,,,,,,,,3,8.44,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Fadeaway Jumper,,,62-63,18,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=327
 ,,,,,,,,,,3,8.42,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=328
@@ -338,8 +338,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.24,Dallas Mavericks,free throw,,,,,,,1,,2,Carter,,,foul,missed,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=406
 ,,,,,,,,,,3,2.24,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=407
 ,,,,,,,,,,3,2.24,Dallas Mavericks,free throw,,,,,,,2,,2,Carter,1,,foul,made,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=408
-,,,,,,,,,,3,2.04,New York Knicks,turnover,,,,,,,,,,Wallace,,,Lost Ball,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=410
-,,,,,,,,,,3,1.57,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Bad Pass,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=411
+,,,,,,,,,,3,2.04,New York Knicks,turnover,,,,,,,,,,Wallace,,,Lost Ball,,Beaubois,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=410
+,,,,,,,,,,3,1.57,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Bad Pass,,Brewer,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=411
 ,,,,,,,,,,3,1.53,Dallas Mavericks,foul,,,,,,,,,,Carter,,,,,,Shooting,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=412
 ,,,,,,,,,,3,1.53,New York Knicks,free throw,,,,,,,1,,2,Brewer,,,foul,missed,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=413
 ,,,,,,,,,,3,1.53,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=414
@@ -362,7 +362,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.03,New York Knicks,free throw,,,,,,,1,,2,Camby,1,,foul,made,,,,,78-83,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=432
 ,,,,,,,,,,3,0.03,Dallas Mavericks,substitute,,,,Jones,,Carter,,,,,,,,,,,,,78-83,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=434
 ,,,,,,,,,,3,0.03,New York Knicks,free throw,,,,,,,2,,2,Camby,1,,foul,made,,,,,78-84,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=435
-,,,,,,,,,,3,0.00,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Lost Ball,,,,,,78-84,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=437
+,,,,,,,,,,3,0.00,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Lost Ball,,Smith,,,,78-84,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=437
 ,,,,,,,,,,4,11.37,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,3PT Jump Shot,,,78-84,24,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=441
 ,,,,,,,,,,4,11.35,New York Knicks,rebound,,,,,,,,,,Novak,,,,,,,,,78-84,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=442
 ,,,,,,,,,,4,11.17,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Shooting,,,78-84,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=443
@@ -375,13 +375,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.26,New York Knicks,substitute,,,,Felton,,Prigioni,,,,,,,,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=452
 ,,,,,,,,,,4,10.26,New York Knicks,substitute,,,,Chandler,,Camby,,,,,,,,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=453
 ,,,,,,,,,,4,10.05,New York Knicks,shot,,,,,,,,,,Novak,2,,,made,,Pullup Jump Shot,,,80-88,9,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=454
-,,,,,,,,,,4,9.46,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=455
+,,,,,,,,,,4,9.46,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Chandler,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=455
 ,,,,,,,,,,4,9.38,Dallas Mavericks,substitute,,,,Brand,,Kaman,,,,,,,,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=457
 ,,,,,,,,,,4,9.38,Dallas Mavericks,substitute,,,,Wright,,Murphy,,,,,,,,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=458
 ,,,,,,,,,,4,9.31,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Jump Shot,,,80-88,19,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=459
 ,,,,,,,,,,4,9.29,Dallas Mavericks,rebound,,,,,,,,,,Jones,,,,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=460
 ,,,,,,,,,,4,9.20,Dallas Mavericks,shot,Collison,,,,,,,,,Brand,2,,,made,,Jump Shot,,,82-88,16,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=461
-,,,,,,,,,,4,9.05,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=462
+,,,,,,,,,,4,9.05,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,Collison,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=462
 ,,,,,,,,,,4,8.59,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,82-88,25,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=463
 ,,,,,,,,,,4,8.57,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=467
 ,,,,,,,,,,4,8.54,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Shooting,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=468
@@ -392,7 +392,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.52,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=477
 ,,,,,,,,,,4,8.37,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,82-88,24,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=478
 ,,,,,,,,,,4,8.34,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=479
-,,,,,,,,,,4,8.17,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Driving Layup,,,82-88,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=480
+,,,,,,,,,,4,8.17,New York Knicks,shot,,,Brand,,,,,,,Felton,,,,missed,,Driving Layup,,,82-88,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=480
 ,,,,,,,,,,4,8.15,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=481
 ,,,,,,,,,,4,8.13,New York Knicks,shot,,,,,,,,,,Chandler,2,,,made,,Layup,,,82-90,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=482
 ,,,,,,,,,,4,7.52,New York Knicks,foul,,,,,,,,,,Smith,,,,,,Shooting,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=483
@@ -421,7 +421,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.08,Dallas Mavericks,foul,,,,,,,,,,Crowder,,,,,,Shooting,,,86-95,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=510
 ,,,,,,,,,,4,6.08,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,86-95,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=508
 ,,,,,,,,,,4,6.08,New York Knicks,free throw,,,,,,,1,,1,Chandler,1,,foul,made,,,,,86-96,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=513
-,,,,,,,,,,4,5.52,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,,,,,86-96,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=516
+,,,,,,,,,,4,5.52,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,Felton,,,,86-96,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=516
 ,,,,,,,,,,4,5.31,Dallas Mavericks,foul,,,,,,,,,,Carter,,,,,,Shooting,,,86-96,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=518
 ,,,,,,,,,,4,5.31,New York Knicks,free throw,,,,,,,1,,2,Anthony,1,,foul,made,,,,,86-97,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=519
 ,,,,,,,,,,4,5.31,Dallas Mavericks,substitute,,,,Kaman,,Brand,,,,,,,,,,,,,86-97,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=521
@@ -446,7 +446,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.54,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=544
 ,,,,,,,,,,4,3.54,New York Knicks,free throw,,,,,,,2,,2,Felton,,,foul,missed,,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=545
 ,,,,,,,,,,4,3.53,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=547
-,,,,,,,,,,4,3.41,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Bad Pass,,,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=548
+,,,,,,,,,,4,3.41,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Bad Pass,,Felton,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=548
 ,,,,,,,,,,4,3.40,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Loose ball,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=549
 ,,,,,,,,,,4,3.40,New York Knicks,free throw,,,,,,,1,,2,Felton,,,foul,missed,,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=550
 ,,,,,,,,,,4,3.40,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,86-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=551
@@ -456,7 +456,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.25,Dallas Mavericks,free throw,,,,,,,2,,2,Jones,1,,foul,made,,,,,88-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=560
 ,,,,,,,,,,4,3.06,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Layup,,,88-98,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=563
 ,,,,,,,,,,4,3.04,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,88-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=564
-,,,,,,,,,,4,2.57,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Layup,,,88-98,3,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=565
+,,,,,,,,,,4,2.57,Dallas Mavericks,shot,,,Smith,,,,,,,Collison,,,,missed,,Layup,,,88-98,3,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=565
 ,,,,,,,,,,4,2.56,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,88-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=567
 ,,,,,,,,,,4,2.53,New York Knicks,foul,,,,,,,,,,Chandler,,,,,,Shooting,,,88-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=569
 ,,,,,,,,,,4,2.53,Dallas Mavericks,free throw,,,,,,,1,,2,Kaman,1,,foul,made,,,,,89-98,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=570
@@ -473,7 +473,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.19,New York Knicks,rebound,,,,,,,,,,Brewer,,,,,,,,,90-101,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=591
 ,,,,,,,,,,4,2.01,New York Knicks,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,90-101,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=593
 ,,,,,,,,,,4,1.59,Dallas Mavericks,rebound,,,,,,,,,,Jones,,,,,,,,,90-101,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=594
-,,,,,,,,,,4,1.48,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,90-101,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=595
+,,,,,,,,,,4,1.48,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Brewer,,,,90-101,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=595
 ,,,,,,,,,,4,1.32,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Driving Layup,,,90-101,2,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=596
 ,,,,,,,,,,4,1.30,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,90-101,,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=597
 ,,,,,,,,,,4,1.26,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Driving Layup,,,92-101,1,http://stats.nba.com/cvp.html?GameID=0021200071&GameEventID=598

@@ -1,5 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.41,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=2
+,,,,,,,,,,1,11.41,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,Bosh,,,,,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=2
 ,,,,,,,,,,1,11.28,Miami Heat,shot,,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=3
 ,,,,,,,,,,1,11.04,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Jump Shot,,,3-2,21,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=4
 ,,,,,,,,,,1,10.42,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Step Out of Bounds,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=5
@@ -9,7 +9,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.18,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=9
 ,,,,,,,,,,1,10.03,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,3-2,19,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=10
 ,,,,,,,,,,1,10.02,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=11
-,,,,,,,,,,1,9.58,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=12
+,,,,,,,,,,1,9.58,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,James,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=12
 ,,,,,,,,,,1,9.48,Toronto Raptors,foul,,,,,,,,,,,,,,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=14
 ,,,,,,,,,,1,9.48,Miami Heat,free throw,,,,,,,,,,Chalmers,1,,Technical,made,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=15
 ,,,,,,,,,,1,9.35,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Shot,,,6-2,19,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=17
@@ -73,7 +73,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.14,Miami Heat,shot,Chalmers,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,22-17,25,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=84
 ,,,,,,,,,,1,1.54,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,22-17,18,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=85
 ,,,,,,,,,,1,1.53,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,22-17,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=86
-,,,,,,,,,,1,1.51,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Putback Dunk,,,22-17,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=87
+,,,,,,,,,,1,1.51,Toronto Raptors,shot,,,Andersen,,,,,,,Johnson,,,,missed,,Putback Dunk,,,22-17,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=87
 ,,,,,,,,,,1,1.50,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,22-17,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=88
 ,,,,,,,,,,1,1.47,Miami Heat,substitute,,,,Cole,,Chalmers,,,,,,,,,,,,,22-17,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=90
 ,,,,,,,,,,1,1.47,Toronto Raptors,substitute,,,,Telfair,,Lowry,,,,,,,,,,,,,22-17,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=91
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.13,Toronto Raptors,shot,,,,,,,,,,Telfair,,,,missed,,Driving Hook Shot,,,24-17,3,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=93
 ,,,,,,,,,,1,1.12,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,24-17,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=94
 ,,,,,,,,,,1,1.00,Miami Heat,shot,James,,,,,,,,,Cole,2,,,made,,Turnaround Bank Hook Shot,,,26-17,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=96
-,,,,,,,,,,1,0.47,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,26-17,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=98
+,,,,,,,,,,1,0.47,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Cole,,,,26-17,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=98
 ,,,,,,,,,,1,0.41,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,26-17,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=99
 ,,,,,,,,,,1,0.26,Toronto Raptors,shot,Telfair,,,,,,,,,Ross,2,,,made,,Turnaround Jump Shot,,,26-19,13,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=100
 ,,,,,,,,,,1,0.10,Toronto Raptors,foul,,,,,,,,,,Gay,,,,,,Personal,,,26-19,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=101
@@ -96,7 +96,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.23,Toronto Raptors,shot,Telfair,,,,,,,,,Fields,2,,,made,,Pullup Jump Shot,,,29-21,18,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=114
 ,,,,,,,,,,2,11.00,Miami Heat,shot,Cole,,,,,,,,,Wade,2,,,made,,Driving Jump Shot,,,31-21,6,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=115
 ,,,,,,,,,,2,10.45,Toronto Raptors,shot,,,,,,,,,,Johnson,2,,,made,,Driving Reverse Layup,,,31-23,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=116
-,,,,,,,,,,2,10.30,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Driving Layup,,,31-23,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=117
+,,,,,,,,,,2,10.30,Miami Heat,shot,,,Telfair,,,,,,,Cole,,,,missed,,Driving Layup,,,31-23,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=117
 ,,,,,,,,,,2,10.28,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,31-23,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=118
 ,,,,,,,,,,2,10.22,Toronto Raptors,shot,,,,,,,,,,Telfair,,,,missed,,3PT Jump Shot,,,31-23,25,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=119
 ,,,,,,,,,,2,10.20,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,31-23,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=120
@@ -113,13 +113,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.52,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,33-25,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=132
 ,,,,,,,,,,2,8.35,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,33-25,25,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=137
 ,,,,,,,,,,2,8.35,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,33-25,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=138
-,,,,,,,,,,2,8.18,Miami Heat,turnover,,,,,,,,,,Battier,,,Lost Ball,,,,,,33-25,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=139
+,,,,,,,,,,2,8.18,Miami Heat,turnover,,,,,,,,,,Battier,,,Lost Ball,,Anderson,,,,33-25,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=139
 ,,,,,,,,,,2,8.12,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,Running Finger Roll Layup,,,33-25,3,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=140
 ,,,,,,,,,,2,8.10,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,33-25,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=141
 ,,,,,,,,,,2,7.59,Miami Heat,shot,,,,,,,,,,Allen,2,,,made,,Driving Reverse Layup,,,35-25,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=142
 ,,,,,,,,,,2,7.51,Toronto Raptors,shot,Telfair,,,,,,,,,Fields,2,,,made,,Driving Jump Shot,,,35-27,9,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=143
 ,,,,,,,,,,2,7.29,Miami Heat,shot,Wade,,,,,,,,,Andersen,2,,,made,,Layup,,,37-27,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=144
-,,,,,,,,,,2,7.07,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=145
+,,,,,,,,,,2,7.07,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,Battier,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=145
 ,,,,,,,,,,2,7.03,Toronto Raptors,foul,,,,,,,,,,Telfair,,,,,,Shooting,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=146
 ,,,,,,,,,,2,7.03,Miami Heat,free throw,,,,,,,1,,2,Cole,1,,foul,made,,,,,38-27,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=147
 ,,,,,,,,,,2,7.03,Miami Heat,substitute,,,,Bosh,,Andersen,,,,,,,,,,,,,38-27,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=149
@@ -156,29 +156,29 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.57,Toronto Raptors,foul,,,,,,,,,,Ross,,,,,,Shooting,,,45-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=187
 ,,,,,,,,,,2,3.57,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,46-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=188
 ,,,,,,,,,,2,3.57,Miami Heat,free throw,,,,,,,2,,2,James,1,,foul,made,,,,,47-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=190
-,,,,,,,,,,2,3.44,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,47-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=192
-,,,,,,,,,,2,3.38,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,47-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=193
+,,,,,,,,,,2,3.44,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Allen,,,,47-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=192
+,,,,,,,,,,2,3.38,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,Lowry,,,,47-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=193
 ,,,,,,,,,,2,3.33,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,47-31,3,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=194
 ,,,,,,,,,,2,3.32,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,47-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=195
 ,,,,,,,,,,2,3.30,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,47-31,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=196
 ,,,,,,,,,,2,3.29,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,47-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=197
 ,,,,,,,,,,2,3.27,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Tip Shot,,,47-31,1,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=198
 ,,,,,,,,,,2,3.26,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,47-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=199
-,,,,,,,,,,2,3.23,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,47-31,1,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=212
+,,,,,,,,,,2,3.23,Toronto Raptors,shot,,,Battier,,,,,,,DeRozan,,,,missed,,Layup,,,47-31,1,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=212
 ,,,,,,,,,,2,3.23,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,47-31,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=221
 ,,,,,,,,,,2,3.23,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Jump Hook Shot,,,47-33,5,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=200
-,,,,,,,,,,2,3.00,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Driving Jump Shot,,,47-33,6,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=201
+,,,,,,,,,,2,3.00,Miami Heat,shot,,,Lowry,,,,,,,Chalmers,,,,missed,,Driving Jump Shot,,,47-33,6,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=201
 ,,,,,,,,,,2,2.58,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,47-33,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=202
 ,,,,,,,,,,2,2.51,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,3PT Jump Shot,,,47-33,24,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=203
 ,,,,,,,,,,2,2.50,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,47-33,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=204
-,,,,,,,,,,2,2.48,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,47-33,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=205
+,,,,,,,,,,2,2.48,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Bad Pass,,James,,,,47-33,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=205
 ,,,,,,,,,,2,2.37,Miami Heat,shot,Chalmers,,,,,,,,,Bosh,2,,,made,,Layup,,,49-33,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=206
 ,,,,,,,,,,2,2.18,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Driving Layup,,,49-33,1,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=207
 ,,,,,,,,,,2,2.17,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,49-33,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=208
 ,,,,,,,,,,2,2.15,Toronto Raptors,shot,,,,,,,,,,Johnson,2,,,made,,Tip Shot,,,49-35,1,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=209
 ,,,,,,,,,,2,2.09,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,49-35,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=211
 ,,,,,,,,,,2,2.09,Miami Heat,substitute,,,,Wade,,Battier,,,,,,,,,,,,,49-35,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=216
-,,,,,,,,,,2,1.56,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,49-35,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=217
+,,,,,,,,,,2,1.56,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Johnson,,,,49-35,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=217
 ,,,,,,,,,,2,1.51,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Driving Layup,,,49-35,1,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=218
 ,,,,,,,,,,2,1.50,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,49-35,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=219
 ,,,,,,,,,,2,1.48,Toronto Raptors,shot,,,,,,,,,,Ross,2,,,made,,Layup,,,49-37,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=220
@@ -245,7 +245,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.18,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Discontinue Dribble,,,,,,71-61,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=303
 ,,,,,,,,,,3,5.18,Toronto Raptors,violation,,,,,,,,,,RAPTORS,,, Delay of game Violation,,,,,,71-61,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=304
 ,,,,,,,,,,3,5.06,Miami Heat,shot,Wade,,,,,,,,,James,2,,,made,,Jump Shot,,,73-61,21,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=305
-,,,,,,,,,,3,4.46,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,73-61,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=307
+,,,,,,,,,,3,4.46,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Bad Pass,,Bosh,,,,73-61,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=307
 ,,,,,,,,,,3,4.42,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Shooting,,,73-61,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=308
 ,,,,,,,,,,3,4.42,Miami Heat,free throw,,,,,,,1,,2,James,,,foul,missed,,,,,73-61,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=309
 ,,,,,,,,,,3,4.42,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,73-61,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=310
@@ -280,7 +280,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.35,Miami Heat,substitute,,,,Cole,,Chalmers,,,,,,,,,,,,,74-64,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=343
 ,,,,,,,,,,3,2.35,Toronto Raptors,free throw,,,,,,,2,,2,DeRozan,,,foul,missed,,,,,74-64,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=344
 ,,,,,,,,,,3,2.34,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,74-64,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=346
-,,,,,,,,,,3,2.32,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,74-64,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=347
+,,,,,,,,,,3,2.32,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,Gay,,,,74-64,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=347
 ,,,,,,,,,,3,2.28,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Dunk,,,74-66,2,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=348
 ,,,,,,,,,,3,2.08,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Bank Shot,,,76-66,17,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=349
 ,,,,,,,,,,3,1.52,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Driving Layup,,,76-68,1,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=351
@@ -313,7 +313,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.46,Miami Heat,shot,Battier,,,,,,,,,Allen,3,,,made,,3PT Jump Shot,,,84-77,25,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=394
 ,,,,,,,,,,4,9.40,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=395
 ,,,,,,,,,,4,9.40,Toronto Raptors,substitute,,,,Anderson,,DeRozan,,,,,,,,,,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=396
-,,,,,,,,,,4,9.26,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=398
+,,,,,,,,,,4,9.26,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Wade,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=398
 ,,,,,,,,,,4,9.26,Toronto Raptors,foul,,,,,,,,,,Johnson,,,,,,Personal,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=399
 ,,,,,,,,,,4,9.13,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,3PT Jump Shot,,,84-77,25,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=400
 ,,,,,,,,,,4,9.12,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=401
@@ -394,7 +394,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.23,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,105-83,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=492
 ,,,,,,,,,,4,2.23,Toronto Raptors,free throw,,,,,,,1,,2,Valanciunas,1,,foul,made,,,,,105-84,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=496
 ,,,,,,,,,,4,2.23,Toronto Raptors,free throw,,,,,,,2,,2,Valanciunas,1,,foul,made,,,,,105-85,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=498
-,,,,,,,,,,4,2.11,Miami Heat,turnover,,,,,,,,,,Miller,,,Lost Ball,,,,,,105-85,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=500
+,,,,,,,,,,4,2.11,Miami Heat,turnover,,,,,,,,,,Miller,,,Lost Ball,,III,,,,105-85,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=500
 ,,,,,,,,,,4,2.06,Toronto Raptors,shot,Lucas III,,,,,,,,,Ross,2,,,made,,Running Slam Dunk,,,105-87,1,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=501
 ,,,,,,,,,,4,1.56,Miami Heat,shot,,,,,,,,,,Lewis,,,,missed,,Jump Shot,,,105-87,15,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=503
 ,,,,,,,,,,4,1.55,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,105-87,,http://stats.nba.com/cvp.html?GameID=0021200985&GameEventID=504

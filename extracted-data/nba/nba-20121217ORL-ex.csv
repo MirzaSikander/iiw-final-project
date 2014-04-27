@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.35,Orlando Magic,shot,Davis,,,,,,,,,Harkless,3,,,made,,3PT Jump Shot,,,0-3,26,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=2
 ,,,,,,,,,,1,11.12,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,2,,,made,,Driving Reverse Layup,,,2-3,1,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=3
-,,,,,,,,,,1,10.59,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=4
+,,,,,,,,,,1,10.59,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,Love,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=4
 ,,,,,,,,,,1,10.56,Minnesota Timberwolves,foul,,,,,,,,,,,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=5
 ,,,,,,,,,,1,10.56,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Foul,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=6
 ,,,,,,,,,,1,10.42,Orlando Magic,shot,,,,,,,,,,Davis,,,,missed,,Fadeaway Jumper,,,2-3,11,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=7
@@ -34,7 +34,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.20,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=39
 ,,,,,,,,,,1,7.12,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Turnaround Jump Shot,,,12-7,10,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=40
 ,,,,,,,,,,1,7.10,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=41
-,,,,,,,,,,1,6.57,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,12-7,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=42
+,,,,,,,,,,1,6.57,Minnesota Timberwolves,shot,,,Vucevic,,,,,,,Pekovic,,,,missed,,Layup,,,12-7,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=42
 ,,,,,,,,,,1,6.55,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=44
 ,,,,,,,,,,1,6.55,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,12-7,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=43
 ,,,,,,,,,,1,6.52,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=45
@@ -42,13 +42,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.36,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,Turnaround Jump Shot,,,14-7,10,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=47
 ,,,,,,,,,,1,6.34,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,14-7,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=49
 ,,,,,,,,,,1,6.34,Orlando Magic,shot,,,,,,,,,,Vucevic,2,,,made,,Tip Shot,,,14-9,1,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=48
-,,,,,,,,,,1,6.18,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,14-9,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=50
+,,,,,,,,,,1,6.18,Minnesota Timberwolves,shot,,,Vucevic,,,,,,,Pekovic,,,,missed,,Layup,,,14-9,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=50
 ,,,,,,,,,,1,6.18,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=51
 ,,,,,,,,,,1,6.18,Orlando Magic,substitute,,,,Redick,,Harkless,,,,,,,,,,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=52
 ,,,,,,,,,,1,6.10,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Jump Shot,,,14-9,27,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=53
 ,,,,,,,,,,1,6.09,Orlando Magic,rebound,,,,,,,,,,Nelson,,,,,,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=54
 ,,,,,,,,,,1,6.03,Orlando Magic,turnover,,,,,,,,,,Nelson Out of Bounds,,,Lost Ball,,,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=55
-,,,,,,,,,,1,5.54,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=56
+,,,,,,,,,,1,5.54,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,Davis,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=56
 ,,,,,,,,,,1,5.50,Orlando Magic,shot,,,,,,,,,,Davis,2,,,made,,Driving Dunk,,,14-11,1,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=57
 ,,,,,,,,,,1,5.40,Orlando Magic,foul,,,,,,,,,,Davis,,,,,,Personal,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=58
 ,,,,,,,,,,1,5.34,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,Alley Oop Layup,,,14-11,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=59
@@ -91,7 +91,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.56,Minnesota Timberwolves,free throw,,,,,,,2,,2,Love,,,foul,missed,,,,,29-21,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=104
 ,,,,,,,,,,1,1.55,Orlando Magic,rebound,,,,,,,,,,Ayon,,,,,,,,,29-21,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=106
 ,,,,,,,,,,1,1.41,Orlando Magic,shot,Vucevic,,,,,,,,,Redick,2,,,made,,Pullup Jump Shot,,,29-23,20,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=107
-,,,,,,,,,,1,1.18,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Bad Pass,,,,,,29-23,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=108
+,,,,,,,,,,1,1.18,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Bad Pass,,McRoberts,,,,29-23,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=108
 ,,,,,,,,,,1,1.10,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,3PT Jump Shot,,,29-23,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=109
 ,,,,,,,,,,1,1.09,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,29-23,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=110
 ,,,,,,,,,,1,1.02,Minnesota Timberwolves,foul,,,,,,,,,,Rubio,,,,,,Offensive Charge,,,29-23,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=111
@@ -117,7 +117,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.27,Orlando Magic,foul,,,,,,,,,,Ayon,,,,,,Personal,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=136
 ,,,,,,,,,,2,11.18,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,32-30,16,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=137
 ,,,,,,,,,,2,11.17,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=138
-,,,,,,,,,,2,11.02,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Layup,,,32-30,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=139
+,,,,,,,,,,2,11.02,Orlando Magic,shot,,,Stiemsma,,,,,,,Nicholson,,,,missed,,Layup,,,32-30,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=139
 ,,,,,,,,,,2,11.00,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=140
 ,,,,,,,,,,2,10.57,Minnesota Timberwolves,shot,Barea,,,,,,,,,Cunningham,2,,,made,,Reverse Layup,,,34-30,1,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=141
 ,,,,,,,,,,2,10.54,Orlando Magic,turnover,,,,,,,,,,Moore Out of Bounds,,,Lost Ball,,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=142
@@ -129,7 +129,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.16,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,3PT Jump Shot,,,34-30,25,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=148
 ,,,,,,,,,,2,10.15,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=149
 ,,,,,,,,,,2,10.15,Minnesota Timberwolves,foul,,,,,,,,,,Stiemsma,,,,,,Personal,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=150
-,,,,,,,,,,2,10.04,Orlando Magic,turnover,,,,,,,,,,Ayon,,,Bad Pass,,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=151
+,,,,,,,,,,2,10.04,Orlando Magic,turnover,,,,,,,,,,Ayon,,,Bad Pass,,Williams,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=151
 ,,,,,,,,,,2,9.58,Orlando Magic,foul,,,,,,,,,,Moore,,,,,,Personal,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=152
 ,,,,,,,,,,2,9.54,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,34-30,25,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=153
 ,,,,,,,,,,2,9.53,Orlando Magic,rebound,,,,,,,,,,Ayon,,,,,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=154
@@ -144,7 +144,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.43,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,36-33,22,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=163
 ,,,,,,,,,,2,8.41,Orlando Magic,rebound,,,,,,,,,,Nicholson,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=164
 ,,,,,,,,,,2,8.31,Orlando Magic,shot,Ayon,,,,,,,,,Redick,2,,,made,,Jump Shot,,,36-35,17,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=165
-,,,,,,,,,,2,8.16,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=166
+,,,,,,,,,,2,8.16,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,Ayon,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=166
 ,,,,,,,,,,2,8.08,Orlando Magic,foul,,,,,,,,,,,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=167
 ,,,,,,,,,,2,8.08,Orlando Magic,turnover,,,,,,,,,,Nicholson,,,Foul,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=168
 ,,,,,,,,,,2,8.08,Minnesota Timberwolves,substitute,,,,Shved,,Rubio,,,,,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=171
@@ -153,8 +153,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.08,Orlando Magic,substitute,,,,Harkless,,McRoberts,,,,,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=175
 ,,,,,,,,,,2,8.08,Orlando Magic,substitute,,,,Vucevic,,Moore,,,,,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=176
 ,,,,,,,,,,2,8.08,Orlando Magic,substitute,,,,Davis,,Nicholson,,,,,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=177
-,,,,,,,,,,2,7.59,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=179
-,,,,,,,,,,2,7.54,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Layup,,,36-35,1,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=180
+,,,,,,,,,,2,7.59,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,Harkless,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=179
+,,,,,,,,,,2,7.54,Orlando Magic,shot,,,Stiemsma,,,,,,,Harkless,,,,missed,,Layup,,,36-35,1,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=180
 ,,,,,,,,,,2,7.47,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=181
 ,,,,,,,,,,2,7.40,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,Jump Shot,,,36-35,20,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=182
 ,,,,,,,,,,2,7.38,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=183
@@ -221,7 +221,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.18,Orlando Magic,foul,,,,,,,,,,Davis,,,,,,Technical,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=256
 ,,,,,,,,,,2,1.18,Orlando Magic,substitute,,,,Ayon,,Davis,,,,,,,,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=257
 ,,,,,,,,,,2,1.18,Minnesota Timberwolves,free throw,,,,,,,,,,Ridnour,1,,Technical,made,,,,,54-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=258
-,,,,,,,,,,2,1.09,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Lost Ball,,,,,,54-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=262
+,,,,,,,,,,2,1.09,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Lost Ball,,Nelson,,,,54-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=262
 ,,,,,,,,,,2,0.59,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,Fadeaway Jumper,,,54-47,18,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=263
 ,,,,,,,,,,2,0.57,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,54-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=264
 ,,,,,,,,,,2,0.53,Minnesota Timberwolves,shot,Shved,,,,,,,,,Kirilenko,2,,,made,,Layup,,,56-47,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=265
@@ -229,25 +229,25 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.53,Minnesota Timberwolves,substitute,,,,Rubio,,Shved,,,,,,,,,,,,,56-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=267
 ,,,,,,,,,,2,0.53,Minnesota Timberwolves,free throw,,,,,,,1,,1,Kirilenko,,,foul,missed,,,,,56-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=268
 ,,,,,,,,,,2,0.53,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,56-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=270
-,,,,,,,,,,2,0.37,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Lost Ball,,,,,,56-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=272
+,,,,,,,,,,2,0.37,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Lost Ball,,Kirilenko,,,,56-47,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=272
 ,,,,,,,,,,2,0.26,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Love,2,,,made,,Jump Hook Shot,,,58-47,10,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=273
 ,,,,,,,,,,2,0.06,Orlando Magic,shot,Ayon,,,,,,,,,O'Quinn,2,,,made,,Layup,,,58-49,3,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=274
 ,,,,,,,,,,2,0.00,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Love,3,,,made,,3PT Jump Shot,,,61-49,25,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=275
-,,,,,,,,,,2,0.00,Orlando Magic,turnover,,,,,,,,,,Ayon,,,Bad Pass,,,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=276
+,,,,,,,,,,2,0.00,Orlando Magic,turnover,,,,,,,,,,Ayon,,,Bad Pass,,Rubio,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=276
 ,,,,,,,,,,3,11.41,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Hook Shot,,,61-49,10,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=280
 ,,,,,,,,,,3,11.39,Orlando Magic,rebound,,,,,,,,,,Nelson,,,,,,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=281
 ,,,,,,,,,,3,11.18,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Jump Shot,,,61-49,19,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=282
 ,,,,,,,,,,3,11.16,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=283
 ,,,,,,,,,,3,11.08,Orlando Magic,foul,,,,,,,,,,Davis,,,,,,Personal,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=284
 ,,,,,,,,,,3,11.04,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Love,2,,,made,,Layup,,,63-49,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=285
-,,,,,,,,,,3,10.48,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Bad Pass,,,,,,63-49,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=286
-,,,,,,,,,,3,10.42,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,63-49,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=287
+,,,,,,,,,,3,10.48,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Bad Pass,,Kirilenko,,,,63-49,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=286
+,,,,,,,,,,3,10.42,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,Afflalo,,,,63-49,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=287
 ,,,,,,,,,,3,10.35,Orlando Magic,shot,,,,,,,,,,Afflalo,2,,,made,,Driving Reverse Layup,,,63-51,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=288
 ,,,,,,,,,,3,10.18,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,3PT Jump Shot,,,63-51,25,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=289
 ,,,,,,,,,,3,10.17,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,63-51,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=290
 ,,,,,,,,,,3,10.13,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,Running Jump Shot,,,63-51,8,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=291
 ,,,,,,,,,,3,10.12,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,63-51,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=292
-,,,,,,,,,,3,10.00,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,,,,,63-51,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=293
+,,,,,,,,,,3,10.00,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,Love,,,,63-51,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=293
 ,,,,,,,,,,3,9.39,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Jump Hook Shot,,,63-51,11,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=294
 ,,,,,,,,,,3,9.38,Orlando Magic,rebound,,,,,,,,,,Davis,,,,,,,,,63-51,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=295
 ,,,,,,,,,,3,9.30,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Jump Shot,,,63-51,15,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=296
@@ -269,9 +269,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.20,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Hook Shot,,,68-53,5,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=314
 ,,,,,,,,,,3,7.19,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,68-53,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=315
 ,,,,,,,,,,3,7.06,Orlando Magic,shot,,,,,,,,,,Davis,2,,,made,,Jump Shot,,,68-55,16,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=316
-,,,,,,,,,,3,6.46,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Lost Ball,,,,,,68-55,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=317
+,,,,,,,,,,3,6.46,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Lost Ball,,Davis,,,,68-55,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=317
 ,,,,,,,,,,3,6.41,Orlando Magic,shot,Nelson,,,,,,,,,Davis,2,,,made,,Dunk,,,68-57,1,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=318
-,,,,,,,,,,3,6.23,Minnesota Timberwolves,turnover,,,,,,,,,,Pekovic,,,Bad Pass,,,,,,68-57,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=319
+,,,,,,,,,,3,6.23,Minnesota Timberwolves,turnover,,,,,,,,,,Pekovic,,,Bad Pass,,Vucevic,,,,68-57,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=319
 ,,,,,,,,,,3,6.15,Orlando Magic,shot,Nelson,,,,,,,,,Davis,2,,,made,,Layup,,,68-59,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=320
 ,,,,,,,,,,3,6.15,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,68-59,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=321
 ,,,,,,,,,,3,5.58,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,3PT Jump Shot,,,68-59,25,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=325
@@ -324,7 +324,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.09,Minnesota Timberwolves,substitute,,,,Barea,,Kirilenko,,,,,,,,,,,,,74-71,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=380
 ,,,,,,,,,,3,0.56,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Jump Shot,,,74-71,25,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=381
 ,,,,,,,,,,3,0.55,Minnesota Timberwolves,rebound,,,,,,,,,,Rubio,,,,,,,,,74-71,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=382
-,,,,,,,,,,3,0.47,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,Driving Layup,,,74-71,3,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=383
+,,,,,,,,,,3,0.47,Minnesota Timberwolves,shot,,,Ayon,,,,,,,Love,,,,missed,,Driving Layup,,,74-71,3,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=383
 ,,,,,,,,,,3,0.45,Orlando Magic,rebound,,,,,,,,,,Moore,,,,,,,,,74-71,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=384
 ,,,,,,,,,,3,0.35,Orlando Magic,shot,Redick,,,,,,,,,Moore,3,,,made,,3PT Jump Shot,,,74-74,26,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=385
 ,,,,,,,,,,3,0.29,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Cunningham,2,,,made,,Dunk,,,76-74,1,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=386
@@ -334,7 +334,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.00,Orlando Magic,shot,,,,,,,,,,McRoberts,,,,missed,,3PT Jump Shot,,,78-74,26,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=390
 ,,,,,,,,,,3,0.00,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,78-74,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=391
 ,,,,,,,,,,4,11.40,Orlando Magic,shot,Redick,,,,,,,,,Ayon,2,,,made,,Jump Shot,,,78-76,6,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=395
-,,,,,,,,,,4,11.16,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,,,,,78-76,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=396
+,,,,,,,,,,4,11.16,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,Nicholson,,,,78-76,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=396
 ,,,,,,,,,,4,11.00,Orlando Magic,shot,Redick,,,,,,,,,Ayon,2,,,made,,Hook Shot,,,78-78,4,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=397
 ,,,,,,,,,,4,10.39,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,3PT Jump Shot,,,78-78,25,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=398
 ,,,,,,,,,,4,10.38,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,78-78,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=399
@@ -398,7 +398,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.52,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,87-92,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=466
 ,,,,,,,,,,4,3.33,Orlando Magic,shot,,,,,,,,,,Vucevic,2,,,made,,Jump Shot,,,87-94,12,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=467
 ,,,,,,,,,,4,3.16,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Love,2,,,made,,Hook Shot,,,89-94,4,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=468
-,,,,,,,,,,4,2.58,Orlando Magic,turnover,,,,,,,,,,Davis,,,Bad Pass,,,,,,89-94,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=469
+,,,,,,,,,,4,2.58,Orlando Magic,turnover,,,,,,,,,,Davis,,,Bad Pass,,Love,,,,89-94,,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=469
 ,,,,,,,,,,4,2.53,Minnesota Timberwolves,shot,Barea,,,,,,,,,Kirilenko,2,,,made,,Dunk,,,91-94,2,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=470
 ,,,,,,,,,,4,2.29,Orlando Magic,shot,,,,,,,,,,Davis,2,,,made,,Driving Hook Shot,,,91-96,6,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=471
 ,,,,,,,,,,4,2.14,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,3PT Jump Shot,,,91-96,25,http://stats.nba.com/cvp.html?GameID=0021200350&GameEventID=472

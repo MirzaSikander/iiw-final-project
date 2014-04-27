@@ -1,12 +1,12 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.38,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,3PT Jump Shot,,,,26,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=2
 ,,,,,,,,,,1,11.37,Toronto Raptors,rebound,,,,,,,,,,Bargnani,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=3
-,,,,,,,,,,1,11.29,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,Layup,,,,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=4
+,,,,,,,,,,1,11.29,Toronto Raptors,shot,,,Sanders,,,,,,,Fields,,,,missed,,Layup,,,,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=4
 ,,,,,,,,,,1,11.27,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=5
 ,,,,,,,,,,1,11.12,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,,16,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=6
 ,,,,,,,,,,1,11.11,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=7
-,,,,,,,,,,1,11.06,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=8
-,,,,,,,,,,1,11.00,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=9
+,,,,,,,,,,1,11.06,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Ilyasova,,,,,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=8
+,,,,,,,,,,1,11.00,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,Lowry,,,,,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=9
 ,,,,,,,,,,1,11.00,Milwaukee Bucks,foul,,,,,,,,,,Sanders,,,,,,Personal,,,,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=10
 ,,,,,,,,,,1,10.53,Toronto Raptors,shot,Lowry,,,,,,,,,Johnson,2,,,made,,Layup,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=11
 ,,,,,,,,,,1,10.26,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,3PT Jump Shot,,,2-0,26,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=12
@@ -102,15 +102,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.00,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,32-23,8,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=112
 ,,,,,,,,,,1,0.00,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,32-23,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=113
 ,,,,,,,,,,2,11.46,Toronto Raptors,foul,,,,,,,,,,Bargnani,,,,,,Personal,,,32-23,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=117
-,,,,,,,,,,2,11.32,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,,,,,32-23,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=118
-,,,,,,,,,,2,11.30,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,Layup,,,32-23,2,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=119
+,,,,,,,,,,2,11.32,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,Fields,,,,32-23,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=118
+,,,,,,,,,,2,11.30,Toronto Raptors,shot,,,Jennings,,,,,,,Fields,,,,missed,,Layup,,,32-23,2,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=119
 ,,,,,,,,,,2,11.30,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,32-23,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=120
 ,,,,,,,,,,2,11.15,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Shot,,,32-23,5,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=121
 ,,,,,,,,,,2,11.13,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,32-23,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=122
 ,,,,,,,,,,2,11.06,Milwaukee Bucks,shot,,,,,,,,,,Henson,,,,missed,,Turnaround Jump Shot,,,32-23,7,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=123
 ,,,,,,,,,,2,11.04,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,32-23,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=124
 ,,,,,,,,,,2,10.51,Toronto Raptors,shot,,,,,,,,,,Valanciunas,2,,,made,,Hook Shot,,,34-23,6,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=125
-,,,,,,,,,,2,10.27,Milwaukee Bucks,shot,,,,,,,,,,Dalembert,,,,missed,,Jump Shot,,,34-23,12,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=126
+,,,,,,,,,,2,10.27,Milwaukee Bucks,shot,,,Bargnani,,,,,,,Dalembert,,,,missed,,Jump Shot,,,34-23,12,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=126
 ,,,,,,,,,,2,10.24,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,34-23,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=128
 ,,,,,,,,,,2,10.17,Milwaukee Bucks,shot,Jennings,,,,,,,,,Dunleavy,3,,,made,,3PT Jump Shot,,,34-26,26,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=129
 ,,,,,,,,,,2,10.03,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,3PT Jump Shot,,,34-26,25,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=130
@@ -155,7 +155,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.43,Toronto Raptors,substitute,,,,DeRozan,,Anderson,,,,,,,,,,,,,45-38,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=176
 ,,,,,,,,,,2,5.35,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,Jump Shot,,,45-38,14,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=177
 ,,,,,,,,,,2,5.34,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,45-38,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=178
-,,,,,,,,,,2,5.19,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,,,,,45-38,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=179
+,,,,,,,,,,2,5.19,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,Udoh,,,,45-38,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=179
 ,,,,,,,,,,2,5.14,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,3,,,made,,3PT Jump Shot,,,45-41,26,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=180
 ,,,,,,,,,,2,4.53,Milwaukee Bucks,substitute,,,,Sanders,,Udoh,,,,,,,,,,,,,45-41,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=181
 ,,,,,,,,,,2,4.50,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,45-41,17,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=182
@@ -175,10 +175,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.52,Milwaukee Bucks,free throw,,,,,,,2,,2,Mbah a Moute,1,,foul,made,,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=203
 ,,,,,,,,,,2,3.32,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Shot,,,49-45,16,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=205
 ,,,,,,,,,,2,3.32,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=206
-,,,,,,,,,,2,3.24,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,49-45,12,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=207
+,,,,,,,,,,2,3.24,Toronto Raptors,shot,,,Sanders,,,,,,,DeRozan,,,,missed,,Jump Shot,,,49-45,12,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=207
 ,,,,,,,,,,2,3.22,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=208
 ,,,,,,,,,,2,3.11,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=209
-,,,,,,,,,,2,3.08,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=210
+,,,,,,,,,,2,3.08,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Jennings,,,,49-45,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=210
 ,,,,,,,,,,2,3.04,Milwaukee Bucks,shot,Jennings,,,,,,,,,Ellis,2,,,made,,Layup,,,49-47,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=211
 ,,,,,,,,,,2,2.46,Toronto Raptors,shot,DeRozan,,,,,,,,,Bargnani,2,,,made,,Jump Shot,,,51-47,15,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=212
 ,,,,,,,,,,2,2.35,Milwaukee Bucks,shot,Jennings,,,,,,,,,Mbah a Moute,2,,,made,,Layup,,,51-49,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=213
@@ -190,9 +190,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.02,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,51-49,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=220
 ,,,,,,,,,,2,2.01,Toronto Raptors,shot,,,,,,,,,,Fields,2,,,made,,Layup,,,53-49,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=221
 ,,,,,,,,,,2,1.45,Milwaukee Bucks,shot,,,,,,,,,,Jennings,2,,,made,,Jump Shot,,,53-51,14,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=222
-,,,,,,,,,,2,1.26,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,Layup,,,53-51,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=223
+,,,,,,,,,,2,1.26,Toronto Raptors,shot,,,Sanders,,,,,,,Fields,,,,missed,,Layup,,,53-51,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=223
 ,,,,,,,,,,2,1.24,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,53-51,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=224
-,,,,,,,,,,2,1.19,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Layup,,,53-51,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=225
+,,,,,,,,,,2,1.19,Milwaukee Bucks,shot,,,DeRozan,,,,,,,Ellis,,,,missed,,Layup,,,53-51,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=225
 ,,,,,,,,,,2,1.19,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,53-51,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=226
 ,,,,,,,,,,2,1.19,Toronto Raptors,substitute,,,,Anderson,,Bargnani,,,,,,,,,,,,,53-51,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=227
 ,,,,,,,,,,2,1.07,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Shooting,,,53-51,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=228
@@ -203,8 +203,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.49,Milwaukee Bucks,foul,,,,,,,,,,Ellis,,,,,,Shooting,,,53-52,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=234
 ,,,,,,,,,,2,0.49,Toronto Raptors,free throw,,,,,,,1,,2,DeRozan,1,,foul,made,,,,,54-52,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=235
 ,,,,,,,,,,2,0.49,Toronto Raptors,free throw,,,,,,,2,,2,DeRozan,1,,foul,made,,,,,55-52,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=237
-,,,,,,,,,,2,0.36,Milwaukee Bucks,turnover,,,,,,,,,,Mbah a Moute,,,Lost Ball,,,,,,55-52,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=239
-,,,,,,,,,,2,0.30,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,55-52,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=240
+,,,,,,,,,,2,0.36,Milwaukee Bucks,turnover,,,,,,,,,,Mbah a Moute,,,Lost Ball,,Lowry,,,,55-52,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=239
+,,,,,,,,,,2,0.30,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Ellis,,,,55-52,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=240
 ,,,,,,,,,,2,0.28,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,2,,,made,,Dunk,,,55-54,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=241
 ,,,,,,,,,,2,0.10,Toronto Raptors,foul,,,,,,,,,,,,,,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=242
 ,,,,,,,,,,2,0.10,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Foul,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=243
@@ -222,9 +222,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.25,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,56-54,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=261
 ,,,,,,,,,,3,11.11,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,56-54,18,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=262
 ,,,,,,,,,,3,11.10,Toronto Raptors,rebound,,,,,,,,,,Bargnani,,,,,,,,,56-54,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=263
-,,,,,,,,,,3,11.01,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,56-54,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=264
+,,,,,,,,,,3,11.01,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Ilyasova,,,,56-54,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=264
 ,,,,,,,,,,3,10.55,Milwaukee Bucks,shot,Ellis,,,,,,,,,Ilyasova,2,,,made,,Jump Shot,,,56-56,20,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=265
-,,,,,,,,,,3,10.41,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Shot,,,56-56,3,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=266
+,,,,,,,,,,3,10.41,Toronto Raptors,shot,,,Ilyasova,,,,,,,Bargnani,,,,missed,,Jump Shot,,,56-56,3,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=266
 ,,,,,,,,,,3,10.41,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,56-56,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=267
 ,,,,,,,,,,3,10.38,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,56-56,16,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=268
 ,,,,,,,,,,3,10.37,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,56-56,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=269
@@ -247,14 +247,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.35,Milwaukee Bucks,free throw,,,,,,,1,,2,Mbah a Moute,,,foul,missed,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=288
 ,,,,,,,,,,3,8.35,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=289
 ,,,,,,,,,,3,8.35,Milwaukee Bucks,free throw,,,,,,,2,,2,Mbah a Moute,1,,foul,made,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=290
-,,,,,,,,,,3,8.19,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=292
+,,,,,,,,,,3,8.19,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Moute,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=292
 ,,,,,,,,,,3,8.13,Milwaukee Bucks,shot,,,,,,,,,,Mbah a Moute,,,,missed,,Layup,,,57-61,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=293
 ,,,,,,,,,,3,8.12,Toronto Raptors,rebound,,,,,,,,,,Bargnani,,,,,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=294
-,,,,,,,,,,3,8.06,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,57-61,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=295
+,,,,,,,,,,3,8.06,Toronto Raptors,shot,,,Sanders,,,,,,,DeRozan,,,,missed,,Layup,,,57-61,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=295
 ,,,,,,,,,,3,8.02,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=296
 ,,,,,,,,,,3,8.01,Toronto Raptors,shot,,,,,,,,,,Fields,2,,,made,,Layup,,,59-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=297
-,,,,,,,,,,3,7.40,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=298
-,,,,,,,,,,3,7.33,Toronto Raptors,turnover,,,,,,,,,,Bargnani,,,Lost Ball,,,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=299
+,,,,,,,,,,3,7.40,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,Lowry,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=298
+,,,,,,,,,,3,7.33,Toronto Raptors,turnover,,,,,,,,,,Bargnani,,,Lost Ball,,Ellis,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=299
 ,,,,,,,,,,3,7.27,Milwaukee Bucks,shot,,,,,,,,,,Sanders,2,,,made,,Dunk,,,59-63,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=300
 ,,,,,,,,,,3,7.25,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=301
 ,,,,,,,,,,3,7.13,Milwaukee Bucks,foul,,,,,,,,,,Ilyasova,,,,,,Personal,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=303
@@ -345,7 +345,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.57,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=414
 ,,,,,,,,,,4,9.49,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,82-84,24,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=416
 ,,,,,,,,,,4,9.48,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=417
-,,,,,,,,,,4,9.42,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=418
+,,,,,,,,,,4,9.42,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,Fields,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=418
 ,,,,,,,,,,4,9.35,Toronto Raptors,shot,DeRozan,,,,,,,,,Lucas III,3,,,made,,3PT Jump Shot,,,85-84,24,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=419
 ,,,,,,,,,,4,9.35,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=420
 ,,,,,,,,,,4,9.35,Milwaukee Bucks,substitute,,,,Sanders,,Udoh,,,,,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=422
@@ -370,7 +370,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.39,Toronto Raptors,substitute,,,,Lowry,,Lucas III,,,,,,,,,,,,,88-88,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=444
 ,,,,,,,,,,4,6.39,Milwaukee Bucks,substitute,,,,Jennings,,Dunleavy,,,,,,,,,,,,,88-88,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=445
 ,,,,,,,,,,4,6.39,Toronto Raptors,free throw,,,,,,,2,,2,Anderson,1,,foul,made,,,,,89-88,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=446
-,,,,,,,,,,4,6.28,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,,,,,89-88,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=448
+,,,,,,,,,,4,6.28,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,Lowry,,,,89-88,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=448
 ,,,,,,,,,,4,6.16,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,89-88,14,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=449
 ,,,,,,,,,,4,6.15,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,89-88,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=450
 ,,,,,,,,,,4,6.15,Toronto Raptors,foul,,,,,,,,,,Johnson,,,,,,Personal,,,89-88,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=451
@@ -397,7 +397,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.32,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,96-95,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=472
 ,,,,,,,,,,4,3.18,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,96-95,4,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=473
 ,,,,,,,,,,4,3.16,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,96-95,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=474
-,,,,,,,,,,4,3.14,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,,,,,96-95,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=475
+,,,,,,,,,,4,3.14,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,Fields,,,,96-95,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=475
 ,,,,,,,,,,4,3.10,Toronto Raptors,shot,Fields,,,,,,,,,Johnson,2,,,made,,Jump Shot,,,98-95,5,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=476
 ,,,,,,,,,,4,2.51,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Jump Shot,,,98-95,15,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=478
 ,,,,,,,,,,4,2.50,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,98-95,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=479
@@ -419,7 +419,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.43,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,102-102,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=500
 ,,,,,,,,,,4,0.39,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,102-102,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=501
 ,,,,,,,,,,4,0.39,Milwaukee Bucks,substitute,,,,Mbah a Moute,,Jennings,,,,,,,,,,,,,102-102,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=503
-,,,,,,,,,,4,0.28,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,102-102,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=504
+,,,,,,,,,,4,0.28,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Ellis,,,,102-102,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=504
 ,,,,,,,,,,4,0.27,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,102-102,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=505
 ,,,,,,,,,,4,0.27,Milwaukee Bucks,substitute,,,,Jennings,,Mbah a Moute,,,,,,,,,,,,,102-102,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=507
 ,,,,,,,,,,4,0.06,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,102-102,15,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=508
@@ -432,7 +432,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.01,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,104-104,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=519
 ,,,,,,,,,,4,0.01,Milwaukee Bucks,substitute,,,,Jennings,,Mbah a Moute,,,,,,,,,,,,,104-104,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=521
 ,,,,,,,,,,4,0.01,Milwaukee Bucks,substitute,,,,Dunleavy,,Redick,,,,,,,,,,,,,104-104,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=522
-,,,,,,,,,,4,0.00,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,,,,,104-104,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=523
+,,,,,,,,,,4,0.00,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,Lowry,,,,104-104,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=523
 ,,,,,,,,,,5,5.00,Milwaukee Bucks,jumpball,,Johnson,,,Sanders,,,,,,,,,,,,,,104-104,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=527
 ,,,,,,,,,,5,4.39,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,104-104,12,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=528
 ,,,,,,,,,,5,4.38,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,104-104,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=529
@@ -442,7 +442,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,4.11,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,104-104,5,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=533
 ,,,,,,,,,,5,4.09,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,104-104,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=534
 ,,,,,,,,,,5,4.08,Milwaukee Bucks,shot,,,,,,,,,,Sanders,2,,,made,,Dunk,,,104-106,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=535
-,,,,,,,,,,5,3.52,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,Layup,,,104-106,2,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=536
+,,,,,,,,,,5,3.52,Toronto Raptors,shot,,,Sanders,,,,,,,Fields,,,,missed,,Layup,,,104-106,2,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=536
 ,,,,,,,,,,5,3.50,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,104-106,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=537
 ,,,,,,,,,,5,3.42,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,2,,,made,,Layup,,,104-108,1,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=538
 ,,,,,,,,,,5,3.27,Toronto Raptors,foul,,,,,,,,,,,,,,,,,,,104-108,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=539
@@ -458,7 +458,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,2.50,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,104-111,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=550
 ,,,,,,,,,,5,2.50,Milwaukee Bucks,substitute,,,,Mbah a Moute,,Jennings,,,,,,,,,,,,,104-111,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=552
 ,,,,,,,,,,5,2.32,Toronto Raptors,shot,DeRozan,,,,,,,,,Lowry,3,,,made,,3PT Jump Shot,,,107-111,26,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=553
-,,,,,,,,,,5,2.14,Milwaukee Bucks,shot,,,,,,,,,,Mbah a Moute,,,,missed,,Jump Shot,,,107-111,5,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=554
+,,,,,,,,,,5,2.14,Milwaukee Bucks,shot,,,Bargnani,,,,,,,Mbah a Moute,,,,missed,,Jump Shot,,,107-111,5,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=554
 ,,,,,,,,,,5,2.14,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,107-111,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=557
 ,,,,,,,,,,5,2.14,Milwaukee Bucks,substitute,,,,Jennings,,Mbah a Moute,,,,,,,,,,,,,107-111,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=564
 ,,,,,,,,,,5,2.08,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Jump Shot,,,107-111,7,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=558
@@ -477,7 +477,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,0.30,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,111-118,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=574
 ,,,,,,,,,,5,0.29,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Personal,,,111-118,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=575
 ,,,,,,,,,,5,0.29,Toronto Raptors,substitute,,,,Fields,,DeRozan,,,,,,,,,,,,,111-118,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=577
-,,,,,,,,,,5,0.26,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,,,,,111-118,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=578
+,,,,,,,,,,5,0.26,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,Fields,,,,111-118,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=578
 ,,,,,,,,,,5,0.20,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,3PT Jump Shot,,,111-118,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=579
 ,,,,,,,,,,5,0.19,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,111-118,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=581
 ,,,,,,,,,,5,0.18,Toronto Raptors,foul,,,,,,,,,,Lucas,,,,,,III Personal Take,,,111-118,,http://stats.nba.com/cvp.html?GameID=0021200878&GameEventID=582

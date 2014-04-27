@@ -1,10 +1,10 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.42,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Layup,,,,3,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=2
+,,,,,,,,,,1,11.42,Los Angeles Clippers,shot,,,Lopez,,,,,,,Jordan,,,,missed,,Layup,,,,3,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=2
 ,,,,,,,,,,1,11.41,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=3
 ,,,,,,,,,,1,11.23,New Orleans Hornets,shot,Vasquez,,,,,,,,,Lopez,2,,,made,,Dunk,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=4
 ,,,,,,,,,,1,11.07,Los Angeles Clippers,shot,Griffin,,,,,,,,,Butler,2,,,made,,Reverse Layup,,,2-2,2,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=5
 ,,,,,,,,,,1,10.45,Los Angeles Clippers,foul,,,,,,,,,,Butler,,,,,,Personal,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=6
-,,,,,,,,,,1,10.34,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Lost Ball,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=8
+,,,,,,,,,,1,10.34,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Lost Ball,,Paul,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=8
 ,,,,,,,,,,1,10.34,Los Angeles Clippers,jumpball,,Vasquez,,,Paul,,,,,,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=7
 ,,,,,,,,,,1,10.25,Los Angeles Clippers,shot,Paul,,,,,,,,,Jordan,2,,,made,,Layup,,,2-4,2,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=9
 ,,,,,,,,,,1,10.17,Los Angeles Clippers,foul,,,,,,,,,,Paul,,,,,,Personal,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=11
@@ -15,11 +15,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.35,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=18
 ,,,,,,,,,,1,9.35,New Orleans Hornets,shot,,,,,,,,,,Lopez,2,,,made,,Tip Shot,,,4-6,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=17
 ,,,,,,,,,,1,9.25,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Fadeaway Jumper,,,4-8,19,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=19
-,,,,,,,,,,1,9.03,New Orleans Hornets,shot,,,,,,,,,,Vasquez,,,,missed,,Jump Shot,,,4-8,4,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=20
+,,,,,,,,,,1,9.03,New Orleans Hornets,shot,,,Jordan,,,,,,,Vasquez,,,,missed,,Jump Shot,,,4-8,4,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=20
 ,,,,,,,,,,1,9.01,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=21
 ,,,,,,,,,,1,8.57,New Orleans Hornets,shot,,,,,,,,,,Vasquez,,,,missed,,3PT Jump Shot,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=22
 ,,,,,,,,,,1,8.56,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=23
-,,,,,,,,,,1,8.51,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,4-8,6,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=24
+,,,,,,,,,,1,8.51,Los Angeles Clippers,shot,,,Davis,,,,,,,Griffin,,,,missed,,Jump Shot,,,4-8,6,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=24
 ,,,,,,,,,,1,8.48,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=25
 ,,,,,,,,,,1,8.37,New Orleans Hornets,foul,,,,,,,,,,Rivers,,,,,,Offensive Charge,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=27
 ,,,,,,,,,,1,8.37,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Foul,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=28
@@ -82,7 +82,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.10,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,16-20,27,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=91
 ,,,,,,,,,,1,1.09,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=92
 ,,,,,,,,,,1,0.52,Los Angeles Clippers,shot,Paul,,,,,,,,,Odom,2,,,made,,Jump Shot,,,16-22,17,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=93
-,,,,,,,,,,1,0.29,New Orleans Hornets,shot,,,,,,,,,,McGuire,,,,missed,,Jump Shot,,,16-22,9,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=94
+,,,,,,,,,,1,0.29,New Orleans Hornets,shot,,,Barnes,,,,,,,McGuire,,,,missed,,Jump Shot,,,16-22,9,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=94
 ,,,,,,,,,,1,0.28,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,16-22,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=95
 ,,,,,,,,,,1,0.05,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Layup,,,16-22,2,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=96
 ,,,,,,,,,,1,0.04,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,16-22,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=97
@@ -95,13 +95,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.06,Los Angeles Clippers,shot,,,,,,,,,,Crawford,2,,,made,,Jump Shot,,,18-24,20,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=107
 ,,,,,,,,,,2,10.54,New Orleans Hornets,foul,,,,,,,,,,,,,,,,,,,18-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=108
 ,,,,,,,,,,2,10.54,New Orleans Hornets,turnover,,,,,,,,,,Miller,,,Foul,,,,,,18-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=109
-,,,,,,,,,,2,10.45,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,,,,,18-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=110
+,,,,,,,,,,2,10.45,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,Roberts,,,,18-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=110
 ,,,,,,,,,,2,10.37,New Orleans Hornets,shot,Miller,,,,,,,,,Anderson,2,,,made,,Layup,,,20-24,3,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=111
 ,,,,,,,,,,2,10.37,Los Angeles Clippers,foul,,,,,,,,,,Odom,,,,,,Shooting,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=112
 ,,,,,,,,,,2,10.37,New Orleans Hornets,free throw,,,,,,,1,,1,Anderson,1,,foul,made,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=113
 ,,,,,,,,,,2,10.17,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,21-24,18,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=116
 ,,,,,,,,,,2,10.16,New Orleans Hornets,rebound,,,,,,,,,,Miller,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=117
-,,,,,,,,,,2,10.02,New Orleans Hornets,shot,,,,,,,,,,Miller,,,,missed,,Jump Shot,,,21-24,6,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=119
+,,,,,,,,,,2,10.02,New Orleans Hornets,shot,,,Turiaf,,,,,,,Miller,,,,missed,,Jump Shot,,,21-24,6,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=119
 ,,,,,,,,,,2,10.00,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=120
 ,,,,,,,,,,2,9.56,Los Angeles Clippers,foul,,,,,,,,,,Bledsoe,,,,,,Offensive Charge,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=121
 ,,,,,,,,,,2,9.56,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Foul,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=122
@@ -109,7 +109,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.38,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=124
 ,,,,,,,,,,2,9.31,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Bank Shot,,,21-24,4,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=125
 ,,,,,,,,,,2,9.30,New Orleans Hornets,rebound,,,,,,,,,,Roberts,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=126
-,,,,,,,,,,2,9.21,New Orleans Hornets,turnover,,,,,,,,,,Miller,,,Lost Ball,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=127
+,,,,,,,,,,2,9.21,New Orleans Hornets,turnover,,,,,,,,,,Miller,,,Lost Ball,,Barnes,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=127
 ,,,,,,,,,,2,9.15,Los Angeles Clippers,shot,Crawford,,,,,,,,,Barnes,2,,,made,,Driving Layup,,,21-26,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=128
 ,,,,,,,,,,2,8.54,Los Angeles Clippers,foul,,,,,,,,,,Bledsoe,,,,,,Shooting,,,21-26,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=129
 ,,,,,,,,,,2,8.54,New Orleans Hornets,free throw,,,,,,,1,,2,Anderson,1,,foul,made,,,,,22-26,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=132
@@ -121,31 +121,31 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.59,New Orleans Hornets,shot,,,,,,,,,,Roberts,2,,,made,,Driving Layup,,,27-29,2,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=141
 ,,,,,,,,,,2,7.34,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Jump Shot,,,27-31,20,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=142
 ,,,,,,,,,,2,7.12,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Personal,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=143
-,,,,,,,,,,2,7.01,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Layup,,,27-31,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=144
+,,,,,,,,,,2,7.01,New Orleans Hornets,shot,,,Turiaf,,,,,,,Davis,,,,missed,,Layup,,,27-31,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=144
 ,,,,,,,,,,2,6.59,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=145
 ,,,,,,,,,,2,6.52,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=146
 ,,,,,,,,,,2,6.51,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=147
 ,,,,,,,,,,2,6.41,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,27-31,3,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=148
 ,,,,,,,,,,2,6.40,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=149
 ,,,,,,,,,,2,6.37,New Orleans Hornets,substitute,,,,Rivers,,Miller,,,,,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=151
-,,,,,,,,,,2,6.27,New Orleans Hornets,shot,,,,,,,,,,Rivers,,,,missed,,Jump Shot,,,27-31,12,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=152
+,,,,,,,,,,2,6.27,New Orleans Hornets,shot,,,Bledsoe,,,,,,,Rivers,,,,missed,,Jump Shot,,,27-31,12,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=152
 ,,,,,,,,,,2,6.26,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=153
-,,,,,,,,,,2,6.23,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Layup,,,27-31,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=154
+,,,,,,,,,,2,6.23,Los Angeles Clippers,shot,,,McGuire,,,,,,,Crawford,,,,missed,,Layup,,,27-31,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=154
 ,,,,,,,,,,2,6.20,Los Angeles Clippers,rebound,,,,,,,,,,Crawford,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=155
 ,,,,,,,,,,2,6.19,Los Angeles Clippers,shot,,,,,,,,,,Crawford,2,,,made,,Layup,,,27-33,2,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=156
 ,,,,,,,,,,2,6.19,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Technical,,,27-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=157
 ,,,,,,,,,,2,6.19,New Orleans Hornets,free throw,,,,,,,,,,Roberts,1,,Technical,made,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=159
 ,,,,,,,,,,2,6.19,New Orleans Hornets,substitute,,,,Lopez,,Anderson,,,,,,,,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=161
-,,,,,,,,,,2,5.58,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Shot,,,28-33,5,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=162
+,,,,,,,,,,2,5.58,New Orleans Hornets,shot,,,Bledsoe,,,,,,,Lopez,,,,missed,,Jump Shot,,,28-33,5,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=162
 ,,,,,,,,,,2,5.58,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=164
 ,,,,,,,,,,2,5.58,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=163
 ,,,,,,,,,,2,5.58,Los Angeles Clippers,substitute,,,,Griffin,,Turiaf,,,,,,,,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=166
-,,,,,,,,,,2,5.58,New Orleans Hornets,turnover,,,,,,,,,,Lopez,,,Lost Ball,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=168
+,,,,,,,,,,2,5.58,New Orleans Hornets,turnover,,,,,,,,,,Lopez,,,Lost Ball,,Bledsoe,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=168
 ,,,,,,,,,,2,5.58,Los Angeles Clippers,jumpball,,Lopez,,,Bledsoe,,,,,,,,,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=167
-,,,,,,,,,,2,5.49,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=169
-,,,,,,,,,,2,5.39,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Bad Pass,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=170
+,,,,,,,,,,2,5.49,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,McGuire,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=169
+,,,,,,,,,,2,5.39,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Bad Pass,,Bledsoe,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=170
 ,,,,,,,,,,2,5.34,Los Angeles Clippers,shot,Bledsoe,,,,,,,,,Barnes,2,,,made,,Driving Layup,,,28-35,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=171
-,,,,,,,,,,2,5.25,New Orleans Hornets,turnover,,,,,,,,,,Roberts,,,Lost Ball,,,,,,28-35,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=172
+,,,,,,,,,,2,5.25,New Orleans Hornets,turnover,,,,,,,,,,Roberts,,,Lost Ball,,Griffin,,,,28-35,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=172
 ,,,,,,,,,,2,5.21,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,,,,,28-35,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=173
 ,,,,,,,,,,2,5.21,New Orleans Hornets,substitute,,,,Vasquez,,Roberts,,,,,,,,,,,,,28-35,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=174
 ,,,,,,,,,,2,5.21,Los Angeles Clippers,substitute,,,,Paul,,Bledsoe,,,,,,,,,,,,,28-35,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=175
@@ -196,7 +196,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.45,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,34-46,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=231
 ,,,,,,,,,,2,0.30,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,34-46,26,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=232
 ,,,,,,,,,,2,0.28,New Orleans Hornets,rebound,,,,,,,,,,Thomas,,,,,,,,,34-46,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=233
-,,,,,,,,,,2,0.08,New Orleans Hornets,shot,,,,,,,,,,Vasquez,,,,missed,,Jump Shot,,,34-46,6,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=234
+,,,,,,,,,,2,0.08,New Orleans Hornets,shot,,,Jordan,,,,,,,Vasquez,,,,missed,,Jump Shot,,,34-46,6,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=234
 ,,,,,,,,,,2,0.06,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,34-46,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=235
 ,,,,,,,,,,2,0.04,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Alley Oop Dunk,,,34-48,2,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=236
 ,,,,,,,,,,2,0.00,New Orleans Hornets,shot,,,,,,,,,,Vasquez,3,,,made,,3PT Jump Shot,,,37-48,29,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=237
@@ -217,7 +217,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.10,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,40-52,27,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=258
 ,,,,,,,,,,3,10.08,New Orleans Hornets,rebound,,,,,,,,,,Vasquez,,,,,,,,,40-52,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=259
 ,,,,,,,,,,3,10.03,New Orleans Hornets,shot,Vasquez,,,,,,,,,Davis,2,,,made,,Driving Finger Roll Layup,,,42-52,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=260
-,,,,,,,,,,3,9.44,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Layup,,,42-52,3,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=261
+,,,,,,,,,,3,9.44,Los Angeles Clippers,shot,,,Lopez,,,,,,,Griffin,,,,missed,,Layup,,,42-52,3,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=261
 ,,,,,,,,,,3,9.42,New Orleans Hornets,rebound,,,,,,,,,,Vasquez,,,,,,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=262
 ,,,,,,,,,,3,9.34,New Orleans Hornets,shot,Vasquez,,,,,,,,,Davis,2,,,made,,Slam Dunk,,,44-52,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=263
 ,,,,,,,,,,3,9.34,Los Angeles Clippers,foul,,,,,,,,,,Jordan,,,,,,Shooting,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=264
@@ -269,7 +269,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.17,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=327
 ,,,,,,,,,,3,5.07,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=328
 ,,,,,,,,,,3,5.06,New Orleans Hornets,rebound,,,,,,,,,,Thomas,,,,,,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=329
-,,,,,,,,,,3,5.04,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Lost Ball,,,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=330
+,,,,,,,,,,3,5.04,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Lost Ball,,Crawford,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=330
 ,,,,,,,,,,3,4.59,Los Angeles Clippers,shot,Crawford,,,,,,,,,Griffin,2,,,made,,Slam Dunk,,,50-63,2,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=331
 ,,,,,,,,,,3,4.35,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Traveling,,,,,,50-63,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=332
 ,,,,,,,,,,3,4.27,New Orleans Hornets,foul,,,,,,,,,,Vasquez,,,,,,Shooting,,,50-63,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=333
@@ -277,7 +277,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.27,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,50-63,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=335
 ,,,,,,,,,,3,4.27,Los Angeles Clippers,free throw,,,,,,,2,,2,Jordan,,,foul,missed,,,,,50-63,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=336
 ,,,,,,,,,,3,4.26,New Orleans Hornets,rebound,,,,,,,,,,Thomas,,,,,,,,,50-63,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=338
-,,,,,,,,,,3,4.14,New Orleans Hornets,turnover,,,,,,,,,,Anderson,,,Bad Pass,,,,,,50-63,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=339
+,,,,,,,,,,3,4.14,New Orleans Hornets,turnover,,,,,,,,,,Anderson,,,Bad Pass,,Crawford,,,,50-63,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=339
 ,,,,,,,,,,3,4.10,Los Angeles Clippers,shot,Crawford,,,,,,,,,Paul,2,,,made,,Slam Dunk,,,50-65,2,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=340
 ,,,,,,,,,,3,3.45,New Orleans Hornets,shot,,,,,,,,,,Lopez,2,,,made,,Turnaround Hook Shot,,,52-65,12,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=341
 ,,,,,,,,,,3,3.29,New Orleans Hornets,foul,,,,,,,,,,Lopez,,,,,,Shooting,,,52-65,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=342
@@ -306,7 +306,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.24,Los Angeles Clippers,substitute,,,,Bledsoe,,Paul,,,,,,,,,,,,,54-71,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=371
 ,,,,,,,,,,3,1.06,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Layup,,,54-71,1,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=372
 ,,,,,,,,,,3,1.05,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,54-71,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=373
-,,,,,,,,,,3,0.49,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Dunk,,,54-71,3,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=374
+,,,,,,,,,,3,0.49,Los Angeles Clippers,shot,,,Jr.,,,,,,,Bledsoe,,,,missed,,Dunk,,,54-71,3,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=374
 ,,,,,,,,,,3,0.46,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,54-71,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=376
 ,,,,,,,,,,3,0.46,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Layup,,,54-73,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=375
 ,,,,,,,,,,3,0.22,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,3PT Jump Shot,,,54-73,28,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=378
@@ -347,13 +347,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.43,New Orleans Hornets,rebound,,,,,,,,,,Mason Jr.,,,,,,,,,62-84,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=426
 ,,,,,,,,,,4,7.29,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,Jump Shot,,,62-84,21,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=427
 ,,,,,,,,,,4,7.28,Los Angeles Clippers,rebound,,,,,,,,,,Turiaf,,,,,,,,,62-84,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=428
-,,,,,,,,,,4,7.16,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,62-84,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=429
+,,,,,,,,,,4,7.16,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Roberts,,,,62-84,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=429
 ,,,,,,,,,,4,7.09,New Orleans Hornets,shot,Roberts,,,,,,,,,Mason Jr.,3,,,made,,3PT Jump Shot,,,65-84,26,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=430
 ,,,,,,,,,,4,6.50,Los Angeles Clippers,shot,Odom,,,,,,,,,Barnes,2,,,made,,Jump Shot,,,65-86,6,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=431
 ,,,,,,,,,,4,6.33,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Personal,,,65-86,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=432
 ,,,,,,,,,,4,6.33,New Orleans Hornets,substitute,,,,Rivers,,Mason Jr.,,,,,,,,,,,,,65-86,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=433
 ,,,,,,,,,,4,6.33,New Orleans Hornets,substitute,,,,Vasquez,,Roberts,,,,,,,,,,,,,65-86,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=434
-,,,,,,,,,,4,6.26,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Bad Pass,,,,,,65-86,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=435
+,,,,,,,,,,4,6.26,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Bad Pass,,Crawford,,,,65-86,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=435
 ,,,,,,,,,,4,6.10,Los Angeles Clippers,shot,Bledsoe,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,65-89,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=436
 ,,,,,,,,,,4,6.08,New Orleans Hornets,timeout,,,,,,,,,,,,,,,,,,,65-89,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=437
 ,,,,,,,,,,4,6.08,New Orleans Hornets,substitute,,,,Lopez,,Anderson,,,,,,,,,,,,,65-89,,http://stats.nba.com/cvp.html?GameID=0021200376&GameEventID=439

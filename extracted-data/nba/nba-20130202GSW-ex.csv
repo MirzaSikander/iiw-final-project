@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.28,Golden State Warriors,shot,Curry,,,,,,,,,Thompson,2,,,made,,Reverse Layup,,,7-6,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=15
 ,,,,,,,,,,1,9.17,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Reverse Layup,,,7-6,2,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=16
 ,,,,,,,,,,1,9.15,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=17
-,,,,,,,,,,1,9.08,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Lost Ball,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=18
+,,,,,,,,,,1,9.08,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Lost Ball,,Dragic,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=18
 ,,,,,,,,,,1,9.02,Phoenix Suns,shot,Scola,,,,,,,,,Dudley,2,,,made,,Driving Layup,,,9-6,2,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=19
 ,,,,,,,,,,1,8.43,Golden State Warriors,shot,,,,,,,,,,Bogut,2,,,made,,Driving Slam Dunk,,,9-8,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=20
 ,,,,,,,,,,1,8.26,Phoenix Suns,shot,Tucker,,,,,,,,,Dudley,2,,,made,,Driving Layup,,,11-8,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=21
@@ -28,7 +28,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.23,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=32
 ,,,,,,,,,,1,7.23,Golden State Warriors,shot,,,,,,,,,,Bogut,2,,,made,,Putback Layup,,,11-15,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=31
 ,,,,,,,,,,1,7.03,Phoenix Suns,shot,Dudley,,,,,,,,,Gortat,2,,,made,,Slam Dunk,,,13-15,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=33
-,,,,,,,,,,1,6.48,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,,,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=34
+,,,,,,,,,,1,6.48,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,Scola,,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=34
 ,,,,,,,,,,1,6.44,Phoenix Suns,shot,,,,,,,,,,Tucker,2,,,made,,Driving Layup,,,15-15,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=35
 ,,,,,,,,,,1,6.38,Golden State Warriors,shot,Thompson,,,,,,,,,Lee,2,,,made,,Driving Layup,,,15-17,2,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=36
 ,,,,,,,,,,1,6.38,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Shooting,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=37
@@ -60,7 +60,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.33,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Pullup Jump Shot,,,19-19,13,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=66
 ,,,,,,,,,,1,4.13,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Turnaround Bank Shot,,,19-19,9,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=67
 ,,,,,,,,,,1,4.12,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=68
-,,,,,,,,,,1,4.03,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=69
+,,,,,,,,,,1,4.03,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Lee,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=69
 ,,,,,,,,,,1,3.57,Golden State Warriors,shot,Lee,,,,,,,,,Barnes,2,,,made,,Driving Layup,,,19-21,2,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=70
 ,,,,,,,,,,1,3.38,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Step Out of Bounds,,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=71
 ,,,,,,,,,,1,3.38,Golden State Warriors,substitute,,,,Green,,Barnes,,,,,,,,,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=72
@@ -136,7 +136,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.58,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Finger Roll Layup,,,37-34,2,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=151
 ,,,,,,,,,,2,8.43,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,37-34,27,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=152
 ,,,,,,,,,,2,8.42,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,37-34,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=153
-,,,,,,,,,,2,8.34,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,,,,,37-34,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=154
+,,,,,,,,,,2,8.34,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,Scola,,,,37-34,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=154
 ,,,,,,,,,,2,8.29,Phoenix Suns,shot,Marshall,,,,,,,,,Brown,2,,,made,,Driving Layup,,,39-34,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=155
 ,,,,,,,,,,2,8.15,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,39-34,17,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=156
 ,,,,,,,,,,2,8.14,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,39-34,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=157
@@ -152,7 +152,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.12,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Jump Shot,,,41-34,18,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=170
 ,,,,,,,,,,2,7.11,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=171
 ,,,,,,,,,,2,7.06,Phoenix Suns,turnover,,,,,,,,,,Brown Poss,,,Lost Ball,,,,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=172
-,,,,,,,,,,2,6.47,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=173
+,,,,,,,,,,2,6.47,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Marshall,,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=173
 ,,,,,,,,,,2,6.26,Phoenix Suns,shot,Scola,,,,,,,,,Beasley,2,,,made,,Pullup Jump Shot,,,43-34,18,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=174
 ,,,,,,,,,,2,6.12,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,43-34,27,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=175
 ,,,,,,,,,,2,6.11,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,43-34,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=176
@@ -168,7 +168,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.22,Golden State Warriors,shot,Thompson,,,,,,,,,Bogut,2,,,made,,Layup,,,43-39,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=188
 ,,,,,,,,,,2,5.03,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,3PT Jump Shot,,,43-39,26,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=189
 ,,,,,,,,,,2,5.02,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,43-39,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=190
-,,,,,,,,,,2,4.54,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,43-39,4,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=191
+,,,,,,,,,,2,4.54,Phoenix Suns,shot,,,Bogut,,,,,,,Scola,,,,missed,,Jump Shot,,,43-39,4,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=191
 ,,,,,,,,,,2,4.52,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,43-39,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=192
 ,,,,,,,,,,2,4.52,Phoenix Suns,shot,,,,,,,,,,Morris,2,,,made,,Tip Shot,,,45-39,2,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=193
 ,,,,,,,,,,2,4.40,Golden State Warriors,foul,,,,,,,,,,,,,,,,,,,45-39,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=194
@@ -182,7 +182,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.48,Golden State Warriors,shot,Lee,,,,,,,,,Curry,3,,,made,,3PT Step Back Jump Shot,,,47-42,26,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=202
 ,,,,,,,,,,2,3.27,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,47-42,15,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=203
 ,,,,,,,,,,2,3.26,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,47-42,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=204
-,,,,,,,,,,2,3.12,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,,,,,47-42,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=205
+,,,,,,,,,,2,3.12,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,Curry,,,,47-42,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=205
 ,,,,,,,,,,2,3.07,Golden State Warriors,foul,,,,,,,,,,Lee,,,,,,Offensive Charge,,,47-42,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=206
 ,,,,,,,,,,2,3.07,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Foul,,,,,,47-42,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=207
 ,,,,,,,,,,2,2.52,Golden State Warriors,foul,,,,,,,,,,Bogut,,,,,,Shooting,,,47-42,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=208
@@ -233,9 +233,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.06,Phoenix Suns,shot,Tucker,,,,,,,,,Dudley,3,,,made,,3PT Pullup Jump Shot,,,55-48,24,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=265
 ,,,,,,,,,,3,10.54,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Bank Shot,,,55-48,20,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=266
 ,,,,,,,,,,3,10.53,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=267
-,,,,,,,,,,3,10.46,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,55-48,3,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=268
+,,,,,,,,,,3,10.46,Phoenix Suns,shot,,,Bogut,,,,,,,Dragic,,,,missed,,Jump Shot,,,55-48,3,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=268
 ,,,,,,,,,,3,10.44,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=269
-,,,,,,,,,,3,10.28,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=270
+,,,,,,,,,,3,10.28,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,Tucker,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=270
 ,,,,,,,,,,3,10.24,Phoenix Suns,shot,Scola,,,,,,,,,Dragic,2,,,made,,Driving Layup,,,57-48,2,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=271
 ,,,,,,,,,,3,10.24,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,57-48,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=272
 ,,,,,,,,,,3,10.24,Phoenix Suns,free throw,,,,,,,1,,1,Dragic,1,,foul,made,,,,,58-48,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=273
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.55,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,68-73,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=365
 ,,,,,,,,,,3,2.55,Phoenix Suns,substitute,,,,Brown,,Dudley,,,,,,,,,,,,,68-73,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=367
 ,,,,,,,,,,3,2.43,Golden State Warriors,shot,Jack,,,,,,,,,Curry,3,,,made,,3PT Step Back Jump Shot,,,68-76,27,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=368
-,,,,,,,,,,3,2.20,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Bad Pass,,,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=369
+,,,,,,,,,,3,2.20,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Bad Pass,,Thompson,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=369
 ,,,,,,,,,,3,2.10,Golden State Warriors,shot,Thompson,,,,,,,,,Landry,2,,,made,,Layup,,,68-78,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=370
 ,,,,,,,,,,3,2.03,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,68-78,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=371
 ,,,,,,,,,,3,1.45,Phoenix Suns,shot,,,,,,,,,,Marshall,2,,,made,,Driving Layup,,,70-78,3,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=373
@@ -344,7 +344,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.00,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,74-86,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=400
 ,,,,,,,,,,4,10.40,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Fadeaway Jumper,,,74-86,11,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=401
 ,,,,,,,,,,4,10.40,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,74-86,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=402
-,,,,,,,,,,4,10.35,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,,,,,74-86,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=403
+,,,,,,,,,,4,10.35,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,Curry,,,,74-86,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=403
 ,,,,,,,,,,4,10.31,Golden State Warriors,shot,Curry,,,,,,,,,Jack,2,,,made,,Driving Layup,,,74-88,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=404
 ,,,,,,,,,,4,10.26,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,74-88,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=405
 ,,,,,,,,,,4,10.26,Phoenix Suns,substitute,,,,Dragic,,Marshall,,,,,,,,,,,,,74-88,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=407
@@ -364,10 +364,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.12,Phoenix Suns,free throw,,,,,,,1,,1,Beasley,1,,foul,made,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=422
 ,,,,,,,,,,4,9.01,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Pullup Jump Shot,,,77-90,19,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=424
 ,,,,,,,,,,4,9.01,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=425
-,,,,,,,,,,4,8.55,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=426
+,,,,,,,,,,4,8.55,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Green,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=426
 ,,,,,,,,,,4,8.50,Golden State Warriors,shot,Curry,,,,,,,,,Barnes,2,,,made,,Driving Reverse Layup,,,77-92,1,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=427
 ,,,,,,,,,,4,8.36,Phoenix Suns,shot,Dragic,,,,,,,,,Brown,2,,,made,,Jump Bank Shot,,,79-92,20,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=428
-,,,,,,,,,,4,8.14,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Lost Ball,,,,,,79-92,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=429
+,,,,,,,,,,4,8.14,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Lost Ball,,Dragic,,,,79-92,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=429
 ,,,,,,,,,,4,8.08,Golden State Warriors,foul,,,,,,,,,,Landry,,,,,,Personal,,,79-92,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=430
 ,,,,,,,,,,4,8.08,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,79-92,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=431
 ,,,,,,,,,,4,8.08,Golden State Warriors,substitute,,,,Lee,,Barnes,,,,,,,,,,,,,79-92,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=433
@@ -405,10 +405,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.11,Golden State Warriors,shot,Lee,,,,,,,,,Curry,2,,,made,,Driving Reverse Layup,,,88-105,2,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=471
 ,,,,,,,,,,4,3.57,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Pullup Jump Shot,,,88-105,18,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=472
 ,,,,,,,,,,4,3.56,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,88-105,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=473
-,,,,,,,,,,4,3.40,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,88-105,5,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=474
+,,,,,,,,,,4,3.40,Golden State Warriors,shot,,,Scola,,,,,,,Lee,,,,missed,,Jump Shot,,,88-105,5,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=474
 ,,,,,,,,,,4,3.39,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,88-105,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=475
-,,,,,,,,,,4,3.37,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,88-105,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=476
-,,,,,,,,,,4,3.32,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Jump Shot,,,88-105,3,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=477
+,,,,,,,,,,4,3.37,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,Scola,,,,88-105,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=476
+,,,,,,,,,,4,3.32,Phoenix Suns,shot,,,Bogut,,,,,,,Dudley,,,,missed,,Jump Shot,,,88-105,3,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=477
 ,,,,,,,,,,4,3.32,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,88-105,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=478
 ,,,,,,,,,,4,3.32,Golden State Warriors,foul,,,,,,,,,,Barnes,,,,,,Shooting,,,88-105,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=479
 ,,,,,,,,,,4,3.32,Phoenix Suns,free throw,,,,,,,1,,2,Scola,1,,foul,made,,,,,89-105,,http://stats.nba.com/cvp.html?GameID=0021200704&GameEventID=480

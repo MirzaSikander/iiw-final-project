@@ -46,7 +46,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.59,Atlanta Hawks,foul,,,,,,,,,,Pachulia,,,,,,Loose ball,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=49
 ,,,,,,,,,,1,5.59,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=50
 ,,,,,,,,,,1,5.40,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Traveling,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=52
-,,,,,,,,,,1,5.29,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=53
+,,,,,,,,,,1,5.29,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Johnson,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=53
 ,,,,,,,,,,1,5.21,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Personal,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=54
 ,,,,,,,,,,1,5.21,Brooklyn Nets,free throw,,,,,,,1,,2,Evans,,,foul,missed,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=55
 ,,,,,,,,,,1,5.21,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=56
@@ -105,18 +105,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.05,Brooklyn Nets,free throw,,,,,,,1,,2,Wallace,1,,foul,made,,,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=116
 ,,,,,,,,,,1,1.05,Atlanta Hawks,substitute,,,,Scott,,Smith,,,,,,,,,,,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=118
 ,,,,,,,,,,1,1.05,Brooklyn Nets,free throw,,,,,,,2,,2,Wallace,1,,foul,made,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=119
-,,,,,,,,,,1,0.50,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,25-28,3,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=121
+,,,,,,,,,,1,0.50,Atlanta Hawks,shot,,,Wallace,,,,,,,Johnson,,,,missed,,Jump Shot,,,25-28,3,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=121
 ,,,,,,,,,,1,0.49,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=122
 ,,,,,,,,,,1,0.49,Brooklyn Nets,substitute,,,,Bogans,,Wallace,,,,,,,,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=123
 ,,,,,,,,,,1,0.45,Brooklyn Nets,foul,,,,,,,,,,Teletovic,,,,,,Personal,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=124
 ,,,,,,,,,,1,0.31,Atlanta Hawks,shot,,,,,,,,,,Jenkins,2,,,made,,Finger Roll Layup,,,27-28,3,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=125
-,,,,,,,,,,1,0.10,Brooklyn Nets,turnover,,,,,,,,,,Teletovic,,,Lost Ball,,,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=126
+,,,,,,,,,,1,0.10,Brooklyn Nets,turnover,,,,,,,,,,Teletovic,,,Lost Ball,,Jenkins,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=126
 ,,,,,,,,,,1,0.07,Atlanta Hawks,shot,,,,,,,,,,Johnson,2,,,made,,Layup,,,29-28,3,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=127
 ,,,,,,,,,,1,0.00,Atlanta Hawks,foul,,,,,,,,,,Petro,,,,,,Shooting,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=128
 ,,,,,,,,,,1,0.00,Brooklyn Nets,free throw,,,,,,,1,,2,Brooks,,,foul,missed,,,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=129
 ,,,,,,,,,,1,0.00,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=130
 ,,,,,,,,,,1,0.00,Brooklyn Nets,free throw,,,,,,,2,,2,Brooks,1,,foul,made,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=131
-,,,,,,,,,,1,0.00,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=133
+,,,,,,,,,,1,0.00,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Bogans,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=133
 ,,,,,,,,,,1,0.00,Brooklyn Nets,shot,,,,,,,,,,Bogans,,,,missed,,3PT Jump Shot,,,29-29,30,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=137
 ,,,,,,,,,,1,0.00,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=136
 ,,,,,,,,,,2,11.44,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,29-29,16,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=140
@@ -148,11 +148,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.24,Brooklyn Nets,free throw,,,,,,,1,,2,Blatche,1,,foul,made,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=170
 ,,,,,,,,,,2,8.24,Atlanta Hawks,substitute,,,,Harris,,Jenkins,,,,,,,,,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=172
 ,,,,,,,,,,2,8.24,Brooklyn Nets,free throw,,,,,,,2,,2,Blatche,1,,foul,made,,,,,33-36,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=173
-,,,,,,,,,,2,8.03,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Bad Pass,,,,,,33-36,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=175
+,,,,,,,,,,2,8.03,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Bad Pass,,Bogans,,,,33-36,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=175
 ,,,,,,,,,,2,7.49,Brooklyn Nets,shot,,,,,,,,,,Teletovic,,,,missed,,Fadeaway Jumper,,,33-36,8,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=176
 ,,,,,,,,,,2,7.48,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,33-36,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=177
 ,,,,,,,,,,2,7.40,Atlanta Hawks,shot,Harris,,,,,,,,,Tolliver,3,,,made,,3PT Jump Shot,,,36-36,24,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=178
-,,,,,,,,,,2,7.16,Brooklyn Nets,turnover,,,,,,,,,,Teletovic,,,Lost Ball,,,,,,36-36,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=179
+,,,,,,,,,,2,7.16,Brooklyn Nets,turnover,,,,,,,,,,Teletovic,,,Lost Ball,,Williams,,,,36-36,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=179
 ,,,,,,,,,,2,7.12,Atlanta Hawks,turnover,,,,,,,,,,Williams Out of Bounds,,,Lost Ball,,,,,,36-36,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=180
 ,,,,,,,,,,2,7.12,Atlanta Hawks,substitute,,,,Teague,,Williams,,,,,,,,,,,,,36-36,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=181
 ,,,,,,,,,,2,7.12,Atlanta Hawks,substitute,,,,Smith,,Tolliver,,,,,,,,,,,,,36-36,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=182
@@ -180,7 +180,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.00,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Running Jump Shot,,,40-41,5,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=205
 ,,,,,,,,,,2,4.59,Brooklyn Nets,rebound,,,,,,,,,,Blatche,,,,,,,,,40-41,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=206
 ,,,,,,,,,,2,4.43,Brooklyn Nets,shot,Wallace,,,,,,,,,Blatche,2,,,made,,Running Slam Dunk,,,40-43,1,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=207
-,,,,,,,,,,2,4.23,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=208
+,,,,,,,,,,2,4.23,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,Wallace,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=208
 ,,,,,,,,,,2,4.18,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,Layup,,,40-43,2,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=209
 ,,,,,,,,,,2,4.17,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=210
 ,,,,,,,,,,2,4.02,Brooklyn Nets,foul,,,,,,,,,,Blatche,,,,,,Personal,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=211
@@ -208,7 +208,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.04,Brooklyn Nets,shot,Brooks,,,,,,,,,D. Williams,3,,,made,,3PT Jump Shot,,,45-47,25,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=238
 ,,,,,,,,,,2,1.38,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,45-47,25,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=239
 ,,,,,,,,,,2,1.37,Brooklyn Nets,rebound,,,,,,,,,,Johnson,,,,,,,,,45-47,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=240
-,,,,,,,,,,2,1.31,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,45-47,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=241
+,,,,,,,,,,2,1.31,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,Smith,,,,45-47,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=241
 ,,,,,,,,,,2,1.13,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Hook Shot,,,47-47,6,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=242
 ,,,,,,,,,,2,0.59,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,47-47,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=243
 ,,,,,,,,,,2,0.59,Atlanta Hawks,substitute,,,,Jenkins,,Harris,,,,,,,,,,,,,47-47,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=244
@@ -218,7 +218,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.32,Brooklyn Nets,violation,,,,,,,,,,NETS,,, Delay of game Violation,,,,,,47-49,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=248
 ,,,,,,,,,,2,0.16,Atlanta Hawks,shot,Pachulia,,,,,,,,,Smith,2,,,made,,Alley Oop Layup,,,49-49,1,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=249
 ,,,,,,,,,,2,0.02,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,49-49,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=250
-,,,,,,,,,,2,0.01,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,49-49,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=251
+,,,,,,,,,,2,0.01,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Lopez,,,,49-49,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=251
 ,,,,,,,,,,2,0.00,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,49-49,45,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=252
 ,,,,,,,,,,2,0.00,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,49-49,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=253
 ,,,,,,,,,,3,11.46,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,49-49,25,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=257
@@ -247,13 +247,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.26,Brooklyn Nets,foul,,,,,,,,,,Johnson,,,,,,Personal,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=281
 ,,,,,,,,,,3,8.17,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Floating Jump Shot,,,56-58,10,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=282
 ,,,,,,,,,,3,8.16,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=283
-,,,,,,,,,,3,8.09,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,Layup,,,56-58,1,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=284
+,,,,,,,,,,3,8.09,Brooklyn Nets,shot,,,Smith,,,,,,,D. Williams,,,,missed,,Layup,,,56-58,1,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=284
 ,,,,,,,,,,3,8.08,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=285
 ,,,,,,,,,,3,7.54,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,3PT Jump Shot,,,56-58,26,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=286
 ,,,,,,,,,,3,7.53,Atlanta Hawks,rebound,,,,,,,,,,Pachulia,,,,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=287
 ,,,,,,,,,,3,7.49,Brooklyn Nets,violation,,,,,,,,,,Wallace,,,Defensive Goaltending,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=289
 ,,,,,,,,,,3,7.49,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Layup,,,58-58,4,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=288
-,,,,,,,,,,3,7.28,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,3PT Jump Shot,,,58-58,25,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=290
+,,,,,,,,,,3,7.28,Brooklyn Nets,shot,,,Teague,,,,,,,D. Williams,,,,missed,,3PT Jump Shot,,,58-58,25,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=290
 ,,,,,,,,,,3,7.27,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,58-58,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=291
 ,,,,,,,,,,3,7.23,Brooklyn Nets,shot,,,,,,,,,,Evans,,,,missed,,Jump Shot,,,58-58,15,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=292
 ,,,,,,,,,,3,7.22,Atlanta Hawks,rebound,,,,,,,,,,Pachulia,,,,,,,,,58-58,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=293
@@ -288,7 +288,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.30,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,68-68,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=328
 ,,,,,,,,,,3,3.16,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,3PT Jump Shot,,,68-68,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=329
 ,,,,,,,,,,3,3.15,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,68-68,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=330
-,,,,,,,,,,3,3.04,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,68-68,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=331
+,,,,,,,,,,3,3.04,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Evans,,,,68-68,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=331
 ,,,,,,,,,,3,2.54,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,Layup,,,68-68,2,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=332
 ,,,,,,,,,,3,2.53,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,68-68,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=333
 ,,,,,,,,,,3,2.52,Brooklyn Nets,foul,,,,,,,,,,Wallace,,,,,,Personal,,,68-68,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=334
@@ -332,7 +332,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.48,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,74-74,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=382
 ,,,,,,,,,,4,11.28,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Jump Shot,,,74-74,21,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=383
 ,,,,,,,,,,4,11.28,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,74-74,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=384
-,,,,,,,,,,4,11.15,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Jump Shot,,,74-74,3,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=385
+,,,,,,,,,,4,11.15,Brooklyn Nets,shot,,,Johnson,,,,,,,Blatche,,,,missed,,Jump Shot,,,74-74,3,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=385
 ,,,,,,,,,,4,11.13,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,74-74,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=386
 ,,,,,,,,,,4,10.51,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Fadeaway Jumper,,,74-74,12,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=387
 ,,,,,,,,,,4,10.50,Brooklyn Nets,rebound,,,,,,,,,,Blatche,,,,,,,,,74-74,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=388
@@ -358,7 +358,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.13,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,74-75,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=410
 ,,,,,,,,,,4,9.13,Atlanta Hawks,substitute,,,,Korver,,Pachulia,,,,,,,,,,,,,74-75,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=411
 ,,,,,,,,,,4,9.13,Brooklyn Nets,free throw,,,,,,,2,,2,Johnson,1,,foul,made,,,,,74-76,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=412
-,,,,,,,,,,4,9.05,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,74-76,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=414
+,,,,,,,,,,4,9.05,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Watson,,,,74-76,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=414
 ,,,,,,,,,,4,8.47,Atlanta Hawks,foul,,,,,,,,,,Tolliver,,,,,,Shooting,,,74-76,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=418
 ,,,,,,,,,,4,8.47,Brooklyn Nets,free throw,,,,,,,1,,2,Watson,,,foul,missed,,,,,74-76,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=419
 ,,,,,,,,,,4,8.47,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,74-76,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=420
@@ -369,7 +369,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.12,Brooklyn Nets,substitute,,,,Evans,,Humphries,,,,,,,,,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=427
 ,,,,,,,,,,4,8.06,Brooklyn Nets,shot,,,,,,,,,,Johnson,2,,,made,,Jump Shot,,,74-79,17,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=428
 ,,,,,,,,,,4,7.51,Atlanta Hawks,shot,Teague,,,,,,,,,Scott,2,,,made,,Layup,,,76-79,2,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=429
-,,,,,,,,,,4,7.31,Brooklyn Nets,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=430
+,,,,,,,,,,4,7.31,Brooklyn Nets,turnover,,,,,,,,,,Evans,,,Bad Pass,,Korver,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=430
 ,,,,,,,,,,4,7.22,Brooklyn Nets,foul,,,,,,,,,,Blatche,,,,,,Shooting,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=431
 ,,,,,,,,,,4,7.22,Atlanta Hawks,free throw,,,,,,,1,,2,Scott,1,,foul,made,,,,,77-79,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=432
 ,,,,,,,,,,4,7.22,Atlanta Hawks,substitute,,,,Johnson,,Tolliver,,,,,,,,,,,,,77-79,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=434
@@ -386,13 +386,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.32,Atlanta Hawks,substitute,,,,Pachulia,,Scott,,,,,,,,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=447
 ,,,,,,,,,,4,6.32,Atlanta Hawks,free throw,,,,,,,2,,2,Teague,1,,foul,made,,,,,80-81,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=448
 ,,,,,,,,,,4,6.21,Brooklyn Nets,shot,D. Williams,,,,,,,,,Lopez,2,,,made,,Hook Shot,,,80-83,7,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=450
-,,,,,,,,,,4,6.03,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,80-83,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=451
+,,,,,,,,,,4,6.03,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Evans,,,,80-83,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=451
 ,,,,,,,,,,4,5.58,Brooklyn Nets,shot,,,,,,,,,,Bogans,2,,,made,,Layup,,,80-85,3,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=452
 ,,,,,,,,,,4,5.49,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,80-85,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=453
 ,,,,,,,,,,4,5.49,Atlanta Hawks,substitute,,,,Harris,,Johnson,,,,,,,,,,,,,80-85,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=455
 ,,,,,,,,,,4,5.33,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Hook Shot,,,80-85,7,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=456
 ,,,,,,,,,,4,5.32,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,80-85,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=457
-,,,,,,,,,,4,5.19,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,80-85,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=458
+,,,,,,,,,,4,5.19,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,Pachulia,,,,80-85,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=458
 ,,,,,,,,,,4,5.09,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Jump Shot,,,82-85,16,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=459
 ,,,,,,,,,,4,4.39,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Shot,,,82-85,19,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=460
 ,,,,,,,,,,4,4.38,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,82-85,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=461
@@ -431,7 +431,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.19,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=501
 ,,,,,,,,,,4,2.07,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,82-90,25,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=502
 ,,,,,,,,,,4,2.06,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=503
-,,,,,,,,,,4,2.04,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Lost Ball,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=504
+,,,,,,,,,,4,2.04,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Lost Ball,,Petro,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=504
 ,,,,,,,,,,4,2.02,Atlanta Hawks,shot,,,,,,,,,,Petro,2,,,made,,Layup,,,84-90,2,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=505
 ,,,,,,,,,,4,1.42,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,3PT Jump Shot,,,84-90,24,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=506
 ,,,,,,,,,,4,1.41,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,84-90,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=507
@@ -443,7 +443,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.43,Atlanta Hawks,foul,,,,,,,,,,Teague,,,,,,Personal,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=519
 ,,,,,,,,,,4,0.43,Brooklyn Nets,free throw,,,,,,,1,,2,D. Williams,1,,foul,made,,,,,89-91,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=520
 ,,,,,,,,,,4,0.43,Brooklyn Nets,free throw,,,,,,,2,,2,D. Williams,1,,foul,made,,,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=522
-,,,,,,,,,,4,0.28,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Jump Shot,,,89-92,8,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=524
+,,,,,,,,,,4,0.28,Atlanta Hawks,shot,,,Lopez,,,,,,,Teague,,,,missed,,Jump Shot,,,89-92,8,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=524
 ,,,,,,,,,,4,0.26,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=525
 ,,,,,,,,,,4,0.11,Atlanta Hawks,foul,,,,,,,,,,Teague,,,,,,Shooting,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=527
 ,,,,,,,,,,4,0.11,Brooklyn Nets,free throw,,,,,,,1,,2,D. Williams,1,,foul,made,,,,,89-93,,http://stats.nba.com/cvp.html?GameID=0021200588&GameEventID=528

@@ -26,13 +26,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.06,Minnesota Timberwolves,foul,,,,,,,,,,Rubio,,,,,,Personal,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=28
 ,,,,,,,,,,1,7.49,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,6-8,12,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=29
 ,,,,,,,,,,1,7.48,Houston Rockets,rebound,,,,,,,,,,Patterson,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=30
-,,,,,,,,,,1,7.39,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Layup,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=31
+,,,,,,,,,,1,7.39,Houston Rockets,shot,,,Stiemsma,,,,,,,Lin,,,,missed,,Layup,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=31
 ,,,,,,,,,,1,7.38,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=32
 ,,,,,,,,,,1,7.34,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Ridnour,2,,,made,,Layup,,,6-10,1,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=33
 ,,,,,,,,,,1,7.32,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=34
-,,,,,,,,,,1,7.27,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,Layup,,,6-10,1,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=35
+,,,,,,,,,,1,7.27,Minnesota Timberwolves,shot,,,Parsons,,,,,,,Ridnour,,,,missed,,Layup,,,6-10,1,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=35
 ,,,,,,,,,,1,7.26,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=36
-,,,,,,,,,,1,7.14,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=37
+,,,,,,,,,,1,7.14,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,Parsons,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=37
 ,,,,,,,,,,1,7.10,Houston Rockets,shot,Parsons,,,,,,,,,Harden,2,,,made,,Dunk,,,8-10,3,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=38
 ,,,,,,,,,,1,6.56,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=39
 ,,,,,,,,,,1,6.34,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Jump Shot,,,8-10,21,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=40
@@ -46,7 +46,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.32,Houston Rockets,turnover,,,,,,,,,,Parsons Out of Bounds,,,Lost Ball,,,,,,8-14,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=49
 ,,,,,,,,,,1,5.32,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,8-14,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=50
 ,,,,,,,,,,1,5.32,Minnesota Timberwolves,substitute,,,,Barea,,Rubio,,,,,,,,,,,,,8-14,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=52
-,,,,,,,,,,1,5.18,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,,,,,8-14,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=53
+,,,,,,,,,,1,5.18,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,Lin,,,,8-14,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=53
 ,,,,,,,,,,1,5.14,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Layup,,,10-14,2,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=54
 ,,,,,,,,,,1,4.52,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Jump Shot,,,10-14,22,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=55
 ,,,,,,,,,,1,4.51,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=56
@@ -99,7 +99,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.55,Minnesota Timberwolves,shot,,,,,,,,,,Barea,2,,,made,,Driving Layup,,,21-23,2,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=110
 ,,,,,,,,,,2,10.44,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Jump Shot,,,21-23,23,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=111
 ,,,,,,,,,,2,10.43,Minnesota Timberwolves,rebound,,,,,,,,,,Amundson,,,,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=112
-,,,,,,,,,,2,10.38,Minnesota Timberwolves,turnover,,,,,,,,,,Amundson,,,Bad Pass,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=113
+,,,,,,,,,,2,10.38,Minnesota Timberwolves,turnover,,,,,,,,,,Amundson,,,Bad Pass,,Morris,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=113
 ,,,,,,,,,,2,10.20,Minnesota Timberwolves,foul,,,,,,,,,,Rubio,,,,,,Shooting,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=115
 ,,,,,,,,,,2,10.20,Houston Rockets,free throw,,,,,,,1,,2,Beverley,,,foul,missed,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=116
 ,,,,,,,,,,2,10.20,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=117
@@ -135,7 +135,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.13,Houston Rockets,violation,,,,,,,,,,Harden,,,Kicked Ball,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=155
 ,,,,,,,,,,2,6.59,Minnesota Timberwolves,shot,,,,,,,,,,Barea,3,,,made,,3PT Jump Shot,,,26-30,26,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=156
 ,,,,,,,,,,2,6.48,Houston Rockets,shot,Harden,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,29-30,26,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=157
-,,,,,,,,,,2,6.34,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=158
+,,,,,,,,,,2,6.34,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,Delfino,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=158
 ,,,,,,,,,,2,6.26,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,29-30,25,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=159
 ,,,,,,,,,,2,6.24,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=160
 ,,,,,,,,,,2,6.05,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Running Bank Shot,,,31-30,14,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=161
@@ -156,7 +156,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.46,Houston Rockets,substitute,,,,Patterson,,Asik,,,,,,,,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=178
 ,,,,,,,,,,2,4.46,Houston Rockets,substitute,,,,Smith,,Delfino,,,,,,,,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=179
 ,,,,,,,,,,2,4.46,Minnesota Timberwolves,free throw,,,,,,,2,,2,Williams,1,,foul,made,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=180
-,,,,,,,,,,2,4.35,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=182
+,,,,,,,,,,2,4.35,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Williams,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=182
 ,,,,,,,,,,2,4.31,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,31-37,3,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=183
 ,,,,,,,,,,2,4.30,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=184
 ,,,,,,,,,,2,4.30,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=185
@@ -195,7 +195,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.28,Minnesota Timberwolves,foul,,,,,,,,,,Stiemsma,,,,,,Shooting,,,35-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=222
 ,,,,,,,,,,2,0.28,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=223
 ,,,,,,,,,,2,0.28,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,37-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=225
-,,,,,,,,,,2,0.06,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Layup,,,37-44,3,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=227
+,,,,,,,,,,2,0.06,Minnesota Timberwolves,shot,,,Patterson,,,,,,,Barea,,,,missed,,Layup,,,37-44,3,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=227
 ,,,,,,,,,,2,0.05,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,37-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=228
 ,,,,,,,,,,2,0.05,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,37-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=229
 ,,,,,,,,,,2,0.04,Minnesota Timberwolves,turnover,,,,,,,,,,Williams,,,Traveling,,,,,,37-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=231
@@ -211,7 +211,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.49,Houston Rockets,turnover,,,,,,,,,,Asik,,,Foul,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=250
 ,,,,,,,,,,3,11.33,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,3PT Jump Shot,,,39-44,25,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=252
 ,,,,,,,,,,3,11.32,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=253
-,,,,,,,,,,3,11.15,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=254
+,,,,,,,,,,3,11.15,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,Kirilenko,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=254
 ,,,,,,,,,,3,11.05,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,39-44,25,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=255
 ,,,,,,,,,,3,11.04,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=256
 ,,,,,,,,,,3,10.45,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Layup,,,39-44,2,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=257
@@ -224,7 +224,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.16,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=265
 ,,,,,,,,,,3,10.06,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,3PT Jump Shot,,,39-44,24,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=266
 ,,,,,,,,,,3,10.03,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=267
-,,,,,,,,,,3,9.57,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Layup,,,39-44,2,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=268
+,,,,,,,,,,3,9.57,Houston Rockets,shot,,,Stiemsma,,,,,,,Harden,,,,missed,,Layup,,,39-44,2,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=268
 ,,,,,,,,,,3,9.56,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=269
 ,,,,,,,,,,3,9.47,Houston Rockets,turnover,,,,,,,,,,Morris,,,Traveling,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=270
 ,,,,,,,,,,3,9.38,Houston Rockets,violation,,,,,,,,,,Beverley,,,Kicked Ball,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=271
@@ -239,7 +239,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.05,Minnesota Timberwolves,free throw,,,,,,,,,,Ridnour,1,,Technical,made,,,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=283
 ,,,,,,,,,,3,8.54,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,39-47,13,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=285
 ,,,,,,,,,,3,8.52,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=286
-,,,,,,,,,,3,8.44,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=287
+,,,,,,,,,,3,8.44,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Kirilenko,,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=287
 ,,,,,,,,,,3,8.37,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Ridnour,2,,,made,,Pullup Jump Shot,,,39-49,19,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=288
 ,,,,,,,,,,3,8.27,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,39-49,25,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=289
 ,,,,,,,,,,3,8.26,Minnesota Timberwolves,rebound,,,,,,,,,,Stiemsma,,,,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=290
@@ -256,7 +256,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.16,Houston Rockets,foul,,,,,,,,,,Asik,,,,,,Loose ball,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=303
 ,,,,,,,,,,3,7.16,Minnesota Timberwolves,substitute,,,,Barea,,Rubio,,,,,,,,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=304
 ,,,,,,,,,,3,7.16,Houston Rockets,substitute,,,,Smith,,Asik,,,,,,,,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=305
-,,,,,,,,,,3,7.03,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Lost Ball,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=306
+,,,,,,,,,,3,7.03,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Lost Ball,,Harden,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=306
 ,,,,,,,,,,3,6.58,Minnesota Timberwolves,foul,,,,,,,,,,Williams,,,,,,Shooting,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=307
 ,,,,,,,,,,3,6.58,Houston Rockets,free throw,,,,,,,1,,2,Delfino,1,,foul,made,,,,,43-50,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=308
 ,,,,,,,,,,3,6.58,Houston Rockets,free throw,,,,,,,2,,2,Delfino,,,foul,missed,,,,,43-50,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=310
@@ -281,7 +281,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.19,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,45-56,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=333
 ,,,,,,,,,,3,4.17,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,45-56,1,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=334
 ,,,,,,,,,,3,4.16,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,45-56,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=335
-,,,,,,,,,,3,4.15,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,45-56,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=336
+,,,,,,,,,,3,4.15,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,Harden,,,,45-56,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=336
 ,,,,,,,,,,3,4.14,Minnesota Timberwolves,foul,,,,,,,,,,Amundson,,,,,,Shooting,,,45-56,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=337
 ,,,,,,,,,,3,4.14,Houston Rockets,free throw,,,,,,,1,,2,Lin,1,,foul,made,,,,,46-56,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=338
 ,,,,,,,,,,3,4.14,Houston Rockets,free throw,,,,,,,2,,2,Lin,1,,foul,made,,,,,47-56,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=340
@@ -305,11 +305,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.34,Minnesota Timberwolves,free throw,,,,,,,2,,2,Gelabale,,,foul,missed,,,,,49-61,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=364
 ,,,,,,,,,,3,2.33,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,49-61,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=366
 ,,,,,,,,,,3,2.22,Houston Rockets,shot,Lin,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=367
-,,,,,,,,,,3,2.05,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Lost Ball,,,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=368
+,,,,,,,,,,3,2.05,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Lost Ball,,Smith,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=368
 ,,,,,,,,,,3,1.59,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,52-61,27,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=369
 ,,,,,,,,,,3,1.58,Minnesota Timberwolves,rebound,,,,,,,,,,Gelabale,,,,,,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=370
 ,,,,,,,,,,3,1.39,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Traveling,,,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=371
-,,,,,,,,,,3,1.20,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=372
+,,,,,,,,,,3,1.20,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,Kirilenko,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=372
 ,,,,,,,,,,3,1.00,Minnesota Timberwolves,shot,Gelabale,,,,,,,,,Barea,2,,,made,,Jump Shot,,,52-63,18,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=373
 ,,,,,,,,,,3,0.51,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Driving Layup,,,54-63,1,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=374
 ,,,,,,,,,,3,0.51,Minnesota Timberwolves,foul,,,,,,,,,,Johnson,,,,,,Shooting,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=375
@@ -339,7 +339,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.03,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Running Reverse Layup,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=407
 ,,,,,,,,,,4,10.01,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=408
 ,,,,,,,,,,4,9.56,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Johnson,2,,,made,,Alley Oop Dunk,,,62-69,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=409
-,,,,,,,,,,4,9.40,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Jump Shot,,,62-69,12,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=410
+,,,,,,,,,,4,9.40,Houston Rockets,shot,,,Ridnour,,,,,,,Lin,,,,missed,,Jump Shot,,,62-69,12,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=410
 ,,,,,,,,,,4,9.38,Minnesota Timberwolves,rebound,,,,,,,,,,Johnson,,,,,,,,,62-69,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=411
 ,,,,,,,,,,4,9.27,Houston Rockets,foul,,,,,,,,,,Delfino,,,,,,Personal,,,62-69,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=412
 ,,,,,,,,,,4,9.27,Houston Rockets,substitute,,,,Harden,,Parsons,,,,,,,,,,,,,62-69,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=413
@@ -350,7 +350,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.18,Minnesota Timberwolves,free throw,,,,,,,2,,2,Johnson,1,,foul,made,,,,,62-71,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=419
 ,,,,,,,,,,4,8.54,Houston Rockets,turnover,,,,,,,,,,Harden Out of Bounds,,,Lost Ball,,,,,,62-71,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=421
 ,,,,,,,,,,4,8.54,Minnesota Timberwolves,substitute,,,,Rubio,,Barea,,,,,,,,,,,,,62-71,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=424
-,,,,,,,,,,4,8.41,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,,,,,62-71,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=425
+,,,,,,,,,,4,8.41,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,Lin,,,,62-71,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=425
 ,,,,,,,,,,4,8.38,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Driving Layup,,,64-71,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=426
 ,,,,,,,,,,4,8.38,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Shooting,,,64-71,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=427
 ,,,,,,,,,,4,8.38,Houston Rockets,free throw,,,,,,,1,,1,Lin,1,,foul,made,,,,,65-71,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=428
@@ -395,7 +395,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.42,Houston Rockets,foul,,,,,,,,,,Harden,,,,,,Personal,,,75-82,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=479
 ,,,,,,,,,,4,4.42,Minnesota Timberwolves,free throw,,,,,,,1,,2,Johnson,1,,foul,made,,,,,75-83,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=480
 ,,,,,,,,,,4,4.42,Minnesota Timberwolves,free throw,,,,,,,2,,2,Johnson,1,,foul,made,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=482
-,,,,,,,,,,4,4.30,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,75-84,1,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=484
+,,,,,,,,,,4,4.30,Houston Rockets,shot,,,Johnson,,,,,,,Parsons,,,,missed,,Layup,,,75-84,1,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=484
 ,,,,,,,,,,4,4.28,Houston Rockets,rebound,,,,,,,,,,Douglas,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=485
 ,,,,,,,,,,4,4.25,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,75-84,3,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=486
 ,,,,,,,,,,4,4.24,Minnesota Timberwolves,rebound,,,,,,,,,,Johnson,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200597&GameEventID=487

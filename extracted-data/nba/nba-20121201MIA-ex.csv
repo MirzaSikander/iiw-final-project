@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.56,Miami Heat,shot,James,,,,,,,,,Chalmers,2,,,made,,Driving Layup,,,2-2,2,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=13
 ,,,,,,,,,,1,9.37,Brooklyn Nets,shot,,,,,,,,,,Humphries,,,,missed,,Jump Shot,,,2-2,16,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=14
 ,,,,,,,,,,1,9.36,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=15
-,,,,,,,,,,1,9.26,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Lost Ball,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=16
+,,,,,,,,,,1,9.26,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Lost Ball,,Humphries,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=16
 ,,,,,,,,,,1,9.22,Brooklyn Nets,shot,D. Williams,,,,,,,,,Humphries,2,,,made,,Dunk,,,4-2,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=17
 ,,,,,,,,,,1,9.01,Miami Heat,shot,,,,,,,,,,Lewis,2,,,made,,Driving Reverse Layup,,,4-4,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=18
 ,,,,,,,,,,1,8.55,Miami Heat,foul,,,,,,,,,,Wade,,,,,,Personal,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=19
@@ -24,14 +24,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.59,Brooklyn Nets,shot,D. Williams,,,,,,,,,Wallace,2,,,made,,Jump Shot,,,9-4,22,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=24
 ,,,,,,,,,,1,7.46,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,9-4,21,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=25
 ,,,,,,,,,,1,7.45,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=26
-,,,,,,,,,,1,7.35,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=27
+,,,,,,,,,,1,7.35,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Chalmers,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=27
 ,,,,,,,,,,1,7.26,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,3PT Jump Shot,,,9-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=28
 ,,,,,,,,,,1,7.25,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=29
-,,,,,,,,,,1,7.15,Brooklyn Nets,shot,,,,,,,,,,Humphries,,,,missed,,Dunk,,,9-4,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=30
+,,,,,,,,,,1,7.15,Brooklyn Nets,shot,,,Bosh,,,,,,,Humphries,,,,missed,,Dunk,,,9-4,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=30
 ,,,,,,,,,,1,7.15,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=32
 ,,,,,,,,,,1,7.15,Miami Heat,jumpball,,Humphries,,,Bosh,,,,,,,,,,,,,,9-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=31
 ,,,,,,,,,,1,7.04,Brooklyn Nets,shot,,,,,,,,,,D. Williams,2,,,made,,Driving Finger Roll Layup,,,11-4,2,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=33
-,,,,,,,,,,1,6.44,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,11-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=36
+,,,,,,,,,,1,6.44,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Williams,,,,11-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=36
 ,,,,,,,,,,1,6.40,Brooklyn Nets,shot,,,,,,,,,,D. Williams,2,,,made,,Layup,,,13-4,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=37
 ,,,,,,,,,,1,6.33,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,13-4,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=38
 ,,,,,,,,,,1,6.16,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,13-4,14,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=42
@@ -49,7 +49,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.26,Brooklyn Nets,shot,,,,,,,,,,Blatche,2,,,made,,Tip Shot,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=54
 ,,,,,,,,,,1,4.18,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Layup,,,17-11,2,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=55
 ,,,,,,,,,,1,3.51,Brooklyn Nets,shot,Bogans,,,,,,,,,Humphries,2,,,made,,Jump Shot,,,19-11,16,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=56
-,,,,,,,,,,1,3.34,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,19-11,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=57
+,,,,,,,,,,1,3.34,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Wallace,,,,19-11,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=57
 ,,,,,,,,,,1,3.30,Brooklyn Nets,shot,Wallace,,,,,,,,,Humphries,2,,,made,,Dunk,,,21-11,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=58
 ,,,,,,,,,,1,3.18,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,21-11,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=59
 ,,,,,,,,,,1,3.18,Miami Heat,substitute,,,,Allen,,Lewis,,,,,,,,,,,,,21-11,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=62
@@ -72,10 +72,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.14,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,Jump Shot,,,22-11,13,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=81
 ,,,,,,,,,,1,2.13,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,22-11,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=82
 ,,,,,,,,,,1,2.01,Miami Heat,shot,,,,,,,,,,Allen,2,,,made,,Jump Shot,,,22-13,18,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=83
-,,,,,,,,,,1,1.46,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,,,,,22-13,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=84
+,,,,,,,,,,1,1.46,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,Cole,,,,22-13,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=84
 ,,,,,,,,,,1,1.41,Miami Heat,shot,,,,,,,,,,Cole,2,,,made,,Driving Layup,,,22-15,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=85
 ,,,,,,,,,,1,1.20,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,,,,,22-15,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=86
-,,,,,,,,,,1,1.08,Miami Heat,shot,,,,,,,,,,Haslem,,,,missed,,Layup,,,22-15,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=87
+,,,,,,,,,,1,1.08,Miami Heat,shot,,,Evans,,,,,,,Haslem,,,,missed,,Layup,,,22-15,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=87
 ,,,,,,,,,,1,1.07,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,22-15,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=88
 ,,,,,,,,,,1,1.01,Miami Heat,foul,,,,,,,,,,James,,,,,,Personal,,,22-15,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=89
 ,,,,,,,,,,1,0.47,Brooklyn Nets,shot,,,,,,,,,,Bogans,,,,missed,,3PT Jump Shot,,,22-15,25,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=90
@@ -109,7 +109,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.16,Brooklyn Nets,foul,,,,,,,,,,Watson,,,,,,Personal,,,35-21,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=130
 ,,,,,,,,,,2,9.08,Brooklyn Nets,violation,,,,,,,,,,Blatche,,,Defensive Goaltending,,,,,,35-21,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=132
 ,,,,,,,,,,2,9.08,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Running Finger Roll Layup,,,35-23,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=131
-,,,,,,,,,,2,8.55,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,,,,,35-23,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=133
+,,,,,,,,,,2,8.55,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,Cole,,,,35-23,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=133
 ,,,,,,,,,,2,8.50,Miami Heat,shot,,,,,,,,,,Cole,2,,,made,,Layup,,,35-25,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=134
 ,,,,,,,,,,2,8.42,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,35-25,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=135
 ,,,,,,,,,,2,8.42,Brooklyn Nets,substitute,,,,Johnson,,Bogans,,,,,,,,,,,,,35-25,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=137
@@ -120,7 +120,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.23,Brooklyn Nets,substitute,,,,Wallace,,Stackhouse,,,,,,,,,,,,,35-25,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=143
 ,,,,,,,,,,2,8.20,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Jump Shot,,,35-25,13,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=144
 ,,,,,,,,,,2,8.19,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,35-25,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=145
-,,,,,,,,,,2,8.13,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Driving Layup,,,35-25,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=146
+,,,,,,,,,,2,8.13,Miami Heat,shot,,,Humphries,,,,,,,Wade,,,,missed,,Driving Layup,,,35-25,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=146
 ,,,,,,,,,,2,8.11,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,35-25,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=147
 ,,,,,,,,,,2,8.01,Brooklyn Nets,shot,Humphries,,,,,,,,,Blatche,2,,,made,,Layup,,,37-25,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=148
 ,,,,,,,,,,2,7.55,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Layup,,,37-27,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=149
@@ -138,7 +138,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.27,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Jump Shot,,,41-31,17,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=163
 ,,,,,,,,,,2,6.14,Brooklyn Nets,substitute,,,,Stackhouse,,Blatche,,,,,,,,,,,,,41-31,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=165
 ,,,,,,,,,,2,6.01,Brooklyn Nets,shot,,,,,,,,,,Stackhouse,2,,,made,,Jump Shot,,,43-31,16,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=166
-,,,,,,,,,,2,5.51,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Driving Layup,,,43-31,2,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=167
+,,,,,,,,,,2,5.51,Miami Heat,shot,,,Stackhouse,,,,,,,Wade,,,,missed,,Driving Layup,,,43-31,2,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=167
 ,,,,,,,,,,2,5.50,Brooklyn Nets,rebound,,,,,,,,,,Stackhouse,,,,,,,,,43-31,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=168
 ,,,,,,,,,,2,5.49,Brooklyn Nets,free throw,,,,,,,,,,D. Williams,1,,Technical,made,,,,,44-31,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=170
 ,,,,,,,,,,2,5.38,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,44-31,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=173
@@ -160,7 +160,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.33,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=190
 ,,,,,,,,,,2,4.27,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Layup,,,45-35,2,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=191
 ,,,,,,,,,,2,4.25,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=192
-,,,,,,,,,,2,4.24,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=193
+,,,,,,,,,,2,4.24,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,Miller,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=193
 ,,,,,,,,,,2,4.21,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Layup,,,45-35,2,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=194
 ,,,,,,,,,,2,4.20,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=195
 ,,,,,,,,,,2,4.18,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Layup,,,45-37,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=196
@@ -207,19 +207,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.26,Miami Heat,substitute,,,,Cole,,Allen,,,,,,,,,,,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=242
 ,,,,,,,,,,2,0.26,Miami Heat,free throw,,,,,,,2,,2,Bosh,1,,foul,made,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=243
 ,,,,,,,,,,2,0.21,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=245
-,,,,,,,,,,2,0.07,Brooklyn Nets,turnover,,,,,,,,,,Stackhouse,,,Bad Pass,,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=250
-,,,,,,,,,,2,0.02,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=251
+,,,,,,,,,,2,0.07,Brooklyn Nets,turnover,,,,,,,,,,Stackhouse,,,Bad Pass,,Miller,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=250
+,,,,,,,,,,2,0.02,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,Williams,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=251
 ,,,,,,,,,,2,0.00,Brooklyn Nets,shot,,,,,,,,,,Watson,,,,missed,,3PT Jump Shot,,,59-50,27,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=252
 ,,,,,,,,,,2,0.00,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=253
 ,,,,,,,,,,3,12.00,Miami Heat,foul,,,,,,,,,,Lewis,,,,,,Personal,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=257
-,,,,,,,,,,3,11.37,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=258
+,,,,,,,,,,3,11.37,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Chalmers,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=258
 ,,,,,,,,,,3,11.29,Brooklyn Nets,foul,,,,,,,,,,Blatche,,,,,,Shooting,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=259
 ,,,,,,,,,,3,11.29,Miami Heat,free throw,,,,,,,1,,2,Wade,1,,foul,made,,,,,59-51,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=260
 ,,,,,,,,,,3,11.29,Miami Heat,free throw,,,,,,,2,,2,Wade,1,,foul,made,,,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=262
-,,,,,,,,,,3,11.15,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Lost Ball,,,,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=264
+,,,,,,,,,,3,11.15,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Lost Ball,,Chalmers,,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=264
 ,,,,,,,,,,3,11.06,Miami Heat,shot,Wade,,,,,,,,,Chalmers,2,,,made,,Jump Bank Shot,,,59-54,12,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=266
 ,,,,,,,,,,3,10.43,Brooklyn Nets,shot,,,,,,,,,,D. Williams,3,,,made,,3PT Jump Shot,,,62-54,25,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=267
-,,,,,,,,,,3,10.33,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,,,,,62-54,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=268
+,,,,,,,,,,3,10.33,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,Blatche,,,,62-54,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=268
 ,,,,,,,,,,3,10.28,Brooklyn Nets,shot,Johnson,,,,,,,,,Humphries,2,,,made,,Layup,,,64-54,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=269
 ,,,,,,,,,,3,9.57,Miami Heat,shot,Wade,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,64-57,25,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=270
 ,,,,,,,,,,3,9.47,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,64-57,25,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=271
@@ -233,7 +233,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.13,Miami Heat,free throw,,,,,,,2,,2,Wade,1,,foul,made,,,,,66-58,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=279
 ,,,,,,,,,,3,9.02,Brooklyn Nets,shot,,,,,,,,,,Humphries,,,,missed,,Jump Shot,,,66-58,12,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=281
 ,,,,,,,,,,3,9.01,Miami Heat,rebound,,,,,,,,,,Lewis,,,,,,,,,66-58,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=282
-,,,,,,,,,,3,8.54,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,66-58,8,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=283
+,,,,,,,,,,3,8.54,Miami Heat,shot,,,Humphries,,,,,,,Bosh,,,,missed,,Jump Shot,,,66-58,8,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=283
 ,,,,,,,,,,3,8.52,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,66-58,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=284
 ,,,,,,,,,,3,8.49,Miami Heat,shot,,,,,,,,,,Lewis,,,,missed,,3PT Jump Shot,,,66-58,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=285
 ,,,,,,,,,,3,8.48,Brooklyn Nets,rebound,,,,,,,,,,Johnson,,,,,,,,,66-58,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=286
@@ -260,7 +260,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.35,Miami Heat,substitute,,,,Allen,,Lewis,,,,,,,,,,,,,71-64,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=309
 ,,,,,,,,,,3,6.35,Brooklyn Nets,substitute,,,,Stackhouse,,Blatche,,,,,,,,,,,,,71-64,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=311
 ,,,,,,,,,,3,6.35,Miami Heat,free throw,,,,,,,2,,2,Bosh,1,,foul,made,,,,,71-65,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=312
-,,,,,,,,,,3,6.19,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,71-65,13,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=314
+,,,,,,,,,,3,6.19,Brooklyn Nets,shot,,,Bosh,,,,,,,Johnson,,,,missed,,Jump Shot,,,71-65,13,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=314
 ,,,,,,,,,,3,6.18,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,71-65,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=315
 ,,,,,,,,,,3,6.06,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Fadeaway Jumper,,,71-65,17,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=316
 ,,,,,,,,,,3,6.05,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,71-65,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=317
@@ -281,13 +281,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.46,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,3PT Jump Shot,,,73-69,24,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=335
 ,,,,,,,,,,3,3.45,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,73-69,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=336
 ,,,,,,,,,,3,3.37,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Jump Shot,,,73-71,13,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=337
-,,,,,,,,,,3,3.23,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=338
+,,,,,,,,,,3,3.23,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,Wade,,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=338
 ,,,,,,,,,,3,3.20,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Dunk,,,73-73,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=339
 ,,,,,,,,,,3,3.20,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=340
 ,,,,,,,,,,3,3.20,Brooklyn Nets,substitute,,,,Watson,,Johnson,,,,,,,,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=342
 ,,,,,,,,,,3,3.20,Brooklyn Nets,substitute,,,,Blatche,,Evans,,,,,,,,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=343
 ,,,,,,,,,,3,3.20,Miami Heat,substitute,,,,Cole,,Chalmers,,,,,,,,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=344
-,,,,,,,,,,3,3.12,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=345
+,,,,,,,,,,3,3.12,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,James,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=345
 ,,,,,,,,,,3,3.08,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Dunk,,,73-75,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=346
 ,,,,,,,,,,3,2.46,Brooklyn Nets,shot,,,,,,,,,,Blatche,2,,,made,,Layup,,,75-75,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=347
 ,,,,,,,,,,3,2.31,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Dunk,,,75-77,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=348
@@ -338,15 +338,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.27,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=402
 ,,,,,,,,,,4,9.17,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,81-84,18,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=403
 ,,,,,,,,,,4,9.16,Brooklyn Nets,rebound,,,,,,,,,,Watson,,,,,,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=404
-,,,,,,,,,,4,8.59,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=405
+,,,,,,,,,,4,8.59,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Cole,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=405
 ,,,,,,,,,,4,8.56,Brooklyn Nets,foul,,,,,,,,,,Bogans,,,,,,Shooting,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=407
 ,,,,,,,,,,4,8.56,Miami Heat,free throw,,,,,,,,,,Allen,1,,Technical,made,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=412
 ,,,,,,,,,,4,8.56,Miami Heat,free throw,,,,,,,1,,2,Cole,,,foul,missed,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=414
 ,,,,,,,,,,4,8.56,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=415
 ,,,,,,,,,,4,8.56,Miami Heat,free throw,,,,,,,2,,2,Cole,1,,foul,made,,,,,81-86,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=416
-,,,,,,,,,,4,8.41,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Bad Pass,,,,,,81-86,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=418
+,,,,,,,,,,4,8.41,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Bad Pass,,Allen,,,,81-86,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=418
 ,,,,,,,,,,4,8.36,Miami Heat,shot,Allen,,,,,,,,,Cole,2,,,made,,Layup,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=419
-,,,,,,,,,,4,8.13,Brooklyn Nets,shot,,,,,,,,,,Watson,,,,missed,,Jump Shot,,,81-88,9,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=420
+,,,,,,,,,,4,8.13,Brooklyn Nets,shot,,,Bosh,,,,,,,Watson,,,,missed,,Jump Shot,,,81-88,9,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=420
 ,,,,,,,,,,4,8.13,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=421
 ,,,,,,,,,,4,8.13,Miami Heat,foul,,,,,,,,,,Allen,,,,,,Loose ball,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=422
 ,,,,,,,,,,4,8.13,Brooklyn Nets,substitute,,,,D. Williams,,Humphries,,,,,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=423
@@ -356,7 +356,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.53,Brooklyn Nets,rebound,,,,,,,,,,Stackhouse,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=428
 ,,,,,,,,,,4,7.48,Brooklyn Nets,shot,,,,,,,,,,Stackhouse,,,,missed,,Jump Shot,,,81-88,20,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=429
 ,,,,,,,,,,4,7.47,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=430
-,,,,,,,,,,4,7.37,Miami Heat,turnover,,,,,,,,,,Bosh,,,Bad Pass,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=431
+,,,,,,,,,,4,7.37,Miami Heat,turnover,,,,,,,,,,Bosh,,,Bad Pass,,Stackhouse,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=431
 ,,,,,,,,,,4,7.27,Brooklyn Nets,turnover,,,,,,,,,,Stackhouse Out of Bounds,,,Lost Ball,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=432
 ,,,,,,,,,,4,7.27,Miami Heat,substitute,,,,Wade,,Allen,,,,,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=433
 ,,,,,,,,,,4,7.10,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Layup,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=435
@@ -379,7 +379,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.32,Miami Heat,substitute,,,,Allen,,Bosh,,,,,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=454
 ,,,,,,,,,,4,5.32,Miami Heat,substitute,,,,Haslem,,Miller,,,,,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=455
 ,,,,,,,,,,4,5.23,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=456
-,,,,,,,,,,4,5.14,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=459
+,,,,,,,,,,4,5.14,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,Haslem,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=459
 ,,,,,,,,,,4,5.09,Miami Heat,shot,Allen,,,,,,,,,Wade,2,,,made,,Dunk,,,81-90,1,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=460
 ,,,,,,,,,,4,4.57,Miami Heat,foul,,,,,,,,,,Cole,,,,,,Personal,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=461
 ,,,,,,,,,,4,4.50,Brooklyn Nets,shot,,,,,,,,,,Humphries,,,,missed,,Jump Shot,,,81-90,7,http://stats.nba.com/cvp.html?GameID=0021200233&GameEventID=463

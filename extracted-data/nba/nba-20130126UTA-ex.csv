@@ -3,7 +3,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.35,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=3
 ,,,,,,,,,,1,11.18,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Hook Shot,,,2-0,5,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=4
 ,,,,,,,,,,1,11.03,Utah Jazz,shot,,,,,,,,,,Millsap,2,,,made,,Jump Shot,,,2-2,18,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=5
-,,,,,,,,,,1,10.53,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=6
+,,,,,,,,,,1,10.53,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Millsap,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=6
 ,,,,,,,,,,1,10.47,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,Jump Shot,,,2-2,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=7
 ,,,,,,,,,,1,10.46,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=8
 ,,,,,,,,,,1,10.29,Utah Jazz,foul,,,,,,,,,,Jefferson,,,,,,Shooting,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=9
@@ -14,8 +14,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.55,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Hook Shot,,,3-4,9,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=15
 ,,,,,,,,,,1,9.53,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=16
 ,,,,,,,,,,1,9.47,Utah Jazz,turnover,,,,,,,,,,Williams,,,Traveling,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=17
-,,,,,,,,,,1,9.25,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=18
-,,,,,,,,,,1,9.15,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Layup,,,3-4,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=19
+,,,,,,,,,,1,9.25,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,Millsap,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=18
+,,,,,,,,,,1,9.15,Utah Jazz,shot,,,Hibbert,,,,,,,Millsap,,,,missed,,Layup,,,3-4,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=19
 ,,,,,,,,,,1,9.12,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=20
 ,,,,,,,,,,1,9.00,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Jump Hook Shot,,,5-4,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=21
 ,,,,,,,,,,1,8.47,Utah Jazz,shot,Tinsley,,,,,,,,,Foye,2,,,made,,Reverse Layup,,,5-6,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=22
@@ -25,8 +25,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.55,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Driving Layup,,,9-6,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=26
 ,,,,,,,,,,1,7.38,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,9-6,16,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=27
 ,,,,,,,,,,1,7.37,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=28
-,,,,,,,,,,1,7.27,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=29
-,,,,,,,,,,1,7.15,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=30
+,,,,,,,,,,1,7.27,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Williams,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=29
+,,,,,,,,,,1,7.15,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,West,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=30
 ,,,,,,,,,,1,7.12,Utah Jazz,foul,,,,,,,,,,Tinsley,,,,,,Shooting,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=31
 ,,,,,,,,,,1,7.12,Indiana Pacers,free throw,,,,,,,1,,2,George,1,,foul,made,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=32
 ,,,,,,,,,,1,7.12,Indiana Pacers,free throw,,,,,,,2,,2,George,1,,foul,made,,,,,11-6,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=34
@@ -39,7 +39,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.47,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Personal,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=42
 ,,,,,,,,,,1,5.47,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=44
 ,,,,,,,,,,1,5.47,Utah Jazz,substitute,,,,Watson,,Tinsley,,,,,,,,,,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=45
-,,,,,,,,,,1,5.37,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=46
+,,,,,,,,,,1,5.37,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,Millsap,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=46
 ,,,,,,,,,,1,5.29,Utah Jazz,shot,Watson,,,,,,,,,Williams,2,,,made,,Layup,,,15-12,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=66
 ,,,,,,,,,,1,5.29,Indiana Pacers,violation,,,,,,,,,,Hibbert,,,Defensive Goaltending,,,,,,15-12,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=67
 ,,,,,,,,,,1,5.02,Indiana Pacers,shot,,,,,,,,,,West,2,,,made,,Jump Shot,,,17-12,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=49
@@ -50,9 +50,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.24,Indiana Pacers,substitute,,,,Johnson,,Stephenson,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=54
 ,,,,,,,,,,1,4.24,Indiana Pacers,free throw,,,,,,,2,,2,West,1,,foul,made,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=55
 ,,,,,,,,,,1,4.06,Utah Jazz,shot,Williams,,,,,,,,,Millsap,2,,,made,,Turnaround Jump Shot,,,18-16,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=57
-,,,,,,,,,,1,3.50,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Jump Shot,,,18-16,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=58
+,,,,,,,,,,1,3.50,Indiana Pacers,shot,,,Millsap,,,,,,,West,,,,missed,,Jump Shot,,,18-16,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=58
 ,,,,,,,,,,1,3.49,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,18-16,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=59
-,,,,,,,,,,1,3.43,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,,,,,18-16,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=60
+,,,,,,,,,,1,3.43,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,George,,,,18-16,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=60
 ,,,,,,,,,,1,3.37,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,18-16,24,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=61
 ,,,,,,,,,,1,3.36,Utah Jazz,rebound,,,,,,,,,,Watson,,,,,,,,,18-16,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=62
 ,,,,,,,,,,1,3.25,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Jump Shot,,,18-18,7,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=63
@@ -64,7 +64,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.06,Indiana Pacers,shot,Hill,,,,,,,,,Mahinmi,2,,,made,,Jump Shot,,,20-18,21,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=72
 ,,,,,,,,,,1,2.47,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,20-18,21,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=73
 ,,,,,,,,,,1,2.46,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,20-18,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=74
-,,,,,,,,,,1,2.29,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,20-18,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=75
+,,,,,,,,,,1,2.29,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Jefferson,,,,20-18,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=75
 ,,,,,,,,,,1,2.14,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Driving Layup,,,20-20,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=76
 ,,,,,,,,,,1,1.56,Indiana Pacers,shot,,,,,,,,,,Mahinmi,2,,,made,,Running Hook Shot,,,22-20,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=77
 ,,,,,,,,,,1,1.41,Indiana Pacers,foul,,,,,,,,,,Johnson,,,,,,Shooting,,,22-20,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=78
@@ -80,14 +80,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.41,Utah Jazz,substitute,,,,Kanter,,Jefferson,,,,,,,,,,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=91
 ,,,,,,,,,,1,0.41,Utah Jazz,free throw,,,,,,,2,,2,Favors,,,foul,missed,,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=92
 ,,,,,,,,,,1,0.40,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=94
-,,,,,,,,,,1,0.21,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Lost Ball,,,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=95
+,,,,,,,,,,1,0.21,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Lost Ball,,Watson,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=95
 ,,,,,,,,,,1,0.02,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Jump Shot,,,24-25,14,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=96
 ,,,,,,,,,,1,0.00,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=97
 ,,,,,,,,,,1,0.00,Utah Jazz,shot,,,,,,,,,,Hayward,2,,,made,,Jump Shot,,,24-27,19,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=98
 ,,,,,,,,,,2,11.39,Indiana Pacers,shot,,,,,,,,,,Augustin,2,,,made,,Jump Shot,,,26-27,18,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=105
 ,,,,,,,,,,2,11.21,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,26-27,24,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=106
 ,,,,,,,,,,2,11.20,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=107
-,,,,,,,,,,2,11.02,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Lost Ball,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=108
+,,,,,,,,,,2,11.02,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Lost Ball,,Hayward,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=108
 ,,,,,,,,,,2,11.02,Indiana Pacers,foul,,,,,,,,,,Mahinmi,,,,,,Personal,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=109
 ,,,,,,,,,,2,10.39,Utah Jazz,shot,,,,,,,,,,Kanter,,,,missed,,Jump Hook Shot,,,26-27,7,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=110
 ,,,,,,,,,,2,10.38,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=111
@@ -109,7 +109,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.41,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Jump Shot,,,30-27,20,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=127
 ,,,,,,,,,,2,8.39,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,30-27,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=128
 ,,,,,,,,,,2,8.33,Utah Jazz,shot,Hayward,,,,,,,,,Kanter,2,,,made,,Jump Shot,,,30-29,19,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=129
-,,,,,,,,,,2,8.16,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,30-29,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=130
+,,,,,,,,,,2,8.16,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Watson,,,,30-29,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=130
 ,,,,,,,,,,2,8.10,Utah Jazz,shot,,,,,,,,,,Watson,2,,,made,,Layup,,,30-31,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=131
 ,,,,,,,,,,2,7.54,Utah Jazz,foul,,,,,,,,,,,,,,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=132
 ,,,,,,,,,,2,7.54,Utah Jazz,substitute,,,,Tinsley,,Watson,,,,,,,,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=135
@@ -118,9 +118,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.47,Indiana Pacers,shot,Augustin,,,,,,,,,West,2,,,made,,Jump Shot,,,33-31,20,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=139
 ,,,,,,,,,,2,7.39,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Personal,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=140
 ,,,,,,,,,,2,7.28,Utah Jazz,shot,,,,,,,,,,Hayward,2,,,made,,Jump Shot,,,33-33,20,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=141
-,,,,,,,,,,2,7.09,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=142
-,,,,,,,,,,2,7.06,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=143
-,,,,,,,,,,2,7.01,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=144
+,,,,,,,,,,2,7.09,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,Hayward,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=142
+,,,,,,,,,,2,7.06,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,Stephenson,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=143
+,,,,,,,,,,2,7.01,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,Carroll,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=144
 ,,,,,,,,,,2,6.52,Utah Jazz,shot,Hayward,,,,,,,,,Carroll,2,,,made,,Jump Shot,,,33-35,22,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=145
 ,,,,,,,,,,2,6.44,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=146
 ,,,,,,,,,,2,6.44,Indiana Pacers,substitute,,,,Hibbert,,Mahinmi,,,,,,,,,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=148
@@ -131,9 +131,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.50,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=153
 ,,,,,,,,,,2,5.50,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=154
 ,,,,,,,,,,2,5.46,Indiana Pacers,shot,,,,,,,,,,West,2,,,made,,Jump Bank Shot,,,37-37,10,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=156
-,,,,,,,,,,2,5.29,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=157
-,,,,,,,,,,2,5.23,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=158
-,,,,,,,,,,2,5.17,Utah Jazz,shot,,,,,,,,,,Carroll,,,,missed,,Jump Shot,,,37-37,3,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=159
+,,,,,,,,,,2,5.29,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,Augustin,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=157
+,,,,,,,,,,2,5.23,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,Millsap,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=158
+,,,,,,,,,,2,5.17,Utah Jazz,shot,,,West,,,,,,,Carroll,,,,missed,,Jump Shot,,,37-37,3,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=159
 ,,,,,,,,,,2,5.16,Utah Jazz,rebound,,,,,,,,,,Carroll,,,,,,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=160
 ,,,,,,,,,,2,5.16,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Shooting,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=161
 ,,,,,,,,,,2,5.16,Utah Jazz,free throw,,,,,,,1,,2,Millsap,1,,foul,made,,,,,37-38,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=162
@@ -160,9 +160,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.19,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,39-43,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=187
 ,,,,,,,,,,2,3.14,Utah Jazz,shot,Tinsley,,,,,,,,,Jefferson,2,,,made,,Jump Shot,,,39-45,16,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=188
 ,,,,,,,,,,2,3.02,Utah Jazz,foul,,,,,,,,,,Tinsley,,,,,,Personal,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=189
-,,,,,,,,,,2,2.51,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,39-45,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=190
+,,,,,,,,,,2,2.51,Indiana Pacers,shot,,,Williams,,,,,,,Hibbert,,,,missed,,Jump Shot,,,39-45,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=190
 ,,,,,,,,,,2,2.48,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=191
-,,,,,,,,,,2,2.47,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Layup,,,39-45,1,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=527
+,,,,,,,,,,2,2.47,Indiana Pacers,shot,,,Jefferson,,,,,,,Hibbert,,,,missed,,Layup,,,39-45,1,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=527
 ,,,,,,,,,,2,2.46,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=528
 ,,,,,,,,,,2,2.45,Indiana Pacers,shot,George,,,,,,,,,Hill,3,,,made,,3PT Jump Shot,,,42-45,24,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=192
 ,,,,,,,,,,2,2.20,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,42-45,21,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=193
@@ -178,7 +178,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.04,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,46-45,4,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=206
 ,,,,,,,,,,2,1.04,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,46-45,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=207
 ,,,,,,,,,,2,0.48,Indiana Pacers,shot,Hill,,,,,,,,,West,2,,,made,,Jump Shot,,,48-45,17,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=208
-,,,,,,,,,,2,0.35,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,48-45,4,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=209
+,,,,,,,,,,2,0.35,Utah Jazz,shot,,,West,,,,,,,Millsap,,,,missed,,Jump Shot,,,48-45,4,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=209
 ,,,,,,,,,,2,0.35,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,48-45,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=210
 ,,,,,,,,,,2,0.35,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Technical,,,48-45,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=211
 ,,,,,,,,,,2,0.35,Indiana Pacers,free throw,,,,,,,,,,Hill,,,Technical,missed,,,,,48-45,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=212
@@ -199,9 +199,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.31,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,3PT Jump Shot,,,50-45,26,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=230
 ,,,,,,,,,,3,10.30,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=231
 ,,,,,,,,,,3,10.24,Utah Jazz,shot,Williams,,,,,,,,,Millsap,2,,,made,,Layup,,,50-47,3,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=232
-,,,,,,,,,,3,10.08,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,50-47,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=233
+,,,,,,,,,,3,10.08,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Tinsley,,,,50-47,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=233
 ,,,,,,,,,,3,10.02,Utah Jazz,shot,Tinsley,,,,,,,,,Millsap,2,,,made,,Jump Shot,,,50-49,4,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=234
-,,,,,,,,,,3,9.47,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,,,,,50-49,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=235
+,,,,,,,,,,3,9.47,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,Jefferson,,,,50-49,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=235
 ,,,,,,,,,,3,9.43,Utah Jazz,shot,Tinsley,,,,,,,,,Millsap,2,,,made,,Jump Shot,,,50-51,3,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=236
 ,,,,,,,,,,3,9.43,Indiana Pacers,foul,,,,,,,,,,West,,,,,,Shooting,,,50-51,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=237
 ,,,,,,,,,,3,9.43,Utah Jazz,free throw,,,,,,,1,,1,Millsap,1,,foul,made,,,,,50-52,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=238
@@ -210,7 +210,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.14,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Jump Shot,,,52-52,9,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=242
 ,,,,,,,,,,3,8.52,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Fadeaway Jumper,,,52-52,14,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=243
 ,,,,,,,,,,3,8.51,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=244
-,,,,,,,,,,3,8.46,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=245
+,,,,,,,,,,3,8.46,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Millsap,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=245
 ,,,,,,,,,,3,8.40,Utah Jazz,shot,Tinsley,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,52-55,25,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=246
 ,,,,,,,,,,3,8.39,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,52-55,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=247
 ,,,,,,,,,,3,8.19,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,52-55,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=249
@@ -222,7 +222,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.33,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=255
 ,,,,,,,,,,3,7.31,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Layup,,,54-55,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=256
 ,,,,,,,,,,3,7.29,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=258
-,,,,,,,,,,3,7.29,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Layup,,,54-55,1,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=257
+,,,,,,,,,,3,7.29,Indiana Pacers,shot,,,Jefferson,,,,,,,Hibbert,,,,missed,,Layup,,,54-55,1,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=257
 ,,,,,,,,,,3,7.27,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=259
 ,,,,,,,,,,3,7.22,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Jump Shot,,,54-55,12,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=260
 ,,,,,,,,,,3,7.20,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=261
@@ -243,7 +243,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.43,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,59-63,25,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=278
 ,,,,,,,,,,3,4.42,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=279
 ,,,,,,,,,,3,4.33,Utah Jazz,shot,Tinsley,,,,,,,,,Williams,2,,,made,,Layup,,,59-65,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=280
-,,,,,,,,,,3,4.19,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=281
+,,,,,,,,,,3,4.19,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,Foye,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=281
 ,,,,,,,,,,3,4.16,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Shooting,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=282
 ,,,,,,,,,,3,4.16,Utah Jazz,free throw,,,,,,,1,,2,Foye,1,,foul,made,,,,,59-66,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=283
 ,,,,,,,,,,3,4.16,Indiana Pacers,substitute,,,,Augustin,,Stephenson,,,,,,,,,,,,,59-66,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=285
@@ -277,7 +277,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.51,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,66-73,16,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=320
 ,,,,,,,,,,3,0.50,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,66-73,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=321
 ,,,,,,,,,,3,0.40,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Jump Shot,,,68-73,15,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=322
-,,,,,,,,,,3,0.22,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Turnaround Jump Shot,,,68-73,11,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=323
+,,,,,,,,,,3,0.22,Utah Jazz,shot,,,West,,,,,,,Favors,,,,missed,,Turnaround Jump Shot,,,68-73,11,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=323
 ,,,,,,,,,,3,0.22,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,68-73,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=324
 ,,,,,,,,,,3,0.22,Utah Jazz,shot,Watson,,,,,,,,,Hayward,2,,,made,,Floating Jump Shot,,,68-75,11,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=325
 ,,,,,,,,,,3,0.22,Indiana Pacers,foul,,,,,,,,,,Hill,,,,,,Shooting,,,68-75,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=326
@@ -285,7 +285,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.22,Indiana Pacers,substitute,,,,Stephenson,,Mahinmi,,,,,,,,,,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=328
 ,,,,,,,,,,3,0.22,Utah Jazz,substitute,,,,Carroll,,Kanter,,,,,,,,,,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=329
 ,,,,,,,,,,3,0.09,Utah Jazz,foul,,,,,,,,,,Carroll,,,,,,Personal,,,68-76,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=332
-,,,,,,,,,,3,0.02,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=333
+,,,,,,,,,,3,0.02,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,Carroll,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=333
 ,,,,,,,,,,3,0.00,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,68-76,14,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=334
 ,,,,,,,,,,3,0.00,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,68-76,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=336
 ,,,,,,,,,,4,11.47,Utah Jazz,shot,Hayward,,,,,,,,,Favors,2,,,made,,Turnaround Jump Shot,,,68-78,8,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=340
@@ -307,7 +307,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.49,Indiana Pacers,foul,,,,,,,,,,Mahinmi,,,,,,Personal,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=358
 ,,,,,,,,,,4,9.42,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,74-80,13,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=359
 ,,,,,,,,,,4,9.42,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=372
-,,,,,,,,,,4,9.42,Utah Jazz,shot,,,,,,,,,,Kanter,,,,missed,,Jump Shot,,,74-80,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=367
+,,,,,,,,,,4,9.42,Utah Jazz,shot,,,George,,,,,,,Kanter,,,,missed,,Jump Shot,,,74-80,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=367
 ,,,,,,,,,,4,9.39,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=361
 ,,,,,,,,,,4,9.39,Utah Jazz,shot,,,,,,,,,,Kanter,2,,,made,,Layup,,,74-82,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=360
 ,,,,,,,,,,4,9.23,Indiana Pacers,shot,George,,,,,,,,,Augustin,3,,,made,,3PT Jump Shot,,,77-82,25,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=362
@@ -323,7 +323,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.12,Indiana Pacers,shot,George,,,,,,,,,Hansbrough,2,,,made,,Layup,,,79-84,3,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=381
 ,,,,,,,,,,4,7.59,Utah Jazz,jumpball,,Hansbrough,,,Millsap,,,,,,,,,,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=382
 ,,,,,,,,,,4,7.53,Utah Jazz,shot,,,,,,,,,,Carroll,2,,,made,,Jump Shot,,,79-86,22,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=383
-,,,,,,,,,,4,7.34,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,79-86,3,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=384
+,,,,,,,,,,4,7.34,Indiana Pacers,shot,,,Millsap,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,79-86,3,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=384
 ,,,,,,,,,,4,7.33,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=385
 ,,,,,,,,,,4,7.30,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Layup,,,81-86,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=386
 ,,,,,,,,,,4,7.14,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,81-86,25,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=387
@@ -333,7 +333,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.48,Utah Jazz,violation,,,,,,,,,,Carroll,,,Kicked Ball,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=391
 ,,,,,,,,,,4,6.48,Indiana Pacers,substitute,,,,Hibbert,,Mahinmi,,,,,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=392
 ,,,,,,,,,,4,6.39,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Jump Shot,,,83-88,18,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=393
-,,,,,,,,,,4,6.23,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=394
+,,,,,,,,,,4,6.23,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Hibbert,,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=394
 ,,,,,,,,,,4,6.15,Utah Jazz,foul,,,,,,,,,,Hayward,,,,,,Personal,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=395
 ,,,,,,,,,,4,6.15,Indiana Pacers,substitute,,,,West,,Hansbrough,,,,,,,,,,,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=396
 ,,,,,,,,,,4,6.12,Indiana Pacers,foul,,,,,,,,,,Hibbert,,,,,,Offensive Charge,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=397
@@ -341,8 +341,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.02,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Alley Oop Layup,,,83-88,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=399
 ,,,,,,,,,,4,6.01,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=401
 ,,,,,,,,,,4,6.01,Utah Jazz,shot,,,,,,,,,,Favors,2,,,made,,Layup,,,83-90,1,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=400
-,,,,,,,,,,4,5.47,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=402
-,,,,,,,,,,4,5.39,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=403
+,,,,,,,,,,4,5.47,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Hayward,,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=402
+,,,,,,,,,,4,5.39,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Hibbert,,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=403
 ,,,,,,,,,,4,5.33,Indiana Pacers,shot,Hill,,,,,,,,,George,2,,,made,,Slam Dunk,,,85-90,1,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=404
 ,,,,,,,,,,4,5.11,Utah Jazz,shot,Hayward,,,,,,,,,Favors,2,,,made,,Slam Dunk,,,85-92,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=405
 ,,,,,,,,,,4,5.08,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,85-92,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=407
@@ -375,9 +375,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.17,Indiana Pacers,shot,Hill,,,,,,,,,West,2,,,made,,Jump Shot,,,94-98,19,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=443
 ,,,,,,,,,,4,0.53,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,94-98,20,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=444
 ,,,,,,,,,,4,0.51,Utah Jazz,rebound,,,,,,,,,,Watson,,,,,,,,,94-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=445
-,,,,,,,,,,4,0.31,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,,,,,94-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=446
+,,,,,,,,,,4,0.31,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,Hill,,,,94-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=446
 ,,,,,,,,,,4,0.26,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Driving Layup,,,96-98,2,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=447
-,,,,,,,,,,4,0.21,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,,,,,96-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=448
+,,,,,,,,,,4,0.21,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,Hill,,,,96-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=448
 ,,,,,,,,,,4,0.20,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,96-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=449
 ,,,,,,,,,,4,0.09,Utah Jazz,foul,,,,,,,,,,Carroll,,,,,,Personal,,,96-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=450
 ,,,,,,,,,,4,0.09,Indiana Pacers,free throw,,,,,,,1,,2,George,1,,foul,made,,,,,97-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=451
@@ -388,7 +388,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.09,Utah Jazz,substitute,,,,Foye,,Favors,,,,,,,,,,,,,98-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=460
 ,,,,,,,,,,4,0.09,Utah Jazz,substitute,,,,Watson,,Carroll,,,,,,,,,,,,,98-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=461
 ,,,,,,,,,,4,0.09,Indiana Pacers,substitute,,,,Augustin,,Hansbrough,,,,,,,,,,,,,98-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=462
-,,,,,,,,,,4,0.00,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,,,,,98-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=463
+,,,,,,,,,,4,0.00,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,West,,,,98-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=463
 ,,,,,,,,,,4,0.00,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,98-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=464
 ,,,,,,,,,,4,0.00,Utah Jazz,substitute,,,,Favors,,Watson,,,,,,,,,,,,,98-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=465
 ,,,,,,,,,,5,5.00,Utah Jazz,jumpball,,George,,,Jefferson,,,,,,,,,,,,,,98-98,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=469
@@ -420,7 +420,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,0.13,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,107-110,6,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=498
 ,,,,,,,,,,5,0.12,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,107-110,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=499
 ,,,,,,,,,,5,0.11,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,107-110,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=500
-,,,,,,,,,,5,0.08,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,107-110,24,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=501
+,,,,,,,,,,5,0.08,Indiana Pacers,shot,,,Hayward,,,,,,,George,,,,missed,,3PT Jump Shot,,,107-110,24,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=501
 ,,,,,,,,,,5,0.07,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,107-110,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=502
 ,,,,,,,,,,5,0.07,Indiana Pacers,foul,,,,,,,,,,West,,,,,,Loose ball,,,107-110,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=503
 ,,,,,,,,,,5,0.07,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,107-110,,http://stats.nba.com/cvp.html?GameID=0021200650&GameEventID=504

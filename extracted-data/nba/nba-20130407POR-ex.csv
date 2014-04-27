@@ -20,7 +20,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.10,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,9-0,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=22
 ,,,,,,,,,,1,8.57,Portland Trail Blazers,shot,Aldridge,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,9-3,25,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=23
 ,,,,,,,,,,1,8.38,Dallas Mavericks,shot,Mayo,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,11-3,16,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=24
-,,,,,,,,,,1,8.20,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,11-3,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=25
+,,,,,,,,,,1,8.20,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,Nowitzki,,,,11-3,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=25
 ,,,,,,,,,,1,8.01,Dallas Mavericks,shot,James,,,,,,,,,Marion,2,,,made,,Running Jump Shot,,,13-3,7,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=27
 ,,,,,,,,,,1,7.54,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,13-3,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=28
 ,,,,,,,,,,1,7.48,Portland Trail Blazers,turnover,,,,,,,,,,Claver Out of Bounds,,,Lost Ball,,,,,,13-3,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=30
@@ -43,7 +43,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.09,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Jump Shot,,,17-9,22,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=47
 ,,,,,,,,,,1,5.08,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=48
 ,,,,,,,,,,1,5.04,Dallas Mavericks,substitute,,,,Collison,,James,,,,,,,,,,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=50
-,,,,,,,,,,1,4.57,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=51
+,,,,,,,,,,1,4.57,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Leonard,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=51
 ,,,,,,,,,,1,4.57,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,clear path,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=52
 ,,,,,,,,,,1,4.57,Portland Trail Blazers,free throw,,,,,,,,,,Lillard,,,foul,missed,,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=54
 ,,,,,,,,,,1,4.57,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=56
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.38,Portland Trail Blazers,shot,Maynor,,,,,,,,,Claver,2,,,made,,Dunk,,,31-20,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=116
 ,,,,,,,,,,2,10.25,Dallas Mavericks,shot,,,,,,,,,,Wright,,,,missed,,Hook Shot,,,31-20,6,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=117
 ,,,,,,,,,,2,10.25,Portland Trail Blazers,rebound,,,,,,,,,,Babbitt,,,,,,,,,31-20,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=118
-,,,,,,,,,,2,10.14,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Lost Ball,,,,,,31-20,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=119
+,,,,,,,,,,2,10.14,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Lost Ball,,Nowitzki,,,,31-20,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=119
 ,,,,,,,,,,2,10.06,Dallas Mavericks,shot,Collison,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,34-20,25,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=120
 ,,,,,,,,,,2,9.51,Dallas Mavericks,foul,,,,,,,,,,Wright,,,,,,Personal,,,34-20,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=121
 ,,,,,,,,,,2,9.51,Dallas Mavericks,substitute,,,,Mayo,,Carter,,,,,,,,,,,,,34-20,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=122
@@ -111,11 +111,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.54,Dallas Mavericks,substitute,,,,Kaman,,Wright,,,,,,,,,,,,,36-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=131
 ,,,,,,,,,,2,8.54,Dallas Mavericks,free throw,,,,,,,1,,2,Nowitzki,1,,foul,made,,,,,37-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=132
 ,,,,,,,,,,2,8.54,Dallas Mavericks,free throw,,,,,,,2,,2,Nowitzki,1,,foul,made,,,,,38-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=134
-,,,,,,,,,,2,8.33,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Lost Ball,,,,,,38-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=136
+,,,,,,,,,,2,8.33,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Lost Ball,,Mayo,,,,38-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=136
 ,,,,,,,,,,2,8.28,Dallas Mavericks,shot,Mayo,,,,,,,,,Crowder,2,,,made,,Layup,,,40-22,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=137
 ,,,,,,,,,,2,8.27,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,40-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=138
 ,,,,,,,,,,2,8.27,Portland Trail Blazers,substitute,,,,Barton,,Matthews,,,,,,,,,,,,,40-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=139
-,,,,,,,,,,2,8.13,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Bad Pass,,,,,,40-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=140
+,,,,,,,,,,2,8.13,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Bad Pass,,Collison,,,,40-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=140
 ,,,,,,,,,,2,8.11,Dallas Mavericks,shot,Crowder,,,,,,,,,Collison,2,,,made,,Driving Layup,,,42-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=141
 ,,,,,,,,,,2,7.52,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Turnaround Jump Shot,,,42-22,13,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=142
 ,,,,,,,,,,2,7.52,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,42-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=143
@@ -130,7 +130,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.09,Dallas Mavericks,substitute,,,,Marion,,Nowitzki,,,,,,,,,,,,,42-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=152
 ,,,,,,,,,,2,6.48,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Running Jump Shot,,,42-22,8,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=153
 ,,,,,,,,,,2,6.47,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,42-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=154
-,,,,,,,,,,2,6.34,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,,,,,42-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=155
+,,,,,,,,,,2,6.34,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,Mayo,,,,42-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=155
 ,,,,,,,,,,2,6.29,Dallas Mavericks,shot,Collison,,,,,,,,,Marion,2,,,made,,Layup,,,44-22,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=156
 ,,,,,,,,,,2,6.28,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,44-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=157
 ,,,,,,,,,,2,6.28,Dallas Mavericks,substitute,,,,James,,Collison,,,,,,,,,,,,,44-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=159
@@ -139,14 +139,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.14,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,44-22,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=162
 ,,,,,,,,,,2,6.11,Portland Trail Blazers,shot,,,,,,,,,,Hickson,2,,,made,,Jump Shot,,,44-24,18,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=163
 ,,,,,,,,,,2,5.55,Dallas Mavericks,shot,Mayo,,,,,,,,,Kaman,2,,,made,,Driving Reverse Layup,,,46-24,2,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=164
-,,,,,,,,,,2,5.32,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,46-24,3,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=165
+,,,,,,,,,,2,5.32,Portland Trail Blazers,shot,,,Kaman,,,,,,,Hickson,,,,missed,,Layup,,,46-24,3,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=165
 ,,,,,,,,,,2,5.30,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,46-24,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=166
-,,,,,,,,,,2,5.19,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,46-24,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=167
-,,,,,,,,,,2,5.14,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Layup,,,46-24,3,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=168
+,,,,,,,,,,2,5.19,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Claver,,,,46-24,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=167
+,,,,,,,,,,2,5.14,Portland Trail Blazers,shot,,,Kaman,,,,,,,Aldridge,,,,missed,,Layup,,,46-24,3,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=168
 ,,,,,,,,,,2,5.14,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,46-24,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=169
 ,,,,,,,,,,2,5.10,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Running Jump Shot,,,46-24,8,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=170
 ,,,,,,,,,,2,5.08,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,46-24,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=171
-,,,,,,,,,,2,4.52,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Dunk,,,46-24,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=172
+,,,,,,,,,,2,4.52,Dallas Mavericks,shot,,,Hickson,,,,,,,Marion,,,,missed,,Dunk,,,46-24,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=172
 ,,,,,,,,,,2,4.50,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,46-24,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=173
 ,,,,,,,,,,2,4.48,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Layup,,,46-24,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=174
 ,,,,,,,,,,2,4.47,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,46-24,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=175
@@ -182,13 +182,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.48,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,52-30,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=211
 ,,,,,,,,,,2,1.24,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,Jump Shot,,,52-30,6,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=212
 ,,,,,,,,,,2,1.24,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,52-30,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=213
-,,,,,,,,,,2,1.23,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,,,,,52-30,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=214
+,,,,,,,,,,2,1.23,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,Barton,,,,52-30,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=214
 ,,,,,,,,,,2,1.20,Portland Trail Blazers,shot,,,,,,,,,,Barton,2,,,made,,Layup,,,52-32,3,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=215
 ,,,,,,,,,,2,1.05,Dallas Mavericks,shot,Collison,,,,,,,,,Wright,2,,,made,,Jump Shot,,,54-32,9,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=216
 ,,,,,,,,,,2,0.47,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,54-32,20,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=217
 ,,,,,,,,,,2,0.47,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,54-32,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=218
 ,,,,,,,,,,2,0.43,Dallas Mavericks,shot,Marion,,,,,,,,,Wright,2,,,made,,Layup,,,56-32,2,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=219
-,,,,,,,,,,2,0.20,Portland Trail Blazers,shot,,,,,,,,,,Babbitt,,,,missed,,Driving Layup,,,56-32,2,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=220
+,,,,,,,,,,2,0.20,Portland Trail Blazers,shot,,,Wright,,,,,,,Babbitt,,,,missed,,Driving Layup,,,56-32,2,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=220
 ,,,,,,,,,,2,0.18,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,56-32,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=221
 ,,,,,,,,,,2,0.12,Portland Trail Blazers,foul,,,,,,,,,,Lillard,,,,,,Personal Take,,,56-32,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=222
 ,,,,,,,,,,2,0.12,Dallas Mavericks,substitute,,,,Mayo,,Carter,,,,,,,,,,,,,56-32,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=223
@@ -217,7 +217,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.01,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,58-39,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=252
 ,,,,,,,,,,3,9.47,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,58-39,17,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=253
 ,,,,,,,,,,3,9.47,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,58-39,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=254
-,,,,,,,,,,3,9.31,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,,,,,58-39,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=255
+,,,,,,,,,,3,9.31,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,Barton,,,,58-39,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=255
 ,,,,,,,,,,3,9.25,Portland Trail Blazers,shot,,,,,,,,,,Barton,2,,,made,,Jump Shot,,,58-41,11,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=256
 ,,,,,,,,,,3,9.24,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,58-41,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=257
 ,,,,,,,,,,3,9.06,Dallas Mavericks,shot,,,,,,,,,,Kaman,2,,,made,,Dunk,,,60-41,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=259
@@ -233,19 +233,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.52,Portland Trail Blazers,shot,,,,,,,,,,Claver,,,,missed,,3PT Jump Shot,,,62-43,26,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=269
 ,,,,,,,,,,3,7.51,Portland Trail Blazers,rebound,,,,,,,,,,Claver,,,,,,,,,62-43,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=270
 ,,,,,,,,,,3,7.40,Portland Trail Blazers,shot,Lillard,,,,,,,,,Barton,2,,,made,,Hook Shot,,,62-45,5,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=271
-,,,,,,,,,,3,7.24,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,62-45,4,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=272
+,,,,,,,,,,3,7.24,Dallas Mavericks,shot,,,Claver,,,,,,,Kaman,,,,missed,,Jump Shot,,,62-45,4,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=272
 ,,,,,,,,,,3,7.21,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,62-45,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=273
-,,,,,,,,,,3,7.17,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,62-45,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=274
-,,,,,,,,,,3,7.12,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Bad Pass,,,,,,62-45,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=275
+,,,,,,,,,,3,7.17,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Claver,,,,62-45,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=274
+,,,,,,,,,,3,7.12,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Bad Pass,,James,,,,62-45,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=275
 ,,,,,,,,,,3,7.07,Dallas Mavericks,shot,,,,,,,,,,James,2,,,made,,Layup,,,64-45,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=276
 ,,,,,,,,,,3,6.56,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Driving Finger Roll Layup,,,64-47,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=277
 ,,,,,,,,,,3,6.34,Dallas Mavericks,shot,James,,,,,,,,,Kaman,2,,,made,,Layup,,,66-47,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=278
-,,,,,,,,,,3,6.23,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,66-47,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=279
+,,,,,,,,,,3,6.23,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Nowitzki,,,,66-47,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=279
 ,,,,,,,,,,3,6.17,Dallas Mavericks,shot,Nowitzki,,,,,,,,,Marion,2,,,made,,Layup,,,68-47,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=280
 ,,,,,,,,,,3,6.16,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,68-47,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=281
 ,,,,,,,,,,3,6.16,Dallas Mavericks,substitute,,,,Carter,,Nowitzki,,,,,,,,,,,,,68-47,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=283
 ,,,,,,,,,,3,6.16,Portland Trail Blazers,substitute,,,,Babbitt,,Hickson,,,,,,,,,,,,,68-47,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=284
-,,,,,,,,,,3,5.57,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,,,,,68-47,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=285
+,,,,,,,,,,3,5.57,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,Kaman,,,,68-47,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=285
 ,,,,,,,,,,3,5.52,Dallas Mavericks,shot,James,,,,,,,,,Marion,2,,,made,,Layup,,,70-47,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=286
 ,,,,,,,,,,3,5.28,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,3PT Jump Shot,,,70-47,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=287
 ,,,,,,,,,,3,5.27,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,70-47,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=288
@@ -266,7 +266,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.03,Portland Trail Blazers,free throw,,,,,,,2,,2,Aldridge,1,,foul,made,,,,,72-51,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=303
 ,,,,,,,,,,3,3.44,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,72-51,25,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=305
 ,,,,,,,,,,3,3.44,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,72-51,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=306
-,,,,,,,,,,3,3.27,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,72-51,26,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=308
+,,,,,,,,,,3,3.27,Portland Trail Blazers,shot,,,Marion,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,72-51,26,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=308
 ,,,,,,,,,,3,3.25,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,72-51,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=309
 ,,,,,,,,,,3,3.17,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Jump Shot,,,72-51,12,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=310
 ,,,,,,,,,,3,3.15,Portland Trail Blazers,rebound,,,,,,,,,,Babbitt,,,,,,,,,72-51,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=311
@@ -307,7 +307,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.29,Dallas Mavericks,shot,,,,,,,,,,Crowder,2,,,made,,Layup,,,83-61,2,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=356
 ,,,,,,,,,,4,11.29,Portland Trail Blazers,foul,,,,,,,,,,Leonard,,,,,,Shooting,,,83-61,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=357
 ,,,,,,,,,,4,11.29,Dallas Mavericks,free throw,,,,,,,1,,1,Crowder,1,,foul,made,,,,,84-61,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=358
-,,,,,,,,,,4,11.18,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,84-61,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=360
+,,,,,,,,,,4,11.18,Portland Trail Blazers,shot,,,Wright,,,,,,,Lillard,,,,missed,,Layup,,,84-61,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=360
 ,,,,,,,,,,4,11.16,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,84-61,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=361
 ,,,,,,,,,,4,11.06,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,84-61,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=362
 ,,,,,,,,,,4,11.06,Portland Trail Blazers,rebound,,,,,,,,,,Babbitt,,,,,,,,,84-61,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=363
@@ -334,7 +334,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.27,Portland Trail Blazers,foul,,,,,,,,,,Babbitt,,,,,,Personal,,,86-68,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=386
 ,,,,,,,,,,4,8.27,Dallas Mavericks,substitute,,,,Kaman,,Wright,,,,,,,,,,,,,86-68,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=389
 ,,,,,,,,,,4,8.27,Dallas Mavericks,substitute,,,,Mayo,,Carter,,,,,,,,,,,,,86-68,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=390
-,,,,,,,,,,4,8.19,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,Jump Shot,,,86-68,5,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=391
+,,,,,,,,,,4,8.19,Dallas Mavericks,shot,,,Leonard,,,,,,,Crowder,,,,missed,,Jump Shot,,,86-68,5,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=391
 ,,,,,,,,,,4,8.18,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,86-68,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=392
 ,,,,,,,,,,4,8.07,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Driving Finger Roll Layup,,,86-70,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=393
 ,,,,,,,,,,4,7.45,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,86-70,27,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=394
@@ -357,13 +357,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.54,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Layup,,,86-76,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=412
 ,,,,,,,,,,4,5.53,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,86-76,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=414
 ,,,,,,,,,,4,5.53,Dallas Mavericks,shot,,,,,,,,,,Kaman,2,,,made,,Layup,,,88-76,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=413
-,,,,,,,,,,4,5.29,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,88-76,7,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=415
+,,,,,,,,,,4,5.29,Portland Trail Blazers,shot,,,Mayo,,,,,,,Lillard,,,,missed,,Jump Shot,,,88-76,7,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=415
 ,,,,,,,,,,4,5.27,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,88-76,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=416
 ,,,,,,,,,,4,5.25,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,88-76,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=417
 ,,,,,,,,,,4,5.14,Dallas Mavericks,foul,,,,,,,,,,Carter,,,,,,Shooting,,,88-76,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=418
 ,,,,,,,,,,4,5.14,Portland Trail Blazers,free throw,,,,,,,1,,2,Barton,1,,foul,made,,,,,88-77,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=419
 ,,,,,,,,,,4,5.14,Portland Trail Blazers,free throw,,,,,,,2,,2,Barton,1,,foul,made,,,,,88-78,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=421
-,,,,,,,,,,4,4.56,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Lost Ball,,,,,,88-78,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=423
+,,,,,,,,,,4,4.56,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Lost Ball,,Barton,,,,88-78,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=423
 ,,,,,,,,,,4,4.49,Portland Trail Blazers,shot,Barton,,,,,,,,,Lillard,2,,,made,,Layup,,,88-80,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=424
 ,,,,,,,,,,4,4.42,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,88-80,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=425
 ,,,,,,,,,,4,4.42,Portland Trail Blazers,substitute,,,,Aldridge,,Leonard,,,,,,,,,,,,,88-80,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=427
@@ -372,7 +372,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.30,Dallas Mavericks,foul,,,,,,,,,,Kaman,,,,,,Technical,,,88-80,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=430
 ,,,,,,,,,,4,4.30,Portland Trail Blazers,free throw,,,,,,,,,,Lillard,1,,Technical,made,,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=431
 ,,,,,,,,,,4,4.30,Dallas Mavericks,substitute,,,,Wright,,Kaman,,,,,,,,,,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=433
-,,,,,,,,,,4,4.13,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=434
+,,,,,,,,,,4,4.13,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,Wright,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=434
 ,,,,,,,,,,4,3.50,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Turnaround Jump Shot,,,88-81,18,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=435
 ,,,,,,,,,,4,3.50,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=436
 ,,,,,,,,,,4,3.38,Portland Trail Blazers,shot,,,,,,,,,,Maynor,,,,missed,,3PT Jump Shot,,,88-81,25,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=437
@@ -381,9 +381,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.06,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Running Jump Shot,,,90-83,7,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=440
 ,,,,,,,,,,4,2.53,Portland Trail Blazers,shot,,,,,,,,,,Babbitt,,,,missed,,3PT Jump Shot,,,90-83,25,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=441
 ,,,,,,,,,,4,2.52,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,90-83,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=442
-,,,,,,,,,,4,2.48,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Layup,,,90-83,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=443
+,,,,,,,,,,4,2.48,Portland Trail Blazers,shot,,,Carter,,,,,,,Aldridge,,,,missed,,Layup,,,90-83,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=443
 ,,,,,,,,,,4,2.45,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,90-83,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=444
-,,,,,,,,,,4,2.27,Dallas Mavericks,turnover,,,,,,,,,,Wright,,,Lost Ball,,,,,,90-83,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=445
+,,,,,,,,,,4,2.27,Dallas Mavericks,turnover,,,,,,,,,,Wright,,,Lost Ball,,Babbitt,,,,90-83,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=445
 ,,,,,,,,,,4,2.20,Portland Trail Blazers,shot,,,,,,,,,,Maynor,,,,missed,,3PT Jump Shot,,,90-83,25,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=446
 ,,,,,,,,,,4,2.19,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,90-83,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=447
 ,,,,,,,,,,4,2.15,Dallas Mavericks,shot,Collison,,,,,,,,,Marion,2,,,made,,Layup,,,92-83,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=448
@@ -391,7 +391,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.58,Portland Trail Blazers,shot,Maynor,,,,,,,,,Lillard,2,,,made,,Driving Layup,,,92-85,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=451
 ,,,,,,,,,,4,1.45,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Running Jump Shot,,,94-85,10,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=452
 ,,,,,,,,,,4,1.34,Portland Trail Blazers,shot,Barton,,,,,,,,,Aldridge,2,,,made,,Alley Oop Layup,,,94-87,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=453
-,,,,,,,,,,4,1.10,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,94-87,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=454
+,,,,,,,,,,4,1.10,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Aldridge,,,,94-87,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=454
 ,,,,,,,,,,4,1.05,Portland Trail Blazers,shot,Barton,,,,,,,,,Maynor,2,,,made,,Layup,,,94-89,1,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=455
 ,,,,,,,,,,4,0.44,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Jump Shot,,,94-89,12,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=456
 ,,,,,,,,,,4,0.44,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,94-89,,http://stats.nba.com/cvp.html?GameID=0021201153&GameEventID=457

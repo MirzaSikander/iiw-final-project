@@ -46,7 +46,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.42,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,3PT Jump Shot,,,19-16,25,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=52
 ,,,,,,,,,,1,5.41,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=53
 ,,,,,,,,,,1,5.24,Portland Trail Blazers,shot,Batum,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=54
-,,,,,,,,,,1,5.17,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=55
+,,,,,,,,,,1,5.17,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,Batum,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=55
 ,,,,,,,,,,1,5.09,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,19-19,26,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=56
 ,,,,,,,,,,1,5.08,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=57
 ,,,,,,,,,,1,4.52,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Jump Shot,,,19-19,21,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=58
@@ -120,7 +120,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.13,Portland Trail Blazers,substitute,,,,Barton,,Claver,,,,,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=134
 ,,,,,,,,,,2,9.04,Portland Trail Blazers,shot,Price,,,,,,,,,Hickson,2,,,made,,Dunk,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=135
 ,,,,,,,,,,2,8.44,Washington Wizards,shot,Ariza,,,,,,,,,Booker,2,,,made,,Layup,,,38-35,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=136
-,,,,,,,,,,2,8.29,Portland Trail Blazers,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,38-35,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=137
+,,,,,,,,,,2,8.29,Portland Trail Blazers,turnover,,,,,,,,,,Price,,,Bad Pass,,Ariza,,,,38-35,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=137
 ,,,,,,,,,,2,8.25,Washington Wizards,turnover,,,,,,,,,,Wall,,,Traveling,,,,,,38-35,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=138
 ,,,,,,,,,,2,8.09,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Driving Jump Shot,,,38-37,7,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=141
 ,,,,,,,,,,2,7.51,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,38-37,20,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=142
@@ -134,13 +134,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.52,Washington Wizards,foul,,,,,,,,,,Crawford,,,,,,Shooting,,,40-41,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=150
 ,,,,,,,,,,2,6.52,Washington Wizards,substitute,,,,Nene,,Seraphin,,,,,,,,,,,,,40-41,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=151
 ,,,,,,,,,,2,6.52,Portland Trail Blazers,free throw,,,,,,,1,,1,Hickson,1,,foul,made,,,,,40-42,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=152
-,,,,,,,,,,2,6.42,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,40-42,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=154
+,,,,,,,,,,2,6.42,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Batum,,,,40-42,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=154
 ,,,,,,,,,,2,6.39,Washington Wizards,foul,,,,,,,,,,Booker,,,,,,Shooting,,,40-42,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=155
 ,,,,,,,,,,2,6.39,Portland Trail Blazers,free throw,,,,,,,1,,2,Batum,1,,foul,made,,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=156
 ,,,,,,,,,,2,6.39,Portland Trail Blazers,substitute,,,,Leonard,,Hickson,,,,,,,,,,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=158
 ,,,,,,,,,,2,6.39,Washington Wizards,substitute,,,,Beal,,Crawford,,,,,,,,,,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=159
 ,,,,,,,,,,2,6.39,Portland Trail Blazers,free throw,,,,,,,2,,2,Batum,1,,foul,made,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=160
-,,,,,,,,,,2,6.25,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=162
+,,,,,,,,,,2,6.25,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Batum,,,,40-44,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=162
 ,,,,,,,,,,2,6.16,Portland Trail Blazers,shot,Price,,,,,,,,,Leonard,2,,,made,,Jump Shot,,,40-46,21,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=163
 ,,,,,,,,,,2,6.06,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=164
 ,,,,,,,,,,2,6.06,Washington Wizards,substitute,,,,Price,,Wall,,,,,,,,,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=166
@@ -163,7 +163,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.34,Washington Wizards,substitute,,,,Okafor,,Booker,,,,,,,,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=186
 ,,,,,,,,,,2,4.34,Portland Trail Blazers,substitute,,,,Lillard,,Price,,,,,,,,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=194
 ,,,,,,,,,,2,4.34,Portland Trail Blazers,substitute,,,,Babbitt,,Aldridge,,,,,,,,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=195
-,,,,,,,,,,2,4.30,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=190
+,,,,,,,,,,2,4.30,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Nene,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=190
 ,,,,,,,,,,2,4.26,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,Jump Shot,,,42-48,16,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=191
 ,,,,,,,,,,2,4.24,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=192
 ,,,,,,,,,,2,4.21,Washington Wizards,shot,Okafor,,,,,,,,,Nene,2,,,made,,Jump Shot,,,44-48,14,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=193
@@ -192,7 +192,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.20,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=219
 ,,,,,,,,,,2,2.20,Washington Wizards,free throw,,,,,,,2,,2,Okafor,,,foul,missed,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=220
 ,,,,,,,,,,2,2.19,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=222
-,,,,,,,,,,2,2.13,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Layup,,,46-51,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=223
+,,,,,,,,,,2,2.13,Washington Wizards,shot,,,Hickson,,,,,,,Nene,,,,missed,,Layup,,,46-51,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=223
 ,,,,,,,,,,2,2.11,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=224
 ,,,,,,,,,,2,2.03,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,3PT Jump Shot,,,46-51,24,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=225
 ,,,,,,,,,,2,2.02,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=226
@@ -234,7 +234,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.35,Portland Trail Blazers,shot,Batum,,,,,,,,,Hickson,2,,,made,,Layup,,,54-58,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=265
 ,,,,,,,,,,3,8.14,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,Jump Shot,,,54-58,15,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=266
 ,,,,,,,,,,3,8.13,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=267
-,,,,,,,,,,3,8.08,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=268
+,,,,,,,,,,3,8.08,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Nene,,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=268
 ,,,,,,,,,,3,7.59,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,Layup,,,54-58,3,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=269
 ,,,,,,,,,,3,7.57,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=270
 ,,,,,,,,,,3,7.48,Washington Wizards,foul,,,,,,,,,,Nene,,,,,,Shooting,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=271
@@ -243,7 +243,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.48,Portland Trail Blazers,free throw,,,,,,,2,,2,Aldridge,1,,foul,made,,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=274
 ,,,,,,,,,,3,7.25,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Fadeaway Jumper,,,54-59,12,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=277
 ,,,,,,,,,,3,7.25,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=278
-,,,,,,,,,,3,7.20,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=279
+,,,,,,,,,,3,7.20,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Nene,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=279
 ,,,,,,,,,,3,7.15,Washington Wizards,shot,Webster,,,,,,,,,Beal,2,,,made,,Dunk,,,56-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=280
 ,,,,,,,,,,3,6.53,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Turnaround Fadeaway Shot,,,56-59,7,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=281
 ,,,,,,,,,,3,6.52,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,56-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=282
@@ -257,7 +257,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.57,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=291
 ,,,,,,,,,,3,5.40,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,58-59,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=292
 ,,,,,,,,,,3,5.38,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=293
-,,,,,,,,,,3,5.24,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=294
+,,,,,,,,,,3,5.24,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,Aldridge,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=294
 ,,,,,,,,,,3,5.20,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Offensive Charge,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=295
 ,,,,,,,,,,3,5.20,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Foul,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=296
 ,,,,,,,,,,3,5.20,Washington Wizards,substitute,,,,Wall,,Price,,,,,,,,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=297
@@ -268,9 +268,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.55,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=302
 ,,,,,,,,,,3,4.38,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Jump Shot,,,58-59,22,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=303
 ,,,,,,,,,,3,4.37,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=304
-,,,,,,,,,,3,4.24,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Layup,,,58-59,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=305
+,,,,,,,,,,3,4.24,Portland Trail Blazers,shot,,,Okafor,,,,,,,Aldridge,,,,missed,,Layup,,,58-59,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=305
 ,,,,,,,,,,3,4.21,Washington Wizards,rebound,,,,,,,,,,Beal,,,,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=306
-,,,,,,,,,,3,4.18,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,Layup,,,58-59,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=307
+,,,,,,,,,,3,4.18,Washington Wizards,shot,,,Batum,,,,,,,Beal,,,,missed,,Layup,,,58-59,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=307
 ,,,,,,,,,,3,4.18,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=308
 ,,,,,,,,,,3,4.18,Portland Trail Blazers,foul,,,,,,,,,,Batum,,,,,,Shooting,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=309
 ,,,,,,,,,,3,4.18,Washington Wizards,free throw,,,,,,,1,,2,Nene,1,,foul,made,,,,,59-59,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=310
@@ -332,7 +332,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.09,Portland Trail Blazers,free throw,,,,,,,2,,2,Claver,1,,foul,made,,,,,69-64,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=378
 ,,,,,,,,,,3,0.00,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Running Jump Shot,,,69-64,9,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=380
 ,,,,,,,,,,3,0.00,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,69-64,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=381
-,,,,,,,,,,4,11.49,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,69-64,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=385
+,,,,,,,,,,4,11.49,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Aldridge,,,,69-64,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=385
 ,,,,,,,,,,4,11.29,Portland Trail Blazers,shot,Aldridge,,,,,,,,,Price,3,,,made,,3PT Jump Shot,,,69-67,26,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=386
 ,,,,,,,,,,4,11.07,Washington Wizards,shot,,,,,,,,,,Crawford,2,,,made,,Fadeaway Jumper,,,71-67,9,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=387
 ,,,,,,,,,,4,10.50,Washington Wizards,foul,,,,,,,,,,Seraphin,,,,,,Shooting,,,71-67,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=388
@@ -374,7 +374,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.18,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,87-80,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=431
 ,,,,,,,,,,4,5.08,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Running Jump Shot,,,87-80,5,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=432
 ,,,,,,,,,,4,5.06,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,87-80,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=433
-,,,,,,,,,,4,5.02,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Layup,,,87-80,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=466
+,,,,,,,,,,4,5.02,Washington Wizards,shot,,,Batum,,,,,,,Okafor,,,,missed,,Layup,,,87-80,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=466
 ,,,,,,,,,,4,5.02,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,87-80,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=467
 ,,,,,,,,,,4,4.50,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Jump Hook Shot,,,87-80,10,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=435
 ,,,,,,,,,,4,4.49,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,87-80,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=436
@@ -398,9 +398,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.55,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=457
 ,,,,,,,,,,4,1.33,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Jump Shot,,,91-90,20,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=458
 ,,,,,,,,,,4,1.33,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=459
-,,,,,,,,,,4,1.24,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=460
+,,,,,,,,,,4,1.24,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Nene,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=460
 ,,,,,,,,,,4,1.18,Washington Wizards,shot,Nene,,,,,,,,,Webster,2,,,made,,Dunk,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=461
-,,,,,,,,,,4,1.00,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,,,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=462
+,,,,,,,,,,4,1.00,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,Wall,,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=462
 ,,,,,,,,,,4,0.58,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Driving Dunk,,,95-90,1,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=463
 ,,,,,,,,,,4,0.58,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,95-90,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=464
 ,,,,,,,,,,4,0.58,Portland Trail Blazers,substitute,,,,Babbitt,,Hickson,,,,,,,,,,,,,95-90,,http://stats.nba.com/cvp.html?GameID=0021200613&GameEventID=468

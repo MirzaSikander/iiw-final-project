@@ -10,7 +10,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.24,Charlotte Bobcats,shot,Walker,,,,,,,,,Henderson,2,,,made,,Layup,,,5-6,3,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=14
 ,,,,,,,,,,1,10.08,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,5-6,19,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=15
 ,,,,,,,,,,1,10.07,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=16
-,,,,,,,,,,1,10.00,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=17
+,,,,,,,,,,1,10.00,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,Thompson,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=17
 ,,,,,,,,,,1,9.54,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Running Jump Shot,,,5-8,5,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=18
 ,,,,,,,,,,1,9.38,Charlotte Bobcats,shot,,,,,,,,,,Mullens,,,,missed,,3PT Jump Shot,,,5-8,25,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=19
 ,,,,,,,,,,1,9.37,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,5-8,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=20
@@ -25,7 +25,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.47,Sacramento Kings,free throw,,,,,,,2,,2,Cousins,,,foul,missed,,,,,7-10,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=29
 ,,,,,,,,,,1,8.47,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,7-10,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=31
 ,,,,,,,,,,1,8.21,Charlotte Bobcats,shot,Mullens,,,,,,,,,Kidd-Gilchrist,2,,,made,,Jump Shot,,,9-10,20,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=32
-,,,,,,,,,,1,8.10,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=33
+,,,,,,,,,,1,8.10,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,Diop,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=33
 ,,,,,,,,,,1,7.58,Charlotte Bobcats,shot,Henderson,,,,,,,,,Walker,3,,,made,,3PT Jump Shot,,,12-10,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=34
 ,,,,,,,,,,1,7.48,Sacramento Kings,shot,Thomas,,,,,,,,,Thompson,2,,,made,,Layup,,,12-12,2,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=35
 ,,,,,,,,,,1,7.24,Charlotte Bobcats,shot,Walker,,,,,,,,,Kidd-Gilchrist,2,,,made,,Jump Shot,,,14-12,21,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=36
@@ -58,7 +58,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.57,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,23-14,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=66
 ,,,,,,,,,,1,3.41,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Floating Jump Shot,,,23-14,9,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=67
 ,,,,,,,,,,1,3.40,Charlotte Bobcats,rebound,,,,,,,,,,Diop,,,,,,,,,23-14,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=68
-,,,,,,,,,,1,3.38,Charlotte Bobcats,turnover,,,,,,,,,,Diop,,,Lost Ball,,,,,,23-14,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=69
+,,,,,,,,,,1,3.38,Charlotte Bobcats,turnover,,,,,,,,,,Diop,,,Lost Ball,,Thompson,,,,23-14,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=69
 ,,,,,,,,,,1,3.38,Charlotte Bobcats,foul,,,,,,,,,,Mullens,,,,,,Shooting,,,23-14,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=70
 ,,,,,,,,,,1,3.38,Sacramento Kings,free throw,,,,,,,1,,2,Thompson,1,,foul,made,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=71
 ,,,,,,,,,,1,3.38,Charlotte Bobcats,substitute,,,,Sessions,,Henderson,,,,,,,,,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=73
@@ -134,12 +134,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.52,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Floating Jump Shot,,,29-29,10,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=163
 ,,,,,,,,,,2,8.51,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=164
 ,,,,,,,,,,2,8.50,Sacramento Kings,shot,,,,,,,,,,Hayes,2,,,made,,Layup,,,29-31,3,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=165
-,,,,,,,,,,2,8.30,Charlotte Bobcats,turnover,,,,,,,,,,McRoberts,,,Bad Pass,,,,,,29-31,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=166
+,,,,,,,,,,2,8.30,Charlotte Bobcats,turnover,,,,,,,,,,McRoberts,,,Bad Pass,,Fredette,,,,29-31,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=166
 ,,,,,,,,,,2,8.27,Charlotte Bobcats,foul,,,,,,,,,,Sessions,,,,,,Shooting,,,29-31,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=167
 ,,,,,,,,,,2,8.27,Charlotte Bobcats,substitute,,,,Walker,,Sessions,,,,,,,,,,,,,29-31,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=170
 ,,,,,,,,,,2,8.27,Sacramento Kings,free throw,,,,,,,1,,2,Thornton,1,,foul,made,,,,,29-32,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=172
 ,,,,,,,,,,2,8.27,Sacramento Kings,free throw,,,,,,,2,,2,Thornton,1,,foul,made,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=174
-,,,,,,,,,,2,8.02,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=176
+,,,,,,,,,,2,8.02,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,Thornton,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=176
 ,,,,,,,,,,2,7.54,Charlotte Bobcats,violation,,,,,,,,,,Gordon,,,Kicked Ball,,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=177
 ,,,,,,,,,,2,7.54,Charlotte Bobcats,substitute,,,,Mullens,,Adrien,,,,,,,,,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=178
 ,,,,,,,,,,2,7.45,Sacramento Kings,shot,Hayes,,,,,,,,,Thornton,3,,,made,,3PT Jump Shot,,,29-36,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=179
@@ -150,7 +150,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.00,Charlotte Bobcats,shot,Walker,,,,,,,,,Mullens,2,,,made,,Fadeaway Jumper,,,31-36,16,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=184
 ,,,,,,,,,,2,6.45,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,Jump Shot,,,31-36,18,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=185
 ,,,,,,,,,,2,6.44,Charlotte Bobcats,rebound,,,,,,,,,,McRoberts,,,,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=186
-,,,,,,,,,,2,6.24,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,31-36,4,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=187
+,,,,,,,,,,2,6.24,Charlotte Bobcats,shot,,,Patterson,,,,,,,Henderson,,,,missed,,Jump Shot,,,31-36,4,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=187
 ,,,,,,,,,,2,6.22,Sacramento Kings,rebound,,,,,,,,,,Fredette,,,,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=188
 ,,,,,,,,,,2,6.19,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Bad Pass,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=189
 ,,,,,,,,,,2,6.19,Sacramento Kings,substitute,,,,Thomas,,Fredette,,,,,,,,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=190
@@ -170,7 +170,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.18,Sacramento Kings,shot,Thomas,,,,,,,,,Thornton,3,,,made,,3PT Jump Shot,,,37-41,24,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=205
 ,,,,,,,,,,2,3.57,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,37-41,11,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=206
 ,,,,,,,,,,2,3.56,Sacramento Kings,rebound,,,,,,,,,,Patterson,,,,,,,,,37-41,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=207
-,,,,,,,,,,2,3.45,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,,,,,37-41,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=208
+,,,,,,,,,,2,3.45,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,Mullens,,,,37-41,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=208
 ,,,,,,,,,,2,3.30,Charlotte Bobcats,turnover,,,,,,,,,,McRoberts,,,Bad Pass,,,,,,37-41,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=209
 ,,,,,,,,,,2,3.30,Sacramento Kings,substitute,,,,Thompson,,Patterson,,,,,,,,,,,,,37-41,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=210
 ,,,,,,,,,,2,3.12,Sacramento Kings,shot,Thornton,,,,,,,,,Thompson,2,,,made,,Layup,,,37-43,2,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=211
@@ -194,7 +194,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.56,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=234
 ,,,,,,,,,,2,1.43,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,40-45,22,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=235
 ,,,,,,,,,,2,1.43,Charlotte Bobcats,rebound,,,,,,,,,,Adrien,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=236
-,,,,,,,,,,2,1.29,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Bad Pass,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=237
+,,,,,,,,,,2,1.29,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Bad Pass,,Salmons,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=237
 ,,,,,,,,,,2,1.26,Charlotte Bobcats,foul,,,,,,,,,,Adrien,,,,,,Shooting,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=238
 ,,,,,,,,,,2,1.26,Sacramento Kings,free throw,,,,,,,1,,2,Evans,1,,foul,made,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=239
 ,,,,,,,,,,2,1.26,Sacramento Kings,free throw,,,,,,,2,,2,Evans,,,foul,missed,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=241
@@ -210,7 +210,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.17,Charlotte Bobcats,shot,,,,,,,,,,Adrien,,,,missed,,Jump Shot,,,40-51,18,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=252
 ,,,,,,,,,,2,0.17,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,40-51,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=253
 ,,,,,,,,,,2,0.00,Sacramento Kings,shot,,,,,,,,,,Evans,3,,,made,,3PT Fadeaway Jumper,,,40-54,26,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=254
-,,,,,,,,,,3,11.47,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Lost Ball,,,,,,40-54,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=260
+,,,,,,,,,,3,11.47,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Lost Ball,,Evans,,,,40-54,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=260
 ,,,,,,,,,,3,11.43,Sacramento Kings,shot,Evans,,,,,,,,,Thomas,2,,,made,,Layup,,,40-56,1,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=261
 ,,,,,,,,,,3,11.29,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,3PT Jump Shot,,,40-56,25,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=262
 ,,,,,,,,,,3,11.28,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,40-56,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=263
@@ -227,7 +227,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.38,Sacramento Kings,free throw,,,,,,,1,,2,Thompson,1,,foul,made,,,,,40-58,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=275
 ,,,,,,,,,,3,10.38,Sacramento Kings,free throw,,,,,,,2,,2,Thompson,1,,foul,made,,,,,40-59,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=277
 ,,,,,,,,,,3,10.28,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Personal,,,40-59,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=279
-,,,,,,,,,,3,10.17,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,40-59,8,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=280
+,,,,,,,,,,3,10.17,Charlotte Bobcats,shot,,,Cousins,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,40-59,8,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=280
 ,,,,,,,,,,3,10.17,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,40-59,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=281
 ,,,,,,,,,,3,10.07,Sacramento Kings,shot,Cousins,,,,,,,,,Thomas,3,,,made,,3PT Jump Shot,,,40-62,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=282
 ,,,,,,,,,,3,10.06,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,40-62,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=283
@@ -245,7 +245,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.05,Sacramento Kings,shot,,,,,,,,,,Hayes,,,,missed,,Jump Hook Shot,,,42-64,5,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=296
 ,,,,,,,,,,3,9.03,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,42-64,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=298
 ,,,,,,,,,,3,9.03,Sacramento Kings,shot,,,,,,,,,,Hayes,2,,,made,,Tip Shot,,,42-66,1,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=297
-,,,,,,,,,,3,8.46,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Lost Ball,,,,,,42-66,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=299
+,,,,,,,,,,3,8.46,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Lost Ball,,Salmons,,,,42-66,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=299
 ,,,,,,,,,,3,8.46,Charlotte Bobcats,foul,,,,,,,,,,Mullens,,,,,,Personal,,,42-66,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=300
 ,,,,,,,,,,3,8.46,Charlotte Bobcats,substitute,,,,McRoberts,,Mullens,,,,,,,,,,,,,42-66,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=301
 ,,,,,,,,,,3,8.31,Sacramento Kings,shot,,,,,,,,,,Thomas,3,,,made,,3PT Jump Shot,,,42-69,25,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=302
@@ -257,14 +257,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.10,Sacramento Kings,foul,,,,,,,,,,Salmons,,,,,,Personal,,,43-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=311
 ,,,,,,,,,,3,7.54,Charlotte Bobcats,shot,,,,,,,,,,McRoberts,,,,missed,,3PT Jump Shot,,,43-69,25,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=312
 ,,,,,,,,,,3,7.53,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,43-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=313
-,,,,,,,,,,3,7.53,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Lost Ball,,,,,,43-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=314
+,,,,,,,,,,3,7.53,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Lost Ball,,Walker,,,,43-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=314
 ,,,,,,,,,,3,7.53,Sacramento Kings,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,43-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=315
 ,,,,,,,,,,3,7.53,Charlotte Bobcats,free throw,,,,,,,1,,2,Walker,1,,foul,made,,,,,44-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=316
 ,,,,,,,,,,3,7.53,Charlotte Bobcats,free throw,,,,,,,2,,2,Walker,1,,foul,made,,,,,45-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=318
 ,,,,,,,,,,3,7.37,Sacramento Kings,shot,,,,,,,,,,Hayes,,,,missed,,Jump Hook Shot,,,45-69,8,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=320
 ,,,,,,,,,,3,7.36,Charlotte Bobcats,rebound,,,,,,,,,,Diop,,,,,,,,,45-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=321
 ,,,,,,,,,,3,7.31,Charlotte Bobcats,shot,Walker,,,,,,,,,McRoberts,2,,,made,,Layup,,,47-69,3,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=322
-,,,,,,,,,,3,7.13,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Reverse Layup,,,47-69,3,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=323
+,,,,,,,,,,3,7.13,Sacramento Kings,shot,,,McRoberts,,,,,,,Evans,,,,missed,,Reverse Layup,,,47-69,3,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=323
 ,,,,,,,,,,3,7.13,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,47-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=324
 ,,,,,,,,,,3,7.04,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,3PT Jump Shot,,,47-69,24,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=325
 ,,,,,,,,,,3,7.04,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,47-69,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=326
@@ -283,9 +283,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.37,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,3PT Jump Shot,,,50-72,24,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=344
 ,,,,,,,,,,3,5.37,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,50-72,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=345
 ,,,,,,,,,,3,5.25,Sacramento Kings,shot,Evans,,,,,,,,,Salmons,3,,,made,,3PT Jump Shot,,,50-75,24,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=346
-,,,,,,,,,,3,5.14,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,50-75,4,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=347
+,,,,,,,,,,3,5.14,Charlotte Bobcats,shot,,,Evans,,,,,,,Sessions,,,,missed,,Jump Shot,,,50-75,4,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=347
 ,,,,,,,,,,3,5.12,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=348
-,,,,,,,,,,3,5.08,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=349
+,,,,,,,,,,3,5.08,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Walker,,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=349
 ,,,,,,,,,,3,5.04,Sacramento Kings,foul,,,,,,,,,,Hayes,,,,,,Shooting,,,50-75,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=350
 ,,,,,,,,,,3,5.04,Charlotte Bobcats,free throw,,,,,,,1,,2,Henderson,1,,foul,made,,,,,51-75,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=351
 ,,,,,,,,,,3,5.04,Charlotte Bobcats,substitute,,,,Adrien,,Walker,,,,,,,,,,,,,51-75,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=353
@@ -318,7 +318,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.54,Charlotte Bobcats,free throw,,,,,,,1,,2,Sessions,1,,foul,made,,,,,53-88,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=392
 ,,,,,,,,,,3,2.54,Charlotte Bobcats,free throw,,,,,,,2,,2,Sessions,1,,foul,made,,,,,54-88,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=394
 ,,,,,,,,,,3,2.39,Sacramento Kings,shot,,,,,,,,,,Salmons,3,,,made,,3PT Jump Shot,,,54-91,26,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=396
-,,,,,,,,,,3,2.19,Charlotte Bobcats,turnover,,,,,,,,,,Taylor,,,Lost Ball,,,,,,54-91,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=397
+,,,,,,,,,,3,2.19,Charlotte Bobcats,turnover,,,,,,,,,,Taylor,,,Lost Ball,,Thornton,,,,54-91,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=397
 ,,,,,,,,,,3,2.12,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,54-91,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=398
 ,,,,,,,,,,3,2.12,Charlotte Bobcats,rebound,,,,,,,,,,McRoberts,,,,,,,,,54-91,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=399
 ,,,,,,,,,,3,2.05,Charlotte Bobcats,shot,,,,,,,,,,Taylor,,,,missed,,Jump Shot,,,54-91,4,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=400
@@ -331,7 +331,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.41,Sacramento Kings,substitute,,,,Fredette,,Salmons,,,,,,,,,,,,,54-94,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=408
 ,,,,,,,,,,3,1.41,Sacramento Kings,free throw,,,,,,,2,,2,Douglas,1,,foul,made,,,,,54-95,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=409
 ,,,,,,,,,,3,1.32,Charlotte Bobcats,shot,,,,,,,,,,Taylor,2,,,made,,Driving Dunk,,,56-95,1,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=411
-,,,,,,,,,,3,1.14,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Running Jump Shot,,,56-95,7,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=412
+,,,,,,,,,,3,1.14,Sacramento Kings,shot,,,McRoberts,,,,,,,Fredette,,,,missed,,Running Jump Shot,,,56-95,7,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=412
 ,,,,,,,,,,3,1.13,Charlotte Bobcats,rebound,,,,,,,,,,Gordon,,,,,,,,,56-95,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=413
 ,,,,,,,,,,3,1.10,Charlotte Bobcats,shot,Gordon,,,,,,,,,Taylor,2,,,made,,Slam Dunk,,,58-95,1,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=414
 ,,,,,,,,,,3,0.44,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,58-95,7,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=415
@@ -354,7 +354,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.46,Sacramento Kings,shot,Hayes,,,,,,,,,Thornton,2,,,made,,Jump Shot,,,59-99,21,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=438
 ,,,,,,,,,,4,11.32,Charlotte Bobcats,shot,,,,,,,,,,McRoberts,,,,missed,,Jump Shot,,,59-99,5,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=440
 ,,,,,,,,,,4,11.31,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,59-99,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=441
-,,,,,,,,,,4,11.28,Sacramento Kings,shot,,,,,,,,,,Douglas,,,,missed,,Driving Layup,,,59-99,4,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=442
+,,,,,,,,,,4,11.28,Sacramento Kings,shot,,,Kidd-Gilchrist,,,,,,,Douglas,,,,missed,,Driving Layup,,,59-99,4,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=442
 ,,,,,,,,,,4,11.28,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,59-99,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=443
 ,,,,,,,,,,4,11.23,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Traveling,,,,,,59-99,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=444
 ,,,,,,,,,,4,11.08,Charlotte Bobcats,shot,,,,,,,,,,McRoberts,,,,missed,,3PT Jump Shot,,,59-99,24,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=445
@@ -393,7 +393,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.25,Sacramento Kings,substitute,,,,Aldrich,,Cousins,,,,,,,,,,,,,65-107,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=485
 ,,,,,,,,,,4,7.25,Charlotte Bobcats,free throw,,,,,,,2,,2,Kidd-Gilchrist,1,,foul,made,,,,,66-107,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=486
 ,,,,,,,,,,4,7.23,Sacramento Kings,turnover,,,,,,,,,,Patterson,,,Bad Pass,,,,,,66-107,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=488
-,,,,,,,,,,4,7.08,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Dunk,,,66-107,3,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=489
+,,,,,,,,,,4,7.08,Charlotte Bobcats,shot,,,Aldrich,,,,,,,Kidd-Gilchrist,,,,missed,,Dunk,,,66-107,3,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=489
 ,,,,,,,,,,4,7.05,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,66-107,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=490
 ,,,,,,,,,,4,6.51,Sacramento Kings,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,66-107,18,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=491
 ,,,,,,,,,,4,6.50,Charlotte Bobcats,rebound,,,,,,,,,,Williams,,,,,,,,,66-107,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=492
@@ -430,13 +430,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.23,Charlotte Bobcats,free throw,,,,,,,2,,2,Taylor,1,,foul,made,,,,,78-117,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=529
 ,,,,,,,,,,4,2.06,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,3PT Jump Shot,,,78-117,26,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=531
 ,,,,,,,,,,4,2.02,Sacramento Kings,rebound,,,,,,,,,,Douglas,,,,,,,,,78-117,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=532
-,,,,,,,,,,4,1.50,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,78-117,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=533
+,,,,,,,,,,4,1.50,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Bad Pass,,McRoberts,,,,78-117,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=533
 ,,,,,,,,,,4,1.40,Charlotte Bobcats,shot,Williams,,,,,,,,,Diop,2,,,made,,Jump Shot,,,80-117,22,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=534
 ,,,,,,,,,,4,1.21,Sacramento Kings,shot,,,,,,,,,,Aldrich,,,,missed,,Jump Shot,,,80-117,3,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=535
 ,,,,,,,,,,4,1.19,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,80-117,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=536
 ,,,,,,,,,,4,1.14,Charlotte Bobcats,shot,,,,,,,,,,McRoberts,,,,missed,,Alley Oop Dunk,,,80-117,2,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=537
 ,,,,,,,,,,4,1.13,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,80-117,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=538
-,,,,,,,,,,4,0.59,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,80-117,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=539
+,,,,,,,,,,4,0.59,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Taylor,,,,80-117,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=539
 ,,,,,,,,,,4,0.51,Charlotte Bobcats,shot,McRoberts,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,83-117,24,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=540
 ,,,,,,,,,,4,0.33,Sacramento Kings,shot,,,,,,,,,,Douglas,,,,missed,,Jump Shot,,,83-117,14,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=541
 ,,,,,,,,,,4,0.33,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,83-117,,http://stats.nba.com/cvp.html?GameID=0021200884&GameEventID=542

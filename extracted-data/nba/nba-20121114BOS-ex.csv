@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.34,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,,22,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=2
 ,,,,,,,,,,1,11.33,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=3
-,,,,,,,,,,1,11.23,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=4
+,,,,,,,,,,1,11.23,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Garnett,,,,,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=4
 ,,,,,,,,,,1,11.17,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Jump Shot,,,0-2,16,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=5
 ,,,,,,,,,,1,10.51,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=6
 ,,,,,,,,,,1,10.36,Boston Celtics,shot,Garnett,,,,,,,,,Pierce,2,,,made,,Layup,,,0-4,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=7
@@ -33,7 +33,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.45,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Driving Finger Roll Layup,,,8-6,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=36
 ,,,,,,,,,,1,6.30,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Layup,,,8-6,2,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=38
 ,,,,,,,,,,1,6.28,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=39
-,,,,,,,,,,1,6.22,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=40
+,,,,,,,,,,1,6.22,Boston Celtics,shot,,,Millsap,,,,,,,Pierce,,,,missed,,Layup,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=40
 ,,,,,,,,,,1,6.20,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=41
 ,,,,,,,,,,1,6.16,Boston Celtics,foul,,,,,,,,,,Terry,,,,,,Personal,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=42
 ,,,,,,,,,,1,6.16,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=43
@@ -43,7 +43,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.55,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=49
 ,,,,,,,,,,1,5.45,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,8-6,17,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=51
 ,,,,,,,,,,1,5.44,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=52
-,,,,,,,,,,1,5.30,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Layup,,,8-6,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=54
+,,,,,,,,,,1,5.30,Boston Celtics,shot,,,Millsap,,,,,,,Rondo,,,,missed,,Layup,,,8-6,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=54
 ,,,,,,,,,,1,5.30,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=55
 ,,,,,,,,,,1,5.10,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,8-6,20,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=56
 ,,,,,,,,,,1,5.09,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=57
@@ -65,16 +65,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.24,Utah Jazz,substitute,,,,Foye,,Hayward,,,,,,,,,,,,,19-12,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=76
 ,,,,,,,,,,1,2.24,Boston Celtics,free throw,,,,,,,1,,2,Terry,1,,foul,made,,,,,19-13,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=77
 ,,,,,,,,,,1,2.24,Boston Celtics,free throw,,,,,,,2,,2,Terry,1,,foul,made,,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=79
-,,,,,,,,,,1,2.11,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=81
+,,,,,,,,,,1,2.11,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,Rondo,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=81
 ,,,,,,,,,,1,1.55,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,19-14,21,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=82
 ,,,,,,,,,,1,1.54,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=83
 ,,,,,,,,,,1,1.41,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,19-14,25,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=84
 ,,,,,,,,,,1,1.41,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=85
-,,,,,,,,,,1,1.32,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Layup,,,19-14,2,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=86
+,,,,,,,,,,1,1.32,Boston Celtics,shot,,,Williams,,,,,,,Green,,,,missed,,Layup,,,19-14,2,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=86
 ,,,,,,,,,,1,1.30,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,19-14,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=87
 ,,,,,,,,,,1,1.28,Boston Celtics,shot,,,,,,,,,,Green,2,,,made,,Tip Shot,,,19-16,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=88
 ,,,,,,,,,,1,1.15,Utah Jazz,shot,,,,,,,,,,Williams,2,,,made,,Jump Shot,,,21-16,18,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=89
-,,,,,,,,,,1,0.56,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,21-16,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=90
+,,,,,,,,,,1,0.56,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Foye,,,,21-16,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=90
 ,,,,,,,,,,1,0.52,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Shooting,,,21-16,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=91
 ,,,,,,,,,,1,0.52,Utah Jazz,free throw,,,,,,,1,,2,Favors,1,,foul,made,,,,,22-16,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=92
 ,,,,,,,,,,1,0.52,Boston Celtics,substitute,,,,Sullinger,,Bass,,,,,,,,,,,,,22-16,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=95
@@ -147,9 +147,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.25,Utah Jazz,free throw,,,,,,,1,,2,Favors,1,,foul,made,,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=182
 ,,,,,,,,,,2,7.25,Utah Jazz,free throw,,,,,,,2,,2,Favors,,,foul,missed,,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=184
 ,,,,,,,,,,2,7.24,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=186
-,,,,,,,,,,2,7.09,Boston Celtics,turnover,,,,,,,,,,Green,,,Lost Ball,,,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=187
+,,,,,,,,,,2,7.09,Boston Celtics,turnover,,,,,,,,,,Green,,,Lost Ball,,Millsap,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=187
 ,,,,,,,,,,2,7.06,Boston Celtics,substitute,,,,Rondo,,Barbosa,,,,,,,,,,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=189
-,,,,,,,,,,2,6.50,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Jump Shot,,,31-32,3,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=190
+,,,,,,,,,,2,6.50,Utah Jazz,shot,,,Garnett,,,,,,,Favors,,,,missed,,Jump Shot,,,31-32,3,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=190
 ,,,,,,,,,,2,6.47,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=191
 ,,,,,,,,,,2,6.34,Boston Celtics,turnover,,,,,,,,,,Lee,,,3 Second Violation,,,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=192
 ,,,,,,,,,,2,6.12,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Jump Shot,,,31-32,8,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=193
@@ -165,7 +165,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.19,Utah Jazz,shot,Millsap,,,,,,,,,Favors,2,,,made,,Layup,,,35-36,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=207
 ,,,,,,,,,,2,5.05,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,35-36,22,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=208
 ,,,,,,,,,,2,5.05,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,35-36,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=209
-,,,,,,,,,,2,4.59,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,35-36,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=210
+,,,,,,,,,,2,4.59,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,Garnett,,,,35-36,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=210
 ,,,,,,,,,,2,4.55,Boston Celtics,shot,Rondo,,,,,,,,,Pierce,2,,,made,,Fadeaway Jumper,,,35-38,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=211
 ,,,,,,,,,,2,4.55,Utah Jazz,foul,,,,,,,,,,Favors,,,,,,Shooting,,,35-38,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=212
 ,,,,,,,,,,2,4.55,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,35-38,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=213
@@ -177,7 +177,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.10,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=220
 ,,,,,,,,,,2,3.47,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Step Back Jump Shot,,,37-39,18,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=221
 ,,,,,,,,,,2,3.46,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=222
-,,,,,,,,,,2,3.42,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,37-39,4,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=223
+,,,,,,,,,,2,3.42,Utah Jazz,shot,,,Pierce,,,,,,,Millsap,,,,missed,,Jump Shot,,,37-39,4,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=223
 ,,,,,,,,,,2,3.41,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=224
 ,,,,,,,,,,2,3.41,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Loose ball,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=225
 ,,,,,,,,,,2,3.41,Boston Celtics,free throw,,,,,,,1,,2,Pierce,,,foul,missed,,,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=226
@@ -185,17 +185,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.41,Boston Celtics,substitute,,,,Terry,,Lee,,,,,,,,,,,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=228
 ,,,,,,,,,,2,3.41,Utah Jazz,substitute,,,,Williams,,Favors,,,,,,,,,,,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=229
 ,,,,,,,,,,2,3.41,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,37-40,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=230
-,,,,,,,,,,2,3.18,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Layup,,,37-40,2,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=232
+,,,,,,,,,,2,3.18,Utah Jazz,shot,,,Bass,,,,,,,Williams,,,,missed,,Layup,,,37-40,2,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=232
 ,,,,,,,,,,2,3.16,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,37-40,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=233
 ,,,,,,,,,,2,3.12,Boston Celtics,shot,Rondo,,,,,,,,,Wilcox,2,,,made,,Alley Oop Dunk,,,37-42,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=234
-,,,,,,,,,,2,3.06,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,37-42,4,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=235
+,,,,,,,,,,2,3.06,Utah Jazz,shot,,,Bass,,,,,,,Williams,,,,missed,,Jump Shot,,,37-42,4,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=235
 ,,,,,,,,,,2,3.02,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,37-42,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=236
 ,,,,,,,,,,2,2.58,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Traveling,,,,,,37-42,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=237
 ,,,,,,,,,,2,2.58,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,37-42,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=238
 ,,,,,,,,,,2,2.58,Utah Jazz,substitute,,,,Hayward,,Foye,,,,,,,,,,,,,37-42,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=240
 ,,,,,,,,,,2,2.35,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Running Hook Shot,,,39-42,8,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=241
 ,,,,,,,,,,2,2.19,Boston Celtics,shot,Rondo,,,,,,,,,Wilcox,2,,,made,,Alley Oop Layup,,,39-44,2,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=242
-,,,,,,,,,,2,1.49,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=244
+,,,,,,,,,,2,1.49,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,Wilcox,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=244
 ,,,,,,,,,,2,1.46,Boston Celtics,foul,,,,,,,,,,Wilcox,,,,,,Offensive Charge,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=245
 ,,,,,,,,,,2,1.46,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Foul,,,,,,39-44,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=246
 ,,,,,,,,,,2,1.22,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,39-44,26,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=247
@@ -239,8 +239,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.30,Utah Jazz,free throw,,,,,,,2,,2,Williams,1,,foul,made,,,,,51-49,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=297
 ,,,,,,,,,,3,9.17,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,51-49,13,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=299
 ,,,,,,,,,,3,9.16,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,51-49,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=300
-,,,,,,,,,,3,9.04,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,51-49,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=302
-,,,,,,,,,,3,8.49,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Layup,,,51-49,2,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=304
+,,,,,,,,,,3,9.04,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,Terry,,,,51-49,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=302
+,,,,,,,,,,3,8.49,Boston Celtics,shot,,,Williams,,,,,,,Bass,,,,missed,,Layup,,,51-49,2,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=304
 ,,,,,,,,,,3,8.47,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,51-49,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=305
 ,,,,,,,,,,3,8.31,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,51-49,22,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=307
 ,,,,,,,,,,3,8.30,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,51-49,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=308
@@ -264,20 +264,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.28,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,56-54,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=329
 ,,,,,,,,,,3,6.07,Utah Jazz,shot,Williams,,,,,,,,,Millsap,2,,,made,,Layup,,,58-54,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=331
 ,,,,,,,,,,3,5.52,Boston Celtics,shot,Rondo,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,58-57,26,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=332
-,,,,,,,,,,3,5.30,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,58-57,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=333
+,,,,,,,,,,3,5.30,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Pierce,,,,58-57,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=333
 ,,,,,,,,,,3,5.24,Boston Celtics,shot,,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,58-60,26,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=334
 ,,,,,,,,,,3,5.03,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,58-60,11,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=335
 ,,,,,,,,,,3,5.03,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=336
 ,,,,,,,,,,3,5.03,Boston Celtics,foul,,,,,,,,,,Terry,,,,,,Shooting,,,58-60,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=337
 ,,,,,,,,,,3,5.03,Utah Jazz,free throw,,,,,,,1,,2,Hayward,1,,foul,made,,,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=338
 ,,,,,,,,,,3,5.03,Utah Jazz,free throw,,,,,,,2,,2,Hayward,1,,foul,made,,,,,60-60,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=342
-,,,,,,,,,,3,4.55,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Jump Shot,,,60-60,3,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=344
+,,,,,,,,,,3,4.55,Boston Celtics,shot,,,Williams,,,,,,,Rondo,,,,missed,,Jump Shot,,,60-60,3,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=344
 ,,,,,,,,,,3,4.55,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,60-60,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=345
 ,,,,,,,,,,3,4.55,Boston Celtics,substitute,,,,Green,,Terry,,,,,,,,,,,,,60-60,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=346
 ,,,,,,,,,,3,4.55,Boston Celtics,substitute,,,,Barbosa,,Rondo,,,,,,,,,,,,,60-60,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=347
 ,,,,,,,,,,3,4.42,Boston Celtics,shot,Pierce,,,,,,,,,Barbosa,2,,,made,,Running Bank Shot,,,60-62,5,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=349
-,,,,,,,,,,3,4.24,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,,,,,60-62,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=350
-,,,,,,,,,,3,4.19,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,60-62,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=351
+,,,,,,,,,,3,4.24,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,Pierce,,,,60-62,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=350
+,,,,,,,,,,3,4.19,Boston Celtics,shot,,,Hayward,,,,,,,Pierce,,,,missed,,Layup,,,60-62,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=351
 ,,,,,,,,,,3,4.19,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,60-62,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=352
 ,,,,,,,,,,3,4.09,Boston Celtics,shot,,,,,,,,,,Barbosa,2,,,made,,Running Bank Shot,,,60-64,8,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=353
 ,,,,,,,,,,3,3.50,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,3PT Jump Shot,,,60-64,26,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=354
@@ -335,7 +335,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.29,Boston Celtics,free throw,,,,,,,1,,2,Barbosa,,,foul,missed,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=416
 ,,,,,,,,,,4,9.29,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=417
 ,,,,,,,,,,4,9.29,Boston Celtics,free throw,,,,,,,2,,2,Barbosa,1,,foul,made,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=418
-,,,,,,,,,,4,9.08,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Lost Ball,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=421
+,,,,,,,,,,4,9.08,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Lost Ball,,Lee,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=421
 ,,,,,,,,,,4,8.59,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,74-78,19,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=422
 ,,,,,,,,,,4,8.59,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=423
 ,,,,,,,,,,4,8.41,Boston Celtics,shot,Garnett,,,,,,,,,Barbosa,2,,,made,,Layup,,,74-80,1,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=424
@@ -377,7 +377,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.40,Boston Celtics,free throw,,,,,,,1,,1,Green,1,,foul,made,,,,,88-93,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=484
 ,,,,,,,,,,4,3.38,Utah Jazz,substitute,,,,Hayward,,Foye,,,,,,,,,,,,,88-93,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=486
 ,,,,,,,,,,4,3.22,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Layup,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=487
-,,,,,,,,,,4,3.05,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=489
+,,,,,,,,,,4,3.05,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Favors,,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=489
 ,,,,,,,,,,4,2.53,Boston Celtics,foul,,,,,,,,,,Bass,,,,,,Shooting,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=490
 ,,,,,,,,,,4,2.53,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=492
 ,,,,,,,,,,4,2.53,Utah Jazz,free throw,,,,,,,1,,2,Jefferson,1,,foul,made,,,,,91-93,,http://stats.nba.com/cvp.html?GameID=0021200110&GameEventID=496

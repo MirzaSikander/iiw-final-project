@@ -5,14 +5,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.19,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Alley Oop Dunk,,,2-0,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=5
 ,,,,,,,,,,1,11.18,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=6
 ,,,,,,,,,,1,11.12,San Antonio Spurs,shot,,,,,,,,,,Duncan,2,,,made,,Layup,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=7
-,,,,,,,,,,1,10.48,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Jump Shot,,,2-2,15,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=8
+,,,,,,,,,,1,10.48,Portland Trail Blazers,shot,,,Green,,,,,,,Matthews,,,,missed,,Jump Shot,,,2-2,15,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=8
 ,,,,,,,,,,1,10.46,San Antonio Spurs,rebound,,,,,,,,,,Joseph,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=9
 ,,,,,,,,,,1,10.32,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Bank Shot,,,2-2,13,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=10
 ,,,,,,,,,,1,10.31,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=11
 ,,,,,,,,,,1,10.28,San Antonio Spurs,shot,,,,,,,,,,Leonard,2,,,made,,Jump Shot,,,2-4,14,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=12
 ,,,,,,,,,,1,10.09,Portland Trail Blazers,foul,,,,,,,,,,Aldridge,,,,,,Offensive Charge,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=13
 ,,,,,,,,,,1,10.09,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Foul,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=14
-,,,,,,,,,,1,10.02,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=15
+,,,,,,,,,,1,10.02,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,Aldridge,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=15
 ,,,,,,,,,,1,9.56,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Layup,,,4-4,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=16
 ,,,,,,,,,,1,9.45,San Antonio Spurs,shot,Splitter,,,,,,,,,Joseph,2,,,made,,Layup,,,4-6,1,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=17
 ,,,,,,,,,,1,9.32,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Pullup Jump Shot,,,6-6,20,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=18
@@ -55,7 +55,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.36,San Antonio Spurs,shot,Diaw,,,,,,,,,Leonard,2,,,made,,Finger Roll Layup,,,15-20,1,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=58
 ,,,,,,,,,,1,4.22,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,3PT Jump Shot,,,15-20,25,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=59
 ,,,,,,,,,,1,4.21,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,15-20,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=60
-,,,,,,,,,,1,4.19,San Antonio Spurs,turnover,,,,,,,,,,Blair,,,Bad Pass,,,,,,15-20,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=61
+,,,,,,,,,,1,4.19,San Antonio Spurs,turnover,,,,,,,,,,Blair,,,Bad Pass,,Lillard,,,,15-20,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=61
 ,,,,,,,,,,1,4.14,Portland Trail Blazers,shot,Aldridge,,,,,,,,,Hickson,2,,,made,,Dunk,,,17-20,1,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=62
 ,,,,,,,,,,1,3.57,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,3PT Jump Shot,,,17-20,25,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=63
 ,,,,,,,,,,1,3.56,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,17-20,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=64
@@ -66,7 +66,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.45,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=69
 ,,,,,,,,,,1,2.37,Portland Trail Blazers,shot,Batum,,,,,,,,,Hickson,2,,,made,,Jump Shot,,,23-23,19,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=70
 ,,,,,,,,,,1,2.17,San Antonio Spurs,shot,,,,,,,,,,Ginobili,2,,,made,,Driving Layup,,,23-25,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=71
-,,,,,,,,,,1,2.13,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=72
+,,,,,,,,,,1,2.13,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Joseph,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=72
 ,,,,,,,,,,1,2.13,Portland Trail Blazers,foul,,,,,,,,,,Lillard,,,,,,Personal,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=73
 ,,,,,,,,,,1,2.13,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=74
 ,,,,,,,,,,1,2.13,Portland Trail Blazers,substitute,,,,Leonard,,Hickson,,,,,,,,,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=76
@@ -76,7 +76,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.55,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Jump Shot,,,23-25,15,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=80
 ,,,,,,,,,,1,1.54,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=81
 ,,,,,,,,,,1,1.31,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Turnaround Jump Shot,,,25-25,16,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=82
-,,,,,,,,,,1,1.15,San Antonio Spurs,shot,,,,,,,,,,Diaw,,,,missed,,Jump Shot,,,25-25,11,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=83
+,,,,,,,,,,1,1.15,San Antonio Spurs,shot,,,Leonard,,,,,,,Diaw,,,,missed,,Jump Shot,,,25-25,11,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=83
 ,,,,,,,,,,1,1.14,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=84
 ,,,,,,,,,,1,1.06,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Layup,,,27-25,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=86
 ,,,,,,,,,,1,0.49,San Antonio Spurs,shot,,,,,,,,,,Duncan,2,,,made,,Turnaround Jump Shot,,,27-27,11,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=87
@@ -107,7 +107,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.29,San Antonio Spurs,substitute,,,,Green,,Ginobili,,,,,,,,,,,,,32-33,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=116
 ,,,,,,,,,,2,9.18,San Antonio Spurs,shot,Mills,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,32-36,25,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=117
 ,,,,,,,,,,2,8.59,Portland Trail Blazers,shot,,,,,,,,,,Maynor,2,,,made,,Running Bank Shot,,,34-36,9,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=118
-,,,,,,,,,,2,8.45,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Layup,,,34-36,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=119
+,,,,,,,,,,2,8.45,San Antonio Spurs,shot,,,Aldridge,,,,,,,Splitter,,,,missed,,Layup,,,34-36,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=119
 ,,,,,,,,,,2,8.44,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,34-36,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=120
 ,,,,,,,,,,2,8.27,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Running Bank Shot,,,34-36,10,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=121
 ,,,,,,,,,,2,8.26,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,34-36,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=122
@@ -116,7 +116,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.09,Portland Trail Blazers,substitute,,,,Lillard,,Claver,,,,,,,,,,,,,34-39,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=125
 ,,,,,,,,,,2,7.51,Portland Trail Blazers,shot,,,,,,,,,,Maynor,,,,missed,,Running Jump Shot,,,34-39,4,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=126
 ,,,,,,,,,,2,7.50,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,34-39,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=127
-,,,,,,,,,,2,7.46,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,,,,,34-39,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=128
+,,,,,,,,,,2,7.46,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,Jackson,,,,34-39,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=128
 ,,,,,,,,,,2,7.42,San Antonio Spurs,shot,,,,,,,,,,Jackson,2,,,made,,Dunk,,,34-41,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=129
 ,,,,,,,,,,2,7.35,Portland Trail Blazers,substitute,,,,Jeffries,,Aldridge,,,,,,,,,,,,,34-41,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=132
 ,,,,,,,,,,2,7.19,Portland Trail Blazers,shot,Lillard,,,,,,,,,Hickson,2,,,made,,Layup,,,36-41,1,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=133
@@ -147,10 +147,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.39,San Antonio Spurs,substitute,,,,Ginobili,,Jackson,,,,,,,,,,,,,45-47,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=161
 ,,,,,,,,,,2,4.39,San Antonio Spurs,substitute,,,,Bonner,,Splitter,,,,,,,,,,,,,45-47,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=162
 ,,,,,,,,,,2,4.39,Portland Trail Blazers,free throw,,,,,,,2,,2,Hickson,1,,foul,made,,,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=163
-,,,,,,,,,,2,4.17,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,46-47,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=165
+,,,,,,,,,,2,4.17,San Antonio Spurs,shot,,,Matthews,,,,,,,Duncan,,,,missed,,Layup,,,46-47,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=165
 ,,,,,,,,,,2,4.16,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=166
 ,,,,,,,,,,2,4.00,Portland Trail Blazers,shot,,,,,,,,,,Maynor,2,,,made,,Jump Shot,,,48-47,18,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=167
-,,,,,,,,,,2,3.54,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=168
+,,,,,,,,,,2,3.54,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,Matthews,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=168
 ,,,,,,,,,,2,3.50,San Antonio Spurs,foul,,,,,,,,,,Duncan,,,,,,Shooting,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=169
 ,,,,,,,,,,2,3.50,Portland Trail Blazers,free throw,,,,,,,1,,2,Lillard,1,,foul,made,,,,,49-47,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=170
 ,,,,,,,,,,2,3.50,Portland Trail Blazers,substitute,,,,Aldridge,,Jeffries,,,,,,,,,,,,,49-47,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=172
@@ -181,9 +181,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.51,San Antonio Spurs,substitute,,,,Splitter,,Blair,,,,,,,,,,,,,53-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=203
 ,,,,,,,,,,2,1.51,Portland Trail Blazers,free throw,,,,,,,2,,2,Matthews,,,foul,missed,,,,,53-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=204
 ,,,,,,,,,,2,1.50,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,53-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=206
-,,,,,,,,,,2,1.44,San Antonio Spurs,turnover,,,,,,,,,,Joseph,,,Lost Ball,,,,,,53-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=207
-,,,,,,,,,,2,1.42,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Lost Ball,,,,,,53-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=208
-,,,,,,,,,,2,1.39,San Antonio Spurs,turnover,,,,,,,,,,Joseph,,,Bad Pass,,,,,,53-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=209
+,,,,,,,,,,2,1.44,San Antonio Spurs,turnover,,,,,,,,,,Joseph,,,Lost Ball,,Matthews,,,,53-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=207
+,,,,,,,,,,2,1.42,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Lost Ball,,Joseph,,,,53-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=208
+,,,,,,,,,,2,1.39,San Antonio Spurs,turnover,,,,,,,,,,Joseph,,,Bad Pass,,Lillard,,,,53-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=209
 ,,,,,,,,,,2,1.34,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Jump Shot,,,55-50,4,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=210
 ,,,,,,,,,,2,1.15,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Jump Shot,,,55-50,3,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=211
 ,,,,,,,,,,2,1.13,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,55-50,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=212
@@ -280,7 +280,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.33,San Antonio Spurs,shot,,,,,,,,,,Diaw,2,,,made,,Jump Shot,,,84-76,18,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=332
 ,,,,,,,,,,3,1.22,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Jump Shot,,,86-76,17,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=333
 ,,,,,,,,,,3,1.06,San Antonio Spurs,shot,Diaw,,,,,,,,,Mills,2,,,made,,Jump Shot,,,86-78,18,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=334
-,,,,,,,,,,3,0.54,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=335
+,,,,,,,,,,3,0.54,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Diaw,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=335
 ,,,,,,,,,,3,0.47,San Antonio Spurs,shot,,,,,,,,,,Mills,2,,,made,,Driving Layup,,,86-80,1,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=336
 ,,,,,,,,,,3,0.31,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Layup,,,88-80,1,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=337
 ,,,,,,,,,,3,0.11,San Antonio Spurs,shot,,,,,,,,,,Ginobili,2,,,made,,Driving Layup,,,88-82,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=338
@@ -301,16 +301,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.53,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,97-82,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=358
 ,,,,,,,,,,4,10.49,San Antonio Spurs,shot,,,,,,,,,,Ginobili,2,,,made,,Driving Layup,,,97-84,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=359
 ,,,,,,,,,,4,10.32,Portland Trail Blazers,shot,Hickson,,,,,,,,,Matthews,3,,,made,,3PT Step Back Jump Shot,,,100-84,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=361
-,,,,,,,,,,4,10.19,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Lost Ball,,,,,,100-84,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=362
-,,,,,,,,,,4,10.16,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Layup,,,100-84,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=363
+,,,,,,,,,,4,10.19,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Lost Ball,,Maynor,,,,100-84,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=362
+,,,,,,,,,,4,10.16,Portland Trail Blazers,shot,,,Ginobili,,,,,,,Matthews,,,,missed,,Layup,,,100-84,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=363
 ,,,,,,,,,,4,10.14,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,100-84,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=364
 ,,,,,,,,,,4,10.10,Portland Trail Blazers,shot,Lillard,,,,,,,,,Maynor,3,,,made,,3PT Jump Shot,,,103-84,24,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=365
 ,,,,,,,,,,4,9.57,Portland Trail Blazers,foul,,,,,,,,,,Hickson,,,,,,Shooting,,,103-84,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=366
 ,,,,,,,,,,4,9.57,San Antonio Spurs,free throw,,,,,,,1,,2,Diaw,1,,foul,made,,,,,103-85,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=367
 ,,,,,,,,,,4,9.57,San Antonio Spurs,substitute,,,,Green,,Mills,,,,,,,,,,,,,103-85,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=369
 ,,,,,,,,,,4,9.57,San Antonio Spurs,free throw,,,,,,,2,,2,Diaw,1,,foul,made,,,,,103-86,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=370
-,,,,,,,,,,4,9.40,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,103-86,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=372
-,,,,,,,,,,4,9.34,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,,,,,103-86,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=373
+,,,,,,,,,,4,9.40,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Diaw,,,,103-86,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=372
+,,,,,,,,,,4,9.34,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,Maynor,,,,103-86,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=373
 ,,,,,,,,,,4,9.16,Portland Trail Blazers,shot,,,,,,,,,,Babbitt,,,,missed,,3PT Jump Shot,,,103-86,24,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=374
 ,,,,,,,,,,4,9.14,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,103-86,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=375
 ,,,,,,,,,,4,9.14,San Antonio Spurs,substitute,,,,Splitter,,Diaw,,,,,,,,,,,,,103-86,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=376
@@ -327,7 +327,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.25,Portland Trail Blazers,substitute,,,,Batum,,Lillard,,,,,,,,,,,,,106-88,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=388
 ,,,,,,,,,,4,8.25,Portland Trail Blazers,free throw,,,,,,,2,,2,Hickson,1,,foul,made,,,,,107-88,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=389
 ,,,,,,,,,,4,8.10,San Antonio Spurs,shot,Green,,,,,,,,,Bonner,2,,,made,,Jump Shot,,,107-90,6,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=391
-,,,,,,,,,,4,7.47,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Jump Shot,,,107-90,4,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=392
+,,,,,,,,,,4,7.47,Portland Trail Blazers,shot,,,Splitter,,,,,,,Hickson,,,,missed,,Jump Shot,,,107-90,4,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=392
 ,,,,,,,,,,4,7.46,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,107-90,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=393
 ,,,,,,,,,,4,7.40,San Antonio Spurs,shot,,,,,,,,,,Green,2,,,made,,Jump Shot,,,107-92,16,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=394
 ,,,,,,,,,,4,7.36,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,107-92,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=395
@@ -336,7 +336,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.13,San Antonio Spurs,shot,Jackson,,,,,,,,,Splitter,2,,,made,,Layup,,,107-94,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=399
 ,,,,,,,,,,4,6.48,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Jump Shot,,,107-94,12,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=400
 ,,,,,,,,,,4,6.46,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,107-94,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=401
-,,,,,,,,,,4,6.41,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Layup,,,107-94,1,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=402
+,,,,,,,,,,4,6.41,San Antonio Spurs,shot,,,Hickson,,,,,,,Green,,,,missed,,Layup,,,107-94,1,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=402
 ,,,,,,,,,,4,6.40,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,107-94,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=403
 ,,,,,,,,,,4,6.24,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,107-94,24,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=404
 ,,,,,,,,,,4,6.24,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,107-94,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=405
@@ -347,7 +347,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.17,San Antonio Spurs,free throw,,,,,,,2,,2,Splitter,,,foul,missed,,,,,107-95,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=413
 ,,,,,,,,,,4,6.15,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,107-95,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=415
 ,,,,,,,,,,4,5.54,Portland Trail Blazers,shot,Aldridge,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,110-95,25,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=416
-,,,,,,,,,,4,5.42,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Jump Shot,,,110-95,9,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=418
+,,,,,,,,,,4,5.42,San Antonio Spurs,shot,,,Batum,,,,,,,Leonard,,,,missed,,Jump Shot,,,110-95,9,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=418
 ,,,,,,,,,,4,5.40,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,110-95,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=419
 ,,,,,,,,,,4,5.32,San Antonio Spurs,foul,,,,,,,,,,Bonner,,,,,,Shooting,,,110-95,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=420
 ,,,,,,,,,,4,5.32,Portland Trail Blazers,free throw,,,,,,,1,,3,Lillard,1,,foul,made,,,,,111-95,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=421
@@ -359,7 +359,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.00,Portland Trail Blazers,shot,Maynor,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,116-97,25,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=430
 ,,,,,,,,,,4,4.45,San Antonio Spurs,shot,Jackson,,,,,,,,,Splitter,2,,,made,,Layup,,,116-99,2,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=431
 ,,,,,,,,,,4,4.30,Portland Trail Blazers,shot,,,,,,,,,,Maynor,2,,,made,,Layup,,,118-99,3,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=432
-,,,,,,,,,,4,4.22,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,Layup,,,118-99,3,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=433
+,,,,,,,,,,4,4.22,San Antonio Spurs,shot,,,Batum,,,,,,,Ginobili,,,,missed,,Layup,,,118-99,3,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=433
 ,,,,,,,,,,4,4.20,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,118-99,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=434
 ,,,,,,,,,,4,4.03,San Antonio Spurs,foul,,,,,,,,,,Green,,,,,,Personal,,,118-99,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=435
 ,,,,,,,,,,4,4.03,San Antonio Spurs,substitute,,,,Joseph,,Splitter,,,,,,,,,,,,,118-99,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=437
@@ -387,7 +387,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.09,Portland Trail Blazers,substitute,,,,Babbitt,,Batum,,,,,,,,,,,,,125-101,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=465
 ,,,,,,,,,,4,2.09,Portland Trail Blazers,substitute,,,,Smith,,Lillard,,,,,,,,,,,,,125-101,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=463
 ,,,,,,,,,,4,1.48,Portland Trail Blazers,shot,Babbitt,,,,,,,,,Maynor,2,,,made,,Jump Shot,,,127-101,10,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=464
-,,,,,,,,,,4,1.38,San Antonio Spurs,turnover,,,,,,,,,,Mills,,,Bad Pass,,,,,,127-101,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=466
+,,,,,,,,,,4,1.38,San Antonio Spurs,turnover,,,,,,,,,,Mills,,,Bad Pass,,Barton,,,,127-101,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=466
 ,,,,,,,,,,4,1.35,Portland Trail Blazers,shot,Barton,,,,,,,,,Maynor,2,,,made,,Layup,,,129-101,1,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=467
 ,,,,,,,,,,4,1.25,San Antonio Spurs,shot,,,,,,,,,,De Colo,,,,missed,,Jump Shot,,,129-101,5,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=469
 ,,,,,,,,,,4,1.22,Portland Trail Blazers,rebound,,,,,,,,,,Freeland,,,,,,,,,129-101,,http://stats.nba.com/cvp.html?GameID=0021200923&GameEventID=470

@@ -14,13 +14,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.47,Milwaukee Bucks,rebound,,,,,,,,,,Mbah a Moute,,,,,,,,,7-4,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=16
 ,,,,,,,,,,1,9.37,Milwaukee Bucks,shot,,,,,,,,,,Jennings,2,,,made,,Jump Shot,,,7-6,15,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=17
 ,,,,,,,,,,1,9.20,San Antonio Spurs,shot,Parker,,,,,,,,,Duncan,2,,,made,,Jump Shot,,,9-6,15,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=18
-,,,,,,,,,,1,9.08,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=19
-,,,,,,,,,,1,9.04,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Layup,,,9-6,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=20
+,,,,,,,,,,1,9.08,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,Leonard,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=19
+,,,,,,,,,,1,9.04,San Antonio Spurs,shot,,,Sanders,,,,,,,Leonard,,,,missed,,Layup,,,9-6,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=20
 ,,,,,,,,,,1,9.02,Milwaukee Bucks,rebound,,,,,,,,,,Daniels,,,,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=21
 ,,,,,,,,,,1,8.51,Milwaukee Bucks,shot,Jennings,,,,,,,,,Ellis,2,,,made,,Jump Shot,,,9-8,19,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=22
 ,,,,,,,,,,1,8.38,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,9-8,5,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=23
 ,,,,,,,,,,1,8.37,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=24
-,,,,,,,,,,1,8.30,Milwaukee Bucks,turnover,,,,,,,,,,Sanders,,,Bad Pass,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=25
+,,,,,,,,,,1,8.30,Milwaukee Bucks,turnover,,,,,,,,,,Sanders,,,Bad Pass,,Duncan,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=25
 ,,,,,,,,,,1,8.24,Milwaukee Bucks,foul,,,,,,,,,,Sanders,,,,,,Shooting,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=26
 ,,,,,,,,,,1,8.24,San Antonio Spurs,free throw,,,,,,,1,,2,Duncan,,,foul,missed,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=27
 ,,,,,,,,,,1,8.24,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=28
@@ -42,7 +42,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.56,Milwaukee Bucks,rebound,,,,,,,,,,Mbah a Moute,,,,,,,,,14-8,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=46
 ,,,,,,,,,,1,6.54,San Antonio Spurs,foul,,,,,,,,,,Leonard,,,,,,Personal,,,14-8,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=47
 ,,,,,,,,,,1,6.49,Milwaukee Bucks,shot,Jennings,,,,,,,,,Sanders,2,,,made,,Alley Oop Dunk,,,14-10,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=48
-,,,,,,,,,,1,6.35,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,14-10,7,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=49
+,,,,,,,,,,1,6.35,San Antonio Spurs,shot,,,Jennings,,,,,,,Parker,,,,missed,,Jump Shot,,,14-10,7,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=49
 ,,,,,,,,,,1,6.32,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=50
 ,,,,,,,,,,1,6.31,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=51
 ,,,,,,,,,,1,6.31,San Antonio Spurs,substitute,,,,Ginobili,,Green,,,,,,,,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=52
@@ -54,9 +54,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.36,Milwaukee Bucks,shot,Ellis,,,,,,,,,Sanders,2,,,made,,Jump Shot,,,14-12,14,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=58
 ,,,,,,,,,,1,5.26,San Antonio Spurs,shot,Parker,,,,,,,,,Ginobili,2,,,made,,Layup,,,16-12,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=59
 ,,,,,,,,,,1,5.09,Milwaukee Bucks,shot,Sanders,,,,,,,,,Ellis,2,,,made,,Jump Shot,,,16-14,18,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=60
-,,,,,,,,,,1,4.52,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,16-14,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=61
+,,,,,,,,,,1,4.52,San Antonio Spurs,shot,,,Moute,,,,,,,Duncan,,,,missed,,Layup,,,16-14,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=61
 ,,,,,,,,,,1,4.50,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,16-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=62
-,,,,,,,,,,1,4.38,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,,,,,16-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=63
+,,,,,,,,,,1,4.38,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,Parker,,,,16-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=63
 ,,,,,,,,,,1,4.34,San Antonio Spurs,shot,Ginobili,,,,,,,,,Parker,2,,,made,,Layup,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=64
 ,,,,,,,,,,1,4.12,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Jump Shot,,,18-14,13,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=65
 ,,,,,,,,,,1,4.10,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=67
@@ -64,7 +64,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.09,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=68
 ,,,,,,,,,,1,4.01,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,18-14,20,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=69
 ,,,,,,,,,,1,4.00,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=70
-,,,,,,,,,,1,3.53,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=71
+,,,,,,,,,,1,3.53,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,Ginobili,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=71
 ,,,,,,,,,,1,3.48,San Antonio Spurs,shot,Parker,,,,,,,,,Duncan,2,,,made,,Layup,,,20-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=72
 ,,,,,,,,,,1,3.48,Milwaukee Bucks,foul,,,,,,,,,,Mbah a Moute,,,,,,Shooting,,,20-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=73
 ,,,,,,,,,,1,3.48,Milwaukee Bucks,substitute,,,,Ilyasova,,Mbah a Moute,,,,,,,,,,,,,20-14,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=74
@@ -79,7 +79,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.51,San Antonio Spurs,shot,Jackson,,,,,,,,,Duncan,2,,,made,,Layup,,,25-16,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=86
 ,,,,,,,,,,1,2.30,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Hook Shot,,,25-16,3,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=87
 ,,,,,,,,,,1,2.28,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,25-16,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=88
-,,,,,,,,,,1,2.23,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Bad Pass,,,,,,25-16,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=89
+,,,,,,,,,,1,2.23,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Bad Pass,,Ellis,,,,25-16,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=89
 ,,,,,,,,,,1,2.14,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,3PT Jump Shot,,,25-16,26,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=90
 ,,,,,,,,,,1,2.13,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,25-16,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=91
 ,,,,,,,,,,1,2.07,Milwaukee Bucks,shot,Ellis,,,,,,,,,Ilyasova,3,,,made,,3PT Jump Shot,,,25-19,24,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=92
@@ -87,7 +87,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.35,Milwaukee Bucks,shot,Ilyasova,,,,,,,,,Dunleavy,3,,,made,,3PT Jump Shot,,,28-22,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=94
 ,,,,,,,,,,1,1.14,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,28-22,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=95
 ,,,,,,,,,,1,1.13,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,28-22,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=96
-,,,,,,,,,,1,1.04,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Jump Shot,,,28-22,12,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=97
+,,,,,,,,,,1,1.04,Milwaukee Bucks,shot,,,Duncan,,,,,,,Ilyasova,,,,missed,,Jump Shot,,,28-22,12,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=97
 ,,,,,,,,,,1,1.03,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,28-22,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=98
 ,,,,,,,,,,1,1.03,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,,,,,28-22,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=99
 ,,,,,,,,,,1,1.03,San Antonio Spurs,substitute,,,,Splitter,,Duncan,,,,,,,,,,,,,28-22,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=100
@@ -116,7 +116,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.14,Milwaukee Bucks,foul,,,,,,,,,,Ilyasova,,,,,,Shooting,,,35-24,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=126
 ,,,,,,,,,,2,10.14,San Antonio Spurs,free throw,,,,,,,1,,2,Splitter,1,,foul,made,,,,,36-24,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=127
 ,,,,,,,,,,2,10.14,San Antonio Spurs,free throw,,,,,,,2,,2,Splitter,1,,foul,made,,,,,37-24,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=129
-,,,,,,,,,,2,10.01,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,,,,,37-24,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=131
+,,,,,,,,,,2,10.01,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,Jackson,,,,37-24,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=131
 ,,,,,,,,,,2,9.57,San Antonio Spurs,shot,Neal,,,,,,,,,Ginobili,2,,,made,,Layup,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=132
 ,,,,,,,,,,2,9.46,San Antonio Spurs,foul,,,,,,,,,,Jackson,,,,,,Shooting,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=133
 ,,,,,,,,,,2,9.46,Milwaukee Bucks,free throw,,,,,,,1,,2,Daniels,1,,foul,made,,,,,39-25,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=134
@@ -198,7 +198,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.08,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Layup,,,69-52,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=223
 ,,,,,,,,,,2,0.00,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,3PT Jump Shot,,,69-52,25,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=224
 ,,,,,,,,,,2,0.00,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,69-52,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=225
-,,,,,,,,,,3,11.37,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,69-52,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=229
+,,,,,,,,,,3,11.37,San Antonio Spurs,shot,,,Sanders,,,,,,,Duncan,,,,missed,,Layup,,,69-52,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=229
 ,,,,,,,,,,3,11.34,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,69-52,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=230
 ,,,,,,,,,,3,11.25,Milwaukee Bucks,shot,,,,,,,,,,Ellis,2,,,made,,Layup,,,69-54,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=231
 ,,,,,,,,,,3,11.06,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Shot,,,69-54,14,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=232
@@ -206,16 +206,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.52,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Jump Shot,,,71-54,15,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=234
 ,,,,,,,,,,3,10.34,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Hook Shot,,,71-54,4,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=235
 ,,,,,,,,,,3,10.33,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,71-54,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=236
-,,,,,,,,,,3,10.24,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,71-54,14,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=237
+,,,,,,,,,,3,10.24,San Antonio Spurs,shot,,,Jennings,,,,,,,Parker,,,,missed,,Jump Shot,,,71-54,14,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=237
 ,,,,,,,,,,3,10.22,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,71-54,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=238
 ,,,,,,,,,,3,10.15,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,3PT Jump Shot,,,71-54,24,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=239
 ,,,,,,,,,,3,10.14,Milwaukee Bucks,rebound,,,,,,,,,,Daniels,,,,,,,,,71-54,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=240
-,,,,,,,,,,3,10.12,Milwaukee Bucks,shot,,,,,,,,,,Daniels,,,,missed,,Layup,,,71-54,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=241
+,,,,,,,,,,3,10.12,Milwaukee Bucks,shot,,,Duncan,,,,,,,Daniels,,,,missed,,Layup,,,71-54,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=241
 ,,,,,,,,,,3,10.12,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,71-54,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=243
 ,,,,,,,,,,3,10.12,Milwaukee Bucks,jumpball,,Duncan,,,Daniels,,,,,,,,,,,,,,71-54,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=242
 ,,,,,,,,,,3,9.50,San Antonio Spurs,shot,Parker,,,,,,,,,Duncan,2,,,made,,Jump Shot,,,73-54,19,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=244
 ,,,,,,,,,,3,9.36,Milwaukee Bucks,shot,Jennings,,,,,,,,,Mbah a Moute,2,,,made,,Jump Shot,,,73-56,17,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=245
-,,,,,,,,,,3,9.23,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Layup,,,73-56,2,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=246
+,,,,,,,,,,3,9.23,San Antonio Spurs,shot,,,Sanders,,,,,,,Leonard,,,,missed,,Layup,,,73-56,2,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=246
 ,,,,,,,,,,3,9.19,Milwaukee Bucks,rebound,,,,,,,,,,Mbah a Moute,,,,,,,,,73-56,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=247
 ,,,,,,,,,,3,9.12,San Antonio Spurs,foul,,,,,,,,,,Splitter,,,,,,Shooting,,,73-56,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=248
 ,,,,,,,,,,3,9.12,Milwaukee Bucks,free throw,,,,,,,1,,2,Mbah a Moute,1,,foul,made,,,,,73-57,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=249
@@ -240,16 +240,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.33,Milwaukee Bucks,substitute,,,,Dunleavy,,Daniels,,,,,,,,,,,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=272
 ,,,,,,,,,,3,7.23,San Antonio Spurs,foul,,,,,,,,,,,,,,,,,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=273
 ,,,,,,,,,,3,7.23,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Foul,,,,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=274
-,,,,,,,,,,3,7.11,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,,,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=275
+,,,,,,,,,,3,7.11,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,Green,,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=275
 ,,,,,,,,,,3,7.05,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Layup,,,77-61,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=276
 ,,,,,,,,,,3,7.03,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=277
 ,,,,,,,,,,3,7.03,Milwaukee Bucks,foul,,,,,,,,,,Dunleavy,,,,,,Personal,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=278
-,,,,,,,,,,3,7.01,San Antonio Spurs,turnover,,,,,,,,,,Parker Poss,,,Lost Ball,,,,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=291
+,,,,,,,,,,3,7.01,San Antonio Spurs,turnover,,,,,,,,,,Parker Poss,,,Lost Ball,,Jennings,,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=291
 ,,,,,,,,,,3,6.57,Milwaukee Bucks,turnover,,,,,,,,,,Sanders,,,Bad Pass,,,,,,77-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=292
 ,,,,,,,,,,3,6.50,San Antonio Spurs,shot,Green,,,,,,,,,Duncan,2,,,made,,Dunk,,,79-61,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=279
 ,,,,,,,,,,3,6.34,San Antonio Spurs,substitute,,,,Ginobili,,Leonard,,,,,,,,,,,,,79-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=280
-,,,,,,,,,,3,6.30,Milwaukee Bucks,turnover,,,,,,,,,,Sanders,,,Bad Pass,,,,,,79-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=281
-,,,,,,,,,,3,6.27,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Layup,,,79-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=282
+,,,,,,,,,,3,6.30,Milwaukee Bucks,turnover,,,,,,,,,,Sanders,,,Bad Pass,,Parker,,,,79-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=281
+,,,,,,,,,,3,6.27,San Antonio Spurs,shot,,,Sanders,,,,,,,Parker,,,,missed,,Layup,,,79-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=282
 ,,,,,,,,,,3,6.24,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,79-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=283
 ,,,,,,,,,,3,6.16,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Jump Shot,,,79-61,19,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=284
 ,,,,,,,,,,3,6.15,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,79-61,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=285
@@ -300,7 +300,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.59,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,92-72,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=340
 ,,,,,,,,,,3,1.51,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,92-72,24,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=341
 ,,,,,,,,,,3,1.50,San Antonio Spurs,rebound,,,,,,,,,,Ginobili,,,,,,,,,92-72,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=342
-,,,,,,,,,,3,1.48,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,Layup,,,92-72,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=343
+,,,,,,,,,,3,1.48,San Antonio Spurs,shot,,,Ilyasova,,,,,,,Ginobili,,,,missed,,Layup,,,92-72,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=343
 ,,,,,,,,,,3,1.46,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,92-72,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=344
 ,,,,,,,,,,3,1.42,San Antonio Spurs,foul,,,,,,,,,,Ginobili,,,,,,Shooting,,,92-72,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=345
 ,,,,,,,,,,3,1.42,Milwaukee Bucks,free throw,,,,,,,1,,2,Ellis,1,,foul,made,,,,,92-73,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=346
@@ -321,7 +321,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.36,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,3PT Jump Shot,,,93-79,24,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=366
 ,,,,,,,,,,3,0.35,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,93-79,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=367
 ,,,,,,,,,,3,0.26,Milwaukee Bucks,shot,,,,,,,,,,Ellis,2,,,made,,Driving Layup,,,93-81,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=368
-,,,,,,,,,,3,0.06,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,,,,,93-81,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=369
+,,,,,,,,,,3,0.06,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,Dunleavy,,,,93-81,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=369
 ,,,,,,,,,,3,0.01,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,,,,,93-81,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=370
 ,,,,,,,,,,4,11.38,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Layup,,,93-81,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=374
 ,,,,,,,,,,4,11.36,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,93-81,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=375
@@ -361,7 +361,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.16,Milwaukee Bucks,free throw,,,,,,,1,,2,Jennings,1,,foul,made,,,,,104-88,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=411
 ,,,,,,,,,,4,7.16,San Antonio Spurs,substitute,,,,Leonard,,Splitter,,,,,,,,,,,,,104-88,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=413
 ,,,,,,,,,,4,7.16,Milwaukee Bucks,free throw,,,,,,,2,,2,Jennings,1,,foul,made,,,,,104-89,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=414
-,,,,,,,,,,4,6.57,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,104-89,2,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=416
+,,,,,,,,,,4,6.57,San Antonio Spurs,shot,,,Henson,,,,,,,Duncan,,,,missed,,Layup,,,104-89,2,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=416
 ,,,,,,,,,,4,6.56,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,104-89,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=417
 ,,,,,,,,,,4,6.52,Milwaukee Bucks,shot,Ellis,,,,,,,,,Henson,2,,,made,,Dunk,,,104-91,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=418
 ,,,,,,,,,,4,6.36,Milwaukee Bucks,foul,,,,,,,,,,Dunleavy,,,,,,Shooting,,,104-91,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=419
@@ -369,7 +369,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.36,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,104-91,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=421
 ,,,,,,,,,,4,6.36,San Antonio Spurs,free throw,,,,,,,2,,2,Jackson,,,foul,missed,,,,,104-91,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=422
 ,,,,,,,,,,4,6.34,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,104-91,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=424
-,,,,,,,,,,4,6.22,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Layup,,,104-91,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=425
+,,,,,,,,,,4,6.22,Milwaukee Bucks,shot,,,Duncan,,,,,,,Ellis,,,,missed,,Layup,,,104-91,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=425
 ,,,,,,,,,,4,6.19,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,104-91,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=426
 ,,,,,,,,,,4,6.17,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Running Jump Shot,,,106-91,9,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=427
 ,,,,,,,,,,4,6.05,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Jump Shot,,,106-91,16,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=428
@@ -381,7 +381,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.45,Milwaukee Bucks,shot,Ellis,,,,,,,,,Henson,2,,,made,,Running Dunk,,,106-93,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=436
 ,,,,,,,,,,4,5.23,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,106-93,15,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=437
 ,,,,,,,,,,4,5.22,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,106-93,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=438
-,,,,,,,,,,4,5.16,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,,,,,106-93,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=439
+,,,,,,,,,,4,5.16,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,Ginobili,,,,106-93,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=439
 ,,,,,,,,,,4,5.11,San Antonio Spurs,shot,Ginobili,,,,,,,,,Parker,2,,,made,,Layup,,,108-93,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=440
 ,,,,,,,,,,4,4.58,Milwaukee Bucks,shot,Ellis,,,,,,,,,Dunleavy,3,,,made,,3PT Jump Shot,,,108-96,24,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=441
 ,,,,,,,,,,4,4.35,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,108-96,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=442
@@ -426,7 +426,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.04,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,3PT Jump Shot,,,115-104,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=484
 ,,,,,,,,,,4,1.01,Milwaukee Bucks,rebound,,,,,,,,,,Harris,,,,,,,,,115-104,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=486
 ,,,,,,,,,,4,0.46,Milwaukee Bucks,shot,Harris,,,,,,,,,Lamb,2,,,made,,Layup,,,115-106,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=487
-,,,,,,,,,,4,0.32,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Lost Ball,,,,,,115-106,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=488
+,,,,,,,,,,4,0.32,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Lost Ball,,Henson,,,,115-106,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=488
 ,,,,,,,,,,4,0.29,Milwaukee Bucks,shot,Daniels,,,,,,,,,Henson,2,,,made,,Alley Oop Dunk,,,115-108,1,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=489
 ,,,,,,,,,,4,0.20,Milwaukee Bucks,foul,,,,,,,,,,Harris,,,,,,Personal,,,115-108,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=490
 ,,,,,,,,,,4,0.20,San Antonio Spurs,free throw,,,,,,,1,,2,De Colo,,,foul,missed,,,,,115-108,,http://stats.nba.com/cvp.html?GameID=0021200470&GameEventID=491

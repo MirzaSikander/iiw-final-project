@@ -18,7 +18,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.16,Charlotte Bobcats,free throw,,,,,,,1,,2,Kidd-Gilchrist,1,,foul,made,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=19
 ,,,,,,,,,,1,9.16,Charlotte Bobcats,free throw,,,,,,,2,,2,Kidd-Gilchrist,1,,foul,made,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=21
 ,,,,,,,,,,1,9.06,Los Angeles Clippers,turnover,,,,,,,,,,Green,,,Step Out of Bounds,,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=23
-,,,,,,,,,,1,8.56,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Lost Ball,,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=24
+,,,,,,,,,,1,8.56,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Lost Ball,,Paul,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=24
 ,,,,,,,,,,1,8.51,Los Angeles Clippers,shot,Paul,,,,,,,,,Griffin,2,,,made,,Slam Dunk,,,10-5,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=25
 ,,,,,,,,,,1,8.45,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=26
 ,,,,,,,,,,1,8.35,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Bad Pass,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=27
@@ -48,7 +48,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.18,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,2,,,made,,Dunk,,,16-13,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=53
 ,,,,,,,,,,1,5.06,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,16-13,25,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=54
 ,,,,,,,,,,1,5.05,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=55
-,,,,,,,,,,1,5.03,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Lost Ball,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=56
+,,,,,,,,,,1,5.03,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Lost Ball,,Biyombo,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=56
 ,,,,,,,,,,1,4.56,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,16-13,19,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=57
 ,,,,,,,,,,1,4.54,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=58
 ,,,,,,,,,,1,4.36,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,16-13,24,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=59
@@ -76,7 +76,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.30,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=85
 ,,,,,,,,,,1,2.21,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Fadeaway Jumper,,,21-15,17,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=86
 ,,,,,,,,,,1,2.20,Charlotte Bobcats,rebound,,,,,,,,,,Haywood,,,,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=87
-,,,,,,,,,,1,2.20,Charlotte Bobcats,turnover,,,,,,,,,,Haywood,,,Lost Ball,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=89
+,,,,,,,,,,1,2.20,Charlotte Bobcats,turnover,,,,,,,,,,Haywood,,,Lost Ball,,Odom,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=89
 ,,,,,,,,,,1,2.20,Charlotte Bobcats,jumpball,,Odom,,,Haywood,,,,,,,,,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=88
 ,,,,,,,,,,1,2.04,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,21-15,25,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=90
 ,,,,,,,,,,1,2.03,Charlotte Bobcats,rebound,,,,,,,,,,Gordon,,,,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=91
@@ -94,7 +94,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.21,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,21-21,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=104
 ,,,,,,,,,,1,0.04,Charlotte Bobcats,foul,,,,,,,,,,Walker,,,,,,Personal,,,21-21,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=105
 ,,,,,,,,,,1,0.00,Los Angeles Clippers,shot,Crawford,,,,,,,,,Barnes,2,,,made,,Layup,,,23-21,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=106
-,,,,,,,,,,2,11.45,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,23-21,25,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=113
+,,,,,,,,,,2,11.45,Charlotte Bobcats,shot,,,Barnes,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,23-21,25,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=113
 ,,,,,,,,,,2,11.43,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,23-21,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=114
 ,,,,,,,,,,2,11.39,Los Angeles Clippers,shot,Odom,,,,,,,,,Barnes,2,,,made,,Layup,,,25-21,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=115
 ,,,,,,,,,,2,11.14,Los Angeles Clippers,foul,,,,,,,,,,Turiaf,,,,,,Shooting,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=116
@@ -127,8 +127,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.21,Los Angeles Clippers,free throw,,,,,,,1,,1,Odom,1,,foul,made,,,,,30-25,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=149
 ,,,,,,,,,,2,8.57,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,30-25,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=151
 ,,,,,,,,,,2,8.55,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,30-25,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=152
-,,,,,,,,,,2,8.51,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Lost Ball,,,,,,30-25,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=153
-,,,,,,,,,,2,8.44,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,30-25,26,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=154
+,,,,,,,,,,2,8.51,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Lost Ball,,Sessions,,,,30-25,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=153
+,,,,,,,,,,2,8.44,Charlotte Bobcats,shot,,,Crawford,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,30-25,26,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=154
 ,,,,,,,,,,2,8.42,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,30-25,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=155
 ,,,,,,,,,,2,8.38,Los Angeles Clippers,shot,Turiaf,,,,,,,,,Barnes,2,,,made,,Layup,,,32-25,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=156
 ,,,,,,,,,,2,8.33,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,32-25,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=157
@@ -138,7 +138,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.12,Charlotte Bobcats,shot,Kidd-Gilchrist,,,,,,,,,Sessions,3,,,made,,3PT Jump Shot,,,32-28,24,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=163
 ,,,,,,,,,,2,7.51,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=164
 ,,,,,,,,,,2,7.50,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=165
-,,,,,,,,,,2,7.48,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Layup,,,32-28,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=166
+,,,,,,,,,,2,7.48,Los Angeles Clippers,shot,,,Haywood,,,,,,,Barnes,,,,missed,,Layup,,,32-28,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=166
 ,,,,,,,,,,2,7.48,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=167
 ,,,,,,,,,,2,7.48,Charlotte Bobcats,substitute,,,,Biyombo,,Haywood,,,,,,,,,,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=168
 ,,,,,,,,,,2,7.46,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,32-28,19,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=169
@@ -158,13 +158,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.29,Los Angeles Clippers,free throw,,,,,,,1,,2,Crawford,1,,foul,made,,,,,37-30,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=186
 ,,,,,,,,,,2,6.29,Charlotte Bobcats,substitute,,,,Walker,,Taylor,,,,,,,,,,,,,37-30,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=188
 ,,,,,,,,,,2,6.29,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,38-30,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=189
-,,,,,,,,,,2,6.07,Charlotte Bobcats,shot,,,,,,,,,,Mullens,,,,missed,,Dunk,,,38-30,3,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=191
+,,,,,,,,,,2,6.07,Charlotte Bobcats,shot,,,Griffin,,,,,,,Mullens,,,,missed,,Dunk,,,38-30,3,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=191
 ,,,,,,,,,,2,6.07,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,38-30,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=193
 ,,,,,,,,,,2,6.07,Charlotte Bobcats,jumpball,,Griffin,,,Mullens,,,,,,,,,,,,,,38-30,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=192
 ,,,,,,,,,,2,6.00,Los Angeles Clippers,shot,Crawford,,,,,,,,,Barnes,2,,,made,,Alley Oop Layup,,,40-30,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=194
 ,,,,,,,,,,2,5.49,Charlotte Bobcats,shot,Sessions,,,,,,,,,Mullens,2,,,made,,Layup,,,40-32,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=195
-,,,,,,,,,,2,5.31,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,,,,,40-32,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=196
-,,,,,,,,,,2,5.27,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,40-32,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=197
+,,,,,,,,,,2,5.31,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,Walker,,,,40-32,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=196
+,,,,,,,,,,2,5.27,Charlotte Bobcats,shot,,,Bledsoe,,,,,,,Sessions,,,,missed,,Layup,,,40-32,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=197
 ,,,,,,,,,,2,5.27,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,40-32,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=198
 ,,,,,,,,,,2,5.27,Los Angeles Clippers,substitute,,,,Jordan,,Barnes,,,,,,,,,,,,,40-32,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=202
 ,,,,,,,,,,2,5.27,Los Angeles Clippers,substitute,,,,Paul,,Turiaf,,,,,,,,,,,,,40-32,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=203
@@ -181,19 +181,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.22,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,40-34,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=214
 ,,,,,,,,,,2,4.15,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Driving Layup,,,40-34,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=215
 ,,,,,,,,,,2,4.13,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,40-34,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=216
-,,,,,,,,,,2,4.05,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Layup,,,40-34,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=217
+,,,,,,,,,,2,4.05,Los Angeles Clippers,shot,,,Kidd-Gilchrist,,,,,,,Bledsoe,,,,missed,,Layup,,,40-34,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=217
 ,,,,,,,,,,2,4.04,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,40-34,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=218
 ,,,,,,,,,,2,3.57,Los Angeles Clippers,shot,Jordan,,,,,,,,,Bledsoe,2,,,made,,Reverse Layup,,,42-34,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=219
 ,,,,,,,,,,2,3.33,Charlotte Bobcats,shot,,,,,,,,,,Mullens,,,,missed,,Layup,,,42-34,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=220
 ,,,,,,,,,,2,3.31,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,42-34,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=221
-,,,,,,,,,,2,3.30,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Layup,,,42-34,3,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=222
+,,,,,,,,,,2,3.30,Los Angeles Clippers,shot,,,Walker,,,,,,,Griffin,,,,missed,,Layup,,,42-34,3,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=222
 ,,,,,,,,,,2,3.30,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,42-34,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=223
 ,,,,,,,,,,2,3.08,Charlotte Bobcats,shot,Sessions,,,,,,,,,Kidd-Gilchrist,2,,,made,,Jump Shot,,,42-36,19,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=224
 ,,,,,,,,,,2,2.49,Los Angeles Clippers,shot,Griffin,,,,,,,,,Crawford,2,,,made,,Jump Shot,,,44-36,19,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=225
 ,,,,,,,,,,2,2.43,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Driving Layup,,,44-36,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=226
 ,,,,,,,,,,2,2.41,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,44-36,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=228
 ,,,,,,,,,,2,2.41,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,2,,,made,,Putback Dunk,,,44-38,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=227
-,,,,,,,,,,2,2.34,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,,,,,44-38,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=229
+,,,,,,,,,,2,2.34,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,Biyombo,,,,44-38,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=229
 ,,,,,,,,,,2,2.34,Charlotte Bobcats,turnover,,,,,,,,,,Biyombo,,,Step Out of Bounds,,,,,,44-38,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=230
 ,,,,,,,,,,2,2.34,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,44-38,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=231
 ,,,,,,,,,,2,2.14,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Alley Oop Layup,,,44-38,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=235
@@ -223,7 +223,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.56,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,54-48,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=265
 ,,,,,,,,,,3,9.47,Charlotte Bobcats,shot,,,,,,,,,,Mullens,,,,missed,,3PT Jump Shot,,,54-48,26,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=266
 ,,,,,,,,,,3,9.45,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,54-48,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=267
-,,,,,,,,,,3,9.34,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Bad Pass,,,,,,54-48,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=268
+,,,,,,,,,,3,9.34,Charlotte Bobcats,turnover,,,,,,,,,,Mullens,,,Bad Pass,,Butler,,,,54-48,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=268
 ,,,,,,,,,,3,9.28,Los Angeles Clippers,shot,Paul,,,,,,,,,Griffin,2,,,made,,Layup,,,56-48,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=269
 ,,,,,,,,,,3,9.28,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,56-48,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=270
 ,,,,,,,,,,3,9.28,Los Angeles Clippers,free throw,,,,,,,1,,1,Griffin,,,foul,missed,,,,,56-48,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=271
@@ -283,9 +283,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.10,Charlotte Bobcats,shot,Walker,,,,,,,,,Gordon,2,,,made,,Jump Shot,,,69-63,21,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=344
 ,,,,,,,,,,3,2.56,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Jump Shot,,,69-63,21,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=345
 ,,,,,,,,,,3,2.55,Charlotte Bobcats,rebound,,,,,,,,,,Haywood,,,,,,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=346
-,,,,,,,,,,3,2.49,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Layup,,,69-63,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=347
+,,,,,,,,,,3,2.49,Charlotte Bobcats,shot,,,Griffin,,,,,,,Walker,,,,missed,,Layup,,,69-63,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=347
 ,,,,,,,,,,3,2.46,Los Angeles Clippers,rebound,,,,,,,,,,Crawford,,,,,,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=348
-,,,,,,,,,,3,2.42,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,69-63,4,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=349
+,,,,,,,,,,3,2.42,Los Angeles Clippers,shot,,,Mullens,,,,,,,Crawford,,,,missed,,Jump Shot,,,69-63,4,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=349
 ,,,,,,,,,,3,2.40,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=350
 ,,,,,,,,,,3,2.35,Charlotte Bobcats,shot,,,,,,,,,,Henderson,2,,,made,,Jump Shot,,,69-65,12,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=352
 ,,,,,,,,,,3,2.35,Los Angeles Clippers,foul,,,,,,,,,,Jordan,,,,,,Shooting,,,69-65,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=353
@@ -333,9 +333,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.34,Charlotte Bobcats,rebound,,,,,,,,,,Gordon,,,,,,,,,81-76,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=403
 ,,,,,,,,,,4,9.26,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,81-76,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=405
 ,,,,,,,,,,4,9.26,Charlotte Bobcats,substitute,,,,Kidd-Gilchrist,,Taylor,,,,,,,,,,,,,81-76,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=408
-,,,,,,,,,,4,9.21,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Driving Jump Shot,,,81-76,6,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=409
+,,,,,,,,,,4,9.21,Charlotte Bobcats,shot,,,Crawford,,,,,,,Henderson,,,,missed,,Driving Jump Shot,,,81-76,6,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=409
 ,,,,,,,,,,4,9.21,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,81-76,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=410
-,,,,,,,,,,4,9.11,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Dunk,,,81-76,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=411
+,,,,,,,,,,4,9.11,Charlotte Bobcats,shot,,,Odom,,,,,,,Biyombo,,,,missed,,Dunk,,,81-76,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=411
 ,,,,,,,,,,4,9.08,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,81-76,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=412
 ,,,,,,,,,,4,9.04,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,81-76,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=413
 ,,,,,,,,,,4,9.02,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,81-76,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=414
@@ -344,16 +344,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.46,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Shooting,,,81-76,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=417
 ,,,,,,,,,,4,8.46,Charlotte Bobcats,free throw,,,,,,,1,,2,Henderson,1,,foul,made,,,,,81-77,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=418
 ,,,,,,,,,,4,8.46,Charlotte Bobcats,free throw,,,,,,,2,,2,Henderson,1,,foul,made,,,,,81-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=420
-,,,,,,,,,,4,8.31,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Driving Jump Shot,,,81-78,4,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=422
+,,,,,,,,,,4,8.31,Los Angeles Clippers,shot,,,Gordon,,,,,,,Crawford,,,,missed,,Driving Jump Shot,,,81-78,4,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=422
 ,,,,,,,,,,4,8.31,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,81-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=423
 ,,,,,,,,,,4,8.17,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,81-78,15,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=424
 ,,,,,,,,,,4,8.16,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,81-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=425
 ,,,,,,,,,,4,8.12,Los Angeles Clippers,shot,Crawford,,,,,,,,,Barnes,2,,,made,,Alley Oop Dunk,,,83-78,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=426
-,,,,,,,,,,4,7.53,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Bad Pass,,,,,,83-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=427
+,,,,,,,,,,4,7.53,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Bad Pass,,Crawford,,,,83-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=427
 ,,,,,,,,,,4,7.44,Los Angeles Clippers,shot,Bledsoe,,,,,,,,,Barnes,3,,,made,,3PT Jump Shot,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=428
 ,,,,,,,,,,4,7.43,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=429
 ,,,,,,,,,,4,7.43,Charlotte Bobcats,substitute,,,,Walker,,Gordon,,,,,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=432
-,,,,,,,,,,4,7.26,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,86-78,4,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=433
+,,,,,,,,,,4,7.26,Charlotte Bobcats,shot,,,Bledsoe,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,86-78,4,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=433
 ,,,,,,,,,,4,7.24,Los Angeles Clippers,rebound,,,,,,,,,,Crawford,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=434
 ,,,,,,,,,,4,7.20,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Reverse Layup,,,86-78,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=435
 ,,,,,,,,,,4,7.20,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=436
@@ -369,9 +369,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.24,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=446
 ,,,,,,,,,,4,6.19,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,86-78,24,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=447
 ,,,,,,,,,,4,6.17,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=448
-,,,,,,,,,,4,5.59,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,86-78,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=449
+,,,,,,,,,,4,5.59,Charlotte Bobcats,shot,,,Odom,,,,,,,Sessions,,,,missed,,Layup,,,86-78,2,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=449
 ,,,,,,,,,,4,5.58,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=450
-,,,,,,,,,,4,5.54,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Lost Ball,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=451
+,,,,,,,,,,4,5.54,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Lost Ball,,Bledsoe,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=451
 ,,,,,,,,,,4,5.49,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Layup,,,86-78,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=452
 ,,,,,,,,,,4,5.47,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=454
 ,,,,,,,,,,4,5.47,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Tip Shot,,,88-78,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=453
@@ -401,10 +401,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.53,Los Angeles Clippers,shot,Crawford,,,,,,,,,Barnes,3,,,made,,3PT Jump Shot,,,94-85,26,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=483
 ,,,,,,,,,,4,2.23,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Jump Shot,,,94-85,14,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=484
 ,,,,,,,,,,4,2.21,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=485
-,,,,,,,,,,4,2.20,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,94-85,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=486
+,,,,,,,,,,4,2.20,Charlotte Bobcats,shot,,,Odom,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,94-85,1,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=486
 ,,,,,,,,,,4,2.20,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=487
 ,,,,,,,,,,4,2.16,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=488
-,,,,,,,,,,4,2.08,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Jump Shot,,,94-85,9,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=492
+,,,,,,,,,,4,2.08,Charlotte Bobcats,shot,,,Barnes,,,,,,,Gordon,,,,missed,,Jump Shot,,,94-85,9,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=492
 ,,,,,,,,,,4,2.07,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=493
 ,,,,,,,,,,4,1.46,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,,,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=494
 ,,,,,,,,,,4,1.46,Los Angeles Clippers,foul,,,,,,,,,,Odom,,,,,,Loose ball,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=495
@@ -423,7 +423,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.30,Charlotte Bobcats,foul,,,,,,,,,,Henderson,,,,,,Personal Take,,,95-90,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=509
 ,,,,,,,,,,4,0.30,Los Angeles Clippers,free throw,,,,,,,1,,2,Crawford,1,,foul,made,,,,,96-90,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=510
 ,,,,,,,,,,4,0.30,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,97-90,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=512
-,,,,,,,,,,4,0.22,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,97-90,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=514
+,,,,,,,,,,4,0.22,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,Odom,,,,97-90,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=514
 ,,,,,,,,,,4,0.22,Charlotte Bobcats,foul,,,,,,,,,,Walker,,,,,,Personal,,,97-90,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=515
 ,,,,,,,,,,4,0.22,Los Angeles Clippers,free throw,,,,,,,1,,2,Paul,1,,foul,made,,,,,98-90,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=516
 ,,,,,,,,,,4,0.22,Los Angeles Clippers,free throw,,,,,,,2,,2,Paul,1,,foul,made,,,,,99-90,,http://stats.nba.com/cvp.html?GameID=0021200313&GameEventID=518

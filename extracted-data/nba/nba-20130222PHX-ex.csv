@@ -24,7 +24,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.46,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,11-0,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=26
 ,,,,,,,,,,1,8.33,Boston Celtics,shot,,,,,,,,,,Green,2,,,made,,Step Back Jump Shot,,,13-0,15,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=27
 ,,,,,,,,,,1,8.18,Phoenix Suns,shot,Scola,,,,,,,,,Dragic,2,,,made,,Jump Shot,,,13-2,12,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=28
-,,,,,,,,,,1,8.02,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,,,,,13-2,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=29
+,,,,,,,,,,1,8.02,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,Scola,,,,13-2,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=29
 ,,,,,,,,,,1,8.02,Boston Celtics,foul,,,,,,,,,,Bradley,,,,,,Personal,,,13-2,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=30
 ,,,,,,,,,,1,7.48,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,13-2,25,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=31
 ,,,,,,,,,,1,7.47,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,13-2,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=32
@@ -57,7 +57,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.00,Boston Celtics,free throw,,,,,,,1,,2,Green,1,,foul,made,,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=63
 ,,,,,,,,,,1,5.00,Boston Celtics,free throw,,,,,,,2,,2,Green,,,foul,missed,,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=65
 ,,,,,,,,,,1,4.59,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=67
-,,,,,,,,,,1,4.45,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=68
+,,,,,,,,,,1,4.45,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,Bradley,,,,17-9,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=68
 ,,,,,,,,,,1,4.40,Boston Celtics,shot,Lee,,,,,,,,,Green,2,,,made,,Layup,,,19-9,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=69
 ,,,,,,,,,,1,4.27,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,19-9,7,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=70
 ,,,,,,,,,,1,4.26,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,19-9,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=71
@@ -73,7 +73,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.26,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,21-11,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=82
 ,,,,,,,,,,1,3.15,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Jump Shot,,,21-11,16,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=83
 ,,,,,,,,,,1,3.14,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,21-11,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=84
-,,,,,,,,,,1,3.07,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,21-11,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=85
+,,,,,,,,,,1,3.07,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Tucker,,,,21-11,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=85
 ,,,,,,,,,,1,3.07,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Personal,,,21-11,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=86
 ,,,,,,,,,,1,2.50,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Jump Shot,,,21-11,8,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=87
 ,,,,,,,,,,1,2.49,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,21-11,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=88
@@ -135,7 +135,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.57,Boston Celtics,rebound,,,,,,,,,,Williams,,,,,,,,,32-23,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=157
 ,,,,,,,,,,2,9.45,Boston Celtics,shot,Williams,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,35-23,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=158
 ,,,,,,,,,,2,9.25,Phoenix Suns,shot,Dudley,,,,,,,,,O'Neal,2,,,made,,Dunk,,,35-25,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=159
-,,,,,,,,,,2,9.01,Boston Celtics,shot,,,,,,,,,,Wilcox,,,,missed,,Jump Shot,,,35-25,3,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=160
+,,,,,,,,,,2,9.01,Boston Celtics,shot,,,O'Neal,,,,,,,Wilcox,,,,missed,,Jump Shot,,,35-25,3,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=160
 ,,,,,,,,,,2,9.00,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,35-25,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=161
 ,,,,,,,,,,2,8.57,Boston Celtics,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,35-25,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=162
 ,,,,,,,,,,2,8.56,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,35-25,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=163
@@ -149,12 +149,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.02,Boston Celtics,shot,Williams,,,,,,,,,Pierce,2,,,made,,Jump Shot,,,39-30,9,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=174
 ,,,,,,,,,,2,7.36,Phoenix Suns,shot,Marshall,,,,,,,,,Dudley,3,,,made,,3PT Jump Shot,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=175
 ,,,,,,,,,,2,7.14,Boston Celtics,shot,Terry,,,,,,,,,Wilcox,2,,,made,,Layup,,,41-33,3,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=176
-,,,,,,,,,,2,6.58,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=177
+,,,,,,,,,,2,6.58,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,Pierce,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=177
 ,,,,,,,,,,2,6.43,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,41-33,4,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=178
 ,,,,,,,,,,2,6.42,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=179
 ,,,,,,,,,,2,6.35,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Driving Layup,,,41-33,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=180
 ,,,,,,,,,,2,6.34,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=181
-,,,,,,,,,,2,6.30,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=182
+,,,,,,,,,,2,6.30,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Dragic,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=182
 ,,,,,,,,,,2,6.26,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=183
 ,,,,,,,,,,2,6.26,Phoenix Suns,substitute,,,,Scola,,Beasley,,,,,,,,,,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=184
 ,,,,,,,,,,2,6.26,Phoenix Suns,substitute,,,,Gortat,,O'Neal,,,,,,,,,,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=185
@@ -174,7 +174,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.20,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,43-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=204
 ,,,,,,,,,,2,5.13,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Pullup Jump Shot,,,43-33,17,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=205
 ,,,,,,,,,,2,5.12,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,43-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=206
-,,,,,,,,,,2,5.09,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,43-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=207
+,,,,,,,,,,2,5.09,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Lee,,,,43-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=207
 ,,,,,,,,,,2,5.04,Phoenix Suns,foul,,,,,,,,,,Tucker,,,,,,Shooting Block,,,43-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=208
 ,,,,,,,,,,2,5.04,Boston Celtics,free throw,,,,,,,1,,2,Pierce,,,foul,missed,,,,,43-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=209
 ,,,,,,,,,,2,5.04,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,43-33,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=210
@@ -188,11 +188,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.05,Phoenix Suns,shot,Dragic,,,,,,,,,Gortat,2,,,made,,Layup,,,44-37,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=219
 ,,,,,,,,,,2,3.48,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,44-37,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=221
 ,,,,,,,,,,2,3.40,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Jump Shot,,,46-37,17,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=225
-,,,,,,,,,,2,3.22,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,46-37,4,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=226
+,,,,,,,,,,2,3.22,Phoenix Suns,shot,,,Green,,,,,,,Scola,,,,missed,,Jump Shot,,,46-37,4,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=226
 ,,,,,,,,,,2,3.21,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,46-37,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=227
-,,,,,,,,,,2,3.08,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,46-37,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=228
+,,,,,,,,,,2,3.08,Boston Celtics,shot,,,Dragic,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,46-37,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=228
 ,,,,,,,,,,2,3.06,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,46-37,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=229
-,,,,,,,,,,2,2.58,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,46-37,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=230
+,,,,,,,,,,2,2.58,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Green,,,,46-37,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=230
 ,,,,,,,,,,2,2.52,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Layup,,,46-37,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=231
 ,,,,,,,,,,2,2.51,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,46-37,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=232
 ,,,,,,,,,,2,2.36,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Hook Shot,,,46-37,6,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=233
@@ -203,14 +203,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.11,Boston Celtics,free throw,,,,,,,1,,2,Green,1,,foul,made,,,,,47-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=238
 ,,,,,,,,,,2,2.11,Phoenix Suns,substitute,,,,Morris,,Scola,,,,,,,,,,,,,47-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=240
 ,,,,,,,,,,2,2.11,Boston Celtics,free throw,,,,,,,2,,2,Green,1,,foul,made,,,,,48-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=241
-,,,,,,,,,,2,1.56,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,48-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=243
+,,,,,,,,,,2,1.56,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Bradley,,,,48-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=243
 ,,,,,,,,,,2,1.54,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Personal,,,48-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=245
 ,,,,,,,,,,2,1.54,Boston Celtics,free throw,,,,,,,1,,2,Bradley,,,foul,missed,,,,,48-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=246
 ,,,,,,,,,,2,1.54,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,48-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=247
 ,,,,,,,,,,2,1.54,Boston Celtics,free throw,,,,,,,2,,2,Bradley,1,,foul,made,,,,,49-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=248
 ,,,,,,,,,,2,1.31,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Turnaround Jump Shot,,,49-39,9,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=250
 ,,,,,,,,,,2,1.30,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,49-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=251
-,,,,,,,,,,2,1.25,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,49-39,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=252
+,,,,,,,,,,2,1.25,Boston Celtics,shot,,,Dragic,,,,,,,Lee,,,,missed,,Layup,,,49-39,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=252
 ,,,,,,,,,,2,1.24,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,49-39,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=253
 ,,,,,,,,,,2,1.24,Boston Celtics,shot,,,,,,,,,,Bass,2,,,made,,Putback Dunk,,,51-39,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=254
 ,,,,,,,,,,2,1.04,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Driving Reverse Layup,,,51-39,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=256
@@ -225,9 +225,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,53-41,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=266
 ,,,,,,,,,,3,11.43,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,53-41,15,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=269
 ,,,,,,,,,,3,11.42,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,53-41,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=270
-,,,,,,,,,,3,11.35,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Layup,,,53-41,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=271
+,,,,,,,,,,3,11.35,Phoenix Suns,shot,,,Green,,,,,,,Tucker,,,,missed,,Layup,,,53-41,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=271
 ,,,,,,,,,,3,11.34,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,53-41,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=272
-,,,,,,,,,,3,11.32,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Layup,,,53-41,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=273
+,,,,,,,,,,3,11.32,Phoenix Suns,shot,,,Green,,,,,,,Tucker,,,,missed,,Layup,,,53-41,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=273
 ,,,,,,,,,,3,11.32,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,53-41,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=274
 ,,,,,,,,,,3,11.32,Boston Celtics,substitute,,,,Williams,,Pierce,,,,,,,,,,,,,53-41,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=275
 ,,,,,,,,,,3,11.25,Phoenix Suns,shot,Dragic,,,,,,,,,Dudley,2,,,made,,Jump Shot,,,53-43,20,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=277
@@ -242,7 +242,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.01,Boston Celtics,substitute,,,,Pierce,,Williams,,,,,,,,,,,,,53-45,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=286
 ,,,,,,,,,,3,9.58,Phoenix Suns,shot,Dudley,,,,,,,,,Dragic,3,,,made,,3PT Jump Shot,,,53-48,25,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=287
 ,,,,,,,,,,3,9.39,Boston Celtics,shot,Pierce,,,,,,,,,Lee,3,,,made,,3PT Jump Shot,,,56-48,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=288
-,,,,,,,,,,3,9.30,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,56-48,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=289
+,,,,,,,,,,3,9.30,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Bradley,,,,56-48,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=289
 ,,,,,,,,,,3,9.27,Boston Celtics,shot,,,,,,,,,,Bradley,2,,,made,,Dunk,,,58-48,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=290
 ,,,,,,,,,,3,9.00,Boston Celtics,foul,,,,,,,,,,Bass,,,,,,Shooting,,,58-48,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=291
 ,,,,,,,,,,3,9.00,Phoenix Suns,free throw,,,,,,,1,,2,Scola,1,,foul,made,,,,,58-49,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=292
@@ -273,8 +273,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.33,Phoenix Suns,shot,Dudley,,,,,,,,,Tucker,3,,,made,,3PT Jump Shot,,,65-55,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=323
 ,,,,,,,,,,3,5.08,Boston Celtics,shot,,,,,,,,,,Green,2,,,made,,Jump Shot,,,67-55,22,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=325
 ,,,,,,,,,,3,4.47,Phoenix Suns,shot,Dragic,,,,,,,,,Morris,2,,,made,,Jump Shot,,,67-57,13,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=326
-,,,,,,,,,,3,4.21,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,,,,,67-57,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=327
-,,,,,,,,,,3,4.18,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Bad Pass,,,,,,67-57,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=328
+,,,,,,,,,,3,4.21,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,Morris,,,,67-57,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=327
+,,,,,,,,,,3,4.18,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Bad Pass,,Bradley,,,,67-57,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=328
 ,,,,,,,,,,3,4.14,Boston Celtics,shot,,,,,,,,,,Bradley,2,,,made,,Dunk,,,69-57,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=329
 ,,,,,,,,,,3,4.01,Phoenix Suns,shot,Dragic,,,,,,,,,Gortat,2,,,made,,Dunk,,,69-59,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=330
 ,,,,,,,,,,3,3.46,Boston Celtics,shot,Bradley,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,72-59,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=331
@@ -286,7 +286,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.35,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,72-59,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=338
 ,,,,,,,,,,3,3.19,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,72-59,17,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=339
 ,,,,,,,,,,3,3.18,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,72-59,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=340
-,,,,,,,,,,3,3.07,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,72-59,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=341
+,,,,,,,,,,3,3.07,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Green,,,,72-59,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=341
 ,,,,,,,,,,3,3.03,Boston Celtics,shot,Bradley,,,,,,,,,Williams,2,,,made,,Layup,,,74-59,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=342
 ,,,,,,,,,,3,3.03,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Shooting,,,74-59,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=343
 ,,,,,,,,,,3,3.03,Boston Celtics,free throw,,,,,,,1,,1,Williams,,,foul,missed,,,,,74-59,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=344
@@ -333,13 +333,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.09,Boston Celtics,shot,,,,,,,,,,Terry,2,,,made,,Driving Layup,,,89-70,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=392
 ,,,,,,,,,,4,8.52,Phoenix Suns,shot,,,,,,,,,,Garrett,,,,missed,,Layup,,,89-70,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=393
 ,,,,,,,,,,4,8.51,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,89-70,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=394
-,,,,,,,,,,4,8.42,Boston Celtics,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,89-70,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=395
+,,,,,,,,,,4,8.42,Boston Celtics,turnover,,,,,,,,,,Williams,,,Bad Pass,,Dragic,,,,89-70,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=395
 ,,,,,,,,,,4,8.36,Phoenix Suns,shot,Garrett,,,,,,,,,Dragic,2,,,made,,Layup,,,89-72,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=396
-,,,,,,,,,,4,8.16,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,89-72,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=397
+,,,,,,,,,,4,8.16,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Garrett,,,,89-72,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=397
 ,,,,,,,,,,4,8.12,Phoenix Suns,shot,Garrett,,,,,,,,,Marshall,2,,,made,,Layup,,,89-74,1,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=398
 ,,,,,,,,,,4,8.12,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,89-74,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=399
 ,,,,,,,,,,4,7.58,Boston Celtics,shot,Green,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,92-74,25,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=403
-,,,,,,,,,,4,7.36,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Layup,,,92-74,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=404
+,,,,,,,,,,4,7.36,Phoenix Suns,shot,,,Green,,,,,,,O'Neal,,,,missed,,Layup,,,92-74,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=404
 ,,,,,,,,,,4,7.34,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,92-74,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=405
 ,,,,,,,,,,4,7.28,Boston Celtics,shot,Terry,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,95-74,24,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=406
 ,,,,,,,,,,4,7.19,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,95-74,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=407
@@ -361,8 +361,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.40,Boston Celtics,shot,Green,,,,,,,,,Wilcox,2,,,made,,Dunk,,,103-76,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=429
 ,,,,,,,,,,4,5.21,Phoenix Suns,shot,,,,,,,,,,Marshall,,,,missed,,3PT Jump Shot,,,103-76,25,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=430
 ,,,,,,,,,,4,5.20,Boston Celtics,rebound,,,,,,,,,,Crawford,,,,,,,,,103-76,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=431
-,,,,,,,,,,4,5.11,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Bad Pass,,,,,,103-76,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=432
-,,,,,,,,,,4,5.06,Phoenix Suns,shot,,,,,,,,,,Marshall,,,,missed,,Layup,,,103-76,3,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=433
+,,,,,,,,,,4,5.11,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Bad Pass,,Morris,,,,103-76,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=432
+,,,,,,,,,,4,5.06,Phoenix Suns,shot,,,Green,,,,,,,Marshall,,,,missed,,Layup,,,103-76,3,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=433
 ,,,,,,,,,,4,5.04,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,103-76,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=434
 ,,,,,,,,,,4,5.00,Boston Celtics,shot,Green,,,,,,,,,Terry,3,,,made,,3PT Jump Shot,,,106-76,24,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=435
 ,,,,,,,,,,4,4.40,Phoenix Suns,shot,,,,,,,,,,Marshall,,,,missed,,3PT Jump Shot,,,106-76,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=436
@@ -394,7 +394,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.06,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,110-84,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=470
 ,,,,,,,,,,4,1.59,Phoenix Suns,shot,,,,,,,,,,Garrett,,,,missed,,3PT Jump Shot,,,110-84,25,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=471
 ,,,,,,,,,,4,1.58,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,110-84,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=472
-,,,,,,,,,,4,1.37,Boston Celtics,turnover,,,,,,,,,,Williams,,,Lost Ball,,,,,,110-84,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=475
+,,,,,,,,,,4,1.37,Boston Celtics,turnover,,,,,,,,,,Williams,,,Lost Ball,,Morris,,,,110-84,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=475
 ,,,,,,,,,,4,1.33,Boston Celtics,foul,,,,,,,,,,Williams,,,,,,Shooting,,,110-84,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=476
 ,,,,,,,,,,4,1.33,Phoenix Suns,free throw,,,,,,,1,,2,Morris,1,,foul,made,,,,,110-85,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=477
 ,,,,,,,,,,4,1.33,Phoenix Suns,free throw,,,,,,,2,,2,Morris,1,,foul,made,,,,,110-86,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=479
@@ -408,7 +408,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.06,Phoenix Suns,free throw,,,,,,,3,,3,Dragic,1,,foul,made,,,,,112-88,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=489
 ,,,,,,,,,,4,0.51,Boston Celtics,shot,,,,,,,,,,Williams,,,,missed,,Layup,,,112-88,2,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=491
 ,,,,,,,,,,4,0.51,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,112-88,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=492
-,,,,,,,,,,4,0.46,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Layup,,,112-88,3,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=493
+,,,,,,,,,,4,0.46,Phoenix Suns,shot,,,Wilcox,,,,,,,Morris,,,,missed,,Layup,,,112-88,3,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=493
 ,,,,,,,,,,4,0.44,Boston Celtics,rebound,,,,,,,,,,Crawford,,,,,,,,,112-88,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=494
 ,,,,,,,,,,4,0.41,Phoenix Suns,foul,,,,,,,,,,Marshall,,,,,,Shooting,,,112-88,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=495
 ,,,,,,,,,,4,0.41,Boston Celtics,free throw,,,,,,,1,,2,Melo,,,foul,missed,,,,,112-88,,http://stats.nba.com/cvp.html?GameID=0021200820&GameEventID=496

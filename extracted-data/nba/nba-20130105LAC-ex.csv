@@ -7,7 +7,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.50,Golden State Warriors,shot,,,,,,,,,,Barnes,2,,,made,,Jump Shot,,,2-2,15,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=7
 ,,,,,,,,,,1,10.33,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Layup,,,2-4,1,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=8
 ,,,,,,,,,,1,10.14,Golden State Warriors,shot,Barnes,,,,,,,,,Thompson,2,,,made,,Jump Shot,,,4-4,20,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=9
-,,,,,,,,,,1,9.53,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,4-4,12,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=10
+,,,,,,,,,,1,9.53,Los Angeles Clippers,shot,,,Ezeli,,,,,,,Griffin,,,,missed,,Jump Shot,,,4-4,12,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=10
 ,,,,,,,,,,1,9.52,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=11
 ,,,,,,,,,,1,9.38,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,4-4,16,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=12
 ,,,,,,,,,,1,9.36,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=13
@@ -38,8 +38,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.44,Golden State Warriors,foul,,,,,,,,,,Biedrins,,,,,,Personal,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=40
 ,,,,,,,,,,1,6.36,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=42
 ,,,,,,,,,,1,6.35,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=43
-,,,,,,,,,,1,6.20,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=44
-,,,,,,,,,,1,6.16,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Layup,,,6-10,1,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=45
+,,,,,,,,,,1,6.20,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Green,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=44
+,,,,,,,,,,1,6.16,Los Angeles Clippers,shot,,,Thompson,,,,,,,Green,,,,missed,,Layup,,,6-10,1,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=45
 ,,,,,,,,,,1,6.15,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=46
 ,,,,,,,,,,1,6.02,Golden State Warriors,foul,,,,,,,,,,Biedrins,,,,,,Shooting,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=47
 ,,,,,,,,,,1,6.02,Los Angeles Clippers,free throw,,,,,,,1,,2,Green,1,,foul,made,,,,,6-11,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=48
@@ -91,7 +91,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.31,Los Angeles Clippers,free throw,,,,,,,1,,1,Griffin,1,,foul,made,,,,,11-28,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=104
 ,,,,,,,,,,1,1.22,Los Angeles Clippers,foul,,,,,,,,,,,,,,,,,,,11-28,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=107
 ,,,,,,,,,,1,1.22,Golden State Warriors,free throw,,,,,,,,,,Jack,1,,Technical,made,,,,,12-28,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=108
-,,,,,,,,,,1,1.16,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Slam Dunk,,,12-28,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=110
+,,,,,,,,,,1,1.16,Golden State Warriors,shot,,,Odom,,,,,,,Barnes,,,,missed,,Slam Dunk,,,12-28,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=110
 ,,,,,,,,,,1,1.14,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,12-28,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=111
 ,,,,,,,,,,1,1.09,Los Angeles Clippers,shot,Odom,,,,,,,,,Barnes,2,,,made,,Jump Shot,,,12-30,17,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=112
 ,,,,,,,,,,1,0.47,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,3PT Jump Shot,,,12-30,26,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=114
@@ -105,7 +105,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.15,Golden State Warriors,substitute,,,,Thompson,,Barnes,,,,,,,,,,,,,12-33,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=126
 ,,,,,,,,,,1,0.15,Golden State Warriors,substitute,,,,Curry,,Jenkins,,,,,,,,,,,,,12-33,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=127
 ,,,,,,,,,,1,0.15,Los Angeles Clippers,substitute,,,,Butler,,Griffin,,,,,,,,,,,,,12-33,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=128
-,,,,,,,,,,1,0.06,Golden State Warriors,turnover,,,,,,,,,,Green,,,Lost Ball,,,,,,12-33,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=129
+,,,,,,,,,,1,0.06,Golden State Warriors,turnover,,,,,,,,,,Green,,,Lost Ball,,Barnes,,,,12-33,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=129
 ,,,,,,,,,,1,0.01,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Layup,,,12-33,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=130
 ,,,,,,,,,,1,0.01,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,12-33,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=132
 ,,,,,,,,,,1,0.01,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Tip Shot,,,12-35,1,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=131
@@ -114,7 +114,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.51,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Finger Roll Layup,,,14-35,3,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=138
 ,,,,,,,,,,2,11.51,Los Angeles Clippers,foul,,,,,,,,,,Odom,,,,,,Shooting,,,14-35,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=139
 ,,,,,,,,,,2,11.51,Golden State Warriors,free throw,,,,,,,1,,1,Curry,1,,foul,made,,,,,15-35,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=140
-,,,,,,,,,,2,11.34,Los Angeles Clippers,shot,,,,,,,,,,Turiaf,,,,missed,,Layup,,,15-35,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=142
+,,,,,,,,,,2,11.34,Los Angeles Clippers,shot,,,Landry,,,,,,,Turiaf,,,,missed,,Layup,,,15-35,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=142
 ,,,,,,,,,,2,11.33,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,15-35,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=143
 ,,,,,,,,,,2,11.33,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Personal,,,15-35,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=144
 ,,,,,,,,,,2,11.24,Los Angeles Clippers,shot,Bledsoe,,,,,,,,,Odom,2,,,made,,Jump Shot,,,15-37,21,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=145
@@ -123,7 +123,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.12,Golden State Warriors,free throw,,,,,,,2,,2,Lee,1,,foul,made,,,,,17-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=149
 ,,,,,,,,,,2,10.58,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Hook Shot,,,17-37,7,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=151
 ,,,,,,,,,,2,10.57,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,17-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=152
-,,,,,,,,,,2,10.50,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,17-37,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=153
+,,,,,,,,,,2,10.50,Golden State Warriors,shot,,,Barnes,,,,,,,Lee,,,,missed,,Layup,,,17-37,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=153
 ,,,,,,,,,,2,10.50,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,17-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=154
 ,,,,,,,,,,2,10.42,Golden State Warriors,shot,Thompson,,,,,,,,,Lee,2,,,made,,Driving Layup,,,19-37,3,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=157
 ,,,,,,,,,,2,10.29,Golden State Warriors,foul,,,,,,,,,,Landry,,,,,,Personal,,,19-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=158
@@ -132,7 +132,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.09,Los Angeles Clippers,foul,,,,,,,,,,Turiaf,,,,,,Shooting,,,19-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=162
 ,,,,,,,,,,2,10.09,Golden State Warriors,free throw,,,,,,,1,,2,Landry,1,,foul,made,,,,,20-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=163
 ,,,,,,,,,,2,10.09,Golden State Warriors,free throw,,,,,,,2,,2,Landry,1,,foul,made,,,,,21-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=165
-,,,,,,,,,,2,10.00,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,,,,,21-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=167
+,,,,,,,,,,2,10.00,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,Landry,,,,21-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=167
 ,,,,,,,,,,2,9.53,Golden State Warriors,shot,Jack,,,,,,,,,Curry,2,,,made,,Jump Bank Shot,,,23-37,17,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=168
 ,,,,,,,,,,2,9.46,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=169
 ,,,,,,,,,,2,9.46,Los Angeles Clippers,substitute,,,,Paul,,Green,,,,,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=171
@@ -151,7 +151,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.30,Los Angeles Clippers,shot,,,,,,,,,,Paul,3,,,made,,3PT Jump Shot,,,25-45,28,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=185
 ,,,,,,,,,,2,8.15,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,25-45,4,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=186
 ,,,,,,,,,,2,8.14,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,25-45,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=187
-,,,,,,,,,,2,8.14,Golden State Warriors,turnover,,,,,,,,,,Lee Poss,,,Lost Ball,,,,,,25-45,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=191
+,,,,,,,,,,2,8.14,Golden State Warriors,turnover,,,,,,,,,,Lee Poss,,,Lost Ball,,Griffin,,,,25-45,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=191
 ,,,,,,,,,,2,7.59,Golden State Warriors,foul,,,,,,,,,,Biedrins,,,,,,Personal,,,25-45,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=188
 ,,,,,,,,,,2,7.47,Los Angeles Clippers,shot,Barnes,,,,,,,,,Paul,3,,,made,,3PT Jump Shot,,,25-48,27,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=189
 ,,,,,,,,,,2,7.33,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Personal,,,25-48,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=190
@@ -162,22 +162,22 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.02,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,25-48,23,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=197
 ,,,,,,,,,,2,7.01,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,25-48,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=198
 ,,,,,,,,,,2,6.43,Golden State Warriors,shot,Lee,,,,,,,,,Curry,3,,,made,,3PT Jump Shot,,,28-48,24,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=200
-,,,,,,,,,,2,6.28,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,,,,,28-48,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=201
+,,,,,,,,,,2,6.28,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,Ezeli,,,,28-48,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=201
 ,,,,,,,,,,2,6.17,Golden State Warriors,shot,Curry,,,,,,,,,Thompson,3,,,made,,3PT Jump Shot,,,31-48,25,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=202
 ,,,,,,,,,,2,6.08,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,31-48,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=203
 ,,,,,,,,,,2,5.49,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,3,,,made,,3PT Jump Bank Shot,,,31-51,26,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=205
-,,,,,,,,,,2,5.41,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,31-51,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=206
+,,,,,,,,,,2,5.41,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Griffin,,,,31-51,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=206
 ,,,,,,,,,,2,5.38,Los Angeles Clippers,substitute,,,,Jordan,,Odom,,,,,,,,,,,,,31-51,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=210
 ,,,,,,,,,,2,5.29,Los Angeles Clippers,shot,Griffin,,,,,,,,,Barnes,3,,,made,,3PT Jump Shot,,,31-54,24,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=211
 ,,,,,,,,,,2,5.11,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,31-54,21,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=212
 ,,,,,,,,,,2,5.10,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=213
-,,,,,,,,,,2,4.50,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,31-54,4,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=214
+,,,,,,,,,,2,4.50,Los Angeles Clippers,shot,,,Ezeli,,,,,,,Griffin,,,,missed,,Jump Shot,,,31-54,4,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=214
 ,,,,,,,,,,2,4.49,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=215
 ,,,,,,,,,,2,4.49,Golden State Warriors,substitute,,,,Barnes,,Thompson,,,,,,,,,,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=216
-,,,,,,,,,,2,4.47,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,31-54,18,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=217
+,,,,,,,,,,2,4.47,Los Angeles Clippers,shot,,,Barnes,,,,,,,Barnes,,,,missed,,Jump Shot,,,31-54,18,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=217
 ,,,,,,,,,,2,4.47,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=218
 ,,,,,,,,,,2,4.47,Los Angeles Clippers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=219
-,,,,,,,,,,2,4.28,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Lost Ball,,,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=220
+,,,,,,,,,,2,4.28,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Lost Ball,,Bledsoe,,,,31-54,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=220
 ,,,,,,,,,,2,4.23,Los Angeles Clippers,shot,Barnes,,,,,,,,,Jordan,2,,,made,,Alley Oop Dunk,,,31-56,3,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=221
 ,,,,,,,,,,2,4.10,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Floating Jump Shot,,,31-56,9,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=222
 ,,,,,,,,,,2,4.08,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,31-56,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=223
@@ -215,7 +215,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.03,Los Angeles Clippers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,43-67,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=263
 ,,,,,,,,,,2,0.03,Golden State Warriors,substitute,,,,Jack,,Ezeli,,,,,,,,,,,,,43-67,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=264
 ,,,,,,,,,,2,0.03,Los Angeles Clippers,substitute,,,,Barnes,,Griffin,,,,,,,,,,,,,43-67,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=265
-,,,,,,,,,,2,0.00,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Layup,,,43-67,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=266
+,,,,,,,,,,2,0.00,Golden State Warriors,shot,,,Bledsoe,,,,,,,Jack,,,,missed,,Layup,,,43-67,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=266
 ,,,,,,,,,,2,0.00,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,43-67,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=267
 ,,,,,,,,,,3,11.45,Golden State Warriors,shot,Barnes,,,,,,,,,Curry,2,,,made,,Jump Shot,,,45-67,19,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=271
 ,,,,,,,,,,3,11.26,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,45-67,21,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=272
@@ -225,7 +225,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.05,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Foul,,,,,,45-70,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=276
 ,,,,,,,,,,3,10.46,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,3PT Jump Shot,,,45-70,27,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=277
 ,,,,,,,,,,3,10.45,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,45-70,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=278
-,,,,,,,,,,3,10.34,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,45-70,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=279
+,,,,,,,,,,3,10.34,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,Green,,,,45-70,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=279
 ,,,,,,,,,,3,10.30,Golden State Warriors,foul,,,,,,,,,,Ezeli,,,,,,Shooting,,,45-70,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=280
 ,,,,,,,,,,3,10.30,Los Angeles Clippers,free throw,,,,,,,1,,2,Jordan,,,foul,missed,,,,,45-70,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=281
 ,,,,,,,,,,3,10.30,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,45-70,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=282
@@ -234,7 +234,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.02,Golden State Warriors,foul,,,,,,,,,,,,,,,,,,,47-71,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=286
 ,,,,,,,,,,3,10.02,Los Angeles Clippers,free throw,,,,,,,,,,Paul,1,,Technical,made,,,,,47-72,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=287
 ,,,,,,,,,,3,9.48,Los Angeles Clippers,shot,,,,,,,,,,Paul,3,,,made,,3PT Jump Shot,,,47-75,25,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=289
-,,,,,,,,,,3,9.30,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,47-75,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=290
+,,,,,,,,,,3,9.30,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,Griffin,,,,47-75,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=290
 ,,,,,,,,,,3,9.25,Los Angeles Clippers,shot,Paul,,,,,,,,,Griffin,2,,,made,,Alley Oop Dunk,,,47-77,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=291
 ,,,,,,,,,,3,9.10,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,3PT Jump Shot,,,47-77,24,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=292
 ,,,,,,,,,,3,9.09,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,47-77,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=293
@@ -258,7 +258,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.44,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Layup,,,53-84,1,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=315
 ,,,,,,,,,,3,6.44,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,53-84,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=316
 ,,,,,,,,,,3,6.36,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Jump Shot,,,53-86,16,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=317
-,,,,,,,,,,3,6.25,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Lost Ball,,,,,,53-86,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=318
+,,,,,,,,,,3,6.25,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Lost Ball,,Paul,,,,53-86,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=318
 ,,,,,,,,,,3,6.17,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,53-86,25,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=319
 ,,,,,,,,,,3,6.16,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,53-86,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=320
 ,,,,,,,,,,3,6.09,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Jump Shot,,,55-86,9,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=321
@@ -270,7 +270,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.26,Golden State Warriors,free throw,,,,,,,2,,2,Landry,,,foul,missed,,,,,56-88,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=329
 ,,,,,,,,,,3,5.25,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,56-88,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=331
 ,,,,,,,,,,3,5.11,Los Angeles Clippers,shot,Paul,,,,,,,,,Jordan,2,,,made,,Alley Oop Layup,,,56-90,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=332
-,,,,,,,,,,3,5.00,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Lost Ball,,,,,,56-90,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=333
+,,,,,,,,,,3,5.00,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Lost Ball,,Green,,,,56-90,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=333
 ,,,,,,,,,,3,4.54,Los Angeles Clippers,shot,Paul,,,,,,,,,Jordan,2,,,made,,Alley Oop Dunk,,,56-92,1,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=334
 ,,,,,,,,,,3,4.37,Los Angeles Clippers,foul,,,,,,,,,,Green,,,,,,Personal,,,56-92,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=335
 ,,,,,,,,,,3,4.37,Golden State Warriors,foul,,,,,,,,,,,,,,,,,,,56-92,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=336
@@ -279,7 +279,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.23,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,56-94,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=339
 ,,,,,,,,,,3,4.08,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Jump Shot,,,56-94,10,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=341
 ,,,,,,,,,,3,4.07,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,56-94,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=342
-,,,,,,,,,,3,3.51,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,56-94,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=343
+,,,,,,,,,,3,3.51,Los Angeles Clippers,shot,,,Thompson,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,56-94,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=343
 ,,,,,,,,,,3,3.49,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,56-94,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=344
 ,,,,,,,,,,3,3.46,Los Angeles Clippers,foul,,,,,,,,,,Jordan,,,,,,Shooting,,,56-94,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=345
 ,,,,,,,,,,3,3.46,Golden State Warriors,free throw,,,,,,,1,,2,Thompson,,,foul,missed,,,,,56-94,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=346
@@ -312,13 +312,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.11,Golden State Warriors,substitute,,,,Curry,,Jenkins,,,,,,,,,,,,,65-99,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=380
 ,,,,,,,,,,3,1.11,Golden State Warriors,free throw,,,,,,,2,,2,Landry,1,,foul,made,,,,,66-99,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=381
 ,,,,,,,,,,3,0.54,Los Angeles Clippers,shot,Odom,,,,,,,,,Bledsoe,2,,,made,,Driving Layup,,,66-101,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=384
-,,,,,,,,,,3,0.43,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,,,,,66-101,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=385
+,,,,,,,,,,3,0.43,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,Odom,,,,66-101,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=385
 ,,,,,,,,,,3,0.32,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Reverse Layup,,,66-103,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=386
 ,,,,,,,,,,3,0.23,Golden State Warriors,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,66-103,27,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=387
 ,,,,,,,,,,3,0.22,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,66-103,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=388
 ,,,,,,,,,,3,0.01,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Jump Shot,,,66-103,3,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=389
 ,,,,,,,,,,3,0.00,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,66-103,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=390
-,,,,,,,,,,3,0.00,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Layup,,,66-103,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=391
+,,,,,,,,,,3,0.00,Los Angeles Clippers,shot,,,Landry,,,,,,,Bledsoe,,,,missed,,Layup,,,66-103,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=391
 ,,,,,,,,,,3,0.00,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,66-103,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=394
 ,,,,,,,,,,4,11.47,Los Angeles Clippers,shot,Green,,,,,,,,,Bledsoe,2,,,made,,Alley Oop Dunk,,,66-105,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=398
 ,,,,,,,,,,4,11.25,Golden State Warriors,shot,Tyler,,,,,,,,,Jenkins,2,,,made,,Jump Shot,,,68-105,21,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=399
@@ -336,12 +336,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.19,Golden State Warriors,shot,,,,,,,,,,Jefferson,,,,missed,,3PT Jump Shot,,,72-109,25,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=411
 ,,,,,,,,,,4,9.19,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=412
 ,,,,,,,,,,4,9.19,Los Angeles Clippers,foul,,,,,,,,,,Turiaf,,,,,,Loose ball,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=413
-,,,,,,,,,,4,9.10,Golden State Warriors,turnover,,,,,,,,,,Bazemore,,,Bad Pass,,,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=414
+,,,,,,,,,,4,9.10,Golden State Warriors,turnover,,,,,,,,,,Bazemore,,,Bad Pass,,Barnes,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=414
 ,,,,,,,,,,4,8.55,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,3PT Jump Shot,,,72-109,26,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=416
 ,,,,,,,,,,4,8.54,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=417
 ,,,,,,,,,,4,8.32,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,3PT Jump Shot,,,72-109,27,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=418
 ,,,,,,,,,,4,8.30,Golden State Warriors,rebound,,,,,,,,,,Bazemore,,,,,,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=419
-,,,,,,,,,,4,8.20,Golden State Warriors,shot,,,,,,,,,,Tyler,,,,missed,,Layup,,,72-109,1,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=420
+,,,,,,,,,,4,8.20,Golden State Warriors,shot,,,Turiaf,,,,,,,Tyler,,,,missed,,Layup,,,72-109,1,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=420
 ,,,,,,,,,,4,8.19,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=421
 ,,,,,,,,,,4,7.59,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Jump Shot,,,72-109,19,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=422
 ,,,,,,,,,,4,7.58,Golden State Warriors,rebound,,,,,,,,,,Jefferson,,,,,,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=423
@@ -354,11 +354,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.27,Los Angeles Clippers,turnover,,,,,,,,,,Hollins,,,Foul,,,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=432
 ,,,,,,,,,,4,7.10,Golden State Warriors,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,72-109,18,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=433
 ,,,,,,,,,,4,7.09,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=434
-,,,,,,,,,,4,6.57,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=435
+,,,,,,,,,,4,6.57,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,Green,,,,72-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=435
 ,,,,,,,,,,4,6.53,Golden State Warriors,shot,,,,,,,,,,Green,2,,,made,,Driving Dunk,,,74-109,1,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=436
 ,,,,,,,,,,4,6.28,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,74-109,26,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=437
 ,,,,,,,,,,4,6.27,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,74-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=438
-,,,,,,,,,,4,6.16,Golden State Warriors,turnover,,,,,,,,,,Tyler,,,Lost Ball,,,,,,74-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=439
+,,,,,,,,,,4,6.16,Golden State Warriors,turnover,,,,,,,,,,Tyler,,,Lost Ball,,Hollins,,,,74-109,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=439
 ,,,,,,,,,,4,6.11,Los Angeles Clippers,shot,Bledsoe,,,,,,,,,Barnes,2,,,made,,Driving Layup,,,74-111,2,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=440
 ,,,,,,,,,,4,5.52,Golden State Warriors,shot,,,,,,,,,,Green,2,,,made,,Hook Shot,,,76-111,7,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=441
 ,,,,,,,,,,4,5.29,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,76-111,19,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=442
@@ -370,14 +370,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.52,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Jump Shot,,,76-111,8,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=449
 ,,,,,,,,,,4,4.51,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,76-111,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=450
 ,,,,,,,,,,4,4.47,Golden State Warriors,shot,,,,,,,,,,Jenkins,2,,,made,,Pullup Jump Shot,,,78-111,21,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=451
-,,,,,,,,,,4,4.24,Los Angeles Clippers,shot,,,,,,,,,,Turiaf,,,,missed,,Jump Shot,,,78-111,7,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=452
+,,,,,,,,,,4,4.24,Los Angeles Clippers,shot,,,Tyler,,,,,,,Turiaf,,,,missed,,Jump Shot,,,78-111,7,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=452
 ,,,,,,,,,,4,4.22,Golden State Warriors,rebound,,,,,,,,,,Jefferson,,,,,,,,,78-111,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=453
 ,,,,,,,,,,4,4.17,Golden State Warriors,shot,,,,,,,,,,Jefferson,2,,,made,,Pullup Jump Shot,,,80-111,20,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=454
 ,,,,,,,,,,4,3.51,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,80-111,27,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=455
 ,,,,,,,,,,4,3.49,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,80-111,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=456
 ,,,,,,,,,,4,3.37,Golden State Warriors,shot,,,,,,,,,,Bazemore,2,,,made,,Step Back Jump Shot,,,82-111,16,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=457
 ,,,,,,,,,,4,3.26,Golden State Warriors,foul,,,,,,,,,,Green,,,,,,Personal,,,82-111,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=458
-,,,,,,,,,,4,3.20,Los Angeles Clippers,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,82-111,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=459
+,,,,,,,,,,4,3.20,Los Angeles Clippers,turnover,,,,,,,,,,Green,,,Bad Pass,,Green,,,,82-111,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=459
 ,,,,,,,,,,4,3.10,Golden State Warriors,shot,,,,,,,,,,Bazemore,2,,,made,,Jump Shot,,,84-111,18,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=460
 ,,,,,,,,,,4,3.09,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,84-111,,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=461
 ,,,,,,,,,,4,2.45,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,84-111,27,http://stats.nba.com/cvp.html?GameID=0021200498&GameEventID=463

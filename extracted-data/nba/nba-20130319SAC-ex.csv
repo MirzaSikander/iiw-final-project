@@ -11,8 +11,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.09,Sacramento Kings,free throw,,,,,,,2,,2,Cousins,1,,foul,made,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=13
 ,,,,,,,,,,1,9.52,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Jump Shot,,,4-5,19,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=15
 ,,,,,,,,,,1,9.38,Sacramento Kings,shot,Evans,,,,,,,,,Cousins,2,,,made,,Jump Hook Shot,,,4-7,11,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=16
-,,,,,,,,,,1,9.33,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=17
-,,,,,,,,,,1,9.27,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=18
+,,,,,,,,,,1,9.33,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Evans,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=17
+,,,,,,,,,,1,9.27,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,Butler,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=18
 ,,,,,,,,,,1,9.20,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,4-7,25,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=19
 ,,,,,,,,,,1,9.20,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=20
 ,,,,,,,,,,1,9.20,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Loose ball,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=21
@@ -59,7 +59,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.37,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=65
 ,,,,,,,,,,1,3.37,Sacramento Kings,substitute,,,,Thornton,,Evans,,,,,,,,,,,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=66
 ,,,,,,,,,,1,3.21,Los Angeles Clippers,shot,Paul,,,,,,,,,Butler,3,,,made,,3PT Jump Shot,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=67
-,,,,,,,,,,1,2.53,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,19-15,8,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=68
+,,,,,,,,,,1,2.53,Sacramento Kings,shot,,,Griffin,,,,,,,Thompson,,,,missed,,Jump Shot,,,19-15,8,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=68
 ,,,,,,,,,,1,2.53,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=69
 ,,,,,,,,,,1,2.53,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=71
 ,,,,,,,,,,1,2.53,Sacramento Kings,substitute,,,,Aldrich,,Thompson,,,,,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=73
@@ -94,8 +94,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.13,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=109
 ,,,,,,,,,,2,11.02,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,3PT Jump Shot,,,23-23,24,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=110
 ,,,,,,,,,,2,11.01,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=111
-,,,,,,,,,,2,10.54,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=112
-,,,,,,,,,,2,10.47,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=113
+,,,,,,,,,,2,10.54,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,Thomas,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=112
+,,,,,,,,,,2,10.47,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Paul,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=113
 ,,,,,,,,,,2,10.41,Los Angeles Clippers,shot,Barnes,,,,,,,,,Griffin,2,,,made,,Alley Oop Dunk,,,25-23,1,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=114
 ,,,,,,,,,,2,10.20,Sacramento Kings,shot,Thornton,,,,,,,,,Salmons,3,,,made,,3PT Jump Shot,,,25-26,24,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=115
 ,,,,,,,,,,2,10.05,Los Angeles Clippers,shot,Paul,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,28-26,24,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=116
@@ -106,14 +106,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.58,Los Angeles Clippers,substitute,,,,Billups,,Griffin,,,,,,,,,,,,,28-26,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=121
 ,,,,,,,,,,2,9.58,Los Angeles Clippers,substitute,,,,Hill,,Paul,,,,,,,,,,,,,28-26,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=122
 ,,,,,,,,,,2,9.58,Sacramento Kings,free throw,,,,,,,2,,2,Salmons,1,,foul,made,,,,,28-27,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=123
-,,,,,,,,,,2,9.48,Los Angeles Clippers,turnover,,,,,,,,,,Billups,,,Lost Ball,,,,,,28-27,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=125
+,,,,,,,,,,2,9.48,Los Angeles Clippers,turnover,,,,,,,,,,Billups,,,Lost Ball,,Douglas,,,,28-27,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=125
 ,,,,,,,,,,2,9.44,Sacramento Kings,shot,Thornton,,,,,,,,,Douglas,2,,,made,,Layup,,,28-29,2,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=126
-,,,,,,,,,,2,9.33,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=127
+,,,,,,,,,,2,9.33,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,Thornton,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=127
 ,,,,,,,,,,2,9.30,Sacramento Kings,shot,,,,,,,,,,Thornton,2,,,made,,Driving Layup,,,28-31,1,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=128
 ,,,,,,,,,,2,9.10,Los Angeles Clippers,shot,Hill,,,,,,,,,Barnes,3,,,made,,3PT Jump Shot,,,31-31,25,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=129
 ,,,,,,,,,,2,8.52,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,31-31,25,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=130
 ,,,,,,,,,,2,8.51,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=131
-,,,,,,,,,,2,8.44,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,Layup,,,31-31,3,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=132
+,,,,,,,,,,2,8.44,Los Angeles Clippers,shot,,,Aldrich,,,,,,,Odom,,,,missed,,Layup,,,31-31,3,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=132
 ,,,,,,,,,,2,8.42,Sacramento Kings,rebound,,,,,,,,,,Salmons,,,,,,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=133
 ,,,,,,,,,,2,8.37,Sacramento Kings,shot,Douglas,,,,,,,,,Thornton,3,,,made,,3PT Jump Shot,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=134
 ,,,,,,,,,,2,8.27,Los Angeles Clippers,substitute,,,,Paul,,Billups,,,,,,,,,,,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=138
@@ -168,7 +168,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.36,Sacramento Kings,shot,,,,,,,,,,Patterson,,,,missed,,3PT Jump Shot,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=195
 ,,,,,,,,,,2,2.35,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=196
 ,,,,,,,,,,2,2.31,Los Angeles Clippers,shot,Paul,,,,,,,,,Jordan,2,,,made,,Alley Oop Dunk,,,51-52,1,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=197
-,,,,,,,,,,2,2.05,Sacramento Kings,turnover,,,,,,,,,,Patterson Poss,,,Lost Ball,,,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=198
+,,,,,,,,,,2,2.05,Sacramento Kings,turnover,,,,,,,,,,Patterson Poss,,,Lost Ball,,Griffin,,,,51-52,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=198
 ,,,,,,,,,,2,1.58,Los Angeles Clippers,shot,Crawford,,,,,,,,,Butler,3,,,made,,3PT Jump Shot,,,54-52,25,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=199
 ,,,,,,,,,,2,1.46,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,54-52,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=200
 ,,,,,,,,,,2,1.46,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,54-52,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=201
@@ -177,7 +177,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.36,Sacramento Kings,shot,Douglas,,,,,,,,,Cousins,2,,,made,,Layup,,,54-54,2,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=206
 ,,,,,,,,,,2,1.10,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,54-54,26,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=208
 ,,,,,,,,,,2,1.10,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,54-54,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=209
-,,,,,,,,,,2,0.56,Sacramento Kings,turnover,,,,,,,,,,Salmons,,,Bad Pass,,,,,,54-54,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=210
+,,,,,,,,,,2,0.56,Sacramento Kings,turnover,,,,,,,,,,Salmons,,,Bad Pass,,Paul,,,,54-54,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=210
 ,,,,,,,,,,2,0.49,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,54-54,25,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=211
 ,,,,,,,,,,2,0.48,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,54-54,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=213
 ,,,,,,,,,,2,0.48,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Putback Dunk,,,54-54,1,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=212
@@ -196,10 +196,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.18,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Offensive Charge,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=230
 ,,,,,,,,,,3,11.18,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Foul,,,,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=231
 ,,,,,,,,,,3,11.05,Los Angeles Clippers,shot,Barnes,,,,,,,,,Butler,2,,,made,,Driving Layup,,,56-58,2,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=232
-,,,,,,,,,,3,10.55,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Jump Shot,,,56-58,5,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=233
+,,,,,,,,,,3,10.55,Sacramento Kings,shot,,,Barnes,,,,,,,Evans,,,,missed,,Jump Shot,,,56-58,5,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=233
 ,,,,,,,,,,3,10.53,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=234
-,,,,,,,,,,3,10.49,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=235
-,,,,,,,,,,3,10.44,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Lost Ball,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=236
+,,,,,,,,,,3,10.49,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Cousins,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=235
+,,,,,,,,,,3,10.44,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Lost Ball,,Barnes,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=236
 ,,,,,,,,,,3,10.34,Los Angeles Clippers,shot,Griffin,,,,,,,,,Barnes,2,,,made,,Layup,,,58-58,2,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=237
 ,,,,,,,,,,3,10.17,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,3PT Jump Shot,,,58-58,25,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=238
 ,,,,,,,,,,3,10.15,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,58-58,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=239
@@ -216,7 +216,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.41,Sacramento Kings,free throw,,,,,,,1,,2,Salmons,1,,foul,made,,,,,60-59,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=250
 ,,,,,,,,,,3,8.41,Sacramento Kings,free throw,,,,,,,2,,2,Salmons,1,,foul,made,,,,,60-60,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=252
 ,,,,,,,,,,3,8.28,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Reverse Slam Dunk,,,62-60,2,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=254
-,,,,,,,,,,3,8.05,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Lost Ball,,,,,,62-60,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=255
+,,,,,,,,,,3,8.05,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Lost Ball,,Griffin,,,,62-60,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=255
 ,,,,,,,,,,3,8.02,Sacramento Kings,foul,,,,,,,,,,Thomas,,,,,,Personal,,,62-60,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=256
 ,,,,,,,,,,3,8.02,Sacramento Kings,substitute,,,,Patterson,,Thompson,,,,,,,,,,,,,62-60,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=259
 ,,,,,,,,,,3,7.54,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,62-60,25,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=261
@@ -226,7 +226,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.44,Sacramento Kings,free throw,,,,,,,2,,2,Cousins,,,foul,missed,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=266
 ,,,,,,,,,,3,7.43,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=268
 ,,,,,,,,,,3,7.26,Sacramento Kings,foul,,,,,,,,,,Evans,,,,,,Personal,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=269
-,,,,,,,,,,3,7.18,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=270
+,,,,,,,,,,3,7.18,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,Thomas,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=270
 ,,,,,,,,,,3,7.18,Los Angeles Clippers,foul,,,,,,,,,,Paul,,,,,,Personal,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=271
 ,,,,,,,,,,3,7.03,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Jump Shot,,,62-61,3,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=272
 ,,,,,,,,,,3,7.02,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=273
@@ -302,10 +302,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.22,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=365
 ,,,,,,,,,,3,1.18,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=366
 ,,,,,,,,,,3,1.07,Los Angeles Clippers,shot,Hill,,,,,,,,,Odom,2,,,made,,Jump Shot,,,81-76,17,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=367
-,,,,,,,,,,3,0.52,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,81-76,2,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=368
+,,,,,,,,,,3,0.52,Sacramento Kings,shot,,,Barnes,,,,,,,Evans,,,,missed,,Layup,,,81-76,2,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=368
 ,,,,,,,,,,3,0.51,Los Angeles Clippers,rebound,,,,,,,,,,Hill,,,,,,,,,81-76,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=369
 ,,,,,,,,,,3,0.47,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Layup,,,83-76,3,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=370
-,,,,,,,,,,3,0.38,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Lost Ball,,,,,,83-76,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=371
+,,,,,,,,,,3,0.38,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Lost Ball,,Paul,,,,83-76,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=371
 ,,,,,,,,,,3,0.32,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Layup,,,83-76,2,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=372
 ,,,,,,,,,,3,0.32,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,83-76,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=373
 ,,,,,,,,,,3,0.32,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Personal,,,83-76,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=374
@@ -326,7 +326,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.00,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,83-78,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=393
 ,,,,,,,,,,4,11.41,Los Angeles Clippers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,83-78,15,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=396
 ,,,,,,,,,,4,11.38,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,83-78,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=397
-,,,,,,,,,,4,11.24,Sacramento Kings,turnover,,,,,,,,,,Patterson,,,Bad Pass,,,,,,83-78,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=398
+,,,,,,,,,,4,11.24,Sacramento Kings,turnover,,,,,,,,,,Patterson,,,Bad Pass,,Crawford,,,,83-78,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=398
 ,,,,,,,,,,4,11.17,Los Angeles Clippers,shot,,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,86-78,24,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=399
 ,,,,,,,,,,4,11.01,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,86-78,25,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=400
 ,,,,,,,,,,4,11.00,Sacramento Kings,rebound,,,,,,,,,,Salmons,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=401
@@ -339,7 +339,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.19,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=408
 ,,,,,,,,,,4,10.00,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,Jump Shot,,,86-80,21,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=409
 ,,,,,,,,,,4,9.59,Sacramento Kings,rebound,,,,,,,,,,Douglas,,,,,,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=410
-,,,,,,,,,,4,9.53,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=411
+,,,,,,,,,,4,9.53,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Bad Pass,,Paul,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=411
 ,,,,,,,,,,4,9.45,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=412
 ,,,,,,,,,,4,9.45,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=413
 ,,,,,,,,,,4,9.31,Sacramento Kings,shot,Evans,,,,,,,,,Douglas,2,,,made,,Step Back Jump Shot,,,86-82,20,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=414
@@ -347,7 +347,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.30,Los Angeles Clippers,substitute,,,,Griffin,,Hill,,,,,,,,,,,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=416
 ,,,,,,,,,,4,9.30,Los Angeles Clippers,substitute,,,,Hill,,Paul,,,,,,,,,,,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=417
 ,,,,,,,,,,4,9.27,Sacramento Kings,substitute,,,,Cousins,,Patterson,,,,,,,,,,,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=418
-,,,,,,,,,,4,9.08,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,,,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=419
+,,,,,,,,,,4,9.08,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,Evans,,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=419
 ,,,,,,,,,,4,9.08,Los Angeles Clippers,foul,,,,,,,,,,Griffin,,,,,,Personal,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=420
 ,,,,,,,,,,4,8.48,Los Angeles Clippers,foul,,,,,,,,,,Odom,,,,,,Shooting,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=421
 ,,,,,,,,,,4,8.48,Sacramento Kings,free throw,,,,,,,1,,2,Evans,1,,foul,made,,,,,86-83,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=422
@@ -381,7 +381,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.00,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,89-94,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=459
 ,,,,,,,,,,4,5.51,Sacramento Kings,foul,,,,,,,,,,Salmons,,,,,,Personal,,,89-94,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=460
 ,,,,,,,,,,4,5.35,Los Angeles Clippers,shot,Crawford,,,,,,,,,Griffin,2,,,made,,Jump Bank Shot,,,91-94,5,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=461
-,,,,,,,,,,4,5.18,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,91-94,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=462
+,,,,,,,,,,4,5.18,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Crawford,,,,91-94,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=462
 ,,,,,,,,,,4,5.15,Sacramento Kings,foul,,,,,,,,,,Douglas,,,,,,Personal,,,91-94,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=463
 ,,,,,,,,,,4,5.15,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,91-94,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=465
 ,,,,,,,,,,4,5.15,Sacramento Kings,substitute,,,,Patterson,,Salmons,,,,,,,,,,,,,91-94,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=466
@@ -412,7 +412,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.52,Sacramento Kings,shot,Thornton,,,,,,,,,Douglas,3,,,made,,3PT Jump Shot,,,96-104,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=499
 ,,,,,,,,,,4,2.51,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,96-104,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=500
 ,,,,,,,,,,4,2.36,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Dunk,,,98-104,1,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=504
-,,,,,,,,,,4,2.11,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Jump Shot,,,98-104,8,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=505
+,,,,,,,,,,4,2.11,Sacramento Kings,shot,,,Barnes,,,,,,,Evans,,,,missed,,Jump Shot,,,98-104,8,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=505
 ,,,,,,,,,,4,2.10,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,98-104,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=506
 ,,,,,,,,,,4,2.06,Sacramento Kings,shot,Cousins,,,,,,,,,Douglas,3,,,made,,3PT Jump Shot,,,98-107,29,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=507
 ,,,,,,,,,,4,1.56,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,98-107,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=508
@@ -425,7 +425,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.29,Los Angeles Clippers,foul,,,,,,,,,,Barnes,,,,,,Personal,,,99-110,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=518
 ,,,,,,,,,,4,1.29,Sacramento Kings,free throw,,,,,,,1,,2,Douglas,1,,foul,made,,,,,99-111,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=519
 ,,,,,,,,,,4,1.29,Sacramento Kings,free throw,,,,,,,2,,2,Douglas,1,,foul,made,,,,,99-112,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=521
-,,,,,,,,,,4,1.10,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,,,,,99-112,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=523
+,,,,,,,,,,4,1.10,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Lost Ball,,Cousins,,,,99-112,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=523
 ,,,,,,,,,,4,0.50,Sacramento Kings,shot,,,,,,,,,,Douglas,,,,missed,,3PT Jump Shot,,,99-112,25,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=524
 ,,,,,,,,,,4,0.49,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,99-112,,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=525
 ,,,,,,,,,,4,0.47,Los Angeles Clippers,shot,Barnes,,,,,,,,,Griffin,2,,,made,,Dunk,,,101-112,1,http://stats.nba.com/cvp.html?GameID=0021201007&GameEventID=526

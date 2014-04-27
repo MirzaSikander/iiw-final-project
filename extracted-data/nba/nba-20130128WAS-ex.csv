@@ -25,7 +25,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.39,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Running Layup,,,1-7,2,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=30
 ,,,,,,,,,,1,9.33,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,1-7,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=31
 ,,,,,,,,,,1,9.26,Sacramento Kings,shot,Evans,,,,,,,,,Thompson,2,,,made,,Layup,,,3-7,2,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=33
-,,,,,,,,,,1,9.08,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,3-7,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=34
+,,,,,,,,,,1,9.08,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Thompson,,,,3-7,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=34
 ,,,,,,,,,,1,9.03,Sacramento Kings,shot,Evans,,,,,,,,,Thomas,2,,,made,,Layup,,,5-7,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=35
 ,,,,,,,,,,1,8.43,Washington Wizards,shot,,,,,,,,,,Okafor,2,,,made,,Turnaround Jump Shot,,,5-9,5,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=36
 ,,,,,,,,,,1,8.24,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Offensive Charge,,,5-9,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=37
@@ -37,16 +37,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.37,Sacramento Kings,substitute,,,,Robinson,,Thompson,,,,,,,,,,,,,7-12,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=44
 ,,,,,,,,,,1,7.37,Washington Wizards,free throw,,,,,,,2,,2,Okafor,1,,foul,made,,,,,7-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=45
 ,,,,,,,,,,1,7.19,Sacramento Kings,shot,Evans,,,,,,,,,Robinson,2,,,made,,Jump Shot,,,9-13,17,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=48
-,,,,,,,,,,1,7.07,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,,,,,9-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=49
+,,,,,,,,,,1,7.07,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,Robinson,,,,9-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=49
 ,,,,,,,,,,1,7.02,Sacramento Kings,shot,Evans,,,,,,,,,Cousins,2,,,made,,Slam Dunk,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=50
 ,,,,,,,,,,1,6.53,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Offensive Charge,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=51
 ,,,,,,,,,,1,6.53,Washington Wizards,turnover,,,,,,,,,,Wall,,,Foul,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=52
-,,,,,,,,,,1,6.44,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,11-13,3,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=53
+,,,,,,,,,,1,6.44,Sacramento Kings,shot,,,Nene,,,,,,,Evans,,,,missed,,Layup,,,11-13,3,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=53
 ,,,,,,,,,,1,6.43,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=54
 ,,,,,,,,,,1,6.34,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,Jump Shot,,,11-13,17,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=55
 ,,,,,,,,,,1,6.33,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=56
-,,,,,,,,,,1,6.29,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Bad Pass,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=57
-,,,,,,,,,,1,6.22,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=58
+,,,,,,,,,,1,6.29,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Bad Pass,,Evans,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=57
+,,,,,,,,,,1,6.22,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Nene,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=58
 ,,,,,,,,,,1,6.15,Washington Wizards,shot,Wall,,,,,,,,,Beal,3,,,made,,3PT Jump Shot,,,11-16,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=59
 ,,,,,,,,,,1,5.56,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Jump Shot,,,13-16,17,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=60
 ,,,,,,,,,,1,5.34,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Jump Shot,,,13-16,5,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=62
@@ -61,7 +61,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.16,Washington Wizards,foul,,,,,,,,,,Beal,,,,,,Shooting,,,15-16,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=71
 ,,,,,,,,,,1,5.16,Washington Wizards,substitute,,,,Price,,Wall,,,,,,,,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=72
 ,,,,,,,,,,1,5.16,Sacramento Kings,free throw,,,,,,,1,,1,Robinson,1,,foul,made,,,,,16-16,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=73
-,,,,,,,,,,1,5.00,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Layup,,,16-16,3,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=76
+,,,,,,,,,,1,5.00,Washington Wizards,shot,,,Robinson,,,,,,,Nene,,,,missed,,Layup,,,16-16,3,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=76
 ,,,,,,,,,,1,4.58,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,16-16,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=77
 ,,,,,,,,,,1,4.54,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Driving Layup,,,18-16,3,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=78
 ,,,,,,,,,,1,4.29,Washington Wizards,shot,,,,,,,,,,Okafor,2,,,made,,Jump Shot,,,18-18,5,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=79
@@ -93,7 +93,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.21,Washington Wizards,shot,,,,,,,,,,Okafor,2,,,made,,Jump Shot,,,25-28,16,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=114
 ,,,,,,,,,,1,1.05,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,25-28,24,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=115
 ,,,,,,,,,,1,1.04,Washington Wizards,rebound,,,,,,,,,,Price,,,,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=116
-,,,,,,,,,,1,1.00,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=117
+,,,,,,,,,,1,1.00,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,Cousins,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=117
 ,,,,,,,,,,1,0.56,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Layup,,,27-28,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=118
 ,,,,,,,,,,1,0.48,Washington Wizards,shot,Crawford,,,,,,,,,Okafor,2,,,made,,Jump Shot,,,27-30,3,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=119
 ,,,,,,,,,,1,0.28,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,Jump Shot,,,27-30,6,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=120
@@ -146,7 +146,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.48,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,3PT Jump Shot,,,36-40,26,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=175
 ,,,,,,,,,,2,6.46,Sacramento Kings,rebound,,,,,,,,,,Thornton,,,,,,,,,36-40,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=176
 ,,,,,,,,,,2,6.43,Sacramento Kings,shot,Thornton,,,,,,,,,Garcia,2,,,made,,Running Layup,,,38-40,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=177
-,,,,,,,,,,2,6.27,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,38-40,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=178
+,,,,,,,,,,2,6.27,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,Fredette,,,,38-40,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=178
 ,,,,,,,,,,2,6.24,Washington Wizards,foul,,,,,,,,,,Booker,,,,,,Shooting,,,38-40,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=179
 ,,,,,,,,,,2,6.24,Sacramento Kings,free throw,,,,,,,1,,2,Fredette,1,,foul,made,,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=180
 ,,,,,,,,,,2,6.24,Washington Wizards,substitute,,,,Wall,,Price,,,,,,,,,,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=182
@@ -157,7 +157,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.51,Sacramento Kings,shot,Fredette,,,,,,,,,Garcia,3,,,made,,3PT Jump Shot,,,43-42,27,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=191
 ,,,,,,,,,,2,5.27,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Driving Layup,,,43-44,2,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=192
 ,,,,,,,,,,2,5.19,Sacramento Kings,shot,Fredette,,,,,,,,,Thornton,3,,,made,,3PT Jump Shot,,,46-44,26,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=193
-,,,,,,,,,,2,5.05,Washington Wizards,turnover,,,,,,,,,,Booker,,,Lost Ball,,,,,,46-44,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=194
+,,,,,,,,,,2,5.05,Washington Wizards,turnover,,,,,,,,,,Booker,,,Lost Ball,,Garcia,,,,46-44,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=194
 ,,,,,,,,,,2,5.00,Washington Wizards,substitute,,,,Beal,,Crawford,,,,,,,,,,,,,46-44,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=197
 ,,,,,,,,,,2,5.00,Washington Wizards,substitute,,,,Nene,,Booker,,,,,,,,,,,,,46-44,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=198
 ,,,,,,,,,,2,5.00,Washington Wizards,substitute,,,,Webster,,Ariza,,,,,,,,,,,,,46-44,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=199
@@ -197,7 +197,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.38,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,49-53,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=239
 ,,,,,,,,,,2,1.22,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,3PT Jump Shot,,,49-53,26,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=240
 ,,,,,,,,,,2,1.21,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,49-53,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=241
-,,,,,,,,,,2,1.06,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,,,,,49-53,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=242
+,,,,,,,,,,2,1.06,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,Okafor,,,,49-53,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=242
 ,,,,,,,,,,2,1.02,Washington Wizards,shot,Beal,,,,,,,,,Wall,2,,,made,,Slam Dunk,,,49-55,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=243
 ,,,,,,,,,,2,0.49,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Personal,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=244
 ,,,,,,,,,,2,0.49,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Technical,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=245
@@ -212,7 +212,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Sacramento Kings,turnover,,,,,,,,,,Garcia,,,Bad Pass,,,,,,53-57,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=257
 ,,,,,,,,,,3,11.43,Sacramento Kings,shot,,,,,,,,,,Garcia,,,,missed,,Layup,,,53-57,3,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=261
 ,,,,,,,,,,3,11.41,Washington Wizards,rebound,,,,,,,,,,Beal,,,,,,,,,53-57,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=262
-,,,,,,,,,,3,11.25,Washington Wizards,turnover,,,,,,,,,,Webster,,,Bad Pass,,,,,,53-57,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=263
+,,,,,,,,,,3,11.25,Washington Wizards,turnover,,,,,,,,,,Webster,,,Bad Pass,,Cousins,,,,53-57,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=263
 ,,,,,,,,,,3,11.19,Sacramento Kings,shot,Cousins,,,,,,,,,Evans,2,,,made,,Running Reverse Layup,,,55-57,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=264
 ,,,,,,,,,,3,10.52,Washington Wizards,shot,,,,,,,,,,Okafor,2,,,made,,Jump Shot,,,55-59,8,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=265
 ,,,,,,,,,,3,10.37,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Layup,,,57-59,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=266
@@ -222,7 +222,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.20,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,3PT Jump Shot,,,59-61,26,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=270
 ,,,,,,,,,,3,9.19,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=271
 ,,,,,,,,,,3,9.06,Sacramento Kings,shot,Garcia,,,,,,,,,Cousins,2,,,made,,Layup,,,61-61,2,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=272
-,,,,,,,,,,3,8.46,Washington Wizards,turnover,,,,,,,,,,Beal,,,Lost Ball,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=273
+,,,,,,,,,,3,8.46,Washington Wizards,turnover,,,,,,,,,,Beal,,,Lost Ball,,Garcia,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=273
 ,,,,,,,,,,3,8.42,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Discontinue Dribble,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=274
 ,,,,,,,,,,3,8.32,Washington Wizards,turnover,,,,,,,,,,Webster,,,Traveling,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=275
 ,,,,,,,,,,3,8.21,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Jump Shot,,,61-61,3,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=277
@@ -230,7 +230,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.20,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,61-61,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=279
 ,,,,,,,,,,3,8.20,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=280
 ,,,,,,,,,,3,8.20,Sacramento Kings,foul,,,,,,,,,,Evans,,,,,,Loose ball,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=281
-,,,,,,,,,,3,8.02,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Jump Shot,,,61-61,10,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=282
+,,,,,,,,,,3,8.02,Washington Wizards,shot,,,Cousins,,,,,,,Wall,,,,missed,,Jump Shot,,,61-61,10,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=282
 ,,,,,,,,,,3,8.00,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=283
 ,,,,,,,,,,3,7.58,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Jump Shot,,,61-61,12,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=284
 ,,,,,,,,,,3,7.58,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=285
@@ -276,7 +276,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.23,Sacramento Kings,substitute,,,,Robinson,,Thompson,,,,,,,,,,,,,65-67,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=332
 ,,,,,,,,,,3,4.23,Sacramento Kings,free throw,,,,,,,2,,2,Evans,,,foul,missed,,,,,65-67,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=333
 ,,,,,,,,,,3,4.21,Washington Wizards,rebound,,,,,,,,,,Ariza,,,,,,,,,65-67,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=335
-,,,,,,,,,,3,4.05,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Jump Shot,,,65-67,12,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=337
+,,,,,,,,,,3,4.05,Washington Wizards,shot,,,Robinson,,,,,,,Seraphin,,,,missed,,Jump Shot,,,65-67,12,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=337
 ,,,,,,,,,,3,4.03,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,65-67,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=338
 ,,,,,,,,,,3,3.57,Sacramento Kings,shot,Thomas,,,,,,,,,Garcia,2,,,made,,Layup,,,67-67,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=339
 ,,,,,,,,,,3,3.40,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Jump Shot,,,67-67,14,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=340
@@ -302,7 +302,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.39,Sacramento Kings,foul,,,,,,,,,,Robinson,,,,,,Loose ball,,,67-70,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=366
 ,,,,,,,,,,3,2.39,Washington Wizards,free throw,,,,,,,1,,2,Ariza,1,,foul,made,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=367
 ,,,,,,,,,,3,2.39,Washington Wizards,free throw,,,,,,,2,,2,Ariza,1,,foul,made,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=369
-,,,,,,,,,,3,2.27,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=372
+,,,,,,,,,,3,2.27,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Seraphin,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=372
 ,,,,,,,,,,3,2.17,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Personal,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=373
 ,,,,,,,,,,3,2.17,Washington Wizards,free throw,,,,,,,1,,2,Okafor,1,,foul,made,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=374
 ,,,,,,,,,,3,2.17,Sacramento Kings,substitute,,,,Hayes,,Cousins,,,,,,,,,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=376
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.26,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,67-74,27,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=387
 ,,,,,,,,,,3,1.24,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=388
 ,,,,,,,,,,3,1.12,Sacramento Kings,shot,Fredette,,,,,,,,,Thornton,2,,,made,,Layup,,,69-74,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=389
-,,,,,,,,,,3,1.05,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,69-74,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=390
+,,,,,,,,,,3,1.05,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Garcia,,,,69-74,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=390
 ,,,,,,,,,,3,0.44,Sacramento Kings,shot,,,,,,,,,,Fredette,3,,,made,,3PT Pullup Jump Shot,,,72-74,27,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=391
 ,,,,,,,,,,3,0.31,Washington Wizards,shot,Okafor,,,,,,,,,Ariza,2,,,made,,Jump Shot,,,72-76,21,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=392
 ,,,,,,,,,,3,0.06,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,72-76,29,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=393
@@ -328,17 +328,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.00,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Discontinue Dribble,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=405
 ,,,,,,,,,,4,10.45,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Jump Shot,,,72-78,18,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=406
 ,,,,,,,,,,4,10.44,Sacramento Kings,rebound,,,,,,,,,,Thornton,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=407
-,,,,,,,,,,4,10.37,Sacramento Kings,turnover,,,,,,,,,,Robinson,,,Lost Ball,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=408
+,,,,,,,,,,4,10.37,Sacramento Kings,turnover,,,,,,,,,,Robinson,,,Lost Ball,,Ariza,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=408
 ,,,,,,,,,,4,10.29,Sacramento Kings,foul,,,,,,,,,,Thornton,,,,,,Personal,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=409
 ,,,,,,,,,,4,10.29,Sacramento Kings,substitute,,,,Evans,,Garcia,,,,,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=410
 ,,,,,,,,,,4,10.29,Washington Wizards,substitute,,,,Nene,,Okafor,,,,,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=411
-,,,,,,,,,,4,10.21,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=412
+,,,,,,,,,,4,10.21,Washington Wizards,turnover,,,,,,,,,,Nene,,,Lost Ball,,Hayes,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=412
 ,,,,,,,,,,4,10.11,Sacramento Kings,shot,Fredette,,,,,,,,,Hayes,2,,,made,,Layup,,,74-78,2,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=413
 ,,,,,,,,,,4,9.57,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,Jump Shot,,,74-78,16,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=414
 ,,,,,,,,,,4,9.56,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=415
 ,,,,,,,,,,4,9.40,Sacramento Kings,shot,,,,,,,,,,Hayes,,,,missed,,Jump Shot,,,74-78,10,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=416
 ,,,,,,,,,,4,9.39,Washington Wizards,rebound,,,,,,,,,,Ariza,,,,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=417
-,,,,,,,,,,4,9.32,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=418
+,,,,,,,,,,4,9.32,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,Evans,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=418
 ,,,,,,,,,,4,9.27,Sacramento Kings,shot,Evans,,,,,,,,,Fredette,2,,,made,,Layup,,,76-78,1,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=419
 ,,,,,,,,,,4,9.11,Washington Wizards,substitute,,,,Wall,,Price,,,,,,,,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=420
 ,,,,,,,,,,4,9.11,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=421
@@ -348,7 +348,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.36,Sacramento Kings,foul,,,,,,,,,,Robinson,,,,,,Loose ball,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=427
 ,,,,,,,,,,4,8.26,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,3PT Jump Shot,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=428
 ,,,,,,,,,,4,8.25,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=429
-,,,,,,,,,,4,8.20,Washington Wizards,turnover,,,,,,,,,,Ariza,,,Bad Pass,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=430
+,,,,,,,,,,4,8.20,Washington Wizards,turnover,,,,,,,,,,Ariza,,,Bad Pass,,Evans,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=430
 ,,,,,,,,,,4,8.20,Washington Wizards,foul,,,,,,,,,,Nene,,,,,,Shooting,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=431
 ,,,,,,,,,,4,8.20,Sacramento Kings,free throw,,,,,,,1,,2,Evans,1,,foul,made,,,,,77-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=432
 ,,,,,,,,,,4,8.20,Sacramento Kings,free throw,,,,,,,2,,2,Evans,1,,foul,made,,,,,78-78,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=434
@@ -402,12 +402,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.10,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Floating Jump Shot,,,91-90,3,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=492
 ,,,,,,,,,,4,1.04,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Layup,,,91-90,2,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=493
 ,,,,,,,,,,4,1.03,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=494
-,,,,,,,,,,4,0.41,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,91-90,9,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=495
+,,,,,,,,,,4,0.41,Sacramento Kings,shot,,,Ariza,,,,,,,Thornton,,,,missed,,Jump Shot,,,91-90,9,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=495
 ,,,,,,,,,,4,0.41,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=496
 ,,,,,,,,,,4,0.41,Sacramento Kings,turnover,,,,,,,,,,,,,Shot Clock,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=498
 ,,,,,,,,,,4,0.41,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=499
 ,,,,,,,,,,4,0.41,Sacramento Kings,substitute,,,,Garcia,,Thornton,,,,,,,,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=501
-,,,,,,,,,,4,0.25,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=502
+,,,,,,,,,,4,0.25,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,Evans,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=502
 ,,,,,,,,,,4,0.24,Washington Wizards,foul,,,,,,,,,,Okafor,,,,,,Personal Take,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=503
 ,,,,,,,,,,4,0.24,Sacramento Kings,substitute,,,,Thornton,,Robinson,,,,,,,,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=504
 ,,,,,,,,,,4,0.24,Sacramento Kings,substitute,,,,Fredette,,Hayes,,,,,,,,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=505
@@ -436,4 +436,4 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.07,Washington Wizards,substitute,,,,Temple,,Okafor,,,,,,,,,,,,,94-94,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=535
 ,,,,,,,,,,4,0.07,Washington Wizards,substitute,,,,Ariza,,Crawford,,,,,,,,,,,,,94-94,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=536
 ,,,,,,,,,,4,0.01,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Floating Jump Shot,,,96-94,9,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=537
-,,,,,,,,,,4,0.00,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,,,,,96-94,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=538
+,,,,,,,,,,4,0.00,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,Thornton,,,,96-94,,http://stats.nba.com/cvp.html?GameID=0021200661&GameEventID=538

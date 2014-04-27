@@ -1,9 +1,9 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.38,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,,15,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=2
 ,,,,,,,,,,1,11.37,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=3
-,,,,,,,,,,1,11.25,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=4
+,,,,,,,,,,1,11.25,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Allen,,,,,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=4
 ,,,,,,,,,,1,11.02,Memphis Grizzlies,shot,Gasol,,,,,,,,,Conley,3,,,made,,3PT Jump Shot,,,0-3,26,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=5
-,,,,,,,,,,1,10.43,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=6
+,,,,,,,,,,1,10.43,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,Conley,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=6
 ,,,,,,,,,,1,10.37,Memphis Grizzlies,shot,Conley,,,,,,,,,Allen,2,,,made,,Layup,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=7
 ,,,,,,,,,,1,10.19,Houston Rockets,shot,Asik,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,3-5,26,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=8
 ,,,,,,,,,,1,9.53,Memphis Grizzlies,shot,Conley,,,,,,,,,Gasol,2,,,made,,Jump Shot,,,3-7,7,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=9
@@ -11,7 +11,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.20,Memphis Grizzlies,shot,Conley,,,,,,,,,Randolph,2,,,made,,Layup,,,6-9,2,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=11
 ,,,,,,,,,,1,9.00,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,3PT Step Back Jump Shot,,,6-9,25,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=12
 ,,,,,,,,,,1,8.58,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,6-9,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=13
-,,,,,,,,,,1,8.53,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Reverse Layup,,,6-9,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=14
+,,,,,,,,,,1,8.53,Memphis Grizzlies,shot,,,Lin,,,,,,,Randolph,,,,missed,,Reverse Layup,,,6-9,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=14
 ,,,,,,,,,,1,8.51,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,6-9,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=15
 ,,,,,,,,,,1,8.41,Houston Rockets,shot,Harden,,,,,,,,,Motiejunas,2,,,made,,Layup,,,8-9,2,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=16
 ,,,,,,,,,,1,8.31,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Personal,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=17
@@ -43,7 +43,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.17,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Finger Roll Layup,,,12-21,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=50
 ,,,,,,,,,,1,4.59,Houston Rockets,substitute,,,,Smith,,Asik,,,,,,,,,,,,,12-21,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=52
 ,,,,,,,,,,1,4.53,Houston Rockets,shot,,,,,,,,,,Parsons,3,,,made,,3PT Pullup Jump Shot,,,15-21,27,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=53
-,,,,,,,,,,1,4.35,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,15-21,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=54
+,,,,,,,,,,1,4.35,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Lin,,,,15-21,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=54
 ,,,,,,,,,,1,4.33,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Layup,,,17-21,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=55
 ,,,,,,,,,,1,4.23,Memphis Grizzlies,foul,,,,,,,,,,,,,,,,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=56
 ,,,,,,,,,,1,4.23,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Foul,,,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=57
@@ -86,7 +86,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.14,Houston Rockets,shot,Beverley,,,,,,,,,Harden,3,,,made,,3PT Jump Shot,,,27-27,28,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=100
 ,,,,,,,,,,1,0.57,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,27-27,22,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=101
 ,,,,,,,,,,1,0.56,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=102
-,,,,,,,,,,1,0.51,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=103
+,,,,,,,,,,1,0.51,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,Bayless,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=103
 ,,,,,,,,,,1,0.47,Memphis Grizzlies,shot,Bayless,,,,,,,,,Allen,2,,,made,,Jump Shot,,,27-29,3,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=104
 ,,,,,,,,,,1,0.36,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Driving Layup,,,29-29,2,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=105
 ,,,,,,,,,,1,0.28,Memphis Grizzlies,shot,Bayless,,,,,,,,,Allen,2,,,made,,Layup,,,29-31,2,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=106
@@ -109,8 +109,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.23,Houston Rockets,shot,,,,,,,,,,Motiejunas,2,,,made,,Turnaround Jump Shot,,,31-35,7,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=126
 ,,,,,,,,,,2,10.04,Memphis Grizzlies,shot,Bayless,,,,,,,,,Prince,2,,,made,,Jump Shot,,,31-37,22,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=127
 ,,,,,,,,,,2,9.49,Memphis Grizzlies,foul,,,,,,,,,,Davis,,,,,,Personal,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=128
-,,,,,,,,,,2,9.39,Houston Rockets,turnover,,,,,,,,,,Motiejunas,,,Bad Pass,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=129
-,,,,,,,,,,2,9.35,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Layup,,,31-37,2,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=130
+,,,,,,,,,,2,9.39,Houston Rockets,turnover,,,,,,,,,,Motiejunas,,,Bad Pass,,Pondexter,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=129
+,,,,,,,,,,2,9.35,Memphis Grizzlies,shot,,,Anderson,,,,,,,Pondexter,,,,missed,,Layup,,,31-37,2,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=130
 ,,,,,,,,,,2,9.35,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=131
 ,,,,,,,,,,2,9.25,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Turnaround Fadeaway Shot,,,31-37,8,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=132
 ,,,,,,,,,,2,9.23,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=133
@@ -134,9 +134,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.31,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=155
 ,,,,,,,,,,2,7.26,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,3PT Jump Shot,,,38-41,26,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=156
 ,,,,,,,,,,2,7.24,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=157
-,,,,,,,,,,2,7.03,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=158
+,,,,,,,,,,2,7.03,Houston Rockets,shot,,,Davis,,,,,,,Asik,,,,missed,,Layup,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=158
 ,,,,,,,,,,2,7.01,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=159
-,,,,,,,,,,2,6.49,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Bad Pass,,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=160
+,,,,,,,,,,2,6.49,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Bad Pass,,Anderson,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=160
 ,,,,,,,,,,2,6.43,Houston Rockets,shot,Anderson,,,,,,,,,Asik,2,,,made,,Dunk,,,40-41,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=161
 ,,,,,,,,,,2,6.32,Memphis Grizzlies,shot,,,,,,,,,,Bayless,2,,,made,,Running Bank Shot,,,40-43,12,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=162
 ,,,,,,,,,,2,6.15,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,3PT Jump Shot,,,40-43,27,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=163
@@ -158,7 +158,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.20,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,40-46,26,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=180
 ,,,,,,,,,,2,5.19,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=181
 ,,,,,,,,,,2,5.02,Houston Rockets,shot,,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,43-46,25,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=182
-,,,,,,,,,,2,4.40,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,,,,,43-46,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=183
+,,,,,,,,,,2,4.40,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,Harden,,,,43-46,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=183
 ,,,,,,,,,,2,4.36,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Layup,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=184
 ,,,,,,,,,,2,4.21,Houston Rockets,foul,,,,,,,,,,Delfino,,,,,,Personal,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=185
 ,,,,,,,,,,2,4.09,Memphis Grizzlies,shot,Conley,,,,,,,,,Gasol,2,,,made,,Dunk,,,45-48,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=186
@@ -193,7 +193,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.16,Memphis Grizzlies,free throw,,,,,,,1,,1,Gasol,1,,foul,made,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=221
 ,,,,,,,,,,2,0.00,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Pullup Jump Shot,,,53-61,18,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=223
 ,,,,,,,,,,2,0.00,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=224
-,,,,,,,,,,3,11.47,Houston Rockets,turnover,,,,,,,,,,Motiejunas,,,Bad Pass,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=229
+,,,,,,,,,,3,11.47,Houston Rockets,turnover,,,,,,,,,,Motiejunas,,,Bad Pass,,Allen,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=229
 ,,,,,,,,,,3,11.43,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Dunk,,,53-63,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=230
 ,,,,,,,,,,3,11.13,Houston Rockets,shot,Lin,,,,,,,,,Asik,2,,,made,,Dunk,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=231
 ,,,,,,,,,,3,10.52,Memphis Grizzlies,shot,Prince,,,,,,,,,Gasol,2,,,made,,Jump Shot,,,55-65,19,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=232
@@ -201,11 +201,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.40,Houston Rockets,free throw,,,,,,,1,,2,Parsons,,,foul,missed,,,,,55-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=234
 ,,,,,,,,,,3,10.40,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,55-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=235
 ,,,,,,,,,,3,10.40,Houston Rockets,free throw,,,,,,,2,,2,Parsons,1,,foul,made,,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=236
-,,,,,,,,,,3,10.29,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=238
+,,,,,,,,,,3,10.29,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Lin,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=238
 ,,,,,,,,,,3,10.24,Houston Rockets,shot,,,,,,,,,,Motiejunas,2,,,made,,Layup,,,58-65,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=239
 ,,,,,,,,,,3,10.03,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,58-65,20,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=240
 ,,,,,,,,,,3,10.02,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=241
-,,,,,,,,,,3,9.59,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Lost Ball,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=242
+,,,,,,,,,,3,9.59,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Lost Ball,,Harden,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=242
 ,,,,,,,,,,3,9.52,Houston Rockets,turnover,,,,,,,,,,Motiejunas Out of Bounds,,,Lost Ball,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=243
 ,,,,,,,,,,3,9.30,Houston Rockets,foul,,,,,,,,,,Motiejunas,,,,,,Shooting,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=244
 ,,,,,,,,,,3,9.30,Memphis Grizzlies,free throw,,,,,,,1,,2,Gasol,1,,foul,made,,,,,58-66,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=245
@@ -221,7 +221,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.01,Memphis Grizzlies,foul,,,,,,,,,,Randolph,,,,,,Personal,,,58-69,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=259
 ,,,,,,,,,,3,7.57,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Driving Layup,,,58-69,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=260
 ,,,,,,,,,,3,7.54,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,58-69,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=261
-,,,,,,,,,,3,7.50,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Running Jump Shot,,,58-69,7,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=262
+,,,,,,,,,,3,7.50,Memphis Grizzlies,shot,,,Parsons,,,,,,,Conley,,,,missed,,Running Jump Shot,,,58-69,7,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=262
 ,,,,,,,,,,3,7.50,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,58-69,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=263
 ,,,,,,,,,,3,7.37,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,58-69,26,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=264
 ,,,,,,,,,,3,7.36,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,58-69,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=265
@@ -250,7 +250,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.19,Houston Rockets,substitute,,,,Beverley,,Lin,,,,,,,,,,,,,63-78,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=292
 ,,,,,,,,,,3,4.00,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,63-78,14,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=302
 ,,,,,,,,,,3,4.00,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,63-78,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=294
-,,,,,,,,,,3,3.41,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Turnaround Jump Shot,,,63-78,6,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=295
+,,,,,,,,,,3,3.41,Memphis Grizzlies,shot,,,Beverley,,,,,,,Prince,,,,missed,,Turnaround Jump Shot,,,63-78,6,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=295
 ,,,,,,,,,,3,3.39,Memphis Grizzlies,rebound,,,,,,,,,,Davis,,,,,,,,,63-78,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=297
 ,,,,,,,,,,3,3.39,Memphis Grizzlies,shot,,,,,,,,,,Davis,2,,,made,,Jump Shot,,,63-80,4,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=296
 ,,,,,,,,,,3,3.23,Memphis Grizzlies,foul,,,,,,,,,,Conley,,,,,,Personal,,,63-80,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=298
@@ -268,18 +268,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.25,Houston Rockets,foul,,,,,,,,,,Motiejunas,,,,,,Personal,,,65-80,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=313
 ,,,,,,,,,,3,2.17,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Floating Jump Shot,,,65-80,9,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=314
 ,,,,,,,,,,3,2.14,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,65-80,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=315
-,,,,,,,,,,3,2.08,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,,,,,65-80,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=316
+,,,,,,,,,,3,2.08,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,Conley,,,,65-80,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=316
 ,,,,,,,,,,3,2.08,Houston Rockets,foul,,,,,,,,,,Anderson,,,,,,Personal,,,65-80,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=317
 ,,,,,,,,,,3,1.49,Houston Rockets,foul,,,,,,,,,,Smith,,,,,,Personal,,,65-80,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=318
 ,,,,,,,,,,3,1.49,Memphis Grizzlies,free throw,,,,,,,1,,2,Gasol,1,,foul,made,,,,,65-81,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=319
 ,,,,,,,,,,3,1.49,Memphis Grizzlies,free throw,,,,,,,2,,2,Gasol,1,,foul,made,,,,,65-82,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=321
 ,,,,,,,,,,3,1.32,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,Hook Shot,,,65-82,6,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=323
 ,,,,,,,,,,3,1.31,Memphis Grizzlies,rebound,,,,,,,,,,Davis,,,,,,,,,65-82,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=324
-,,,,,,,,,,3,1.24,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,65-82,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=325
+,,,,,,,,,,3,1.24,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,Delfino,,,,65-82,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=325
 ,,,,,,,,,,3,1.19,Houston Rockets,shot,Delfino,,,,,,,,,Anderson,2,,,made,,Layup,,,67-82,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=326
 ,,,,,,,,,,3,0.50,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,3PT Jump Shot,,,67-82,29,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=327
 ,,,,,,,,,,3,0.49,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,67-82,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=328
-,,,,,,,,,,3,0.45,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Layup,,,67-82,2,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=329
+,,,,,,,,,,3,0.45,Memphis Grizzlies,shot,,,Beverley,,,,,,,Pondexter,,,,missed,,Layup,,,67-82,2,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=329
 ,,,,,,,,,,3,0.43,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,67-82,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=331
 ,,,,,,,,,,3,0.43,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Tip Shot,,,67-82,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=330
 ,,,,,,,,,,3,0.42,Memphis Grizzlies,rebound,,,,,,,,,,Davis,,,,,,,,,67-82,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=333
@@ -293,7 +293,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.23,Houston Rockets,free throw,,,,,,,2,,2,Smith,,,foul,missed,,,,,67-84,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=339
 ,,,,,,,,,,3,0.20,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,67-84,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=342
 ,,,,,,,,,,3,0.20,Houston Rockets,turnover,,,,,,,,,,Beverley Out of Bounds,,,Lost Ball,,,,,,67-84,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=343
-,,,,,,,,,,3,0.05,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,67-84,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=344
+,,,,,,,,,,3,0.05,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,Beverley,,,,67-84,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=344
 ,,,,,,,,,,3,0.03,Houston Rockets,shot,,,,,,,,,,Beverley,2,,,made,,Layup,,,69-84,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=345
 ,,,,,,,,,,3,0.03,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,69-84,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=346
 ,,,,,,,,,,3,0.00,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,3PT Jump Shot,,,69-84,48,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=348
@@ -311,15 +311,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.53,Houston Rockets,free throw,,,,,,,2,,2,Anderson,1,,foul,made,,,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=364
 ,,,,,,,,,,4,10.36,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,73-86,13,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=366
 ,,,,,,,,,,4,10.35,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=367
-,,,,,,,,,,4,10.30,Houston Rockets,shot,,,,,,,,,,Robinson,,,,missed,,Layup,,,73-86,3,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=368
+,,,,,,,,,,4,10.30,Houston Rockets,shot,,,Bayless,,,,,,,Robinson,,,,missed,,Layup,,,73-86,3,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=368
 ,,,,,,,,,,4,10.27,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=369
-,,,,,,,,,,4,10.22,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=370
+,,,,,,,,,,4,10.22,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,Smith,,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=370
 ,,,,,,,,,,4,10.19,Houston Rockets,foul,,,,,,,,,,Delfino,,,,,,Offensive Charge,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=371
 ,,,,,,,,,,4,10.19,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Foul,,,,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=372
 ,,,,,,,,,,4,10.08,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Jump Shot,,,73-86,22,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=373
 ,,,,,,,,,,4,10.08,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=374
 ,,,,,,,,,,4,10.08,Houston Rockets,foul,,,,,,,,,,Robinson,,,,,,Loose ball,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=375
-,,,,,,,,,,4,10.00,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Lost Ball,,,,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=376
+,,,,,,,,,,4,10.00,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Lost Ball,,Delfino,,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=376
 ,,,,,,,,,,4,9.57,Memphis Grizzlies,foul,,,,,,,,,,Bayless,,,,,,Shooting,,,73-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=377
 ,,,,,,,,,,4,9.57,Houston Rockets,free throw,,,,,,,1,,2,Delfino,1,,foul,made,,,,,74-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=378
 ,,,,,,,,,,4,9.57,Houston Rockets,free throw,,,,,,,2,,2,Delfino,1,,foul,made,,,,,75-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=380
@@ -341,18 +341,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.19,Houston Rockets,foul,,,,,,,,,,Smith,,,,,,Personal,,,77-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=401
 ,,,,,,,,,,4,8.10,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Jump Shot,,,77-86,20,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=402
 ,,,,,,,,,,4,8.09,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,77-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=403
-,,,,,,,,,,4,8.02,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,,,,,77-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=404
+,,,,,,,,,,4,8.02,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,Conley,,,,77-86,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=404
 ,,,,,,,,,,4,7.58,Memphis Grizzlies,shot,,,,,,,,,,Conley,2,,,made,,Layup,,,77-88,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=405
 ,,,,,,,,,,4,7.58,Houston Rockets,foul,,,,,,,,,,Beverley,,,,,,Shooting,,,77-88,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=406
 ,,,,,,,,,,4,7.58,Memphis Grizzlies,free throw,,,,,,,1,,1,Conley,1,,foul,made,,,,,77-89,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=407
-,,,,,,,,,,4,7.37,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Lost Ball,,,,,,77-89,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=409
+,,,,,,,,,,4,7.37,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Lost Ball,,Conley,,,,77-89,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=409
 ,,,,,,,,,,4,7.22,Houston Rockets,foul,,,,,,,,,,Robinson,,,,,,Personal,,,77-89,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=410
 ,,,,,,,,,,4,7.22,Memphis Grizzlies,free throw,,,,,,,1,,2,Randolph,1,,foul,made,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=411
 ,,,,,,,,,,4,7.22,Memphis Grizzlies,free throw,,,,,,,2,,2,Randolph,1,,foul,made,,,,,77-91,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=413
 ,,,,,,,,,,4,7.06,Houston Rockets,shot,Beverley,,,,,,,,,Delfino,2,,,made,,Driving Layup,,,79-91,2,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=415
 ,,,,,,,,,,4,7.06,Memphis Grizzlies,foul,,,,,,,,,,Prince,,,,,,Shooting,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=416
 ,,,,,,,,,,4,7.06,Houston Rockets,free throw,,,,,,,1,,1,Delfino,1,,foul,made,,,,,80-91,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=417
-,,,,,,,,,,4,6.53,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,80-91,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=419
+,,,,,,,,,,4,6.53,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,Smith,,,,80-91,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=419
 ,,,,,,,,,,4,6.43,Houston Rockets,turnover,,,,,,,,,,Anderson,,,Bad Pass,,,,,,80-91,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=420
 ,,,,,,,,,,4,6.27,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,80-91,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=421
 ,,,,,,,,,,4,6.26,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,80-91,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=422
@@ -380,11 +380,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.56,Houston Rockets,shot,,,,,,,,,,Robinson,2,,,made,,Slam Dunk,,,85-97,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=451
 ,,,,,,,,,,4,3.32,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,85-97,16,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=452
 ,,,,,,,,,,4,3.32,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,85-97,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=453
-,,,,,,,,,,4,3.24,Houston Rockets,shot,,,,,,,,,,Robinson,,,,missed,,Layup,,,85-97,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=454
+,,,,,,,,,,4,3.24,Houston Rockets,shot,,,Gasol,,,,,,,Robinson,,,,missed,,Layup,,,85-97,1,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=454
 ,,,,,,,,,,4,3.24,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,85-97,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=455
 ,,,,,,,,,,4,3.24,Memphis Grizzlies,substitute,,,,Arthur,,Randolph,,,,,,,,,,,,,85-97,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=456
 ,,,,,,,,,,4,3.24,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,85-97,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=457
-,,,,,,,,,,4,3.07,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,85-97,26,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=459
+,,,,,,,,,,4,3.07,Houston Rockets,shot,,,Arthur,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,85-97,26,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=459
 ,,,,,,,,,,4,3.04,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,85-97,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=460
 ,,,,,,,,,,4,2.47,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,85-97,19,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=461
 ,,,,,,,,,,4,2.46,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,85-97,,http://stats.nba.com/cvp.html?GameID=0021201079&GameEventID=462

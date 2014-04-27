@@ -5,7 +5,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.24,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=5
 ,,,,,,,,,,1,11.17,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,2-0,15,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=6
 ,,,,,,,,,,1,11.15,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=7
-,,,,,,,,,,1,11.10,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,2-0,7,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=8
+,,,,,,,,,,1,11.10,Houston Rockets,shot,,,Thompson,,,,,,,Harden,,,,missed,,Jump Shot,,,2-0,7,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=8
 ,,,,,,,,,,1,11.08,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=9
 ,,,,,,,,,,1,11.06,Houston Rockets,foul,,,,,,,,,,Motiejunas,,,,,,Shooting,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=10
 ,,,,,,,,,,1,11.06,Golden State Warriors,free throw,,,,,,,1,,2,Barnes,1,,foul,made,,,,,2-1,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=11
@@ -29,7 +29,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.55,Houston Rockets,shot,,,,,,,,,,Robinson,,,,missed,,Running Hook Shot,,,8-8,7,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=33
 ,,,,,,,,,,1,8.54,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=34
 ,,,,,,,,,,1,8.40,Golden State Warriors,shot,,,,,,,,,,Lee,2,,,made,,Turnaround Bank Shot,,,8-10,7,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=35
-,,,,,,,,,,1,8.34,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=36
+,,,,,,,,,,1,8.34,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Bogut,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=36
 ,,,,,,,,,,1,8.29,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Reverse Layup,,,8-12,2,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=37
 ,,,,,,,,,,1,8.10,Houston Rockets,shot,Harden,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,11-12,24,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=38
 ,,,,,,,,,,1,7.52,Golden State Warriors,shot,Curry,,,,,,,,,Lee,2,,,made,,Hook Shot,,,11-14,5,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=39
@@ -48,7 +48,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.49,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=52
 ,,,,,,,,,,1,5.39,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Reverse Layup,,,17-21,2,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=54
 ,,,,,,,,,,1,5.37,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=55
-,,,,,,,,,,1,5.30,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Bad Pass,,,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=56
+,,,,,,,,,,1,5.30,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Bad Pass,,Robinson,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=56
 ,,,,,,,,,,1,5.17,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Turnaround Fadeaway Shot,,,17-21,14,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=57
 ,,,,,,,,,,1,5.16,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=58
 ,,,,,,,,,,1,4.58,Golden State Warriors,shot,,,,,,,,,,Bogut,,,,missed,,Hook Shot,,,17-21,8,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=59
@@ -83,21 +83,21 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.09,Golden State Warriors,rebound,,,,,,,,,,Ezeli,,,,,,,,,21-26,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=97
 ,,,,,,,,,,1,1.56,Golden State Warriors,shot,,,,,,,,,,Landry,,,,missed,,Jump Shot,,,21-26,18,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=98
 ,,,,,,,,,,1,1.54,Golden State Warriors,rebound,,,,,,,,,,Ezeli,,,,,,,,,21-26,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=99
-,,,,,,,,,,1,1.53,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,,,,,21-26,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=100
+,,,,,,,,,,1,1.53,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,Harden,,,,21-26,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=100
 ,,,,,,,,,,1,1.32,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Jump Hook Shot,,,21-26,4,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=101
 ,,,,,,,,,,1,1.31,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,21-26,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=102
 ,,,,,,,,,,1,1.22,Golden State Warriors,shot,Jack,,,,,,,,,Thompson,2,,,made,,Step Back Jump Shot,,,21-28,19,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=103
 ,,,,,,,,,,1,1.03,Houston Rockets,shot,,,,,,,,,,Robinson,,,,missed,,Layup,,,21-28,2,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=104
 ,,,,,,,,,,1,1.02,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=105
-,,,,,,,,,,1,0.53,Golden State Warriors,shot,,,,,,,,,,Landry,,,,missed,,Jump Shot,,,21-28,6,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=106
+,,,,,,,,,,1,0.53,Golden State Warriors,shot,,,Smith,,,,,,,Landry,,,,missed,,Jump Shot,,,21-28,6,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=106
 ,,,,,,,,,,1,0.52,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=107
 ,,,,,,,,,,1,0.46,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,21-28,26,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=108
 ,,,,,,,,,,1,0.45,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=109
-,,,,,,,,,,1,0.28,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,,,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=110
+,,,,,,,,,,1,0.28,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,Robinson,,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=110
 ,,,,,,,,,,1,0.23,Golden State Warriors,substitute,,,,Green,,Curry,,,,,,,,,,,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=111
 ,,,,,,,,,,1,0.23,Houston Rockets,substitute,,,,Garcia,,Parsons,,,,,,,,,,,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=112
 ,,,,,,,,,,1,0.23,Houston Rockets,substitute,,,,Beverley,,Lin,,,,,,,,,,,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=113
-,,,,,,,,,,1,0.07,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,21-28,26,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=114
+,,,,,,,,,,1,0.07,Houston Rockets,shot,,,Thompson,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,21-28,26,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=114
 ,,,,,,,,,,1,0.06,Golden State Warriors,rebound,,,,,,,,,,Jack,,,,,,,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=115
 ,,,,,,,,,,1,0.00,Golden State Warriors,shot,Jack,,,,,,,,,Thompson,2,,,made,,Driving Finger Roll Layup,,,21-30,2,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=116
 ,,,,,,,,,,2,11.37,Golden State Warriors,shot,,,,,,,,,,Jefferson,2,,,made,,Jump Hook Shot,,,21-32,11,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=120
@@ -109,7 +109,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.23,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,24-35,26,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=127
 ,,,,,,,,,,2,10.22,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,24-35,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=128
 ,,,,,,,,,,2,10.22,Houston Rockets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,24-35,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=129
-,,,,,,,,,,2,10.09,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,,,,,24-35,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=130
+,,,,,,,,,,2,10.09,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,Delfino,,,,24-35,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=130
 ,,,,,,,,,,2,9.53,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,3PT Jump Shot,,,24-35,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=131
 ,,,,,,,,,,2,9.52,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,24-35,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=132
 ,,,,,,,,,,2,9.43,Golden State Warriors,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,24-35,26,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=133
@@ -144,7 +144,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.52,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=168
 ,,,,,,,,,,2,7.42,Houston Rockets,shot,,,,,,,,,,Garcia,,,,missed,,3PT Jump Shot,,,28-36,24,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=169
 ,,,,,,,,,,2,7.41,Golden State Warriors,rebound,,,,,,,,,,Jack,,,,,,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=170
-,,,,,,,,,,2,7.31,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,Lost Ball,,,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=171
+,,,,,,,,,,2,7.31,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,Lost Ball,,Garcia,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=171
 ,,,,,,,,,,2,7.31,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Personal,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=172
 ,,,,,,,,,,2,7.31,Houston Rockets,substitute,,,,Harden,,Garcia,,,,,,,,,,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=173
 ,,,,,,,,,,2,7.17,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,28-36,27,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=174
@@ -165,7 +165,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.34,Golden State Warriors,free throw,,,,,,,2,,3,Curry,1,,foul,made,,,,,34-42,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=191
 ,,,,,,,,,,2,5.34,Golden State Warriors,substitute,,,,Green,,Landry,,,,,,,,,,,,,34-42,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=193
 ,,,,,,,,,,2,5.34,Golden State Warriors,free throw,,,,,,,3,,3,Curry,1,,foul,made,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=194
-,,,,,,,,,,2,5.25,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=196
+,,,,,,,,,,2,5.25,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Bogut,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=196
 ,,,,,,,,,,2,5.20,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,34-43,18,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=197
 ,,,,,,,,,,2,5.18,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=198
 ,,,,,,,,,,2,5.09,Golden State Warriors,foul,,,,,,,,,,Green,,,,,,Personal,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=199
@@ -175,7 +175,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.46,Golden State Warriors,foul,,,,,,,,,,Green,,,,,,Shooting,,,36-45,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=205
 ,,,,,,,,,,2,4.46,Houston Rockets,free throw,,,,,,,1,,2,Delfino,1,,foul,made,,,,,37-45,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=206
 ,,,,,,,,,,2,4.46,Houston Rockets,free throw,,,,,,,2,,2,Delfino,1,,foul,made,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=208
-,,,,,,,,,,2,4.34,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=210
+,,,,,,,,,,2,4.34,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,Harden,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=210
 ,,,,,,,,,,2,4.25,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=211
 ,,,,,,,,,,2,4.12,Golden State Warriors,shot,,,,,,,,,,Green,,,,missed,,Driving Layup,,,38-45,1,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=212
 ,,,,,,,,,,2,4.11,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=213
@@ -202,7 +202,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.25,Golden State Warriors,shot,Landry,,,,,,,,,Thompson,3,,,made,,3PT Pullup Jump Shot,,,43-48,27,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=238
 ,,,,,,,,,,2,2.15,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Layup,,,43-48,2,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=239
 ,,,,,,,,,,2,2.13,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,43-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=240
-,,,,,,,,,,2,2.10,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,,,,,43-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=241
+,,,,,,,,,,2,2.10,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,Barnes,,,,43-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=241
 ,,,,,,,,,,2,2.05,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Bank Shot,,,43-48,4,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=242
 ,,,,,,,,,,2,2.04,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,43-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=243
 ,,,,,,,,,,2,1.58,Houston Rockets,shot,Lin,,,,,,,,,Parsons,3,,,made,,3PT Pullup Jump Shot,,,46-48,27,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=244
@@ -212,13 +212,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.24,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,46-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=248
 ,,,,,,,,,,2,1.17,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,46-48,26,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=249
 ,,,,,,,,,,2,1.16,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,46-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=250
-,,,,,,,,,,2,1.12,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Bad Pass,,,,,,46-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=251
+,,,,,,,,,,2,1.12,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Bad Pass,,Harden,,,,46-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=251
 ,,,,,,,,,,2,1.07,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Driving Layup,,,46-48,2,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=252
 ,,,,,,,,,,2,1.06,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,46-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=254
 ,,,,,,,,,,2,1.06,Houston Rockets,shot,,,,,,,,,,Parsons,2,,,made,,Tip Shot,,,48-48,1,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=253
 ,,,,,,,,,,2,0.49,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,48-48,19,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=255
 ,,,,,,,,,,2,0.48,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,48-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=256
-,,,,,,,,,,2,0.28,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,48-48,2,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=257
+,,,,,,,,,,2,0.28,Houston Rockets,shot,,,Bogut,,,,,,,Parsons,,,,missed,,Layup,,,48-48,2,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=257
 ,,,,,,,,,,2,0.26,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,48-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=258
 ,,,,,,,,,,2,0.06,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,48-48,20,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=259
 ,,,,,,,,,,2,0.06,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,48-48,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=260
@@ -251,7 +251,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.57,Houston Rockets,free throw,,,,,,,1,,1,Lin,1,,foul,made,,,,,55-53,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=293
 ,,,,,,,,,,3,9.42,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,55-53,20,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=295
 ,,,,,,,,,,3,9.41,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,55-53,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=296
-,,,,,,,,,,3,9.31,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,,,,,55-53,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=297
+,,,,,,,,,,3,9.31,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,Curry,,,,55-53,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=297
 ,,,,,,,,,,3,9.28,Houston Rockets,violation,,,,,,,,,,Lin,,,Kicked Ball,,,,,,55-53,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=298
 ,,,,,,,,,,3,9.18,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,55-53,26,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=299
 ,,,,,,,,,,3,9.17,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,55-53,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=300
@@ -283,7 +283,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.22,Houston Rockets,substitute,,,,Smith,,Asik,,,,,,,,,,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=330
 ,,,,,,,,,,3,5.11,Houston Rockets,violation,,,,,,,,,,Motiejunas,,,Kicked Ball,,,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=331
 ,,,,,,,,,,3,5.11,Golden State Warriors,substitute,,,,Jack,,Barnes,,,,,,,,,,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=332
-,,,,,,,,,,3,5.06,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,66-62,7,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=333
+,,,,,,,,,,3,5.06,Golden State Warriors,shot,,,Smith,,,,,,,Curry,,,,missed,,Jump Shot,,,66-62,7,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=333
 ,,,,,,,,,,3,5.04,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=334
 ,,,,,,,,,,3,5.01,Golden State Warriors,shot,Curry,,,,,,,,,Thompson,3,,,made,,3PT Pullup Jump Shot,,,66-65,27,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=335
 ,,,,,,,,,,3,4.46,Houston Rockets,foul,,,,,,,,,,,,,,,,,,,66-65,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=336
@@ -323,7 +323,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.03,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Step Back Jump Shot,,,73-76,18,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=375
 ,,,,,,,,,,3,0.49,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Floating Jump Shot,,,73-76,8,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=376
 ,,,,,,,,,,3,0.48,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=377
-,,,,,,,,,,3,0.44,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Turnaround Hook Shot,,,73-76,5,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=378
+,,,,,,,,,,3,0.44,Houston Rockets,shot,,,Ezeli,,,,,,,Smith,,,,missed,,Turnaround Hook Shot,,,73-76,5,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=378
 ,,,,,,,,,,3,0.42,Golden State Warriors,rebound,,,,,,,,,,Jefferson,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=379
 ,,,,,,,,,,3,0.33,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,73-76,18,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=380
 ,,,,,,,,,,3,0.32,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=381
@@ -334,7 +334,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.03,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,73-76,28,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=386
 ,,,,,,,,,,3,0.01,Golden State Warriors,rebound,,,,,,,,,,Jack,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=387
 ,,,,,,,,,,4,12.00,Houston Rockets,turnover,,,,,,,,,,,,,5 Second Inbound,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=391
-,,,,,,,,,,4,11.40,Golden State Warriors,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=392
+,,,,,,,,,,4,11.40,Golden State Warriors,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,Garcia,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=392
 ,,,,,,,,,,4,11.25,Houston Rockets,shot,,,,,,,,,,Garcia,,,,missed,,3PT Jump Shot,,,73-76,26,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=393
 ,,,,,,,,,,4,11.24,Golden State Warriors,rebound,,,,,,,,,,Jefferson,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=394
 ,,,,,,,,,,4,11.09,Golden State Warriors,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,73-76,8,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=395
@@ -376,14 +376,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.17,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=438
 ,,,,,,,,,,4,8.17,Golden State Warriors,shot,,,,,,,,,,Bogut,,,,missed,,Tip Shot,,,76-76,1,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=437
 ,,,,,,,,,,4,8.15,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=439
-,,,,,,,,,,4,8.15,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,Bad Pass,,,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=440
+,,,,,,,,,,4,8.15,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,Bad Pass,,Garcia,,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=440
 ,,,,,,,,,,4,7.58,Houston Rockets,shot,,,,,,,,,,Harden,3,,,made,,3PT Step Back Jump Shot,,,79-76,29,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=441
-,,,,,,,,,,4,7.33,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=442
+,,,,,,,,,,4,7.33,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,Lin,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=442
 ,,,,,,,,,,4,7.24,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,79-76,26,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=443
 ,,,,,,,,,,4,7.23,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=444
 ,,,,,,,,,,4,7.12,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Floating Jump Shot,,,79-76,10,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=445
 ,,,,,,,,,,4,7.10,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=446
-,,,,,,,,,,4,7.04,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=447
+,,,,,,,,,,4,7.04,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Bogut,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=447
 ,,,,,,,,,,4,6.59,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=448
 ,,,,,,,,,,4,6.59,Houston Rockets,substitute,,,,Parsons,,Delfino,,,,,,,,,,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=450
 ,,,,,,,,,,4,6.46,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Driving Layup,,,79-76,2,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=452
@@ -452,8 +452,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.44,Golden State Warriors,substitute,,,,Bogut,,Barnes,,,,,,,,,,,,,92-88,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=532
 ,,,,,,,,,,4,0.33,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Pullup Jump Shot,,,92-88,27,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=533
 ,,,,,,,,,,4,0.32,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,92-88,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=534
-,,,,,,,,,,4,0.13,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,92-88,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=535
-,,,,,,,,,,4,0.10,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,92-88,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=536
+,,,,,,,,,,4,0.13,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Bogut,,,,92-88,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=535
+,,,,,,,,,,4,0.10,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,Delfino,,,,92-88,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=536
 ,,,,,,,,,,4,0.04,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Personal Take,,,92-88,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=537
 ,,,,,,,,,,4,0.04,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,93-88,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=538
 ,,,,,,,,,,4,0.04,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,94-88,,http://stats.nba.com/cvp.html?GameID=0021200926&GameEventID=540

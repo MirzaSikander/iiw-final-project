@@ -2,7 +2,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.39,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,3PT Jump Shot,,,,25,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=2
 ,,,,,,,,,,1,11.37,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=3
 ,,,,,,,,,,1,11.27,Oklahoma City Thunder,turnover,,,,,,,,,,Sefolosha,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=4
-,,,,,,,,,,1,11.20,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=5
+,,,,,,,,,,1,11.20,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,Westbrook,,,,,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=5
 ,,,,,,,,,,1,11.17,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Driving Layup,,,,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=6
 ,,,,,,,,,,1,11.15,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=7
 ,,,,,,,,,,1,11.10,New York Knicks,shot,Felton,,,,,,,,,White,3,,,made,,3PT Jump Shot,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=8
@@ -33,7 +33,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.17,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,7-13,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=39
 ,,,,,,,,,,1,8.00,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Turnaround Jump Shot,,,7-13,6,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=40
 ,,,,,,,,,,1,7.58,New York Knicks,rebound,,,,,,,,,,Thomas,,,,,,,,,7-13,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=41
-,,,,,,,,,,1,7.49,New York Knicks,shot,,,,,,,,,,White,,,,missed,,Driving Layup,,,7-13,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=42
+,,,,,,,,,,1,7.49,New York Knicks,shot,,,Ibaka,,,,,,,White,,,,missed,,Driving Layup,,,7-13,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=42
 ,,,,,,,,,,1,7.47,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,7-13,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=43
 ,,,,,,,,,,1,7.38,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Floating Jump Shot,,,7-13,5,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=44
 ,,,,,,,,,,1,7.36,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,7-13,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=45
@@ -46,9 +46,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.38,New York Knicks,shot,,,,,,,,,,Stoudemire,,,,missed,,Jump Shot,,,11-13,15,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=54
 ,,,,,,,,,,1,6.37,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=55
 ,,,,,,,,,,1,6.22,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,3,,,made,,3PT Jump Shot,,,14-13,25,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=56
-,,,,,,,,,,1,6.07,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,,,,,14-13,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=57
+,,,,,,,,,,1,6.07,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,Sefolosha,,,,14-13,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=57
 ,,,,,,,,,,1,6.04,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Driving Dunk,,,16-13,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=58
-,,,,,,,,,,1,5.48,New York Knicks,shot,,,,,,,,,,Stoudemire,,,,missed,,Dunk,,,16-13,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=59
+,,,,,,,,,,1,5.48,New York Knicks,shot,,,Ibaka,,,,,,,Stoudemire,,,,missed,,Dunk,,,16-13,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=59
 ,,,,,,,,,,1,5.46,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=60
 ,,,,,,,,,,1,5.40,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Ibaka,2,,,made,,Dunk,,,18-13,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=61
 ,,,,,,,,,,1,5.33,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,3PT Jump Shot,,,18-13,26,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=62
@@ -63,7 +63,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.14,Oklahoma City Thunder,substitute,,,,Martin,,Sefolosha,,,,,,,,,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=71
 ,,,,,,,,,,1,4.14,New York Knicks,substitute,,,,Smith,,White,,,,,,,,,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=72
 ,,,,,,,,,,1,4.04,New York Knicks,shot,Felton,,,,,,,,,Stoudemire,2,,,made,,Driving Layup,,,23-17,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=73
-,,,,,,,,,,1,3.46,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,,,,,23-17,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=74
+,,,,,,,,,,1,3.46,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,Chandler,,,,23-17,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=74
 ,,,,,,,,,,1,3.41,New York Knicks,shot,,,,,,,,,,Felton,2,,,made,,Driving Reverse Layup,,,23-19,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=75
 ,,,,,,,,,,1,3.19,Oklahoma City Thunder,shot,Durant,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,26-19,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=76
 ,,,,,,,,,,1,3.00,New York Knicks,shot,,,,,,,,,,Stoudemire,,,,missed,,Layup,,,26-19,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=77
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.33,New York Knicks,free throw,,,,,,,1,,1,Chandler,1,,foul,made,,,,,28-24,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=93
 ,,,,,,,,,,1,2.18,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,28-24,16,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=95
 ,,,,,,,,,,1,2.17,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,28-24,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=96
-,,,,,,,,,,1,2.13,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Driving Jump Shot,,,28-24,5,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=97
+,,,,,,,,,,1,2.13,Oklahoma City Thunder,shot,,,Kidd,,,,,,,Westbrook,,,,missed,,Driving Jump Shot,,,28-24,5,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=97
 ,,,,,,,,,,1,2.12,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,28-24,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=98
 ,,,,,,,,,,1,2.11,Oklahoma City Thunder,shot,,,,,,,,,,Collison,,,,missed,,Layup,,,28-24,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=99
 ,,,,,,,,,,1,2.10,New York Knicks,rebound,,,,,,,,,,Stoudemire,,,,,,,,,28-24,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=100
@@ -118,18 +118,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.03,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,35-26,10,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=140
 ,,,,,,,,,,1,0.00,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,35-26,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=141
 ,,,,,,,,,,2,11.50,New York Knicks,foul,,,,,,,,,,Smith,,,,,,Personal,,,35-26,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=145
-,,,,,,,,,,2,11.44,Oklahoma City Thunder,turnover,,,,,,,,,,Fisher,,,Bad Pass,,,,,,35-26,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=146
+,,,,,,,,,,2,11.44,Oklahoma City Thunder,turnover,,,,,,,,,,Fisher,,,Bad Pass,,Martin,,,,35-26,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=146
 ,,,,,,,,,,2,11.35,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Floating Jump Shot,,,35-28,4,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=148
 ,,,,,,,,,,2,11.09,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,3PT Jump Shot,,,35-28,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=149
 ,,,,,,,,,,2,11.07,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,35-28,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=150
 ,,,,,,,,,,2,11.00,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,35-28,21,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=151
 ,,,,,,,,,,2,10.59,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,35-28,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=152
 ,,,,,,,,,,2,10.47,Oklahoma City Thunder,shot,,,,,,,,,,Jackson,2,,,made,,Jump Shot,,,37-28,19,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=153
-,,,,,,,,,,2,10.20,New York Knicks,shot,,,,,,,,,,Stoudemire,,,,missed,,Jump Shot,,,37-28,15,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=154
+,,,,,,,,,,2,10.20,New York Knicks,shot,,,Ibaka,,,,,,,Stoudemire,,,,missed,,Jump Shot,,,37-28,15,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=154
 ,,,,,,,,,,2,10.19,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,37-28,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=155
 ,,,,,,,,,,2,10.19,New York Knicks,turnover,,,,,,,,,,,,,Shot Clock,,,,,,37-28,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=156
 ,,,,,,,,,,2,10.05,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Fadeaway Jumper,,,39-28,9,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=157
-,,,,,,,,,,2,9.55,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,39-28,5,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=158
+,,,,,,,,,,2,9.55,New York Knicks,shot,,,Durant,,,,,,,Smith,,,,missed,,Jump Shot,,,39-28,5,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=158
 ,,,,,,,,,,2,9.53,New York Knicks,rebound,,,,,,,,,,Novak,,,,,,,,,39-28,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=159
 ,,,,,,,,,,2,9.51,New York Knicks,shot,,,,,,,,,,Novak,3,,,made,,3PT Jump Shot,,,39-31,24,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=160
 ,,,,,,,,,,2,9.33,Oklahoma City Thunder,turnover,,,,,,,,,,Durant Out of Bounds,,,Lost Ball,,,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=161
@@ -140,11 +140,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.41,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=166
 ,,,,,,,,,,2,8.41,New York Knicks,foul,,,,,,,,,,Stoudemire,,,,,,Loose ball,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=167
 ,,,,,,,,,,2,8.41,New York Knicks,substitute,,,,Chandler,,Stoudemire,,,,,,,,,,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=170
-,,,,,,,,,,2,8.29,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=171
+,,,,,,,,,,2,8.29,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Kidd,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=171
 ,,,,,,,,,,2,8.11,Oklahoma City Thunder,foul,,,,,,,,,,Fisher,,,,,,Personal,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=172
 ,,,,,,,,,,2,8.11,Oklahoma City Thunder,substitute,,,,Sefolosha,,Jackson,,,,,,,,,,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=173
 ,,,,,,,,,,2,8.11,Oklahoma City Thunder,substitute,,,,Westbrook,,Fisher,,,,,,,,,,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=174
-,,,,,,,,,,2,8.06,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=175
+,,,,,,,,,,2,8.06,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Martin,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=175
 ,,,,,,,,,,2,8.04,New York Knicks,foul,,,,,,,,,,Smith,,,,,,Shooting,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=176
 ,,,,,,,,,,2,8.04,Oklahoma City Thunder,free throw,,,,,,,1,,2,Martin,1,,foul,made,,,,,40-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=177
 ,,,,,,,,,,2,8.04,Oklahoma City Thunder,free throw,,,,,,,2,,2,Martin,1,,foul,made,,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=179
@@ -173,21 +173,21 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.10,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,48-44,24,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=215
 ,,,,,,,,,,2,4.08,New York Knicks,rebound,,,,,,,,,,Felton,,,,,,,,,48-44,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=216
 ,,,,,,,,,,2,3.57,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Fadeaway Jumper,,,48-46,15,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=217
-,,,,,,,,,,2,3.42,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,48-46,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=218
+,,,,,,,,,,2,3.42,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Novak,,,,48-46,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=218
 ,,,,,,,,,,2,3.37,New York Knicks,shot,Smith,,,,,,,,,Martin,2,,,made,,Alley Oop Layup,,,48-48,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=219
 ,,,,,,,,,,2,3.19,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Driving Reverse Layup,,,50-48,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=220
 ,,,,,,,,,,2,2.52,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,50-48,29,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=221
 ,,,,,,,,,,2,2.50,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,50-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=222
-,,,,,,,,,,2,2.47,New York Knicks,turnover,,,,,,,,,,Novak,,,Bad Pass,,,,,,50-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=223
+,,,,,,,,,,2,2.47,New York Knicks,turnover,,,,,,,,,,Novak,,,Bad Pass,,Sefolosha,,,,50-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=223
 ,,,,,,,,,,2,2.39,Oklahoma City Thunder,shot,Martin,,,,,,,,,Ibaka,2,,,made,,Jump Shot,,,52-48,15,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=224
-,,,,,,,,,,2,2.23,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=225
+,,,,,,,,,,2,2.23,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Martin,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=225
 ,,,,,,,,,,2,2.22,New York Knicks,foul,,,,,,,,,,Novak,,,,,,Personal,,,52-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=226
 ,,,,,,,,,,2,2.22,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=227
 ,,,,,,,,,,2,2.22,New York Knicks,substitute,,,,Shumpert,,Novak,,,,,,,,,,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=230
 ,,,,,,,,,,2,2.22,Oklahoma City Thunder,free throw,,,,,,,1,,2,Martin,1,,foul,made,,,,,53-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=231
 ,,,,,,,,,,2,2.22,Oklahoma City Thunder,free throw,,,,,,,2,,2,Martin,1,,foul,made,,,,,54-48,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=233
 ,,,,,,,,,,2,2.03,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Jump Shot,,,54-50,20,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=235
-,,,,,,,,,,2,1.45,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,54-50,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=236
+,,,,,,,,,,2,1.45,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Smith,,,,54-50,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=236
 ,,,,,,,,,,2,1.39,New York Knicks,shot,,,,,,,,,,Martin,,,,missed,,Alley Oop Layup,,,54-50,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=237
 ,,,,,,,,,,2,1.37,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,54-50,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=238
 ,,,,,,,,,,2,1.21,Oklahoma City Thunder,shot,Durant,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,57-50,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=239
@@ -205,14 +205,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.18,New York Knicks,shot,Felton,,,,,,,,,Smith,3,,,made,,3PT Jump Shot,,,59-56,24,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=252
 ,,,,,,,,,,3,11.44,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,59-56,17,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=256
 ,,,,,,,,,,3,11.42,New York Knicks,rebound,,,,,,,,,,Stoudemire,,,,,,,,,59-56,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=257
-,,,,,,,,,,3,11.24,New York Knicks,shot,,,,,,,,,,Stoudemire,,,,missed,,Jump Shot,,,59-56,3,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=258
+,,,,,,,,,,3,11.24,New York Knicks,shot,,,Ibaka,,,,,,,Stoudemire,,,,missed,,Jump Shot,,,59-56,3,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=258
 ,,,,,,,,,,3,11.23,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,59-56,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=259
 ,,,,,,,,,,3,11.04,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,59-56,15,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=261
 ,,,,,,,,,,3,11.03,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,59-56,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=262
 ,,,,,,,,,,3,11.03,Oklahoma City Thunder,foul,,,,,,,,,,Perkins,,,,,,Loose ball,,,59-56,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=263
 ,,,,,,,,,,3,10.43,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Driving Layup,,,59-56,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=264
 ,,,,,,,,,,3,10.42,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,59-56,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=265
-,,,,,,,,,,3,10.32,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,59-56,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=266
+,,,,,,,,,,3,10.32,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Shumpert,,,,59-56,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=266
 ,,,,,,,,,,3,10.15,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Personal,,,59-56,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=267
 ,,,,,,,,,,3,10.07,New York Knicks,shot,,,,,,,,,,Stoudemire,,,,missed,,Jump Shot,,,59-56,3,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=268
 ,,,,,,,,,,3,10.06,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,59-56,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=269
@@ -237,17 +237,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.23,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=292
 ,,,,,,,,,,3,8.10,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,3PT Jump Shot,,,61-58,25,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=293
 ,,,,,,,,,,3,8.08,New York Knicks,rebound,,,,,,,,,,Stoudemire,,,,,,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=294
-,,,,,,,,,,3,7.57,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Driving Layup,,,61-58,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=295
+,,,,,,,,,,3,7.57,New York Knicks,shot,,,Sefolosha,,,,,,,Felton,,,,missed,,Driving Layup,,,61-58,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=295
 ,,,,,,,,,,3,7.57,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=296
 ,,,,,,,,,,3,7.57,New York Knicks,substitute,,,,Smith,,White,,,,,,,,,,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=297
 ,,,,,,,,,,3,7.48,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Pullup Jump Shot,,,61-60,17,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=298
-,,,,,,,,,,3,7.34,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,61-60,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=299
+,,,,,,,,,,3,7.34,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,Smith,,,,61-60,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=299
 ,,,,,,,,,,3,7.24,New York Knicks,shot,,,,,,,,,,Stoudemire,,,,missed,,Layup,,,61-60,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=300
 ,,,,,,,,,,3,7.23,New York Knicks,rebound,,,,,,,,,,Stoudemire,,,,,,,,,61-60,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=301
-,,,,,,,,,,3,7.22,New York Knicks,shot,,,,,,,,,,Stoudemire,,,,missed,,Layup,,,61-60,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=302
+,,,,,,,,,,3,7.22,New York Knicks,shot,,,Perkins,,,,,,,Stoudemire,,,,missed,,Layup,,,61-60,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=302
 ,,,,,,,,,,3,7.20,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,61-60,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=303
 ,,,,,,,,,,3,7.15,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Jump Shot,,,63-60,21,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=304
-,,,,,,,,,,3,6.51,New York Knicks,shot,,,,,,,,,,Chandler,,,,missed,,Layup,,,63-60,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=305
+,,,,,,,,,,3,6.51,New York Knicks,shot,,,Ibaka,,,,,,,Chandler,,,,missed,,Layup,,,63-60,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=305
 ,,,,,,,,,,3,6.49,New York Knicks,rebound,,,,,,,,,,Stoudemire,,,,,,,,,63-60,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=306
 ,,,,,,,,,,3,6.42,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,3PT Jump Shot,,,63-60,26,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=307
 ,,,,,,,,,,3,6.41,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,63-60,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=308
@@ -281,7 +281,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.05,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=338
 ,,,,,,,,,,3,2.52,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,69-71,25,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=339
 ,,,,,,,,,,3,2.50,Oklahoma City Thunder,rebound,,,,,,,,,,Martin,,,,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=340
-,,,,,,,,,,3,2.43,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=341
+,,,,,,,,,,3,2.43,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,Smith,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=341
 ,,,,,,,,,,3,2.38,New York Knicks,shot,Kidd,,,,,,,,,Felton,2,,,made,,Driving Reverse Layup,,,69-73,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=342
 ,,,,,,,,,,3,2.37,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=343
 ,,,,,,,,,,3,2.37,Oklahoma City Thunder,substitute,,,,Collison,,Durant,,,,,,,,,,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=345
@@ -298,12 +298,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.08,New York Knicks,substitute,,,,Novak,,Chandler,,,,,,,,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=356
 ,,,,,,,,,,3,1.08,Oklahoma City Thunder,substitute,,,,Jackson,,Westbrook,,,,,,,,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=357
 ,,,,,,,,,,3,1.08,Oklahoma City Thunder,substitute,,,,Durant,,Ibaka,,,,,,,,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=358
-,,,,,,,,,,3,1.00,New York Knicks,turnover,,,,,,,,,,Kidd,,,Lost Ball,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=359
-,,,,,,,,,,3,0.58,Oklahoma City Thunder,shot,,,,,,,,,,Fisher,,,,missed,,Driving Layup,,,69-75,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=360
+,,,,,,,,,,3,1.00,New York Knicks,turnover,,,,,,,,,,Kidd,,,Lost Ball,,Fisher,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=359
+,,,,,,,,,,3,0.58,Oklahoma City Thunder,shot,,,Stoudemire,,,,,,,Fisher,,,,missed,,Driving Layup,,,69-75,2,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=360
 ,,,,,,,,,,3,0.57,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=361
 ,,,,,,,,,,3,0.47,Oklahoma City Thunder,shot,Martin,,,,,,,,,Jackson,3,,,made,,3PT Jump Shot,,,72-75,25,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=362
 ,,,,,,,,,,3,0.34,New York Knicks,shot,,,,,,,,,,Smith,3,,,made,,3PT Jump Shot,,,72-78,25,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=363
-,,,,,,,,,,3,0.27,Oklahoma City Thunder,shot,,,,,,,,,,Jackson,,,,missed,,Running Jump Shot,,,72-78,5,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=364
+,,,,,,,,,,3,0.27,Oklahoma City Thunder,shot,,,Stoudemire,,,,,,,Jackson,,,,missed,,Running Jump Shot,,,72-78,5,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=364
 ,,,,,,,,,,3,0.25,Oklahoma City Thunder,rebound,,,,,,,,,,Jackson,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=365
 ,,,,,,,,,,3,0.19,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Floating Jump Shot,,,74-78,5,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=366
 ,,,,,,,,,,3,0.19,New York Knicks,foul,,,,,,,,,,Martin,,,,,,Shooting,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=367
@@ -336,8 +336,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.24,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,84-83,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=400
 ,,,,,,,,,,4,9.12,Oklahoma City Thunder,shot,,,,,,,,,,Fisher,,,,missed,,Jump Shot,,,84-83,19,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=401
 ,,,,,,,,,,4,9.10,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,84-83,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=402
-,,,,,,,,,,4,9.00,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,,,,,84-83,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=404
-,,,,,,,,,,4,8.47,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,84-83,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=406
+,,,,,,,,,,4,9.00,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,Jackson,,,,84-83,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=404
+,,,,,,,,,,4,8.47,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Kidd,,,,84-83,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=406
 ,,,,,,,,,,4,8.41,New York Knicks,shot,Smith,,,,,,,,,Shumpert,2,,,made,,Layup,,,84-85,1,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=407
 ,,,,,,,,,,4,8.27,Oklahoma City Thunder,shot,Durant,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,87-85,24,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=409
 ,,,,,,,,,,4,8.12,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,87-85,25,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=410
@@ -373,7 +373,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.15,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=452
 ,,,,,,,,,,4,4.04,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,3PT Jump Shot,,,89-90,24,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=454
 ,,,,,,,,,,4,4.02,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=455
-,,,,,,,,,,4,3.58,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=456
+,,,,,,,,,,4,3.58,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Felton,,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=456
 ,,,,,,,,,,4,3.37,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Fadeaway Jumper,,,89-90,22,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=457
 ,,,,,,,,,,4,3.35,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,89-90,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=458
 ,,,,,,,,,,4,3.14,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Fadeaway Jumper,,,91-90,16,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=460
@@ -394,7 +394,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.38,New York Knicks,substitute,,,,Felton,,Martin,,,,,,,,,,,,,93-94,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=482
 ,,,,,,,,,,4,1.38,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,94-94,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=483
 ,,,,,,,,,,4,1.38,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,95-94,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=485
-,,,,,,,,,,4,1.26,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,,,,,95-94,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=487
+,,,,,,,,,,4,1.26,New York Knicks,turnover,,,,,,,,,,Felton,,,Lost Ball,,Westbrook,,,,95-94,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=487
 ,,,,,,,,,,4,1.25,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,95-94,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=488
 ,,,,,,,,,,4,1.25,New York Knicks,substitute,,,,Chandler,,Stoudemire,,,,,,,,,,,,,95-94,,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=491
 ,,,,,,,,,,4,1.04,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Floating Jump Shot,,,95-94,7,http://stats.nba.com/cvp.html?GameID=0021200913&GameEventID=492

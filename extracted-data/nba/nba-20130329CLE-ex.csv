@@ -1,6 +1,6 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.46,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,2,,,made,,Jump Shot,,,0-2,18,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=2
-,,,,,,,,,,1,11.28,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=3
+,,,,,,,,,,1,11.28,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Ellington,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=3
 ,,,,,,,,,,1,11.22,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,Jump Shot,,,0-2,16,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=4
 ,,,,,,,,,,1,11.21,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=5
 ,,,,,,,,,,1,11.16,Cleveland Cavaliers,shot,Livingston,,,,,,,,,Zeller,2,,,made,,Jump Shot,,,0-4,19,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=6
@@ -9,7 +9,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.52,Cleveland Cavaliers,shot,Zeller,,,,,,,,,Gee,2,,,made,,Pullup Jump Shot,,,0-6,18,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=9
 ,,,,,,,,,,1,10.40,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Running Jump Shot,,,0-6,10,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=10
 ,,,,,,,,,,1,10.37,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=11
-,,,,,,,,,,1,10.31,Philadelphia 76ers,turnover,,,,,,,,,,Wilkins,,,Lost Ball,,,,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=12
+,,,,,,,,,,1,10.31,Philadelphia 76ers,turnover,,,,,,,,,,Wilkins,,,Lost Ball,,Zeller,,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=12
 ,,,,,,,,,,1,10.11,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,,,,missed,,Jump Shot,,,0-6,16,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=13
 ,,,,,,,,,,1,10.09,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=14
 ,,,,,,,,,,1,10.00,Cleveland Cavaliers,foul,,,,,,,,,,Livingston,,,,,,Shooting,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=15
@@ -77,11 +77,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.04,Philadelphia 76ers,substitute,,,,Wright,,Wilkins,,,,,,,,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=87
 ,,,,,,,,,,1,3.04,Philadelphia 76ers,free throw,,,,,,,2,,2,Young,,,foul,missed,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=88
 ,,,,,,,,,,1,3.03,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=90
-,,,,,,,,,,1,3.02,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=93
+,,,,,,,,,,1,3.02,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,Ellington,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=93
 ,,,,,,,,,,1,2.48,Cleveland Cavaliers,turnover,,,,,,,,,,Gibson,,,Bad Pass,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=91
 ,,,,,,,,,,1,2.48,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=145
 ,,,,,,,,,,1,2.48,Cleveland Cavaliers,substitute,,,,Miles,,Gee,,,,,,,,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=95
-,,,,,,,,,,1,2.28,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Layup,,,17-15,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=96
+,,,,,,,,,,1,2.28,Philadelphia 76ers,shot,,,Walton,,,,,,,Hawes,,,,missed,,Layup,,,17-15,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=96
 ,,,,,,,,,,1,2.26,Cleveland Cavaliers,rebound,,,,,,,,,,Walton,,,,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=97
 ,,,,,,,,,,1,2.18,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Layup,,,17-15,3,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=98
 ,,,,,,,,,,1,2.17,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=100
@@ -130,13 +130,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.33,Cleveland Cavaliers,shot,Walton,,,,,,,,,Quinn,2,,,made,,Driving Layup,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=150
 ,,,,,,,,,,2,8.14,Philadelphia 76ers,shot,,,,,,,,,,Ivey,,,,missed,,Jump Shot,,,25-31,22,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=151
 ,,,,,,,,,,2,8.12,Cleveland Cavaliers,rebound,,,,,,,,,,Gibson,,,,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=152
-,,,,,,,,,,2,7.55,Cleveland Cavaliers,turnover,,,,,,,,,,Quinn,,,Bad Pass,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=153
+,,,,,,,,,,2,7.55,Cleveland Cavaliers,turnover,,,,,,,,,,Quinn,,,Bad Pass,,Holiday,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=153
 ,,,,,,,,,,2,7.50,Philadelphia 76ers,shot,,,,,,,,,,Moultrie,2,,,made,,Layup,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=154
-,,,,,,,,,,2,7.32,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Bad Pass,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=155
+,,,,,,,,,,2,7.32,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Bad Pass,,Holiday,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=155
 ,,,,,,,,,,2,7.32,Cleveland Cavaliers,foul,,,,,,,,,,Quinn,,,,,,Personal Take,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=156
 ,,,,,,,,,,2,7.18,Philadelphia 76ers,shot,Wright,,,,,,,,,Young,2,,,made,,Jump Shot,,,29-31,15,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=157
 ,,,,,,,,,,2,7.04,Cleveland Cavaliers,shot,,,,,,,,,,Miles,2,,,made,,Floating Jump Shot,,,29-33,8,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=158
-,,,,,,,,,,2,6.51,Philadelphia 76ers,turnover,,,,,,,,,,Moultrie,,,Lost Ball,,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=159
+,,,,,,,,,,2,6.51,Philadelphia 76ers,turnover,,,,,,,,,,Moultrie,,,Lost Ball,,Quinn,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=159
 ,,,,,,,,,,2,6.44,Cleveland Cavaliers,shot,Miles,,,,,,,,,Walton,2,,,made,,Dunk,,,29-35,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=160
 ,,,,,,,,,,2,6.24,Philadelphia 76ers,shot,Holiday,,,,,,,,,Young,2,,,made,,Floating Jump Shot,,,31-35,4,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=161
 ,,,,,,,,,,2,6.03,Philadelphia 76ers,foul,,,,,,,,,,Moultrie,,,,,,Shooting,,,31-35,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=162
@@ -155,7 +155,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.19,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=180
 ,,,,,,,,,,2,5.19,Cleveland Cavaliers,foul,,,,,,,,,,Speights,,,,,,Loose ball,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=181
 ,,,,,,,,,,2,5.01,Philadelphia 76ers,turnover,,,,,,,,,,Wilkins,,,Traveling,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=182
-,,,,,,,,,,2,4.45,Cleveland Cavaliers,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,31-37,5,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=183
+,,,,,,,,,,2,4.45,Cleveland Cavaliers,shot,,,Holiday,,,,,,,Speights,,,,missed,,Jump Shot,,,31-37,5,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=183
 ,,,,,,,,,,2,4.45,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=184
 ,,,,,,,,,,2,4.45,Philadelphia 76ers,foul,,,,,,,,,,Wilkins,,,,,,Loose ball,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=185
 ,,,,,,,,,,2,4.45,Cleveland Cavaliers,substitute,,,,Zeller,,Speights,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=186
@@ -180,19 +180,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.35,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,Jump Shot,,,34-43,23,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=209
 ,,,,,,,,,,2,2.34,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=210
 ,,,,,,,,,,2,2.19,Philadelphia 76ers,shot,Wilkins,,,,,,,,,Hawes,2,,,made,,Running Hook Shot,,,36-43,5,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=211
-,,,,,,,,,,2,2.06,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,Layup,,,36-43,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=212
+,,,,,,,,,,2,2.06,Cleveland Cavaliers,shot,,,Wilkins,,,,,,,Miles,,,,missed,,Layup,,,36-43,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=212
 ,,,,,,,,,,2,2.06,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,36-43,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=213
 ,,,,,,,,,,2,2.06,Cleveland Cavaliers,substitute,,,,Gee,,Miles,,,,,,,,,,,,,36-43,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=215
 ,,,,,,,,,,2,1.57,Cleveland Cavaliers,shot,Gee,,,,,,,,,Thompson,2,,,made,,Layup,,,36-45,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=216
 ,,,,,,,,,,2,1.42,Philadelphia 76ers,shot,Wilkins,,,,,,,,,Hawes,3,,,made,,3PT Jump Shot,,,39-45,26,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=217
-,,,,,,,,,,2,1.18,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,39-45,5,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=218
+,,,,,,,,,,2,1.18,Cleveland Cavaliers,shot,,,Hawes,,,,,,,Thompson,,,,missed,,Jump Shot,,,39-45,5,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=218
 ,,,,,,,,,,2,1.16,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=219
 ,,,,,,,,,,2,1.13,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Floating Jump Shot,,,39-45,14,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=220
 ,,,,,,,,,,2,1.09,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=221
 ,,,,,,,,,,2,1.07,Philadelphia 76ers,shot,Turner,,,,,,,,,Young,2,,,made,,Alley Oop Dunk,,,41-45,1,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=222
-,,,,,,,,,,2,0.54,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,41-45,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=224
+,,,,,,,,,,2,0.54,Cleveland Cavaliers,shot,,,Wright,,,,,,,Thompson,,,,missed,,Layup,,,41-45,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=224
 ,,,,,,,,,,2,0.54,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=225
-,,,,,,,,,,2,0.46,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,,,,missed,,Jump Shot,,,41-45,17,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=227
+,,,,,,,,,,2,0.46,Cleveland Cavaliers,shot,,,Wilkins,,,,,,,Livingston,,,,missed,,Jump Shot,,,41-45,17,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=227
 ,,,,,,,,,,2,0.44,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=228
 ,,,,,,,,,,2,0.44,Philadelphia 76ers,shot,Turner,,,,,,,,,Wilkins,2,,,made,,Slam Dunk,,,43-45,1,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=229
 ,,,,,,,,,,2,0.26,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Floating Jump Shot,,,43-45,4,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=230
@@ -224,7 +224,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.52,Philadelphia 76ers,free throw,,,,,,,2,,2,Turner,1,,foul,made,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=262
 ,,,,,,,,,,3,9.39,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,,,,missed,,Floating Jump Shot,,,53-47,7,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=264
 ,,,,,,,,,,3,9.35,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=265
-,,,,,,,,,,3,9.26,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=266
+,,,,,,,,,,3,9.26,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,Ellington,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=266
 ,,,,,,,,,,3,9.06,Cleveland Cavaliers,turnover,,,,,,,,,,Thompson Out of Bounds,,,Lost Ball,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=267
 ,,,,,,,,,,3,8.54,Cleveland Cavaliers,foul,,,,,,,,,,Gee,,,,,,Personal,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=268
 ,,,,,,,,,,3,8.47,Philadelphia 76ers,shot,Young,,,,,,,,,Turner,3,,,made,,3PT Jump Shot,,,56-47,26,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=269
@@ -238,7 +238,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.08,Philadelphia 76ers,foul,,,,,,,,,,Turner,,,,,,Shooting,,,60-53,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=280
 ,,,,,,,,,,3,7.08,Cleveland Cavaliers,free throw,,,,,,,1,,1,Thompson,1,,foul,made,,,,,60-54,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=281
 ,,,,,,,,,,3,6.49,Philadelphia 76ers,shot,Turner,,,,,,,,,Hawes,2,,,made,,Reverse Layup,,,62-54,1,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=283
-,,,,,,,,,,3,6.42,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Bad Pass,,,,,,62-54,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=284
+,,,,,,,,,,3,6.42,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Bad Pass,,Young,,,,62-54,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=284
 ,,,,,,,,,,3,6.37,Philadelphia 76ers,shot,,,,,,,,,,Turner,2,,,made,,Driving Layup,,,64-54,1,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=285
 ,,,,,,,,,,3,6.18,Cleveland Cavaliers,shot,,,,,,,,,,Gee,2,,,made,,Driving Finger Roll Layup,,,64-56,1,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=286
 ,,,,,,,,,,3,6.02,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,3PT Jump Shot,,,64-56,25,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=287
@@ -249,7 +249,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.26,Philadelphia 76ers,shot,,,,,,,,,,Turner,2,,,made,,Jump Shot,,,68-56,12,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=292
 ,,,,,,,,,,3,5.13,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,,,,missed,,Jump Shot,,,68-56,9,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=293
 ,,,,,,,,,,3,5.11,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,68-56,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=294
-,,,,,,,,,,3,5.04,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Layup,,,68-56,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=295
+,,,,,,,,,,3,5.04,Philadelphia 76ers,shot,,,Zeller,,,,,,,Hawes,,,,missed,,Layup,,,68-56,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=295
 ,,,,,,,,,,3,5.02,Cleveland Cavaliers,rebound,,,,,,,,,,Livingston,,,,,,,,,68-56,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=296
 ,,,,,,,,,,3,4.58,Cleveland Cavaliers,shot,Livingston,,,,,,,,,Ellington,2,,,made,,Finger Roll Layup,,,68-58,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=297
 ,,,,,,,,,,3,4.36,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Personal,,,68-58,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=298
@@ -262,7 +262,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.56,Cleveland Cavaliers,rebound,,,,,,,,,,Ellington,,,,,,,,,70-58,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=308
 ,,,,,,,,,,3,3.46,Philadelphia 76ers,violation,,,,,,,,,,Young,,,Defensive Goaltending,,,,,,70-58,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=310
 ,,,,,,,,,,3,3.46,Cleveland Cavaliers,shot,Zeller,,,,,,,,,Livingston,2,,,made,,Layup,,,70-60,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=309
-,,,,,,,,,,3,3.38,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Layup,,,70-60,3,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=311
+,,,,,,,,,,3,3.38,Philadelphia 76ers,shot,,,Thompson,,,,,,,Hawes,,,,missed,,Layup,,,70-60,3,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=311
 ,,,,,,,,,,3,3.38,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,70-60,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=312
 ,,,,,,,,,,3,3.38,Cleveland Cavaliers,substitute,,,,Miles,,Gee,,,,,,,,,,,,,70-60,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=313
 ,,,,,,,,,,3,3.38,Cleveland Cavaliers,substitute,,,,Gibson,,Thompson,,,,,,,,,,,,,70-60,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=314
@@ -277,7 +277,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.16,Philadelphia 76ers,shot,Holiday,,,,,,,,,Wright,3,,,made,,3PT Jump Shot,,,75-64,24,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=325
 ,,,,,,,,,,3,2.01,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,3PT Jump Shot,,,75-64,25,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=326
 ,,,,,,,,,,3,1.59,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,75-64,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=327
-,,,,,,,,,,3,1.49,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Jump Shot,,,75-64,5,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=328
+,,,,,,,,,,3,1.49,Philadelphia 76ers,shot,,,Miles,,,,,,,Hawes,,,,missed,,Jump Shot,,,75-64,5,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=328
 ,,,,,,,,,,3,1.47,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,75-64,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=329
 ,,,,,,,,,,3,1.34,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,,,,,75-64,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=330
 ,,,,,,,,,,3,1.21,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,3PT Jump Shot,,,75-64,25,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=331
@@ -288,7 +288,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.56,Cleveland Cavaliers,shot,Miles,,,,,,,,,Zeller,2,,,made,,Layup,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=336
 ,,,,,,,,,,3,0.36,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Jump Shot,,,75-66,7,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=337
 ,,,,,,,,,,3,0.34,Cleveland Cavaliers,rebound,,,,,,,,,,Walton,,,,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=338
-,,,,,,,,,,3,0.26,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=339
+,,,,,,,,,,3,0.26,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,Holiday,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=339
 ,,,,,,,,,,3,0.08,Cleveland Cavaliers,foul,,,,,,,,,,Gibson,,,,,,Personal Take,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=341
 ,,,,,,,,,,3,0.08,Philadelphia 76ers,substitute,,,,Ivey,,Allen,,,,,,,,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=342
 ,,,,,,,,,,3,0.01,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Driving Finger Roll Layup,,,77-66,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=343
@@ -298,7 +298,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.21,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,77-69,27,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=350
 ,,,,,,,,,,4,11.20,Cleveland Cavaliers,rebound,,,,,,,,,,Walton,,,,,,,,,77-69,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=351
 ,,,,,,,,,,4,11.09,Cleveland Cavaliers,shot,Walton,,,,,,,,,Gibson,2,,,made,,Floating Jump Shot,,,77-71,6,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=352
-,,,,,,,,,,4,10.57,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,77-71,3,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=353
+,,,,,,,,,,4,10.57,Philadelphia 76ers,shot,,,Speights,,,,,,,Young,,,,missed,,Jump Shot,,,77-71,3,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=353
 ,,,,,,,,,,4,10.57,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,77-71,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=354
 ,,,,,,,,,,4,10.50,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,77-71,17,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=356
 ,,,,,,,,,,4,10.49,Cleveland Cavaliers,rebound,,,,,,,,,,Miles,,,,,,,,,77-71,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=357
@@ -325,7 +325,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.36,Philadelphia 76ers,rebound,,,,,,,,,,Wilkins,,,,,,,,,81-74,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=388
 ,,,,,,,,,,4,8.17,Philadelphia 76ers,shot,,,,,,,,,,Turner,2,,,made,,Jump Shot,,,83-74,16,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=389
 ,,,,,,,,,,4,8.04,Cleveland Cavaliers,shot,Walton,,,,,,,,,Miles,3,,,made,,3PT Jump Shot,,,83-77,26,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=390
-,,,,,,,,,,4,7.40,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,83-77,4,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=391
+,,,,,,,,,,4,7.40,Philadelphia 76ers,shot,,,Speights,,,,,,,Turner,,,,missed,,Jump Shot,,,83-77,4,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=391
 ,,,,,,,,,,4,7.38,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,83-77,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=392
 ,,,,,,,,,,4,7.37,Cleveland Cavaliers,foul,,,,,,,,,,Walton,,,,,,Personal,,,83-77,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=393
 ,,,,,,,,,,4,7.37,Philadelphia 76ers,substitute,,,,Holiday,,Wright,,,,,,,,,,,,,83-77,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=394
@@ -335,8 +335,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.02,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,3PT Jump Shot,,,83-77,25,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=398
 ,,,,,,,,,,4,7.01,Cleveland Cavaliers,rebound,,,,,,,,,,Miles,,,,,,,,,83-77,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=399
 ,,,,,,,,,,4,6.53,Cleveland Cavaliers,shot,,,,,,,,,,Miles,2,,,made,,Driving Layup,,,83-79,1,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=400
-,,,,,,,,,,4,6.39,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=401
-,,,,,,,,,,4,6.29,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Bad Pass,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=402
+,,,,,,,,,,4,6.39,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Walton,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=401
+,,,,,,,,,,4,6.29,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Bad Pass,,Wilkins,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=402
 ,,,,,,,,,,4,6.21,Philadelphia 76ers,shot,,,,,,,,,,Holiday,3,,,made,,3PT Jump Shot,,,86-79,26,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=403
 ,,,,,,,,,,4,6.20,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,86-79,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=404
 ,,,,,,,,,,4,6.20,Philadelphia 76ers,substitute,,,,Hawes,,Allen,,,,,,,,,,,,,86-79,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=406
@@ -369,7 +369,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.45,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,93-83,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=442
 ,,,,,,,,,,4,2.45,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Tip Shot,,,93-83,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=441
 ,,,,,,,,,,4,2.42,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,93-83,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=443
-,,,,,,,,,,4,2.36,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Layup,,,93-83,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=444
+,,,,,,,,,,4,2.36,Cleveland Cavaliers,shot,,,Hawes,,,,,,,Gee,,,,missed,,Layup,,,93-83,2,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=444
 ,,,,,,,,,,4,2.35,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,93-83,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=445
 ,,,,,,,,,,4,2.18,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Layup,,,93-83,1,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=446
 ,,,,,,,,,,4,2.17,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,93-83,,http://stats.nba.com/cvp.html?GameID=0021201078&GameEventID=447

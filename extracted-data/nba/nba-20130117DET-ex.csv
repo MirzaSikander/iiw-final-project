@@ -14,7 +14,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.53,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Foul,,,,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=16
 ,,,,,,,,,,1,9.42,Detroit Pistons,foul,,,,,,,,,,Knight,,,,,,Personal,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=18
 ,,,,,,,,,,1,9.35,New York Knicks,shot,,,,,,,,,,Copeland,2,,,made,,Driving Layup,,,10-2,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=19
-,,,,,,,,,,1,9.20,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Jump Shot,,,10-2,4,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=20
+,,,,,,,,,,1,9.20,Detroit Pistons,shot,,,Chandler,,,,,,,Monroe,,,,missed,,Jump Shot,,,10-2,4,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=20
 ,,,,,,,,,,1,9.18,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,10-2,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=21
 ,,,,,,,,,,1,9.13,New York Knicks,shot,Kidd,,,,,,,,,Anthony,3,,,made,,3PT Jump Shot,,,13-2,27,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=22
 ,,,,,,,,,,1,9.05,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,13-2,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=23
@@ -25,7 +25,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.11,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,16-2,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=29
 ,,,,,,,,,,1,8.06,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,3PT Jump Shot,,,16-2,26,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=30
 ,,,,,,,,,,1,8.05,New York Knicks,rebound,,,,,,,,,,Copeland,,,,,,,,,16-2,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=31
-,,,,,,,,,,1,8.00,New York Knicks,shot,,,,,,,,,,Copeland,,,,missed,,Jump Shot,,,16-2,10,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=32
+,,,,,,,,,,1,8.00,New York Knicks,shot,,,Maxiell,,,,,,,Copeland,,,,missed,,Jump Shot,,,16-2,10,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=32
 ,,,,,,,,,,1,7.59,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,16-2,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=33
 ,,,,,,,,,,1,7.51,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,16-2,26,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=34
 ,,,,,,,,,,1,7.50,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,16-2,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=35
@@ -43,7 +43,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.03,New York Knicks,foul,,,,,,,,,,Kidd,,,,,,Personal,,,16-4,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=47
 ,,,,,,,,,,1,6.03,New York Knicks,substitute,,,,Prigioni,,Kidd,,,,,,,,,,,,,16-4,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=48
 ,,,,,,,,,,1,5.57,New York Knicks,violation,,,,,,,,,,Knicks,,, Delay of game Violation,,,,,,16-4,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=49
-,,,,,,,,,,1,5.54,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Bad Pass,,,,,,16-4,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=50
+,,,,,,,,,,1,5.54,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Bad Pass,,Smith,,,,16-4,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=50
 ,,,,,,,,,,1,5.51,New York Knicks,turnover,,,,,,,,,,Chandler Out of Bounds,,,Lost Ball,,,,,,16-4,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=51
 ,,,,,,,,,,1,5.37,New York Knicks,foul,,,,,,,,,,Anthony,,,,,,Shooting,,,16-4,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=52
 ,,,,,,,,,,1,5.37,Detroit Pistons,free throw,,,,,,,1,,2,Prince,,,foul,missed,,,,,16-4,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=53
@@ -57,7 +57,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.11,Detroit Pistons,free throw,,,,,,,2,,2,Stuckey,1,,foul,made,,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=63
 ,,,,,,,,,,1,4.52,New York Knicks,shot,,,,,,,,,,Copeland,,,,missed,,3PT Jump Shot,,,18-6,28,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=65
 ,,,,,,,,,,1,4.51,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=66
-,,,,,,,,,,1,4.46,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=67
+,,,,,,,,,,1,4.46,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Prince,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=67
 ,,,,,,,,,,1,4.34,New York Knicks,foul,,,,,,,,,,Prigioni,,,,,,Personal,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=68
 ,,,,,,,,,,1,4.34,Detroit Pistons,free throw,,,,,,,1,,2,Stuckey,,,foul,missed,,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=69
 ,,,,,,,,,,1,4.34,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=70
@@ -65,13 +65,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.34,Detroit Pistons,substitute,,,,Drummond,,Maxiell,,,,,,,,,,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=72
 ,,,,,,,,,,1,4.34,Detroit Pistons,free throw,,,,,,,2,,2,Stuckey,,,foul,missed,,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=73
 ,,,,,,,,,,1,4.32,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=75
-,,,,,,,,,,1,4.16,New York Knicks,turnover,,,,,,,,,,Anthony,,,Lost Ball,,,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=76
+,,,,,,,,,,1,4.16,New York Knicks,turnover,,,,,,,,,,Anthony,,,Lost Ball,,Prince,,,,18-6,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=76
 ,,,,,,,,,,1,3.55,Detroit Pistons,shot,Stuckey,,,,,,,,,Drummond,2,,,made,,Layup,,,18-8,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=77
-,,,,,,,,,,1,3.33,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Layup,,,18-8,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=78
+,,,,,,,,,,1,3.33,New York Knicks,shot,,,Drummond,,,,,,,Anthony,,,,missed,,Layup,,,18-8,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=78
 ,,,,,,,,,,1,3.31,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,18-8,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=79
 ,,,,,,,,,,1,3.24,Detroit Pistons,shot,Stuckey,,,,,,,,,Prince,2,,,made,,Jump Shot,,,18-10,20,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=80
 ,,,,,,,,,,1,3.09,New York Knicks,shot,Smith,,,,,,,,,Stoudemire,2,,,made,,Jump Shot,,,20-10,20,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=81
-,,,,,,,,,,1,2.51,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,,,,,20-10,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=82
+,,,,,,,,,,1,2.51,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,Smith,,,,20-10,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=82
 ,,,,,,,,,,1,2.46,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Driving Layup,,,22-10,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=83
 ,,,,,,,,,,1,2.34,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,22-10,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=84
 ,,,,,,,,,,1,2.34,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,22-10,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=85
@@ -100,7 +100,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.03,New York Knicks,free throw,,,,,,,2,,2,Stoudemire,1,,foul,made,,,,,29-17,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=112
 ,,,,,,,,,,1,0.01,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,3PT Jump Shot,,,29-17,27,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=114
 ,,,,,,,,,,1,0.00,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,29-17,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=115
-,,,,,,,,,,2,11.49,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,,,,,29-17,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=119
+,,,,,,,,,,2,11.49,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,Stoudemire,,,,29-17,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=119
 ,,,,,,,,,,2,11.24,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,29-17,27,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=120
 ,,,,,,,,,,2,11.23,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,29-17,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=121
 ,,,,,,,,,,2,11.12,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,3PT Jump Shot,,,29-17,25,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=122
@@ -135,13 +135,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.58,New York Knicks,substitute,,,,Anthony,,Brewer,,,,,,,,,,,,,36-22,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=160
 ,,,,,,,,,,2,7.58,New York Knicks,free throw,,,,,,,2,,2,Stoudemire,1,,foul,made,,,,,37-22,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=161
 ,,,,,,,,,,2,7.43,Detroit Pistons,shot,,,,,,,,,,Stuckey,2,,,made,,Driving Layup,,,37-24,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=163
-,,,,,,,,,,2,7.21,New York Knicks,shot,,,,,,,,,,Stoudemire,,,,missed,,Layup,,,37-24,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=186
+,,,,,,,,,,2,7.21,New York Knicks,shot,,,Drummond,,,,,,,Stoudemire,,,,missed,,Layup,,,37-24,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=186
 ,,,,,,,,,,2,7.21,New York Knicks,rebound,,,,,,,,,,Stoudemire,,,,,,,,,37-24,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=187
 ,,,,,,,,,,2,7.20,New York Knicks,shot,,,,,,,,,,Stoudemire,2,,,made,,Reverse Layup,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=164
 ,,,,,,,,,,2,7.13,New York Knicks,substitute,,,,Chandler,,Stoudemire,,,,,,,,,,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=166
-,,,,,,,,,,2,7.00,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,Jump Shot,,,39-24,4,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=167
+,,,,,,,,,,2,7.00,Detroit Pistons,shot,,,Chandler,,,,,,,Stuckey,,,,missed,,Jump Shot,,,39-24,4,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=167
 ,,,,,,,,,,2,6.58,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=168
-,,,,,,,,,,2,6.52,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=169
+,,,,,,,,,,2,6.52,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,Prigioni,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=169
 ,,,,,,,,,,2,6.50,Detroit Pistons,foul,,,,,,,,,,Daye,,,,,,Flagrant,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=170
 ,,,,,,,,,,2,6.50,New York Knicks,free throw,,,,,,,,,,Chandler,1,,foul,made,,,,,40-24,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=171
 ,,,,,,,,,,2,6.50,New York Knicks,free throw,,,,,,,,,,Chandler,1,,foul,made,,,,,41-24,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=173
@@ -201,10 +201,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.12,New York Knicks,substitute,,,,Copeland,,Anthony,,,,,,,,,,,,,52-37,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=238
 ,,,,,,,,,,2,1.48,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,52-37,16,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=240
 ,,,,,,,,,,2,1.47,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,52-37,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=241
-,,,,,,,,,,2,1.28,Detroit Pistons,shot,,,,,,,,,,Prince,,,,missed,,Layup,,,52-37,5,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=243
+,,,,,,,,,,2,1.28,Detroit Pistons,shot,,,Shumpert,,,,,,,Prince,,,,missed,,Layup,,,52-37,5,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=243
 ,,,,,,,,,,2,1.27,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,52-37,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=270
 ,,,,,,,,,,2,1.27,New York Knicks,substitute,,,,Stoudemire,,Chandler,,,,,,,,,,,,,52-37,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=244
-,,,,,,,,,,2,1.27,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,,,,,52-37,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=245
+,,,,,,,,,,2,1.27,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,Kidd,,,,52-37,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=245
 ,,,,,,,,,,2,1.21,New York Knicks,shot,Kidd,,,,,,,,,Stoudemire,2,,,made,,Dunk,,,54-37,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=246
 ,,,,,,,,,,2,1.03,Detroit Pistons,shot,Knight,,,,,,,,,Stuckey,2,,,made,,Jump Shot,,,54-39,20,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=247
 ,,,,,,,,,,2,0.52,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Jump Shot,,,56-39,19,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=248
@@ -227,14 +227,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=268
 ,,,,,,,,,,3,11.50,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Hook Shot,,,56-41,4,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=273
 ,,,,,,,,,,3,11.49,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=274
-,,,,,,,,,,3,11.41,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=275
+,,,,,,,,,,3,11.41,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,Monroe,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=275
 ,,,,,,,,,,3,11.31,Detroit Pistons,shot,Singler,,,,,,,,,Prince,2,,,made,,Jump Shot,,,56-43,11,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=276
 ,,,,,,,,,,3,11.10,New York Knicks,shot,Anthony,,,,,,,,,Shumpert,3,,,made,,3PT Jump Shot,,,59-43,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=277
 ,,,,,,,,,,3,10.59,New York Knicks,foul,,,,,,,,,,Chandler,,,,,,Personal,,,59-43,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=278
 ,,,,,,,,,,3,10.59,New York Knicks,foul,,,,,,,,,,Chandler,,,,,,Technical,,,59-43,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=279
 ,,,,,,,,,,3,10.59,Detroit Pistons,free throw,,,,,,,,,,Knight,1,,Technical,made,,,,,59-44,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=280
 ,,,,,,,,,,3,10.53,Detroit Pistons,shot,Monroe,,,,,,,,,Singler,3,,,made,,3PT Jump Shot,,,59-47,24,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=282
-,,,,,,,,,,3,10.31,New York Knicks,turnover,,,,,,,,,,Anthony,,,Lost Ball,,,,,,59-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=284
+,,,,,,,,,,3,10.31,New York Knicks,turnover,,,,,,,,,,Anthony,,,Lost Ball,,Maxiell,,,,59-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=284
 ,,,,,,,,,,3,10.25,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Hook Shot,,,59-47,4,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=285
 ,,,,,,,,,,3,10.24,Detroit Pistons,rebound,,,,,,,,,,Maxiell,,,,,,,,,59-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=286
 ,,,,,,,,,,3,10.11,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Driving Layup,,,59-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=287
@@ -244,7 +244,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.09,Detroit Pistons,foul,,,,,,,,,,Knight,,,,,,Personal,,,59-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=291
 ,,,,,,,,,,3,9.48,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,59-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=292
 ,,,,,,,,,,3,9.47,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,59-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=293
-,,,,,,,,,,3,9.31,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Lost Ball,,,,,,59-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=294
+,,,,,,,,,,3,9.31,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Lost Ball,,Shumpert,,,,59-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=294
 ,,,,,,,,,,3,9.26,New York Knicks,shot,,,,,,,,,,Shumpert,2,,,made,,Reverse Layup,,,61-47,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=295
 ,,,,,,,,,,3,9.09,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,61-47,26,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=296
 ,,,,,,,,,,3,9.08,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,61-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=297
@@ -262,7 +262,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.36,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Layup,,,65-47,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=309
 ,,,,,,,,,,3,7.36,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,65-47,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=310
 ,,,,,,,,,,3,7.35,Detroit Pistons,shot,,,,,,,,,,Prince,2,,,made,,Layup,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=311
-,,,,,,,,,,3,7.21,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,Layup,,,65-49,3,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=312
+,,,,,,,,,,3,7.21,New York Knicks,shot,,,Singler,,,,,,,Shumpert,,,,missed,,Layup,,,65-49,3,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=312
 ,,,,,,,,,,3,7.21,New York Knicks,rebound,,,,,,,,,,Shumpert,,,,,,,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=313
 ,,,,,,,,,,3,7.21,Detroit Pistons,foul,,,,,,,,,,Singler,,,,,,Shooting,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=314
 ,,,,,,,,,,3,7.21,New York Knicks,free throw,,,,,,,1,,2,Shumpert,,,foul,missed,,,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=315
@@ -293,7 +293,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.45,New York Knicks,substitute,,,,Novak,,Copeland,,,,,,,,,,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=342
 ,,,,,,,,,,3,4.45,New York Knicks,free throw,,,,,,,2,,2,Stoudemire,1,,foul,made,,,,,66-57,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=343
 ,,,,,,,,,,3,4.37,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Bad Pass,,,,,,66-57,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=345
-,,,,,,,,,,3,4.26,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,66-57,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=346
+,,,,,,,,,,3,4.26,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Bynum,,,,66-57,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=346
 ,,,,,,,,,,3,4.20,Detroit Pistons,shot,Bynum,,,,,,,,,Prince,2,,,made,,Jump Shot,,,66-59,15,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=347
 ,,,,,,,,,,3,3.55,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,66-59,25,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=348
 ,,,,,,,,,,3,3.54,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=349
@@ -305,7 +305,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.09,New York Knicks,turnover,,,,,,,,,,Anthony,,,Foul,,,,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=356
 ,,,,,,,,,,3,2.57,New York Knicks,foul,,,,,,,,,,Stoudemire,,,,,,Personal,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=357
 ,,,,,,,,,,3,2.57,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=358
-,,,,,,,,,,3,2.53,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Driving Layup,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=361
+,,,,,,,,,,3,2.53,Detroit Pistons,shot,,,Anthony,,,,,,,Bynum,,,,missed,,Driving Layup,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=361
 ,,,,,,,,,,3,2.50,New York Knicks,rebound,,,,,,,,,,Prigioni,,,,,,,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=362
 ,,,,,,,,,,3,2.42,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,67-61,24,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=363
 ,,,,,,,,,,3,2.41,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=364
@@ -339,7 +339,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.09,New York Knicks,free throw,,,,,,,2,,2,Stoudemire,1,,foul,made,,,,,77-65,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=398
 ,,,,,,,,,,4,10.53,Detroit Pistons,shot,Prince,,,,,,,,,Villanueva,3,,,made,,3PT Jump Shot,,,77-68,25,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=400
 ,,,,,,,,,,4,10.39,New York Knicks,shot,Kidd,,,,,,,,,Novak,3,,,made,,3PT Jump Shot,,,80-68,25,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=401
-,,,,,,,,,,4,10.14,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Layup,,,80-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=402
+,,,,,,,,,,4,10.14,Detroit Pistons,shot,,,Anthony,,,,,,,Bynum,,,,missed,,Layup,,,80-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=402
 ,,,,,,,,,,4,10.12,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,80-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=403
 ,,,,,,,,,,4,10.07,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,3PT Jump Shot,,,80-68,26,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=404
 ,,,,,,,,,,4,10.06,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,80-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=405
@@ -361,8 +361,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.25,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=422
 ,,,,,,,,,,4,8.16,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Pullup Jump Shot,,,82-68,15,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=423
 ,,,,,,,,,,4,8.14,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=424
-,,,,,,,,,,4,8.00,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Lost Ball,,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=425
-,,,,,,,,,,4,7.51,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=426
+,,,,,,,,,,4,8.00,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Lost Ball,,Kidd,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=425
+,,,,,,,,,,4,7.51,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Drummond,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=426
 ,,,,,,,,,,4,7.41,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,Jump Shot,,,82-68,17,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=427
 ,,,,,,,,,,4,7.40,New York Knicks,rebound,,,,,,,,,,Novak,,,,,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=428
 ,,,,,,,,,,4,7.35,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=429
@@ -370,7 +370,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.34,Detroit Pistons,foul,,,,,,,,,,Bynum,,,,,,Personal,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=432
 ,,,,,,,,,,4,7.24,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Jump Shot,,,82-68,18,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=433
 ,,,,,,,,,,4,7.23,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=434
-,,,,,,,,,,4,7.06,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Lost Ball,,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=435
+,,,,,,,,,,4,7.06,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Lost Ball,,Kidd,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=435
 ,,,,,,,,,,4,6.54,Detroit Pistons,foul,,,,,,,,,,Drummond,,,,,,Shooting,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=436
 ,,,,,,,,,,4,6.54,New York Knicks,free throw,,,,,,,1,,2,Anthony,,,foul,missed,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=437
 ,,,,,,,,,,4,6.54,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=438
@@ -408,7 +408,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.17,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,89-75,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=474
 ,,,,,,,,,,4,3.01,New York Knicks,shot,Smith,,,,,,,,,Novak,3,,,made,,3PT Jump Shot,,,92-75,25,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=475
 ,,,,,,,,,,4,3.01,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,92-75,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=476
-,,,,,,,,,,4,2.45,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Bad Pass,,,,,,92-75,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=478
+,,,,,,,,,,4,2.45,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Bad Pass,,Smith,,,,92-75,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=478
 ,,,,,,,,,,4,2.20,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,92-75,22,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=479
 ,,,,,,,,,,4,2.20,New York Knicks,rebound,,,,,,,,,,Prigioni,,,,,,,,,92-75,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=480
 ,,,,,,,,,,4,2.20,Detroit Pistons,foul,,,,,,,,,,Drummond,,,,,,Shooting,,,92-75,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=481
@@ -418,7 +418,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.43,New York Knicks,shot,Smith,,,,,,,,,Anthony,2,,,made,,Jump Shot,,,96-77,20,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=488
 ,,,,,,,,,,4,1.28,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Jump Shot,,,96-77,4,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=489
 ,,,,,,,,,,4,1.27,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,96-77,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=490
-,,,,,,,,,,4,1.25,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,96-77,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=491
+,,,,,,,,,,4,1.25,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Drummond,,,,96-77,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=491
 ,,,,,,,,,,4,1.25,Detroit Pistons,shot,Drummond,,,,,,,,,Monroe,2,,,made,,Layup,,,96-79,1,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=492
 ,,,,,,,,,,4,1.25,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,96-79,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=493
 ,,,,,,,,,,4,1.25,New York Knicks,substitute,,,,White,,Anthony,,,,,,,,,,,,,96-79,,http://stats.nba.com/cvp.html?GameID=0021200580&GameEventID=494

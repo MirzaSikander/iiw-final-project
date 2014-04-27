@@ -1,8 +1,8 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.45,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,Jump Shot,,,,16,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=2
 ,,,,,,,,,,1,11.43,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=3
-,,,,,,,,,,1,11.36,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=4
-,,,,,,,,,,1,11.30,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=5
+,,,,,,,,,,1,11.36,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,Horford,,,,,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=4
+,,,,,,,,,,1,11.30,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Jefferson,,,,,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=5
 ,,,,,,,,,,1,11.17,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Turnaround Hook Shot,,,2-0,6,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=6
 ,,,,,,,,,,1,11.00,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Jump Shot,,,2-0,19,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=7
 ,,,,,,,,,,1,10.58,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=8
@@ -23,14 +23,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.39,Utah Jazz,shot,Millsap,,,,,,,,,Foye,2,,,made,,Turnaround Jump Shot,,,11-8,8,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=25
 ,,,,,,,,,,1,7.19,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Running Hook Shot,,,11-10,7,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=26
 ,,,,,,,,,,1,7.02,Utah Jazz,shot,Foye,,,,,,,,,Jefferson,2,,,made,,Jump Shot,,,13-10,20,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=27
-,,,,,,,,,,1,6.47,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=28
+,,,,,,,,,,1,6.47,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Foye,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=28
 ,,,,,,,,,,1,6.40,Atlanta Hawks,foul,,,,,,,,,,Korver,,,,,,Shooting,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=29
 ,,,,,,,,,,1,6.40,Utah Jazz,free throw,,,,,,,1,,2,Foye,1,,foul,made,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=30
 ,,,,,,,,,,1,6.40,Utah Jazz,free throw,,,,,,,2,,2,Foye,,,foul,missed,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=32
 ,,,,,,,,,,1,6.40,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=34
 ,,,,,,,,,,1,6.20,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,14-10,20,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=35
 ,,,,,,,,,,1,6.18,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=36
-,,,,,,,,,,1,6.07,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,14-10,11,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=37
+,,,,,,,,,,1,6.07,Utah Jazz,shot,,,Smith,,,,,,,Millsap,,,,missed,,Jump Shot,,,14-10,11,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=37
 ,,,,,,,,,,1,6.05,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=38
 ,,,,,,,,,,1,6.02,Utah Jazz,shot,Millsap,,,,,,,,,Jefferson,2,,,made,,Jump Shot,,,16-10,8,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=39
 ,,,,,,,,,,1,5.54,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=40
@@ -48,7 +48,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.40,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,16-14,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=53
 ,,,,,,,,,,1,4.30,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,16-14,20,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=54
 ,,,,,,,,,,1,4.29,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,16-14,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=55
-,,,,,,,,,,1,4.23,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,Driving Layup,,,16-14,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=56
+,,,,,,,,,,1,4.23,Utah Jazz,shot,,,Williams,,,,,,,Tinsley,,,,missed,,Driving Layup,,,16-14,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=56
 ,,,,,,,,,,1,4.21,Atlanta Hawks,rebound,,,,,,,,,,Williams,,,,,,,,,16-14,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=57
 ,,,,,,,,,,1,4.08,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,16-14,16,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=58
 ,,,,,,,,,,1,4.07,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,16-14,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=59
@@ -68,10 +68,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.42,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=76
 ,,,,,,,,,,1,2.35,Utah Jazz,shot,Hayward,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,20-14,24,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=77
 ,,,,,,,,,,1,2.10,Atlanta Hawks,shot,Smith,,,,,,,,,Johnson,2,,,made,,Jump Shot,,,20-16,20,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=78
-,,,,,,,,,,1,1.50,Utah Jazz,turnover,,,,,,,,,,Favors,,,Bad Pass,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=79
+,,,,,,,,,,1,1.50,Utah Jazz,turnover,,,,,,,,,,Favors,,,Bad Pass,,Teague,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=79
 ,,,,,,,,,,1,1.46,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Running Dunk,,,20-18,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=80
 ,,,,,,,,,,1,1.25,Utah Jazz,shot,Favors,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,23-18,25,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=81
-,,,,,,,,,,1,1.05,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=82
+,,,,,,,,,,1,1.05,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Favors,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=82
 ,,,,,,,,,,1,1.01,Utah Jazz,shot,Jefferson,,,,,,,,,Foye,2,,,made,,Running Layup,,,25-18,2,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=84
 ,,,,,,,,,,1,0.45,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Shooting,,,25-18,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=86
 ,,,,,,,,,,1,0.45,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,25-18,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=87
@@ -80,7 +80,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.45,Atlanta Hawks,substitute,,,,Harris,,Williams,,,,,,,,,,,,,25-18,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=91
 ,,,,,,,,,,1,0.45,Atlanta Hawks,free throw,,,,,,,1,,2,Teague,1,,foul,made,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=92
 ,,,,,,,,,,1,0.45,Atlanta Hawks,free throw,,,,,,,2,,2,Teague,1,,foul,made,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=95
-,,,,,,,,,,1,0.31,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=98
+,,,,,,,,,,1,0.31,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,Teague,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=98
 ,,,,,,,,,,1,0.28,Atlanta Hawks,shot,Teague,,,,,,,,,Harris,2,,,made,,Running Layup,,,25-22,2,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=99
 ,,,,,,,,,,1,0.20,Atlanta Hawks,foul,,,,,,,,,,Johnson,,,,,,Personal,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=100
 ,,,,,,,,,,1,0.20,Atlanta Hawks,substitute,,,,Williams,,Teague,,,,,,,,,,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=101
@@ -101,7 +101,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.20,Utah Jazz,shot,,,,,,,,,,Watson,2,,,made,,Driving Jump Shot,,,29-26,6,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=123
 ,,,,,,,,,,2,10.08,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,29-26,24,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=124
 ,,,,,,,,,,2,10.06,Utah Jazz,rebound,,,,,,,,,,Burks,,,,,,,,,29-26,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=125
-,,,,,,,,,,2,10.01,Utah Jazz,turnover,,,,,,,,,,Burks,,,Lost Ball,,,,,,29-26,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=126
+,,,,,,,,,,2,10.01,Utah Jazz,turnover,,,,,,,,,,Burks,,,Lost Ball,,Williams,,,,29-26,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=126
 ,,,,,,,,,,2,9.49,Utah Jazz,foul,,,,,,,,,,Kanter,,,,,,Personal,,,29-26,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=127
 ,,,,,,,,,,2,9.46,Atlanta Hawks,shot,Pachulia,,,,,,,,,Williams,2,,,made,,Running Layup,,,29-28,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=128
 ,,,,,,,,,,2,9.46,Utah Jazz,foul,,,,,,,,,,Burks,,,,,,Shooting,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=129
@@ -136,12 +136,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.00,Utah Jazz,substitute,,,,Jefferson,,Favors,,,,,,,,,,,,,35-35,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=164
 ,,,,,,,,,,2,5.45,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,35-35,26,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=165
 ,,,,,,,,,,2,5.44,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,35-35,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=166
-,,,,,,,,,,2,5.33,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,,,,,35-35,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=167
+,,,,,,,,,,2,5.33,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,Foye,,,,35-35,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=167
 ,,,,,,,,,,2,5.26,Utah Jazz,shot,Watson,,,,,,,,,Hayward,2,,,made,,Reverse Layup,,,37-35,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=168
 ,,,,,,,,,,2,5.10,Atlanta Hawks,shot,Korver,,,,,,,,,Smith,2,,,made,,Dunk,,,37-37,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=169
 ,,,,,,,,,,2,4.52,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,37-37,19,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=170
 ,,,,,,,,,,2,4.50,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=171
-,,,,,,,,,,2,4.35,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=172
+,,,,,,,,,,2,4.35,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,Watson,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=172
 ,,,,,,,,,,2,4.31,Utah Jazz,shot,Foye,,,,,,,,,Hayward,2,,,made,,Running Reverse Layup,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=173
 ,,,,,,,,,,2,4.31,Atlanta Hawks,foul,,,,,,,,,,Teague,,,,,,Shooting,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=174
 ,,,,,,,,,,2,4.31,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=175
@@ -192,16 +192,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.58,Utah Jazz,shot,Carroll,,,,,,,,,Millsap,2,,,made,,Layup,,,52-43,2,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=229
 ,,,,,,,,,,3,10.39,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,52-43,19,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=230
 ,,,,,,,,,,3,10.38,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=231
-,,,,,,,,,,3,10.32,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=232
+,,,,,,,,,,3,10.32,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,Teague,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=232
 ,,,,,,,,,,3,10.31,Utah Jazz,foul,,,,,,,,,,Tinsley,,,,,,Personal,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=233
 ,,,,,,,,,,3,10.13,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Traveling,,,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=234
 ,,,,,,,,,,3,10.02,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Jump Shot,,,52-43,20,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=235
 ,,,,,,,,,,3,10.00,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=236
 ,,,,,,,,,,3,9.57,Utah Jazz,foul,,,,,,,,,,Tinsley,,,,,,Personal,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=237
-,,,,,,,,,,3,9.52,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=239
+,,,,,,,,,,3,9.52,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Millsap,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=239
 ,,,,,,,,,,3,9.46,Utah Jazz,shot,Tinsley,,,,,,,,,Carroll,2,,,made,,Jump Shot,,,54-43,18,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=240
 ,,,,,,,,,,3,9.39,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,54-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=241
-,,,,,,,,,,3,9.21,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,,,,,54-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=244
+,,,,,,,,,,3,9.21,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,Carroll,,,,54-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=244
 ,,,,,,,,,,3,9.07,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Step Out of Bounds,,,,,,54-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=245
 ,,,,,,,,,,3,9.07,Utah Jazz,violation,,,,,,,,,,Jazz,,, Delay of game Violation,,,,,,54-43,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=246
 ,,,,,,,,,,3,8.52,Atlanta Hawks,shot,Horford,,,,,,,,,Harris,3,,,made,,3PT Jump Shot,,,54-46,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=247
@@ -212,7 +212,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.58,Utah Jazz,free throw,,,,,,,2,,2,Jefferson,1,,foul,made,,,,,58-49,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=253
 ,,,,,,,,,,3,7.32,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Running Hook Shot,,,58-51,6,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=256
 ,,,,,,,,,,3,7.15,Utah Jazz,shot,Tinsley,,,,,,,,,Carroll,3,,,made,,3PT Jump Shot,,,61-51,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=257
-,,,,,,,,,,3,7.04,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Driving Layup,,,61-51,2,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=258
+,,,,,,,,,,3,7.04,Atlanta Hawks,shot,,,Tinsley,,,,,,,Teague,,,,missed,,Driving Layup,,,61-51,2,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=258
 ,,,,,,,,,,3,7.03,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,61-51,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=259
 ,,,,,,,,,,3,6.53,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Fadeaway Jumper,,,61-51,6,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=260
 ,,,,,,,,,,3,6.53,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,61-51,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=261
@@ -242,7 +242,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.57,Utah Jazz,shot,Watson,,,,,,,,,Millsap,2,,,made,,Driving Layup,,,72-58,4,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=292
 ,,,,,,,,,,3,3.37,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Driving Layup,,,72-60,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=293
 ,,,,,,,,,,3,3.28,Utah Jazz,shot,Millsap,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=294
-,,,,,,,,,,3,3.16,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=295
+,,,,,,,,,,3,3.16,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Bad Pass,,Millsap,,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=295
 ,,,,,,,,,,3,3.09,Utah Jazz,shot,,,,,,,,,,Carroll,,,,missed,,3PT Jump Shot,,,75-60,25,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=296
 ,,,,,,,,,,3,3.07,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=297
 ,,,,,,,,,,3,3.00,Utah Jazz,foul,,,,,,,,,,Watson,,,,,,Personal,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=298
@@ -255,18 +255,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.36,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Traveling,,,,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=307
 ,,,,,,,,,,3,2.21,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Personal,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=308
 ,,,,,,,,,,3,2.21,Utah Jazz,substitute,,,,Favors,,Millsap,,,,,,,,,,,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=309
-,,,,,,,,,,3,2.15,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Driving Layup,,,75-60,2,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=310
+,,,,,,,,,,3,2.15,Atlanta Hawks,shot,,,Favors,,,,,,,Johnson,,,,missed,,Driving Layup,,,75-60,2,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=310
 ,,,,,,,,,,3,2.15,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=311
-,,,,,,,,,,3,2.12,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Driving Jump Shot,,,75-60,7,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=312
+,,,,,,,,,,3,2.12,Atlanta Hawks,shot,,,Favors,,,,,,,Johnson,,,,missed,,Driving Jump Shot,,,75-60,7,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=312
 ,,,,,,,,,,3,2.10,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=313
 ,,,,,,,,,,3,1.57,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Jump Shot,,,75-60,17,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=314
 ,,,,,,,,,,3,1.56,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=315
 ,,,,,,,,,,3,1.45,Atlanta Hawks,shot,Harris,,,,,,,,,Jenkins,3,,,made,,3PT Jump Shot,,,75-63,25,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=316
-,,,,,,,,,,3,1.20,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,75-63,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=317
+,,,,,,,,,,3,1.20,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Pachulia,,,,75-63,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=317
 ,,,,,,,,,,3,1.14,Atlanta Hawks,shot,,,,,,,,,,Harris,2,,,made,,Running Layup,,,75-65,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=318
-,,,,,,,,,,3,0.52,Utah Jazz,turnover,,,,,,,,,,Watson,,,Lost Ball,,,,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=319
+,,,,,,,,,,3,0.52,Utah Jazz,turnover,,,,,,,,,,Watson,,,Lost Ball,,Johnson,,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=319
 ,,,,,,,,,,3,0.48,Atlanta Hawks,shot,,,,,,,,,,Johnson,2,,,made,,Running Dunk,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=320
-,,,,,,,,,,3,0.32,Utah Jazz,turnover,,,,,,,,,,Foye,,,Bad Pass,,,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=321
+,,,,,,,,,,3,0.32,Utah Jazz,turnover,,,,,,,,,,Foye,,,Bad Pass,,Williams,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=321
 ,,,,,,,,,,3,0.32,Utah Jazz,foul,,,,,,,,,,Watson,,,,,,Personal,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=322
 ,,,,,,,,,,3,0.32,Atlanta Hawks,free throw,,,,,,,1,,2,Williams,1,,foul,made,,,,,75-68,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=326
 ,,,,,,,,,,3,0.32,Utah Jazz,substitute,,,,Kanter,,Jefferson,,,,,,,,,,,,,75-68,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=328
@@ -293,7 +293,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.05,Atlanta Hawks,shot,,,,,,,,,,Pachulia,2,,,made,,Tip Shot,,,76-72,2,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=357
 ,,,,,,,,,,4,10.52,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,Jump Shot,,,76-72,20,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=359
 ,,,,,,,,,,4,10.50,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,76-72,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=360
-,,,,,,,,,,4,10.40,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,76-72,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=361
+,,,,,,,,,,4,10.40,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Bad Pass,,Kanter,,,,76-72,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=361
 ,,,,,,,,,,4,10.35,Utah Jazz,shot,Hayward,,,,,,,,,Watson,2,,,made,,Running Layup,,,78-72,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=362
 ,,,,,,,,,,4,10.29,Atlanta Hawks,shot,Harris,,,,,,,,,Johnson,2,,,made,,Alley Oop Dunk,,,78-74,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=363
 ,,,,,,,,,,4,10.15,Atlanta Hawks,foul,,,,,,,,,,Jenkins,,,,,,Shooting,,,78-74,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=364
@@ -343,8 +343,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.06,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,1,,foul,made,,,,,85-82,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=423
 ,,,,,,,,,,4,6.06,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,,,foul,missed,,,,,85-82,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=425
 ,,,,,,,,,,4,6.05,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,85-82,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=427
-,,,,,,,,,,4,5.56,Utah Jazz,turnover,,,,,,,,,,Foye,,,Lost Ball,,,,,,85-82,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=428
-,,,,,,,,,,4,5.51,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,Driving Layup,,,85-82,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=429
+,,,,,,,,,,4,5.56,Utah Jazz,turnover,,,,,,,,,,Foye,,,Lost Ball,,Harris,,,,85-82,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=428
+,,,,,,,,,,4,5.51,Atlanta Hawks,shot,,,Hayward,,,,,,,Williams,,,,missed,,Driving Layup,,,85-82,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=429
 ,,,,,,,,,,4,5.49,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,85-82,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=430
 ,,,,,,,,,,4,5.45,Atlanta Hawks,shot,,,,,,,,,,Harris,3,,,made,,3PT Jump Shot,,,85-85,26,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=431
 ,,,,,,,,,,4,5.26,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Turnaround Hook Shot,,,87-85,5,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=432
@@ -353,7 +353,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.00,Utah Jazz,shot,Tinsley,,,,,,,,,Jefferson,2,,,made,,Dunk,,,89-85,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=436
 ,,,,,,,,,,4,4.37,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,89-85,30,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=437
 ,,,,,,,,,,4,4.36,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,89-85,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=438
-,,,,,,,,,,4,4.27,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,89-85,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=439
+,,,,,,,,,,4,4.27,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,Harris,,,,89-85,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=439
 ,,,,,,,,,,4,4.23,Atlanta Hawks,shot,,,,,,,,,,Harris,2,,,made,,Running Layup,,,89-87,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=440
 ,,,,,,,,,,4,4.23,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Shooting,,,89-87,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=441
 ,,,,,,,,,,4,4.23,Atlanta Hawks,free throw,,,,,,,1,,1,Harris,1,,foul,made,,,,,89-88,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=446
@@ -380,7 +380,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.34,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Fadeaway Jumper,,,94-94,18,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=475
 ,,,,,,,,,,4,1.31,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,94-94,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=476
 ,,,,,,,,,,4,1.28,Atlanta Hawks,shot,Harris,,,,,,,,,Johnson,2,,,made,,Running Layup,,,94-96,1,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=477
-,,,,,,,,,,4,1.10,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Driving Layup,,,94-96,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=478
+,,,,,,,,,,4,1.10,Utah Jazz,shot,,,Horford,,,,,,,Hayward,,,,missed,,Driving Layup,,,94-96,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=478
 ,,,,,,,,,,4,1.10,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,94-96,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=479
 ,,,,,,,,,,4,1.09,Atlanta Hawks,foul,,,,,,,,,,Williams,,,,,,Personal,,,94-96,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=480
 ,,,,,,,,,,4,1.09,Utah Jazz,free throw,,,,,,,1,,2,Tinsley,1,,foul,made,,,,,95-96,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=481
@@ -388,11 +388,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.08,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,95-96,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=485
 ,,,,,,,,,,4,1.08,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,95-96,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=486
 ,,,,,,,,,,4,0.54,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Fadeaway Jumper,,,95-98,18,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=488
-,,,,,,,,,,4,0.48,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Driving Layup,,,95-98,3,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=489
+,,,,,,,,,,4,0.48,Utah Jazz,shot,,,Johnson,,,,,,,Millsap,,,,missed,,Driving Layup,,,95-98,3,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=489
 ,,,,,,,,,,4,0.45,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,95-98,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=490
 ,,,,,,,,,,4,0.29,Atlanta Hawks,shot,Smith,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,95-101,24,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=491
 ,,,,,,,,,,4,0.29,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,95-101,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=492
-,,,,,,,,,,4,0.24,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Driving Jump Shot,,,95-101,4,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=493
+,,,,,,,,,,4,0.24,Utah Jazz,shot,,,Horford,,,,,,,Foye,,,,missed,,Driving Jump Shot,,,95-101,4,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=493
 ,,,,,,,,,,4,0.23,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,95-101,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=494
 ,,,,,,,,,,4,0.23,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Personal,,,95-101,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=495
 ,,,,,,,,,,4,0.23,Atlanta Hawks,free throw,,,,,,,1,,2,Harris,1,,foul,made,,,,,95-102,,http://stats.nba.com/cvp.html?GameID=0021200533&GameEventID=496

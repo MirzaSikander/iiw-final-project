@@ -9,7 +9,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.17,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,1-0,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=10
 ,,,,,,,,,,1,10.59,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,1-0,11,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=11
 ,,,,,,,,,,1,10.58,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,1-0,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=12
-,,,,,,,,,,1,10.48,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,1-0,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=13
+,,,,,,,,,,1,10.48,Utah Jazz,shot,,,Gasol,,,,,,,Jefferson,,,,missed,,Jump Shot,,,1-0,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=13
 ,,,,,,,,,,1,10.48,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,1-0,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=14
 ,,,,,,,,,,1,10.40,Utah Jazz,shot,,,,,,,,,,Williams,2,,,made,,Running Jump Shot,,,1-2,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=15
 ,,,,,,,,,,1,10.20,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,3PT Jump Shot,,,1-2,25,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=16
@@ -23,7 +23,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.47,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=24
 ,,,,,,,,,,1,8.30,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,3-4,13,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=25
 ,,,,,,,,,,1,8.29,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=26
-,,,,,,,,,,1,8.27,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Lost Ball,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=27
+,,,,,,,,,,1,8.27,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Lost Ball,,Jefferson,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=27
 ,,,,,,,,,,1,8.21,Utah Jazz,shot,Williams,,,,,,,,,Millsap,2,,,made,,Slam Dunk,,,3-6,1,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=28
 ,,,,,,,,,,1,8.00,Memphis Grizzlies,shot,,,,,,,,,,Conley,2,,,made,,Driving Layup,,,5-6,1,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=29
 ,,,,,,,,,,1,7.48,Memphis Grizzlies,foul,,,,,,,,,,Gasol,,,,,,Shooting,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=30
@@ -31,7 +31,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.48,Utah Jazz,free throw,,,,,,,2,,2,Williams,1,,foul,made,,,,,5-8,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=33
 ,,,,,,,,,,1,7.36,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Layup,,,7-8,1,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=35
 ,,,,,,,,,,1,7.29,Utah Jazz,turnover,,,,,,,,,,Williams Poss,,,Lost Ball,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=36
-,,,,,,,,,,1,7.11,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=37
+,,,,,,,,,,1,7.11,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,Foye,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=37
 ,,,,,,,,,,1,7.11,Memphis Grizzlies,foul,,,,,,,,,,Gasol,,,,,,Personal,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=38
 ,,,,,,,,,,1,7.11,Memphis Grizzlies,substitute,,,,Haddadi,,Gasol,,,,,,,,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=39
 ,,,,,,,,,,1,6.48,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,7-8,20,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=40
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.18,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,15-18,25,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=87
 ,,,,,,,,,,1,2.15,Memphis Grizzlies,rebound,,,,,,,,,,Haddadi,,,,,,,,,15-18,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=88
 ,,,,,,,,,,1,2.02,Memphis Grizzlies,shot,Conley,,,,,,,,,Randolph,2,,,made,,Turnaround Bank Shot,,,17-18,7,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=89
-,,,,,,,,,,1,1.41,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=90
+,,,,,,,,,,1,1.41,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Randolph,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=90
 ,,,,,,,,,,1,1.35,Memphis Grizzlies,shot,Pondexter,,,,,,,,,Ellington,2,,,made,,Slam Dunk,,,19-18,1,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=91
 ,,,,,,,,,,1,1.20,Memphis Grizzlies,foul,,,,,,,,,,Haddadi,,,,,,Shooting,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=92
 ,,,,,,,,,,1,1.20,Utah Jazz,free throw,,,,,,,1,,2,Favors,,,foul,missed,,,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=93
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.56,Utah Jazz,free throw,,,,,,,1,,2,Kanter,1,,foul,made,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=105
 ,,,,,,,,,,1,0.56,Memphis Grizzlies,substitute,,,,Gasol,,Haddadi,,,,,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=107
 ,,,,,,,,,,1,0.56,Utah Jazz,free throw,,,,,,,2,,2,Kanter,1,,foul,made,,,,,19-20,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=108
-,,,,,,,,,,1,0.36,Memphis Grizzlies,shot,,,,,,,,,,Ellington,,,,missed,,Dunk,,,19-20,1,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=110
+,,,,,,,,,,1,0.36,Memphis Grizzlies,shot,,,Favors,,,,,,,Ellington,,,,missed,,Dunk,,,19-20,1,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=110
 ,,,,,,,,,,1,0.34,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,19-20,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=111
 ,,,,,,,,,,1,0.33,Memphis Grizzlies,foul,,,,,,,,,,Pondexter,,,,,,Shooting,,,19-20,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=112
 ,,,,,,,,,,1,0.33,Utah Jazz,free throw,,,,,,,1,,2,Carroll,1,,foul,made,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=113
@@ -109,7 +109,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.01,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,Jump Shot,,,19-21,16,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=120
 ,,,,,,,,,,1,0.00,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=121
 ,,,,,,,,,,2,11.44,Utah Jazz,shot,Hayward,,,,,,,,,Favors,2,,,made,,Jump Shot,,,19-23,15,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=125
-,,,,,,,,,,2,11.30,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Jump Shot,,,19-23,5,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=126
+,,,,,,,,,,2,11.30,Memphis Grizzlies,shot,,,Tinsley,,,,,,,Bayless,,,,missed,,Jump Shot,,,19-23,5,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=126
 ,,,,,,,,,,2,11.27,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=127
 ,,,,,,,,,,2,11.26,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Jump Shot,,,19-23,4,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=128
 ,,,,,,,,,,2,11.23,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=129
@@ -120,7 +120,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.42,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,21-25,25,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=136
 ,,,,,,,,,,2,10.40,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,21-25,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=137
 ,,,,,,,,,,2,10.30,Utah Jazz,shot,Hayward,,,,,,,,,Kanter,2,,,made,,Jump Shot,,,21-27,13,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=138
-,,,,,,,,,,2,10.16,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=139
+,,,,,,,,,,2,10.16,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,Kanter,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=139
 ,,,,,,,,,,2,10.12,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=140
 ,,,,,,,,,,2,9.51,Memphis Grizzlies,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,21-27,5,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=141
 ,,,,,,,,,,2,9.50,Utah Jazz,rebound,,,,,,,,,,Carroll,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=142
@@ -158,13 +158,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.52,Memphis Grizzlies,substitute,,,,Haddadi,,Gasol,,,,,,,,,,,,,34-38,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=179
 ,,,,,,,,,,2,5.52,Utah Jazz,free throw,,,,,,,1,,2,Carroll,1,,foul,made,,,,,34-39,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=180
 ,,,,,,,,,,2,5.52,Utah Jazz,free throw,,,,,,,2,,2,Carroll,1,,foul,made,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=182
-,,,,,,,,,,2,5.35,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Lost Ball,,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=184
+,,,,,,,,,,2,5.35,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Lost Ball,,Carroll,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=184
 ,,,,,,,,,,2,5.30,Utah Jazz,shot,,,,,,,,,,Carroll,2,,,made,,Driving Layup,,,34-42,1,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=185
 ,,,,,,,,,,2,5.07,Memphis Grizzlies,shot,Randolph,,,,,,,,,Haddadi,2,,,made,,Jump Hook Shot,,,36-42,5,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=186
 ,,,,,,,,,,2,4.50,Utah Jazz,shot,,,,,,,,,,Kanter,2,,,made,,Layup,,,36-44,2,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=187
 ,,,,,,,,,,2,4.35,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,36-44,10,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=188
 ,,,,,,,,,,2,4.33,Utah Jazz,rebound,,,,,,,,,,Carroll,,,,,,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=189
-,,,,,,,,,,2,4.21,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Lost Ball,,,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=190
+,,,,,,,,,,2,4.21,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Lost Ball,,Gay,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=190
 ,,,,,,,,,,2,4.18,Memphis Grizzlies,foul,,,,,,,,,,,,,,,,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=191
 ,,,,,,,,,,2,4.18,Memphis Grizzlies,turnover,,,,,,,,,,Haddadi,,,Foul,,,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=192
 ,,,,,,,,,,2,4.18,Utah Jazz,substitute,,,,Williams,,Carroll,,,,,,,,,,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=193
@@ -189,11 +189,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.11,Memphis Grizzlies,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,39-48,7,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=214
 ,,,,,,,,,,2,2.10,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=215
 ,,,,,,,,,,2,2.10,Memphis Grizzlies,turnover,,,,,,,,,,Speights,,,Traveling,,,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=216
-,,,,,,,,,,2,1.52,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,39-48,6,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=217
+,,,,,,,,,,2,1.52,Utah Jazz,shot,,,Speights,,,,,,,Jefferson,,,,missed,,Jump Shot,,,39-48,6,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=217
 ,,,,,,,,,,2,1.50,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=218
 ,,,,,,,,,,2,1.42,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Jump Shot,,,41-48,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=219
 ,,,,,,,,,,2,1.23,Utah Jazz,shot,Millsap,,,,,,,,,Foye,2,,,made,,Jump Shot,,,41-50,19,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=220
-,,,,,,,,,,2,1.11,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,41-50,4,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=221
+,,,,,,,,,,2,1.11,Memphis Grizzlies,shot,,,Williams,,,,,,,Gay,,,,missed,,Jump Shot,,,41-50,4,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=221
 ,,,,,,,,,,2,1.10,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,41-50,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=222
 ,,,,,,,,,,2,0.56,Utah Jazz,shot,Williams,,,,,,,,,Jefferson,2,,,made,,Jump Shot,,,41-52,13,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=223
 ,,,,,,,,,,2,0.39,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Shooting,,,41-52,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=224
@@ -206,7 +206,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Driving Layup,,,42-54,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=232
 ,,,,,,,,,,2,0.00,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,42-54,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=234
 ,,,,,,,,,,2,0.00,Memphis Grizzlies,shot,,,,,,,,,,Speights,2,,,made,,Tip Shot,,,44-54,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=233
-,,,,,,,,,,2,0.00,Utah Jazz,turnover,,,,,,,,,,Foye,,,Bad Pass,,,,,,44-54,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=235
+,,,,,,,,,,2,0.00,Utah Jazz,turnover,,,,,,,,,,Foye,,,Bad Pass,,Gay,,,,44-54,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=235
 ,,,,,,,,,,3,11.47,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,44-54,25,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=240
 ,,,,,,,,,,3,11.45,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,44-54,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=241
 ,,,,,,,,,,3,11.32,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,44-54,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=242
@@ -241,7 +241,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.20,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,53-57,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=274
 ,,,,,,,,,,3,8.04,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Jump Shot,,,55-57,7,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=275
 ,,,,,,,,,,3,8.04,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,55-57,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=276
-,,,,,,,,,,3,7.45,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Layup,,,55-57,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=278
+,,,,,,,,,,3,7.45,Utah Jazz,shot,,,Randolph,,,,,,,Millsap,,,,missed,,Layup,,,55-57,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=278
 ,,,,,,,,,,3,7.45,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,55-57,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=279
 ,,,,,,,,,,3,7.45,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Loose ball,,,55-57,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=280
 ,,,,,,,,,,3,7.32,Memphis Grizzlies,foul,,,,,,,,,,,,,,,,,,,55-57,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=281
@@ -269,9 +269,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.14,Memphis Grizzlies,free throw,,,,,,,1,,2,Gasol,1,,foul,made,,,,,58-61,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=306
 ,,,,,,,,,,3,5.14,Utah Jazz,substitute,,,,Favors,,Millsap,,,,,,,,,,,,,58-61,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=308
 ,,,,,,,,,,3,5.14,Memphis Grizzlies,free throw,,,,,,,2,,2,Gasol,1,,foul,made,,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=309
-,,,,,,,,,,3,4.57,Utah Jazz,turnover,,,,,,,,,,Williams,,,Lost Ball,,,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=311
+,,,,,,,,,,3,4.57,Utah Jazz,turnover,,,,,,,,,,Williams,,,Lost Ball,,Gasol,,,,59-61,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=311
 ,,,,,,,,,,3,4.51,Memphis Grizzlies,shot,Conley,,,,,,,,,Allen,2,,,made,,Layup,,,61-61,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=312
-,,,,,,,,,,3,4.35,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=313
+,,,,,,,,,,3,4.35,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Conley,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=313
 ,,,,,,,,,,3,4.29,Memphis Grizzlies,shot,Conley,,,,,,,,,Allen,2,,,made,,Jump Shot,,,63-61,22,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=314
 ,,,,,,,,,,3,4.28,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=315
 ,,,,,,,,,,3,4.28,Utah Jazz,substitute,,,,Tinsley,,Williams,,,,,,,,,,,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=320
@@ -291,9 +291,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.17,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,69-63,21,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=331
 ,,,,,,,,,,3,2.16,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=332
 ,,,,,,,,,,3,2.09,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=333
-,,,,,,,,,,3,1.53,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Jump Shot,,,69-63,5,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=334
+,,,,,,,,,,3,1.53,Utah Jazz,shot,,,Gasol,,,,,,,Favors,,,,missed,,Jump Shot,,,69-63,5,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=334
 ,,,,,,,,,,3,1.51,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=335
-,,,,,,,,,,3,1.32,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Lost Ball,,,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=336
+,,,,,,,,,,3,1.32,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Lost Ball,,Carroll,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=336
 ,,,,,,,,,,3,1.21,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,69-63,4,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=337
 ,,,,,,,,,,3,1.20,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=338
 ,,,,,,,,,,3,1.13,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,69-63,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=339
@@ -319,7 +319,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.00,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,72-64,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=361
 ,,,,,,,,,,4,11.41,Memphis Grizzlies,shot,,,,,,,,,,Ellington,2,,,made,,Jump Shot,,,74-64,21,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=365
 ,,,,,,,,,,4,11.21,Utah Jazz,shot,,,,,,,,,,Tinsley,3,,,made,,3PT Jump Shot,,,74-67,24,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=366
-,,,,,,,,,,4,10.58,Memphis Grizzlies,turnover,,,,,,,,,,Speights,,,Bad Pass,,,,,,74-67,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=367
+,,,,,,,,,,4,10.58,Memphis Grizzlies,turnover,,,,,,,,,,Speights,,,Bad Pass,,Favors,,,,74-67,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=367
 ,,,,,,,,,,4,10.47,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,3PT Jump Shot,,,74-67,25,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=368
 ,,,,,,,,,,4,10.46,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,74-67,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=369
 ,,,,,,,,,,4,10.30,Utah Jazz,shot,Tinsley,,,,,,,,,Carroll,3,,,made,,3PT Jump Shot,,,74-70,25,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=370
@@ -329,11 +329,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.34,Memphis Grizzlies,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,76-70,19,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=376
 ,,,,,,,,,,4,9.32,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=377
 ,,,,,,,,,,4,9.21,Memphis Grizzlies,violation,,,,,,,,,,Bayless,,,Kicked Ball,,,,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=378
-,,,,,,,,,,4,9.17,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=379
+,,,,,,,,,,4,9.17,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,Gasol,,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=379
 ,,,,,,,,,,4,9.13,Utah Jazz,foul,,,,,,,,,,Tinsley,,,,,,Shooting,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=380
 ,,,,,,,,,,4,9.13,Memphis Grizzlies,free throw,,,,,,,1,,2,Pondexter,1,,foul,made,,,,,77-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=381
 ,,,,,,,,,,4,9.13,Memphis Grizzlies,free throw,,,,,,,2,,2,Pondexter,1,,foul,made,,,,,78-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=383
-,,,,,,,,,,4,8.56,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,,,,,78-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=385
+,,,,,,,,,,4,8.56,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,Ellington,,,,78-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=385
 ,,,,,,,,,,4,8.52,Memphis Grizzlies,shot,,,,,,,,,,Ellington,,,,missed,,Jump Shot,,,78-70,19,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=386
 ,,,,,,,,,,4,8.50,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,78-70,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=387
 ,,,,,,,,,,4,8.50,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Layup,,,78-70,2,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=388
@@ -365,7 +365,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.22,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,3PT Jump Shot,,,82-75,24,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=417
 ,,,,,,,,,,4,6.19,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,82-75,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=418
 ,,,,,,,,,,4,6.17,Memphis Grizzlies,shot,Conley,,,,,,,,,Randolph,2,,,made,,Layup,,,84-75,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=419
-,,,,,,,,,,4,6.01,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,84-75,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=420
+,,,,,,,,,,4,6.01,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Randolph,,,,84-75,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=420
 ,,,,,,,,,,4,5.45,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Reverse Layup,,,86-75,2,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=421
 ,,,,,,,,,,4,5.30,Utah Jazz,shot,,,,,,,,,,Millsap,2,,,made,,Reverse Layup,,,86-77,1,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=422
 ,,,,,,,,,,4,5.30,Memphis Grizzlies,foul,,,,,,,,,,Haddadi,,,,,,Shooting,,,86-77,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=423
@@ -392,10 +392,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.06,Memphis Grizzlies,shot,Gay,,,,,,,,,Conley,3,,,made,,3PT Jump Shot,,,93-82,24,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=451
 ,,,,,,,,,,4,2.53,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,3PT Jump Shot,,,93-82,25,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=452
 ,,,,,,,,,,4,2.52,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,93-82,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=453
-,,,,,,,,,,4,2.40,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,93-82,2,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=454
+,,,,,,,,,,4,2.40,Memphis Grizzlies,shot,,,Jefferson,,,,,,,Randolph,,,,missed,,Layup,,,93-82,2,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=454
 ,,,,,,,,,,4,2.40,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,93-82,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=455
 ,,,,,,,,,,4,2.40,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,93-82,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=456
-,,,,,,,,,,4,2.33,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,93-82,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=458
+,,,,,,,,,,4,2.33,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Foye,,,,93-82,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=458
 ,,,,,,,,,,4,2.27,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Layup,,,93-82,3,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=459
 ,,,,,,,,,,4,2.25,Utah Jazz,rebound,,,,,,,,,,Foye,,,,,,,,,93-82,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=460
 ,,,,,,,,,,4,2.19,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,93-82,15,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=461
@@ -415,7 +415,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.16,Memphis Grizzlies,free throw,,,,,,,1,,2,Conley,1,,foul,made,,,,,99-83,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=478
 ,,,,,,,,,,4,1.16,Memphis Grizzlies,free throw,,,,,,,2,,2,Conley,,,foul,missed,,,,,99-83,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=480
 ,,,,,,,,,,4,1.15,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,99-83,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=482
-,,,,,,,,,,4,1.08,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,99-83,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=483
+,,,,,,,,,,4,1.08,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,Randolph,,,,99-83,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=483
 ,,,,,,,,,,4,0.48,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,99-83,14,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=484
 ,,,,,,,,,,4,0.47,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,99-83,,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=485
 ,,,,,,,,,,4,0.42,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,99-83,17,http://stats.nba.com/cvp.html?GameID=0021200345&GameEventID=486

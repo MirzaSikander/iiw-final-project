@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.37,Golden State Warriors,shot,Thompson,,,,,,,,,Lee,2,,,made,,Jump Shot,,,2-0,19,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=3
 ,,,,,,,,,,1,11.21,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=4
-,,,,,,,,,,1,11.08,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=5
+,,,,,,,,,,1,11.08,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Chalmers,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=5
 ,,,,,,,,,,1,11.02,Miami Heat,shot,Chalmers,,,,,,,,,Wade,2,,,made,,Running Jump Shot,,,2-2,6,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=6
 ,,,,,,,,,,1,10.50,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,2-2,20,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=7
 ,,,,,,,,,,1,10.49,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=8
@@ -24,7 +24,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.29,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Running Jump Shot,,,11-8,15,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=27
 ,,,,,,,,,,1,8.28,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=29
 ,,,,,,,,,,1,8.27,Miami Heat,shot,,,,,,,,,,Chalmers,2,,,made,,Tip Shot,,,11-10,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=28
-,,,,,,,,,,1,8.10,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Running Jump Shot,,,11-10,7,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=30
+,,,,,,,,,,1,8.10,Golden State Warriors,shot,,,Haslem,,,,,,,Barnes,,,,missed,,Running Jump Shot,,,11-10,7,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=30
 ,,,,,,,,,,1,8.08,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,11-10,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=31
 ,,,,,,,,,,1,7.58,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,11-10,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=32
 ,,,,,,,,,,1,7.58,Miami Heat,free throw,,,,,,,1,,2,Wade,1,,foul,made,,,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=33
@@ -39,14 +39,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.14,Miami Heat,shot,,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,15-18,19,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=46
 ,,,,,,,,,,1,5.58,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,3PT Jump Shot,,,15-18,25,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=49
 ,,,,,,,,,,1,5.57,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,15-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=50
-,,,,,,,,,,1,5.47,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,15-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=51
+,,,,,,,,,,1,5.47,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Barnes,,,,15-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=51
 ,,,,,,,,,,1,5.42,Golden State Warriors,shot,Barnes,,,,,,,,,Thompson,2,,,made,,Running Layup,,,17-18,1,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=52
 ,,,,,,,,,,1,5.35,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=53
 ,,,,,,,,,,1,5.23,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,17-18,25,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=57
 ,,,,,,,,,,1,5.22,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=58
-,,,,,,,,,,1,5.16,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,Driving Layup,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=59
+,,,,,,,,,,1,5.16,Golden State Warriors,shot,,,Bosh,,,,,,,Thompson,,,,missed,,Driving Layup,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=59
 ,,,,,,,,,,1,5.15,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=60
-,,,,,,,,,,1,5.09,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=61
+,,,,,,,,,,1,5.09,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Barnes,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=61
 ,,,,,,,,,,1,5.09,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,3PT Jump Shot,,,17-18,25,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=65
 ,,,,,,,,,,1,5.05,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=62
 ,,,,,,,,,,1,5.04,Golden State Warriors,shot,,,,,,,,,,Lee,2,,,made,,Putback Layup,,,19-18,1,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=63
@@ -60,8 +60,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.02,Miami Heat,shot,Wade,,,,,,,,,Chalmers,3,,,made,,3PT Jump Shot,,,22-21,24,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=68
 ,,,,,,,,,,1,3.51,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,22-21,12,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=69
 ,,,,,,,,,,1,3.50,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=70
-,,,,,,,,,,1,3.36,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=71
-,,,,,,,,,,1,3.31,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=72
+,,,,,,,,,,1,3.36,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Curry,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=71
+,,,,,,,,,,1,3.31,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Wade,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=72
 ,,,,,,,,,,1,3.25,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Alley Oop Layup,,,22-23,2,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=73
 ,,,,,,,,,,1,3.06,Miami Heat,foul,,,,,,,,,,Bosh,,,,,,Shooting,,,22-23,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=75
 ,,,,,,,,,,1,3.06,Golden State Warriors,free throw,,,,,,,1,,2,Landry,1,,foul,made,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=76
@@ -99,8 +99,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.40,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=121
 ,,,,,,,,,,2,11.25,Golden State Warriors,shot,,,,,,,,,,Landry,,,,missed,,Jump Shot,,,29-29,16,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=122
 ,,,,,,,,,,2,11.24,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=123
-,,,,,,,,,,2,11.19,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=124
-,,,,,,,,,,2,11.14,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=125
+,,,,,,,,,,2,11.19,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,Thompson,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=124
+,,,,,,,,,,2,11.14,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Bosh,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=125
 ,,,,,,,,,,2,11.10,Miami Heat,shot,Allen,,,,,,,,,Cole,2,,,made,,Layup,,,29-31,1,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=126
 ,,,,,,,,,,2,10.41,Golden State Warriors,shot,,,,,,,,,,Landry,,,,missed,,Fadeaway Jumper,,,29-31,12,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=128
 ,,,,,,,,,,2,10.40,Miami Heat,rebound,,,,,,,,,,Miller,,,,,,,,,29-31,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=129
@@ -155,8 +155,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.53,Miami Heat,free throw,,,,,,,,,,James,1,,foul,made,,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=184
 ,,,,,,,,,,2,4.53,Miami Heat,free throw,,,,,,,,,,James,1,,foul,made,,,,,43-45,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=186
 ,,,,,,,,,,2,4.41,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Shot,,,43-47,10,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=188
-,,,,,,,,,,2,4.23,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,,,,,43-47,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=189
-,,,,,,,,,,2,4.19,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,43-47,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=190
+,,,,,,,,,,2,4.23,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,Wade,,,,43-47,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=189
+,,,,,,,,,,2,4.19,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Green,,,,43-47,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=190
 ,,,,,,,,,,2,4.14,Golden State Warriors,shot,Green,,,,,,,,,Thompson,3,,,made,,3PT Jump Shot,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=191
 ,,,,,,,,,,2,3.51,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=192
 ,,,,,,,,,,2,3.50,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,46-47,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=193
@@ -194,7 +194,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.21,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,53-52,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=229
 ,,,,,,,,,,2,0.00,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Driving Layup,,,53-52,1,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=231
 ,,,,,,,,,,2,0.00,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,53-52,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=232
-,,,,,,,,,,3,11.45,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Turnaround Jump Shot,,,53-52,7,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=237
+,,,,,,,,,,3,11.45,Miami Heat,shot,,,Ezeli,,,,,,,James,,,,missed,,Turnaround Jump Shot,,,53-52,7,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=237
 ,,,,,,,,,,3,11.44,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,53-52,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=238
 ,,,,,,,,,,3,11.38,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Running Jump Shot,,,53-52,10,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=239
 ,,,,,,,,,,3,11.37,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,53-52,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=240
@@ -203,13 +203,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.11,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,53-52,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=243
 ,,,,,,,,,,3,11.01,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Dunk,,,53-54,1,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=244
 ,,,,,,,,,,3,10.41,Golden State Warriors,shot,Curry,,,,,,,,,Lee,2,,,made,,Dunk,,,55-54,1,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=245
-,,,,,,,,,,3,10.21,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=246
+,,,,,,,,,,3,10.21,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Thompson,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=246
 ,,,,,,,,,,3,10.18,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,3PT Jump Shot,,,55-54,26,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=247
 ,,,,,,,,,,3,10.17,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=248
 ,,,,,,,,,,3,10.17,Golden State Warriors,foul,,,,,,,,,,Ezeli,,,,,,Loose ball,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=249
 ,,,,,,,,,,3,10.02,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,55-54,17,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=250
 ,,,,,,,,,,3,10.01,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=251
-,,,,,,,,,,3,9.48,Golden State Warriors,shot,,,,,,,,,,Ezeli,,,,missed,,Jump Shot,,,55-54,5,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=252
+,,,,,,,,,,3,9.48,Golden State Warriors,shot,,,Bosh,,,,,,,Ezeli,,,,missed,,Jump Shot,,,55-54,5,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=252
 ,,,,,,,,,,3,9.47,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=253
 ,,,,,,,,,,3,9.47,Miami Heat,foul,,,,,,,,,,Haslem,,,,,,Shooting,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=254
 ,,,,,,,,,,3,9.47,Golden State Warriors,free throw,,,,,,,1,,2,Barnes,1,,foul,made,,,,,56-54,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=255
@@ -254,7 +254,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.18,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,65-61,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=301
 ,,,,,,,,,,3,5.02,Miami Heat,shot,James,,,,,,,,,Bosh,3,,,made,,3PT Jump Shot,,,65-64,24,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=302
 ,,,,,,,,,,3,4.48,Golden State Warriors,shot,,,,,,,,,,Lee,2,,,made,,Turnaround Hook Shot,,,67-64,5,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=303
-,,,,,,,,,,3,4.22,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=304
+,,,,,,,,,,3,4.22,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Green,,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=304
 ,,,,,,,,,,3,4.17,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,67-64,16,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=305
 ,,,,,,,,,,3,4.17,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=306
 ,,,,,,,,,,3,4.17,Golden State Warriors,foul,,,,,,,,,,Ezeli,,,,,,Loose ball,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=307
@@ -284,7 +284,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.07,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Driving Layup,,,69-69,1,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=339
 ,,,,,,,,,,3,2.06,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,69-69,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=340
 ,,,,,,,,,,3,1.56,Golden State Warriors,shot,Curry,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,72-69,24,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=341
-,,,,,,,,,,3,1.32,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,72-69,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=342
+,,,,,,,,,,3,1.32,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Jack,,,,72-69,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=342
 ,,,,,,,,,,3,1.26,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Jump Shot,,,74-69,16,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=343
 ,,,,,,,,,,3,1.04,Miami Heat,shot,Allen,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,74-72,25,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=344
 ,,,,,,,,,,3,0.52,Golden State Warriors,shot,,,,,,,,,,Jack,3,,,made,,3PT Jump Shot,,,77-72,25,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=345
@@ -320,7 +320,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.13,Miami Heat,turnover,,,,,,,,,,Bosh,,,Foul,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=379
 ,,,,,,,,,,4,8.01,Golden State Warriors,foul,,,,,,,,,,Lee,,,,,,Offensive Charge,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=384
 ,,,,,,,,,,4,8.01,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Foul,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=385
-,,,,,,,,,,4,7.49,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,85-84,6,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=386
+,,,,,,,,,,4,7.49,Miami Heat,shot,,,Thompson,,,,,,,Wade,,,,missed,,Jump Shot,,,85-84,6,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=386
 ,,,,,,,,,,4,7.48,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=387
 ,,,,,,,,,,4,7.40,Miami Heat,foul,,,,,,,,,,Allen,,,,,,Shooting,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=388
 ,,,,,,,,,,4,7.40,Golden State Warriors,free throw,,,,,,,1,,2,Lee,1,,foul,made,,,,,86-84,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=389
@@ -340,14 +340,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.06,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Fadeaway Jumper,,,91-91,8,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=404
 ,,,,,,,,,,4,4.49,Miami Heat,turnover,,,,,,,,,,Wade Poss,,,Lost Ball,,,,,,91-91,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=405
 ,,,,,,,,,,4,4.49,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,91-91,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=406
-,,,,,,,,,,4,4.36,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,,,,,91-91,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=410
+,,,,,,,,,,4,4.36,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,Wade,,,,91-91,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=410
 ,,,,,,,,,,4,4.19,Miami Heat,shot,Wade,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,91-93,19,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=411
 ,,,,,,,,,,4,3.56,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,91-93,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=412
 ,,,,,,,,,,4,3.55,Golden State Warriors,foul,,,,,,,,,,Green,,,,,,Loose ball,,,91-93,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=413
 ,,,,,,,,,,4,3.55,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,91-93,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=414
 ,,,,,,,,,,4,3.41,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Bank Shot,,,91-93,10,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=418
 ,,,,,,,,,,4,3.40,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,91-93,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=419
-,,,,,,,,,,4,3.25,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,91-93,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=420
+,,,,,,,,,,4,3.25,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,James,,,,91-93,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=420
 ,,,,,,,,,,4,3.20,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Jump Shot,,,91-93,6,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=421
 ,,,,,,,,,,4,3.19,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,91-93,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=422
 ,,,,,,,,,,4,3.18,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Jump Shot,,,91-95,6,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=423
@@ -360,7 +360,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.41,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,3PT Jump Shot,,,91-95,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=433
 ,,,,,,,,,,4,2.40,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,91-95,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=434
 ,,,,,,,,,,4,2.35,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Jump Shot,,,93-95,16,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=435
-,,,,,,,,,,4,2.18,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=436
+,,,,,,,,,,4,2.18,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Curry,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=436
 ,,,,,,,,,,4,2.16,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Discontinue Dribble,,,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=438
 ,,,,,,,,,,4,2.15,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=439
 ,,,,,,,,,,4,2.15,Golden State Warriors,substitute,,,,Green,,Landry,,,,,,,,,,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200314&GameEventID=441

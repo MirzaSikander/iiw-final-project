@@ -4,7 +4,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.01,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,2-2,24,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=5
 ,,,,,,,,,,1,11.00,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=6
 ,,,,,,,,,,1,10.36,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,2,,,made,,Step Back Jump Shot,,,4-2,23,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=7
-,,,,,,,,,,1,10.31,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=8
+,,,,,,,,,,1,10.31,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Livingston,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=8
 ,,,,,,,,,,1,10.26,Cleveland Cavaliers,shot,Livingston,,,,,,,,,Ellington,2,,,made,,Jump Shot,,,6-2,19,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=9
 ,,,,,,,,,,1,10.06,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Step Back Jump Shot,,,6-2,24,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=10
 ,,,,,,,,,,1,10.04,Cleveland Cavaliers,rebound,,,,,,,,,,Livingston,,,,,,,,,6-2,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=11
@@ -38,7 +38,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.28,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,2,,,made,,Jump Shot,,,10-10,11,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=43
 ,,,,,,,,,,1,7.10,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,10-10,25,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=44
 ,,,,,,,,,,1,7.09,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=45
-,,,,,,,,,,1,7.02,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=46
+,,,,,,,,,,1,7.02,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,Harden,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=46
 ,,,,,,,,,,1,6.49,Houston Rockets,shot,Lin,,,,,,,,,Motiejunas,3,,,made,,3PT Jump Shot,,,10-13,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=47
 ,,,,,,,,,,1,6.32,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,Fadeaway Jumper,,,10-13,19,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=48
 ,,,,,,,,,,1,6.30,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,10-13,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=49
@@ -59,7 +59,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.00,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Step Back Jump Shot,,,19-20,21,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=67
 ,,,,,,,,,,1,3.58,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,19-20,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=68
 ,,,,,,,,,,1,3.44,Cleveland Cavaliers,shot,Livingston,,,,,,,,,Walton,2,,,made,,Jump Shot,,,21-20,21,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=69
-,,,,,,,,,,1,3.36,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,,,,,21-20,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=70
+,,,,,,,,,,1,3.36,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,Ellington,,,,21-20,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=70
 ,,,,,,,,,,1,3.25,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Shooting,,,21-20,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=71
 ,,,,,,,,,,1,3.25,Cleveland Cavaliers,free throw,,,,,,,1,,2,Livingston,1,,foul,made,,,,,22-20,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=72
 ,,,,,,,,,,1,3.25,Houston Rockets,substitute,,,,Beverley,,Lin,,,,,,,,,,,,,22-20,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=74
@@ -75,7 +75,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.51,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=86
 ,,,,,,,,,,1,1.51,Houston Rockets,substitute,,,,Delfino,,Parsons,,,,,,,,,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=88
 ,,,,,,,,,,1,1.51,Houston Rockets,substitute,,,,Robinson,,Motiejunas,,,,,,,,,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=89
-,,,,,,,,,,1,1.49,Cleveland Cavaliers,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,23-24,23,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=90
+,,,,,,,,,,1,1.49,Cleveland Cavaliers,shot,,,Beverley,,,,,,,Gibson,,,,missed,,Jump Shot,,,23-24,23,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=90
 ,,,,,,,,,,1,1.49,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=91
 ,,,,,,,,,,1,1.49,Cleveland Cavaliers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=92
 ,,,,,,,,,,1,1.30,Houston Rockets,shot,Delfino,,,,,,,,,Smith,2,,,made,,Layup,,,23-26,2,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=93
@@ -85,12 +85,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.42,Cleveland Cavaliers,substitute,,,,Speights,,Thompson,,,,,,,,,,,,,23-28,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=98
 ,,,,,,,,,,1,0.39,Cleveland Cavaliers,shot,,,,,,,,,,Walton,,,,missed,,Jump Shot,,,23-28,21,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=99
 ,,,,,,,,,,1,0.38,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,23-28,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=100
-,,,,,,,,,,1,0.28,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,23-28,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=101
+,,,,,,,,,,1,0.28,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Livingston,,,,23-28,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=101
 ,,,,,,,,,,1,0.24,Cleveland Cavaliers,shot,Speights,,,,,,,,,Gee,2,,,made,,Layup,,,25-28,2,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=102
 ,,,,,,,,,,1,0.05,Cleveland Cavaliers,foul,,,,,,,,,,Gee,,,,,,Personal Take,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=103
-,,,,,,,,,,1,0.00,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,25-28,26,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=104
+,,,,,,,,,,1,0.00,Houston Rockets,shot,,,Walton,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,25-28,26,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=104
 ,,,,,,,,,,1,0.00,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=105
-,,,,,,,,,,2,11.49,Cleveland Cavaliers,turnover,,,,,,,,,,Quinn,,,Bad Pass,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=109
+,,,,,,,,,,2,11.49,Cleveland Cavaliers,turnover,,,,,,,,,,Quinn,,,Bad Pass,,Beverley,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=109
 ,,,,,,,,,,2,11.47,Cleveland Cavaliers,foul,,,,,,,,,,Quinn,,,,,,Shooting,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=110
 ,,,,,,,,,,2,11.47,Houston Rockets,free throw,,,,,,,1,,2,Beverley,1,,foul,made,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=111
 ,,,,,,,,,,2,11.47,Houston Rockets,free throw,,,,,,,2,,2,Beverley,1,,foul,made,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=113
@@ -107,7 +107,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.08,Houston Rockets,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,27-30,3,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=127
 ,,,,,,,,,,2,10.07,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=128
 ,,,,,,,,,,2,10.02,Houston Rockets,shot,Beverley,,,,,,,,,Robinson,2,,,made,,Jump Shot,,,27-32,3,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=129
-,,,,,,,,,,2,9.46,Cleveland Cavaliers,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,27-32,4,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=130
+,,,,,,,,,,2,9.46,Cleveland Cavaliers,shot,,,Parsons,,,,,,,Speights,,,,missed,,Jump Shot,,,27-32,4,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=130
 ,,,,,,,,,,2,9.44,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=131
 ,,,,,,,,,,2,9.38,Cleveland Cavaliers,foul,,,,,,,,,,Speights,,,,,,Personal,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=132
 ,,,,,,,,,,2,9.29,Cleveland Cavaliers,foul,,,,,,,,,,Speights,,,,,,Shooting,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=133
@@ -141,7 +141,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.44,Houston Rockets,substitute,,,,Harden,,Smith,,,,,,,,,,,,,29-37,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=172
 ,,,,,,,,,,2,6.44,Houston Rockets,substitute,,,,Asik,,Delfino,,,,,,,,,,,,,29-37,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=173
 ,,,,,,,,,,2,6.44,Cleveland Cavaliers,substitute,,,,Ellington,,Gibson,,,,,,,,,,,,,29-37,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=177
-,,,,,,,,,,2,6.31,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Bad Pass,,,,,,29-37,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=175
+,,,,,,,,,,2,6.31,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Bad Pass,,Harden,,,,29-37,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=175
 ,,,,,,,,,,2,6.28,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Driving Dunk,,,29-39,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=176
 ,,,,,,,,,,2,6.12,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,Jump Shot,,,29-39,22,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=178
 ,,,,,,,,,,2,6.11,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,29-39,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=179
@@ -175,11 +175,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.49,Cleveland Cavaliers,substitute,,,,Walton,,Zeller,,,,,,,,,,,,,33-46,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=215
 ,,,,,,,,,,2,3.31,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,2,,,made,,Turnaround Jump Shot,,,35-46,15,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=217
 ,,,,,,,,,,2,3.11,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Pullup Jump Shot,,,35-48,16,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=219
-,,,,,,,,,,2,2.54,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,35-48,4,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=220
+,,,,,,,,,,2,2.54,Cleveland Cavaliers,shot,,,Asik,,,,,,,Thompson,,,,missed,,Jump Shot,,,35-48,4,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=220
 ,,,,,,,,,,2,2.54,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=221
 ,,,,,,,,,,2,2.54,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=222
 ,,,,,,,,,,2,2.49,Cleveland Cavaliers,shot,Walton,,,,,,,,,Livingston,2,,,made,,Fadeaway Jumper,,,37-48,10,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=225
-,,,,,,,,,,2,2.39,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Driving Layup,,,37-48,5,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=226
+,,,,,,,,,,2,2.39,Houston Rockets,shot,,,Livingston,,,,,,,Lin,,,,missed,,Driving Layup,,,37-48,5,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=226
 ,,,,,,,,,,2,2.38,Cleveland Cavaliers,rebound,,,,,,,,,,Walton,,,,,,,,,37-48,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=227
 ,,,,,,,,,,2,2.31,Cleveland Cavaliers,shot,Gee,,,,,,,,,Ellington,2,,,made,,Jump Shot,,,39-48,15,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=228
 ,,,,,,,,,,2,2.15,Houston Rockets,shot,Parsons,,,,,,,,,Delfino,2,,,made,,Jump Shot,,,39-50,21,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=229
@@ -211,7 +211,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.44,Cleveland Cavaliers,turnover,,,,,,,,,,Livingston,,,Bad Pass,,,,,,43-62,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=266
 ,,,,,,,,,,3,10.33,Houston Rockets,turnover,,,,,,,,,,Harden Out of Bounds,,,Lost Ball,,,,,,43-62,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=267
 ,,,,,,,,,,3,10.23,Cleveland Cavaliers,shot,Thompson,,,,,,,,,Gee,3,,,made,,3PT Jump Shot,,,46-62,25,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=268
-,,,,,,,,,,3,10.11,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,,,,,46-62,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=269
+,,,,,,,,,,3,10.11,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,Thompson,,,,46-62,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=269
 ,,,,,,,,,,3,10.06,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,Pullup Jump Shot,,,46-62,17,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=270
 ,,,,,,,,,,3,10.03,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,46-62,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=271
 ,,,,,,,,,,3,9.50,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,46-62,13,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=272
@@ -286,7 +286,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.43,Houston Rockets,shot,Delfino,,,,,,,,,Motiejunas,2,,,made,,Jump Shot,,,55-73,20,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=351
 ,,,,,,,,,,3,3.27,Cleveland Cavaliers,shot,,,,,,,,,,Gibson,,,,missed,,3PT Jump Shot,,,55-73,27,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=352
 ,,,,,,,,,,3,3.26,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,55-73,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=353
-,,,,,,,,,,3,3.06,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Layup,,,55-73,2,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=354
+,,,,,,,,,,3,3.06,Houston Rockets,shot,,,Zeller,,,,,,,Beverley,,,,missed,,Layup,,,55-73,2,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=354
 ,,,,,,,,,,3,3.05,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,55-73,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=355
 ,,,,,,,,,,3,3.03,Houston Rockets,shot,,,,,,,,,,Smith,2,,,made,,Layup,,,55-75,2,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=356
 ,,,,,,,,,,3,2.46,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,,,,missed,,Layup,,,55-75,3,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=357
@@ -303,11 +303,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.15,Houston Rockets,free throw,,,,,,,3,,3,Harden,,,foul,missed,,,,,55-77,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=372
 ,,,,,,,,,,3,2.15,Cleveland Cavaliers,rebound,,,,,,,,,,Walton,,,,,,,,,55-77,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=374
 ,,,,,,,,,,3,2.02,Houston Rockets,foul,,,,,,,,,,Smith,,,,,,Personal,,,55-77,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=375
-,,,,,,,,,,3,1.53,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Lost Ball,,,,,,55-77,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=376
+,,,,,,,,,,3,1.53,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Lost Ball,,Delfino,,,,55-77,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=376
 ,,,,,,,,,,3,1.40,Houston Rockets,shot,,,,,,,,,,Harden,3,,,made,,3PT Step Back Jump Shot,,,55-80,26,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=377
 ,,,,,,,,,,3,1.27,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,3PT Jump Shot,,,55-80,25,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=378
 ,,,,,,,,,,3,1.26,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,55-80,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=379
-,,,,,,,,,,3,1.20,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,55-80,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=380
+,,,,,,,,,,3,1.20,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Zeller,,,,55-80,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=380
 ,,,,,,,,,,3,1.16,Houston Rockets,foul,,,,,,,,,,Harden,,,,,,Shooting Block,,,55-80,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=381
 ,,,,,,,,,,3,1.16,Cleveland Cavaliers,free throw,,,,,,,1,,2,Gee,1,,foul,made,,,,,56-80,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=382
 ,,,,,,,,,,3,1.16,Cleveland Cavaliers,free throw,,,,,,,2,,2,Gee,1,,foul,made,,,,,57-80,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=384
@@ -323,7 +323,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.48,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,,,,,61-87,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=401
 ,,,,,,,,,,4,11.30,Cleveland Cavaliers,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,61-87,17,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=402
 ,,,,,,,,,,4,11.29,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,61-87,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=403
-,,,,,,,,,,4,11.14,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Lost Ball,,,,,,61-87,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=404
+,,,,,,,,,,4,11.14,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Lost Ball,,Jones,,,,61-87,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=404
 ,,,,,,,,,,4,11.07,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,3PT Jump Shot,,,61-87,24,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=405
 ,,,,,,,,,,4,11.05,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,61-87,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=406
 ,,,,,,,,,,4,10.48,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,61-87,25,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=407
@@ -351,7 +351,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.39,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,Fadeaway Jumper,,,68-93,17,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=429
 ,,,,,,,,,,4,7.35,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,68-93,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=430
 ,,,,,,,,,,4,7.18,Houston Rockets,shot,,,,,,,,,,Beverley,2,,,made,,Driving Layup,,,68-95,3,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=431
-,,,,,,,,,,4,7.02,Cleveland Cavaliers,turnover,,,,,,,,,,Quinn,,,Bad Pass,,,,,,68-95,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=432
+,,,,,,,,,,4,7.02,Cleveland Cavaliers,turnover,,,,,,,,,,Quinn,,,Bad Pass,,Robinson,,,,68-95,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=432
 ,,,,,,,,,,4,7.01,Cleveland Cavaliers,foul,,,,,,,,,,Speights,,,,,,Personal,,,68-95,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=433
 ,,,,,,,,,,4,7.01,Cleveland Cavaliers,substitute,,,,Casspi,,Gibson,,,,,,,,,,,,,68-95,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=437
 ,,,,,,,,,,4,7.01,Houston Rockets,substitute,,,,Brooks,,Beverley,,,,,,,,,,,,,68-95,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=438
@@ -364,7 +364,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.20,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,68-97,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=445
 ,,,,,,,,,,4,6.02,Houston Rockets,shot,Brooks,,,,,,,,,Garcia,2,,,made,,Jump Shot,,,68-99,20,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=446
 ,,,,,,,,,,4,5.48,Cleveland Cavaliers,shot,Quinn,,,,,,,,,Speights,2,,,made,,Jump Shot,,,70-99,22,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=447
-,,,,,,,,,,4,5.30,Houston Rockets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,,,,,70-99,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=448
+,,,,,,,,,,4,5.30,Houston Rockets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,Miles,,,,70-99,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=448
 ,,,,,,,,,,4,5.23,Cleveland Cavaliers,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,70-99,3,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=449
 ,,,,,,,,,,4,5.22,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,70-99,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=450
 ,,,,,,,,,,4,5.16,Houston Rockets,foul,,,,,,,,,,,,,,,,,,,70-99,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=451
@@ -382,22 +382,22 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.08,Houston Rockets,shot,,,,,,,,,,Brooks,,,,missed,,3PT Jump Shot,,,72-99,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=466
 ,,,,,,,,,,4,4.07,Houston Rockets,rebound,,,,,,,,,,Anderson,,,,,,,,,72-99,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=468
 ,,,,,,,,,,4,4.07,Houston Rockets,shot,,,,,,,,,,Anderson,2,,,made,,Putback Slam Dunk,,,72-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=467
-,,,,,,,,,,4,3.50,Cleveland Cavaliers,turnover,,,,,,,,,,Casspi,,,Bad Pass,,,,,,72-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=469
+,,,,,,,,,,4,3.50,Cleveland Cavaliers,turnover,,,,,,,,,,Casspi,,,Bad Pass,,Robinson,,,,72-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=469
 ,,,,,,,,,,4,3.45,Houston Rockets,shot,,,,,,,,,,Garcia,,,,missed,,3PT Jump Shot,,,72-101,25,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=470
 ,,,,,,,,,,4,3.43,Cleveland Cavaliers,rebound,,,,,,,,,,Speights,,,,,,,,,72-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=471
 ,,,,,,,,,,4,3.33,Cleveland Cavaliers,shot,Speights,,,,,,,,,Jones,2,,,made,,Layup,,,74-101,3,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=472
-,,,,,,,,,,4,3.12,Houston Rockets,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,74-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=473
+,,,,,,,,,,4,3.12,Houston Rockets,turnover,,,,,,,,,,Smith,,,Lost Ball,,Speights,,,,74-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=473
 ,,,,,,,,,,4,3.12,Houston Rockets,foul,,,,,,,,,,Brooks,,,,,,Personal,,,74-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=474
 ,,,,,,,,,,4,3.12,Cleveland Cavaliers,substitute,,,,Gibson,,Miles,,,,,,,,,,,,,74-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=475
-,,,,,,,,,,4,3.03,Cleveland Cavaliers,turnover,,,,,,,,,,Quinn,,,Bad Pass,,,,,,74-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=476
+,,,,,,,,,,4,3.03,Cleveland Cavaliers,turnover,,,,,,,,,,Quinn,,,Bad Pass,,Brooks,,,,74-101,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=476
 ,,,,,,,,,,4,2.57,Houston Rockets,shot,,,,,,,,,,Robinson,2,,,made,,Reverse Layup,,,74-103,1,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=477
 ,,,,,,,,,,4,2.45,Cleveland Cavaliers,shot,,,,,,,,,,Speights,,,,missed,,Hook Shot,,,74-103,4,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=478
 ,,,,,,,,,,4,2.44,Cleveland Cavaliers,rebound,,,,,,,,,,Jones,,,,,,,,,74-103,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=479
-,,,,,,,,,,4,2.43,Cleveland Cavaliers,shot,,,,,,,,,,Jones,,,,missed,,Layup,,,74-103,3,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=480
+,,,,,,,,,,4,2.43,Cleveland Cavaliers,shot,,,Robinson,,,,,,,Jones,,,,missed,,Layup,,,74-103,3,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=480
 ,,,,,,,,,,4,2.42,Cleveland Cavaliers,rebound,,,,,,,,,,Casspi,,,,,,,,,74-103,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=481
 ,,,,,,,,,,4,2.40,Cleveland Cavaliers,shot,,,,,,,,,,Casspi,,,,missed,,Hook Shot,,,74-103,5,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=482
 ,,,,,,,,,,4,2.38,Cleveland Cavaliers,rebound,,,,,,,,,,Speights,,,,,,,,,74-103,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=505
-,,,,,,,,,,4,2.37,Cleveland Cavaliers,turnover,,,,,,,,,,Speights Poss,,,Lost Ball,,,,,,74-103,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=483
+,,,,,,,,,,4,2.37,Cleveland Cavaliers,turnover,,,,,,,,,,Speights Poss,,,Lost Ball,,Robinson,,,,74-103,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=483
 ,,,,,,,,,,4,2.28,Houston Rockets,shot,Brooks,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,74-106,25,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=484
 ,,,,,,,,,,4,2.18,Cleveland Cavaliers,shot,,,,,,,,,,Casspi,,,,missed,,3PT Jump Shot,,,74-106,25,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=485
 ,,,,,,,,,,4,2.16,Houston Rockets,rebound,,,,,,,,,,Anderson,,,,,,,,,74-106,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=486
@@ -411,10 +411,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.39,Cleveland Cavaliers,foul,,,,,,,,,,Jones,,,,,,Shooting,,,76-109,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=496
 ,,,,,,,,,,4,1.39,Houston Rockets,free throw,,,,,,,1,,2,Robinson,1,,foul,made,,,,,76-110,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=497
 ,,,,,,,,,,4,1.39,Houston Rockets,free throw,,,,,,,2,,2,Robinson,1,,foul,made,,,,,76-111,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=499
-,,,,,,,,,,4,1.28,Cleveland Cavaliers,shot,,,,,,,,,,Jones,,,,missed,,Layup,,,76-111,2,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=501
+,,,,,,,,,,4,1.28,Cleveland Cavaliers,shot,,,Robinson,,,,,,,Jones,,,,missed,,Layup,,,76-111,2,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=501
 ,,,,,,,,,,4,1.26,Houston Rockets,rebound,,,,,,,,,,Garcia,,,,,,,,,76-111,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=502
-,,,,,,,,,,4,1.18,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,76-111,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=503
-,,,,,,,,,,4,1.13,Cleveland Cavaliers,shot,,,,,,,,,,Jones,,,,missed,,Layup,,,76-111,4,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=504
+,,,,,,,,,,4,1.18,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Quinn,,,,76-111,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=503
+,,,,,,,,,,4,1.13,Cleveland Cavaliers,shot,,,Brooks,,,,,,,Jones,,,,missed,,Layup,,,76-111,4,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=504
 ,,,,,,,,,,4,1.11,Houston Rockets,rebound,,,,,,,,,,Garcia,,,,,,,,,76-111,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=506
 ,,,,,,,,,,4,1.09,Houston Rockets,shot,Garcia,,,,,,,,,Anderson,2,,,made,,Dunk,,,76-113,,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=507
 ,,,,,,,,,,4,1.01,Cleveland Cavaliers,shot,,,,,,,,,,Quinn,2,,,made,,Jump Shot,,,78-113,16,http://stats.nba.com/cvp.html?GameID=0021201028&GameEventID=508

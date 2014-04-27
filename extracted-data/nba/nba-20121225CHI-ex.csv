@@ -33,7 +33,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.56,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,14-10,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=37
 ,,,,,,,,,,1,6.54,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=38
 ,,,,,,,,,,1,6.53,Houston Rockets,shot,,,,,,,,,,Asik,2,,,made,,Putback Layup,,,16-10,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=39
-,,,,,,,,,,1,6.31,Chicago Bulls,shot,,,,,,,,,,Hinrich,,,,missed,,3PT Jump Shot,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=40
+,,,,,,,,,,1,6.31,Chicago Bulls,shot,,,Lin,,,,,,,Hinrich,,,,missed,,3PT Jump Shot,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=40
 ,,,,,,,,,,1,6.29,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=41
 ,,,,,,,,,,1,6.09,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Pullup Jump Shot,,,18-10,20,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=42
 ,,,,,,,,,,1,5.42,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,3PT Jump Shot,,,18-10,25,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=43
@@ -50,7 +50,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.12,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,19-10,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=55
 ,,,,,,,,,,1,5.12,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,20-10,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=57
 ,,,,,,,,,,1,4.52,Chicago Bulls,shot,Boozer,,,,,,,,,Noah,2,,,made,,Hook Shot,,,20-12,9,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=59
-,,,,,,,,,,1,4.41,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,20-12,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=60
+,,,,,,,,,,1,4.41,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,Boozer,,,,20-12,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=60
 ,,,,,,,,,,1,4.37,Chicago Bulls,shot,Hinrich,,,,,,,,,Deng,2,,,made,,Driving Layup,,,20-14,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=61
 ,,,,,,,,,,1,4.15,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,3PT Jump Shot,,,20-14,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=62
 ,,,,,,,,,,1,4.15,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,20-14,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=63
@@ -97,14 +97,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.14,Houston Rockets,shot,Douglas,,,,,,,,,Delfino,2,,,made,,Layup,,,29-22,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=108
 ,,,,,,,,,,2,10.55,Chicago Bulls,shot,Deng,,,,,,,,,Butler,2,,,made,,Alley Oop Layup,,,29-24,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=110
 ,,,,,,,,,,2,10.41,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Pullup Jump Shot,,,31-24,12,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=111
-,,,,,,,,,,2,10.21,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Lost Ball,,,,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=112
-,,,,,,,,,,2,10.12,Houston Rockets,shot,,,,,,,,,,Douglas,,,,missed,,Layup,,,31-24,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=113
+,,,,,,,,,,2,10.21,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Lost Ball,,Parsons,,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=112
+,,,,,,,,,,2,10.12,Houston Rockets,shot,,,Noah,,,,,,,Douglas,,,,missed,,Layup,,,31-24,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=113
 ,,,,,,,,,,2,10.11,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=114
 ,,,,,,,,,,2,10.01,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Jump Shot,,,31-24,6,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=115
 ,,,,,,,,,,2,10.00,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=116
-,,,,,,,,,,2,9.48,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=118
+,,,,,,,,,,2,9.48,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Lin,,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=118
 ,,,,,,,,,,2,9.44,Houston Rockets,shot,Lin,,,,,,,,,Douglas,2,,,made,,Layup,,,33-24,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=119
-,,,,,,,,,,2,9.31,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=120
+,,,,,,,,,,2,9.31,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,Delfino,,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=120
 ,,,,,,,,,,2,9.22,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,33-24,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=121
 ,,,,,,,,,,2,9.20,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=122
 ,,,,,,,,,,2,9.09,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Shooting,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=123
@@ -112,7 +112,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.09,Houston Rockets,substitute,,,,Morris,,Parsons,,,,,,,,,,,,,33-25,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=126
 ,,,,,,,,,,2,9.09,Chicago Bulls,free throw,,,,,,,2,,2,Gibson,1,,foul,made,,,,,33-26,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=127
 ,,,,,,,,,,2,8.54,Houston Rockets,shot,Asik,,,,,,,,,Douglas,2,,,made,,Jump Shot,,,35-26,7,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=129
-,,,,,,,,,,2,8.42,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,35-26,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=130
+,,,,,,,,,,2,8.42,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,Delfino,,,,35-26,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=130
 ,,,,,,,,,,2,8.39,Houston Rockets,shot,,,,,,,,,,Delfino,2,,,made,,Running Slam Dunk,,,37-26,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=131
 ,,,,,,,,,,2,8.31,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,37-26,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=132
 ,,,,,,,,,,2,8.31,Chicago Bulls,substitute,,,,Belinelli,,Noah,,,,,,,,,,,,,37-26,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=134
@@ -126,7 +126,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.07,Houston Rockets,shot,Delfino,,,,,,,,,Asik,2,,,made,,Layup,,,41-30,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=143
 ,,,,,,,,,,2,6.45,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,3PT Jump Shot,,,41-30,25,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=144
 ,,,,,,,,,,2,6.44,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=145
-,,,,,,,,,,2,6.36,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=146
+,,,,,,,,,,2,6.36,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,Robinson,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=146
 ,,,,,,,,,,2,6.27,Chicago Bulls,shot,,,,,,,,,,Gibson,2,,,made,,Layup,,,41-32,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=147
 ,,,,,,,,,,2,6.05,Houston Rockets,shot,Lin,,,,,,,,,Asik,2,,,made,,Reverse Layup,,,43-32,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=148
 ,,,,,,,,,,2,5.56,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,43-32,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=149
@@ -168,7 +168,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.04,Houston Rockets,substitute,,,,Parsons,,Morris,,,,,,,,,,,,,55-35,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=193
 ,,,,,,,,,,2,2.04,Chicago Bulls,free throw,,,,,,,2,,2,Deng,1,,foul,made,,,,,55-36,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=194
 ,,,,,,,,,,2,1.50,Chicago Bulls,foul,,,,,,,,,,Hinrich,,,,,,Personal,,,55-36,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=196
-,,,,,,,,,,2,1.47,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,55-36,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=197
+,,,,,,,,,,2,1.47,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Noah,,,,55-36,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=197
 ,,,,,,,,,,2,1.23,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,3PT Jump Shot,,,55-36,26,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=199
 ,,,,,,,,,,2,1.21,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,55-36,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=200
 ,,,,,,,,,,2,1.16,Houston Rockets,shot,Harden,,,,,,,,,Parsons,2,,,made,,Running Dunk,,,57-36,1,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=201
@@ -193,7 +193,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.23,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Layup,,,61-41,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=231
 ,,,,,,,,,,3,11.22,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,61-41,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=232
 ,,,,,,,,,,3,10.57,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Jump Shot,,,63-41,21,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=233
-,,,,,,,,,,3,10.40,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,63-41,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=234
+,,,,,,,,,,3,10.40,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,Parsons,,,,63-41,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=234
 ,,,,,,,,,,3,10.38,Houston Rockets,turnover,,,,,,,,,,Lin Out of Bounds,,,Lost Ball,,,,,,63-41,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=235
 ,,,,,,,,,,3,10.28,Chicago Bulls,foul,,,,,,,,,,,,,,,,,,,63-41,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=237
 ,,,,,,,,,,3,10.28,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Foul,,,,,,63-41,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=238
@@ -217,7 +217,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.25,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,69-45,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=258
 ,,,,,,,,,,3,8.18,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,3PT Jump Shot,,,69-45,26,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=259
 ,,,,,,,,,,3,8.18,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,69-45,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=260
-,,,,,,,,,,3,8.03,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,69-45,4,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=261
+,,,,,,,,,,3,8.03,Chicago Bulls,shot,,,Asik,,,,,,,Boozer,,,,missed,,Jump Shot,,,69-45,4,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=261
 ,,,,,,,,,,3,8.01,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,69-45,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=262
 ,,,,,,,,,,3,7.59,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Driving Layup,,,71-45,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=263
 ,,,,,,,,,,3,7.59,Chicago Bulls,foul,,,,,,,,,,Hinrich,,,,,,Shooting,,,71-45,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=264
@@ -237,11 +237,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.24,Chicago Bulls,free throw,,,,,,,1,,2,Noah,1,,foul,made,,,,,77-50,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=280
 ,,,,,,,,,,3,6.24,Chicago Bulls,free throw,,,,,,,2,,2,Noah,1,,foul,made,,,,,77-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=282
 ,,,,,,,,,,3,6.05,Houston Rockets,shot,Morris,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,80-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=284
-,,,,,,,,,,3,5.44,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,80-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=285
+,,,,,,,,,,3,5.44,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,Harden,,,,80-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=285
 ,,,,,,,,,,3,5.40,Houston Rockets,shot,Harden,,,,,,,,,Asik,2,,,made,,Layup,,,82-51,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=286
 ,,,,,,,,,,3,5.39,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,82-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=287
 ,,,,,,,,,,3,5.39,Chicago Bulls,substitute,,,,Teague,,Boozer,,,,,,,,,,,,,82-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=289
-,,,,,,,,,,3,5.25,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,82-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=291
+,,,,,,,,,,3,5.25,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,Morris,,,,82-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=291
 ,,,,,,,,,,3,5.22,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,Shooting,,,82-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=292
 ,,,,,,,,,,3,5.22,Houston Rockets,free throw,,,,,,,1,,2,Lin,1,,foul,made,,,,,83-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=293
 ,,,,,,,,,,3,5.22,Houston Rockets,free throw,,,,,,,2,,2,Lin,1,,foul,made,,,,,84-51,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=295
@@ -255,10 +255,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.21,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,86-53,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=304
 ,,,,,,,,,,3,4.16,Chicago Bulls,shot,Deng,,,,,,,,,Robinson,3,,,made,,3PT Running Jump Shot,,,86-56,25,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=305
 ,,,,,,,,,,3,4.03,Houston Rockets,substitute,,,,Douglas,,Lin,,,,,,,,,,,,,86-56,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=307
-,,,,,,,,,,3,3.50,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Jump Shot,,,86-56,5,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=308
+,,,,,,,,,,3,3.50,Houston Rockets,shot,,,Noah,,,,,,,Parsons,,,,missed,,Jump Shot,,,86-56,5,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=308
 ,,,,,,,,,,3,3.48,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,86-56,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=309
 ,,,,,,,,,,3,3.47,Houston Rockets,foul,,,,,,,,,,Asik,,,,,,Personal,,,86-56,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=310
-,,,,,,,,,,3,3.34,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,86-56,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=311
+,,,,,,,,,,3,3.34,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Harden,,,,86-56,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=311
 ,,,,,,,,,,3,3.30,Chicago Bulls,foul,,,,,,,,,,Teague,,,,,,Shooting,,,86-56,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=312
 ,,,,,,,,,,3,3.30,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,87-56,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=313
 ,,,,,,,,,,3,3.30,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,88-56,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=315
@@ -284,7 +284,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.45,Chicago Bulls,free throw,,,,,,,1,,2,Robinson,,,foul,missed,,,,,94-65,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=339
 ,,,,,,,,,,3,0.45,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,94-65,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=340
 ,,,,,,,,,,3,0.45,Chicago Bulls,free throw,,,,,,,2,,2,Robinson,1,,foul,made,,,,,94-66,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=341
-,,,,,,,,,,3,0.32,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,94-66,18,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=343
+,,,,,,,,,,3,0.32,Houston Rockets,shot,,,Teague,,,,,,,Harden,,,,missed,,Jump Shot,,,94-66,18,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=343
 ,,,,,,,,,,3,0.32,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,94-66,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=344
 ,,,,,,,,,,3,0.32,Houston Rockets,foul,,,,,,,,,,Harden,,,,,,Personal,,,94-66,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=345
 ,,,,,,,,,,3,0.32,Chicago Bulls,free throw,,,,,,,1,,2,Deng,1,,foul,made,,,,,94-67,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=346
@@ -355,13 +355,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.25,Chicago Bulls,shot,Robinson,,,,,,,,,Teague,2,,,made,,Driving Layup,,,111-91,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=426
 ,,,,,,,,,,4,5.17,Houston Rockets,shot,,,,,,,,,,Parsons,2,,,made,,Layup,,,113-91,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=427
 ,,,,,,,,,,4,4.59,Chicago Bulls,shot,,,,,,,,,,Robinson,2,,,made,,Jump Shot,,,113-93,13,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=428
-,,,,,,,,,,4,4.35,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,113-93,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=429
-,,,,,,,,,,4,4.31,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Driving Layup,,,113-93,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=430
+,,,,,,,,,,4,4.35,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Butler,,,,113-93,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=429
+,,,,,,,,,,4,4.31,Chicago Bulls,shot,,,Harden,,,,,,,Butler,,,,missed,,Driving Layup,,,113-93,2,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=430
 ,,,,,,,,,,4,4.31,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,113-93,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=431
-,,,,,,,,,,4,4.17,Chicago Bulls,shot,,,,,,,,,,Teague,,,,missed,,Jump Shot,,,113-93,4,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=433
+,,,,,,,,,,4,4.17,Chicago Bulls,shot,,,Asik,,,,,,,Teague,,,,missed,,Jump Shot,,,113-93,4,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=433
 ,,,,,,,,,,4,4.15,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,113-93,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=434
 ,,,,,,,,,,4,3.53,Houston Rockets,shot,,,,,,,,,,Harden,3,,,made,,3PT Jump Shot,,,116-93,24,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=435
-,,,,,,,,,,4,3.34,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Layup,,,116-93,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=436
+,,,,,,,,,,4,3.34,Chicago Bulls,shot,,,Asik,,,,,,,Robinson,,,,missed,,Layup,,,116-93,3,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=436
 ,,,,,,,,,,4,3.32,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,116-93,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=437
 ,,,,,,,,,,4,3.30,Houston Rockets,substitute,,,,Cook,,Harden,,,,,,,,,,,,,116-93,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=439
 ,,,,,,,,,,4,3.30,Houston Rockets,substitute,,,,Douglas,,Lin,,,,,,,,,,,,,116-93,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=440
@@ -393,9 +393,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.30,Houston Rockets,rebound,,,,,,,,,,Aldrich,,,,,,,,,120-94,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=471
 ,,,,,,,,,,4,1.06,Houston Rockets,shot,,,,,,,,,,Machado,,,,missed,,Jump Shot,,,120-94,18,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=472
 ,,,,,,,,,,4,1.05,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,120-94,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=473
-,,,,,,,,,,4,0.56,Houston Rockets,turnover,,,,,,,,,,Machado,,,Lost Ball,,,,,,120-94,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=474
+,,,,,,,,,,4,0.56,Houston Rockets,turnover,,,,,,,,,,Machado,,,Lost Ball,,Radmanovic,,,,120-94,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=474
 ,,,,,,,,,,4,0.48,Chicago Bulls,shot,,,,,,,,,,Robinson,3,,,made,,3PT Jump Shot,,,120-97,24,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=475
-,,,,,,,,,,4,0.36,Houston Rockets,turnover,,,,,,,,,,Machado,,,Bad Pass,,,,,,120-97,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=476
+,,,,,,,,,,4,0.36,Houston Rockets,turnover,,,,,,,,,,Machado,,,Bad Pass,,Radmanovic,,,,120-97,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=476
 ,,,,,,,,,,4,0.24,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,120-97,11,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=479
 ,,,,,,,,,,4,0.23,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,120-97,,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=480
 ,,,,,,,,,,4,0.04,Houston Rockets,shot,,,,,,,,,,Machado,,,,missed,,3PT Jump Shot,,,120-97,25,http://stats.nba.com/cvp.html?GameID=0021200408&GameEventID=481

@@ -1,11 +1,11 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.45,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Pullup Jump Shot,,,0-2,20,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=2
-,,,,,,,,,,1,11.29,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Running Jump Shot,,,0-2,4,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=3
+,,,,,,,,,,1,11.29,Utah Jazz,shot,,,Bogut,,,,,,,Millsap,,,,missed,,Running Jump Shot,,,0-2,4,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=3
 ,,,,,,,,,,1,11.29,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=4
 ,,,,,,,,,,1,11.23,Utah Jazz,shot,Millsap,,,,,,,,,Williams,2,,,made,,Alley Oop Layup,,,2-2,2,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=5
-,,,,,,,,,,1,11.10,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=6
+,,,,,,,,,,1,11.10,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Millsap,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=6
 ,,,,,,,,,,1,11.06,Utah Jazz,turnover,,,,,,,,,,Williams,,,Traveling,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=8
-,,,,,,,,,,1,10.48,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=9
+,,,,,,,,,,1,10.48,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Jefferson,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=9
 ,,,,,,,,,,1,10.30,Utah Jazz,shot,Hayward,,,,,,,,,Jefferson,2,,,made,,Pullup Jump Shot,,,4-2,17,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=10
 ,,,,,,,,,,1,10.13,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,3 Second Violation,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=11
 ,,,,,,,,,,1,10.00,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,4-2,26,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=12
@@ -26,11 +26,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.14,Utah Jazz,shot,Millsap,,,,,,,,,Hayward,3,,,made,,3PT Pullup Jump Shot,,,13-9,26,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=30
 ,,,,,,,,,,1,7.00,Golden State Warriors,shot,,,,,,,,,,Bogut,2,,,made,,Turnaround Hook Shot,,,13-11,7,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=31
 ,,,,,,,,,,1,6.42,Utah Jazz,shot,Hayward,,,,,,,,,Millsap,2,,,made,,Step Back Jump Shot,,,15-11,17,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=32
-,,,,,,,,,,1,6.33,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,15-11,18,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=33
+,,,,,,,,,,1,6.33,Golden State Warriors,shot,,,Foye,,,,,,,Curry,,,,missed,,Jump Shot,,,15-11,18,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=33
 ,,,,,,,,,,1,6.31,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,15-11,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=34
 ,,,,,,,,,,1,6.21,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,15-11,26,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=35
 ,,,,,,,,,,1,6.20,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,15-11,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=36
-,,,,,,,,,,1,6.04,Golden State Warriors,shot,,,,,,,,,,Bogut,,,,missed,,Jump Shot,,,15-11,9,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=37
+,,,,,,,,,,1,6.04,Golden State Warriors,shot,,,Jefferson,,,,,,,Bogut,,,,missed,,Jump Shot,,,15-11,9,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=37
 ,,,,,,,,,,1,6.03,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,15-11,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=38
 ,,,,,,,,,,1,5.45,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Turnaround Fadeaway Shot,,,15-11,12,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=39
 ,,,,,,,,,,1,5.44,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,15-11,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=40
@@ -59,7 +59,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.06,Utah Jazz,substitute,,,,Tinsley,,Williams,,,,,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=66
 ,,,,,,,,,,1,2.57,Golden State Warriors,shot,,,,,,,,,,Landry,,,,missed,,Jump Shot,,,17-18,6,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=67
 ,,,,,,,,,,1,2.54,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=68
-,,,,,,,,,,1,2.46,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=69
+,,,,,,,,,,1,2.46,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,Thompson,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=69
 ,,,,,,,,,,1,2.31,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Pullup Jump Shot,,,17-18,23,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=70
 ,,,,,,,,,,1,2.29,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=71
 ,,,,,,,,,,1,2.09,Utah Jazz,shot,Foye,,,,,,,,,Jefferson,2,,,made,,Turnaround Jump Shot,,,19-18,11,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=72
@@ -154,9 +154,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.19,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,Foul,,,,,,48-44,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=180
 ,,,,,,,,,,2,2.19,Golden State Warriors,substitute,,,,Landry,,Bogut,,,,,,,,,,,,,48-44,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=181
 ,,,,,,,,,,2,2.05,Utah Jazz,shot,Williams,,,,,,,,,Millsap,2,,,made,,Floating Jump Shot,,,50-44,9,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=182
-,,,,,,,,,,2,1.52,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,50-44,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=183
+,,,,,,,,,,2,1.52,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Williams,,,,50-44,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=183
 ,,,,,,,,,,2,1.48,Utah Jazz,turnover,,,,,,,,,,Hayward Poss,,,Lost Ball,,,,,,50-44,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=184
-,,,,,,,,,,2,1.40,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,,,,,50-44,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=185
+,,,,,,,,,,2,1.40,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,Jefferson,,,,50-44,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=185
 ,,,,,,,,,,2,1.34,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,50-44,19,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=186
 ,,,,,,,,,,2,1.33,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,50-44,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=187
 ,,,,,,,,,,2,1.15,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Step Back Jump Shot,,,50-44,15,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=188
@@ -204,7 +204,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.11,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,62-54,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=239
 ,,,,,,,,,,3,8.09,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,62-54,18,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=240
 ,,,,,,,,,,3,8.07,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,62-54,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=241
-,,,,,,,,,,3,7.56,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,,,,,62-54,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=242
+,,,,,,,,,,3,7.56,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,Lee,,,,62-54,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=242
 ,,,,,,,,,,3,7.50,Golden State Warriors,shot,Barnes,,,,,,,,,Lee,2,,,made,,Driving Slam Dunk,,,62-56,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=243
 ,,,,,,,,,,3,7.47,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,62-56,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=244
 ,,,,,,,,,,3,7.38,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,62-56,18,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=247
@@ -219,7 +219,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.24,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Personal Take,,,65-60,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=256
 ,,,,,,,,,,3,6.08,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,65-60,19,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=257
 ,,,,,,,,,,3,6.07,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,65-60,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=258
-,,,,,,,,,,3,5.56,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,65-60,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=259
+,,,,,,,,,,3,5.56,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Hayward,,,,65-60,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=259
 ,,,,,,,,,,3,5.50,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Personal Take,,,65-60,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=260
 ,,,,,,,,,,3,5.50,Utah Jazz,substitute,,,,Favors,,Millsap,,,,,,,,,,,,,65-60,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=261
 ,,,,,,,,,,3,5.38,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Turnaround Jump Shot,,,65-60,9,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=262
@@ -239,14 +239,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.58,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=278
 ,,,,,,,,,,3,3.55,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=279
 ,,,,,,,,,,3,3.55,Golden State Warriors,substitute,,,,Jack,,Barnes,,,,,,,,,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=280
-,,,,,,,,,,3,3.39,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=281
+,,,,,,,,,,3,3.39,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Williams,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=281
 ,,,,,,,,,,3,3.23,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Pullup Jump Shot,,,70-64,15,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=283
 ,,,,,,,,,,3,3.22,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=284
 ,,,,,,,,,,3,3.11,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Pullup Jump Shot,,,70-64,18,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=285
 ,,,,,,,,,,3,3.10,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=286
 ,,,,,,,,,,3,2.53,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Layup,,,70-64,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=287
 ,,,,,,,,,,3,2.51,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=290
-,,,,,,,,,,3,2.47,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,Bad Pass,,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=291
+,,,,,,,,,,3,2.47,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,Bad Pass,,Carroll,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=291
 ,,,,,,,,,,3,2.47,Utah Jazz,shot,Carroll,,,,,,,,,Jefferson,2,,,made,,Driving Layup,,,72-64,2,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=292
 ,,,,,,,,,,3,2.47,Golden State Warriors,foul,,,,,,,,,,Jack,,,,,,Shooting,,,72-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=293
 ,,,,,,,,,,3,2.47,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,72-64,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=294
@@ -276,7 +276,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.25,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Driving Hook Shot,,,77-69,9,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=326
 ,,,,,,,,,,3,0.24,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,77-69,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=327
 ,,,,,,,,,,3,0.00,Golden State Warriors,turnover,,,,,,,,,,,,,Shot Clock,,,,,,77-69,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=328
-,,,,,,,,,,4,11.45,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,77-69,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=332
+,,,,,,,,,,4,11.45,Golden State Warriors,shot,,,Favors,,,,,,,Lee,,,,missed,,Layup,,,77-69,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=332
 ,,,,,,,,,,4,11.45,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,77-69,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=333
 ,,,,,,,,,,4,11.45,Utah Jazz,foul,,,,,,,,,,Favors,,,,,,Loose ball,,,77-69,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=334
 ,,,,,,,,,,4,11.38,Utah Jazz,foul,,,,,,,,,,Carroll,,,,,,Personal,,,77-69,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=336
@@ -294,19 +294,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.09,Utah Jazz,foul,,,,,,,,,,Jefferson,,,,,,Shooting,,,80-73,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=349
 ,,,,,,,,,,4,10.09,Utah Jazz,substitute,,,,Millsap,,Jefferson,,,,,,,,,,,,,80-73,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=350
 ,,,,,,,,,,4,10.09,Golden State Warriors,free throw,,,,,,,1,,1,Lee,1,,foul,made,,,,,80-74,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=351
-,,,,,,,,,,4,9.55,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,80-74,6,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=353
+,,,,,,,,,,4,9.55,Utah Jazz,shot,,,Thompson,,,,,,,Millsap,,,,missed,,Jump Shot,,,80-74,6,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=353
 ,,,,,,,,,,4,9.54,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,80-74,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=354
 ,,,,,,,,,,4,9.36,Golden State Warriors,shot,,,,,,,,,,Thompson,2,,,made,,Driving Layup,,,80-76,2,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=355
 ,,,,,,,,,,4,9.17,Utah Jazz,shot,Tinsley,,,,,,,,,Millsap,2,,,made,,Layup,,,82-76,1,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=356
-,,,,,,,,,,4,9.00,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,82-76,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=357
+,,,,,,,,,,4,9.00,Golden State Warriors,shot,,,Favors,,,,,,,Lee,,,,missed,,Layup,,,82-76,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=357
 ,,,,,,,,,,4,8.58,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,82-76,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=358
 ,,,,,,,,,,4,8.54,Utah Jazz,shot,Tinsley,,,,,,,,,Hayward,2,,,made,,Driving Layup,,,84-76,2,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=359
 ,,,,,,,,,,4,8.41,Golden State Warriors,foul,,,,,,,,,,,,,,,,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=360
 ,,,,,,,,,,4,8.41,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Foul,,,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=361
 ,,,,,,,,,,4,8.29,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,84-76,19,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=364
 ,,,,,,,,,,4,8.28,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=365
-,,,,,,,,,,4,8.08,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=366
-,,,,,,,,,,4,7.53,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=367
+,,,,,,,,,,4,8.08,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Landry,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=366
+,,,,,,,,,,4,7.53,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,Tinsley,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=367
 ,,,,,,,,,,4,7.33,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Running Layup,,,84-76,2,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=368
 ,,,,,,,,,,4,7.32,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=369
 ,,,,,,,,,,4,7.26,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,Running Jump Shot,,,84-76,13,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=370
@@ -318,8 +318,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.44,Golden State Warriors,shot,,,,,,,,,,Lee,2,,,made,,Driving Finger Roll Layup,,,84-78,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=376
 ,,,,,,,,,,4,6.22,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=377
 ,,,,,,,,,,4,6.21,Utah Jazz,rebound,,,,,,,,,,Carroll,,,,,,,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=378
-,,,,,,,,,,4,6.16,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=379
-,,,,,,,,,,4,6.09,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,,,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=380
+,,,,,,,,,,4,6.16,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Jack,,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=379
+,,,,,,,,,,4,6.09,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,Tinsley,,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=380
 ,,,,,,,,,,4,5.56,Golden State Warriors,foul,,,,,,,,,,Jack,,,,,,Personal,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=382
 ,,,,,,,,,,4,5.56,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=383
 ,,,,,,,,,,4,5.56,Utah Jazz,substitute,,,,Williams,,Tinsley,,,,,,,,,,,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=384
@@ -343,7 +343,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.05,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,91-86,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=404
 ,,,,,,,,,,4,3.00,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Pullup Jump Shot,,,91-86,24,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=405
 ,,,,,,,,,,4,2.59,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,91-86,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=406
-,,,,,,,,,,4,2.38,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,91-86,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=407
+,,,,,,,,,,4,2.38,Golden State Warriors,shot,,,Millsap,,,,,,,Lee,,,,missed,,Jump Shot,,,91-86,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=407
 ,,,,,,,,,,4,2.37,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,91-86,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=409
 ,,,,,,,,,,4,2.37,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Tip Shot,,,91-86,1,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=408
 ,,,,,,,,,,4,2.36,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,91-86,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=410
@@ -353,8 +353,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.50,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,93-88,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=414
 ,,,,,,,,,,4,1.30,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,93-88,24,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=415
 ,,,,,,,,,,4,1.29,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,93-88,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=416
-,,,,,,,,,,4,1.27,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,,,,,93-88,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=417
-,,,,,,,,,,4,1.25,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,93-88,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=418
+,,,,,,,,,,4,1.27,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Lost Ball,,Curry,,,,93-88,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=417
+,,,,,,,,,,4,1.25,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Foye,,,,93-88,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=418
 ,,,,,,,,,,4,1.23,Utah Jazz,turnover,,,,,,,,,,Foye,,,Step Out of Bounds,,,,,,93-88,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=419
 ,,,,,,,,,,4,1.21,Golden State Warriors,shot,Curry,,,,,,,,,Lee,2,,,made,,Driving Layup,,,93-90,2,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=420
 ,,,,,,,,,,4,1.00,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,93-90,16,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=421
@@ -363,7 +363,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.57,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=424
 ,,,,,,,,,,4,0.55,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=425
 ,,,,,,,,,,4,0.55,Utah Jazz,substitute,,,,Favors,,Jefferson,,,,,,,,,,,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=427
-,,,,,,,,,,4,0.40,Golden State Warriors,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,93-90,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=428
+,,,,,,,,,,4,0.40,Golden State Warriors,shot,,,Favors,,,,,,,Green,,,,missed,,Jump Shot,,,93-90,3,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=428
 ,,,,,,,,,,4,0.39,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=429
 ,,,,,,,,,,4,0.35,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,3PT Jump Shot,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=430
 ,,,,,,,,,,4,0.34,Utah Jazz,rebound,,,,,,,,,,Hayward,,,,,,,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021201151&GameEventID=431

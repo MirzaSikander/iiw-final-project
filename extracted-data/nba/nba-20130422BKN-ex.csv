@@ -1,5 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.43,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=3
+,,,,,,,,,,1,11.43,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Bad Pass,,Wallace,,,,,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=3
 ,,,,,,,,,,1,11.42,Chicago Bulls,foul,,,,,,,,,,Deng,,,,,,Personal,,,,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=4
 ,,,,,,,,,,1,11.33,Brooklyn Nets,turnover,,,,,,,,,,Wallace Out of Bounds,,,Lost Ball,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=5
 ,,,,,,,,,,1,11.15,Chicago Bulls,shot,Hinrich,,,,,,,,,Deng,2,,,made,,Jump Shot,,,2-0,21,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=6
@@ -23,7 +23,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.16,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=26
 ,,,,,,,,,,1,9.04,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Jump Shot,,,2-2,18,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=27
 ,,,,,,,,,,1,9.03,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=28
-,,,,,,,,,,1,8.59,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Lost Ball,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=29
+,,,,,,,,,,1,8.59,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Lost Ball,,Hinrich,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=29
 ,,,,,,,,,,1,8.58,Brooklyn Nets,foul,,,,,,,,,,D. Williams,,,,,,clear path,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=30
 ,,,,,,,,,,1,8.58,Chicago Bulls,free throw,,,,,,,,,,Hinrich,,,foul,missed,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=32
 ,,,,,,,,,,1,8.58,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=33
@@ -33,10 +33,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.35,Chicago Bulls,foul,,,,,,,,,,Hinrich,,,,,,Personal,,,4-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=37
 ,,,,,,,,,,1,8.21,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,Floating Jump Shot,,,4-2,9,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=38
 ,,,,,,,,,,1,8.20,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=39
-,,,,,,,,,,1,8.10,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=40
+,,,,,,,,,,1,8.10,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,Williams,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=40
 ,,,,,,,,,,1,8.06,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,Alley Oop Dunk,,,4-2,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=41
 ,,,,,,,,,,1,8.04,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=42
-,,,,,,,,,,1,8.00,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Layup,,,4-2,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=43
+,,,,,,,,,,1,8.00,Chicago Bulls,shot,,,Lopez,,,,,,,Deng,,,,missed,,Layup,,,4-2,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=43
 ,,,,,,,,,,1,7.58,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=44
 ,,,,,,,,,,1,7.55,Chicago Bulls,shot,,,,,,,,,,Deng,2,,,made,,Putback Layup,,,6-2,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=45
 ,,,,,,,,,,1,7.47,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Traveling,,,,,,6-2,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=46
@@ -51,15 +51,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.48,Brooklyn Nets,shot,Johnson,,,,,,,,,Wallace,2,,,made,,Driving Finger Roll Layup,,,8-4,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=55
 ,,,,,,,,,,1,6.28,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Jump Shot,,,8-4,18,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=56
 ,,,,,,,,,,1,6.27,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=57
-,,,,,,,,,,1,6.12,Brooklyn Nets,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,8-4,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=58
+,,,,,,,,,,1,6.12,Brooklyn Nets,shot,,,Noah,,,,,,,Evans,,,,missed,,Layup,,,8-4,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=58
 ,,,,,,,,,,1,6.10,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=59
-,,,,,,,,,,1,6.07,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=60
+,,,,,,,,,,1,6.07,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,Johnson,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=60
 ,,,,,,,,,,1,6.04,Brooklyn Nets,shot,,,,,,,,,,Johnson,2,,,made,,Driving Layup,,,8-6,1,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=61
 ,,,,,,,,,,1,5.35,Chicago Bulls,shot,,,,,,,,,,Boozer,2,,,made,,Fadeaway Jumper,,,10-6,17,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=62
 ,,,,,,,,,,1,5.10,Brooklyn Nets,turnover,,,,,,,,,,Evans,,,3 Second Violation,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=63
 ,,,,,,,,,,1,5.10,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=64
 ,,,,,,,,,,1,5.10,Chicago Bulls,substitute,,,,Mohammed,,Noah,,,,,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=67
-,,,,,,,,,,1,4.51,Chicago Bulls,shot,,,,,,,,,,Mohammed,,,,missed,,Driving Layup,,,10-6,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=68
+,,,,,,,,,,1,4.51,Chicago Bulls,shot,,,Lopez,,,,,,,Mohammed,,,,missed,,Driving Layup,,,10-6,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=68
 ,,,,,,,,,,1,4.50,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=69
 ,,,,,,,,,,1,4.42,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,Layup,,,10-6,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=70
 ,,,,,,,,,,1,4.41,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=71
@@ -83,12 +83,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.01,Chicago Bulls,substitute,,,,Robinson,,Hinrich,,,,,,,,,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=95
 ,,,,,,,,,,1,3.01,Brooklyn Nets,free throw,,,,,,,2,,2,D. Williams,1,,foul,made,,,,,14-12,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=96
 ,,,,,,,,,,1,2.37,Chicago Bulls,shot,Butler,,,,,,,,,Mohammed,2,,,made,,Jump Shot,,,16-12,16,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=98
-,,,,,,,,,,1,2.27,Brooklyn Nets,turnover,,,,,,,,,,Evans,,,Lost Ball,,,,,,16-12,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=99
+,,,,,,,,,,1,2.27,Brooklyn Nets,turnover,,,,,,,,,,Evans,,,Lost Ball,,Robinson,,,,16-12,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=99
 ,,,,,,,,,,1,2.22,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Driving Layup,,,16-12,1,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=100
 ,,,,,,,,,,1,2.20,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,16-12,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=101
 ,,,,,,,,,,1,2.19,Chicago Bulls,shot,,,,,,,,,,Deng,2,,,made,,Tip Shot,,,18-12,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=102
 ,,,,,,,,,,1,2.00,Brooklyn Nets,shot,Bogans,,,,,,,,,Lopez,2,,,made,,Slam Dunk,,,18-14,1,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=103
-,,,,,,,,,,1,1.40,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=104
+,,,,,,,,,,1,1.40,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,Evans,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=104
 ,,,,,,,,,,1,1.34,Brooklyn Nets,shot,D. Williams,,,,,,,,,Johnson,3,,,made,,3PT Jump Shot,,,18-17,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=105
 ,,,,,,,,,,1,1.12,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,3PT Jump Shot,,,18-17,25,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=106
 ,,,,,,,,,,1,1.11,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,18-17,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=107
@@ -112,7 +112,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.48,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=130
 ,,,,,,,,,,2,10.48,Chicago Bulls,foul,,,,,,,,,,Gibson,,,,,,Loose ball,,,22-21,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=131
 ,,,,,,,,,,2,10.48,Chicago Bulls,substitute,,,,Boozer,,Mohammed,,,,,,,,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=132
-,,,,,,,,,,2,10.33,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Bad Pass,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=133
+,,,,,,,,,,2,10.33,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Bad Pass,,Robinson,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=133
 ,,,,,,,,,,2,10.32,Brooklyn Nets,foul,,,,,,,,,,Bogans,,,,,,Personal,,,22-21,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=134
 ,,,,,,,,,,2,10.32,Brooklyn Nets,substitute,,,,Humphries,,Evans,,,,,,,,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=135
 ,,,,,,,,,,2,10.20,Chicago Bulls,shot,,,,,,,,,,Belinelli,2,,,made,,Pullup Jump Shot,,,24-21,23,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=136
@@ -157,7 +157,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.59,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Floating Jump Shot,,,34-29,5,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=181
 ,,,,,,,,,,2,5.58,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=182
 ,,,,,,,,,,2,5.43,Brooklyn Nets,shot,Johnson,,,,,,,,,Humphries,2,,,made,,Jump Shot,,,34-31,14,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=183
-,,,,,,,,,,2,5.26,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Lost Ball,,,,,,34-31,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=184
+,,,,,,,,,,2,5.26,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Lost Ball,,Watson,,,,34-31,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=184
 ,,,,,,,,,,2,5.21,Brooklyn Nets,shot,Watson,,,,,,,,,Humphries,2,,,made,,Dunk,,,34-33,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=185
 ,,,,,,,,,,2,5.14,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,34-33,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=186
 ,,,,,,,,,,2,5.06,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Turnaround Fadeaway Shot,,,34-33,15,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=188
@@ -189,7 +189,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.04,Chicago Bulls,rebound,,,,,,,,,,Hinrich,,,,,,,,,45-41,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=217
 ,,,,,,,,,,2,0.45,Chicago Bulls,shot,,,,,,,,,,Hinrich,2,,,made,,Jump Bank Shot,,,47-41,7,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=218
 ,,,,,,,,,,2,0.28,Brooklyn Nets,shot,D. Williams,,,,,,,,,Watson,2,,,made,,Driving Layup,,,47-43,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=219
-,,,,,,,,,,2,0.04,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,,,,,47-43,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=220
+,,,,,,,,,,2,0.04,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,Lopez,,,,47-43,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=220
 ,,,,,,,,,,2,0.00,Brooklyn Nets,shot,D. Williams,,,,,,,,,Watson,3,,,made,,3PT Jump Shot,,,47-46,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=221
 ,,,,,,,,,,3,11.39,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,47-46,19,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=226
 ,,,,,,,,,,3,11.37,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,47-46,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=227
@@ -206,8 +206,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.55,Chicago Bulls,foul,,,,,,,,,,Noah,,,,,,Shooting,,,52-46,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=238
 ,,,,,,,,,,3,9.55,Brooklyn Nets,free throw,,,,,,,1,,2,Lopez,1,,foul,made,,,,,52-47,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=239
 ,,,,,,,,,,3,9.55,Brooklyn Nets,free throw,,,,,,,2,,2,Lopez,1,,foul,made,,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=241
-,,,,,,,,,,3,9.35,Chicago Bulls,turnover,,,,,,,,,,Noah Poss,,,Lost Ball,,,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=246
-,,,,,,,,,,3,9.33,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=245
+,,,,,,,,,,3,9.35,Chicago Bulls,turnover,,,,,,,,,,Noah Poss,,,Lost Ball,,Wallace,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=246
+,,,,,,,,,,3,9.33,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,Deng,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=245
 ,,,,,,,,,,3,9.26,Chicago Bulls,shot,Boozer,,,,,,,,,Noah,2,,,made,,Dunk,,,54-48,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=243
 ,,,,,,,,,,3,9.24,Chicago Bulls,free throw,,,,,,,,,,Butler,1,,Technical,made,,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=247
 ,,,,,,,,,,3,9.00,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,55-48,18,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=249
@@ -217,9 +217,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.44,Chicago Bulls,foul,,,,,,,,,,,,,,,,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=253
 ,,,,,,,,,,3,8.44,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Foul,,,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=254
 ,,,,,,,,,,3,8.44,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=255
-,,,,,,,,,,3,8.25,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Driving Layup,,,55-48,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=258
+,,,,,,,,,,3,8.25,Brooklyn Nets,shot,,,Deng,,,,,,,Lopez,,,,missed,,Driving Layup,,,55-48,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=258
 ,,,,,,,,,,3,8.23,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=259
-,,,,,,,,,,3,8.02,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Lost Ball,,,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=260
+,,,,,,,,,,3,8.02,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Lost Ball,,Evans,,,,55-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=260
 ,,,,,,,,,,3,8.02,Chicago Bulls,foul,,,,,,,,,,Butler,,,,,,Personal,,,55-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=261
 ,,,,,,,,,,3,7.56,Chicago Bulls,foul,,,,,,,,,,Noah,,,,,,Shooting,,,55-48,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=262
 ,,,,,,,,,,3,7.56,Brooklyn Nets,free throw,,,,,,,1,,2,D. Williams,1,,foul,made,,,,,55-49,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=263
@@ -260,16 +260,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.45,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,Tip Shot,,,63-55,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=303
 ,,,,,,,,,,3,3.44,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=304
 ,,,,,,,,,,3,3.25,Chicago Bulls,shot,Deng,,,,,,,,,Mohammed,2,,,made,,Jump Shot,,,65-55,15,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=305
-,,,,,,,,,,3,3.01,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,65-55,11,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=306
+,,,,,,,,,,3,3.01,Brooklyn Nets,shot,,,Butler,,,,,,,Johnson,,,,missed,,Jump Shot,,,65-55,11,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=306
 ,,,,,,,,,,3,3.00,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,65-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=307
-,,,,,,,,,,3,2.58,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Bad Pass,,,,,,65-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=308
+,,,,,,,,,,3,2.58,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Bad Pass,,Hinrich,,,,65-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=308
 ,,,,,,,,,,3,2.54,Chicago Bulls,shot,Hinrich,,,,,,,,,Butler,2,,,made,,Dunk,,,67-55,1,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=309
 ,,,,,,,,,,3,2.53,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,67-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=310
 ,,,,,,,,,,3,2.53,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,67-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=311
 ,,,,,,,,,,3,2.53,Brooklyn Nets,substitute,,,,Watson,,Johnson,,,,,,,,,,,,,67-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=313
 ,,,,,,,,,,3,2.53,Brooklyn Nets,substitute,,,,Blatche,,Evans,,,,,,,,,,,,,67-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=314
 ,,,,,,,,,,3,2.53,Chicago Bulls,substitute,,,,Belinelli,,Deng,,,,,,,,,,,,,67-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=315
-,,,,,,,,,,3,2.42,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,Layup,,,67-55,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=316
+,,,,,,,,,,3,2.42,Brooklyn Nets,shot,,,Butler,,,,,,,Wallace,,,,missed,,Layup,,,67-55,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=316
 ,,,,,,,,,,3,2.40,Chicago Bulls,rebound,,,,,,,,,,Butler,,,,,,,,,67-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=317
 ,,,,,,,,,,3,2.18,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,67-55,6,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=318
 ,,,,,,,,,,3,2.16,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,67-55,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=319
@@ -287,11 +287,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.04,Chicago Bulls,shot,Butler,,,,,,,,,Gibson,2,,,made,,Jump Shot,,,69-57,6,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=333
 ,,,,,,,,,,3,0.50,Brooklyn Nets,shot,,,,,,,,,,Watson,,,,missed,,Floating Jump Shot,,,69-57,11,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=334
 ,,,,,,,,,,3,0.49,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,69-57,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=335
-,,,,,,,,,,3,0.42,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Floating Jump Shot,,,69-57,7,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=336
+,,,,,,,,,,3,0.42,Chicago Bulls,shot,,,Williams,,,,,,,Robinson,,,,missed,,Floating Jump Shot,,,69-57,7,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=336
 ,,,,,,,,,,3,0.40,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,69-57,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=337
 ,,,,,,,,,,3,0.25,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,3PT Jump Shot,,,69-57,26,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=338
 ,,,,,,,,,,3,0.25,Brooklyn Nets,rebound,,,,,,,,,,Blatche,,,,,,,,,69-57,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=339
-,,,,,,,,,,3,0.24,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Tip Shot,,,69-57,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=340
+,,,,,,,,,,3,0.24,Brooklyn Nets,shot,,,Mohammed,,,,,,,Blatche,,,,missed,,Tip Shot,,,69-57,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=340
 ,,,,,,,,,,3,0.23,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,69-57,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=341
 ,,,,,,,,,,3,0.01,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Fadeaway Jumper,,,69-57,17,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=342
 ,,,,,,,,,,3,0.00,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,69-57,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=343
@@ -302,7 +302,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.08,Brooklyn Nets,shot,Johnson,,,,,,,,,Humphries,2,,,made,,Jump Shot,,,71-59,17,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=351
 ,,,,,,,,,,4,10.46,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,3PT Jump Shot,,,71-59,26,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=352
 ,,,,,,,,,,4,10.45,Brooklyn Nets,rebound,,,,,,,,,,Johnson,,,,,,,,,71-59,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=353
-,,,,,,,,,,4,10.31,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,71-59,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=354
+,,,,,,,,,,4,10.31,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Belinelli,,,,71-59,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=354
 ,,,,,,,,,,4,10.24,Chicago Bulls,shot,Belinelli,,,,,,,,,Robinson,2,,,made,,Layup,,,73-59,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=355
 ,,,,,,,,,,4,10.08,Brooklyn Nets,shot,,,,,,,,,,Blatche,2,,,made,,Jump Shot,,,73-61,17,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=356
 ,,,,,,,,,,4,9.42,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,3PT Jump Shot,,,73-61,25,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=357
@@ -345,13 +345,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.15,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,78-68,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=399
 ,,,,,,,,,,4,6.15,Brooklyn Nets,substitute,,,,Lopez,,Humphries,,,,,,,,,,,,,78-68,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=400
 ,,,,,,,,,,4,6.15,Chicago Bulls,substitute,,,,Butler,,Robinson,,,,,,,,,,,,,78-68,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=401
-,,,,,,,,,,4,5.55,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Running Jump Shot,,,78-68,10,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=402
+,,,,,,,,,,4,5.55,Brooklyn Nets,shot,,,Deng,,,,,,,Johnson,,,,missed,,Running Jump Shot,,,78-68,10,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=402
 ,,,,,,,,,,4,5.54,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,78-68,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=403
 ,,,,,,,,,,4,5.35,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Jump Shot,,,78-68,4,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=404
 ,,,,,,,,,,4,5.34,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,78-68,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=405
 ,,,,,,,,,,4,5.33,Chicago Bulls,shot,,,,,,,,,,Noah,2,,,made,,Tip Shot,,,80-68,1,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=406
 ,,,,,,,,,,4,5.18,Brooklyn Nets,shot,Lopez,,,,,,,,,Johnson,3,,,made,,3PT Jump Shot,,,80-71,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=407
-,,,,,,,,,,4,5.01,Chicago Bulls,shot,,,,,,,,,,Hinrich,,,,missed,,Jump Shot,,,80-71,10,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=408
+,,,,,,,,,,4,5.01,Chicago Bulls,shot,,,Watson,,,,,,,Hinrich,,,,missed,,Jump Shot,,,80-71,10,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=408
 ,,,,,,,,,,4,5.00,Chicago Bulls,rebound,,,,,,,,,,Hinrich,,,,,,,,,80-71,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=409
 ,,,,,,,,,,4,4.58,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,80-71,24,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=410
 ,,,,,,,,,,4,4.56,Brooklyn Nets,rebound,,,,,,,,,,Watson,,,,,,,,,80-71,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=411
@@ -361,7 +361,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.12,Brooklyn Nets,shot,D. Williams,,,,,,,,,Johnson,3,,,made,,3PT Jump Shot,,,80-76,27,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=415
 ,,,,,,,,,,4,4.11,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=416
 ,,,,,,,,,,4,4.11,Chicago Bulls,substitute,,,,Robinson,,Butler,,,,,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=418
-,,,,,,,,,,4,3.59,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Layup,,,80-76,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=419
+,,,,,,,,,,4,3.59,Chicago Bulls,shot,,,Lopez,,,,,,,Boozer,,,,missed,,Layup,,,80-76,3,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=419
 ,,,,,,,,,,4,3.57,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=420
 ,,,,,,,,,,4,3.54,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,3PT Jump Shot,,,80-76,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=421
 ,,,,,,,,,,4,3.53,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=422
@@ -384,7 +384,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.18,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=442
 ,,,,,,,,,,4,1.04,Chicago Bulls,foul,,,,,,,,,,,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=443
 ,,,,,,,,,,4,1.04,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Foul,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=444
-,,,,,,,,,,4,0.52,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Driving Layup,,,86-78,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=445
+,,,,,,,,,,4,0.52,Brooklyn Nets,shot,,,Noah,,,,,,,Lopez,,,,missed,,Driving Layup,,,86-78,2,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=445
 ,,,,,,,,,,4,0.52,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=446
 ,,,,,,,,,,4,0.52,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=448
 ,,,,,,,,,,4,0.51,Brooklyn Nets,foul,,,,,,,,,,Lopez,,,,,,Personal,,,86-78,,http://stats.nba.com/cvp.html?GameID=0041200132&GameEventID=451

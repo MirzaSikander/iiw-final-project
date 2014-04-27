@@ -7,8 +7,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.15,New York Knicks,rebound,,,,,,,,,,Brewer,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=7
 ,,,,,,,,,,1,11.10,New York Knicks,shot,Kidd,,,,,,,,,Anthony,3,,,made,,3PT Jump Shot,,,0-3,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=8
 ,,,,,,,,,,1,10.47,Brooklyn Nets,shot,,,,,,,,,,Lopez,2,,,made,,Fadeaway Jumper,,,2-3,7,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=9
-,,,,,,,,,,1,10.30,New York Knicks,turnover,,,,,,,,,,Chandler,,,Bad Pass,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=10
-,,,,,,,,,,1,10.20,Brooklyn Nets,shot,,,,,,,,,,Humphries,,,,missed,,Layup,,,2-3,3,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=11
+,,,,,,,,,,1,10.30,New York Knicks,turnover,,,,,,,,,,Chandler,,,Bad Pass,,Lopez,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=10
+,,,,,,,,,,1,10.20,Brooklyn Nets,shot,,,Anthony,,,,,,,Humphries,,,,missed,,Layup,,,2-3,3,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=11
 ,,,,,,,,,,1,10.18,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=12
 ,,,,,,,,,,1,10.11,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,3PT Jump Shot,,,2-3,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=13
 ,,,,,,,,,,1,10.10,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=14
@@ -32,7 +32,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.48,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,7-7,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=35
 ,,,,,,,,,,1,7.38,Brooklyn Nets,shot,D. Williams,,,,,,,,,Lopez,2,,,made,,Layup,,,9-7,1,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=36
 ,,,,,,,,,,1,7.19,New York Knicks,shot,Brewer,,,,,,,,,Kidd,3,,,made,,3PT Jump Shot,,,9-10,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=37
-,,,,,,,,,,1,7.08,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,Driving Layup,,,9-10,2,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=38
+,,,,,,,,,,1,7.08,Brooklyn Nets,shot,,,Chandler,,,,,,,D. Williams,,,,missed,,Driving Layup,,,9-10,2,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=38
 ,,,,,,,,,,1,7.07,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=39
 ,,,,,,,,,,1,7.05,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,3PT Jump Shot,,,9-10,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=40
 ,,,,,,,,,,1,7.03,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=41
@@ -61,7 +61,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.53,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Fadeaway Jumper,,,14-12,11,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=66
 ,,,,,,,,,,1,4.41,Brooklyn Nets,shot,,,,,,,,,,Humphries,,,,missed,,Layup,,,14-12,1,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=67
 ,,,,,,,,,,1,4.40,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,14-12,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=68
-,,,,,,,,,,1,4.39,Brooklyn Nets,shot,,,,,,,,,,Humphries,,,,missed,,Layup,,,14-12,2,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=69
+,,,,,,,,,,1,4.39,Brooklyn Nets,shot,,,Chandler,,,,,,,Humphries,,,,missed,,Layup,,,14-12,2,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=69
 ,,,,,,,,,,1,4.37,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,14-12,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=70
 ,,,,,,,,,,1,4.33,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,Jump Shot,,,14-12,7,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=71
 ,,,,,,,,,,1,4.32,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,14-12,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=73
@@ -75,7 +75,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.10,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,14-13,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=84
 ,,,,,,,,,,1,4.01,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Jump Shot,,,14-13,20,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=86
 ,,,,,,,,,,1,4.00,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,14-13,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=87
-,,,,,,,,,,1,3.53,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,14-13,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=88
+,,,,,,,,,,1,3.53,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,Chandler,,,,14-13,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=88
 ,,,,,,,,,,1,3.47,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,3PT Jump Shot,,,14-13,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=89
 ,,,,,,,,,,1,3.46,New York Knicks,rebound,,,,,,,,,,Felton,,,,,,,,,14-13,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=90
 ,,,,,,,,,,1,3.44,New York Knicks,shot,,,,,,,,,,Felton,2,,,made,,Layup,,,14-15,2,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=92
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.25,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=112
 ,,,,,,,,,,1,1.20,Brooklyn Nets,shot,D. Williams,,,,,,,,,Wallace,2,,,made,,Driving Slam Dunk,,,21-19,1,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=113
 ,,,,,,,,,,1,1.00,New York Knicks,shot,Smith,,,,,,,,,Copeland,3,,,made,,3PT Jump Shot,,,21-22,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=114
-,,,,,,,,,,1,0.45,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=115
+,,,,,,,,,,1,0.45,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,Anthony,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=115
 ,,,,,,,,,,1,0.44,Brooklyn Nets,foul,,,,,,,,,,Bogans,,,,,,Personal,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=116
 ,,,,,,,,,,1,0.31,New York Knicks,shot,,,,,,,,,,Felton,2,,,made,,Jump Shot,,,21-24,19,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=117
 ,,,,,,,,,,1,0.10,Brooklyn Nets,shot,,,,,,,,,,Watson,2,,,made,,Jump Shot,,,23-24,22,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=118
@@ -124,9 +124,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.15,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Pullup Jump Shot,,,33-37,15,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=151
 ,,,,,,,,,,2,7.58,Brooklyn Nets,shot,,,,,,,,,,Watson,,,,missed,,Layup,,,33-37,1,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=152
 ,,,,,,,,,,2,7.56,New York Knicks,rebound,,,,,,,,,,Thomas,,,,,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=153
-,,,,,,,,,,2,7.38,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=154
+,,,,,,,,,,2,7.38,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,Johnson,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=154
 ,,,,,,,,,,2,7.27,Brooklyn Nets,shot,Watson,,,,,,,,,Johnson,3,,,made,,3PT Jump Shot,,,36-37,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=155
-,,,,,,,,,,2,7.14,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=156
+,,,,,,,,,,2,7.14,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Blatche,,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=156
 ,,,,,,,,,,2,7.10,New York Knicks,foul,,,,,,,,,,Prigioni,,,,,,Personal,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=157
 ,,,,,,,,,,2,7.10,New York Knicks,substitute,,,,Anthony,,Copeland,,,,,,,,,,,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=158
 ,,,,,,,,,,2,7.10,New York Knicks,substitute,,,,Chandler,,Thomas,,,,,,,,,,,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=159
@@ -168,9 +168,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.42,Brooklyn Nets,shot,D. Williams,,,,,,,,,Lopez,2,,,made,,Dunk,,,45-44,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=205
 ,,,,,,,,,,2,2.29,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,45-44,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=207
 ,,,,,,,,,,2,2.15,New York Knicks,shot,Anthony,,,,,,,,,Kidd,3,,,made,,3PT Jump Shot,,,45-47,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=210
-,,,,,,,,,,2,2.03,Brooklyn Nets,turnover,,,,,,,,,,Watson,,,Lost Ball,,,,,,45-47,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=211
+,,,,,,,,,,2,2.03,Brooklyn Nets,turnover,,,,,,,,,,Watson,,,Lost Ball,,Felton,,,,45-47,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=211
 ,,,,,,,,,,2,1.53,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Jump Shot,,,45-49,11,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=212
-,,,,,,,,,,2,1.46,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,45-49,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=213
+,,,,,,,,,,2,1.46,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,Kidd,,,,45-49,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=213
 ,,,,,,,,,,2,1.43,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,3PT Jump Shot,,,45-49,24,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=214
 ,,,,,,,,,,2,1.42,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,45-49,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=215
 ,,,,,,,,,,2,1.41,New York Knicks,foul,,,,,,,,,,Chandler,,,,,,Personal,,,45-49,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=216
@@ -205,7 +205,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.44,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,3PT Jump Shot,,,55-54,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=252
 ,,,,,,,,,,3,9.43,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=253
 ,,,,,,,,,,3,9.32,New York Knicks,foul,,,,,,,,,,Anthony,,,,,,Personal,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=254
-,,,,,,,,,,3,9.24,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=255
+,,,,,,,,,,3,9.24,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Kidd,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=255
 ,,,,,,,,,,3,9.23,Brooklyn Nets,foul,,,,,,,,,,Johnson,,,,,,clear path,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=256
 ,,,,,,,,,,3,9.23,New York Knicks,free throw,,,,,,,,,,Kidd,,,foul,missed,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=257
 ,,,,,,,,,,3,9.23,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=258
@@ -220,7 +220,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.27,New York Knicks,free throw,,,,,,,1,,2,Brewer,1,,foul,made,,,,,55-56,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=268
 ,,,,,,,,,,3,8.27,New York Knicks,free throw,,,,,,,2,,2,Brewer,1,,foul,made,,,,,55-57,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=270
 ,,,,,,,,,,3,8.07,Brooklyn Nets,shot,,,,,,,,,,D. Williams,2,,,made,,Turnaround Jump Shot,,,57-57,12,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=272
-,,,,,,,,,,3,7.53,New York Knicks,shot,,,,,,,,,,Brewer,,,,missed,,Jump Shot,,,57-57,3,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=273
+,,,,,,,,,,3,7.53,New York Knicks,shot,,,Lopez,,,,,,,Brewer,,,,missed,,Jump Shot,,,57-57,3,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=273
 ,,,,,,,,,,3,7.52,New York Knicks,rebound,,,,,,,,,,Brewer,,,,,,,,,57-57,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=274
 ,,,,,,,,,,3,7.41,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,57-57,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=275
 ,,,,,,,,,,3,7.40,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,57-57,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=276
@@ -241,7 +241,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.20,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,61-62,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=293
 ,,,,,,,,,,3,5.13,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,61-62,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=294
 ,,,,,,,,,,3,5.12,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,61-62,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=295
-,,,,,,,,,,3,5.08,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Driving Layup,,,61-62,3,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=296
+,,,,,,,,,,3,5.08,Brooklyn Nets,shot,,,Smith,,,,,,,Lopez,,,,missed,,Driving Layup,,,61-62,3,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=296
 ,,,,,,,,,,3,5.07,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,61-62,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=297
 ,,,,,,,,,,3,4.57,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,61-62,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=298
 ,,,,,,,,,,3,4.56,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,61-62,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=299
@@ -264,7 +264,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.27,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=318
 ,,,,,,,,,,3,2.21,Brooklyn Nets,shot,,,,,,,,,,Bogans,,,,missed,,3PT Jump Shot,,,63-66,25,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=319
 ,,,,,,,,,,3,2.20,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=320
-,,,,,,,,,,3,2.09,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Layup,,,63-66,1,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=321
+,,,,,,,,,,3,2.09,New York Knicks,shot,,,Blatche,,,,,,,Anthony,,,,missed,,Layup,,,63-66,1,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=321
 ,,,,,,,,,,3,2.07,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=322
 ,,,,,,,,,,3,2.02,Brooklyn Nets,shot,,,,,,,,,,Bogans,,,,missed,,3PT Jump Shot,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=323
 ,,,,,,,,,,3,2.01,New York Knicks,rebound,,,,,,,,,,Felton,,,,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=324
@@ -277,7 +277,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.57,New York Knicks,substitute,,,,Prigioni,,Felton,,,,,,,,,,,,,65-70,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=331
 ,,,,,,,,,,3,0.57,Brooklyn Nets,substitute,,,,Evans,,Johnson,,,,,,,,,,,,,65-70,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=332
 ,,,,,,,,,,3,0.41,New York Knicks,shot,Smith,,,,,,,,,Copeland,3,,,made,,3PT Jump Shot,,,65-73,24,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=333
-,,,,,,,,,,3,0.30,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=334
+,,,,,,,,,,3,0.30,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,Anthony,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=334
 ,,,,,,,,,,3,0.11,New York Knicks,shot,Prigioni,,,,,,,,,Chandler,2,,,made,,Alley Oop Dunk,,,65-75,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=335
 ,,,,,,,,,,3,0.03,Brooklyn Nets,shot,,,,,,,,,,D. Williams,2,,,made,,Driving Layup,,,67-75,2,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=336
 ,,,,,,,,,,3,0.00,New York Knicks,shot,,,,,,,,,,Prigioni,,,,missed,,3PT Jump Shot,,,67-75,39,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=337
@@ -310,7 +310,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.44,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,Jump Shot,,,68-80,8,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=372
 ,,,,,,,,,,4,8.43,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,68-80,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=373
 ,,,,,,,,,,4,8.25,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,,,,,68-80,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=374
-,,,,,,,,,,4,8.14,Brooklyn Nets,turnover,,,,,,,,,,Watson,,,Bad Pass,,,,,,68-80,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=375
+,,,,,,,,,,4,8.14,Brooklyn Nets,turnover,,,,,,,,,,Watson,,,Bad Pass,,Kidd,,,,68-80,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=375
 ,,,,,,,,,,4,8.10,Brooklyn Nets,foul,,,,,,,,,,Blatche,,,,,,Shooting,,,68-80,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=376
 ,,,,,,,,,,4,8.10,New York Knicks,free throw,,,,,,,1,,2,Smith,1,,foul,made,,,,,68-81,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=377
 ,,,,,,,,,,4,8.10,Brooklyn Nets,substitute,,,,Lopez,,Blatche,,,,,,,,,,,,,68-81,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=379
@@ -339,7 +339,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.29,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=411
 ,,,,,,,,,,4,4.29,Brooklyn Nets,shot,,,,,,,,,,Lopez,2,,,made,,Tip Shot,,,80-91,1,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=410
 ,,,,,,,,,,4,4.09,New York Knicks,shot,Felton,,,,,,,,,Smith,3,,,made,,3PT Jump Shot,,,80-94,24,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=412
-,,,,,,,,,,4,3.47,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Shot,,,80-94,19,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=413
+,,,,,,,,,,4,3.47,Brooklyn Nets,shot,,,Chandler,,,,,,,Lopez,,,,missed,,Jump Shot,,,80-94,19,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=413
 ,,,,,,,,,,4,3.46,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,80-94,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=414
 ,,,,,,,,,,4,3.38,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Jump Shot,,,80-94,12,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=415
 ,,,,,,,,,,4,3.37,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,80-94,,http://stats.nba.com/cvp.html?GameID=0021200367&GameEventID=416

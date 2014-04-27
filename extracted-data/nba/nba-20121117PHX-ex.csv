@@ -1,6 +1,6 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.42,Miami Heat,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=2
-,,,,,,,,,,1,11.29,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=3
+,,,,,,,,,,1,11.42,Miami Heat,turnover,,,,,,,,,,Miller,,,Bad Pass,,Gortat,,,,,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=2
+,,,,,,,,,,1,11.29,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,Chalmers,,,,,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=3
 ,,,,,,,,,,1,11.26,Miami Heat,shot,,,,,,,,,,Chalmers,2,,,made,,Layup,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=4
 ,,,,,,,,,,1,11.23,Miami Heat,violation,,,,,,,,,,Heat,,, Delay of game Violation,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=5
 ,,,,,,,,,,1,11.00,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Turnaround Jump Shot,,,2-0,11,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=6
@@ -14,8 +14,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.26,Miami Heat,shot,Bosh,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,6-0,24,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=15
 ,,,,,,,,,,1,10.17,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,6-0,25,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=16
 ,,,,,,,,,,1,10.14,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=17
-,,,,,,,,,,1,10.06,Miami Heat,turnover,,,,,,,,,,Bosh,,,Bad Pass,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=18
-,,,,,,,,,,1,10.02,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Layup,,,6-0,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=19
+,,,,,,,,,,1,10.06,Miami Heat,turnover,,,,,,,,,,Bosh,,,Bad Pass,,Dudley,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=18
+,,,,,,,,,,1,10.02,Phoenix Suns,shot,,,Bosh,,,,,,,Dragic,,,,missed,,Layup,,,6-0,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=19
 ,,,,,,,,,,1,9.58,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=20
 ,,,,,,,,,,1,9.48,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Shooting,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=21
 ,,,,,,,,,,1,9.48,Miami Heat,free throw,,,,,,,1,,2,Bosh,,,foul,missed,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=22
@@ -33,7 +33,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.40,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,7-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=35
 ,,,,,,,,,,1,8.37,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,7-0,3,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=36
 ,,,,,,,,,,1,8.35,Miami Heat,rebound,,,,,,,,,,Battier,,,,,,,,,7-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=37
-,,,,,,,,,,1,8.32,Miami Heat,shot,,,,,,,,,,Miller,,,,missed,,Jump Shot,,,7-0,4,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=38
+,,,,,,,,,,1,8.32,Miami Heat,shot,,,Gortat,,,,,,,Miller,,,,missed,,Jump Shot,,,7-0,4,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=38
 ,,,,,,,,,,1,8.28,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,7-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=39
 ,,,,,,,,,,1,8.23,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,7-0,15,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=40
 ,,,,,,,,,,1,8.21,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,7-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=41
@@ -45,7 +45,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.46,Phoenix Suns,free throw,,,,,,,1,,2,Scola,,,foul,missed,,,,,9-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=50
 ,,,,,,,,,,1,7.46,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,9-0,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=51
 ,,,,,,,,,,1,7.46,Phoenix Suns,free throw,,,,,,,2,,2,Scola,1,,foul,made,,,,,9-1,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=52
-,,,,,,,,,,1,7.38,Miami Heat,turnover,,,,,,,,,,Bosh,,,Bad Pass,,,,,,9-1,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=54
+,,,,,,,,,,1,7.38,Miami Heat,turnover,,,,,,,,,,Bosh,,,Bad Pass,,Dragic,,,,9-1,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=54
 ,,,,,,,,,,1,7.36,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Layup,,,9-3,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=55
 ,,,,,,,,,,1,7.11,Miami Heat,shot,Miller,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,12-3,24,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=56
 ,,,,,,,,,,1,6.56,Phoenix Suns,shot,Beasley,,,,,,,,,Gortat,2,,,made,,Reverse Layup,,,12-5,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=57
@@ -74,7 +74,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.22,Miami Heat,rebound,,,,,,,,,,Miller,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=82
 ,,,,,,,,,,1,3.02,Miami Heat,substitute,,,,Allen,,Miller,,,,,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=83
 ,,,,,,,,,,1,3.02,Phoenix Suns,substitute,,,,Morris,,Scola,,,,,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=84
-,,,,,,,,,,1,3.02,Miami Heat,turnover,,,,,,,,,,Haslem,,,Lost Ball,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=86
+,,,,,,,,,,1,3.02,Miami Heat,turnover,,,,,,,,,,Haslem,,,Lost Ball,,Beasley,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=86
 ,,,,,,,,,,1,3.02,Phoenix Suns,jumpball,,Haslem,,,Beasley,,,,,,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=85
 ,,,,,,,,,,1,3.01,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Driving Reverse Layup,,,18-16,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=87
 ,,,,,,,,,,1,2.41,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Running Bank Shot,,,18-16,3,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=88
@@ -87,14 +87,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.00,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,18-18,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=95
 ,,,,,,,,,,1,2.00,Miami Heat,substitute,,,,Cole,,Chalmers,,,,,,,,,,,,,18-18,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=96
 ,,,,,,,,,,1,2.00,Phoenix Suns,free throw,,,,,,,2,,2,Dudley,1,,foul,made,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=97
-,,,,,,,,,,1,1.51,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=99
+,,,,,,,,,,1,1.51,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,Dragic,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=99
 ,,,,,,,,,,1,1.49,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Layup,,,18-21,1,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=100
 ,,,,,,,,,,1,1.25,Miami Heat,shot,Battier,,,,,,,,,Allen,2,,,made,,Jump Shot,,,20-21,16,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=101
 ,,,,,,,,,,1,1.10,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Pullup Jump Shot,,,20-23,17,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=102
-,,,,,,,,,,1,0.54,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,,,,,20-23,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=103
+,,,,,,,,,,1,0.54,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,Gortat,,,,20-23,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=103
 ,,,,,,,,,,1,0.48,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,20-23,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=104
 ,,,,,,,,,,1,0.45,Miami Heat,rebound,,,,,,,,,,Lewis,,,,,,,,,20-23,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=105
-,,,,,,,,,,1,0.43,Miami Heat,turnover,,,,,,,,,,Lewis,,,Bad Pass,,,,,,20-23,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=106
+,,,,,,,,,,1,0.43,Miami Heat,turnover,,,,,,,,,,Lewis,,,Bad Pass,,Dragic,,,,20-23,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=106
 ,,,,,,,,,,1,0.29,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,20-23,16,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=107
 ,,,,,,,,,,1,0.27,Miami Heat,rebound,,,,,,,,,,Lewis,,,,,,,,,20-23,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=108
 ,,,,,,,,,,1,0.01,Miami Heat,shot,Allen,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,23-23,28,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=109
@@ -127,7 +127,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.01,Miami Heat,substitute,,,,Chalmers,,Cole,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=146
 ,,,,,,,,,,2,7.44,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,31-37,26,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=148
 ,,,,,,,,,,2,7.41,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=149
-,,,,,,,,,,2,7.28,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=150
+,,,,,,,,,,2,7.28,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,Chalmers,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=150
 ,,,,,,,,,,2,7.13,Miami Heat,shot,Allen,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,33-37,20,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=151
 ,,,,,,,,,,2,6.50,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,33-37,14,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=152
 ,,,,,,,,,,2,6.50,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=153
@@ -140,7 +140,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.51,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,33-39,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=160
 ,,,,,,,,,,2,5.46,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Driving Layup,,,33-39,1,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=161
 ,,,,,,,,,,2,5.40,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,33-39,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=162
-,,,,,,,,,,2,5.37,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,33-39,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=163
+,,,,,,,,,,2,5.37,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,O'Neal,,,,33-39,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=163
 ,,,,,,,,,,2,5.33,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Driving Layup,,,33-41,1,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=164
 ,,,,,,,,,,2,5.11,Phoenix Suns,foul,,,,,,,,,,O'Neal,,,,,,Shooting,,,33-41,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=165
 ,,,,,,,,,,2,5.11,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,34-41,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=166
@@ -159,7 +159,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.33,Miami Heat,shot,Miller,,,,,,,,,James,2,,,made,,Jump Shot,,,41-46,16,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=184
 ,,,,,,,,,,2,3.33,Phoenix Suns,foul,,,,,,,,,,Beasley,,,,,,Shooting,,,41-46,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=185
 ,,,,,,,,,,2,3.33,Miami Heat,free throw,,,,,,,1,,1,James,1,,foul,made,,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=186
-,,,,,,,,,,2,3.16,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Lost Ball,,,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=188
+,,,,,,,,,,2,3.16,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Lost Ball,,Bosh,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=188
 ,,,,,,,,,,2,3.08,Miami Heat,shot,Chalmers,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,44-46,21,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=189
 ,,,,,,,,,,2,2.59,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,44-46,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=190
 ,,,,,,,,,,2,2.59,Phoenix Suns,substitute,,,,Dragic,,Telfair,,,,,,,,,,,,,44-46,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=194
@@ -178,7 +178,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.11,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,50-48,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=208
 ,,,,,,,,,,2,1.01,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Pullup Jump Shot,,,52-48,12,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=209
 ,,,,,,,,,,2,0.48,Phoenix Suns,shot,Brown,,,,,,,,,O'Neal,2,,,made,,Jump Shot,,,52-50,8,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=210
-,,,,,,,,,,2,0.35,Miami Heat,shot,,,,,,,,,,Miller,,,,missed,,Jump Shot,,,52-50,6,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=211
+,,,,,,,,,,2,0.35,Miami Heat,shot,,,Beasley,,,,,,,Miller,,,,missed,,Jump Shot,,,52-50,6,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=211
 ,,,,,,,,,,2,0.31,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,52-50,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=212
 ,,,,,,,,,,2,0.30,Phoenix Suns,shot,Dragic,,,,,,,,,Brown,2,,,made,,Jump Shot,,,52-52,19,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=213
 ,,,,,,,,,,2,0.25,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=214
@@ -188,7 +188,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.25,Phoenix Suns,substitute,,,,Telfair,,O'Neal,,,,,,,,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=219
 ,,,,,,,,,,2,0.14,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Tip Shot,,,52-52,4,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=221
 ,,,,,,,,,,2,0.08,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=224
-,,,,,,,,,,2,0.06,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Bad Pass,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=225
+,,,,,,,,,,2,0.06,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Bad Pass,,Miller,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=225
 ,,,,,,,,,,2,0.00,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,52-52,19,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=226
 ,,,,,,,,,,2,0.00,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=228
 ,,,,,,,,,,3,11.33,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Jump Shot,,,52-52,20,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=232
@@ -230,13 +230,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.45,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,63-56,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=274
 ,,,,,,,,,,3,7.39,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,63-56,25,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=275
 ,,,,,,,,,,3,7.36,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,63-56,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=277
-,,,,,,,,,,3,7.36,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,63-56,6,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=276
+,,,,,,,,,,3,7.36,Phoenix Suns,shot,,,Bosh,,,,,,,Dragic,,,,missed,,Jump Shot,,,63-56,6,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=276
 ,,,,,,,,,,3,7.36,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,63-56,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=278
 ,,,,,,,,,,3,7.36,Phoenix Suns,foul,,,,,,,,,,Dragic,,,,,,Loose ball,,,63-56,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=279
 ,,,,,,,,,,3,7.13,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,63-56,13,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=280
 ,,,,,,,,,,3,7.07,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,63-56,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=281
-,,,,,,,,,,3,7.03,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,63-56,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=282
-,,,,,,,,,,3,7.00,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Jump Shot,,,63-56,4,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=283
+,,,,,,,,,,3,7.03,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Cole,,,,63-56,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=282
+,,,,,,,,,,3,7.00,Miami Heat,shot,,,Scola,,,,,,,Cole,,,,missed,,Jump Shot,,,63-56,4,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=283
 ,,,,,,,,,,3,6.50,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,63-56,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=284
 ,,,,,,,,,,3,6.40,Miami Heat,shot,,,,,,,,,,Bosh,2,,,made,,Driving Layup,,,65-56,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=285
 ,,,,,,,,,,3,6.21,Phoenix Suns,substitute,,,,Morris,,Scola,,,,,,,,,,,,,65-56,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=287
@@ -253,7 +253,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.45,Phoenix Suns,free throw,,,,,,,1,,2,Morris,1,,foul,made,,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=299
 ,,,,,,,,,,3,5.45,Phoenix Suns,free throw,,,,,,,2,,2,Morris,1,,foul,made,,,,,65-58,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=301
 ,,,,,,,,,,3,5.25,Miami Heat,shot,James,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,68-58,24,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=303
-,,,,,,,,,,3,5.10,Phoenix Suns,turnover,,,,,,,,,,Beasley Poss,,,Lost Ball,,,,,,68-58,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=331
+,,,,,,,,,,3,5.10,Phoenix Suns,turnover,,,,,,,,,,Beasley Poss,,,Lost Ball,,Haslem,,,,68-58,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=331
 ,,,,,,,,,,3,4.56,Miami Heat,shot,Cole,,,,,,,,,Haslem,2,,,made,,Jump Shot,,,70-58,15,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=332
 ,,,,,,,,,,3,4.38,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Traveling,,,,,,70-58,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=337
 ,,,,,,,,,,3,4.38,Phoenix Suns,substitute,,,,Tucker,,Beasley,,,,,,,,,,,,,70-58,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=475
@@ -266,12 +266,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.49,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,70-60,25,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=372
 ,,,,,,,,,,3,3.46,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,70-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=375
 ,,,,,,,,,,3,3.42,Miami Heat,shot,Miller,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,73-60,26,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=380
-,,,,,,,,,,3,3.21,Phoenix Suns,turnover,,,,,,,,,,Dragic Poss,,,Lost Ball,,,,,,73-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=387
+,,,,,,,,,,3,3.21,Phoenix Suns,turnover,,,,,,,,,,Dragic Poss,,,Lost Ball,,James,,,,73-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=387
 ,,,,,,,,,,3,3.17,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Personal Take,,,73-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=391
 ,,,,,,,,,,3,3.17,Miami Heat,substitute,,,,Lewis,,James,,,,,,,,,,,,,73-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=400
 ,,,,,,,,,,3,3.17,Phoenix Suns,substitute,,,,Telfair,,Dragic,,,,,,,,,,,,,73-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=401
-,,,,,,,,,,3,3.06,Miami Heat,turnover,,,,,,,,,,Lewis Poss,,,Lost Ball,,,,,,73-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=402
-,,,,,,,,,,3,2.59,Phoenix Suns,turnover,,,,,,,,,,Brown Poss,,,Lost Ball,,,,,,73-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=407
+,,,,,,,,,,3,3.06,Miami Heat,turnover,,,,,,,,,,Lewis Poss,,,Lost Ball,,Morris,,,,73-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=402
+,,,,,,,,,,3,2.59,Phoenix Suns,turnover,,,,,,,,,,Brown Poss,,,Lost Ball,,Cole,,,,73-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=407
 ,,,,,,,,,,3,2.53,Miami Heat,shot,,,,,,,,,,Cole,2,,,made,,Dunk,,,75-60,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=410
 ,,,,,,,,,,3,2.35,Phoenix Suns,shot,Brown,,,,,,,,,Morris,2,,,made,,Layup,,,75-62,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=415
 ,,,,,,,,,,3,2.25,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,75-62,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=423
@@ -286,14 +286,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.08,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,3PT Jump Shot,,,75-65,25,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=312
 ,,,,,,,,,,3,1.06,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=314
 ,,,,,,,,,,3,1.06,Phoenix Suns,shot,,,,,,,,,,Morris,2,,,made,,Putback Layup,,,75-67,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=313
-,,,,,,,,,,3,0.46,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=315
+,,,,,,,,,,3,0.46,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,Morris,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=315
 ,,,,,,,,,,3,0.40,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Layup,,,75-67,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=316
 ,,,,,,,,,,3,0.37,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=317
-,,,,,,,,,,3,0.33,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=318
+,,,,,,,,,,3,0.33,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,O'Neal,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=318
 ,,,,,,,,,,3,0.29,Miami Heat,foul,,,,,,,,,,Allen,,,,,,Personal,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=319
 ,,,,,,,,,,3,0.29,Phoenix Suns,free throw,,,,,,,1,,2,Brown,1,,foul,made,,,,,75-68,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=320
 ,,,,,,,,,,3,0.29,Phoenix Suns,free throw,,,,,,,2,,2,Brown,1,,foul,made,,,,,75-69,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=322
-,,,,,,,,,,3,0.14,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,,,,,75-69,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=324
+,,,,,,,,,,3,0.14,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,Telfair,,,,75-69,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=324
 ,,,,,,,,,,3,0.10,Miami Heat,foul,,,,,,,,,,Cole,,,,,,Shooting,,,75-69,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=325
 ,,,,,,,,,,3,0.10,Phoenix Suns,free throw,,,,,,,1,,2,Telfair,1,,foul,made,,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=326
 ,,,,,,,,,,3,0.10,Phoenix Suns,free throw,,,,,,,2,,2,Telfair,1,,foul,made,,,,,75-71,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=328
@@ -339,7 +339,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.13,Miami Heat,substitute,,,,Battier,,Haslem,,,,,,,,,,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=390
 ,,,,,,,,,,4,6.56,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,81-79,11,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=392
 ,,,,,,,,,,4,6.53,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=393
-,,,,,,,,,,4,6.47,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Bad Pass,,,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=394
+,,,,,,,,,,4,6.47,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Bad Pass,,Chalmers,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=394
 ,,,,,,,,,,4,6.42,Miami Heat,shot,Bosh,,,,,,,,,James,2,,,made,,Layup,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=395
 ,,,,,,,,,,4,6.17,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,83-79,16,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=396
 ,,,,,,,,,,4,6.15,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=397
@@ -348,14 +348,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.53,Phoenix Suns,substitute,,,,Beasley,,Morris,,,,,,,,,,,,,86-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=404
 ,,,,,,,,,,4,5.53,Phoenix Suns,substitute,,,,Gortat,,O'Neal,,,,,,,,,,,,,86-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=405
 ,,,,,,,,,,4,5.53,Phoenix Suns,substitute,,,,Dragic,,Brown,,,,,,,,,,,,,86-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=406
-,,,,,,,,,,4,5.33,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,86-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=408
+,,,,,,,,,,4,5.33,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,James,,,,86-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=408
 ,,,,,,,,,,4,5.29,Miami Heat,shot,Chalmers,,,,,,,,,James,2,,,made,,Reverse Dunk,,,88-79,1,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=409
 ,,,,,,,,,,4,5.09,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Shooting,,,88-79,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=411
 ,,,,,,,,,,4,5.09,Phoenix Suns,free throw,,,,,,,1,,2,Tucker,1,,foul,made,,,,,88-80,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=412
 ,,,,,,,,,,4,5.09,Phoenix Suns,free throw,,,,,,,2,,2,Tucker,1,,foul,made,,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=414
 ,,,,,,,,,,4,4.44,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,88-81,24,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=417
 ,,,,,,,,,,4,4.42,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=418
-,,,,,,,,,,4,4.36,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Layup,,,88-81,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=419
+,,,,,,,,,,4,4.36,Phoenix Suns,shot,,,Battier,,,,,,,Telfair,,,,missed,,Layup,,,88-81,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=419
 ,,,,,,,,,,4,4.34,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=420
 ,,,,,,,,,,4,4.31,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Layup,,,88-81,2,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=421
 ,,,,,,,,,,4,4.29,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=422
@@ -369,7 +369,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.01,Phoenix Suns,shot,Dragic,,,,,,,,,Telfair,3,,,made,,3PT Jump Shot,,,90-86,24,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=433
 ,,,,,,,,,,4,2.33,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,90-86,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=435
 ,,,,,,,,,,4,2.32,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,90-86,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=436
-,,,,,,,,,,4,2.15,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,90-86,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=437
+,,,,,,,,,,4,2.15,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Dragic,,,,90-86,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=437
 ,,,,,,,,,,4,2.11,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Reverse Layup,,,90-88,1,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=438
 ,,,,,,,,,,4,2.10,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,90-88,,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=439
 ,,,,,,,,,,4,2.03,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,90-88,23,http://stats.nba.com/cvp.html?GameID=0021200138&GameEventID=446

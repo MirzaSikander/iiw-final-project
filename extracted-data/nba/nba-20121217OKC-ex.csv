@@ -2,7 +2,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.39,San Antonio Spurs,shot,Green,,,,,,,,,Duncan,2,,,made,,Floating Jump Shot,,,2-0,5,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=3
 ,,,,,,,,,,1,11.25,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Pullup Jump Shot,,,2-0,15,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=4
 ,,,,,,,,,,1,11.25,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=5
-,,,,,,,,,,1,11.11,San Antonio Spurs,turnover,,,,,,,,,,Neal,,,Bad Pass,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=6
+,,,,,,,,,,1,11.11,San Antonio Spurs,turnover,,,,,,,,,,Neal,,,Bad Pass,,Westbrook,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=6
 ,,,,,,,,,,1,11.07,San Antonio Spurs,foul,,,,,,,,,,Neal,,,,,,Shooting,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=7
 ,,,,,,,,,,1,11.07,Oklahoma City Thunder,free throw,,,,,,,1,,2,Westbrook,1,,foul,made,,,,,2-1,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=8
 ,,,,,,,,,,1,11.07,Oklahoma City Thunder,free throw,,,,,,,2,,2,Westbrook,1,,foul,made,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=10
@@ -33,7 +33,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.00,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,12-9,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=39
 ,,,,,,,,,,1,8.00,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,12-10,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=41
 ,,,,,,,,,,1,7.47,San Antonio Spurs,shot,Parker,,,,,,,,,Splitter,2,,,made,,Dunk,,,14-10,1,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=43
-,,,,,,,,,,1,7.34,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,Turnaround Jump Shot,,,14-10,4,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=44
+,,,,,,,,,,1,7.34,Oklahoma City Thunder,shot,,,Splitter,,,,,,,Sefolosha,,,,missed,,Turnaround Jump Shot,,,14-10,4,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=44
 ,,,,,,,,,,1,7.32,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=45
 ,,,,,,,,,,1,7.28,San Antonio Spurs,shot,Green,,,,,,,,,Duncan,2,,,made,,Layup,,,16-10,1,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=46
 ,,,,,,,,,,1,7.15,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Ibaka,2,,,made,,Jump Shot,,,16-12,19,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=47
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.23,Oklahoma City Thunder,shot,Durant,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=83
 ,,,,,,,,,,1,3.05,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,23-25,25,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=84
 ,,,,,,,,,,1,3.04,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=85
-,,,,,,,,,,1,2.41,San Antonio Spurs,shot,,,,,,,,,,Diaw,,,,missed,,Jump Shot,,,23-25,18,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=86
+,,,,,,,,,,1,2.41,San Antonio Spurs,shot,,,Ibaka,,,,,,,Diaw,,,,missed,,Jump Shot,,,23-25,18,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=86
 ,,,,,,,,,,1,2.36,San Antonio Spurs,rebound,,,,,,,,,,Neal,,,,,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=87
 ,,,,,,,,,,1,2.36,San Antonio Spurs,turnover,,,,,,,,,,,,,Shot Clock,,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=94
 ,,,,,,,,,,1,2.17,Oklahoma City Thunder,foul,,,,,,,,,,,,,,,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=89
@@ -82,7 +82,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.42,Oklahoma City Thunder,shot,Maynor,,,,,,,,,Ibaka,2,,,made,,Jump Shot,,,23-27,19,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=104
 ,,,,,,,,,,1,1.25,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Step Out of Bounds,,,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=105
 ,,,,,,,,,,1,1.25,San Antonio Spurs,substitute,,,,Green,,Parker,,,,,,,,,,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=106
-,,,,,,,,,,1,1.15,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Lost Ball,,,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=107
+,,,,,,,,,,1,1.15,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Lost Ball,,Diaw,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=107
 ,,,,,,,,,,1,0.53,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,Turnaround Jump Shot,,,23-27,10,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=109
 ,,,,,,,,,,1,0.52,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=110
 ,,,,,,,,,,1,0.36,Oklahoma City Thunder,shot,,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,23-30,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=111
@@ -98,20 +98,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.32,Oklahoma City Thunder,rebound,,,,,,,,,,Martin,,,,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=126
 ,,,,,,,,,,2,11.18,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,26-33,24,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=127
 ,,,,,,,,,,2,11.16,San Antonio Spurs,rebound,,,,,,,,,,De Colo,,,,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=128
-,,,,,,,,,,2,11.03,San Antonio Spurs,turnover,,,,,,,,,,Anderson,,,Lost Ball,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=129
+,,,,,,,,,,2,11.03,San Antonio Spurs,turnover,,,,,,,,,,Anderson,,,Lost Ball,,Sefolosha,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=129
 ,,,,,,,,,,2,10.41,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=130
 ,,,,,,,,,,2,10.40,San Antonio Spurs,rebound,,,,,,,,,,De Colo,,,,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=131
 ,,,,,,,,,,2,10.35,San Antonio Spurs,shot,De Colo,,,,,,,,,Green,2,,,made,,Jump Shot,,,28-33,11,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=132
 ,,,,,,,,,,2,10.14,Oklahoma City Thunder,substitute,,,,Durant,,Sefolosha,,,,,,,,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=134
 ,,,,,,,,,,2,10.14,San Antonio Spurs,substitute,,,,Jackson,,Green,,,,,,,,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=135
-,,,,,,,,,,2,10.08,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Bad Pass,,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=136
+,,,,,,,,,,2,10.08,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Bad Pass,,Colo,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=136
 ,,,,,,,,,,2,10.05,San Antonio Spurs,shot,,,,,,,,,,De Colo,2,,,made,,Dunk,,,30-33,1,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=137
-,,,,,,,,,,2,9.46,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=138
+,,,,,,,,,,2,9.46,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Anderson,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=138
 ,,,,,,,,,,2,9.38,San Antonio Spurs,foul,,,,,,,,,,,,,,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=139
 ,,,,,,,,,,2,9.38,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Foul,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=140
 ,,,,,,,,,,2,9.38,Oklahoma City Thunder,substitute,,,,Westbrook,,Maynor,,,,,,,,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=141
-,,,,,,,,,,2,9.17,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=142
-,,,,,,,,,,2,9.13,San Antonio Spurs,shot,,,,,,,,,,Anderson,,,,missed,,Layup,,,30-33,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=143
+,,,,,,,,,,2,9.17,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,Splitter,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=142
+,,,,,,,,,,2,9.13,San Antonio Spurs,shot,,,Durant,,,,,,,Anderson,,,,missed,,Layup,,,30-33,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=143
 ,,,,,,,,,,2,9.10,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=144
 ,,,,,,,,,,2,9.06,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Pullup Jump Shot,,,30-33,14,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=145
 ,,,,,,,,,,2,9.05,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=146
@@ -129,7 +129,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.09,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Pullup Jump Shot,,,32-35,13,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=161
 ,,,,,,,,,,2,7.55,San Antonio Spurs,shot,Splitter,,,,,,,,,De Colo,2,,,made,,Layup,,,34-35,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=162
 ,,,,,,,,,,2,7.41,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Martin,2,,,made,,Layup,,,34-37,1,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=163
-,,,,,,,,,,2,7.20,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Bad Pass,,,,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=164
+,,,,,,,,,,2,7.20,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Bad Pass,,Durant,,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=164
 ,,,,,,,,,,2,7.17,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Reverse Layup,,,34-39,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=165
 ,,,,,,,,,,2,7.00,San Antonio Spurs,shot,De Colo,,,,,,,,,Splitter,2,,,made,,Turnaround Jump Shot,,,36-39,3,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=166
 ,,,,,,,,,,2,6.46,Oklahoma City Thunder,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,36-39,19,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=167
@@ -148,7 +148,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.46,San Antonio Spurs,substitute,,,,Duncan,,Bonner,,,,,,,,,,,,,41-40,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=182
 ,,,,,,,,,,2,5.46,Oklahoma City Thunder,free throw,,,,,,,2,,2,Westbrook,,,foul,missed,,,,,41-40,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=183
 ,,,,,,,,,,2,5.45,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,41-40,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=185
-,,,,,,,,,,2,5.44,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Layup,,,41-40,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=186
+,,,,,,,,,,2,5.44,Oklahoma City Thunder,shot,,,Splitter,,,,,,,Westbrook,,,,missed,,Layup,,,41-40,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=186
 ,,,,,,,,,,2,5.42,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,41-40,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=187
 ,,,,,,,,,,2,5.38,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Floating Jump Shot,,,41-40,4,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=188
 ,,,,,,,,,,2,5.36,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,41-40,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=189
@@ -217,7 +217,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.39,Oklahoma City Thunder,foul,,,,,,,,,,Perkins,,,,,,Personal,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=263
 ,,,,,,,,,,3,8.27,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Jump Shot,,,56-60,19,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=264
 ,,,,,,,,,,3,8.10,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Layup,,,56-62,1,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=265
-,,,,,,,,,,3,8.02,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Driving Layup,,,56-62,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=266
+,,,,,,,,,,3,8.02,San Antonio Spurs,shot,,,Ibaka,,,,,,,Parker,,,,missed,,Driving Layup,,,56-62,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=266
 ,,,,,,,,,,3,8.00,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,56-62,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=267
 ,,,,,,,,,,3,7.47,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,56-62,9,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=268
 ,,,,,,,,,,3,7.47,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,56-62,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=269
@@ -227,36 +227,36 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.22,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Shot,,,56-62,18,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=273
 ,,,,,,,,,,3,7.19,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,56-62,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=275
 ,,,,,,,,,,3,7.19,San Antonio Spurs,turnover,,,,,,,,,,Splitter,,,Traveling,,,,,,56-62,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=274
-,,,,,,,,,,3,7.09,Oklahoma City Thunder,shot,,,,,,,,,,Collison,,,,missed,,Dunk,,,56-62,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=276
+,,,,,,,,,,3,7.09,Oklahoma City Thunder,shot,,,Duncan,,,,,,,Collison,,,,missed,,Dunk,,,56-62,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=276
 ,,,,,,,,,,3,7.07,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,56-62,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=277
 ,,,,,,,,,,3,7.04,Oklahoma City Thunder,shot,,,,,,,,,,Collison,2,,,made,,Jump Shot,,,56-64,13,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=278
 ,,,,,,,,,,3,7.00,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=279
 ,,,,,,,,,,3,7.00,Oklahoma City Thunder,free throw,,,,,,,,,,Durant,1,,Technical,made,,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=283
-,,,,,,,,,,3,6.44,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=285
+,,,,,,,,,,3,6.44,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,Westbrook,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=285
 ,,,,,,,,,,3,6.35,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,56-65,25,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=286
 ,,,,,,,,,,3,6.34,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=287
 ,,,,,,,,,,3,6.33,San Antonio Spurs,foul,,,,,,,,,,Duncan,,,,,,Shooting,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=288
 ,,,,,,,,,,3,6.33,Oklahoma City Thunder,free throw,,,,,,,1,,2,Ibaka,1,,foul,made,,,,,56-66,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=289
 ,,,,,,,,,,3,6.33,Oklahoma City Thunder,free throw,,,,,,,2,,2,Ibaka,1,,foul,made,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=291
-,,,,,,,,,,3,6.13,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,56-67,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=293
+,,,,,,,,,,3,6.13,San Antonio Spurs,shot,,,Ibaka,,,,,,,Duncan,,,,missed,,Layup,,,56-67,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=293
 ,,,,,,,,,,3,6.12,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=294
 ,,,,,,,,,,3,6.01,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=295
 ,,,,,,,,,,3,5.59,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=296
 ,,,,,,,,,,3,5.59,San Antonio Spurs,substitute,,,,Jackson,,Green,,,,,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=297
 ,,,,,,,,,,3,5.59,San Antonio Spurs,substitute,,,,Diaw,,Splitter,,,,,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=298
-,,,,,,,,,,3,5.53,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=299
+,,,,,,,,,,3,5.53,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Duncan,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=299
 ,,,,,,,,,,3,5.36,San Antonio Spurs,shot,,,,,,,,,,Diaw,,,,missed,,Jump Shot,,,56-67,18,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=300
 ,,,,,,,,,,3,5.35,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=301
 ,,,,,,,,,,3,5.27,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Pullup Jump Shot,,,56-67,17,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=302
 ,,,,,,,,,,3,5.26,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=303
-,,,,,,,,,,3,5.18,San Antonio Spurs,turnover,,,,,,,,,,Neal,,,Bad Pass,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=304
+,,,,,,,,,,3,5.18,San Antonio Spurs,turnover,,,,,,,,,,Neal,,,Bad Pass,,Westbrook,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=304
 ,,,,,,,,,,3,5.12,San Antonio Spurs,foul,,,,,,,,,,Neal,,,,,,Shooting,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=305
 ,,,,,,,,,,3,5.12,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,56-68,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=306
 ,,,,,,,,,,3,5.12,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=308
 ,,,,,,,,,,3,4.54,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,3PT Jump Shot,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=310
 ,,,,,,,,,,3,4.54,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=311
-,,,,,,,,,,3,4.43,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=312
-,,,,,,,,,,3,4.39,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Reverse Layup,,,56-69,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=313
+,,,,,,,,,,3,4.43,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Diaw,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=312
+,,,,,,,,,,3,4.39,San Antonio Spurs,shot,,,Durant,,,,,,,Parker,,,,missed,,Reverse Layup,,,56-69,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=313
 ,,,,,,,,,,3,4.37,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=314
 ,,,,,,,,,,3,4.31,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,Jump Shot,,,56-69,22,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=315
 ,,,,,,,,,,3,4.29,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=316
@@ -268,7 +268,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.06,San Antonio Spurs,free throw,,,,,,,2,,2,Parker,1,,foul,made,,,,,57-71,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=322
 ,,,,,,,,,,3,3.56,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,3PT Step Back Jump Shot,,,57-71,25,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=324
 ,,,,,,,,,,3,3.55,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,57-71,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=325
-,,,,,,,,,,3,3.42,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,3PT Jump Shot,,,57-71,25,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=326
+,,,,,,,,,,3,3.42,San Antonio Spurs,shot,,,Durant,,,,,,,Neal,,,,missed,,3PT Jump Shot,,,57-71,25,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=326
 ,,,,,,,,,,3,3.40,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,57-71,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=327
 ,,,,,,,,,,3,3.39,Oklahoma City Thunder,foul,,,,,,,,,,Collison,,,,,,Shooting,,,57-71,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=328
 ,,,,,,,,,,3,3.39,San Antonio Spurs,free throw,,,,,,,1,,2,Duncan,1,,foul,made,,,,,58-71,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=329
@@ -285,7 +285,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.19,Oklahoma City Thunder,substitute,,,,Sefolosha,,Durant,,,,,,,,,,,,,59-73,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=345
 ,,,,,,,,,,3,3.19,San Antonio Spurs,free throw,,,,,,,2,,2,Diaw,1,,foul,made,,,,,60-73,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=346
 ,,,,,,,,,,3,3.07,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Driving Layup,,,60-75,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=348
-,,,,,,,,,,3,2.50,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,Fadeaway Jumper,,,60-75,9,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=349
+,,,,,,,,,,3,2.50,San Antonio Spurs,shot,,,Sefolosha,,,,,,,Neal,,,,missed,,Fadeaway Jumper,,,60-75,9,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=349
 ,,,,,,,,,,3,2.49,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,60-75,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=350
 ,,,,,,,,,,3,2.36,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,Step Back Jump Shot,,,60-75,22,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=351
 ,,,,,,,,,,3,2.35,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,60-75,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=352
@@ -296,10 +296,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.30,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,60-75,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=357
 ,,,,,,,,,,3,2.30,Oklahoma City Thunder,free throw,,,,,,,2,,2,Ibaka,1,,foul,made,,,,,60-76,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=358
 ,,,,,,,,,,3,2.11,San Antonio Spurs,turnover,,,,,,,,,,Jackson Poss,,,Lost Ball,,,,,,60-76,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=360
-,,,,,,,,,,3,2.05,Oklahoma City Thunder,shot,,,,,,,,,,Collison,,,,missed,,Layup,,,60-76,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=362
+,,,,,,,,,,3,2.05,Oklahoma City Thunder,shot,,,Diaw,,,,,,,Collison,,,,missed,,Layup,,,60-76,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=362
 ,,,,,,,,,,3,2.02,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,60-76,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=363
-,,,,,,,,,,3,1.46,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,,,,,60-76,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=364
-,,,,,,,,,,3,1.35,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,,,,,60-76,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=365
+,,,,,,,,,,3,1.46,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,Sefolosha,,,,60-76,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=364
+,,,,,,,,,,3,1.35,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,Neal,,,,60-76,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=365
 ,,,,,,,,,,3,1.29,San Antonio Spurs,shot,,,,,,,,,,De Colo,2,,,made,,Pullup Jump Shot,,,62-76,18,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=366
 ,,,,,,,,,,3,1.17,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Pullup Jump Shot,,,62-78,18,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=367
 ,,,,,,,,,,3,0.54,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,Jump Shot,,,62-78,9,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=369
@@ -308,7 +308,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.35,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Driving Jump Shot,,,64-78,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=372
 ,,,,,,,,,,3,0.35,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,64-78,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=374
 ,,,,,,,,,,3,0.35,Oklahoma City Thunder,shot,,,,,,,,,,Collison,2,,,made,,Tip Shot,,,64-80,1,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=373
-,,,,,,,,,,3,0.26,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,,,,,64-80,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=375
+,,,,,,,,,,3,0.26,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,Collison,,,,64-80,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=375
 ,,,,,,,,,,3,0.23,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Sefolosha,2,,,made,,Slam Dunk,,,64-82,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=376
 ,,,,,,,,,,3,0.02,San Antonio Spurs,shot,,,,,,,,,,Diaw,,,,missed,,Running Hook Shot,,,64-82,5,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=378
 ,,,,,,,,,,3,0.00,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,64-82,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=379
@@ -372,9 +372,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.35,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Layup,,,78-93,2,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=452
 ,,,,,,,,,,4,6.34,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,78-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=453
 ,,,,,,,,,,4,6.18,San Antonio Spurs,shot,,,,,,,,,,Bonner,2,,,made,,Jump Shot,,,80-93,23,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=454
-,,,,,,,,,,4,5.55,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,80-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=460
+,,,,,,,,,,4,5.55,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Blair,,,,80-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=460
 ,,,,,,,,,,4,5.51,San Antonio Spurs,shot,,,,,,,,,,De Colo,2,,,made,,Layup,,,82-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=461
-,,,,,,,,,,4,5.32,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Bad Pass,,,,,,82-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=462
+,,,,,,,,,,4,5.32,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Bad Pass,,Anderson,,,,82-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=462
 ,,,,,,,,,,4,5.29,San Antonio Spurs,shot,,,,,,,,,,Anderson,2,,,made,,Dunk,,,84-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=463
 ,,,,,,,,,,4,5.12,Oklahoma City Thunder,foul,,,,,,,,,,Collison,,,,,,Offensive Charge,,,84-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=464
 ,,,,,,,,,,4,5.12,Oklahoma City Thunder,turnover,,,,,,,,,,Collison,,,Foul,,,,,,84-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=465
@@ -385,7 +385,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.31,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,84-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=471
 ,,,,,,,,,,4,4.19,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Turnaround Jump Shot,,,84-93,3,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=472
 ,,,,,,,,,,4,4.18,San Antonio Spurs,rebound,,,,,,,,,,Bonner,,,,,,,,,84-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=473
-,,,,,,,,,,4,4.11,San Antonio Spurs,turnover,,,,,,,,,,Anderson,,,Lost Ball,,,,,,84-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=474
+,,,,,,,,,,4,4.11,San Antonio Spurs,turnover,,,,,,,,,,Anderson,,,Lost Ball,,Collison,,,,84-93,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=474
 ,,,,,,,,,,4,3.56,Oklahoma City Thunder,shot,Ibaka,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,84-96,24,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=475
 ,,,,,,,,,,4,3.42,San Antonio Spurs,shot,Bonner,,,,,,,,,Anderson,2,,,made,,Layup,,,86-96,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=476
 ,,,,,,,,,,4,3.26,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,86-96,19,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=477
@@ -408,7 +408,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.45,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,88-103,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=502
 ,,,,,,,,,,4,1.33,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,88-103,10,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=503
 ,,,,,,,,,,4,1.32,San Antonio Spurs,rebound,,,,,,,,,,Bonner,,,,,,,,,88-103,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=504
-,,,,,,,,,,4,1.23,San Antonio Spurs,turnover,,,,,,,,,,Anderson,,,Lost Ball,,,,,,88-103,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=505
+,,,,,,,,,,4,1.23,San Antonio Spurs,turnover,,,,,,,,,,Anderson,,,Lost Ball,,Perkins,,,,88-103,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=505
 ,,,,,,,,,,4,1.19,Oklahoma City Thunder,shot,Perkins,,,,,,,,,Durant,2,,,made,,Dunk,,,88-105,1,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=506
 ,,,,,,,,,,4,1.16,Oklahoma City Thunder,foul,,,,,,,,,,Martin,,,,,,Personal Take,,,88-105,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=507
 ,,,,,,,,,,4,1.16,San Antonio Spurs,free throw,,,,,,,1,,2,De Colo,1,,foul,made,,,,,89-105,,http://stats.nba.com/cvp.html?GameID=0021200354&GameEventID=508

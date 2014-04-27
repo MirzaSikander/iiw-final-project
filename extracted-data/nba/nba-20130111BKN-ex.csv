@@ -12,7 +12,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.51,Brooklyn Nets,shot,D. Williams,,,,,,,,,Evans,2,,,made,,Dunk,,,0-5,2,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=12
 ,,,,,,,,,,1,9.37,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,0-5,13,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=13
 ,,,,,,,,,,1,9.36,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=14
-,,,,,,,,,,1,9.29,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Lost Ball,,,,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=15
+,,,,,,,,,,1,9.29,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Lost Ball,,Tucker,,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=15
 ,,,,,,,,,,1,9.23,Phoenix Suns,shot,Tucker,,,,,,,,,Dragic,2,,,made,,Layup,,,2-5,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=16
 ,,,,,,,,,,1,9.06,Brooklyn Nets,shot,Johnson,,,,,,,,,D. Williams,3,,,made,,3PT Jump Shot,,,2-8,24,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=17
 ,,,,,,,,,,1,8.57,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,2-8,24,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=18
@@ -21,7 +21,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.40,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=22
 ,,,,,,,,,,1,8.29,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,2-8,19,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=23
 ,,,,,,,,,,1,8.28,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=24
-,,,,,,,,,,1,8.20,Brooklyn Nets,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,2-8,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=25
+,,,,,,,,,,1,8.20,Brooklyn Nets,shot,,,Scola,,,,,,,Evans,,,,missed,,Layup,,,2-8,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=25
 ,,,,,,,,,,1,8.18,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=26
 ,,,,,,,,,,1,8.05,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,2-8,19,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=27
 ,,,,,,,,,,1,8.04,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=28
@@ -49,7 +49,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.56,Phoenix Suns,shot,Dragic,,,,,,,,,Dudley,3,,,made,,3PT Jump Shot,,,12-13,24,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=52
 ,,,,,,,,,,1,4.38,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,3PT Jump Shot,,,12-13,24,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=53
 ,,,,,,,,,,1,4.37,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=54
-,,,,,,,,,,1,4.33,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=55
+,,,,,,,,,,1,4.33,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Williams,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=55
 ,,,,,,,,,,1,4.32,Phoenix Suns,foul,,,,,,,,,,Dragic,,,,,,Personal,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=56
 ,,,,,,,,,,1,4.32,Brooklyn Nets,substitute,,,,Blatche,,Lopez,,,,,,,,,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=57
 ,,,,,,,,,,1,4.11,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Jump Shot,,,12-13,11,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=58
@@ -83,7 +83,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.23,Phoenix Suns,shot,Morris,,,,,,,,,Brown,2,,,made,,Hook Shot,,,25-21,4,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=91
 ,,,,,,,,,,1,0.01,Brooklyn Nets,shot,,,,,,,,,,Brooks,,,,missed,,Jump Shot,,,25-21,18,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=92
 ,,,,,,,,,,1,0.00,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=93
-,,,,,,,,,,2,11.45,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,,,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=97
+,,,,,,,,,,2,11.45,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,Johnson,,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=97
 ,,,,,,,,,,2,11.39,Brooklyn Nets,shot,,,,,,,,,,Johnson,2,,,made,,Jump Shot,,,25-23,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=98
 ,,,,,,,,,,2,11.20,Phoenix Suns,turnover,,,,,,,,,,O'Neal Out of Bounds,,,Lost Ball,,,,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=99
 ,,,,,,,,,,2,10.56,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Bank Shot,,,25-23,6,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=100
@@ -120,9 +120,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.42,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,30-28,18,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=132
 ,,,,,,,,,,2,7.41,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=133
 ,,,,,,,,,,2,7.41,Brooklyn Nets,foul,,,,,,,,,,Lopez,,,,,,Loose ball,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=134
-,,,,,,,,,,2,7.37,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Lost Ball,,,,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=135
+,,,,,,,,,,2,7.37,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Lost Ball,,Blatche,,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=135
 ,,,,,,,,,,2,7.35,Phoenix Suns,foul,,,,,,,,,,Brown,,,,,,Personal,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=136
-,,,,,,,,,,2,7.28,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,30-28,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=137
+,,,,,,,,,,2,7.28,Brooklyn Nets,shot,,,Tucker,,,,,,,Johnson,,,,missed,,Jump Shot,,,30-28,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=137
 ,,,,,,,,,,2,7.27,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=138
 ,,,,,,,,,,2,7.27,Brooklyn Nets,foul,,,,,,,,,,Lopez,,,,,,Loose ball,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=139
 ,,,,,,,,,,2,7.11,Phoenix Suns,shot,Brown,,,,,,,,,O'Neal,2,,,made,,Jump Shot,,,32-28,12,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=140
@@ -132,7 +132,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.30,Brooklyn Nets,substitute,,,,Evans,,Blatche,,,,,,,,,,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=144
 ,,,,,,,,,,2,6.30,Brooklyn Nets,substitute,,,,D. Williams,,Bogans,,,,,,,,,,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=145
 ,,,,,,,,,,2,6.22,Phoenix Suns,shot,Telfair,,,,,,,,,Brown,2,,,made,,Jump Shot,,,34-30,21,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=146
-,,,,,,,,,,2,6.12,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=147
+,,,,,,,,,,2,6.12,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,Brown,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=147
 ,,,,,,,,,,2,6.08,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Slam Dunk,,,36-30,2,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=148
 ,,,,,,,,,,2,6.08,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,36-30,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=149
 ,,,,,,,,,,2,5.49,Phoenix Suns,foul,,,,,,,,,,Telfair,,,,,,Shooting,,,36-30,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=151
@@ -149,7 +149,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.46,Brooklyn Nets,shot,Johnson,,,,,,,,,D. Williams,3,,,made,,3PT Jump Shot,,,38-37,24,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=166
 ,,,,,,,,,,2,4.30,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,3PT Jump Shot,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=167
 ,,,,,,,,,,2,4.28,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=168
-,,,,,,,,,,2,4.23,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=169
+,,,,,,,,,,2,4.23,Brooklyn Nets,turnover,,,,,,,,,,D. Williams,,,Bad Pass,,Brown,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=169
 ,,,,,,,,,,2,4.16,Brooklyn Nets,foul,,,,,,,,,,D. Williams,,,,,,Shooting,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=170
 ,,,,,,,,,,2,4.16,Phoenix Suns,free throw,,,,,,,1,,2,Brown,1,,foul,made,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=171
 ,,,,,,,,,,2,4.16,Phoenix Suns,substitute,,,,Gortat,,O'Neal,,,,,,,,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=173
@@ -157,7 +157,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.16,Phoenix Suns,free throw,,,,,,,2,,2,Brown,1,,foul,made,,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=175
 ,,,,,,,,,,2,4.01,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Traveling,,,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=177
 ,,,,,,,,,,2,4.01,Phoenix Suns,substitute,,,,Dudley,,Tucker,,,,,,,,,,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=178
-,,,,,,,,,,2,3.47,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=179
+,,,,,,,,,,2,3.47,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Watson,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=179
 ,,,,,,,,,,2,3.43,Phoenix Suns,foul,,,,,,,,,,Telfair,,,,,,Shooting,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=180
 ,,,,,,,,,,2,3.43,Brooklyn Nets,free throw,,,,,,,1,,2,Evans,,,foul,missed,,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=181
 ,,,,,,,,,,2,3.43,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,40-37,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=182
@@ -183,7 +183,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.14,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,48-41,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=208
 ,,,,,,,,,,2,2.14,Brooklyn Nets,free throw,,,,,,,2,,2,Evans,1,,foul,made,,,,,48-42,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=209
 ,,,,,,,,,,2,1.49,Phoenix Suns,shot,Dudley,,,,,,,,,Dragic,2,,,made,,Floating Jump Shot,,,50-42,7,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=211
-,,,,,,,,,,2,1.24,Brooklyn Nets,turnover,,,,,,,,,,Watson,,,Bad Pass,,,,,,50-42,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=212
+,,,,,,,,,,2,1.24,Brooklyn Nets,turnover,,,,,,,,,,Watson,,,Bad Pass,,Dragic,,,,50-42,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=212
 ,,,,,,,,,,2,1.21,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Layup,,,52-42,1,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=213
 ,,,,,,,,,,2,1.21,Brooklyn Nets,foul,,,,,,,,,,D. Williams,,,,,,Shooting,,,52-42,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=214
 ,,,,,,,,,,2,1.21,Phoenix Suns,free throw,,,,,,,1,,1,Dragic,1,,foul,made,,,,,53-42,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=215
@@ -255,11 +255,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.05,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,60-56,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=293
 ,,,,,,,,,,3,5.48,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Turnaround Fadeaway Shot,,,60-56,11,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=294
 ,,,,,,,,,,3,5.47,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,60-56,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=295
-,,,,,,,,,,3,5.38,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,,,,,60-56,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=296
+,,,,,,,,,,3,5.38,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,Evans,,,,60-56,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=296
 ,,,,,,,,,,3,5.26,Brooklyn Nets,turnover,,,,,,,,,,Evans,,,Traveling,,,,,,60-56,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=297
 ,,,,,,,,,,3,5.26,Brooklyn Nets,substitute,,,,Blatche,,Lopez,,,,,,,,,,,,,60-56,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=298
 ,,,,,,,,,,3,5.26,Brooklyn Nets,substitute,,,,Watson,,D. Williams,,,,,,,,,,,,,60-56,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=299
-,,,,,,,,,,3,5.06,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Bad Pass,,,,,,60-56,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=300
+,,,,,,,,,,3,5.06,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Bad Pass,,Watson,,,,60-56,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=300
 ,,,,,,,,,,3,5.00,Brooklyn Nets,shot,Watson,,,,,,,,,Blatche,2,,,made,,Driving Dunk,,,60-58,2,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=301
 ,,,,,,,,,,3,4.45,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,60-58,19,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=302
 ,,,,,,,,,,3,4.44,Brooklyn Nets,rebound,,,,,,,,,,Blatche,,,,,,,,,60-58,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=303
@@ -304,7 +304,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.40,Phoenix Suns,free throw,,,,,,,2,,2,Telfair,,,foul,missed,,,,,64-65,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=346
 ,,,,,,,,,,3,1.39,Brooklyn Nets,rebound,,,,,,,,,,Blatche,,,,,,,,,64-65,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=348
 ,,,,,,,,,,3,1.22,Brooklyn Nets,shot,,,,,,,,,,Blatche,2,,,made,,Driving Layup,,,64-67,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=349
-,,,,,,,,,,3,1.11,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Lost Ball,,,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=350
+,,,,,,,,,,3,1.11,Phoenix Suns,turnover,,,,,,,,,,Telfair,,,Lost Ball,,Lopez,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=350
 ,,,,,,,,,,3,1.09,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Shooting,,,64-67,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=351
 ,,,,,,,,,,3,1.09,Brooklyn Nets,free throw,,,,,,,1,,2,Brooks,1,,foul,made,,,,,64-68,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=352
 ,,,,,,,,,,3,1.09,Brooklyn Nets,free throw,,,,,,,2,,2,Brooks,1,,foul,made,,,,,64-69,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=354
@@ -317,21 +317,21 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.11,Brooklyn Nets,free throw,,,,,,,2,,2,Brooks,1,,foul,made,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=363
 ,,,,,,,,,,3,0.00,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,66-74,19,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=365
 ,,,,,,,,,,3,0.00,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=366
-,,,,,,,,,,4,11.49,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Jump Shot,,,66-74,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=370
+,,,,,,,,,,4,11.49,Brooklyn Nets,shot,,,Morris,,,,,,,Blatche,,,,missed,,Jump Shot,,,66-74,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=370
 ,,,,,,,,,,4,11.46,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=371
-,,,,,,,,,,4,11.45,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=372
-,,,,,,,,,,4,11.41,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Layup,,,66-74,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=373
+,,,,,,,,,,4,11.45,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Williams,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=372
+,,,,,,,,,,4,11.41,Brooklyn Nets,shot,,,Dudley,,,,,,,Blatche,,,,missed,,Layup,,,66-74,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=373
 ,,,,,,,,,,4,11.40,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=374
 ,,,,,,,,,,4,11.20,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Reverse Layup,,,66-74,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=375
 ,,,,,,,,,,4,11.19,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=376
 ,,,,,,,,,,4,11.11,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Shot,,,66-74,20,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=377
 ,,,,,,,,,,4,11.10,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=378
-,,,,,,,,,,4,10.50,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,66-74,5,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=379
+,,,,,,,,,,4,10.50,Phoenix Suns,shot,,,Watson,,,,,,,Brown,,,,missed,,Jump Shot,,,66-74,5,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=379
 ,,,,,,,,,,4,10.48,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=380
 ,,,,,,,,,,4,10.30,Phoenix Suns,foul,,,,,,,,,,O'Neal,,,,,,Personal,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=381
 ,,,,,,,,,,4,10.17,Brooklyn Nets,shot,,,,,,,,,,Lopez,2,,,made,,Jump Shot,,,66-76,6,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=382
 ,,,,,,,,,,4,10.05,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Traveling,,,,,,66-76,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=383
-,,,,,,,,,,4,9.47,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Driving Jump Shot,,,66-76,4,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=384
+,,,,,,,,,,4,9.47,Brooklyn Nets,shot,,,O'Neal,,,,,,,Blatche,,,,missed,,Driving Jump Shot,,,66-76,4,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=384
 ,,,,,,,,,,4,9.45,Brooklyn Nets,rebound,,,,,,,,,,Blatche,,,,,,,,,66-76,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=385
 ,,,,,,,,,,4,9.44,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Traveling,,,,,,66-76,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=386
 ,,,,,,,,,,4,9.20,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Fadeaway Jumper,,,66-76,19,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=387
@@ -378,7 +378,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.03,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,71-88,25,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=435
 ,,,,,,,,,,4,5.02,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=436
 ,,,,,,,,,,4,5.02,Phoenix Suns,substitute,,,,Brown,,Tucker,,,,,,,,,,,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=437
-,,,,,,,,,,4,5.01,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=438
+,,,,,,,,,,4,5.01,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Brooks,,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=438
 ,,,,,,,,,,4,4.54,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Personal,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=439
 ,,,,,,,,,,4,4.42,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Bank Shot,,,71-88,8,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=440
 ,,,,,,,,,,4,4.41,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=441
@@ -391,12 +391,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.22,Brooklyn Nets,free throw,,,,,,,,,,D. Williams,1,,Technical,made,,,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=448
 ,,,,,,,,,,4,4.10,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,73-89,19,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=450
 ,,,,,,,,,,4,4.09,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=451
-,,,,,,,,,,4,4.00,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Reverse Layup,,,73-89,2,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=452
+,,,,,,,,,,4,4.00,Phoenix Suns,shot,,,Lopez,,,,,,,Beasley,,,,missed,,Reverse Layup,,,73-89,2,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=452
 ,,,,,,,,,,4,3.59,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=453
 ,,,,,,,,,,4,3.45,Brooklyn Nets,shot,,,,,,,,,,Brooks,2,,,made,,Driving Layup,,,73-91,3,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=454
 ,,,,,,,,,,4,3.29,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,3PT Jump Shot,,,73-91,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=455
 ,,,,,,,,,,4,3.28,Brooklyn Nets,rebound,,,,,,,,,,Brooks,,,,,,,,,73-91,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=456
-,,,,,,,,,,4,3.12,Brooklyn Nets,turnover,,,,,,,,,,Brooks,,,Lost Ball,,,,,,73-91,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=457
+,,,,,,,,,,4,3.12,Brooklyn Nets,turnover,,,,,,,,,,Brooks,,,Lost Ball,,Brown,,,,73-91,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=457
 ,,,,,,,,,,4,3.08,Brooklyn Nets,foul,,,,,,,,,,Lopez,,,,,,Shooting,,,73-91,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=458
 ,,,,,,,,,,4,3.08,Phoenix Suns,free throw,,,,,,,1,,2,Brown,1,,foul,made,,,,,74-91,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=459
 ,,,,,,,,,,4,3.08,Brooklyn Nets,substitute,,,,Watson,,D. Williams,,,,,,,,,,,,,74-91,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=461
@@ -420,7 +420,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.33,Brooklyn Nets,substitute,,,,Taylor,,Evans,,,,,,,,,,,,,77-93,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=480
 ,,,,,,,,,,4,1.33,Phoenix Suns,substitute,,,,Zeller,,Gortat,,,,,,,,,,,,,77-93,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=481
 ,,,,,,,,,,4,1.28,Brooklyn Nets,shot,,,,,,,,,,Shengelia,2,,,made,,Driving Layup,,,77-95,4,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=482
-,,,,,,,,,,4,1.18,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,,,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=483
+,,,,,,,,,,4,1.18,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,Shengelia,,,,77-95,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=483
 ,,,,,,,,,,4,1.14,Brooklyn Nets,shot,,,,,,,,,,Shengelia,2,,,made,,Layup,,,77-97,2,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=484
 ,,,,,,,,,,4,1.01,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,77-97,5,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=486
 ,,,,,,,,,,4,1.00,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,77-97,,http://stats.nba.com/cvp.html?GameID=0021200532&GameEventID=487

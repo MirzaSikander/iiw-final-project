@@ -2,7 +2,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.45,Dallas Mavericks,foul,,,,,,,,,,Kaman,,,,,,Shooting,,,,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=2
 ,,,,,,,,,,1,11.45,Los Angeles Clippers,free throw,,,,,,,1,,2,Jordan,1,,foul,made,,,,,0-1,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=3
 ,,,,,,,,,,1,11.45,Los Angeles Clippers,free throw,,,,,,,2,,2,Jordan,1,,foul,made,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=5
-,,,,,,,,,,1,11.32,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=7
+,,,,,,,,,,1,11.32,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,Jordan,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=7
 ,,,,,,,,,,1,11.27,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Driving Finger Roll Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=8
 ,,,,,,,,,,1,11.23,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=9
 ,,,,,,,,,,1,11.22,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Double Dribble,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=10
@@ -18,8 +18,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.03,Los Angeles Clippers,shot,Butler,,,,,,,,,Jordan,2,,,made,,Layup,,,2-6,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=20
 ,,,,,,,,,,1,9.40,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,2-6,13,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=21
 ,,,,,,,,,,1,9.39,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=22
-,,,,,,,,,,1,9.37,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=23
-,,,,,,,,,,1,9.32,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=24
+,,,,,,,,,,1,9.37,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Kaman,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=23
+,,,,,,,,,,1,9.32,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Griffin,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=24
 ,,,,,,,,,,1,9.32,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Shooting,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=25
 ,,,,,,,,,,1,9.32,Los Angeles Clippers,free throw,,,,,,,1,,2,Griffin,1,,foul,made,,,,,2-7,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=26
 ,,,,,,,,,,1,9.32,Los Angeles Clippers,free throw,,,,,,,2,,2,Griffin,1,,foul,made,,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=28
@@ -28,7 +28,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.55,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=31
 ,,,,,,,,,,1,8.47,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,3PT Jump Shot,,,4-8,26,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=32
 ,,,,,,,,,,1,8.46,Los Angeles Clippers,rebound,,,,,,,,,,Green,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=33
-,,,,,,,,,,1,8.41,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Jump Shot,,,4-8,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=34
+,,,,,,,,,,1,8.41,Los Angeles Clippers,shot,,,Nowitzki,,,,,,,Jordan,,,,missed,,Jump Shot,,,4-8,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=34
 ,,,,,,,,,,1,8.41,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=35
 ,,,,,,,,,,1,8.32,Los Angeles Clippers,shot,Paul,,,,,,,,,Griffin,2,,,made,,Running Layup,,,4-10,4,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=36
 ,,,,,,,,,,1,8.18,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,4-10,17,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=37
@@ -41,7 +41,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.32,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,3 Second Violation,,,,,,4-10,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=44
 ,,,,,,,,,,1,7.13,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Jump Shot,,,4-10,5,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=46
 ,,,,,,,,,,1,7.11,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,4-10,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=47
-,,,,,,,,,,1,7.04,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Lost Ball,,,,,,4-10,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=48
+,,,,,,,,,,1,7.04,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Lost Ball,,Mayo,,,,4-10,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=48
 ,,,,,,,,,,1,6.55,Dallas Mavericks,shot,Collison,,,,,,,,,Marion,2,,,made,,Hook Shot,,,6-10,5,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=49
 ,,,,,,,,,,1,6.39,Los Angeles Clippers,shot,Paul,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,6-13,25,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=50
 ,,,,,,,,,,1,6.32,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Jump Bank Shot,,,6-13,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=51
@@ -86,7 +86,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.56,Dallas Mavericks,shot,Beaubois,,,,,,,,,Carter,2,,,made,,Jump Shot,,,15-19,19,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=94
 ,,,,,,,,,,1,2.34,Los Angeles Clippers,shot,Odom,,,,,,,,,Barnes,3,,,made,,3PT Jump Shot,,,15-22,25,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=95
 ,,,,,,,,,,1,2.32,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,15-22,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=96
-,,,,,,,,,,1,2.17,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Jump Shot,,,15-22,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=98
+,,,,,,,,,,1,2.17,Dallas Mavericks,shot,,,Griffin,,,,,,,Brand,,,,missed,,Jump Shot,,,15-22,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=98
 ,,,,,,,,,,1,2.16,Dallas Mavericks,rebound,,,,,,,,,,Beaubois,,,,,,,,,15-22,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=99
 ,,,,,,,,,,1,2.09,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Running Hook Shot,,,17-22,5,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=100
 ,,,,,,,,,,1,1.53,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Jump Shot,,,17-22,14,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=101
@@ -107,7 +107,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.06,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,,,,,21-25,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=118
 ,,,,,,,,,,1,0.01,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,3PT Jump Shot,,,21-25,30,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=120
 ,,,,,,,,,,1,0.00,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,21-25,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=121
-,,,,,,,,,,2,11.46,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Layup,,,21-25,2,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=125
+,,,,,,,,,,2,11.46,Dallas Mavericks,shot,,,Barnes,,,,,,,Nowitzki,,,,missed,,Layup,,,21-25,2,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=125
 ,,,,,,,,,,2,11.45,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,21-25,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=126
 ,,,,,,,,,,2,11.41,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Running Jump Shot,,,21-27,5,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=127
 ,,,,,,,,,,2,11.22,Dallas Mavericks,shot,Crowder,,,,,,,,,Brand,2,,,made,,Turnaround Jump Shot,,,23-27,13,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=128
@@ -123,8 +123,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.31,Dallas Mavericks,rebound,,,,,,,,,,Beaubois,,,,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=142
 ,,,,,,,,,,2,10.21,Dallas Mavericks,foul,,,,,,,,,,,,,,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=143
 ,,,,,,,,,,2,10.21,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Foul,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=144
-,,,,,,,,,,2,10.18,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=145
-,,,,,,,,,,2,10.13,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,25-28,4,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=146
+,,,,,,,,,,2,10.18,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,Crowder,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=145
+,,,,,,,,,,2,10.13,Dallas Mavericks,shot,,,Barnes,,,,,,,Jones,,,,missed,,Jump Shot,,,25-28,4,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=146
 ,,,,,,,,,,2,10.11,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=147
 ,,,,,,,,,,2,10.06,Dallas Mavericks,shot,,,,,,,,,,Beaubois,,,,missed,,3PT Jump Shot,,,25-28,27,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=148
 ,,,,,,,,,,2,10.04,Los Angeles Clippers,rebound,,,,,,,,,,Turiaf,,,,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=149
@@ -147,7 +147,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.30,Dallas Mavericks,substitute,,,,Carter,,Nowitzki,,,,,,,,,,,,,27-36,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=169
 ,,,,,,,,,,2,8.30,Dallas Mavericks,substitute,,,,Marion,,Jones,,,,,,,,,,,,,27-36,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=170
 ,,,,,,,,,,2,8.19,Dallas Mavericks,shot,,,,,,,,,,Marion,2,,,made,,Turnaround Jump Shot,,,29-36,12,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=171
-,,,,,,,,,,2,8.04,Los Angeles Clippers,shot,,,,,,,,,,Turiaf,,,,missed,,Jump Shot,,,29-36,4,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=172
+,,,,,,,,,,2,8.04,Los Angeles Clippers,shot,,,Carter,,,,,,,Turiaf,,,,missed,,Jump Shot,,,29-36,4,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=172
 ,,,,,,,,,,2,8.02,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,29-36,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=173
 ,,,,,,,,,,2,7.48,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Jump Shot,,,29-36,11,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=174
 ,,,,,,,,,,2,7.47,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,29-36,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=175
@@ -167,7 +167,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.02,Dallas Mavericks,shot,Carter,,,,,,,,,Collison,3,,,made,,3PT Jump Shot,,,32-38,27,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=191
 ,,,,,,,,,,2,5.42,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,32-38,18,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=192
 ,,,,,,,,,,2,5.41,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=193
-,,,,,,,,,,2,5.37,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=194
+,,,,,,,,,,2,5.37,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Crawford,,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=194
 ,,,,,,,,,,2,5.32,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,32-38,28,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=195
 ,,,,,,,,,,2,5.30,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=196
 ,,,,,,,,,,2,5.23,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Driving Layup,,,34-38,2,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=197
@@ -176,13 +176,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.12,Los Angeles Clippers,substitute,,,,Griffin,,Turiaf,,,,,,,,,,,,,34-38,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=201
 ,,,,,,,,,,2,5.12,Dallas Mavericks,substitute,,,,Brand,,Carter,,,,,,,,,,,,,34-38,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=202
 ,,,,,,,,,,2,5.12,Dallas Mavericks,substitute,,,,Nowitzki,,Kaman,,,,,,,,,,,,,34-38,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=203
-,,,,,,,,,,2,4.57,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,,,,,34-38,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=204
+,,,,,,,,,,2,4.57,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,Brand,,,,34-38,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=204
 ,,,,,,,,,,2,4.52,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Driving Layup,,,36-38,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=205
 ,,,,,,,,,,2,4.32,Los Angeles Clippers,shot,Barnes,,,,,,,,,Paul,3,,,made,,3PT Jump Shot,,,36-41,27,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=206
 ,,,,,,,,,,2,4.21,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Driving Layup,,,38-41,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=207
 ,,,,,,,,,,2,4.12,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=208
 ,,,,,,,,,,2,4.11,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=209
-,,,,,,,,,,2,4.04,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=210
+,,,,,,,,,,2,4.04,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Odom,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=210
 ,,,,,,,,,,2,3.56,Los Angeles Clippers,shot,Odom,,,,,,,,,Barnes,3,,,made,,3PT Jump Shot,,,38-44,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=211
 ,,,,,,,,,,2,3.38,Los Angeles Clippers,foul,,,,,,,,,,Odom,,,,,,Shooting Block,,,38-44,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=212
 ,,,,,,,,,,2,3.38,Dallas Mavericks,free throw,,,,,,,1,,2,Nowitzki,,,foul,missed,,,,,38-44,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=213
@@ -196,8 +196,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.14,Los Angeles Clippers,foul,,,,,,,,,,Griffin,,,,,,Shooting,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=223
 ,,,,,,,,,,2,3.14,Dallas Mavericks,free throw,,,,,,,1,,2,Nowitzki,1,,foul,made,,,,,40-46,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=224
 ,,,,,,,,,,2,3.14,Dallas Mavericks,free throw,,,,,,,2,,2,Nowitzki,1,,foul,made,,,,,41-46,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=227
-,,,,,,,,,,2,3.02,Los Angeles Clippers,turnover,,,,,,,,,,Griffin Poss,,,Lost Ball,,,,,,41-46,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=230
-,,,,,,,,,,2,2.59,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,,,,,41-46,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=231
+,,,,,,,,,,2,3.02,Los Angeles Clippers,turnover,,,,,,,,,,Griffin Poss,,,Lost Ball,,Nowitzki,,,,41-46,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=230
+,,,,,,,,,,2,2.59,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,Griffin,,,,41-46,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=231
 ,,,,,,,,,,2,2.54,Los Angeles Clippers,shot,Paul,,,,,,,,,Barnes,2,,,made,,Jump Shot,,,41-48,21,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=232
 ,,,,,,,,,,2,2.37,Los Angeles Clippers,foul,,,,,,,,,,Paul,,,,,,Personal,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=233
 ,,,,,,,,,,2,2.37,Dallas Mavericks,substitute,,,,Carter,,Marion,,,,,,,,,,,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=236
@@ -207,18 +207,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.07,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Floating Jump Shot,,,45-50,8,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=242
 ,,,,,,,,,,2,1.45,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,45-50,27,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=243
 ,,,,,,,,,,2,1.44,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=244
-,,,,,,,,,,2,1.39,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Layup,,,45-50,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=245
+,,,,,,,,,,2,1.39,Dallas Mavericks,shot,,,Jordan,,,,,,,Collison,,,,missed,,Layup,,,45-50,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=245
 ,,,,,,,,,,2,1.39,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=246
 ,,,,,,,,,,2,1.37,Los Angeles Clippers,foul,,,,,,,,,,Griffin,,,,,,Personal,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=247
 ,,,,,,,,,,2,1.37,Dallas Mavericks,free throw,,,,,,,1,,2,Nowitzki,1,,foul,made,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=248
 ,,,,,,,,,,2,1.37,Dallas Mavericks,free throw,,,,,,,2,,2,Nowitzki,,,foul,missed,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=250
 ,,,,,,,,,,2,1.36,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=252
-,,,,,,,,,,2,1.21,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=253
+,,,,,,,,,,2,1.21,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Bad Pass,,Mayo,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=253
 ,,,,,,,,,,2,1.14,Los Angeles Clippers,foul,,,,,,,,,,Paul,,,,,,Personal,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=254
 ,,,,,,,,,,2,1.14,Dallas Mavericks,free throw,,,,,,,1,,2,Mayo,1,,foul,made,,,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=255
 ,,,,,,,,,,2,1.14,Dallas Mavericks,free throw,,,,,,,2,,2,Mayo,1,,foul,made,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=257
 ,,,,,,,,,,2,0.58,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Offensive Goaltending,,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=259
-,,,,,,,,,,2,0.43,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Jump Shot,,,48-50,14,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=261
+,,,,,,,,,,2,0.43,Dallas Mavericks,shot,,,Crawford,,,,,,,Nowitzki,,,,missed,,Jump Shot,,,48-50,14,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=261
 ,,,,,,,,,,2,0.42,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=262
 ,,,,,,,,,,2,0.40,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,48-50,8,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=263
 ,,,,,,,,,,2,0.38,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=264
@@ -261,7 +261,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.11,Dallas Mavericks,shot,Nowitzki,,,,,,,,,Kaman,2,,,made,,Layup,,,60-57,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=309
 ,,,,,,,,,,3,7.48,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,60-57,6,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=310
 ,,,,,,,,,,3,7.47,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,60-57,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=311
-,,,,,,,,,,3,7.41,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,,,,,60-57,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=312
+,,,,,,,,,,3,7.41,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,Mayo,,,,60-57,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=312
 ,,,,,,,,,,3,7.41,Los Angeles Clippers,foul,,,,,,,,,,Butler,,,,,,clear path,,,60-57,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=313
 ,,,,,,,,,,3,7.41,Dallas Mavericks,free throw,,,,,,,,,,Mayo,1,,foul,made,,,,,61-57,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=315
 ,,,,,,,,,,3,7.41,Dallas Mavericks,free throw,,,,,,,,,,Mayo,1,,foul,made,,,,,62-57,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=317
@@ -273,7 +273,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.33,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,64-59,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=325
 ,,,,,,,,,,3,6.25,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,64-59,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=326
 ,,,,,,,,,,3,6.24,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,64-59,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=327
-,,,,,,,,,,3,6.16,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,64-59,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=328
+,,,,,,,,,,3,6.16,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Marion,,,,64-59,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=328
 ,,,,,,,,,,3,6.11,Dallas Mavericks,shot,Nowitzki,,,,,,,,,Marion,2,,,made,,Layup,,,66-59,2,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=329
 ,,,,,,,,,,3,6.01,Los Angeles Clippers,foul,,,,,,,,,,,,,,,,,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=330
 ,,,,,,,,,,3,6.01,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Foul,,,,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=331
@@ -285,7 +285,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.26,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,66-61,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=339
 ,,,,,,,,,,3,5.26,Los Angeles Clippers,substitute,,,,Barnes,,Green,,,,,,,,,,,,,66-61,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=341
 ,,,,,,,,,,3,5.26,Dallas Mavericks,substitute,,,,Brand,,Kaman,,,,,,,,,,,,,66-61,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=342
-,,,,,,,,,,3,5.13,Dallas Mavericks,turnover,,,,,,,,,,Brand,,,Lost Ball,,,,,,66-61,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=343
+,,,,,,,,,,3,5.13,Dallas Mavericks,turnover,,,,,,,,,,Brand,,,Lost Ball,,Barnes,,,,66-61,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=343
 ,,,,,,,,,,3,4.48,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,66-61,27,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=344
 ,,,,,,,,,,3,4.47,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,66-61,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=345
 ,,,,,,,,,,3,4.28,Dallas Mavericks,shot,Mayo,,,,,,,,,Marion,2,,,made,,Layup,,,68-61,4,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=346
@@ -322,8 +322,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.28,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,75-69,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=381
 ,,,,,,,,,,3,0.12,Dallas Mavericks,foul,,,,,,,,,,Crowder,,,,,,Personal,,,75-69,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=382
 ,,,,,,,,,,3,0.00,Los Angeles Clippers,shot,,,,,,,,,,Barnes,3,,,made,,3PT Jump Shot,,,75-72,25,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=384
-,,,,,,,,,,4,11.45,Los Angeles Clippers,turnover,,,,,,,,,,Turiaf,,,Bad Pass,,,,,,75-72,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=389
-,,,,,,,,,,4,11.38,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,,,,,75-72,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=390
+,,,,,,,,,,4,11.45,Los Angeles Clippers,turnover,,,,,,,,,,Turiaf,,,Bad Pass,,Crowder,,,,75-72,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=389
+,,,,,,,,,,4,11.38,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,Paul,,,,75-72,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=390
 ,,,,,,,,,,4,11.34,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Driving Slam Dunk,,,75-74,2,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=391
 ,,,,,,,,,,4,11.09,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Jump Shot,,,75-74,21,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=392
 ,,,,,,,,,,4,11.08,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,75-74,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=393
@@ -336,13 +336,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.59,Los Angeles Clippers,shot,,,,,,,,,,Crawford,2,,,made,,Floating Jump Shot,,,78-78,6,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=403
 ,,,,,,,,,,4,9.42,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,2,,,made,,Fadeaway Jumper,,,80-78,8,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=404
 ,,,,,,,,,,4,9.25,Los Angeles Clippers,shot,,,,,,,,,,Turiaf,2,,,made,,Slam Dunk,,,80-80,2,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=405
-,,,,,,,,,,4,9.11,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,,,,,80-80,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=406
+,,,,,,,,,,4,9.11,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,Paul,,,,80-80,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=406
 ,,,,,,,,,,4,9.08,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Layup,,,80-82,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=407
 ,,,,,,,,,,4,9.05,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,80-82,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=408
 ,,,,,,,,,,4,9.05,Dallas Mavericks,substitute,,,,Mayo,,Carter,,,,,,,,,,,,,80-82,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=410
 ,,,,,,,,,,4,9.05,Dallas Mavericks,substitute,,,,Collison,,Beaubois,,,,,,,,,,,,,80-82,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=411
 ,,,,,,,,,,4,8.49,Dallas Mavericks,shot,Nowitzki,,,,,,,,,Crowder,3,,,made,,3PT Jump Shot,,,83-82,25,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=412
-,,,,,,,,,,4,8.32,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,83-82,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=413
+,,,,,,,,,,4,8.32,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Crowder,,,,83-82,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=413
 ,,,,,,,,,,4,8.21,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,83-82,14,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=414
 ,,,,,,,,,,4,8.21,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,83-82,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=415
 ,,,,,,,,,,4,8.21,Los Angeles Clippers,substitute,,,,Griffin,,Odom,,,,,,,,,,,,,83-82,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=416
@@ -359,7 +359,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.06,Dallas Mavericks,substitute,,,,Marion,,Nowitzki,,,,,,,,,,,,,83-86,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=428
 ,,,,,,,,,,4,7.06,Dallas Mavericks,substitute,,,,Carter,,Crowder,,,,,,,,,,,,,83-86,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=429
 ,,,,,,,,,,4,7.06,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=430
-,,,,,,,,,,4,6.56,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,83-87,14,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=432
+,,,,,,,,,,4,6.56,Dallas Mavericks,shot,,,Barnes,,,,,,,Kaman,,,,missed,,Jump Shot,,,83-87,14,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=432
 ,,,,,,,,,,4,6.53,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=433
 ,,,,,,,,,,4,6.45,Los Angeles Clippers,shot,,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,83-90,27,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=434
 ,,,,,,,,,,4,6.44,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=435
@@ -380,14 +380,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.14,Los Angeles Clippers,foul,,,,,,,,,,,,,,,,,,,85-90,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=452
 ,,,,,,,,,,4,5.14,Los Angeles Clippers,turnover,,,,,,,,,,Turiaf,,,Foul,,,,,,85-90,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=453
 ,,,,,,,,,,4,5.14,Los Angeles Clippers,substitute,,,,Odom,,Turiaf,,,,,,,,,,,,,85-90,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=454
-,,,,,,,,,,4,5.03,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Bad Pass,,,,,,85-90,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=455
+,,,,,,,,,,4,5.03,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Bad Pass,,Griffin,,,,85-90,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=455
 ,,,,,,,,,,4,4.59,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Driving Layup,,,85-92,2,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=456
 ,,,,,,,,,,4,4.54,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Floating Jump Shot,,,85-92,9,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=457
 ,,,,,,,,,,4,4.54,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,85-92,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=458
 ,,,,,,,,,,4,4.54,Los Angeles Clippers,foul,,,,,,,,,,Crawford,,,,,,Loose ball,,,85-92,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=459
 ,,,,,,,,,,4,4.35,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,3PT Jump Shot,,,85-92,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=462
 ,,,,,,,,,,4,4.34,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,85-92,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=463
-,,,,,,,,,,4,4.13,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,Jump Shot,,,85-92,5,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=464
+,,,,,,,,,,4,4.13,Los Angeles Clippers,shot,,,Brand,,,,,,,Odom,,,,missed,,Jump Shot,,,85-92,5,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=464
 ,,,,,,,,,,4,4.11,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,85-92,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=465
 ,,,,,,,,,,4,4.08,Dallas Mavericks,shot,Collison,,,,,,,,,Mayo,2,,,made,,Driving Layup,,,87-92,3,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=466
 ,,,,,,,,,,4,3.59,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,87-92,,http://stats.nba.com/cvp.html?GameID=0021200525&GameEventID=467

@@ -7,7 +7,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.04,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,,20,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=8
 ,,,,,,,,,,1,11.03,Atlanta Hawks,rebound,,,,,,,,,,Stevenson,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=9
 ,,,,,,,,,,1,10.45,Atlanta Hawks,shot,Smith,,,,,,,,,Stevenson,3,,,made,,3PT Jump Shot,,,3-0,25,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=10
-,,,,,,,,,,1,10.30,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=11
+,,,,,,,,,,1,10.30,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,Harris,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=11
 ,,,,,,,,,,1,10.24,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,3PT Jump Shot,,,3-0,24,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=12
 ,,,,,,,,,,1,10.23,Miami Heat,rebound,,,,,,,,,,Lewis,,,,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=13
 ,,,,,,,,,,1,10.04,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Fadeaway Jumper,,,3-2,12,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=14
@@ -67,23 +67,23 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.29,Atlanta Hawks,substitute,,,,Teague,,Harris,,,,,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=76
 ,,,,,,,,,,1,3.15,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,3PT Jump Shot,,,18-19,25,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=78
 ,,,,,,,,,,1,3.14,Atlanta Hawks,rebound,,,,,,,,,,Teague,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=79
-,,,,,,,,,,1,3.03,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Hook Shot,,,18-19,9,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=80
+,,,,,,,,,,1,3.03,Atlanta Hawks,shot,,,Battier,,,,,,,Smith,,,,missed,,Hook Shot,,,18-19,9,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=80
 ,,,,,,,,,,1,3.02,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=81
 ,,,,,,,,,,1,3.02,Atlanta Hawks,substitute,,,,Morrow,,Horford,,,,,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=82
-,,,,,,,,,,1,3.02,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=84
+,,,,,,,,,,1,3.02,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Battier,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=84
 ,,,,,,,,,,1,3.02,Miami Heat,jumpball,,Smith,,,Battier,,,,,,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=83
 ,,,,,,,,,,1,2.45,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,18-19,16,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=85
 ,,,,,,,,,,1,2.44,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=86
 ,,,,,,,,,,1,2.43,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=88
-,,,,,,,,,,1,2.35,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=92
-,,,,,,,,,,1,2.28,Atlanta Hawks,turnover,,,,,,,,,,Morrow,,,Bad Pass,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=93
+,,,,,,,,,,1,2.35,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,Morrow,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=92
+,,,,,,,,,,1,2.28,Atlanta Hawks,turnover,,,,,,,,,,Morrow,,,Bad Pass,,Allen,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=93
 ,,,,,,,,,,1,2.24,Miami Heat,shot,Cole,,,,,,,,,James,2,,,made,,Dunk,,,18-21,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=94
 ,,,,,,,,,,1,2.08,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Shooting,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=95
 ,,,,,,,,,,1,2.08,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,1,,foul,made,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=96
 ,,,,,,,,,,1,2.08,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,20-21,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=98
 ,,,,,,,,,,1,1.59,Miami Heat,foul,,,,,,,,,,Cole,,,,,,Offensive Charge,,,20-21,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=100
 ,,,,,,,,,,1,1.59,Miami Heat,turnover,,,,,,,,,,Cole,,,Foul,,,,,,20-21,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=101
-,,,,,,,,,,1,1.45,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Driving Layup,,,20-21,2,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=102
+,,,,,,,,,,1,1.45,Atlanta Hawks,shot,,,Anthony,,,,,,,Teague,,,,missed,,Driving Layup,,,20-21,2,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=102
 ,,,,,,,,,,1,1.44,Miami Heat,rebound,,,,,,,,,,Cole,,,,,,,,,20-21,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=103
 ,,,,,,,,,,1,1.23,Miami Heat,shot,,,,,,,,,,Allen,2,,,made,,Driving Finger Roll Layup,,,20-23,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=104
 ,,,,,,,,,,1,1.00,Atlanta Hawks,shot,Williams,,,,,,,,,Smith,3,,,made,,3PT Jump Shot,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=105
@@ -127,7 +127,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.25,Miami Heat,substitute,,,,Wade,,Allen,,,,,,,,,,,,,39-42,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=154
 ,,,,,,,,,,2,7.09,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Jump Shot,,,39-42,19,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=155
 ,,,,,,,,,,2,7.08,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,39-42,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=156
-,,,,,,,,,,2,7.01,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,39-42,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=157
+,,,,,,,,,,2,7.01,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Williams,,,,39-42,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=157
 ,,,,,,,,,,2,6.55,Atlanta Hawks,shot,,,,,,,,,,Williams,2,,,made,,Driving Layup,,,41-42,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=158
 ,,,,,,,,,,2,6.51,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,41-42,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=159
 ,,,,,,,,,,2,6.51,Atlanta Hawks,substitute,,,,Stevenson,,Morrow,,,,,,,,,,,,,41-42,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=161
@@ -188,18 +188,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.03,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Fadeaway Jumper,,,51-53,14,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=223
 ,,,,,,,,,,2,1.02,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,51-53,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=224
 ,,,,,,,,,,2,1.02,Miami Heat,substitute,,,,Battier,,Chalmers,,,,,,,,,,,,,51-53,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=225
-,,,,,,,,,,2,0.52,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,51-53,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=227
+,,,,,,,,,,2,0.52,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Horford,,,,51-53,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=227
 ,,,,,,,,,,2,0.35,Atlanta Hawks,shot,Teague,,,,,,,,,Stevenson,3,,,made,,3PT Jump Shot,,,54-53,26,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=228
 ,,,,,,,,,,2,0.14,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Driving Layup,,,54-55,2,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=229
 ,,,,,,,,,,2,0.14,Atlanta Hawks,foul,,,,,,,,,,Horford,,,,,,Shooting,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=230
 ,,,,,,,,,,2,0.14,Miami Heat,free throw,,,,,,,1,,1,James,1,,foul,made,,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=231
-,,,,,,,,,,2,0.01,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=233
-,,,,,,,,,,3,11.47,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=237
+,,,,,,,,,,2,0.01,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Bosh,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=233
+,,,,,,,,,,3,11.47,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Teague,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=237
 ,,,,,,,,,,3,11.32,Atlanta Hawks,shot,Smith,,,,,,,,,Horford,2,,,made,,Dunk,,,56-56,2,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=238
 ,,,,,,,,,,3,11.14,Miami Heat,shot,Wade,,,,,,,,,Bosh,2,,,made,,Layup,,,56-58,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=239
 ,,,,,,,,,,3,10.47,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,56-58,17,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=240
 ,,,,,,,,,,3,10.46,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=241
-,,,,,,,,,,3,10.38,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Dunk,,,56-58,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=242
+,,,,,,,,,,3,10.38,Miami Heat,shot,,,Smith,,,,,,,Bosh,,,,missed,,Dunk,,,56-58,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=242
 ,,,,,,,,,,3,10.37,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=243
 ,,,,,,,,,,3,10.24,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,56-58,25,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=244
 ,,,,,,,,,,3,10.23,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=245
@@ -225,16 +225,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.44,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=269
 ,,,,,,,,,,3,7.29,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Turnaround Jump Shot,,,62-63,12,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=273
 ,,,,,,,,,,3,7.28,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=274
-,,,,,,,,,,3,7.25,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Lost Ball,,,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=275
-,,,,,,,,,,3,7.15,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=276
-,,,,,,,,,,3,7.10,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=277
+,,,,,,,,,,3,7.25,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Lost Ball,,Horford,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=275
+,,,,,,,,,,3,7.15,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Chalmers,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=276
+,,,,,,,,,,3,7.10,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Teague,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=277
 ,,,,,,,,,,3,7.05,Atlanta Hawks,shot,,,,,,,,,,Stevenson,,,,missed,,3PT Jump Shot,,,62-63,25,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=278
 ,,,,,,,,,,3,7.04,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=279
 ,,,,,,,,,,3,6.50,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,62-63,24,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=280
 ,,,,,,,,,,3,6.49,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=281
 ,,,,,,,,,,3,6.31,Atlanta Hawks,shot,,,,,,,,,,Teague,3,,,made,,3PT Jump Shot,,,65-63,26,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=283
 ,,,,,,,,,,3,6.08,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Jump Shot,,,65-65,18,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=284
-,,,,,,,,,,3,5.56,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=285
+,,,,,,,,,,3,5.56,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Chalmers,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=285
 ,,,,,,,,,,3,5.51,Miami Heat,shot,Chalmers,,,,,,,,,James,2,,,made,,Driving Layup,,,65-67,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=286
 ,,,,,,,,,,3,5.29,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,65-67,25,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=287
 ,,,,,,,,,,3,5.28,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,65-67,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=288
@@ -254,9 +254,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.09,Miami Heat,free throw,,,,,,,1,,2,Wade,1,,foul,made,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=303
 ,,,,,,,,,,3,3.09,Atlanta Hawks,substitute,,,,Pachulia,,Stevenson,,,,,,,,,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=305
 ,,,,,,,,,,3,3.09,Miami Heat,free throw,,,,,,,2,,2,Wade,1,,foul,made,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=306
-,,,,,,,,,,3,2.52,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=308
+,,,,,,,,,,3,2.52,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Anthony,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=308
 ,,,,,,,,,,3,2.46,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Layup,,,67-76,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=309
-,,,,,,,,,,3,2.32,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=310
+,,,,,,,,,,3,2.32,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Bad Pass,,James,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=310
 ,,,,,,,,,,3,2.28,Atlanta Hawks,violation,,,,,,,,,,Smith,,,Kicked Ball,,,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=311
 ,,,,,,,,,,3,2.28,Miami Heat,substitute,,,,Allen,,Wade,,,,,,,,,,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=312
 ,,,,,,,,,,3,2.28,Miami Heat,substitute,,,,Cole,,Chalmers,,,,,,,,,,,,,67-76,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=313
@@ -281,7 +281,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.33,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Floating Jump Shot,,,74-82,7,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=339
 ,,,,,,,,,,4,11.32,Miami Heat,rebound,,,,,,,,,,Cole,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=340
 ,,,,,,,,,,4,11.27,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Shot,,,74-84,5,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=341
-,,,,,,,,,,4,11.14,Atlanta Hawks,turnover,,,,,,,,,,Pachulia,,,Lost Ball,,,,,,74-84,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=342
+,,,,,,,,,,4,11.14,Atlanta Hawks,turnover,,,,,,,,,,Pachulia,,,Lost Ball,,Battier,,,,74-84,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=342
 ,,,,,,,,,,4,10.58,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,74-84,25,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=343
 ,,,,,,,,,,4,10.57,Atlanta Hawks,rebound,,,,,,,,,,Pachulia,,,,,,,,,74-84,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=344
 ,,,,,,,,,,4,10.51,Miami Heat,foul,,,,,,,,,,Anthony,,,,,,Shooting,,,74-84,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=345
@@ -293,10 +293,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.21,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,76-84,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=353
 ,,,,,,,,,,4,10.09,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Running Jump Shot,,,76-84,8,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=354
 ,,,,,,,,,,4,10.08,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,76-84,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=355
-,,,,,,,,,,4,9.56,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,76-84,10,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=356
+,,,,,,,,,,4,9.56,Atlanta Hawks,shot,,,Anthony,,,,,,,Williams,,,,missed,,Jump Shot,,,76-84,10,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=356
 ,,,,,,,,,,4,9.55,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,76-84,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=357
 ,,,,,,,,,,4,9.51,Miami Heat,shot,Cole,,,,,,,,,James,2,,,made,,Alley Oop Dunk,,,76-86,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=358
-,,,,,,,,,,4,9.29,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,,,,,76-86,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=359
+,,,,,,,,,,4,9.29,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,Anthony,,,,76-86,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=359
 ,,,,,,,,,,4,9.16,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Shooting,,,76-86,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=360
 ,,,,,,,,,,4,9.16,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,76-87,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=361
 ,,,,,,,,,,4,9.16,Miami Heat,free throw,,,,,,,2,,2,James,1,,foul,made,,,,,76-88,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=363
@@ -306,7 +306,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.16,Miami Heat,substitute,,,,Wade,,James,,,,,,,,,,,,,76-88,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=370
 ,,,,,,,,,,4,9.02,Miami Heat,foul,,,,,,,,,,Cole,,,,,,Personal,,,76-88,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=371
 ,,,,,,,,,,4,8.54,Atlanta Hawks,shot,Pachulia,,,,,,,,,Horford,2,,,made,,Layup,,,78-88,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=372
-,,,,,,,,,,4,8.36,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=373
+,,,,,,,,,,4,8.36,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Williams,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=373
 ,,,,,,,,,,4,8.32,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,Running Layup,,,78-88,1,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=374
 ,,,,,,,,,,4,8.31,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=375
 ,,,,,,,,,,4,8.10,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,78-88,26,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=376
@@ -371,7 +371,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.08,Atlanta Hawks,violation,,,,,,,,,,Jenkins,,,Kicked Ball,,,,,,90-100,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=454
 ,,,,,,,,,,4,0.51,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,90-100,16,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=455
 ,,,,,,,,,,4,0.50,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,90-100,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=456
-,,,,,,,,,,4,0.45,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Bad Pass,,,,,,90-100,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=457
+,,,,,,,,,,4,0.45,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Bad Pass,,James,,,,90-100,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=457
 ,,,,,,,,,,4,0.23,Atlanta Hawks,foul,,,,,,,,,,Petro,,,,,,Personal,,,90-100,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=458
 ,,,,,,,,,,4,0.23,Miami Heat,free throw,,,,,,,1,,2,Bosh,,,foul,missed,,,,,90-100,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=459
 ,,,,,,,,,,4,0.23,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,90-100,,http://stats.nba.com/cvp.html?GameID=0021200300&GameEventID=460

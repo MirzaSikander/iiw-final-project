@@ -9,7 +9,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.44,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Turnaround Jump Shot,,,0-2,19,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=10
 ,,,,,,,,,,1,10.26,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,0-2,25,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=11
 ,,,,,,,,,,1,10.25,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=13
-,,,,,,,,,,1,10.08,Toronto Raptors,shot,,,,,,,,,,Valanciunas,,,,missed,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=15
+,,,,,,,,,,1,10.08,Toronto Raptors,shot,,,Monroe,,,,,,,Valanciunas,,,,missed,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=15
 ,,,,,,,,,,1,10.05,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=17
 ,,,,,,,,,,1,9.59,Detroit Pistons,shot,Calderon,,,,,,,,,Singler,3,,,made,,3PT Jump Shot,,,3-2,24,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=18
 ,,,,,,,,,,1,9.40,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,3-2,12,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=19
@@ -27,7 +27,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.11,Toronto Raptors,free throw,,,,,,,1,,2,Valanciunas,,,foul,missed,,,,,5-7,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=33
 ,,,,,,,,,,1,8.11,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,5-7,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=34
 ,,,,,,,,,,1,8.11,Toronto Raptors,free throw,,,,,,,2,,2,Valanciunas,1,,foul,made,,,,,5-8,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=35
-,,,,,,,,,,1,7.55,Detroit Pistons,shot,,,,,,,,,,Drummond,,,,missed,,Driving Jump Shot,,,5-8,4,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=38
+,,,,,,,,,,1,7.55,Detroit Pistons,shot,,,Valanciunas,,,,,,,Drummond,,,,missed,,Driving Jump Shot,,,5-8,4,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=38
 ,,,,,,,,,,1,7.52,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,5-8,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=39
 ,,,,,,,,,,1,7.46,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Reverse Layup,,,5-8,2,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=40
 ,,,,,,,,,,1,7.45,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,5-8,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=41
@@ -46,7 +46,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.35,Detroit Pistons,shot,,,,,,,,,,Calderon,2,,,made,,Pullup Jump Shot,,,13-14,18,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=60
 ,,,,,,,,,,1,4.20,Toronto Raptors,shot,,,,,,,,,,Valanciunas,,,,missed,,Hook Shot,,,13-14,6,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=62
 ,,,,,,,,,,1,4.19,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=63
-,,,,,,,,,,1,4.08,Detroit Pistons,shot,,,,,,,,,,Drummond,,,,missed,,Fadeaway Jumper,,,13-14,8,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=65
+,,,,,,,,,,1,4.08,Detroit Pistons,shot,,,Valanciunas,,,,,,,Drummond,,,,missed,,Fadeaway Jumper,,,13-14,8,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=65
 ,,,,,,,,,,1,4.05,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=66
 ,,,,,,,,,,1,4.02,Detroit Pistons,foul,,,,,,,,,,Knight,,,,,,Personal,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=67
 ,,,,,,,,,,1,4.02,Detroit Pistons,substitute,,,,Jerebko,,Drummond,,,,,,,,,,,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=69
@@ -56,22 +56,22 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.28,Toronto Raptors,shot,Lowry,,,,,,,,,DeRozan,2,,,made,,Turnaround Jump Shot,,,15-16,10,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=75
 ,,,,,,,,,,1,3.12,Detroit Pistons,shot,Calderon,,,,,,,,,Monroe,2,,,made,,Hook Shot,,,17-16,6,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=77
 ,,,,,,,,,,1,2.58,Toronto Raptors,shot,Gay,,,,,,,,,Johnson,2,,,made,,Turnaround Hook Shot,,,17-18,5,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=78
-,,,,,,,,,,1,2.34,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Jump Shot,,,17-18,4,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=79
+,,,,,,,,,,1,2.34,Detroit Pistons,shot,,,Valanciunas,,,,,,,Monroe,,,,missed,,Jump Shot,,,17-18,4,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=79
 ,,,,,,,,,,1,2.34,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=80
 ,,,,,,,,,,1,2.34,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=81
-,,,,,,,,,,1,2.20,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=85
+,,,,,,,,,,1,2.20,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,Knight,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=85
 ,,,,,,,,,,1,2.16,Toronto Raptors,violation,,,,,,,,,,DeRozan,,,Defensive Goaltending,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=87
 ,,,,,,,,,,1,2.16,Detroit Pistons,shot,Knight,,,,,,,,,Calderon,2,,,made,,Driving Layup,,,19-18,1,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=86
 ,,,,,,,,,,1,2.03,Toronto Raptors,shot,Lowry,,,,,,,,,Gay,2,,,made,,Driving Slam Dunk,,,19-20,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=88
 ,,,,,,,,,,1,1.45,Detroit Pistons,shot,,,,,,,,,,Calderon,,,,missed,,Jump Shot,,,19-20,20,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=89
 ,,,,,,,,,,1,1.44,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,19-20,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=90
 ,,,,,,,,,,1,1.30,Toronto Raptors,shot,DeRozan,,,,,,,,,Johnson,2,,,made,,Jump Hook Shot,,,19-22,3,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=92
-,,,,,,,,,,1,1.15,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,,,,,19-22,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=93
+,,,,,,,,,,1,1.15,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,Gay,,,,19-22,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=93
 ,,,,,,,,,,1,1.11,Toronto Raptors,shot,Gay,,,,,,,,,Lowry,2,,,made,,Driving Layup,,,19-24,1,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=95
 ,,,,,,,,,,1,0.54,Detroit Pistons,shot,,,,,,,,,,Jerebko,,,,missed,,Running Jump Shot,,,19-24,8,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=96
 ,,,,,,,,,,1,0.54,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=97
 ,,,,,,,,,,1,0.54,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Tip Shot,,,21-24,1,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=98
-,,,,,,,,,,1,0.45,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=99
+,,,,,,,,,,1,0.45,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,Calderon,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=99
 ,,,,,,,,,,1,0.41,Detroit Pistons,shot,,,,,,,,,,Calderon,2,,,made,,Driving Layup,,,23-24,1,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=100
 ,,,,,,,,,,1,0.28,Toronto Raptors,foul,,,,,,,,,,,,,,,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=101
 ,,,,,,,,,,1,0.28,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Foul,,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=102
@@ -128,7 +128,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.48,Detroit Pistons,free throw,,,,,,,2,,2,Jerebko,1,,foul,made,,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=176
 ,,,,,,,,,,2,5.27,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,42-45,25,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=264
 ,,,,,,,,,,2,5.27,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=179
-,,,,,,,,,,2,5.21,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=180
+,,,,,,,,,,2,5.21,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,Telfair,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=180
 ,,,,,,,,,,2,5.12,Toronto Raptors,shot,Telfair,,,,,,,,,Acy,2,,,made,,Layup,,,42-47,2,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=182
 ,,,,,,,,,,2,4.59,Detroit Pistons,shot,Stuckey,,,,,,,,,Villanueva,2,,,made,,Layup,,,44-47,2,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=184
 ,,,,,,,,,,2,4.34,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,44-47,14,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=186
@@ -144,14 +144,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.53,Toronto Raptors,shot,,,,,,,,,,Acy,2,,,made,,Dunk,,,46-49,1,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=198
 ,,,,,,,,,,2,3.37,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,Driving Layup,,,46-49,1,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=199
 ,,,,,,,,,,2,3.35,Toronto Raptors,rebound,,,,,,,,,,Telfair,,,,,,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=200
-,,,,,,,,,,2,3.25,Toronto Raptors,turnover,,,,,,,,,,Telfair,,,Bad Pass,,,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=202
+,,,,,,,,,,2,3.25,Toronto Raptors,turnover,,,,,,,,,,Telfair,,,Bad Pass,,Villanueva,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=202
 ,,,,,,,,,,2,3.20,Detroit Pistons,shot,,,,,,,,,,Villanueva,2,,,made,,Driving Layup,,,48-49,2,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=203
 ,,,,,,,,,,2,2.55,Toronto Raptors,turnover,,,,,,,,,,Ross,,,Step Out of Bounds,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=205
 ,,,,,,,,,,2,2.55,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=206
 ,,,,,,,,,,2,2.55,Toronto Raptors,substitute,,,,DeRozan,,Anderson,,,,,,,,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=208
 ,,,,,,,,,,2,2.55,Toronto Raptors,substitute,,,,Lowry,,Telfair,,,,,,,,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=209
 ,,,,,,,,,,2,2.55,Detroit Pistons,substitute,,,,Calderon,,Knight,,,,,,,,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=211
-,,,,,,,,,,2,2.44,Detroit Pistons,turnover,,,,,,,,,,Middleton,,,Bad Pass,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=213
+,,,,,,,,,,2,2.44,Detroit Pistons,turnover,,,,,,,,,,Middleton,,,Bad Pass,,Acy,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=213
 ,,,,,,,,,,2,2.24,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,3PT Jump Shot,,,48-49,26,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=215
 ,,,,,,,,,,2,2.23,Detroit Pistons,rebound,,,,,,,,,,Middleton,,,,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=216
 ,,,,,,,,,,2,2.13,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,3PT Jump Shot,,,48-49,25,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=218
@@ -167,7 +167,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.19,Toronto Raptors,foul,,,,,,,,,,Valanciunas,,,,,,Hanging Tech,,,48-51,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=232
 ,,,,,,,,,,2,1.19,Detroit Pistons,free throw,,,,,,,,,,Calderon,1,,Technical,made,,,,,49-51,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=234
 ,,,,,,,,,,2,1.19,Detroit Pistons,substitute,,,,Monroe,,Villanueva,,,,,,,,,,,,,49-51,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=237
-,,,,,,,,,,2,1.10,Detroit Pistons,turnover,,,,,,,,,,Calderon,,,Lost Ball,,,,,,49-51,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=239
+,,,,,,,,,,2,1.10,Detroit Pistons,turnover,,,,,,,,,,Calderon,,,Lost Ball,,DeRozan,,,,49-51,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=239
 ,,,,,,,,,,2,1.04,Toronto Raptors,shot,DeRozan,,,,,,,,,Valanciunas,2,,,made,,Layup,,,49-53,1,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=241
 ,,,,,,,,,,2,0.50,Detroit Pistons,shot,Calderon,,,,,,,,,Stuckey,3,,,made,,3PT Jump Shot,,,52-53,25,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=243
 ,,,,,,,,,,2,0.37,Toronto Raptors,shot,,,,,,,,,,Acy,,,,missed,,Layup,,,52-53,3,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=244
@@ -179,7 +179,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.10,Toronto Raptors,shot,,,,,,,,,,Lowry,2,,,made,,Jump Shot,,,54-55,22,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=253
 ,,,,,,,,,,3,11.38,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,54-55,13,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=266
 ,,,,,,,,,,3,11.38,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=267
-,,,,,,,,,,3,11.34,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,Floating Jump Shot,,,54-55,3,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=268
+,,,,,,,,,,3,11.34,Detroit Pistons,shot,,,Valanciunas,,,,,,,Singler,,,,missed,,Floating Jump Shot,,,54-55,3,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=268
 ,,,,,,,,,,3,11.31,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=269
 ,,,,,,,,,,3,11.26,Toronto Raptors,shot,DeRozan,,,,,,,,,Gay,3,,,made,,3PT Jump Shot,,,54-58,26,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=270
 ,,,,,,,,,,3,11.03,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,54-58,24,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=271
@@ -207,7 +207,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.11,Detroit Pistons,free throw,,,,,,,1,,2,Monroe,1,,foul,made,,,,,57-62,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=295
 ,,,,,,,,,,3,8.11,Detroit Pistons,free throw,,,,,,,2,,2,Monroe,1,,foul,made,,,,,58-62,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=297
 ,,,,,,,,,,3,7.47,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,58-62,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=299
-,,,,,,,,,,3,7.23,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,Floating Jump Shot,,,58-62,13,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=301
+,,,,,,,,,,3,7.23,Detroit Pistons,shot,,,Johnson,,,,,,,Singler,,,,missed,,Floating Jump Shot,,,58-62,13,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=301
 ,,,,,,,,,,3,7.23,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,58-62,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=302
 ,,,,,,,,,,3,7.23,Detroit Pistons,turnover,,,,,,,,,,,,,Shot Clock,,,,,,58-62,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=303
 ,,,,,,,,,,3,7.09,Toronto Raptors,shot,DeRozan,,,,,,,,,Valanciunas,2,,,made,,Hook Shot,,,58-64,5,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=304
@@ -241,7 +241,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.38,Detroit Pistons,foul,,,,,,,,,,Knight,,,,,,Personal,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=338
 ,,,,,,,,,,3,3.38,Toronto Raptors,substitute,,,,Telfair,,Lowry,,,,,,,,,,,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=339
 ,,,,,,,,,,3,3.26,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Jump Shot,,,63-72,14,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=340
-,,,,,,,,,,3,3.07,Detroit Pistons,turnover,,,,,,,,,,Jerebko,,,Bad Pass,,,,,,63-72,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=341
+,,,,,,,,,,3,3.07,Detroit Pistons,turnover,,,,,,,,,,Jerebko,,,Bad Pass,,DeRozan,,,,63-72,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=341
 ,,,,,,,,,,3,3.01,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Running Slam Dunk,,,63-72,1,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=342
 ,,,,,,,,,,3,3.01,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,63-72,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=343
 ,,,,,,,,,,3,2.50,Toronto Raptors,foul,,,,,,,,,,Valanciunas,,,,,,Personal,,,63-72,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=344
@@ -299,7 +299,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.24,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,3PT Jump Shot,,,90-81,25,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=414
 ,,,,,,,,,,4,7.24,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,90-81,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=415
 ,,,,,,,,,,4,7.24,Toronto Raptors,turnover,,,,,,,,,,,,,Shot Clock,,,,,,90-81,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=416
-,,,,,,,,,,4,7.11,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,,,,,90-81,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=417
+,,,,,,,,,,4,7.11,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,Johnson,,,,90-81,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=417
 ,,,,,,,,,,4,7.08,Detroit Pistons,foul,,,,,,,,,,Middleton,,,,,,Shooting,,,90-81,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=418
 ,,,,,,,,,,4,7.08,Toronto Raptors,free throw,,,,,,,1,,2,Johnson,1,,foul,made,,,,,90-82,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=419
 ,,,,,,,,,,4,7.08,Toronto Raptors,substitute,,,,Lowry,,Telfair,,,,,,,,,,,,,90-82,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=421
@@ -318,12 +318,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.10,Toronto Raptors,free throw,,,,,,,2,,2,Gay,1,,foul,made,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=437
 ,,,,,,,,,,4,5.54,Detroit Pistons,shot,Jerebko,,,,,,,,,Calderon,3,,,made,,3PT Jump Shot,,,93-87,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=439
 ,,,,,,,,,,4,5.38,Toronto Raptors,shot,Lowry,,,,,,,,,DeRozan,2,,,made,,Jump Shot,,,93-89,21,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=440
-,,,,,,,,,,4,5.13,Detroit Pistons,shot,,,,,,,,,,Calderon,,,,missed,,Jump Shot,,,93-89,19,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=441
+,,,,,,,,,,4,5.13,Detroit Pistons,shot,,,Gay,,,,,,,Calderon,,,,missed,,Jump Shot,,,93-89,19,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=441
 ,,,,,,,,,,4,5.10,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,93-89,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=442
 ,,,,,,,,,,4,4.58,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Turnaround Jump Shot,,,93-91,13,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=443
 ,,,,,,,,,,4,4.57,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,93-91,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=444
 ,,,,,,,,,,4,4.57,Toronto Raptors,substitute,,,,Valanciunas,,Anderson,,,,,,,,,,,,,93-91,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=446
-,,,,,,,,,,4,4.42,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Jump Shot,,,93-91,4,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=448
+,,,,,,,,,,4,4.42,Detroit Pistons,shot,,,Valanciunas,,,,,,,Monroe,,,,missed,,Jump Shot,,,93-91,4,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=448
 ,,,,,,,,,,4,4.41,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,93-91,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=449
 ,,,,,,,,,,4,4.32,Toronto Raptors,shot,Lowry,,,,,,,,,Gay,3,,,made,,3PT Jump Shot,,,93-94,25,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=450
 ,,,,,,,,,,4,4.16,Detroit Pistons,shot,Jerebko,,,,,,,,,Middleton,3,,,made,,3PT Jump Shot,,,96-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=451
@@ -333,14 +333,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.41,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Foul,,,,,,96-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=455
 ,,,,,,,,,,4,3.21,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,96-94,20,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=456
 ,,,,,,,,,,4,3.20,Detroit Pistons,rebound,,,,,,,,,,Middleton,,,,,,,,,96-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=457
-,,,,,,,,,,4,3.10,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Driving Layup,,,96-94,3,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=458
+,,,,,,,,,,4,3.10,Detroit Pistons,shot,,,Johnson,,,,,,,Monroe,,,,missed,,Driving Layup,,,96-94,3,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=458
 ,,,,,,,,,,4,3.08,Detroit Pistons,rebound,,,,,,,,,,Middleton,,,,,,,,,96-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=459
 ,,,,,,,,,,4,3.02,Detroit Pistons,shot,Calderon,,,,,,,,,Stuckey,3,,,made,,3PT Jump Shot,,,99-94,25,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=460
 ,,,,,,,,,,4,2.41,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,99-94,13,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=461
 ,,,,,,,,,,4,2.40,Detroit Pistons,rebound,,,,,,,,,,Stuckey,,,,,,,,,99-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=462
 ,,,,,,,,,,4,2.29,Detroit Pistons,shot,Calderon,,,,,,,,,Jerebko,2,,,made,,Jump Shot,,,101-94,20,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=463
 ,,,,,,,,,,4,2.29,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,101-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=464
-,,,,,,,,,,4,2.22,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,101-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=468
+,,,,,,,,,,4,2.22,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Stuckey,,,,101-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=468
 ,,,,,,,,,,4,2.22,Toronto Raptors,foul,,,,,,,,,,Gay,,,,,,Personal,,,101-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=470
 ,,,,,,,,,,4,2.05,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Shooting,,,101-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=472
 ,,,,,,,,,,4,2.05,Detroit Pistons,free throw,,,,,,,1,,2,Jerebko,1,,foul,made,,,,,102-94,,http://stats.nba.com/cvp.html?GameID=0021201100&GameEventID=473

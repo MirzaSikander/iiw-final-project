@@ -1,5 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.42,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Reverse Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=2
+,,,,,,,,,,1,11.42,Memphis Grizzlies,shot,,,Jordan,,,,,,,Randolph,,,,missed,,Reverse Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=2
 ,,,,,,,,,,1,11.39,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=3
 ,,,,,,,,,,1,11.34,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Slam Dunk,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=4
 ,,,,,,,,,,1,11.14,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=5
@@ -7,7 +7,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.39,Los Angeles Clippers,foul,,,,,,,,,,Bledsoe,,,,,,Personal,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=7
 ,,,,,,,,,,1,10.27,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,5-0,21,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=8
 ,,,,,,,,,,1,10.26,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=9
-,,,,,,,,,,1,10.05,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Lost Ball,,,,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=10
+,,,,,,,,,,1,10.05,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Lost Ball,,Allen,,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=10
 ,,,,,,,,,,1,10.03,Los Angeles Clippers,foul,,,,,,,,,,Butler,,,,,,Shooting,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=11
 ,,,,,,,,,,1,10.03,Memphis Grizzlies,free throw,,,,,,,1,,2,Allen,1,,foul,made,,,,,5-1,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=12
 ,,,,,,,,,,1,10.03,Memphis Grizzlies,free throw,,,,,,,2,,2,Allen,1,,foul,made,,,,,5-2,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=14
@@ -27,9 +27,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.42,Los Angeles Clippers,free throw,,,,,,,2,,2,Jordan,,,foul,missed,,,,,9-9,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=29
 ,,,,,,,,,,1,7.41,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,9-9,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=31
 ,,,,,,,,,,1,7.23,Memphis Grizzlies,shot,,,,,,,,,,Gasol,2,,,made,,Fadeaway Jumper,,,9-11,13,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=32
-,,,,,,,,,,1,7.08,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=33
+,,,,,,,,,,1,7.08,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,Conley,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=33
 ,,,,,,,,,,1,7.02,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=34
-,,,,,,,,,,1,6.45,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Jump Shot,,,9-11,4,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=35
+,,,,,,,,,,1,6.45,Los Angeles Clippers,shot,,,Gasol,,,,,,,Jordan,,,,missed,,Jump Shot,,,9-11,4,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=35
 ,,,,,,,,,,1,6.43,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=36
 ,,,,,,,,,,1,6.41,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Layup,,,9-11,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=37
 ,,,,,,,,,,1,6.40,Memphis Grizzlies,rebound,,,,,,,,,,Ellington,,,,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=38
@@ -110,9 +110,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.47,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,25-19,19,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=133
 ,,,,,,,,,,2,11.47,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=134
 ,,,,,,,,,,2,11.31,Memphis Grizzlies,jumpball,,Crawford,,,Gasol,,,,,,,,,,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=135
-,,,,,,,,,,2,11.26,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=136
+,,,,,,,,,,2,11.26,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,Crawford,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=136
 ,,,,,,,,,,2,11.18,Los Angeles Clippers,shot,Hill,,,,,,,,,Barnes,3,,,made,,3PT Jump Shot,,,28-19,24,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=137
-,,,,,,,,,,2,10.55,Memphis Grizzlies,turnover,,,,,,,,,,Selby,,,Lost Ball,,,,,,28-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=138
+,,,,,,,,,,2,10.55,Memphis Grizzlies,turnover,,,,,,,,,,Selby,,,Lost Ball,,Turiaf,,,,28-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=138
 ,,,,,,,,,,2,10.49,Los Angeles Clippers,shot,Crawford,,,,,,,,,Hill,2,,,made,,Layup,,,30-19,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=139
 ,,,,,,,,,,2,10.44,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,30-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=140
 ,,,,,,,,,,2,10.44,Memphis Grizzlies,substitute,,,,Randolph,,Speights,,,,,,,,,,,,,30-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=142
@@ -121,13 +121,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.01,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,30-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=146
 ,,,,,,,,,,2,9.51,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,30-19,8,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=147
 ,,,,,,,,,,2,9.50,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,30-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=148
-,,,,,,,,,,2,9.46,Memphis Grizzlies,shot,,,,,,,,,,Selby,,,,missed,,Driving Layup,,,30-19,3,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=149
+,,,,,,,,,,2,9.46,Memphis Grizzlies,shot,,,Turiaf,,,,,,,Selby,,,,missed,,Driving Layup,,,30-19,3,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=149
 ,,,,,,,,,,2,9.42,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,30-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=150
 ,,,,,,,,,,2,9.42,Memphis Grizzlies,foul,,,,,,,,,,Bayless,,,,,,Shooting,,,30-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=151
 ,,,,,,,,,,2,9.42,Los Angeles Clippers,free throw,,,,,,,1,,2,Crawford,1,,foul,made,,,,,31-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=152
 ,,,,,,,,,,2,9.42,Memphis Grizzlies,substitute,,,,Conley,,Bayless,,,,,,,,,,,,,31-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=154
 ,,,,,,,,,,2,9.42,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,32-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=155
-,,,,,,,,,,2,9.31,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,32-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=157
+,,,,,,,,,,2,9.31,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Barnes,,,,32-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=157
 ,,,,,,,,,,2,9.26,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Layup,,,34-19,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=158
 ,,,,,,,,,,2,9.10,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Driving Layup,,,34-19,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=159
 ,,,,,,,,,,2,9.08,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,34-19,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=160
@@ -141,7 +141,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.32,Memphis Grizzlies,foul,,,,,,,,,,Conley,,,,,,Personal,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=169
 ,,,,,,,,,,2,8.32,Los Angeles Clippers,substitute,,,,Butler,,Hill,,,,,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=170
 ,,,,,,,,,,2,8.32,Memphis Grizzlies,substitute,,,,Allen,,Selby,,,,,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=171
-,,,,,,,,,,2,8.24,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=172
+,,,,,,,,,,2,8.24,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,Conley,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=172
 ,,,,,,,,,,2,8.16,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Layup,,,34-21,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=173
 ,,,,,,,,,,2,8.14,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=175
 ,,,,,,,,,,2,8.14,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Tip Shot,,,34-23,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=174
@@ -171,7 +171,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.23,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,38-30,22,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=201
 ,,,,,,,,,,2,5.22,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,38-30,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=202
 ,,,,,,,,,,2,5.06,Los Angeles Clippers,shot,Bledsoe,,,,,,,,,Odom,2,,,made,,Layup,,,40-30,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=203
-,,,,,,,,,,2,4.40,Memphis Grizzlies,shot,,,,,,,,,,Ellington,,,,missed,,3PT Jump Shot,,,40-30,25,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=204
+,,,,,,,,,,2,4.40,Memphis Grizzlies,shot,,,Crawford,,,,,,,Ellington,,,,missed,,3PT Jump Shot,,,40-30,25,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=204
 ,,,,,,,,,,2,4.40,Memphis Grizzlies,rebound,,,,,,,,,,Ellington,,,,,,,,,40-30,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=205
 ,,,,,,,,,,2,4.40,Memphis Grizzlies,turnover,,,,,,,,,,,,,Shot Clock,,,,,,40-30,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=206
 ,,,,,,,,,,2,4.24,Los Angeles Clippers,shot,,,,,,,,,,Crawford,2,,,made,,Jump Bank Shot,,,42-30,14,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=207
@@ -192,7 +192,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.50,Memphis Grizzlies,foul,,,,,,,,,,Conley,,,,,,Personal,,,45-32,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=224
 ,,,,,,,,,,2,2.50,Los Angeles Clippers,free throw,,,,,,,1,,2,Crawford,1,,foul,made,,,,,46-32,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=229
 ,,,,,,,,,,2,2.50,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,47-32,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=231
-,,,,,,,,,,2,2.30,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Running Jump Shot,,,47-32,10,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=233
+,,,,,,,,,,2,2.30,Memphis Grizzlies,shot,,,Jordan,,,,,,,Randolph,,,,missed,,Running Jump Shot,,,47-32,10,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=233
 ,,,,,,,,,,2,2.29,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,47-32,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=234
 ,,,,,,,,,,2,2.27,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,3PT Jump Shot,,,47-32,26,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=236
 ,,,,,,,,,,2,2.26,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,47-32,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=237
@@ -227,7 +227,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.03,Memphis Grizzlies,substitute,,,,Allen,,Conley,,,,,,,,,,,,,53-34,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=273
 ,,,,,,,,,,2,0.00,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,53-34,24,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=275
 ,,,,,,,,,,2,0.00,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,53-34,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=277
-,,,,,,,,,,3,11.43,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Lost Ball,,,,,,53-34,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=280
+,,,,,,,,,,3,11.43,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Lost Ball,,Gasol,,,,53-34,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=280
 ,,,,,,,,,,3,11.37,Memphis Grizzlies,shot,,,,,,,,,,Ellington,,,,missed,,Layup,,,53-34,4,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=281
 ,,,,,,,,,,3,11.37,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,53-34,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=282
 ,,,,,,,,,,3,11.21,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,53-34,22,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=283
@@ -240,7 +240,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.32,Memphis Grizzlies,shot,Gasol,,,,,,,,,Randolph,2,,,made,,Layup,,,53-36,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=290
 ,,,,,,,,,,3,10.07,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Jump Shot,,,53-36,23,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=292
 ,,,,,,,,,,3,10.07,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,53-36,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=293
-,,,,,,,,,,3,10.01,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,53-36,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=294
+,,,,,,,,,,3,10.01,Memphis Grizzlies,shot,,,Bledsoe,,,,,,,Allen,,,,missed,,Layup,,,53-36,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=294
 ,,,,,,,,,,3,9.58,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,53-36,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=295
 ,,,,,,,,,,3,9.53,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,53-36,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=296
 ,,,,,,,,,,3,9.51,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,53-36,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=297
@@ -273,8 +273,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.50,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,60-40,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=328
 ,,,,,,,,,,3,6.50,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Tip Shot,,,60-40,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=327
 ,,,,,,,,,,3,6.48,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,60-40,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=329
-,,,,,,,,,,3,6.42,Memphis Grizzlies,turnover,,,,,,,,,,Ellington,,,Bad Pass,,,,,,60-40,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=330
-,,,,,,,,,,3,6.36,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,60-40,3,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=331
+,,,,,,,,,,3,6.42,Memphis Grizzlies,turnover,,,,,,,,,,Ellington,,,Bad Pass,,Butler,,,,60-40,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=330
+,,,,,,,,,,3,6.36,Los Angeles Clippers,shot,,,Allen,,,,,,,Griffin,,,,missed,,Jump Shot,,,60-40,3,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=331
 ,,,,,,,,,,3,6.34,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,60-40,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=332
 ,,,,,,,,,,3,6.34,Memphis Grizzlies,foul,,,,,,,,,,Ellington,,,,,,Shooting,,,60-40,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=333
 ,,,,,,,,,,3,6.34,Los Angeles Clippers,free throw,,,,,,,1,,2,Griffin,,,foul,missed,,,,,60-40,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=334
@@ -299,20 +299,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.11,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,66-42,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=356
 ,,,,,,,,,,3,4.09,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,66-42,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=357
 ,,,,,,,,,,3,4.07,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,66-42,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=358
-,,,,,,,,,,3,4.06,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,,,,,66-42,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=359
+,,,,,,,,,,3,4.06,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,Bledsoe,,,,66-42,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=359
 ,,,,,,,,,,3,4.03,Memphis Grizzlies,foul,,,,,,,,,,Bayless,,,,,,Shooting,,,66-42,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=360
 ,,,,,,,,,,3,4.03,Los Angeles Clippers,free throw,,,,,,,1,,2,Bledsoe,1,,foul,made,,,,,67-42,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=361
 ,,,,,,,,,,3,4.03,Los Angeles Clippers,free throw,,,,,,,2,,2,Bledsoe,1,,foul,made,,,,,68-42,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=363
 ,,,,,,,,,,3,3.45,Memphis Grizzlies,shot,Allen,,,,,,,,,Bayless,3,,,made,,3PT Jump Shot,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=365
 ,,,,,,,,,,3,3.20,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,68-45,21,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=366
 ,,,,,,,,,,3,3.19,Memphis Grizzlies,rebound,,,,,,,,,,Ellington,,,,,,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=367
-,,,,,,,,,,3,3.07,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,68-45,3,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=368
+,,,,,,,,,,3,3.07,Memphis Grizzlies,shot,,,Jordan,,,,,,,Randolph,,,,missed,,Layup,,,68-45,3,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=368
 ,,,,,,,,,,3,3.05,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=369
 ,,,,,,,,,,3,2.50,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,68-45,9,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=370
 ,,,,,,,,,,3,2.50,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=371
-,,,,,,,,,,3,2.48,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=372
-,,,,,,,,,,3,2.28,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=373
-,,,,,,,,,,3,2.21,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=374
+,,,,,,,,,,3,2.48,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Bledsoe,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=372
+,,,,,,,,,,3,2.28,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Lost Ball,,Bayless,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=373
+,,,,,,,,,,3,2.21,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,Green,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=374
 ,,,,,,,,,,3,2.16,Memphis Grizzlies,foul,,,,,,,,,,Allen,,,,,,Shooting,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=375
 ,,,,,,,,,,3,2.16,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=376
 ,,,,,,,,,,3,2.16,Memphis Grizzlies,substitute,,,,Wroten,,Randolph,,,,,,,,,,,,,68-45,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=378
@@ -342,11 +342,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.24,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,Jump Shot,,,73-52,22,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=406
 ,,,,,,,,,,4,11.23,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,73-52,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=407
 ,,,,,,,,,,4,11.21,Memphis Grizzlies,turnover,,,,,,,,,,Arthur Out of Bounds,,,Lost Ball,,,,,,73-52,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=408
-,,,,,,,,,,4,11.14,Los Angeles Clippers,turnover,,,,,,,,,,Hill,,,Lost Ball,,,,,,73-52,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=409
+,,,,,,,,,,4,11.14,Los Angeles Clippers,turnover,,,,,,,,,,Hill,,,Lost Ball,,Allen,,,,73-52,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=409
 ,,,,,,,,,,4,11.14,Los Angeles Clippers,foul,,,,,,,,,,Odom,,,,,,Personal Take,,,73-52,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=410
-,,,,,,,,,,4,11.03,Memphis Grizzlies,shot,,,,,,,,,,Wroten,,,,missed,,Layup,,,73-52,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=411
+,,,,,,,,,,4,11.03,Memphis Grizzlies,shot,,,Turiaf,,,,,,,Wroten,,,,missed,,Layup,,,73-52,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=411
 ,,,,,,,,,,4,11.03,Memphis Grizzlies,rebound,,,,,,,,,,Wroten,,,,,,,,,73-52,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=413
-,,,,,,,,,,4,11.03,Memphis Grizzlies,shot,,,,,,,,,,Wroten,,,,missed,,Layup,,,73-52,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=412
+,,,,,,,,,,4,11.03,Memphis Grizzlies,shot,,,Hill,,,,,,,Wroten,,,,missed,,Layup,,,73-52,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=412
 ,,,,,,,,,,4,11.03,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,73-52,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=414
 ,,,,,,,,,,4,10.59,Memphis Grizzlies,shot,,,,,,,,,,Ellington,,,,missed,,3PT Jump Shot,,,73-52,26,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=415
 ,,,,,,,,,,4,10.58,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,73-52,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=416
@@ -378,7 +378,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.21,Los Angeles Clippers,foul,,,,,,,,,,Turiaf,,,,,,Shooting,,,80-56,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=449
 ,,,,,,,,,,4,8.21,Memphis Grizzlies,free throw,,,,,,,1,,2,Randolph,1,,foul,made,,,,,80-57,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=450
 ,,,,,,,,,,4,8.21,Memphis Grizzlies,free throw,,,,,,,2,,2,Randolph,1,,foul,made,,,,,80-58,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=451
-,,,,,,,,,,4,8.11,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Lost Ball,,,,,,80-58,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=453
+,,,,,,,,,,4,8.11,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Lost Ball,,Ellington,,,,80-58,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=453
 ,,,,,,,,,,4,8.06,Memphis Grizzlies,shot,Ellington,,,,,,,,,Arthur,2,,,made,,Slam Dunk,,,80-60,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=454
 ,,,,,,,,,,4,7.53,Los Angeles Clippers,shot,Odom,,,,,,,,,Hill,2,,,made,,Layup,,,82-60,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=455
 ,,,,,,,,,,4,7.42,Memphis Grizzlies,shot,Wroten,,,,,,,,,Arthur,2,,,made,,Jump Shot,,,82-62,19,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=456
@@ -389,7 +389,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.06,Los Angeles Clippers,rebound,,,,,,,,,,Turiaf,,,,,,,,,84-62,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=461
 ,,,,,,,,,,4,7.02,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Running Layup,,,84-62,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=462
 ,,,,,,,,,,4,6.59,Memphis Grizzlies,rebound,,,,,,,,,,Wroten,,,,,,,,,84-62,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=463
-,,,,,,,,,,4,6.54,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,84-62,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=464
+,,,,,,,,,,4,6.54,Memphis Grizzlies,shot,,,Odom,,,,,,,Randolph,,,,missed,,Layup,,,84-62,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=464
 ,,,,,,,,,,4,6.51,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,84-62,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=465
 ,,,,,,,,,,4,6.48,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,Reverse Layup,,,84-62,1,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=466
 ,,,,,,,,,,4,6.45,Los Angeles Clippers,rebound,,,,,,,,,,Hill,,,,,,,,,84-62,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=468
@@ -416,7 +416,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.34,Memphis Grizzlies,rebound,,,,,,,,,,Wroten,,,,,,,,,90-66,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=495
 ,,,,,,,,,,4,4.29,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Layup,,,90-66,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=496
 ,,,,,,,,,,4,4.26,Los Angeles Clippers,rebound,,,,,,,,,,Hill,,,,,,,,,90-66,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=497
-,,,,,,,,,,4,4.09,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,90-66,3,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=498
+,,,,,,,,,,4,4.09,Los Angeles Clippers,shot,,,Speights,,,,,,,Crawford,,,,missed,,Jump Shot,,,90-66,3,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=498
 ,,,,,,,,,,4,4.06,Memphis Grizzlies,rebound,,,,,,,,,,Wroten,,,,,,,,,90-66,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=499
 ,,,,,,,,,,4,3.58,Memphis Grizzlies,shot,,,,,,,,,,Selby,,,,missed,,Jump Shot,,,90-66,22,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=500
 ,,,,,,,,,,4,3.58,Los Angeles Clippers,rebound,,,,,,,,,,Hollins,,,,,,,,,90-66,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=501
@@ -430,13 +430,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.10,Memphis Grizzlies,foul,,,,,,,,,,Speights,,,,,,Shooting,,,91-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=510
 ,,,,,,,,,,4,3.10,Los Angeles Clippers,free throw,,,,,,,1,,2,Odom,1,,foul,made,,,,,92-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=511
 ,,,,,,,,,,4,3.10,Los Angeles Clippers,free throw,,,,,,,2,,2,Odom,1,,foul,made,,,,,93-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=513
-,,,,,,,,,,4,2.48,Memphis Grizzlies,turnover,,,,,,,,,,Selby,,,Bad Pass,,,,,,93-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=515
+,,,,,,,,,,4,2.48,Memphis Grizzlies,turnover,,,,,,,,,,Selby,,,Bad Pass,,Barnes,,,,93-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=515
 ,,,,,,,,,,4,2.42,Los Angeles Clippers,shot,Green,,,,,,,,,Hollins,2,,,made,,Alley Oop Dunk,,,95-68,2,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=516
 ,,,,,,,,,,4,2.22,Los Angeles Clippers,foul,,,,,,,,,,Hill,,,,,,Personal,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=517
 ,,,,,,,,,,4,2.22,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=519
 ,,,,,,,,,,4,2.11,Memphis Grizzlies,shot,,,,,,,,,,Wroten,,,,missed,,3PT Jump Shot,,,95-68,25,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=521
 ,,,,,,,,,,4,2.10,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=522
-,,,,,,,,,,4,2.08,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,,,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=523
+,,,,,,,,,,4,2.08,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,Bayless,,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=523
 ,,,,,,,,,,4,2.04,Memphis Grizzlies,shot,Bayless,,,,,,,,,Selby,3,,,made,,3PT Jump Shot,,,95-71,25,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=524
 ,,,,,,,,,,4,1.41,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,95-71,24,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=525
 ,,,,,,,,,,4,1.40,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,95-71,,http://stats.nba.com/cvp.html?GameID=0021200559&GameEventID=526

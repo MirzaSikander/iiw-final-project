@@ -3,7 +3,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.38,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Driving Layup,,,2-0,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=3
 ,,,,,,,,,,1,11.25,Oklahoma City Thunder,foul,,,,,,,,,,,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=4
 ,,,,,,,,,,1,11.25,Utah Jazz,free throw,,,,,,,,,,Williams,1,,Technical,made,,,,,2-1,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=5
-,,,,,,,,,,1,11.14,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,2-1,24,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=7
+,,,,,,,,,,1,11.14,Utah Jazz,shot,,,Durant,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,2-1,24,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=7
 ,,,,,,,,,,1,11.12,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,2-1,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=8
 ,,,,,,,,,,1,11.06,Utah Jazz,turnover,,,,,,,,,,Williams,,,Traveling,,,,,,2-1,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=9
 ,,,,,,,,,,1,10.53,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Hook Shot,,,2-1,5,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=10
@@ -14,7 +14,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.11,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,2-4,25,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=15
 ,,,,,,,,,,1,10.10,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=16
 ,,,,,,,,,,1,10.01,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Personal,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=17
-,,,,,,,,,,1,9.53,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=18
+,,,,,,,,,,1,9.53,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,Durant,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=18
 ,,,,,,,,,,1,9.48,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Layup,,,2-4,1,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=19
 ,,,,,,,,,,1,9.48,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=20
 ,,,,,,,,,,1,9.43,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,2-4,13,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=21
@@ -32,9 +32,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.36,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=33
 ,,,,,,,,,,1,7.35,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=34
 ,,,,,,,,,,1,7.35,Oklahoma City Thunder,foul,,,,,,,,,,Sefolosha,,,,,,Loose ball,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=35
-,,,,,,,,,,1,7.21,Utah Jazz,turnover,,,,,,,,,,Williams,,,Lost Ball,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=36
+,,,,,,,,,,1,7.21,Utah Jazz,turnover,,,,,,,,,,Williams,,,Lost Ball,,Perkins,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=36
 ,,,,,,,,,,1,7.12,Utah Jazz,foul,,,,,,,,,,Hayward,,,,,,Personal,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=37
-,,,,,,,,,,1,7.04,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,9-6,7,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=38
+,,,,,,,,,,1,7.04,Oklahoma City Thunder,shot,,,Jefferson,,,,,,,Westbrook,,,,missed,,Jump Shot,,,9-6,7,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=38
 ,,,,,,,,,,1,7.03,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=39
 ,,,,,,,,,,1,6.56,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=40
 ,,,,,,,,,,1,6.55,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=41
@@ -45,14 +45,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.08,Oklahoma City Thunder,shot,Durant,,,,,,,,,Sefolosha,3,,,made,,3PT Jump Shot,,,14-8,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=48
 ,,,,,,,,,,1,5.41,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Layup,,,14-10,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=49
 ,,,,,,,,,,1,5.25,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Running Slam Dunk,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=50
-,,,,,,,,,,1,5.04,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=51
-,,,,,,,,,,1,4.58,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Layup,,,16-10,1,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=52
+,,,,,,,,,,1,5.04,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Sefolosha,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=51
+,,,,,,,,,,1,4.58,Oklahoma City Thunder,shot,,,Millsap,,,,,,,Westbrook,,,,missed,,Layup,,,16-10,1,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=52
 ,,,,,,,,,,1,4.56,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=53
 ,,,,,,,,,,1,4.53,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,2,,,made,,Hook Shot,,,18-10,4,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=54
 ,,,,,,,,,,1,4.47,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,18-10,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=55
 ,,,,,,,,,,1,4.47,Utah Jazz,substitute,,,,Favors,,Millsap,,,,,,,,,,,,,18-10,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=57
 ,,,,,,,,,,1,4.47,Utah Jazz,substitute,,,,Carroll,,Hayward,,,,,,,,,,,,,18-10,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=58
-,,,,,,,,,,1,4.39,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Jump Shot,,,18-10,3,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=59
+,,,,,,,,,,1,4.39,Utah Jazz,shot,,,Ibaka,,,,,,,Foye,,,,missed,,Jump Shot,,,18-10,3,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=59
 ,,,,,,,,,,1,4.36,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,18-10,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=60
 ,,,,,,,,,,1,4.35,Utah Jazz,foul,,,,,,,,,,Williams,,,,,,Personal,,,18-10,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=61
 ,,,,,,,,,,1,4.27,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,18-10,17,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=62
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.59,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,22-15,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=86
 ,,,,,,,,,,1,1.56,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Layup,,,24-15,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=87
 ,,,,,,,,,,1,1.51,Utah Jazz,shot,Carroll,,,,,,,,,Williams,2,,,made,,Jump Shot,,,24-17,18,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=88
-,,,,,,,,,,1,1.37,Oklahoma City Thunder,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,24-17,12,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=89
+,,,,,,,,,,1,1.37,Oklahoma City Thunder,shot,,,Favors,,,,,,,Collison,,,,missed,,Jump Shot,,,24-17,12,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=89
 ,,,,,,,,,,1,1.35,Utah Jazz,rebound,,,,,,,,,,Foye,,,,,,,,,24-17,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=90
 ,,,,,,,,,,1,1.27,Utah Jazz,shot,,,,,,,,,,Williams,2,,,made,,Jump Shot,,,24-19,16,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=91
 ,,,,,,,,,,1,1.02,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,24-19,20,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=92
@@ -93,10 +93,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.00,Oklahoma City Thunder,violation,,,,,,,,,,Thunder,,, Delay of game Violation,,,,,,24-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=98
 ,,,,,,,,,,1,1.00,Oklahoma City Thunder,substitute,,,,Thabeet,,Ibaka,,,,,,,,,,,,,24-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=99
 ,,,,,,,,,,1,0.51,Oklahoma City Thunder,violation,,,,,,,,,,Jackson,,,Kicked Ball,,,,,,24-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=100
-,,,,,,,,,,1,0.47,Utah Jazz,turnover,,,,,,,,,,Favors,,,Lost Ball,,,,,,24-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=101
+,,,,,,,,,,1,0.47,Utah Jazz,turnover,,,,,,,,,,Favors,,,Lost Ball,,Westbrook,,,,24-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=101
 ,,,,,,,,,,1,0.36,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Layup,,,24-19,3,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=102
 ,,,,,,,,,,1,0.34,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,24-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=103
-,,,,,,,,,,1,0.31,Utah Jazz,turnover,,,,,,,,,,Favors,,,Bad Pass,,,,,,24-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=104
+,,,,,,,,,,1,0.31,Utah Jazz,turnover,,,,,,,,,,Favors,,,Bad Pass,,Jackson,,,,24-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=104
 ,,,,,,,,,,1,0.20,Utah Jazz,foul,,,,,,,,,,Carroll,,,,,,Shooting,,,24-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=105
 ,,,,,,,,,,1,0.20,Oklahoma City Thunder,free throw,,,,,,,1,,2,Westbrook,1,,foul,made,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=106
 ,,,,,,,,,,1,0.20,Oklahoma City Thunder,free throw,,,,,,,2,,2,Westbrook,1,,foul,made,,,,,26-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=108
@@ -110,15 +110,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.25,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,26-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=119
 ,,,,,,,,,,2,11.17,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,26-19,10,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=120
 ,,,,,,,,,,2,11.16,Oklahoma City Thunder,rebound,,,,,,,,,,Jackson,,,,,,,,,26-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=121
-,,,,,,,,,,2,11.10,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,Hook Shot,,,26-19,4,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=122
+,,,,,,,,,,2,11.10,Oklahoma City Thunder,shot,,,Favors,,,,,,,Martin,,,,missed,,Hook Shot,,,26-19,4,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=122
 ,,,,,,,,,,2,11.07,Utah Jazz,rebound,,,,,,,,,,Carroll,,,,,,,,,26-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=123
 ,,,,,,,,,,2,10.54,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,26-19,10,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=124
 ,,,,,,,,,,2,10.53,Utah Jazz,rebound,,,,,,,,,,Carroll,,,,,,,,,26-19,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=125
 ,,,,,,,,,,2,10.42,Utah Jazz,shot,Tinsley,,,,,,,,,Carroll,3,,,made,,3PT Jump Shot,,,26-22,24,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=126
-,,,,,,,,,,2,10.23,Oklahoma City Thunder,turnover,,,,,,,,,,Jackson,,,Bad Pass,,,,,,26-22,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=127
+,,,,,,,,,,2,10.23,Oklahoma City Thunder,turnover,,,,,,,,,,Jackson,,,Bad Pass,,Carroll,,,,26-22,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=127
 ,,,,,,,,,,2,10.17,Oklahoma City Thunder,foul,,,,,,,,,,Collison,,,,,,Personal,,,26-22,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=128
 ,,,,,,,,,,2,10.14,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Personal,,,26-22,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=129
-,,,,,,,,,,2,9.59,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,26-22,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=130
+,,,,,,,,,,2,9.59,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Fisher,,,,26-22,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=130
 ,,,,,,,,,,2,9.52,Oklahoma City Thunder,shot,,,,,,,,,,Fisher,,,,missed,,Jump Shot,,,26-22,19,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=131
 ,,,,,,,,,,2,9.51,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,26-22,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=132
 ,,,,,,,,,,2,9.45,Utah Jazz,shot,Tinsley,,,,,,,,,Millsap,2,,,made,,Layup,,,26-24,3,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=133
@@ -128,9 +128,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.15,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,26-24,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=137
 ,,,,,,,,,,2,9.15,Utah Jazz,foul,,,,,,,,,,Favors,,,,,,Loose ball,,,26-24,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=138
 ,,,,,,,,,,2,9.02,Oklahoma City Thunder,shot,Jackson,,,,,,,,,Collison,2,,,made,,Jump Shot,,,28-24,20,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=139
-,,,,,,,,,,2,8.46,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,28-24,13,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=140
+,,,,,,,,,,2,8.46,Utah Jazz,shot,,,Thabeet,,,,,,,Hayward,,,,missed,,Jump Shot,,,28-24,13,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=140
 ,,,,,,,,,,2,8.44,Oklahoma City Thunder,rebound,,,,,,,,,,Fisher,,,,,,,,,28-24,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=141
-,,,,,,,,,,2,8.38,Oklahoma City Thunder,shot,,,,,,,,,,Jackson,,,,missed,,Jump Shot,,,28-24,5,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=142
+,,,,,,,,,,2,8.38,Oklahoma City Thunder,shot,,,Carroll,,,,,,,Jackson,,,,missed,,Jump Shot,,,28-24,5,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=142
 ,,,,,,,,,,2,8.37,Oklahoma City Thunder,rebound,,,,,,,,,,Jackson,,,,,,,,,28-24,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=148
 ,,,,,,,,,,2,8.36,Oklahoma City Thunder,shot,,,,,,,,,,Jackson,,,,missed,,Tip Shot,,,28-24,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=149
 ,,,,,,,,,,2,8.34,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,28-24,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=143
@@ -162,9 +162,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.34,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Shooting,,,34-26,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=174
 ,,,,,,,,,,2,5.34,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,35-26,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=175
 ,,,,,,,,,,2,5.34,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,36-26,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=177
-,,,,,,,,,,2,5.17,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Layup,,,36-26,3,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=179
+,,,,,,,,,,2,5.17,Utah Jazz,shot,,,Ibaka,,,,,,,Favors,,,,missed,,Layup,,,36-26,3,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=179
 ,,,,,,,,,,2,5.15,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,36-26,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=180
-,,,,,,,,,,2,4.54,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,36-26,12,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=181
+,,,,,,,,,,2,4.54,Oklahoma City Thunder,shot,,,Favors,,,,,,,Durant,,,,missed,,Jump Shot,,,36-26,12,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=181
 ,,,,,,,,,,2,4.53,Utah Jazz,rebound,,,,,,,,,,Carroll,,,,,,,,,36-26,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=182
 ,,,,,,,,,,2,4.44,Utah Jazz,shot,Williams,,,,,,,,,Millsap,2,,,made,,Floating Jump Shot,,,36-28,5,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=184
 ,,,,,,,,,,2,4.23,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,36-28,20,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=185
@@ -179,7 +179,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.18,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=194
 ,,,,,,,,,,2,3.12,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,39-31,16,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=195
 ,,,,,,,,,,2,3.11,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=196
-,,,,,,,,,,2,2.57,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=197
+,,,,,,,,,,2,2.57,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Jefferson,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=197
 ,,,,,,,,,,2,2.57,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Personal,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=198
 ,,,,,,,,,,2,2.57,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=200
 ,,,,,,,,,,2,2.57,Oklahoma City Thunder,substitute,,,,Perkins,,Martin,,,,,,,,,,,,,39-31,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=202
@@ -187,9 +187,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.57,Utah Jazz,free throw,,,,,,,2,,2,Foye,1,,foul,made,,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=205
 ,,,,,,,,,,2,2.44,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,39-33,24,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=207
 ,,,,,,,,,,2,2.44,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=208
-,,,,,,,,,,2,2.30,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=209
+,,,,,,,,,,2,2.30,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,Ibaka,,,,39-33,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=209
 ,,,,,,,,,,2,2.16,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Westbrook,2,,,made,,Slam Dunk,,,41-33,1,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=210
-,,,,,,,,,,2,1.58,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=211
+,,,,,,,,,,2,1.58,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Westbrook,,,,41-33,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=211
 ,,,,,,,,,,2,1.50,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Durant,2,,,made,,Jump Shot,,,43-33,21,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=213
 ,,,,,,,,,,2,1.22,Utah Jazz,shot,Williams,,,,,,,,,Millsap,2,,,made,,Layup,,,43-35,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=214
 ,,,,,,,,,,2,1.11,Utah Jazz,foul,,,,,,,,,,Carroll,,,,,,Personal,,,43-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=215
@@ -198,12 +198,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.11,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=219
 ,,,,,,,,,,2,0.50,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,45-35,25,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=221
 ,,,,,,,,,,2,0.48,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=222
-,,,,,,,,,,2,0.25,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=223
+,,,,,,,,,,2,0.25,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,Millsap,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=223
 ,,,,,,,,,,2,0.02,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,45-35,25,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=224
 ,,,,,,,,,,2,0.00,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=225
-,,,,,,,,,,3,11.38,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=229
+,,,,,,,,,,3,11.38,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,Durant,,,,45-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=229
 ,,,,,,,,,,3,11.33,Oklahoma City Thunder,shot,Durant,,,,,,,,,Westbrook,2,,,made,,Layup,,,47-35,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=230
-,,,,,,,,,,3,11.12,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,47-35,4,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=231
+,,,,,,,,,,3,11.12,Utah Jazz,shot,,,Ibaka,,,,,,,Millsap,,,,missed,,Jump Shot,,,47-35,4,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=231
 ,,,,,,,,,,3,11.10,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,47-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=232
 ,,,,,,,,,,3,10.55,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Personal,,,47-35,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=233
 ,,,,,,,,,,3,10.48,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Driving Layup,,,47-35,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=234
@@ -223,7 +223,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.48,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,49-38,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=250
 ,,,,,,,,,,3,8.42,Oklahoma City Thunder,shot,Perkins,,,,,,,,,Sefolosha,3,,,made,,3PT Jump Shot,,,52-38,24,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=251
 ,,,,,,,,,,3,8.26,Utah Jazz,shot,,,,,,,,,,Williams,2,,,made,,Driving Layup,,,52-40,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=252
-,,,,,,,,,,3,8.12,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,52-40,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=253
+,,,,,,,,,,3,8.12,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Hayward,,,,52-40,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=253
 ,,,,,,,,,,3,8.04,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Personal,,,52-40,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=254
 ,,,,,,,,,,3,7.54,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,52-40,12,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=255
 ,,,,,,,,,,3,7.52,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,52-40,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=256
@@ -234,17 +234,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.12,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Slam Dunk,,,56-43,1,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=261
 ,,,,,,,,,,3,6.53,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,56-43,25,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=262
 ,,,,,,,,,,3,6.52,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,56-43,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=263
-,,,,,,,,,,3,6.43,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,,,,,56-43,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=264
+,,,,,,,,,,3,6.43,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,Williams,,,,56-43,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=264
 ,,,,,,,,,,3,6.38,Utah Jazz,shot,Williams,,,,,,,,,Hayward,2,,,made,,Slam Dunk,,,56-45,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=265
 ,,,,,,,,,,3,6.37,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,56-45,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=266
 ,,,,,,,,,,3,6.37,Utah Jazz,substitute,,,,Favors,,Millsap,,,,,,,,,,,,,56-45,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=268
 ,,,,,,,,,,3,6.19,Oklahoma City Thunder,shot,Durant,,,,,,,,,Ibaka,2,,,made,,Jump Shot,,,58-45,16,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=269
-,,,,,,,,,,3,6.03,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,58-45,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=270
+,,,,,,,,,,3,6.03,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,Durant,,,,58-45,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=270
 ,,,,,,,,,,3,6.00,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook Poss,,,Lost Ball,,,,,,58-45,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=271
 ,,,,,,,,,,3,5.48,Utah Jazz,shot,,,,,,,,,,Hayward,3,,,made,,3PT Jump Shot,,,58-48,25,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=272
 ,,,,,,,,,,3,5.28,Oklahoma City Thunder,shot,Durant,,,,,,,,,Ibaka,2,,,made,,Jump Shot,,,60-48,18,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=273
 ,,,,,,,,,,3,5.10,Utah Jazz,shot,Foye,,,,,,,,,Jefferson,2,,,made,,Layup,,,60-50,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=274
-,,,,,,,,,,3,4.49,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,60-50,7,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=275
+,,,,,,,,,,3,4.49,Oklahoma City Thunder,shot,,,Favors,,,,,,,Perkins,,,,missed,,Jump Shot,,,60-50,7,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=275
 ,,,,,,,,,,3,4.47,Utah Jazz,rebound,,,,,,,,,,Foye,,,,,,,,,60-50,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=276
 ,,,,,,,,,,3,4.36,Utah Jazz,shot,Hayward,,,,,,,,,Favors,2,,,made,,Reverse Layup,,,60-52,1,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=277
 ,,,,,,,,,,3,4.36,Oklahoma City Thunder,foul,,,,,,,,,,Sefolosha,,,,,,Shooting,,,60-52,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=278
@@ -254,7 +254,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.17,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Tip Shot,,,60-53,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=282
 ,,,,,,,,,,3,4.13,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,60-53,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=285
 ,,,,,,,,,,3,4.13,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,2,,,made,,Jump Hook Shot,,,62-53,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=284
-,,,,,,,,,,3,4.01,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Jump Shot,,,62-53,9,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=286
+,,,,,,,,,,3,4.01,Utah Jazz,shot,,,Ibaka,,,,,,,Favors,,,,missed,,Jump Shot,,,62-53,9,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=286
 ,,,,,,,,,,3,4.01,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=287
 ,,,,,,,,,,3,4.01,Oklahoma City Thunder,substitute,,,,Martin,,Durant,,,,,,,,,,,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=288
 ,,,,,,,,,,3,3.55,Oklahoma City Thunder,foul,,,,,,,,,,Perkins,,,,,,Personal,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=289
@@ -262,7 +262,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.44,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=291
 ,,,,,,,,,,3,3.37,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,62-53,16,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=292
 ,,,,,,,,,,3,3.36,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=293
-,,,,,,,,,,3,3.24,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Reverse Layup,,,62-53,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=294
+,,,,,,,,,,3,3.24,Utah Jazz,shot,,,Ibaka,,,,,,,Hayward,,,,missed,,Reverse Layup,,,62-53,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=294
 ,,,,,,,,,,3,3.24,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=296
 ,,,,,,,,,,3,3.22,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=297
 ,,,,,,,,,,3,3.06,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,62-53,25,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=298
@@ -308,7 +308,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.12,Oklahoma City Thunder,shot,,,,,,,,,,Jackson,2,,,made,,Driving Layup,,,70-61,2,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=347
 ,,,,,,,,,,4,10.47,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,70-61,24,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=348
 ,,,,,,,,,,4,10.46,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=349
-,,,,,,,,,,4,10.33,Utah Jazz,turnover,,,,,,,,,,Foye,,,Lost Ball,,,,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=350
+,,,,,,,,,,4,10.33,Utah Jazz,turnover,,,,,,,,,,Foye,,,Lost Ball,,Fisher,,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=350
 ,,,,,,,,,,4,10.19,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Running Bank Shot,,,72-61,9,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=351
 ,,,,,,,,,,4,10.11,Utah Jazz,substitute,,,,Hayward,,Foye,,,,,,,,,,,,,72-61,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=352
 ,,,,,,,,,,4,10.06,Utah Jazz,shot,Hayward,,,,,,,,,Favors,2,,,made,,Jump Shot,,,72-63,3,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=353
@@ -324,7 +324,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.07,Utah Jazz,shot,Tinsley,,,,,,,,,Hayward,2,,,made,,Running Jump Shot,,,72-66,6,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=364
 ,,,,,,,,,,4,8.51,Oklahoma City Thunder,shot,Jackson,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,75-66,24,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=365
 ,,,,,,,,,,4,8.30,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=366
-,,,,,,,,,,4,8.12,Oklahoma City Thunder,shot,,,,,,,,,,Jackson,,,,missed,,Jump Shot,,,75-66,3,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=369
+,,,,,,,,,,4,8.12,Oklahoma City Thunder,shot,,,Favors,,,,,,,Jackson,,,,missed,,Jump Shot,,,75-66,3,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=369
 ,,,,,,,,,,4,8.11,Utah Jazz,rebound,,,,,,,,,,Tinsley,,,,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=370
 ,,,,,,,,,,4,8.02,Utah Jazz,shot,,,,,,,,,,Carroll,,,,missed,,Jump Shot,,,75-66,19,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=371
 ,,,,,,,,,,4,8.02,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=372
@@ -335,7 +335,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.31,Utah Jazz,rebound,,,,,,,,,,Tinsley,,,,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=377
 ,,,,,,,,,,4,7.18,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,75-66,4,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=378
 ,,,,,,,,,,4,7.17,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=379
-,,,,,,,,,,4,7.10,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=380
+,,,,,,,,,,4,7.10,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Millsap,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=380
 ,,,,,,,,,,4,7.04,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Traveling,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=381
 ,,,,,,,,,,4,7.04,Utah Jazz,substitute,,,,Williams,,Tinsley,,,,,,,,,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=382
 ,,,,,,,,,,4,6.55,Utah Jazz,foul,,,,,,,,,,Favors,,,,,,Shooting,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=383
@@ -394,7 +394,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.19,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=453
 ,,,,,,,,,,4,0.19,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=455
 ,,,,,,,,,,4,0.19,Oklahoma City Thunder,substitute,,,,Sefolosha,,Martin,,,,,,,,,,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=457
-,,,,,,,,,,4,0.17,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=458
+,,,,,,,,,,4,0.17,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Westbrook,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=458
 ,,,,,,,,,,4,0.16,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Slam Dunk,,,88-80,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=459
 ,,,,,,,,,,4,0.16,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,88-80,,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=460
 ,,,,,,,,,,4,0.08,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,88-80,25,http://stats.nba.com/cvp.html?GameID=0021201161&GameEventID=462

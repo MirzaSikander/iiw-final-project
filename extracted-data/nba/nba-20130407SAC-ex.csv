@@ -10,17 +10,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.22,Sacramento Kings,shot,Thomas,,,,,,,,,Cousins,2,,,made,,Jump Shot,,,2-4,20,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=10
 ,,,,,,,,,,1,10.02,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,2-4,16,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=11
 ,,,,,,,,,,1,10.01,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=12
-,,,,,,,,,,1,9.42,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=13
+,,,,,,,,,,1,9.42,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Allen,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=13
 ,,,,,,,,,,1,9.37,Memphis Grizzlies,shot,Gasol,,,,,,,,,Conley,2,,,made,,Layup,,,4-4,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=14
 ,,,,,,,,,,1,9.18,Sacramento Kings,shot,Thomas,,,,,,,,,Cousins,2,,,made,,Finger Roll Layup,,,4-6,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=17
 ,,,,,,,,,,1,8.55,Memphis Grizzlies,shot,Prince,,,,,,,,,Conley,3,,,made,,3PT Jump Shot,,,7-6,25,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=18
-,,,,,,,,,,1,8.45,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,Jump Shot,,,7-6,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=19
+,,,,,,,,,,1,8.45,Sacramento Kings,shot,,,Gasol,,,,,,,Salmons,,,,missed,,Jump Shot,,,7-6,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=19
 ,,,,,,,,,,1,8.44,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=20
 ,,,,,,,,,,1,8.41,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Shooting,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=21
 ,,,,,,,,,,1,8.41,Memphis Grizzlies,free throw,,,,,,,1,,2,Prince,,,foul,missed,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=22
 ,,,,,,,,,,1,8.41,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=23
 ,,,,,,,,,,1,8.41,Memphis Grizzlies,free throw,,,,,,,2,,2,Prince,1,,foul,made,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=24
-,,,,,,,,,,1,8.21,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=26
+,,,,,,,,,,1,8.21,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,Prince,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=26
 ,,,,,,,,,,1,8.10,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,8-6,19,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=27
 ,,,,,,,,,,1,8.09,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=28
 ,,,,,,,,,,1,8.06,Memphis Grizzlies,foul,,,,,,,,,,Gasol,,,,,,Personal,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=29
@@ -40,7 +40,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.30,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=43
 ,,,,,,,,,,1,6.29,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Layup,,,8-8,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=44
 ,,,,,,,,,,1,6.20,Memphis Grizzlies,shot,,,,,,,,,,Conley,2,,,made,,Driving Layup,,,10-8,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=45
-,,,,,,,,,,1,6.01,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,10-8,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=46
+,,,,,,,,,,1,6.01,Sacramento Kings,shot,,,Allen,,,,,,,Cousins,,,,missed,,Jump Shot,,,10-8,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=46
 ,,,,,,,,,,1,5.59,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,10-8,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=47
 ,,,,,,,,,,1,5.48,Memphis Grizzlies,shot,,,,,,,,,,Conley,2,,,made,,Driving Layup,,,12-8,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=48
 ,,,,,,,,,,1,5.30,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,12-8,8,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=49
@@ -61,7 +61,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.16,Sacramento Kings,free throw,,,,,,,1,,2,Evans,1,,foul,made,,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=66
 ,,,,,,,,,,1,4.16,Memphis Grizzlies,violation,,,,,,,,,,Gasol,,,Lane,,,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=70
 ,,,,,,,,,,1,4.16,Sacramento Kings,free throw,,,,,,,2,,2,Evans,1,,foul,made,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=72
-,,,,,,,,,,1,4.06,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=74
+,,,,,,,,,,1,4.06,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Salmons,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=74
 ,,,,,,,,,,1,4.00,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Layup,,,14-10,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=75
 ,,,,,,,,,,1,3.58,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=76
 ,,,,,,,,,,1,3.54,Sacramento Kings,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=77
@@ -71,7 +71,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.54,Memphis Grizzlies,free throw,,,,,,,2,,2,Allen,1,,foul,made,,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=82
 ,,,,,,,,,,1,3.42,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,16-10,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=84
 ,,,,,,,,,,1,3.40,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=85
-,,,,,,,,,,1,3.39,Sacramento Kings,shot,,,,,,,,,,Hayes,,,,missed,,Layup,,,16-10,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=86
+,,,,,,,,,,1,3.39,Sacramento Kings,shot,,,Davis,,,,,,,Hayes,,,,missed,,Layup,,,16-10,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=86
 ,,,,,,,,,,1,3.38,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=87
 ,,,,,,,,,,1,3.20,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Floating Jump Shot,,,16-10,8,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=88
 ,,,,,,,,,,1,3.19,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,16-10,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=89
@@ -93,7 +93,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.25,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,21-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=111
 ,,,,,,,,,,1,1.10,Memphis Grizzlies,shot,,,,,,,,,,Dooling,,,,missed,,Jump Shot,,,21-16,22,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=112
 ,,,,,,,,,,1,1.09,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,21-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=113
-,,,,,,,,,,1,1.01,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Driving Layup,,,21-16,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=114
+,,,,,,,,,,1,1.01,Sacramento Kings,shot,,,Gasol,,,,,,,Evans,,,,missed,,Driving Layup,,,21-16,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=114
 ,,,,,,,,,,1,1.00,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,21-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=115
 ,,,,,,,,,,1,0.49,Memphis Grizzlies,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,21-16,9,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=116
 ,,,,,,,,,,1,0.48,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,21-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=118
@@ -104,7 +104,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.31,Sacramento Kings,substitute,,,,Aldrich,,Cousins,,,,,,,,,,,,,22-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=123
 ,,,,,,,,,,1,0.31,Memphis Grizzlies,substitute,,,,Wroten,,Allen,,,,,,,,,,,,,22-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=124
 ,,,,,,,,,,1,0.31,Memphis Grizzlies,free throw,,,,,,,2,,2,Gasol,1,,foul,made,,,,,23-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=125
-,,,,,,,,,,1,0.18,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Bad Pass,,,,,,23-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=127
+,,,,,,,,,,1,0.18,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Bad Pass,,Davis,,,,23-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=127
 ,,,,,,,,,,1,0.15,Memphis Grizzlies,shot,Dooling,,,,,,,,,Pondexter,2,,,made,,Dunk,,,25-16,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=128
 ,,,,,,,,,,1,0.02,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,3PT Jump Shot,,,25-16,25,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=129
 ,,,,,,,,,,1,0.01,Memphis Grizzlies,rebound,,,,,,,,,,Wroten,,,,,,,,,25-16,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=130
@@ -129,7 +129,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.36,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,27-17,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=155
 ,,,,,,,,,,2,10.15,Memphis Grizzlies,shot,,,,,,,,,,Dooling,,,,missed,,3PT Jump Shot,,,27-17,25,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=156
 ,,,,,,,,,,2,10.13,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,27-17,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=157
-,,,,,,,,,,2,10.12,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Layup,,,27-17,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=158
+,,,,,,,,,,2,10.12,Memphis Grizzlies,shot,,,Hayes,,,,,,,Pondexter,,,,missed,,Layup,,,27-17,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=158
 ,,,,,,,,,,2,10.11,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,27-17,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=159
 ,,,,,,,,,,2,10.11,Memphis Grizzlies,turnover,,,,,,,,,,,,,Shot Clock,,,,,,27-17,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=160
 ,,,,,,,,,,2,10.11,Sacramento Kings,substitute,,,,Fredette,,Evans,,,,,,,,,,,,,27-17,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=161
@@ -154,7 +154,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.22,Sacramento Kings,shot,Douglas,,,,,,,,,Thornton,3,,,made,,3PT Jump Shot,,,29-22,25,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=186
 ,,,,,,,,,,2,7.59,Memphis Grizzlies,shot,,,,,,,,,,Leuer,,,,missed,,Jump Shot,,,29-22,18,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=187
 ,,,,,,,,,,2,7.59,Sacramento Kings,rebound,,,,,,,,,,Thornton,,,,,,,,,29-22,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=188
-,,,,,,,,,,2,7.54,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,29-22,6,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=189
+,,,,,,,,,,2,7.54,Sacramento Kings,shot,,,Daye,,,,,,,Thornton,,,,missed,,Jump Shot,,,29-22,6,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=189
 ,,,,,,,,,,2,7.54,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,29-22,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=190
 ,,,,,,,,,,2,7.52,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Jump Shot,,,29-22,23,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=191
 ,,,,,,,,,,2,7.51,Memphis Grizzlies,rebound,,,,,,,,,,Daye,,,,,,,,,29-22,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=192
@@ -184,14 +184,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.35,Sacramento Kings,free throw,,,,,,,1,,2,Fredette,1,,foul,made,,,,,34-28,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=219
 ,,,,,,,,,,2,5.35,Memphis Grizzlies,substitute,,,,Allen,,Daye,,,,,,,,,,,,,34-28,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=221
 ,,,,,,,,,,2,5.35,Sacramento Kings,free throw,,,,,,,2,,2,Fredette,1,,foul,made,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=222
-,,,,,,,,,,2,5.17,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=225
+,,,,,,,,,,2,5.17,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Douglas,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=225
 ,,,,,,,,,,2,5.13,Sacramento Kings,shot,,,,,,,,,,Douglas,2,,,made,,Layup,,,34-31,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=226
 ,,,,,,,,,,2,5.05,Memphis Grizzlies,shot,,,,,,,,,,Conley,2,,,made,,Driving Layup,,,36-31,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=227
 ,,,,,,,,,,2,4.49,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,36-31,18,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=228
 ,,,,,,,,,,2,4.48,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=229
 ,,,,,,,,,,2,4.44,Sacramento Kings,shot,Hayes,,,,,,,,,Fredette,3,,,made,,3PT Jump Shot,,,36-34,26,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=230
 ,,,,,,,,,,2,4.32,Sacramento Kings,foul,,,,,,,,,,Hayes,,,,,,Personal,,,36-34,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=231
-,,,,,,,,,,2,4.26,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Lost Ball,,,,,,36-34,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=232
+,,,,,,,,,,2,4.26,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Lost Ball,,Cousins,,,,36-34,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=232
 ,,,,,,,,,,2,4.21,Sacramento Kings,shot,Thornton,,,,,,,,,Douglas,2,,,made,,Layup,,,36-36,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=233
 ,,,,,,,,,,2,4.10,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Personal,,,36-36,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=234
 ,,,,,,,,,,2,4.10,Sacramento Kings,substitute,,,,Thompson,,Cousins,,,,,,,,,,,,,36-36,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=235
@@ -202,7 +202,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.47,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,36-36,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=240
 ,,,,,,,,,,2,3.45,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,36-36,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=242
 ,,,,,,,,,,2,3.45,Sacramento Kings,shot,,,,,,,,,,Hayes,2,,,made,,Tip Shot,,,36-38,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=241
-,,,,,,,,,,2,3.22,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,36-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=243
+,,,,,,,,,,2,3.22,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Thompson,,,,36-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=243
 ,,,,,,,,,,2,3.06,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Bad Pass,,,,,,36-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=244
 ,,,,,,,,,,2,2.49,Sacramento Kings,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,36-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=245
 ,,,,,,,,,,2,2.49,Sacramento Kings,substitute,,,,Aldrich,,Thompson,,,,,,,,,,,,,36-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=248
@@ -212,7 +212,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.29,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=255
 ,,,,,,,,,,2,2.11,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,38-38,23,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=257
 ,,,,,,,,,,2,2.11,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=258
-,,,,,,,,,,2,2.03,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Lost Ball,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=259
+,,,,,,,,,,2,2.03,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Lost Ball,,Allen,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=259
 ,,,,,,,,,,2,1.59,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Driving Slam Dunk,,,40-38,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=260
 ,,,,,,,,,,2,1.40,Memphis Grizzlies,foul,,,,,,,,,,Allen,,,,,,Shooting,,,40-38,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=261
 ,,,,,,,,,,2,1.40,Sacramento Kings,free throw,,,,,,,1,,2,Fredette,1,,foul,made,,,,,40-39,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=262
@@ -239,13 +239,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.33,Sacramento Kings,free throw,,,,,,,2,,2,Fredette,1,,foul,made,,,,,43-42,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=287
 ,,,,,,,,,,2,0.28,Memphis Grizzlies,turnover,,,,,,,,,,Conley Out of Bounds,,,Lost Ball,,,,,,43-42,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=289
 ,,,,,,,,,,2,0.06,Sacramento Kings,shot,,,,,,,,,,Fredette,2,,,made,,Driving Layup,,,43-44,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=290
-,,,,,,,,,,2,0.04,Memphis Grizzlies,turnover,,,,,,,,,,Davis,,,Bad Pass,,,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=291
+,,,,,,,,,,2,0.04,Memphis Grizzlies,turnover,,,,,,,,,,Davis,,,Bad Pass,,Douglas,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=291
 ,,,,,,,,,,2,0.00,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,43-44,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=292
 ,,,,,,,,,,2,0.00,Memphis Grizzlies,rebound,,,,,,,,,,Davis,,,,,,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=293
 ,,,,,,,,,,3,11.34,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,43-44,24,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=299
 ,,,,,,,,,,3,11.33,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=300
 ,,,,,,,,,,3,11.19,Memphis Grizzlies,shot,Gasol,,,,,,,,,Randolph,2,,,made,,Layup,,,45-44,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=301
-,,,,,,,,,,3,11.07,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Jump Shot,,,45-44,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=302
+,,,,,,,,,,3,11.07,Sacramento Kings,shot,,,Allen,,,,,,,Evans,,,,missed,,Jump Shot,,,45-44,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=302
 ,,,,,,,,,,3,11.07,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,45-44,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=303
 ,,,,,,,,,,3,10.56,Sacramento Kings,shot,Salmons,,,,,,,,,Thomas,3,,,made,,3PT Jump Shot,,,45-47,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=304
 ,,,,,,,,,,3,10.33,Memphis Grizzlies,shot,Conley,,,,,,,,,Gasol,2,,,made,,Jump Shot,,,47-47,19,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=305
@@ -267,7 +267,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.02,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,51-51,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=322
 ,,,,,,,,,,3,7.45,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,51-51,19,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=323
 ,,,,,,,,,,3,7.44,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,51-51,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=324
-,,,,,,,,,,3,7.36,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,51-51,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=325
+,,,,,,,,,,3,7.36,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Conley,,,,51-51,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=325
 ,,,,,,,,,,3,7.29,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Step Out of Bounds,,,,,,51-51,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=326
 ,,,,,,,,,,3,7.15,Sacramento Kings,shot,Salmons,,,,,,,,,Cousins,2,,,made,,Jump Shot,,,51-53,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=327
 ,,,,,,,,,,3,7.15,Memphis Grizzlies,foul,,,,,,,,,,Randolph,,,,,,Shooting,,,51-53,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=328
@@ -282,10 +282,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.54,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=338
 ,,,,,,,,,,3,5.32,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,53-54,20,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=342
 ,,,,,,,,,,3,5.31,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=343
-,,,,,,,,,,3,5.23,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Layup,,,53-54,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=344
+,,,,,,,,,,3,5.23,Sacramento Kings,shot,,,Gasol,,,,,,,Cousins,,,,missed,,Layup,,,53-54,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=344
 ,,,,,,,,,,3,5.22,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=345
 ,,,,,,,,,,3,5.16,Memphis Grizzlies,shot,Conley,,,,,,,,,Allen,2,,,made,,Jump Shot,,,55-54,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=346
-,,,,,,,,,,3,5.02,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=347
+,,,,,,,,,,3,5.02,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Prince,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=347
 ,,,,,,,,,,3,4.57,Memphis Grizzlies,shot,Conley,,,,,,,,,Prince,2,,,made,,Layup,,,57-54,2,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=348
 ,,,,,,,,,,3,4.40,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,57-54,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=349
 ,,,,,,,,,,3,4.40,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,57-54,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=350
@@ -299,7 +299,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.16,Sacramento Kings,jumpball,,Allen,,,Evans,,,,,,,,,,,,,,57-56,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=360
 ,,,,,,,,,,3,4.00,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,57-56,12,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=361
 ,,,,,,,,,,3,3.59,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,57-56,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=362
-,,,,,,,,,,3,3.54,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Layup,,,57-56,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=363
+,,,,,,,,,,3,3.54,Sacramento Kings,shot,,,Allen,,,,,,,Thomas,,,,missed,,Layup,,,57-56,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=363
 ,,,,,,,,,,3,3.54,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,57-56,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=364
 ,,,,,,,,,,3,3.54,Memphis Grizzlies,substitute,,,,Pondexter,,Allen,,,,,,,,,,,,,57-56,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=365
 ,,,,,,,,,,3,3.45,Sacramento Kings,shot,,,,,,,,,,Salmons,2,,,made,,Pullup Bank Shot,,,57-58,6,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=366
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.49,Sacramento Kings,substitute,,,,Hayes,,Thompson,,,,,,,,,,,,,59-58,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=379
 ,,,,,,,,,,3,2.49,Memphis Grizzlies,free throw,,,,,,,1,,2,Davis,1,,foul,made,,,,,60-58,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=380
 ,,,,,,,,,,3,2.49,Memphis Grizzlies,free throw,,,,,,,2,,2,Davis,1,,foul,made,,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=382
-,,,,,,,,,,3,2.34,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=384
+,,,,,,,,,,3,2.34,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Pondexter,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=384
 ,,,,,,,,,,3,2.30,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,2,,,made,,Layup,,,63-58,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=385
 ,,,,,,,,,,3,2.09,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,3PT Jump Shot,,,63-58,25,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=387
 ,,,,,,,,,,3,2.07,Memphis Grizzlies,rebound,,,,,,,,,,Davis,,,,,,,,,63-58,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=388
@@ -326,14 +326,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.10,Sacramento Kings,substitute,,,,Aldrich,,Cousins,,,,,,,,,,,,,67-60,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=394
 ,,,,,,,,,,3,1.10,Memphis Grizzlies,substitute,,,,Dooling,,Prince,,,,,,,,,,,,,67-60,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=395
 ,,,,,,,,,,3,1.10,Memphis Grizzlies,free throw,,,,,,,2,,2,Gasol,1,,foul,made,,,,,68-60,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=396
-,,,,,,,,,,3,0.46,Sacramento Kings,turnover,,,,,,,,,,Salmons,,,Bad Pass,,,,,,68-60,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=398
+,,,,,,,,,,3,0.46,Sacramento Kings,turnover,,,,,,,,,,Salmons,,,Bad Pass,,Conley,,,,68-60,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=398
 ,,,,,,,,,,3,0.36,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Jump Shot,,,68-60,18,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=399
 ,,,,,,,,,,3,0.36,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,68-60,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=400
 ,,,,,,,,,,3,0.29,Memphis Grizzlies,foul,,,,,,,,,,Pondexter,,,,,,Personal,,,68-60,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=401
 ,,,,,,,,,,3,0.29,Sacramento Kings,free throw,,,,,,,1,,2,Thomas,1,,foul,made,,,,,68-61,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=402
 ,,,,,,,,,,3,0.29,Sacramento Kings,substitute,,,,Douglas,,Salmons,,,,,,,,,,,,,68-61,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=404
 ,,,,,,,,,,3,0.29,Sacramento Kings,free throw,,,,,,,2,,2,Thomas,1,,foul,made,,,,,68-62,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=405
-,,,,,,,,,,3,0.18,Memphis Grizzlies,turnover,,,,,,,,,,Dooling,,,Bad Pass,,,,,,68-62,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=407
+,,,,,,,,,,3,0.18,Memphis Grizzlies,turnover,,,,,,,,,,Dooling,,,Bad Pass,,Thomas,,,,68-62,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=407
 ,,,,,,,,,,3,0.15,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Layup,,,68-64,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=408
 ,,,,,,,,,,4,11.46,Memphis Grizzlies,shot,,,,,,,,,,Leuer,,,,missed,,Jump Shot,,,68-64,22,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=412
 ,,,,,,,,,,4,11.46,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,68-64,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=413
@@ -350,9 +350,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.23,Sacramento Kings,shot,,,,,,,,,,Aldrich,,,,missed,,Jump Hook Shot,,,70-67,9,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=426
 ,,,,,,,,,,4,10.23,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,70-67,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=427
 ,,,,,,,,,,4,10.03,Memphis Grizzlies,shot,,,,,,,,,,Dooling,2,,,made,,Jump Shot,,,72-67,23,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=428
-,,,,,,,,,,4,9.46,Sacramento Kings,shot,,,,,,,,,,Aldrich,,,,missed,,Dunk,,,72-67,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=429
+,,,,,,,,,,4,9.46,Sacramento Kings,shot,,,Davis,,,,,,,Aldrich,,,,missed,,Dunk,,,72-67,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=429
 ,,,,,,,,,,4,9.44,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,72-67,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=430
-,,,,,,,,,,4,9.41,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Bad Pass,,,,,,72-67,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=431
+,,,,,,,,,,4,9.41,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Bad Pass,,Douglas,,,,72-67,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=431
 ,,,,,,,,,,4,9.35,Memphis Grizzlies,foul,,,,,,,,,,Davis,,,,,,Shooting,,,72-67,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=432
 ,,,,,,,,,,4,9.35,Sacramento Kings,free throw,,,,,,,1,,2,Thomas,,,foul,missed,,,,,72-67,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=433
 ,,,,,,,,,,4,9.35,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,72-67,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=434
@@ -368,7 +368,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.54,Memphis Grizzlies,free throw,,,,,,,2,,2,Conley,1,,foul,made,,,,,74-70,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=449
 ,,,,,,,,,,4,8.29,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Jump Shot,,,74-70,18,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=451
 ,,,,,,,,,,4,8.27,Memphis Grizzlies,rebound,,,,,,,,,,Davis,,,,,,,,,74-70,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=452
-,,,,,,,,,,4,8.11,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,74-70,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=453
+,,,,,,,,,,4,8.11,Memphis Grizzlies,shot,,,Aldrich,,,,,,,Randolph,,,,missed,,Jump Shot,,,74-70,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=453
 ,,,,,,,,,,4,8.10,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,74-70,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=454
 ,,,,,,,,,,4,8.09,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Jump Shot,,,76-70,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=455
 ,,,,,,,,,,4,7.57,Memphis Grizzlies,foul,,,,,,,,,,Pondexter,,,,,,Personal,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=456
@@ -376,14 +376,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.51,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=458
 ,,,,,,,,,,4,7.38,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,76-70,24,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=459
 ,,,,,,,,,,4,7.37,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=460
-,,,,,,,,,,4,7.20,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=461
+,,,,,,,,,,4,7.20,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Douglas,,,,76-70,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=461
 ,,,,,,,,,,4,7.10,Sacramento Kings,shot,Hayes,,,,,,,,,Fredette,3,,,made,,3PT Jump Shot,,,76-73,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=462
-,,,,,,,,,,4,6.45,Memphis Grizzlies,shot,,,,,,,,,,Davis,,,,missed,,Layup,,,76-73,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=463
+,,,,,,,,,,4,6.45,Memphis Grizzlies,shot,,,Aldrich,,,,,,,Davis,,,,missed,,Layup,,,76-73,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=463
 ,,,,,,,,,,4,6.44,Sacramento Kings,rebound,,,,,,,,,,Douglas,,,,,,,,,76-73,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=464
 ,,,,,,,,,,4,6.39,Sacramento Kings,shot,,,,,,,,,,Aldrich,,,,missed,,Jump Shot,,,76-73,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=465
 ,,,,,,,,,,4,6.38,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,76-73,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=466
 ,,,,,,,,,,4,6.35,Memphis Grizzlies,shot,Allen,,,,,,,,,Pondexter,2,,,made,,Dunk,,,78-73,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=467
-,,,,,,,,,,4,6.05,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Bad Pass,,,,,,78-73,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=468
+,,,,,,,,,,4,6.05,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Bad Pass,,Pondexter,,,,78-73,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=468
 ,,,,,,,,,,4,6.02,Memphis Grizzlies,shot,Pondexter,,,,,,,,,Allen,2,,,made,,Dunk,,,80-73,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=469
 ,,,,,,,,,,4,5.57,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,80-73,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=470
 ,,,,,,,,,,4,5.57,Sacramento Kings,substitute,,,,Evans,,Aldrich,,,,,,,,,,,,,80-73,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=471
@@ -406,7 +406,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.41,Sacramento Kings,foul,,,,,,,,,,Douglas,,,,,,Offensive Charge,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=490
 ,,,,,,,,,,4,3.41,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Foul,,,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=491
 ,,,,,,,,,,4,3.41,Sacramento Kings,substitute,,,,Hayes,,Evans,,,,,,,,,,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=492
-,,,,,,,,,,4,3.15,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Lost Ball,,,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=493
+,,,,,,,,,,4,3.15,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Lost Ball,,Thornton,,,,84-76,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=493
 ,,,,,,,,,,4,3.00,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Driving Layup,,,84-78,1,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=494
 ,,,,,,,,,,4,2.47,Memphis Grizzlies,turnover,,,,,,,,,,Conley Out of Bounds,,,Lost Ball,,,,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=495
 ,,,,,,,,,,4,2.47,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,84-78,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=496
@@ -417,9 +417,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.59,Sacramento Kings,free throw,,,,,,,1,,2,Thomas,,,foul,missed,,,,,84-80,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=504
 ,,,,,,,,,,4,1.59,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,84-80,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=505
 ,,,,,,,,,,4,1.59,Sacramento Kings,free throw,,,,,,,2,,2,Thomas,1,,foul,made,,,,,84-81,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=506
-,,,,,,,,,,4,1.44,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,84-81,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=508
+,,,,,,,,,,4,1.44,Memphis Grizzlies,shot,,,Hayes,,,,,,,Randolph,,,,missed,,Jump Shot,,,84-81,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=508
 ,,,,,,,,,,4,1.43,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,84-81,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=509
-,,,,,,,,,,4,1.40,Sacramento Kings,shot,,,,,,,,,,Douglas,,,,missed,,Jump Shot,,,84-81,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=510
+,,,,,,,,,,4,1.40,Sacramento Kings,shot,,,Prince,,,,,,,Douglas,,,,missed,,Jump Shot,,,84-81,4,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=510
 ,,,,,,,,,,4,1.40,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,84-81,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=511
 ,,,,,,,,,,4,1.25,Memphis Grizzlies,foul,,,,,,,,,,Randolph,,,,,,Shooting,,,84-81,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=514
 ,,,,,,,,,,4,1.25,Sacramento Kings,free throw,,,,,,,1,,2,Cousins,1,,foul,made,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=515
@@ -438,7 +438,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.30,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,86-85,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=533
 ,,,,,,,,,,4,0.30,Memphis Grizzlies,substitute,,,,Allen,,Randolph,,,,,,,,,,,,,86-85,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=535
 ,,,,,,,,,,4,0.30,Sacramento Kings,substitute,,,,Fredette,,Hayes,,,,,,,,,,,,,86-85,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=536
-,,,,,,,,,,4,0.19,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Layup,,,86-85,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=537
+,,,,,,,,,,4,0.19,Sacramento Kings,shot,,,Gasol,,,,,,,Cousins,,,,missed,,Layup,,,86-85,3,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=537
 ,,,,,,,,,,4,0.17,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,86-85,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=538
 ,,,,,,,,,,4,0.17,Sacramento Kings,foul,,,,,,,,,,Fredette,,,,,,Personal Take,,,86-85,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=539
 ,,,,,,,,,,4,0.17,Memphis Grizzlies,free throw,,,,,,,1,,2,Pondexter,1,,foul,made,,,,,87-85,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=540
@@ -458,5 +458,5 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.05,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,89-87,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=566
 ,,,,,,,,,,4,0.05,Sacramento Kings,substitute,,,,Fredette,,Hayes,,,,,,,,,,,,,89-87,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=568
 ,,,,,,,,,,4,0.05,Memphis Grizzlies,substitute,,,,Allen,,Randolph,,,,,,,,,,,,,89-87,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=569
-,,,,,,,,,,4,0.01,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,89-87,25,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=570
+,,,,,,,,,,4,0.01,Sacramento Kings,shot,,,Gasol,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,89-87,25,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=570
 ,,,,,,,,,,4,0.00,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,89-87,,http://stats.nba.com/cvp.html?GameID=0021201149&GameEventID=571

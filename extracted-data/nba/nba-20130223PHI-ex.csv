@@ -41,7 +41,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.14,Philadelphia 76ers,shot,Holiday,,,,,,,,,Young,2,,,made,,Pullup Jump Shot,,,15-20,13,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=46
 ,,,,,,,,,,1,5.03,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,15-20,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=47
 ,,,,,,,,,,1,4.53,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Turnaround Jump Shot,,,17-20,12,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=49
-,,,,,,,,,,1,4.34,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,,,,,17-20,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=50
+,,,,,,,,,,1,4.34,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,Wade,,,,17-20,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=50
 ,,,,,,,,,,1,4.19,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,17-20,27,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=51
 ,,,,,,,,,,1,4.17,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,17-20,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=52
 ,,,,,,,,,,1,4.02,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Jump Shot,,,17-20,14,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=53
@@ -70,10 +70,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.07,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,24-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=78
 ,,,,,,,,,,1,1.03,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,24-24,27,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=79
 ,,,,,,,,,,1,1.02,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,24-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=80
-,,,,,,,,,,1,0.50,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,,,,,24-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=81
-,,,,,,,,,,1,0.44,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,24-24,4,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=82
+,,,,,,,,,,1,0.50,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,Chalmers,,,,24-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=81
+,,,,,,,,,,1,0.44,Miami Heat,shot,,,Hawes,,,,,,,James,,,,missed,,Jump Shot,,,24-24,4,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=82
 ,,,,,,,,,,1,0.41,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,24-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=83
-,,,,,,,,,,1,0.29,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,,,,,24-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=84
+,,,,,,,,,,1,0.29,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,Chalmers,,,,24-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=84
 ,,,,,,,,,,1,0.26,Philadelphia 76ers,foul,,,,,,,,,,Wright,,,,,,Shooting,,,24-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=85
 ,,,,,,,,,,1,0.26,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=87
 ,,,,,,,,,,1,0.26,Philadelphia 76ers,substitute,,,,Pargo,,Turner,,,,,,,,,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=89
@@ -95,7 +95,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.02,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=109
 ,,,,,,,,,,2,9.54,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Layup,,,29-28,1,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=110
 ,,,,,,,,,,2,9.42,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Pullup Jump Shot,,,29-30,16,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=111
-,,,,,,,,,,2,9.27,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,29-30,10,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=112
+,,,,,,,,,,2,9.27,Miami Heat,shot,,,Young,,,,,,,Wade,,,,missed,,Jump Shot,,,29-30,10,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=112
 ,,,,,,,,,,2,9.27,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=114
 ,,,,,,,,,,2,9.27,Philadelphia 76ers,substitute,,,,Turner,,Holiday,,,,,,,,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=113
 ,,,,,,,,,,2,9.27,Philadelphia 76ers,jumpball,,Wade,,,Young,,,,,,,,,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=115
@@ -176,14 +176,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.45,Miami Heat,shot,Haslem,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,59-51,25,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=202
 ,,,,,,,,,,3,10.27,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,59-51,17,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=203
 ,,,,,,,,,,3,10.26,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,59-51,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=204
-,,,,,,,,,,3,10.13,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,59-51,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=205
+,,,,,,,,,,3,10.13,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Turner,,,,59-51,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=205
 ,,,,,,,,,,3,10.05,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,59-51,10,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=206
 ,,,,,,,,,,3,10.04,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,59-51,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=207
 ,,,,,,,,,,3,9.58,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Pullup Jump Shot,,,61-51,17,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=208
 ,,,,,,,,,,3,9.40,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Step Back Jump Shot,,,61-53,17,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=209
 ,,,,,,,,,,3,9.25,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,3PT Jump Shot,,,61-53,24,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=210
 ,,,,,,,,,,3,9.23,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=211
-,,,,,,,,,,3,9.14,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=212
+,,,,,,,,,,3,9.14,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,Chalmers,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=212
 ,,,,,,,,,,3,8.51,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,61-53,15,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=214
 ,,,,,,,,,,3,8.50,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=215
 ,,,,,,,,,,3,8.26,Philadelphia 76ers,shot,Holiday,,,,,,,,,Turner,2,,,made,,Fadeaway Jumper,,,61-55,9,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=216
@@ -231,7 +231,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.15,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,78-61,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=265
 ,,,,,,,,,,3,3.06,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,3PT Jump Shot,,,78-61,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=266
 ,,,,,,,,,,3,3.06,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,78-61,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=267
-,,,,,,,,,,3,2.50,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,78-61,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=269
+,,,,,,,,,,3,2.50,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,James,,,,78-61,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=269
 ,,,,,,,,,,3,2.44,Miami Heat,shot,,,,,,,,,,Allen,3,,,made,,3PT Jump Shot,,,81-61,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=270
 ,,,,,,,,,,3,2.27,Philadelphia 76ers,shot,Young,,,,,,,,,Turner,2,,,made,,Driving Layup,,,81-63,2,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=271
 ,,,,,,,,,,3,2.24,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,81-63,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=272
@@ -239,7 +239,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.24,Miami Heat,substitute,,,,Cole,,Haslem,,,,,,,,,,,,,81-63,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=275
 ,,,,,,,,,,3,2.24,Philadelphia 76ers,substitute,,,,Allen,,Hawes,,,,,,,,,,,,,81-63,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=276
 ,,,,,,,,,,3,2.00,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Running Layup,,,83-63,1,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=277
-,,,,,,,,,,3,1.45,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,83-63,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=278
+,,,,,,,,,,3,1.45,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,James,,,,83-63,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=278
 ,,,,,,,,,,3,1.41,Miami Heat,shot,Cole,,,,,,,,,James,2,,,made,,Alley Oop Dunk,,,85-63,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=279
 ,,,,,,,,,,3,1.26,Philadelphia 76ers,shot,Turner,,,,,,,,,Wright,3,,,made,,3PT Jump Shot,,,85-66,25,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=280
 ,,,,,,,,,,3,1.00,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,85-66,25,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=281
@@ -260,7 +260,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.42,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,87-71,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=304
 ,,,,,,,,,,4,11.27,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,87-71,14,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=305
 ,,,,,,,,,,4,11.23,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,87-71,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=306
-,,,,,,,,,,4,11.14,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Layup,,,87-71,3,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=307
+,,,,,,,,,,4,11.14,Philadelphia 76ers,shot,,,Andersen,,,,,,,Turner,,,,missed,,Layup,,,87-71,3,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=307
 ,,,,,,,,,,4,11.11,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,87-71,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=308
 ,,,,,,,,,,4,10.58,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Running Bank Shot,,,89-71,7,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=309
 ,,,,,,,,,,4,10.33,Philadelphia 76ers,shot,Pargo,,,,,,,,,Holiday,3,,,made,,3PT Jump Shot,,,89-74,27,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=310
@@ -289,13 +289,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.51,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,97-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=341
 ,,,,,,,,,,4,7.41,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Jump Shot,,,97-78,18,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=342
 ,,,,,,,,,,4,7.39,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,97-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=343
-,,,,,,,,,,4,7.34,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,97-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=344
+,,,,,,,,,,4,7.34,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Cole,,,,97-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=344
 ,,,,,,,,,,4,7.28,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,97-78,2,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=345
 ,,,,,,,,,,4,7.26,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,97-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=347
 ,,,,,,,,,,4,7.26,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Putback Layup,,,99-78,2,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=346
 ,,,,,,,,,,4,7.09,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,3PT Jump Shot,,,99-78,25,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=348
 ,,,,,,,,,,4,7.07,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,99-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=349
-,,,,,,,,,,4,6.50,Miami Heat,shot,,,,,,,,,,Andersen,,,,missed,,Layup,,,99-78,3,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=350
+,,,,,,,,,,4,6.50,Miami Heat,shot,,,Allen,,,,,,,Andersen,,,,missed,,Layup,,,99-78,3,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=350
 ,,,,,,,,,,4,6.50,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,99-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=351
 ,,,,,,,,,,4,6.50,Philadelphia 76ers,substitute,,,,Moultrie,,Allen,,,,,,,,,,,,,99-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=352
 ,,,,,,,,,,4,6.50,Philadelphia 76ers,substitute,,,,Wilkins,,Young,,,,,,,,,,,,,99-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=353
@@ -303,7 +303,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.50,Miami Heat,substitute,,,,Anthony,,Andersen,,,,,,,,,,,,,99-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=355
 ,,,,,,,,,,4,6.45,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Jump Shot,,,99-78,16,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=356
 ,,,,,,,,,,4,6.43,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,99-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=357
-,,,,,,,,,,4,6.34,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,99-78,5,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=358
+,,,,,,,,,,4,6.34,Philadelphia 76ers,shot,,,Anthony,,,,,,,Wright,,,,missed,,Jump Shot,,,99-78,5,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=358
 ,,,,,,,,,,4,6.32,Miami Heat,rebound,,,,,,,,,,Battier,,,,,,,,,99-78,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=359
 ,,,,,,,,,,4,6.16,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Bank Shot,,,101-78,10,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=360
 ,,,,,,,,,,4,5.55,Philadelphia 76ers,shot,Turner,,,,,,,,,Wright,2,,,made,,Pullup Jump Shot,,,101-80,17,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=361
@@ -320,7 +320,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.58,Miami Heat,shot,Lewis,,,,,,,,,Allen,3,,,made,,3PT Jump Shot,,,104-80,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=374
 ,,,,,,,,,,4,4.35,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,104-80,29,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=375
 ,,,,,,,,,,4,4.34,Philadelphia 76ers,rebound,,,,,,,,,,Ivey,,,,,,,,,104-80,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=376
-,,,,,,,,,,4,4.31,Philadelphia 76ers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,,,,,104-80,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=377
+,,,,,,,,,,4,4.31,Philadelphia 76ers,turnover,,,,,,,,,,Pargo,,,Bad Pass,,Wade,,,,104-80,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=377
 ,,,,,,,,,,4,4.27,Miami Heat,shot,Wade,,,,,,,,,Cole,2,,,made,,Layup,,,106-80,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=378
 ,,,,,,,,,,4,4.05,Miami Heat,foul,,,,,,,,,,Wade,,,,,,Shooting,,,106-80,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=379
 ,,,,,,,,,,4,4.05,Philadelphia 76ers,free throw,,,,,,,1,,2,Wilkins,1,,foul,made,,,,,106-81,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=380
@@ -338,7 +338,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.30,Philadelphia 76ers,foul,,,,,,,,,,Wright,,,,,,Shooting,,,108-85,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=395
 ,,,,,,,,,,4,2.30,Miami Heat,free throw,,,,,,,1,,2,Anthony,1,,foul,made,,,,,109-85,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=396
 ,,,,,,,,,,4,2.30,Miami Heat,free throw,,,,,,,2,,2,Anthony,1,,foul,made,,,,,110-85,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=398
-,,,,,,,,,,4,2.15,Philadelphia 76ers,turnover,,,,,,,,,,Ivey,,,Bad Pass,,,,,,110-85,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=400
+,,,,,,,,,,4,2.15,Philadelphia 76ers,turnover,,,,,,,,,,Ivey,,,Bad Pass,,Cole,,,,110-85,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=400
 ,,,,,,,,,,4,1.56,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Layup,,,110-85,2,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=401
 ,,,,,,,,,,4,1.54,Philadelphia 76ers,rebound,,,,,,,,,,Pargo,,,,,,,,,110-85,,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=402
 ,,,,,,,,,,4,1.40,Philadelphia 76ers,shot,Pargo,,,,,,,,,Wright,3,,,made,,3PT Jump Shot,,,110-88,25,http://stats.nba.com/cvp.html?GameID=0021200826&GameEventID=403

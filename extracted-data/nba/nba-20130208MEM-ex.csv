@@ -2,7 +2,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.40,Memphis Grizzlies,shot,Gasol,,,,,,,,,Allen,2,,,made,,Jump Shot,,,0-2,20,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=2
 ,,,,,,,,,,1,11.26,Golden State Warriors,shot,Curry,,,,,,,,,Bogut,2,,,made,,Hook Shot,,,2-2,5,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=3
 ,,,,,,,,,,1,11.02,Memphis Grizzlies,shot,Gasol,,,,,,,,,Allen,2,,,made,,Layup,,,2-4,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=4
-,,,,,,,,,,1,10.53,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=5
+,,,,,,,,,,1,10.53,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Allen,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=5
 ,,,,,,,,,,1,10.48,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Layup,,,2-6,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=6
 ,,,,,,,,,,1,10.25,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,2-6,10,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=9
 ,,,,,,,,,,1,10.25,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=10
@@ -90,9 +90,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.54,Golden State Warriors,shot,Landry,,,,,,,,,Green,2,,,made,,Driving Dunk,,,22-29,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=105
 ,,,,,,,,,,1,0.36,Memphis Grizzlies,shot,Prince,,,,,,,,,Daye,3,,,made,,3PT Jump Shot,,,22-32,25,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=106
 ,,,,,,,,,,1,0.28,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Running Jump Shot,,,24-32,14,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=107
-,,,,,,,,,,1,0.06,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Jump Shot,,,24-32,4,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=108
+,,,,,,,,,,1,0.06,Memphis Grizzlies,shot,,,Biedrins,,,,,,,Bayless,,,,missed,,Jump Shot,,,24-32,4,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=108
 ,,,,,,,,,,1,0.02,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,24-32,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=109
-,,,,,,,,,,1,0.00,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,24-32,5,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=110
+,,,,,,,,,,1,0.00,Golden State Warriors,shot,,,Arthur,,,,,,,Curry,,,,missed,,Jump Shot,,,24-32,5,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=110
 ,,,,,,,,,,1,0.00,Memphis Grizzlies,rebound,,,,,,,,,,Arthur,,,,,,,,,24-32,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=111
 ,,,,,,,,,,2,11.41,Memphis Grizzlies,foul,,,,,,,,,,Daye,,,,,,Shooting,,,24-32,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=115
 ,,,,,,,,,,2,11.41,Golden State Warriors,free throw,,,,,,,1,,2,Lee,1,,foul,made,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=116
@@ -111,7 +111,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.02,Memphis Grizzlies,shot,Conley,,,,,,,,,Daye,3,,,made,,3PT Jump Shot,,,26-40,24,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=131
 ,,,,,,,,,,2,9.46,Memphis Grizzlies,violation,,,,,,,,,,Davis,,,Defensive Goaltending,,,,,,26-40,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=133
 ,,,,,,,,,,2,9.46,Golden State Warriors,shot,,,,,,,,,,Green,2,,,made,,Driving Layup,,,28-40,1,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=132
-,,,,,,,,,,2,9.33,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,28-40,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=134
+,,,,,,,,,,2,9.33,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Thompson,,,,28-40,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=134
 ,,,,,,,,,,2,9.28,Golden State Warriors,shot,,,,,,,,,,Thompson,2,,,made,,Pullup Jump Shot,,,30-40,19,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=135
 ,,,,,,,,,,2,9.09,Memphis Grizzlies,shot,,,,,,,,,,Daye,2,,,made,,Jump Shot,,,30-42,14,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=136
 ,,,,,,,,,,2,9.09,Golden State Warriors,foul,,,,,,,,,,Curry,,,,,,Shooting,,,30-42,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=137
@@ -126,7 +126,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.11,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=151
 ,,,,,,,,,,2,8.03,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,32-43,27,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=152
 ,,,,,,,,,,2,8.02,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=153
-,,,,,,,,,,2,7.58,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,32-43,18,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=171
+,,,,,,,,,,2,7.58,Golden State Warriors,shot,,,Conley,,,,,,,Thompson,,,,missed,,Jump Shot,,,32-43,18,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=171
 ,,,,,,,,,,2,7.58,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=154
 ,,,,,,,,,,2,7.50,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Personal Block,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=155
 ,,,,,,,,,,2,7.50,Memphis Grizzlies,substitute,,,,Randolph,,Davis,,,,,,,,,,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=156
@@ -140,7 +140,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.10,Memphis Grizzlies,foul,,,,,,,,,,Daye,,,,,,Shooting,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=164
 ,,,,,,,,,,2,7.10,Golden State Warriors,free throw,,,,,,,1,,1,Lee,1,,foul,made,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=165
 ,,,,,,,,,,2,6.52,Memphis Grizzlies,shot,Conley,,,,,,,,,Bayless,3,,,made,,3PT Jump Shot,,,35-46,24,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=167
-,,,,,,,,,,2,6.41,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,35-46,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=168
+,,,,,,,,,,2,6.41,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Conley,,,,35-46,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=168
 ,,,,,,,,,,2,6.35,Memphis Grizzlies,shot,Conley,,,,,,,,,Bayless,3,,,made,,3PT Jump Shot,,,35-49,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=169
 ,,,,,,,,,,2,6.18,Golden State Warriors,shot,Curry,,,,,,,,,Lee,2,,,made,,Jump Shot,,,37-49,21,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=170
 ,,,,,,,,,,2,6.00,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,3PT Jump Shot,,,37-49,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=172
@@ -158,7 +158,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.56,Memphis Grizzlies,substitute,,,,Allen,,Bayless,,,,,,,,,,,,,40-49,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=187
 ,,,,,,,,,,2,4.56,Memphis Grizzlies,substitute,,,,Prince,,Daye,,,,,,,,,,,,,40-49,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=188
 ,,,,,,,,,,2,4.56,Golden State Warriors,free throw,,,,,,,2,,2,Curry,1,,foul,made,,,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=189
-,,,,,,,,,,2,4.42,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=191
+,,,,,,,,,,2,4.42,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Curry,,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=191
 ,,,,,,,,,,2,4.37,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Layup,,,43-49,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=192
 ,,,,,,,,,,2,4.10,Memphis Grizzlies,shot,Gasol,,,,,,,,,Allen,3,,,made,,3PT Jump Shot,,,43-52,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=193
 ,,,,,,,,,,2,3.42,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,43-52,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=194
@@ -218,11 +218,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.26,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,57-63,3,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=264
 ,,,,,,,,,,3,11.25,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=265
 ,,,,,,,,,,3,11.15,Golden State Warriors,shot,Barnes,,,,,,,,,Curry,3,,,made,,3PT Jump Shot,,,60-63,24,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=266
-,,,,,,,,,,3,11.05,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=267
+,,,,,,,,,,3,11.05,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,Curry,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=267
 ,,,,,,,,,,3,11.02,Memphis Grizzlies,foul,,,,,,,,,,Allen,,,,,,Personal Take,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=268
 ,,,,,,,,,,3,10.55,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=269
-,,,,,,,,,,3,10.39,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=270
-,,,,,,,,,,3,10.32,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=271
+,,,,,,,,,,3,10.39,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,Lee,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=270
+,,,,,,,,,,3,10.32,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Randolph,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=271
 ,,,,,,,,,,3,10.18,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,60-63,19,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=272
 ,,,,,,,,,,3,10.18,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=273
 ,,,,,,,,,,3,10.06,Golden State Warriors,shot,Curry,,,,,,,,,Barnes,2,,,made,,Slam Dunk,,,62-63,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=274
@@ -239,7 +239,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.11,Memphis Grizzlies,jumpball,,Curry,,,Conley,,,,,,,,,,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=286
 ,,,,,,,,,,3,8.04,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,65-65,25,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=287
 ,,,,,,,,,,3,8.04,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=288
-,,,,,,,,,,3,8.00,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=289
+,,,,,,,,,,3,8.00,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Gasol,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=289
 ,,,,,,,,,,3,7.47,Golden State Warriors,foul,,,,,,,,,,Lee,,,,,,Personal,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=290
 ,,,,,,,,,,3,7.43,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Illegal Screen,,,,,,65-65,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=291
 ,,,,,,,,,,3,7.32,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,65-65,6,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=292
@@ -258,11 +258,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.29,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Traveling,,,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=305
 ,,,,,,,,,,3,5.29,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=314
 ,,,,,,,,,,3,5.29,Golden State Warriors,substitute,,,,Biedrins,,Bogut,,,,,,,,,,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=308
-,,,,,,,,,,3,5.18,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=310
-,,,,,,,,,,3,5.13,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Reverse Layup,,,69-67,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=311
+,,,,,,,,,,3,5.18,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Conley,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=310
+,,,,,,,,,,3,5.13,Memphis Grizzlies,shot,,,Thompson,,,,,,,Bayless,,,,missed,,Reverse Layup,,,69-67,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=311
 ,,,,,,,,,,3,5.10,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=312
 ,,,,,,,,,,3,5.06,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=313
-,,,,,,,,,,3,4.52,Golden State Warriors,shot,,,,,,,,,,Biedrins,,,,missed,,Layup,,,69-67,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=315
+,,,,,,,,,,3,4.52,Golden State Warriors,shot,,,Prince,,,,,,,Biedrins,,,,missed,,Layup,,,69-67,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=315
 ,,,,,,,,,,3,4.50,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=316
 ,,,,,,,,,,3,4.37,Golden State Warriors,foul,,,,,,,,,,Lee,,,,,,Personal,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=318
 ,,,,,,,,,,3,4.37,Golden State Warriors,substitute,,,,Landry,,Lee,,,,,,,,,,,,,69-67,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=319
@@ -311,7 +311,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.25,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Jump Shot,,,76-77,17,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=371
 ,,,,,,,,,,4,11.25,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,76-77,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=372
 ,,,,,,,,,,4,11.15,Golden State Warriors,shot,Curry,,,,,,,,,Lee,2,,,made,,Layup,,,78-77,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=373
-,,,,,,,,,,4,10.47,Memphis Grizzlies,shot,,,,,,,,,,Daye,,,,missed,,Jump Shot,,,78-77,19,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=374
+,,,,,,,,,,4,10.47,Memphis Grizzlies,shot,,,Green,,,,,,,Daye,,,,missed,,Jump Shot,,,78-77,19,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=374
 ,,,,,,,,,,4,10.47,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,78-77,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=376
 ,,,,,,,,,,4,10.47,Memphis Grizzlies,turnover,,,,,,,,,,,,,Shot Clock,,,,,,78-77,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=375
 ,,,,,,,,,,4,10.36,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,78-77,21,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=377
@@ -322,7 +322,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.10,Golden State Warriors,substitute,,,,Thompson,,Landry,,,,,,,,,,,,,78-79,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=382
 ,,,,,,,,,,4,9.56,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,3PT Jump Shot,,,78-79,24,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=383
 ,,,,,,,,,,4,9.55,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,78-79,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=384
-,,,,,,,,,,4,9.52,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,78-79,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=385
+,,,,,,,,,,4,9.52,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,Allen,,,,78-79,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=385
 ,,,,,,,,,,4,9.50,Golden State Warriors,foul,,,,,,,,,,Green,,,,,,Shooting,,,78-79,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=386
 ,,,,,,,,,,4,9.50,Memphis Grizzlies,free throw,,,,,,,1,,2,Randolph,1,,foul,made,,,,,78-80,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=387
 ,,,,,,,,,,4,9.50,Golden State Warriors,substitute,,,,Barnes,,Bazemore,,,,,,,,,,,,,78-80,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=389
@@ -339,10 +339,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.33,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Jump Shot,,,80-83,3,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=400
 ,,,,,,,,,,4,8.32,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,80-83,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=401
 ,,,,,,,,,,4,8.26,Golden State Warriors,shot,,,,,,,,,,Curry,3,,,made,,3PT Jump Shot,,,83-83,26,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=402
-,,,,,,,,,,4,8.14,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,,,,,83-83,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=403
+,,,,,,,,,,4,8.14,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,Thompson,,,,83-83,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=403
 ,,,,,,,,,,4,8.10,Golden State Warriors,shot,Thompson,,,,,,,,,Curry,3,,,made,,3PT Jump Shot,,,86-83,24,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=404
 ,,,,,,,,,,4,8.09,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,86-83,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=405
-,,,,,,,,,,4,7.52,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Jump Shot,,,86-83,13,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=409
+,,,,,,,,,,4,7.52,Memphis Grizzlies,shot,,,Thompson,,,,,,,Bayless,,,,missed,,Jump Shot,,,86-83,13,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=409
 ,,,,,,,,,,4,7.51,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,86-83,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=410
 ,,,,,,,,,,4,7.39,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,86-83,19,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=411
 ,,,,,,,,,,4,7.39,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,86-83,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=412
@@ -356,7 +356,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.10,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,86-85,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=422
 ,,,,,,,,,,4,6.51,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,86-85,14,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=423
 ,,,,,,,,,,4,6.50,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,86-85,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=424
-,,,,,,,,,,4,6.28,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Layup,,,86-85,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=425
+,,,,,,,,,,4,6.28,Golden State Warriors,shot,,,Randolph,,,,,,,Barnes,,,,missed,,Layup,,,86-85,2,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=425
 ,,,,,,,,,,4,6.26,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,86-85,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=426
 ,,,,,,,,,,4,6.05,Memphis Grizzlies,shot,Daye,,,,,,,,,Conley,3,,,made,,3PT Jump Shot,,,86-88,24,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=427
 ,,,,,,,,,,4,5.51,Memphis Grizzlies,foul,,,,,,,,,,Allen,,,,,,Personal,,,86-88,,http://stats.nba.com/cvp.html?GameID=0021200742&GameEventID=428

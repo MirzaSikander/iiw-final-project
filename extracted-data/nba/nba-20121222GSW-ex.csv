@@ -1,9 +1,9 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.47,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,,27,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=2
+,,,,,,,,,,1,11.47,Golden State Warriors,shot,,,Howard,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,,27,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=2
 ,,,,,,,,,,1,11.46,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=3
 ,,,,,,,,,,1,11.43,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=4
 ,,,,,,,,,,1,11.41,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=5
-,,,,,,,,,,1,11.40,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=6
+,,,,,,,,,,1,11.40,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Bad Pass,,Morris,,,,,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=6
 ,,,,,,,,,,1,11.35,Los Angeles Lakers,shot,,,,,,,,,,Morris,2,,,made,,Driving Layup,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=7
 ,,,,,,,,,,1,11.19,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,2-0,18,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=8
 ,,,,,,,,,,1,11.18,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=9
@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.36,Golden State Warriors,foul,,,,,,,,,,Curry,,,,,,Personal,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=13
 ,,,,,,,,,,1,10.32,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Pullup Jump Shot,,,2-3,21,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=14
 ,,,,,,,,,,1,10.30,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=15
-,,,,,,,,,,1,10.23,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=16
+,,,,,,,,,,1,10.23,Golden State Warriors,turnover,,,,,,,,,,Lee,,,Lost Ball,,Bryant,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=16
 ,,,,,,,,,,1,10.18,Los Angeles Lakers,shot,,,,,,,,,,Morris,,,,missed,,Layup,,,2-3,2,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=17
 ,,,,,,,,,,1,10.16,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=19
 ,,,,,,,,,,1,10.16,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Tip Shot,,,4-3,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=18
@@ -42,8 +42,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.56,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,3PT Jump Shot,,,4-7,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=42
 ,,,,,,,,,,1,7.54,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=43
 ,,,,,,,,,,1,7.42,Golden State Warriors,foul,,,,,,,,,,Curry,,,,,,Personal,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=44
-,,,,,,,,,,1,7.35,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=45
-,,,,,,,,,,1,7.32,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=46
+,,,,,,,,,,1,7.35,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,Curry,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=45
+,,,,,,,,,,1,7.32,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,Gasol,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=46
 ,,,,,,,,,,1,7.26,Los Angeles Lakers,shot,Gasol,,,,,,,,,Nash,3,,,made,,3PT Step Back Jump Shot,,,7-7,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=47
 ,,,,,,,,,,1,7.17,Los Angeles Lakers,foul,,,,,,,,,,Morris,,,,,,Personal,,,7-7,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=48
 ,,,,,,,,,,1,7.17,Los Angeles Lakers,substitute,,,,Meeks,,Morris,,,,,,,,,,,,,7-7,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=49
@@ -77,10 +77,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.09,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,15-12,20,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=82
 ,,,,,,,,,,1,4.08,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,15-12,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=83
 ,,,,,,,,,,1,4.05,Golden State Warriors,shot,,,,,,,,,,Barnes,2,,,made,,Dunk,,,15-14,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=84
-,,,,,,,,,,1,3.57,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=85
+,,,,,,,,,,1,3.57,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Barnes,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=85
 ,,,,,,,,,,1,3.51,Golden State Warriors,shot,Thompson,,,,,,,,,Curry,2,,,made,,Driving Finger Roll Layup,,,15-16,5,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=86
-,,,,,,,,,,1,3.41,Los Angeles Lakers,turnover,,,,,,,,,,Meeks,,,Lost Ball,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=87
-,,,,,,,,,,1,3.34,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=88
+,,,,,,,,,,1,3.41,Los Angeles Lakers,turnover,,,,,,,,,,Meeks,,,Lost Ball,,Curry,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=87
+,,,,,,,,,,1,3.34,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Nash,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=88
 ,,,,,,,,,,1,3.20,Los Angeles Lakers,shot,Bryant,,,,,,,,,Gasol,2,,,made,,Layup,,,17-16,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=89
 ,,,,,,,,,,1,3.04,Los Angeles Lakers,foul,,,,,,,,,,Gasol,,,,,,Shooting,,,17-16,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=91
 ,,,,,,,,,,1,3.04,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,17-16,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=93
@@ -117,18 +117,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.57,Golden State Warriors,shot,Jack,,,,,,,,,Barnes,2,,,made,,Driving Slam Dunk,,,29-27,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=135
 ,,,,,,,,,,1,0.44,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,29-27,6,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=136
 ,,,,,,,,,,1,0.44,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=137
-,,,,,,,,,,1,0.40,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Lost Ball,,,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=138
+,,,,,,,,,,1,0.40,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Lost Ball,,Duhon,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=138
 ,,,,,,,,,,1,0.35,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Pullup Jump Shot,,,29-27,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=139
 ,,,,,,,,,,1,0.34,Los Angeles Lakers,rebound,,,,,,,,,,Hill,,,,,,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=140
 ,,,,,,,,,,1,0.26,Los Angeles Lakers,shot,World Peace,,,,,,,,,Hill,2,,,made,,Driving Layup,,,31-27,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=141
 ,,,,,,,,,,1,0.07,Golden State Warriors,turnover,,,,,,,,,,Landry,,,Traveling,,,,,,31-27,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=142
 ,,,,,,,,,,1,0.00,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Running Hook Shot,,,31-27,6,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=143
 ,,,,,,,,,,1,0.00,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,31-27,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=144
-,,,,,,,,,,2,11.48,Los Angeles Lakers,turnover,,,,,,,,,,Meeks,,,Lost Ball,,,,,,31-27,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=148
+,,,,,,,,,,2,11.48,Los Angeles Lakers,turnover,,,,,,,,,,Meeks,,,Lost Ball,,Green,,,,31-27,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=148
 ,,,,,,,,,,2,11.33,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Turnaround Bank Shot,,,31-29,13,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=149
 ,,,,,,,,,,2,11.23,Los Angeles Lakers,shot,Duhon,,,,,,,,,Howard,2,,,made,,Slam Dunk,,,33-29,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=150
 ,,,,,,,,,,2,11.07,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Pullup Jump Shot,,,33-31,18,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=151
-,,,,,,,,,,2,10.57,Los Angeles Lakers,turnover,,,,,,,,,,Duhon,,,Bad Pass,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=152
+,,,,,,,,,,2,10.57,Los Angeles Lakers,turnover,,,,,,,,,,Duhon,,,Bad Pass,,Green,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=152
 ,,,,,,,,,,2,10.41,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Jump Shot,,,33-31,19,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=153
 ,,,,,,,,,,2,10.39,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=154
 ,,,,,,,,,,2,10.21,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,3PT Pullup Jump Shot,,,33-31,25,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=155
@@ -141,13 +141,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.34,Golden State Warriors,substitute,,,,Curry,,Jenkins,,,,,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=162
 ,,,,,,,,,,2,9.34,Golden State Warriors,substitute,,,,Lee,,Green,,,,,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=163
 ,,,,,,,,,,2,9.32,Los Angeles Lakers,turnover,,,,,,,,,,Meeks Poss,,,Lost Ball,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=164
-,,,,,,,,,,2,9.18,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Driving Hook Shot,,,36-33,8,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=165
+,,,,,,,,,,2,9.18,Golden State Warriors,shot,,,Howard,,,,,,,Lee,,,,missed,,Driving Hook Shot,,,36-33,8,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=165
 ,,,,,,,,,,2,9.17,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=166
 ,,,,,,,,,,2,9.14,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,36-33,16,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=167
 ,,,,,,,,,,2,9.13,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=168
 ,,,,,,,,,,2,9.05,Los Angeles Lakers,shot,Duhon,,,,,,,,,Hill,2,,,made,,Pullup Jump Shot,,,38-33,20,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=169
 ,,,,,,,,,,2,8.51,Golden State Warriors,shot,Lee,,,,,,,,,Jack,3,,,made,,3PT Step Back Jump Shot,,,38-36,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=170
-,,,,,,,,,,2,8.36,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,,,,,38-36,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=171
+,,,,,,,,,,2,8.36,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,Landry,,,,38-36,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=171
 ,,,,,,,,,,2,8.31,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Pullup Jump Shot,,,38-38,15,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=172
 ,,,,,,,,,,2,8.30,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=173
 ,,,,,,,,,,2,8.30,Golden State Warriors,substitute,,,,Thompson,,Barnes,,,,,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=175
@@ -175,7 +175,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.46,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,40-43,8,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=198
 ,,,,,,,,,,2,6.45,Golden State Warriors,rebound,,,,,,,,,,Jack,,,,,,,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=199
 ,,,,,,,,,,2,6.37,Golden State Warriors,shot,Curry,,,,,,,,,Lee,2,,,made,,Running Hook Shot,,,40-45,7,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=200
-,,,,,,,,,,2,6.26,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=201
+,,,,,,,,,,2,6.26,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,Curry,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=201
 ,,,,,,,,,,2,6.20,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Jump Shot,,,40-45,16,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=202
 ,,,,,,,,,,2,6.19,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=203
 ,,,,,,,,,,2,6.01,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=204
@@ -208,7 +208,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.35,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=238
 ,,,,,,,,,,2,2.35,Los Angeles Lakers,substitute,,,,Meeks,,World Peace,,,,,,,,,,,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=240
 ,,,,,,,,,,2,2.21,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Pullup Jump Shot,,,49-54,17,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=242
-,,,,,,,,,,2,2.06,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=243
+,,,,,,,,,,2,2.06,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,Thompson,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=243
 ,,,,,,,,,,2,2.03,Los Angeles Lakers,foul,,,,,,,,,,Bryant,,,,,,Personal,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=244
 ,,,,,,,,,,2,1.57,Golden State Warriors,shot,Curry,,,,,,,,,Thompson,3,,,made,,3PT Pullup Jump Shot,,,49-57,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=245
 ,,,,,,,,,,2,1.45,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,49-57,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=246
@@ -219,7 +219,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.28,Golden State Warriors,substitute,,,,Barnes,,Thompson,,,,,,,,,,,,,49-59,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=251
 ,,,,,,,,,,2,1.24,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,49-59,9,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=252
 ,,,,,,,,,,2,1.22,Los Angeles Lakers,rebound,,,,,,,,,,Hill,,,,,,,,,49-59,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=269
-,,,,,,,,,,2,1.22,Los Angeles Lakers,shot,,,,,,,,,,Hill,,,,missed,,Tip Shot,,,49-59,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=270
+,,,,,,,,,,2,1.22,Los Angeles Lakers,shot,,,Landry,,,,,,,Hill,,,,missed,,Tip Shot,,,49-59,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=270
 ,,,,,,,,,,2,1.21,Golden State Warriors,rebound,,,,,,,,,,Jenkins,,,,,,,,,49-59,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=253
 ,,,,,,,,,,2,1.13,Golden State Warriors,shot,Jack,,,,,,,,,Lee,2,,,made,,Pullup Jump Shot,,,49-61,17,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=254
 ,,,,,,,,,,2,1.01,Los Angeles Lakers,shot,,,,,,,,,,Nash,2,,,made,,Fadeaway Jumper,,,51-61,15,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=255
@@ -231,7 +231,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.19,Los Angeles Lakers,rebound,,,,,,,,,,Nash,,,,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=261
 ,,,,,,,,,,2,0.14,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Driving Layup,,,53-61,2,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=262
 ,,,,,,,,,,2,0.14,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=263
-,,,,,,,,,,2,0.12,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=264
+,,,,,,,,,,2,0.12,Los Angeles Lakers,turnover,,,,,,,,,,Gasol,,,Lost Ball,,Jenkins,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=264
 ,,,,,,,,,,2,0.00,Golden State Warriors,shot,,,,,,,,,,Jenkins,,,,missed,,Jump Shot,,,53-61,17,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=265
 ,,,,,,,,,,2,0.00,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=266
 ,,,,,,,,,,3,11.39,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Turnaround Fadeaway,,,55-61,14,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=273
@@ -247,13 +247,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.33,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=283
 ,,,,,,,,,,3,10.31,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Step Back Jump Shot,,,55-63,10,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=284
 ,,,,,,,,,,3,10.30,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=287
-,,,,,,,,,,3,10.19,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Lost Ball,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=288
+,,,,,,,,,,3,10.19,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Lost Ball,,Curry,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=288
 ,,,,,,,,,,3,10.11,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,55-63,10,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=289
 ,,,,,,,,,,3,10.10,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=290
 ,,,,,,,,,,3,10.05,Los Angeles Lakers,shot,Bryant,,,,,,,,,Morris,2,,,made,,Driving Layup,,,57-63,3,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=291
 ,,,,,,,,,,3,9.46,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Driving Layup,,,57-65,2,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=292
 ,,,,,,,,,,3,9.35,Golden State Warriors,foul,,,,,,,,,,Barnes,,,,,,Personal,,,57-65,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=293
-,,,,,,,,,,3,9.27,Los Angeles Lakers,turnover,,,,,,,,,,Morris,,,Lost Ball,,,,,,57-65,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=294
+,,,,,,,,,,3,9.27,Los Angeles Lakers,turnover,,,,,,,,,,Morris,,,Lost Ball,,Barnes,,,,57-65,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=294
 ,,,,,,,,,,3,9.22,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,3PT Pullup Jump Shot,,,57-65,27,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=295
 ,,,,,,,,,,3,9.21,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,57-65,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=296
 ,,,,,,,,,,3,9.13,Los Angeles Lakers,shot,,,,,,,,,,Morris,,,,missed,,3PT Pullup Jump Shot,,,57-65,27,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=297
@@ -279,7 +279,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.23,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,61-68,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=320
 ,,,,,,,,,,3,7.15,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,3PT Pullup Jump Shot,,,61-68,25,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=321
 ,,,,,,,,,,3,7.13,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,61-68,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=322
-,,,,,,,,,,3,7.02,Los Angeles Lakers,shot,,,,,,,,,,Nash,,,,missed,,Jump Shot,,,61-68,11,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=324
+,,,,,,,,,,3,7.02,Los Angeles Lakers,shot,,,Ezeli,,,,,,,Nash,,,,missed,,Jump Shot,,,61-68,11,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=324
 ,,,,,,,,,,3,6.58,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,61-68,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=325
 ,,,,,,,,,,3,6.56,Golden State Warriors,shot,Thompson,,,,,,,,,Curry,3,,,made,,3PT Pullup Jump Shot,,,61-71,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=326
 ,,,,,,,,,,3,6.43,Los Angeles Lakers,turnover,,,,,,,,,,World Peace Poss,,,Lost Ball,,,,,,61-71,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=327
@@ -297,7 +297,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.20,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,63-73,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=343
 ,,,,,,,,,,3,5.16,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,63-73,11,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=344
 ,,,,,,,,,,3,5.15,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,63-73,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=345
-,,,,,,,,,,3,5.13,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Layup,,,63-73,2,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=346
+,,,,,,,,,,3,5.13,Golden State Warriors,shot,,,Peace,,,,,,,Barnes,,,,missed,,Layup,,,63-73,2,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=346
 ,,,,,,,,,,3,5.11,Los Angeles Lakers,rebound,,,,,,,,,,Meeks,,,,,,,,,63-73,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=347
 ,,,,,,,,,,3,5.06,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Jump Shot,,,63-73,24,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=348
 ,,,,,,,,,,3,5.05,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,63-73,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=349
@@ -323,7 +323,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.19,Los Angeles Lakers,foul,,,,,,,,,,Bryant,,,,,,Offensive Charge,,,68-79,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=370
 ,,,,,,,,,,3,3.19,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Foul,,,,,,68-79,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=371
 ,,,,,,,,,,3,3.08,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Driving Layup,,,68-81,2,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=372
-,,,,,,,,,,3,2.58,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Layup,,,68-81,2,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=373
+,,,,,,,,,,3,2.58,Los Angeles Lakers,shot,,,Thompson,,,,,,,Bryant,,,,missed,,Layup,,,68-81,2,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=373
 ,,,,,,,,,,3,2.57,Golden State Warriors,rebound,,,,,,,,,,Lee,,,,,,,,,68-81,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=374
 ,,,,,,,,,,3,2.53,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,3PT Jump Shot,,,68-81,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=375
 ,,,,,,,,,,3,2.51,Los Angeles Lakers,rebound,,,,,,,,,,Gasol,,,,,,,,,68-81,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=376
@@ -381,7 +381,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.40,Golden State Warriors,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,80-90,17,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=438
 ,,,,,,,,,,4,9.39,Los Angeles Lakers,rebound,,,,,,,,,,Meeks,,,,,,,,,80-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=439
 ,,,,,,,,,,4,9.23,Los Angeles Lakers,shot,Duhon,,,,,,,,,Hill,2,,,made,,Pullup Jump Shot,,,82-90,22,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=440
-,,,,,,,,,,4,9.07,Golden State Warriors,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=441
+,,,,,,,,,,4,9.07,Golden State Warriors,turnover,,,,,,,,,,Green,,,Bad Pass,,Peace,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=441
 ,,,,,,,,,,4,8.52,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Jump Hook Shot,,,82-90,6,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=442
 ,,,,,,,,,,4,8.52,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=443
 ,,,,,,,,,,4,8.52,Los Angeles Lakers,substitute,,,,Nash,,Duhon,,,,,,,,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=446
@@ -395,7 +395,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.07,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Jump Shot,,,84-90,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=454
 ,,,,,,,,,,4,8.06,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,84-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=455
 ,,,,,,,,,,4,7.46,Los Angeles Lakers,shot,,,,,,,,,,World Peace,2,,,made,,Driving Layup,,,86-90,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=456
-,,,,,,,,,,4,7.27,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=457
+,,,,,,,,,,4,7.27,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Nash,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=457
 ,,,,,,,,,,4,7.20,Los Angeles Lakers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,86-90,16,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=458
 ,,,,,,,,,,4,7.18,Golden State Warriors,rebound,,,,,,,,,,Ezeli,,,,,,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=459
 ,,,,,,,,,,4,7.11,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Traveling,,,,,,86-90,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=460
@@ -407,7 +407,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.36,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Pullup Jump Shot,,,88-92,19,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=466
 ,,,,,,,,,,4,6.22,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,88-92,27,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=467
 ,,,,,,,,,,4,6.20,Los Angeles Lakers,rebound,,,,,,,,,,Hill,,,,,,,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=468
-,,,,,,,,,,4,6.18,Los Angeles Lakers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,88-92,6,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=469
+,,,,,,,,,,4,6.18,Los Angeles Lakers,shot,,,Ezeli,,,,,,,Hill,,,,missed,,Jump Shot,,,88-92,6,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=469
 ,,,,,,,,,,4,6.18,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=470
 ,,,,,,,,,,4,6.10,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Pullup Jump Shot,,,88-92,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=471
 ,,,,,,,,,,4,6.09,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=472
@@ -424,7 +424,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.11,Golden State Warriors,shot,Jack,,,,,,,,,Barnes,2,,,made,,Pullup Jump Shot,,,95-97,9,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=485
 ,,,,,,,,,,4,3.50,Los Angeles Lakers,shot,Gasol,,,,,,,,,Meeks,3,,,made,,3PT Pullup Jump Shot,,,98-97,27,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=486
 ,,,,,,,,,,4,3.32,Golden State Warriors,shot,Lee,,,,,,,,,Jack,3,,,made,,3PT Pullup Jump Shot,,,98-100,26,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=487
-,,,,,,,,,,4,3.16,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,,,,,98-100,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=488
+,,,,,,,,,,4,3.16,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,Jack,,,,98-100,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=488
 ,,,,,,,,,,4,3.10,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Running Bank Shot,,,98-100,14,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=490
 ,,,,,,,,,,4,3.09,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,98-100,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=492
 ,,,,,,,,,,4,3.09,Golden State Warriors,shot,,,,,,,,,,Barnes,2,,,made,,Putback Slam Dunk,,,98-102,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=491
@@ -438,10 +438,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.27,Los Angeles Lakers,free throw,,,,,,,2,,2,Howard,1,,foul,made,,,,,100-102,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=501
 ,,,,,,,,,,4,2.08,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Jump Shot,,,100-102,17,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=503
 ,,,,,,,,,,4,2.07,Golden State Warriors,rebound,,,,,,,,,,Ezeli,,,,,,,,,100-102,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=504
-,,,,,,,,,,4,1.55,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,,,,,100-102,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=505
+,,,,,,,,,,4,1.55,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,Howard,,,,100-102,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=505
 ,,,,,,,,,,4,1.46,Los Angeles Lakers,shot,Bryant,,,,,,,,,Nash,3,,,made,,3PT Pullup Jump Shot,,,103-102,27,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=506
 ,,,,,,,,,,4,1.35,Golden State Warriors,shot,,,,,,,,,,Ezeli,2,,,made,,Alley Oop Dunk,,,103-104,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=507
-,,,,,,,,,,4,1.22,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,,,,,103-104,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=508
+,,,,,,,,,,4,1.22,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,Barnes,,,,103-104,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=508
 ,,,,,,,,,,4,1.17,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Driving Layup,,,103-104,2,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=509
 ,,,,,,,,,,4,1.16,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,103-104,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=510
 ,,,,,,,,,,4,1.01,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Pullup Jump Shot,,,105-104,20,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=511
@@ -466,7 +466,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.00,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,108-108,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=536
 ,,,,,,,,,,5,5.00,Golden State Warriors,jumpball,,Howard,,,Ezeli,,,,,,,,,,,,,,108-108,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=540
 ,,,,,,,,,,5,4.48,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Personal,,,108-108,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=541
-,,,,,,,,,,5,4.32,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Fadeaway Jumper,,,108-108,8,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=542
+,,,,,,,,,,5,4.32,Los Angeles Lakers,shot,,,Ezeli,,,,,,,World Peace,,,,missed,,Fadeaway Jumper,,,108-108,8,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=542
 ,,,,,,,,,,5,4.30,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,108-108,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=544
 ,,,,,,,,,,5,4.30,Los Angeles Lakers,shot,,,,,,,,,,Howard,2,,,made,,Putback Slam Dunk,,,110-108,1,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=543
 ,,,,,,,,,,5,4.15,Los Angeles Lakers,violation,,,,,,,,,,Nash,,,Kicked Ball,,,,,,110-108,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=545
@@ -502,5 +502,5 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,0.08,Los Angeles Lakers,substitute,,,,Morris,,Howard,,,,,,,,,,,,,118-115,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=577
 ,,,,,,,,,,5,0.04,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Pullup Jump Shot,,,118-115,25,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=579
 ,,,,,,,,,,5,0.02,Golden State Warriors,rebound,,,,,,,,,,Ezeli,,,,,,,,,118-115,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=580
-,,,,,,,,,,5,0.01,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,,,,,118-115,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=581
+,,,,,,,,,,5,0.01,Golden State Warriors,turnover,,,,,,,,,,Ezeli,,,Bad Pass,,Gasol,,,,118-115,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=581
 ,,,,,,,,,,5,0.00,Golden State Warriors,foul,,,,,,,,,,Lee,,,,,,Personal Take,,,118-115,,http://stats.nba.com/cvp.html?GameID=0021200398&GameEventID=582

@@ -8,9 +8,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.23,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Pullup Jump Shot,,,3-0,16,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=10
 ,,,,,,,,,,1,10.22,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=11
 ,,,,,,,,,,1,10.11,Miami Heat,shot,Wade,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,3-2,19,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=12
-,,,,,,,,,,1,9.54,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=13
+,,,,,,,,,,1,9.54,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,Bosh,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=13
 ,,,,,,,,,,1,9.52,Miami Heat,turnover,,,,,,,,,,Wade Out of Bounds,,,Lost Ball,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=14
-,,,,,,,,,,1,9.36,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=15
+,,,,,,,,,,1,9.36,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,Bosh,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=15
 ,,,,,,,,,,1,9.28,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,3-2,27,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=16
 ,,,,,,,,,,1,9.27,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,3-2,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=17
 ,,,,,,,,,,1,9.10,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Turnaround Jump Shot,,,3-2,14,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=18
@@ -30,7 +30,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.55,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,11-6,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=35
 ,,,,,,,,,,1,6.52,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,11-6,20,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=36
 ,,,,,,,,,,1,6.50,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,11-6,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=37
-,,,,,,,,,,1,6.32,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Layup,,,11-6,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=38
+,,,,,,,,,,1,6.32,San Antonio Spurs,shot,,,Bosh,,,,,,,Splitter,,,,missed,,Layup,,,11-6,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=38
 ,,,,,,,,,,1,6.31,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,11-6,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=39
 ,,,,,,,,,,1,6.31,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,11-6,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=41
 ,,,,,,,,,,1,6.31,San Antonio Spurs,substitute,,,,Ginobili,,Leonard,,,,,,,,,,,,,11-6,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=43
@@ -66,7 +66,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.00,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=78
 ,,,,,,,,,,1,2.46,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,Jump Shot,,,15-16,19,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=79
 ,,,,,,,,,,1,2.45,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=80
-,,,,,,,,,,1,2.44,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Layup,,,15-16,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=81
+,,,,,,,,,,1,2.44,San Antonio Spurs,shot,,,Wade,,,,,,,Leonard,,,,missed,,Layup,,,15-16,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=81
 ,,,,,,,,,,1,2.43,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=82
 ,,,,,,,,,,1,2.43,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=83
 ,,,,,,,,,,1,2.43,Miami Heat,substitute,,,,Allen,,Wade,,,,,,,,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=86
@@ -75,7 +75,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.01,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Turnaround Jump Shot,,,15-16,7,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=89
 ,,,,,,,,,,1,2.00,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=90
 ,,,,,,,,,,1,1.59,Miami Heat,shot,,,,,,,,,,Bosh,2,,,made,,Tip Shot,,,15-18,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=91
-,,,,,,,,,,1,1.55,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,15-18,1,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=92
+,,,,,,,,,,1,1.55,San Antonio Spurs,shot,,,James,,,,,,,Duncan,,,,missed,,Layup,,,15-18,1,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=92
 ,,,,,,,,,,1,1.54,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,15-18,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=93
 ,,,,,,,,,,1,1.54,Miami Heat,foul,,,,,,,,,,Bosh,,,,,,Shooting,,,15-18,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=94
 ,,,,,,,,,,1,1.54,San Antonio Spurs,free throw,,,,,,,1,,2,Duncan,1,,foul,made,,,,,16-18,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=95
@@ -90,7 +90,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.40,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,19-20,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=106
 ,,,,,,,,,,1,0.36,San Antonio Spurs,shot,Diaw,,,,,,,,,Neal,3,,,made,,3PT Jump Shot,,,22-20,26,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=107
 ,,,,,,,,,,1,0.14,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Shot,,,22-22,15,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=108
-,,,,,,,,,,2,11.45,Miami Heat,turnover,,,,,,,,,,Andersen,,,Lost Ball,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=112
+,,,,,,,,,,2,11.45,Miami Heat,turnover,,,,,,,,,,Andersen,,,Lost Ball,,Leonard,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=112
 ,,,,,,,,,,2,11.34,Miami Heat,foul,,,,,,,,,,Andersen,,,,,,Personal,,,22-22,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=113
 ,,,,,,,,,,2,11.16,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,3PT Jump Shot,,,22-22,26,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=114
 ,,,,,,,,,,2,11.15,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=115
@@ -120,7 +120,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.43,Miami Heat,substitute,,,,Wade,,Miller,,,,,,,,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=142
 ,,,,,,,,,,2,8.32,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Reverse Layup,,,29-29,1,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=143
 ,,,,,,,,,,2,8.31,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=144
-,,,,,,,,,,2,8.07,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Layup,,,29-29,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=145
+,,,,,,,,,,2,8.07,San Antonio Spurs,shot,,,Andersen,,,,,,,Splitter,,,,missed,,Layup,,,29-29,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=145
 ,,,,,,,,,,2,8.06,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=146
 ,,,,,,,,,,2,8.00,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,3PT Jump Shot,,,29-29,25,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=147
 ,,,,,,,,,,2,7.59,San Antonio Spurs,rebound,,,,,,,,,,Neal,,,,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=148
@@ -135,7 +135,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.11,Miami Heat,free throw,,,,,,,1,,2,Andersen,,,foul,missed,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=160
 ,,,,,,,,,,2,7.11,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=161
 ,,,,,,,,,,2,7.11,Miami Heat,free throw,,,,,,,2,,2,Andersen,1,,foul,made,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=162
-,,,,,,,,,,2,7.00,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=164
+,,,,,,,,,,2,7.00,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,Bosh,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=164
 ,,,,,,,,,,2,6.59,San Antonio Spurs,foul,,,,,,,,,,Ginobili,,,,,,Personal,,,34-30,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=165
 ,,,,,,,,,,2,6.42,Miami Heat,shot,Bosh,,,,,,,,,Andersen,2,,,made,,Dunk,,,34-32,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=166
 ,,,,,,,,,,2,6.27,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Driving Layup,,,36-32,3,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=167
@@ -164,7 +164,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.02,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=193
 ,,,,,,,,,,2,2.52,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Jump Shot,,,42-45,12,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=194
 ,,,,,,,,,,2,2.26,San Antonio Spurs,shot,Parker,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,45-45,25,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=195
-,,,,,,,,,,2,2.05,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Layup,,,45-45,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=196
+,,,,,,,,,,2,2.05,Miami Heat,shot,,,Parker,,,,,,,Chalmers,,,,missed,,Layup,,,45-45,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=196
 ,,,,,,,,,,2,2.04,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=197
 ,,,,,,,,,,2,1.56,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Driving Layup,,,45-45,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=198
 ,,,,,,,,,,2,1.55,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=199
@@ -180,7 +180,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.30,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=213
 ,,,,,,,,,,2,0.05,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,Jump Shot,,,45-50,10,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=214
 ,,,,,,,,,,2,0.04,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=215
-,,,,,,,,,,2,0.02,San Antonio Spurs,turnover,,,,,,,,,,Neal,,,Lost Ball,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=216
+,,,,,,,,,,2,0.02,San Antonio Spurs,turnover,,,,,,,,,,Neal,,,Lost Ball,,James,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=216
 ,,,,,,,,,,2,0.00,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,45-50,50,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=217
 ,,,,,,,,,,2,0.00,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=218
 ,,,,,,,,,,3,11.41,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,45-50,10,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=222
@@ -196,7 +196,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.47,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,46-52,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=233
 ,,,,,,,,,,3,10.35,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Pullup Jump Shot,,,46-52,12,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=234
 ,,,,,,,,,,3,10.33,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,46-52,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=235
-,,,,,,,,,,3,10.18,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,,,,,46-52,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=236
+,,,,,,,,,,3,10.18,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,James,,,,46-52,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=236
 ,,,,,,,,,,3,10.16,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Driving Layup,,,46-52,1,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=237
 ,,,,,,,,,,3,10.15,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,46-52,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=238
 ,,,,,,,,,,3,10.03,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,3PT Jump Shot,,,46-52,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=239
@@ -216,10 +216,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.43,San Antonio Spurs,shot,,,,,,,,,,Leonard,2,,,made,,Layup,,,48-54,1,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=256
 ,,,,,,,,,,3,8.19,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Jump Shot,,,48-54,12,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=257
 ,,,,,,,,,,3,8.18,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,48-54,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=258
-,,,,,,,,,,3,8.10,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Driving Layup,,,48-54,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=259
+,,,,,,,,,,3,8.10,San Antonio Spurs,shot,,,James,,,,,,,Leonard,,,,missed,,Driving Layup,,,48-54,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=259
 ,,,,,,,,,,3,8.09,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,48-54,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=260
 ,,,,,,,,,,3,8.07,San Antonio Spurs,shot,Duncan,,,,,,,,,Splitter,2,,,made,,Hook Shot,,,50-54,5,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=261
-,,,,,,,,,,3,7.54,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Layup,,,50-54,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=262
+,,,,,,,,,,3,7.54,Miami Heat,shot,,,Splitter,,,,,,,Wade,,,,missed,,Layup,,,50-54,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=262
 ,,,,,,,,,,3,7.51,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,50-54,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=263
 ,,,,,,,,,,3,7.43,San Antonio Spurs,shot,Leonard,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,53-54,24,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=264
 ,,,,,,,,,,3,7.43,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=265
@@ -255,7 +255,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.41,San Antonio Spurs,substitute,,,,Neal,,Parker,,,,,,,,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=301
 ,,,,,,,,,,3,4.30,Miami Heat,shot,,,,,,,,,,Bosh,2,,,made,,Fadeaway Bank Shot,,,58-61,15,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=302
 ,,,,,,,,,,3,4.18,San Antonio Spurs,shot,Ginobili,,,,,,,,,Duncan,2,,,made,,Dunk,,,60-61,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=303
-,,,,,,,,,,3,4.00,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Layup,,,60-61,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=305
+,,,,,,,,,,3,4.00,Miami Heat,shot,,,Green,,,,,,,James,,,,missed,,Layup,,,60-61,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=305
 ,,,,,,,,,,3,3.59,San Antonio Spurs,rebound,,,,,,,,,,Ginobili,,,,,,,,,60-61,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=306
 ,,,,,,,,,,3,3.50,San Antonio Spurs,shot,,,,,,,,,,Green,2,,,made,,Driving Finger Roll Layup,,,62-61,2,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=307
 ,,,,,,,,,,3,3.27,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,62-61,25,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=308
@@ -272,9 +272,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.11,Miami Heat,substitute,,,,Andersen,,Bosh,,,,,,,,,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=321
 ,,,,,,,,,,3,3.11,Miami Heat,substitute,,,,Allen,,Wade,,,,,,,,,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=322
 ,,,,,,,,,,3,2.57,San Antonio Spurs,turnover,,,,,,,,,,Neal Out of Bounds,,,Lost Ball,,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=323
-,,,,,,,,,,3,2.45,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=324
+,,,,,,,,,,3,2.45,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Ginobili,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=324
 ,,,,,,,,,,3,2.45,Miami Heat,foul,,,,,,,,,,Andersen,,,,,,Personal,,,62-64,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=325
-,,,,,,,,,,3,2.31,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Lost Ball,,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=326
+,,,,,,,,,,3,2.31,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Lost Ball,,James,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=326
 ,,,,,,,,,,3,2.25,Miami Heat,shot,Chalmers,,,,,,,,,Allen,3,,,made,,3PT Jump Shot,,,62-67,25,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=327
 ,,,,,,,,,,3,1.59,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Turnaround Jump Shot,,,62-67,11,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=328
 ,,,,,,,,,,3,1.58,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=329
@@ -293,7 +293,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.09,Miami Heat,free throw,,,,,,,1,,1,Chalmers,1,,foul,made,,,,,65-75,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=345
 ,,,,,,,,,,3,0.02,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,3PT Jump Shot,,,65-75,25,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=347
 ,,,,,,,,,,3,0.00,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,65-75,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=348
-,,,,,,,,,,4,11.40,San Antonio Spurs,turnover,,,,,,,,,,Neal,,,Bad Pass,,,,,,65-75,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=357
+,,,,,,,,,,4,11.40,San Antonio Spurs,turnover,,,,,,,,,,Neal,,,Bad Pass,,Andersen,,,,65-75,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=357
 ,,,,,,,,,,4,11.40,San Antonio Spurs,foul,,,,,,,,,,Leonard,,,,,,Personal,,,65-75,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=358
 ,,,,,,,,,,4,11.25,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Jump Shot,,,65-75,17,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=359
 ,,,,,,,,,,4,11.24,San Antonio Spurs,rebound,,,,,,,,,,Neal,,,,,,,,,65-75,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=360
@@ -310,7 +310,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.43,Miami Heat,shot,,,,,,,,,,Chalmers,2,,,made,,Jump Shot,,,65-82,9,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=371
 ,,,,,,,,,,4,9.35,Miami Heat,foul,,,,,,,,,,Andersen,,,,,,Personal,,,65-82,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=372
 ,,,,,,,,,,4,9.35,Miami Heat,foul,,,,,,,,,,Miller,,,,,,Personal,,,65-82,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=373
-,,,,,,,,,,4,9.24,San Antonio Spurs,turnover,,,,,,,,,,Splitter,,,Lost Ball,,,,,,65-82,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=374
+,,,,,,,,,,4,9.24,San Antonio Spurs,turnover,,,,,,,,,,Splitter,,,Lost Ball,,Chalmers,,,,65-82,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=374
 ,,,,,,,,,,4,9.19,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Driving Layup,,,65-84,1,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=375
 ,,,,,,,,,,4,9.11,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,65-84,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=376
 ,,,,,,,,,,4,8.59,San Antonio Spurs,shot,,,,,,,,,,Neal,2,,,made,,Driving Jump Shot,,,67-84,8,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=380
@@ -319,10 +319,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.44,Miami Heat,free throw,,,,,,,2,,2,Andersen,1,,foul,made,,,,,67-86,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=384
 ,,,,,,,,,,4,8.32,Miami Heat,foul,,,,,,,,,,Andersen,,,,,,Personal,,,67-86,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=386
 ,,,,,,,,,,4,8.32,Miami Heat,substitute,,,,Bosh,,Andersen,,,,,,,,,,,,,67-86,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=387
-,,,,,,,,,,4,8.20,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Dunk,,,67-86,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=388
+,,,,,,,,,,4,8.20,San Antonio Spurs,shot,,,James,,,,,,,Splitter,,,,missed,,Dunk,,,67-86,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=388
 ,,,,,,,,,,4,8.19,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,67-86,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=389
 ,,,,,,,,,,4,8.06,Miami Heat,shot,James,,,,,,,,,Allen,3,,,made,,3PT Jump Shot,,,67-89,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=390
-,,,,,,,,,,4,7.50,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,,,,,67-89,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=391
+,,,,,,,,,,4,7.50,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,Miller,,,,67-89,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=391
 ,,,,,,,,,,4,7.46,Miami Heat,shot,Miller,,,,,,,,,James,2,,,made,,Running Dunk,,,67-91,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=392
 ,,,,,,,,,,4,7.43,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,67-91,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=393
 ,,,,,,,,,,4,7.43,San Antonio Spurs,substitute,,,,McGrady,,Leonard,,,,,,,,,,,,,67-91,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=395
@@ -364,7 +364,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.31,San Antonio Spurs,rebound,,,,,,,,,,McGrady,,,,,,,,,73-98,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=435
 ,,,,,,,,,,4,3.17,San Antonio Spurs,shot,,,,,,,,,,McGrady,,,,missed,,Jump Shot,,,73-98,21,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=437
 ,,,,,,,,,,4,3.16,Miami Heat,rebound,,,,,,,,,,Battier,,,,,,,,,73-98,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=438
-,,,,,,,,,,4,3.03,Miami Heat,turnover,,,,,,,,,,Lewis,,,Lost Ball,,,,,,73-98,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=439
+,,,,,,,,,,4,3.03,Miami Heat,turnover,,,,,,,,,,Lewis,,,Lost Ball,,Blair,,,,73-98,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=439
 ,,,,,,,,,,4,2.57,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Floating Jump Shot,,,73-98,9,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=440
 ,,,,,,,,,,4,2.56,San Antonio Spurs,rebound,,,,,,,,,,Joseph,,,,,,,,,73-98,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=441
 ,,,,,,,,,,4,2.49,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Jump Shot,,,73-98,14,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=442
@@ -387,7 +387,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.51,Miami Heat,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,79-100,20,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=463
 ,,,,,,,,,,4,0.50,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,79-100,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=464
 ,,,,,,,,,,4,0.39,San Antonio Spurs,shot,McGrady,,,,,,,,,Bonner,3,,,made,,3PT Jump Shot,,,82-100,25,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=465
-,,,,,,,,,,4,0.22,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,82-100,24,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=467
+,,,,,,,,,,4,0.22,Miami Heat,shot,,,McGrady,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,82-100,24,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=467
 ,,,,,,,,,,4,0.21,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,82-100,,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=468
 ,,,,,,,,,,4,0.18,Miami Heat,shot,Lewis,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,82-103,25,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=469
 ,,,,,,,,,,4,0.08,San Antonio Spurs,shot,,,,,,,,,,Joseph,2,,,made,,Driving Layup,,,84-103,1,http://stats.nba.com/cvp.html?GameID=0041200402&GameEventID=470

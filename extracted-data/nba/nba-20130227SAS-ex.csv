@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.36,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,3PT Jump Shot,,,,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=2
 ,,,,,,,,,,1,11.35,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=3
-,,,,,,,,,,1,11.24,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=4
+,,,,,,,,,,1,11.24,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Splitter,,,,,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=4
 ,,,,,,,,,,1,11.18,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=5
 ,,,,,,,,,,1,10.49,Phoenix Suns,shot,Scola,,,,,,,,,Tucker,2,,,made,,Jump Shot,,,2-2,22,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=6
 ,,,,,,,,,,1,10.34,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,3PT Jump Shot,,,2-2,24,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=7
@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.32,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,6-2,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=14
 ,,,,,,,,,,1,9.18,Phoenix Suns,shot,Dragic,,,,,,,,,Scola,2,,,made,,Jump Shot,,,8-2,21,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=15
 ,,,,,,,,,,1,9.04,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Jump Shot,,,8-4,19,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=16
-,,,,,,,,,,1,8.53,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=17
+,,,,,,,,,,1,8.53,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Leonard,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=17
 ,,,,,,,,,,1,8.46,San Antonio Spurs,shot,Leonard,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,8-7,24,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=18
 ,,,,,,,,,,1,8.28,Phoenix Suns,substitute,,,,W. Johnson,,Tucker,,,,,,,,,,,,,8-7,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=20
 ,,,,,,,,,,1,8.20,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,8-7,19,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=21
@@ -52,10 +52,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.15,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Shot,,,16-14,18,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=61
 ,,,,,,,,,,1,5.14,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,16-14,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=62
 ,,,,,,,,,,1,5.03,Phoenix Suns,shot,Dragic,,,,,,,,,Scola,2,,,made,,Jump Shot,,,18-14,18,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=63
-,,,,,,,,,,1,4.49,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Bad Pass,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=64
+,,,,,,,,,,1,4.49,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Bad Pass,,Dragic,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=64
 ,,,,,,,,,,1,4.44,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Layup,,,20-14,1,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=65
 ,,,,,,,,,,1,4.37,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Layup,,,20-16,2,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=66
-,,,,,,,,,,1,4.29,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=67
+,,,,,,,,,,1,4.29,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Parker,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=67
 ,,,,,,,,,,1,4.26,Phoenix Suns,foul,,,,,,,,,,W. Johnson,,,,,,Shooting,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=68
 ,,,,,,,,,,1,4.26,San Antonio Spurs,free throw,,,,,,,1,,2,Leonard,,,foul,missed,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=69
 ,,,,,,,,,,1,4.26,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=70
@@ -71,7 +71,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.11,San Antonio Spurs,substitute,,,,Jackson,,Leonard,,,,,,,,,,,,,22-19,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=83
 ,,,,,,,,,,1,3.11,Phoenix Suns,substitute,,,,Morris,,Scola,,,,,,,,,,,,,22-19,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=84
 ,,,,,,,,,,1,3.08,San Antonio Spurs,turnover,,,,,,,,,,Blair,,,Bad Pass,,,,,,22-19,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=85
-,,,,,,,,,,1,2.55,Phoenix Suns,turnover,,,,,,,,,,W. Johnson,,,Bad Pass,,,,,,22-19,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=86
+,,,,,,,,,,1,2.55,Phoenix Suns,turnover,,,,,,,,,,W. Johnson,,,Bad Pass,,Jackson,,,,22-19,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=86
 ,,,,,,,,,,1,2.31,San Antonio Spurs,shot,Parker,,,,,,,,,Jackson,3,,,made,,3PT Jump Shot,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=87
 ,,,,,,,,,,1,2.30,San Antonio Spurs,violation,,,,,,,,,,SPURS,,, Delay of game Violation,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=88
 ,,,,,,,,,,1,2.24,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=89
@@ -113,7 +113,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.49,San Antonio Spurs,shot,Mills,,,,,,,,,Blair,2,,,made,,Running Jump Shot,,,31-31,8,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=132
 ,,,,,,,,,,2,9.30,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,31-31,17,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=133
 ,,,,,,,,,,2,9.29,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=134
-,,,,,,,,,,2,9.22,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=135
+,,,,,,,,,,2,9.22,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,Morris,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=135
 ,,,,,,,,,,2,9.15,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Jump Shot,,,31-31,8,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=136
 ,,,,,,,,,,2,9.13,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=137
 ,,,,,,,,,,2,9.09,San Antonio Spurs,turnover,,,,,,,,,,Diaw Out of Bounds,,,Lost Ball,,,,,,31-31,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=138
@@ -137,13 +137,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.25,San Antonio Spurs,free throw,,,,,,,2,,2,Splitter,1,,foul,made,,,,,31-35,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=158
 ,,,,,,,,,,2,7.05,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,31-35,9,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=160
 ,,,,,,,,,,2,7.04,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,31-35,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=161
-,,,,,,,,,,2,6.54,San Antonio Spurs,turnover,,,,,,,,,,Mills,,,Bad Pass,,,,,,31-35,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=162
+,,,,,,,,,,2,6.54,San Antonio Spurs,turnover,,,,,,,,,,Mills,,,Bad Pass,,Morris,,,,31-35,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=162
 ,,,,,,,,,,2,6.48,Phoenix Suns,shot,,,,,,,,,,Morris,2,,,made,,Dunk,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=163
 ,,,,,,,,,,2,6.32,San Antonio Spurs,foul,,,,,,,,,,Blair,,,,,,Offensive Charge,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=164
 ,,,,,,,,,,2,6.32,San Antonio Spurs,turnover,,,,,,,,,,Blair,,,Foul,,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=165
 ,,,,,,,,,,2,6.13,Phoenix Suns,shot,Marshall,,,,,,,,,Morris,2,,,made,,Jump Shot,,,35-35,19,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=166
 ,,,,,,,,,,2,5.52,San Antonio Spurs,shot,Splitter,,,,,,,,,Blair,2,,,made,,Reverse Layup,,,35-37,2,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=167
-,,,,,,,,,,2,5.41,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=168
+,,,,,,,,,,2,5.41,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,Green,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=168
 ,,,,,,,,,,2,5.37,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Shooting,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=169
 ,,,,,,,,,,2,5.37,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=170
 ,,,,,,,,,,2,5.37,San Antonio Spurs,substitute,,,,Duncan,,Blair,,,,,,,,,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=172
@@ -212,7 +212,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.22,San Antonio Spurs,free throw,,,,,,,2,,2,Duncan,1,,foul,made,,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=247
 ,,,,,,,,,,2,0.18,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=249
 ,,,,,,,,,,2,0.18,Phoenix Suns,substitute,,,,W. Johnson,,Tucker,,,,,,,,,,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=251
-,,,,,,,,,,2,0.11,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=252
+,,,,,,,,,,2,0.11,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Duncan,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=252
 ,,,,,,,,,,2,0.08,San Antonio Spurs,shot,Parker,,,,,,,,,Leonard,2,,,made,,Layup,,,43-51,2,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=253
 ,,,,,,,,,,2,0.08,Phoenix Suns,foul,,,,,,,,,,Dudley,,,,,,Shooting,,,43-51,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=254
 ,,,,,,,,,,2,0.08,San Antonio Spurs,free throw,,,,,,,1,,1,Leonard,1,,foul,made,,,,,43-52,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=255
@@ -257,7 +257,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.38,Phoenix Suns,shot,,,,,,,,,,Scola,2,,,made,,Jump Shot,,,54-61,15,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=300
 ,,,,,,,,,,3,6.16,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,54-61,14,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=301
 ,,,,,,,,,,3,6.15,Phoenix Suns,rebound,,,,,,,,,,W. Johnson,,,,,,,,,54-61,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=302
-,,,,,,,,,,3,6.11,Phoenix Suns,turnover,,,,,,,,,,W. Johnson,,,Bad Pass,,,,,,54-61,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=303
+,,,,,,,,,,3,6.11,Phoenix Suns,turnover,,,,,,,,,,W. Johnson,,,Bad Pass,,Leonard,,,,54-61,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=303
 ,,,,,,,,,,3,6.05,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Jump Shot,,,54-61,10,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=304
 ,,,,,,,,,,3,6.03,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,54-61,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=305
 ,,,,,,,,,,3,5.59,San Antonio Spurs,shot,Splitter,,,,,,,,,Green,2,,,made,,Floating Jump Shot,,,54-63,4,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=306
@@ -267,7 +267,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.41,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=311
 ,,,,,,,,,,3,5.41,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Tip Shot,,,54-63,1,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=310
 ,,,,,,,,,,3,5.39,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=312
-,,,,,,,,,,3,5.30,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=313
+,,,,,,,,,,3,5.30,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,Johnson,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=313
 ,,,,,,,,,,3,5.27,San Antonio Spurs,foul,,,,,,,,,,Leonard,,,,,,Shooting,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=314
 ,,,,,,,,,,3,5.27,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=315
 ,,,,,,,,,,3,5.27,San Antonio Spurs,substitute,,,,Ginobili,,Green,,,,,,,,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=316
@@ -292,7 +292,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.06,San Antonio Spurs,free throw,,,,,,,2,,2,Parker,1,,foul,made,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=340
 ,,,,,,,,,,3,3.55,Phoenix Suns,shot,,,,,,,,,,Marshall,,,,missed,,Layup,,,58-65,1,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=342
 ,,,,,,,,,,3,3.54,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=343
-,,,,,,,,,,3,3.48,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Layup,,,58-65,1,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=344
+,,,,,,,,,,3,3.48,San Antonio Spurs,shot,,,Morris,,,,,,,Parker,,,,missed,,Layup,,,58-65,1,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=344
 ,,,,,,,,,,3,3.48,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=345
 ,,,,,,,,,,3,3.48,San Antonio Spurs,substitute,,,,Blair,,Duncan,,,,,,,,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=346
 ,,,,,,,,,,3,3.48,Phoenix Suns,substitute,,,,Beasley,,Dudley,,,,,,,,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=347
@@ -321,7 +321,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.33,San Antonio Spurs,free throw,,,,,,,1,,2,Ginobili,1,,foul,made,,,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=376
 ,,,,,,,,,,3,0.33,San Antonio Spurs,free throw,,,,,,,2,,2,Ginobili,,,foul,missed,,,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=379
 ,,,,,,,,,,3,0.32,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=381
-,,,,,,,,,,3,0.18,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Layup,,,64-74,3,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=382
+,,,,,,,,,,3,0.18,Phoenix Suns,shot,,,Blair,,,,,,,Beasley,,,,missed,,Layup,,,64-74,3,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=382
 ,,,,,,,,,,3,0.17,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=385
 ,,,,,,,,,,3,0.17,Phoenix Suns,shot,,,,,,,,,,O'Neal,2,,,made,,Layup,,,66-74,2,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=384
 ,,,,,,,,,,3,0.17,San Antonio Spurs,foul,,,,,,,,,,Leonard,,,,,,Shooting,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=386
@@ -329,7 +329,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.02,San Antonio Spurs,shot,Blair,,,,,,,,,Leonard,3,,,made,,3PT Jump Shot,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=390
 ,,,,,,,,,,4,11.50,San Antonio Spurs,foul,,,,,,,,,,,,,,,,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=397
 ,,,,,,,,,,4,11.50,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Foul,,,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=398
-,,,,,,,,,,4,11.33,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=399
+,,,,,,,,,,4,11.33,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,Ginobili,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=399
 ,,,,,,,,,,4,11.29,Phoenix Suns,foul,,,,,,,,,,O'Neal,,,,,,Shooting,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=400
 ,,,,,,,,,,4,11.29,San Antonio Spurs,free throw,,,,,,,1,,2,Blair,,,foul,missed,,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=401
 ,,,,,,,,,,4,11.29,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,67-77,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=402
@@ -340,7 +340,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.48,Phoenix Suns,shot,Morris,,,,,,,,,O'Neal,2,,,made,,Jump Shot,,,71-78,8,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=408
 ,,,,,,,,,,4,10.33,San Antonio Spurs,shot,Diaw,,,,,,,,,Blair,2,,,made,,Dunk,,,71-80,2,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=409
 ,,,,,,,,,,4,10.13,Phoenix Suns,shot,,,,,,,,,,Morris,2,,,made,,Turnaround Jump Shot,,,73-80,8,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=410
-,,,,,,,,,,4,10.02,San Antonio Spurs,shot,,,,,,,,,,Diaw,,,,missed,,Jump Shot,,,73-80,4,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=411
+,,,,,,,,,,4,10.02,San Antonio Spurs,shot,,,Beasley,,,,,,,Diaw,,,,missed,,Jump Shot,,,73-80,4,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=411
 ,,,,,,,,,,4,10.01,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=412
 ,,,,,,,,,,4,9.46,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Jump Shot,,,75-80,14,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=413
 ,,,,,,,,,,4,9.28,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,Fadeaway Jumper,,,75-80,16,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=414
@@ -389,7 +389,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.07,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=464
 ,,,,,,,,,,4,4.49,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,84-88,6,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=465
 ,,,,,,,,,,4,4.47,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=466
-,,,,,,,,,,4,4.40,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Layup,,,84-88,2,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=467
+,,,,,,,,,,4,4.40,San Antonio Spurs,shot,,,O'Neal,,,,,,,Splitter,,,,missed,,Layup,,,84-88,2,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=467
 ,,,,,,,,,,4,4.39,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=468
 ,,,,,,,,,,4,4.35,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,Jump Shot,,,84-88,13,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=469
 ,,,,,,,,,,4,4.33,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=470
@@ -412,14 +412,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.52,San Antonio Spurs,foul,,,,,,,,,,Leonard,,,,,,Shooting,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=492
 ,,,,,,,,,,4,2.52,Phoenix Suns,free throw,,,,,,,1,,2,Morris,1,,foul,made,,,,,87-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=494
 ,,,,,,,,,,4,2.52,Phoenix Suns,free throw,,,,,,,2,,2,Morris,1,,foul,made,,,,,88-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=496
-,,,,,,,,,,4,2.33,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,,,,,88-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=498
+,,,,,,,,,,4,2.33,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,Gortat,,,,88-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=498
 ,,,,,,,,,,4,2.29,Phoenix Suns,shot,,,,,,,,,,Morris,2,,,made,,Dunk,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=499
 ,,,,,,,,,,4,2.05,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,90-93,17,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=500
 ,,,,,,,,,,4,2.03,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=501
 ,,,,,,,,,,4,1.48,Phoenix Suns,turnover,,,,,,,,,,O'Neal Out of Bounds,,,Lost Ball,,,,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=502
 ,,,,,,,,,,4,1.36,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,3PT Jump Shot,,,90-93,26,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=503
 ,,,,,,,,,,4,1.34,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=504
-,,,,,,,,,,4,1.29,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=505
+,,,,,,,,,,4,1.29,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Leonard,,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=505
 ,,,,,,,,,,4,1.24,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Running Jump Shot,,,90-95,9,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=506
 ,,,,,,,,,,4,1.24,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,90-95,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=507
 ,,,,,,,,,,4,1.24,Phoenix Suns,substitute,,,,W. Johnson,,Tucker,,,,,,,,,,,,,90-95,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=509
@@ -435,7 +435,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.03,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,97-100,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=521
 ,,,,,,,,,,4,0.00,Phoenix Suns,shot,O'Neal,,,,,,,,,W. Johnson,3,,,made,,3PT Jump Shot,,,100-100,24,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=522
 ,,,,,,,,,,5,5.00,San Antonio Spurs,jumpball,,O'Neal,,,Duncan,,,,,,,,,,,,,,100-100,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=527
-,,,,,,,,,,5,4.46,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Jump Shot,,,100-100,6,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=528
+,,,,,,,,,,5,4.46,San Antonio Spurs,shot,,,O'Neal,,,,,,,Splitter,,,,missed,,Jump Shot,,,100-100,6,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=528
 ,,,,,,,,,,5,4.45,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,100-100,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=529
 ,,,,,,,,,,5,4.36,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,100-100,22,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=530
 ,,,,,,,,,,5,4.36,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,100-100,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=531
@@ -454,7 +454,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,3.15,Phoenix Suns,foul,,,,,,,,,,O'Neal,,,,,,Personal,,,100-100,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=544
 ,,,,,,,,,,5,3.07,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Shot,,,100-100,14,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=545
 ,,,,,,,,,,5,3.07,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,100-100,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=546
-,,,,,,,,,,5,2.49,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,100-100,4,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=547
+,,,,,,,,,,5,2.49,Phoenix Suns,shot,,,Duncan,,,,,,,Gortat,,,,missed,,Jump Shot,,,100-100,4,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=547
 ,,,,,,,,,,5,2.49,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,100-100,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=548
 ,,,,,,,,,,5,2.49,San Antonio Spurs,substitute,,,,Green,,Ginobili,,,,,,,,,,,,,100-100,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=552
 ,,,,,,,,,,5,2.44,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,3PT Jump Shot,,,100-100,24,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=550
@@ -491,4 +491,4 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,0.04,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,104-101,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=587
 ,,,,,,,,,,5,0.04,Phoenix Suns,free throw,,,,,,,2,,2,Tucker,1,,foul,made,,,,,105-101,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=588
 ,,,,,,,,,,5,0.04,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,105-101,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=590
-,,,,,,,,,,5,0.03,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,,,,,105-101,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=591
+,,,,,,,,,,5,0.03,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,Morris,,,,105-101,,http://stats.nba.com/cvp.html?GameID=0021200858&GameEventID=591

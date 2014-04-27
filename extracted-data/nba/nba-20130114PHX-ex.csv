@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.43,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Jump Shot,,,2-0,18,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=2
 ,,,,,,,,,,1,11.21,Phoenix Suns,shot,Scola,,,,,,,,,Tucker,2,,,made,,Layup,,,2-2,3,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=3
-,,,,,,,,,,1,10.55,Oklahoma City Thunder,turnover,,,,,,,,,,Sefolosha,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=4
+,,,,,,,,,,1,10.55,Oklahoma City Thunder,turnover,,,,,,,,,,Sefolosha,,,Bad Pass,,Brown,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=4
 ,,,,,,,,,,1,10.49,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Reverse Layup,,,2-4,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=5
 ,,,,,,,,,,1,10.39,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=6
 ,,,,,,,,,,1,10.15,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Jump Shot,,,2-4,17,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=7
@@ -24,7 +24,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.06,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Jump Shot,,,8-9,18,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=26
 ,,,,,,,,,,1,7.42,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,8-9,5,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=27
 ,,,,,,,,,,1,7.42,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=28
-,,,,,,,,,,1,7.39,Oklahoma City Thunder,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,8-9,4,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=29
+,,,,,,,,,,1,7.39,Oklahoma City Thunder,shot,,,Gortat,,,,,,,Collison,,,,missed,,Jump Shot,,,8-9,4,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=29
 ,,,,,,,,,,1,7.37,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=30
 ,,,,,,,,,,1,7.29,Phoenix Suns,shot,Dragic,,,,,,,,,Scola,2,,,made,,Jump Shot,,,8-11,17,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=31
 ,,,,,,,,,,1,7.10,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Pullup Jump Shot,,,8-11,14,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=32
@@ -33,14 +33,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.58,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,8-11,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=36
 ,,,,,,,,,,1,6.58,Phoenix Suns,shot,,,,,,,,,,Gortat,2,,,made,,Jump Shot,,,8-13,9,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=35
 ,,,,,,,,,,1,6.40,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=37
-,,,,,,,,,,1,6.24,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Layup,,,8-13,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=38
+,,,,,,,,,,1,6.24,Phoenix Suns,shot,,,Collison,,,,,,,Tucker,,,,missed,,Layup,,,8-13,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=38
 ,,,,,,,,,,1,6.21,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=39
 ,,,,,,,,,,1,6.16,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Bank Shot,,,8-13,7,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=40
 ,,,,,,,,,,1,6.11,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=42
 ,,,,,,,,,,1,6.11,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,2,,,made,,Putback Layup,,,10-13,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=41
 ,,,,,,,,,,1,5.47,Phoenix Suns,shot,Brown,,,,,,,,,Gortat,2,,,made,,Jump Shot,,,10-15,11,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=43
-,,,,,,,,,,1,5.30,Oklahoma City Thunder,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=44
-,,,,,,,,,,1,5.26,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=45
+,,,,,,,,,,1,5.30,Oklahoma City Thunder,turnover,,,,,,,,,,Collison,,,Bad Pass,,Scola,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=44
+,,,,,,,,,,1,5.26,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,Perkins,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=45
 ,,,,,,,,,,1,5.15,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Layup,,,10-15,2,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=46
 ,,,,,,,,,,1,5.13,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=47
 ,,,,,,,,,,1,5.04,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Bank Shot,,,10-15,7,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=48
@@ -111,9 +111,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.55,Oklahoma City Thunder,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,23-28,25,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=125
 ,,,,,,,,,,2,9.53,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,23-28,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=126
 ,,,,,,,,,,2,9.45,Phoenix Suns,shot,Telfair,,,,,,,,,Gortat,2,,,made,,Layup,,,23-30,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=127
-,,,,,,,,,,2,9.22,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,23-30,6,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=128
+,,,,,,,,,,2,9.22,Oklahoma City Thunder,shot,,,Tucker,,,,,,,Durant,,,,missed,,Jump Shot,,,23-30,6,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=128
 ,,,,,,,,,,2,9.19,Oklahoma City Thunder,rebound,,,,,,,,,,Jones,,,,,,,,,23-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=129
-,,,,,,,,,,2,9.18,Oklahoma City Thunder,shot,,,,,,,,,,Jones,,,,missed,,Layup,,,23-30,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=130
+,,,,,,,,,,2,9.18,Oklahoma City Thunder,shot,,,Morris,,,,,,,Jones,,,,missed,,Layup,,,23-30,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=130
 ,,,,,,,,,,2,9.16,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,23-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=131
 ,,,,,,,,,,2,9.16,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Traveling,,,,,,23-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=132
 ,,,,,,,,,,2,9.01,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Jump Bank Shot,,,25-30,3,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=133
@@ -121,16 +121,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.41,Oklahoma City Thunder,rebound,,,,,,,,,,Jackson,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=135
 ,,,,,,,,,,2,8.31,Oklahoma City Thunder,shot,,,,,,,,,,Thabeet,,,,missed,,Jump Shot,,,25-30,14,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=136
 ,,,,,,,,,,2,8.29,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=137
-,,,,,,,,,,2,8.10,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=141
+,,,,,,,,,,2,8.10,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,Thabeet,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=141
 ,,,,,,,,,,2,8.10,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Step Out of Bounds,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=142
 ,,,,,,,,,,2,8.10,Oklahoma City Thunder,substitute,,,,Westbrook,,Jackson,,,,,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=143
 ,,,,,,,,,,2,8.10,Oklahoma City Thunder,substitute,,,,Sefolosha,,Jones,,,,,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=144
 ,,,,,,,,,,2,8.10,Phoenix Suns,substitute,,,,Scola,,Gortat,,,,,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=145
 ,,,,,,,,,,2,7.52,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Personal Block,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=146
-,,,,,,,,,,2,7.45,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=147
+,,,,,,,,,,2,7.45,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,Sefolosha,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=147
 ,,,,,,,,,,2,7.40,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Martin,2,,,made,,Layup,,,27-30,2,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=148
-,,,,,,,,,,2,7.25,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Bad Pass,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=150
-,,,,,,,,,,2,7.22,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,Layup,,,27-30,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=151
+,,,,,,,,,,2,7.25,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Bad Pass,,Martin,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=150
+,,,,,,,,,,2,7.22,Oklahoma City Thunder,shot,,,Beasley,,,,,,,Martin,,,,missed,,Layup,,,27-30,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=151
 ,,,,,,,,,,2,7.17,Oklahoma City Thunder,rebound,,,,,,,,,,Sefolosha,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=153
 ,,,,,,,,,,2,7.17,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,2,,,made,,Putback Layup,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=152
 ,,,,,,,,,,2,7.00,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=155
@@ -145,7 +145,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.01,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=168
 ,,,,,,,,,,2,5.54,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Fadeaway Jumper,,,33-30,10,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=169
 ,,,,,,,,,,2,5.51,Phoenix Suns,rebound,,,,,,,,,,Telfair,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=170
-,,,,,,,,,,2,5.43,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,33-30,4,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=171
+,,,,,,,,,,2,5.43,Phoenix Suns,shot,,,Thabeet,,,,,,,Gortat,,,,missed,,Jump Shot,,,33-30,4,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=171
 ,,,,,,,,,,2,5.42,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=172
 ,,,,,,,,,,2,5.42,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Bad Pass,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=174
 ,,,,,,,,,,2,5.42,Oklahoma City Thunder,substitute,,,,Perkins,,Thabeet,,,,,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=173
@@ -153,7 +153,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.06,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Running Bank Shot,,,35-33,3,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=177
 ,,,,,,,,,,2,5.06,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Shooting,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=178
 ,,,,,,,,,,2,5.06,Oklahoma City Thunder,free throw,,,,,,,1,,1,Durant,1,,foul,made,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=179
-,,,,,,,,,,2,4.48,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,36-33,6,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=180
+,,,,,,,,,,2,4.48,Phoenix Suns,shot,,,Durant,,,,,,,Scola,,,,missed,,Jump Shot,,,36-33,6,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=180
 ,,,,,,,,,,2,4.45,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=181
 ,,,,,,,,,,2,4.42,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Pullup Jump Shot,,,38-33,15,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=182
 ,,,,,,,,,,2,4.26,Oklahoma City Thunder,foul,,,,,,,,,,Martin,,,,,,Personal,,,38-33,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=183
@@ -170,7 +170,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.40,Phoenix Suns,foul,,,,,,,,,,Dragic,,,,,,Shooting,,,40-35,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=196
 ,,,,,,,,,,2,3.40,Oklahoma City Thunder,free throw,,,,,,,1,,2,Westbrook,1,,foul,made,,,,,41-35,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=197
 ,,,,,,,,,,2,3.40,Oklahoma City Thunder,free throw,,,,,,,2,,2,Westbrook,1,,foul,made,,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=199
-,,,,,,,,,,2,3.26,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=201
+,,,,,,,,,,2,3.26,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,Westbrook,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=201
 ,,,,,,,,,,2,3.20,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Layup,,,42-35,2,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=202
 ,,,,,,,,,,2,3.17,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=203
 ,,,,,,,,,,2,3.09,Oklahoma City Thunder,shot,Durant,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,45-35,24,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=204
@@ -225,7 +225,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.28,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Jump Shot,,,55-47,15,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=266
 ,,,,,,,,,,3,9.28,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Shooting,,,55-47,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=267
 ,,,,,,,,,,3,9.28,Oklahoma City Thunder,free throw,,,,,,,1,,1,Westbrook,1,,foul,made,,,,,56-47,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=268
-,,,,,,,,,,3,9.20,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,56-47,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=270
+,,,,,,,,,,3,9.20,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Westbrook,,,,56-47,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=270
 ,,,,,,,,,,3,9.17,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Dunk,,,58-47,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=271
 ,,,,,,,,,,3,9.15,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,58-47,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=272
 ,,,,,,,,,,3,9.15,Phoenix Suns,turnover,,,,,,,,,,,,,5 Second Inbound,,,,,,58-47,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=276
@@ -244,12 +244,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.12,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,62-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=290
 ,,,,,,,,,,3,7.04,Phoenix Suns,foul,,,,,,,,,,Tucker,,,,,,Personal,,,62-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=291
 ,,,,,,,,,,3,6.52,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Collison,2,,,made,,Jump Shot,,,64-52,16,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=292
-,,,,,,,,,,3,6.29,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,,,,,64-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=293
+,,,,,,,,,,3,6.29,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,Collison,,,,64-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=293
 ,,,,,,,,,,3,6.24,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Pullup Jump Shot,,,66-52,15,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=294
 ,,,,,,,,,,3,6.19,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,66-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=295
 ,,,,,,,,,,3,6.19,Oklahoma City Thunder,substitute,,,,Martin,,Sefolosha,,,,,,,,,,,,,66-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=297
 ,,,,,,,,,,3,6.19,Phoenix Suns,substitute,,,,Beasley,,Tucker,,,,,,,,,,,,,66-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=298
-,,,,,,,,,,3,6.07,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,66-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=299
+,,,,,,,,,,3,6.07,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,Martin,,,,66-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=299
 ,,,,,,,,,,3,5.46,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,66-52,22,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=300
 ,,,,,,,,,,3,5.44,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,66-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=301
 ,,,,,,,,,,3,5.34,Oklahoma City Thunder,foul,,,,,,,,,,Martin,,,,,,Shooting,,,66-52,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=302
@@ -286,13 +286,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.58,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,70-61,16,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=340
 ,,,,,,,,,,3,2.56,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=341
 ,,,,,,,,,,3,2.45,Oklahoma City Thunder,foul,,,,,,,,,,Thabeet,,,,,,Personal,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=342
-,,,,,,,,,,3,2.39,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,70-61,4,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=343
+,,,,,,,,,,3,2.39,Phoenix Suns,shot,,,Thabeet,,,,,,,Dragic,,,,missed,,Jump Shot,,,70-61,4,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=343
 ,,,,,,,,,,3,2.37,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=344
-,,,,,,,,,,3,2.34,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Layup,,,70-61,3,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=345
+,,,,,,,,,,3,2.34,Oklahoma City Thunder,shot,,,Brown,,,,,,,Westbrook,,,,missed,,Layup,,,70-61,3,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=345
 ,,,,,,,,,,3,2.31,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=346
 ,,,,,,,,,,3,2.11,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Turnaround Jump Shot,,,70-61,17,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=347
 ,,,,,,,,,,3,2.08,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=348
-,,,,,,,,,,3,1.50,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,70-61,5,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=349
+,,,,,,,,,,3,1.50,Oklahoma City Thunder,shot,,,Beasley,,,,,,,Durant,,,,missed,,Jump Shot,,,70-61,5,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=349
 ,,,,,,,,,,3,1.48,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=350
 ,,,,,,,,,,3,1.41,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,3PT Jump Shot,,,70-61,25,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=351
 ,,,,,,,,,,3,1.41,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,70-61,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=352
@@ -314,7 +314,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.27,Phoenix Suns,foul,,,,,,,,,,Beasley,,,,,,Shooting,,,70-65,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=371
 ,,,,,,,,,,3,0.27,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,71-65,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=372
 ,,,,,,,,,,3,0.27,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,72-65,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=374
-,,,,,,,,,,3,0.07,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,72-65,5,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=376
+,,,,,,,,,,3,0.07,Phoenix Suns,shot,,,Durant,,,,,,,Gortat,,,,missed,,Jump Shot,,,72-65,5,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=376
 ,,,,,,,,,,3,0.05,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,72-65,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=377
 ,,,,,,,,,,3,0.03,Phoenix Suns,shot,Morris,,,,,,,,,Beasley,3,,,made,,3PT Jump Shot,,,72-68,26,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=378
 ,,,,,,,,,,3,0.00,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,72-68,22,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=379
@@ -351,7 +351,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.22,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,79-74,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=418
 ,,,,,,,,,,4,8.03,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,3PT Jump Shot,,,79-74,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=419
 ,,,,,,,,,,4,8.01,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,79-74,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=420
-,,,,,,,,,,4,7.57,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,Jump Shot,,,79-74,7,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=421
+,,,,,,,,,,4,7.57,Oklahoma City Thunder,shot,,,Brown,,,,,,,Martin,,,,missed,,Jump Shot,,,79-74,7,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=421
 ,,,,,,,,,,4,7.53,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,79-74,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=422
 ,,,,,,,,,,4,7.46,Phoenix Suns,foul,,,,,,,,,,Telfair,,,,,,Shooting,,,79-74,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=423
 ,,,,,,,,,,4,7.46,Oklahoma City Thunder,free throw,,,,,,,1,,2,Westbrook,,,foul,missed,,,,,79-74,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=424
@@ -363,7 +363,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.15,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Jump Shot,,,82-74,18,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=431
 ,,,,,,,,,,4,7.05,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,82-74,20,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=432
 ,,,,,,,,,,4,7.02,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,82-74,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=433
-,,,,,,,,,,4,6.59,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Bad Pass,,,,,,82-74,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=434
+,,,,,,,,,,4,6.59,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Bad Pass,,Morris,,,,82-74,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=434
 ,,,,,,,,,,4,6.42,Phoenix Suns,shot,Brown,,,,,,,,,Telfair,3,,,made,,3PT Jump Shot,,,82-77,24,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=435
 ,,,,,,,,,,4,6.25,Phoenix Suns,foul,,,,,,,,,,Telfair,,,,,,Shooting,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=436
 ,,,,,,,,,,4,6.25,Oklahoma City Thunder,free throw,,,,,,,1,,2,Westbrook,1,,foul,made,,,,,83-77,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=437
@@ -374,7 +374,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.56,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=444
 ,,,,,,,,,,4,5.56,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=445
 ,,,,,,,,,,4,5.56,Phoenix Suns,substitute,,,,Dragic,,Morris,,,,,,,,,,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=448
-,,,,,,,,,,4,5.32,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=449
+,,,,,,,,,,4,5.32,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Lost Ball,,Martin,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=449
 ,,,,,,,,,,4,5.16,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,84-77,18,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=450
 ,,,,,,,,,,4,5.14,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,84-77,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=451
 ,,,,,,,,,,4,5.06,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,84-77,4,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=452
@@ -389,7 +389,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.06,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,90-79,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=462
 ,,,,,,,,,,4,3.43,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Driving Reverse Layup,,,90-81,1,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=466
 ,,,,,,,,,,4,3.27,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Jump Shot,,,92-81,19,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=467
-,,,,,,,,,,4,3.09,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,3PT Jump Shot,,,92-81,25,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=468
+,,,,,,,,,,4,3.09,Phoenix Suns,shot,,,Sefolosha,,,,,,,Brown,,,,missed,,3PT Jump Shot,,,92-81,25,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=468
 ,,,,,,,,,,4,3.07,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,92-81,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=469
 ,,,,,,,,,,4,2.55,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Durant,2,,,made,,Layup,,,94-81,2,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=470
 ,,,,,,,,,,4,2.42,Phoenix Suns,foul,,,,,,,,,,,,,,,,,,,94-81,,http://stats.nba.com/cvp.html?GameID=0021200562&GameEventID=471

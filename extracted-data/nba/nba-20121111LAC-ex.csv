@@ -12,7 +12,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.18,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,2-6,19,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=12
 ,,,,,,,,,,1,10.17,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=13
 ,,,,,,,,,,1,10.08,Atlanta Hawks,shot,Teague,,,,,,,,,Horford,2,,,made,,Jump Shot,,,4-6,19,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=14
-,,,,,,,,,,1,9.49,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=15
+,,,,,,,,,,1,9.49,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,Korver,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=15
 ,,,,,,,,,,1,9.42,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=16
 ,,,,,,,,,,1,9.28,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,4-6,27,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=17
 ,,,,,,,,,,1,9.27,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=18
@@ -33,7 +33,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.02,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=33
 ,,,,,,,,,,1,6.58,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=34
 ,,,,,,,,,,1,6.58,Atlanta Hawks,rebound,,,,,,,,,,Pachulia,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=35
-,,,,,,,,,,1,6.49,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=36
+,,,,,,,,,,1,6.49,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Jordan,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=36
 ,,,,,,,,,,1,6.42,Atlanta Hawks,foul,,,,,,,,,,Smith,,,,,,Shooting,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=37
 ,,,,,,,,,,1,6.42,Los Angeles Clippers,free throw,,,,,,,1,,2,Griffin,1,,foul,made,,,,,6-9,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=38
 ,,,,,,,,,,1,6.42,Los Angeles Clippers,free throw,,,,,,,2,,2,Griffin,1,,foul,made,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=40
@@ -83,9 +83,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.06,Atlanta Hawks,shot,Johnson,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,19-18,26,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=95
 ,,,,,,,,,,1,0.40,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,19-18,21,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=96
 ,,,,,,,,,,1,0.39,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=97
-,,,,,,,,,,1,0.21,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Reverse Layup,,,19-18,1,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=98
+,,,,,,,,,,1,0.21,Los Angeles Clippers,shot,,,Smith,,,,,,,Bledsoe,,,,missed,,Reverse Layup,,,19-18,1,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=98
 ,,,,,,,,,,1,0.17,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=99
-,,,,,,,,,,1,0.01,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Lost Ball,,,,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=100
+,,,,,,,,,,1,0.01,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Lost Ball,,Bledsoe,,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=100
 ,,,,,,,,,,2,11.48,Los Angeles Clippers,foul,,,,,,,,,,Hollins,,,,,,Personal,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=104
 ,,,,,,,,,,2,11.38,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,19-18,26,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=105
 ,,,,,,,,,,2,11.37,Los Angeles Clippers,rebound,,,,,,,,,,Turiaf,,,,,,,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=106
@@ -96,19 +96,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.08,Atlanta Hawks,substitute,,,,Pachulia,,Horford,,,,,,,,,,,,,19-20,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=111
 ,,,,,,,,,,2,10.52,Los Angeles Clippers,shot,Turiaf,,,,,,,,,Bledsoe,2,,,made,,Running Jump Shot,,,19-22,4,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=113
 ,,,,,,,,,,2,10.29,Atlanta Hawks,shot,Williams,,,,,,,,,Tolliver,2,,,made,,Jump Shot,,,21-22,21,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=114
-,,,,,,,,,,2,10.21,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,21-22,19,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=115
+,,,,,,,,,,2,10.21,Los Angeles Clippers,shot,,,Harris,,,,,,,Crawford,,,,missed,,Jump Shot,,,21-22,19,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=115
 ,,,,,,,,,,2,10.19,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=116
-,,,,,,,,,,2,10.14,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,21-22,10,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=117
+,,,,,,,,,,2,10.14,Atlanta Hawks,shot,,,Bledsoe,,,,,,,Williams,,,,missed,,Jump Shot,,,21-22,10,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=117
 ,,,,,,,,,,2,10.12,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=118
 ,,,,,,,,,,2,10.06,Los Angeles Clippers,foul,,,,,,,,,,Hollins,,,,,,Personal,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=119
 ,,,,,,,,,,2,10.06,Los Angeles Clippers,substitute,,,,Odom,,Hollins,,,,,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=120
-,,,,,,,,,,2,9.53,Atlanta Hawks,shot,,,,,,,,,,Pachulia,,,,missed,,Jump Shot,,,21-22,12,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=121
+,,,,,,,,,,2,9.53,Atlanta Hawks,shot,,,Odom,,,,,,,Pachulia,,,,missed,,Jump Shot,,,21-22,12,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=121
 ,,,,,,,,,,2,9.51,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=122
 ,,,,,,,,,,2,9.43,Los Angeles Clippers,shot,Odom,,,,,,,,,Barnes,2,,,made,,Hook Shot,,,21-24,4,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=123
 ,,,,,,,,,,2,9.37,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=124
 ,,,,,,,,,,2,9.23,Atlanta Hawks,shot,,,,,,,,,,Tolliver,,,,missed,,Hook Shot,,,21-24,8,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=126
 ,,,,,,,,,,2,9.21,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=127
-,,,,,,,,,,2,9.13,Los Angeles Clippers,turnover,,,,,,,,,,Turiaf,,,Lost Ball,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=129
+,,,,,,,,,,2,9.13,Los Angeles Clippers,turnover,,,,,,,,,,Turiaf,,,Lost Ball,,Williams,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=129
 ,,,,,,,,,,2,9.13,Los Angeles Clippers,jumpball,,Williams,,,Turiaf,,,,,,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=128
 ,,,,,,,,,,2,9.02,Los Angeles Clippers,foul,,,,,,,,,,Bledsoe,,,,,,Personal,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=131
 ,,,,,,,,,,2,9.02,Atlanta Hawks,substitute,,,,Korver,,Johnson,,,,,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=132
@@ -122,7 +122,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.48,Atlanta Hawks,shot,Korver,,,,,,,,,Tolliver,2,,,made,,Jump Shot,,,26-24,11,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=141
 ,,,,,,,,,,2,7.39,Los Angeles Clippers,foul,,,,,,,,,,,,,,,,,,,26-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=142
 ,,,,,,,,,,2,7.39,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Foul,,,,,,26-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=143
-,,,,,,,,,,2,7.17,Atlanta Hawks,shot,,,,,,,,,,Pachulia,,,,missed,,Hook Shot,,,26-24,4,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=145
+,,,,,,,,,,2,7.17,Atlanta Hawks,shot,,,Turiaf,,,,,,,Pachulia,,,,missed,,Hook Shot,,,26-24,4,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=145
 ,,,,,,,,,,2,7.15,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,26-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=146
 ,,,,,,,,,,2,7.13,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Shooting,,,26-24,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=147
 ,,,,,,,,,,2,7.13,Los Angeles Clippers,free throw,,,,,,,1,,2,Bledsoe,1,,foul,made,,,,,26-25,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=148
@@ -156,9 +156,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.29,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,28-28,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=183
 ,,,,,,,,,,2,4.06,Los Angeles Clippers,shot,Griffin,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,28-31,25,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=186
 ,,,,,,,,,,2,3.43,Atlanta Hawks,shot,Teague,,,,,,,,,Smith,2,,,made,,Dunk,,,30-31,1,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=187
-,,,,,,,,,,2,3.35,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,Layup,,,30-31,2,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=188
+,,,,,,,,,,2,3.35,Los Angeles Clippers,shot,,,Smith,,,,,,,Odom,,,,missed,,Layup,,,30-31,2,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=188
 ,,,,,,,,,,2,3.34,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=189
-,,,,,,,,,,2,3.29,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Jump Shot,,,30-31,3,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=190
+,,,,,,,,,,2,3.29,Atlanta Hawks,shot,,,Butler,,,,,,,Harris,,,,missed,,Jump Shot,,,30-31,3,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=190
 ,,,,,,,,,,2,3.28,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=191
 ,,,,,,,,,,2,3.26,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Layup,,,32-31,2,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=192
 ,,,,,,,,,,2,3.08,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Jump Shot,,,32-33,18,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=193
@@ -181,13 +181,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.08,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,37-39,24,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=211
 ,,,,,,,,,,2,0.07,Los Angeles Clippers,rebound,,,,,,,,,,Crawford,,,,,,,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=212
 ,,,,,,,,,,3,11.45,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Hook Shot,,,39-39,8,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=219
-,,,,,,,,,,3,11.20,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Jump Shot,,,39-39,4,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=220
+,,,,,,,,,,3,11.20,Los Angeles Clippers,shot,,,Smith,,,,,,,Jordan,,,,missed,,Jump Shot,,,39-39,4,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=220
 ,,,,,,,,,,3,11.19,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=221
 ,,,,,,,,,,3,11.06,Los Angeles Clippers,foul,,,,,,,,,,Butler,,,,,,Shooting,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=222
 ,,,,,,,,,,3,11.06,Atlanta Hawks,free throw,,,,,,,1,,2,Horford,,,foul,missed,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=223
 ,,,,,,,,,,3,11.06,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=224
 ,,,,,,,,,,3,11.06,Atlanta Hawks,free throw,,,,,,,2,,2,Horford,1,,foul,made,,,,,40-39,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=225
-,,,,,,,,,,3,10.47,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,40-39,15,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=228
+,,,,,,,,,,3,10.47,Los Angeles Clippers,shot,,,Korver,,,,,,,Green,,,,missed,,Jump Shot,,,40-39,15,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=228
 ,,,,,,,,,,3,10.45,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,40-39,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=229
 ,,,,,,,,,,3,10.25,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,3PT Jump Shot,,,40-39,27,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=230
 ,,,,,,,,,,3,10.24,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,40-39,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=231
@@ -207,8 +207,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.47,Atlanta Hawks,shot,Smith,,,,,,,,,Korver,3,,,made,,3PT Jump Shot,,,50-45,26,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=246
 ,,,,,,,,,,3,7.32,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Jump Shot,,,50-45,15,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=247
 ,,,,,,,,,,3,7.31,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=248
-,,,,,,,,,,3,7.26,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=249
-,,,,,,,,,,3,7.23,Los Angeles Clippers,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=251
+,,,,,,,,,,3,7.26,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Jordan,,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=249
+,,,,,,,,,,3,7.23,Los Angeles Clippers,turnover,,,,,,,,,,Green,,,Bad Pass,,Smith,,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=251
 ,,,,,,,,,,3,7.23,Los Angeles Clippers,foul,,,,,,,,,,Green,,,,,,Shooting,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=252
 ,,,,,,,,,,3,7.23,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,,,foul,missed,,,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=253
 ,,,,,,,,,,3,7.23,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=254
@@ -248,7 +248,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.26,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,3PT Jump Shot,,,55-56,28,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=299
 ,,,,,,,,,,3,3.25,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,55-56,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=300
 ,,,,,,,,,,3,3.13,Los Angeles Clippers,foul,,,,,,,,,,Paul,,,,,,Personal,,,55-56,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=301
-,,,,,,,,,,3,3.06,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,55-56,7,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=302
+,,,,,,,,,,3,3.06,Atlanta Hawks,shot,,,Butler,,,,,,,Smith,,,,missed,,Jump Shot,,,55-56,7,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=302
 ,,,,,,,,,,3,3.06,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,55-56,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=303
 ,,,,,,,,,,3,2.50,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Layup,,,55-56,3,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=304
 ,,,,,,,,,,3,2.49,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,55-56,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=305
@@ -264,13 +264,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.49,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,60-59,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=317
 ,,,,,,,,,,3,1.48,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Floating Jump Shot,,,60-59,5,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=318
 ,,,,,,,,,,3,1.43,Atlanta Hawks,rebound,,,,,,,,,,Pachulia,,,,,,,,,60-59,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=319
-,,,,,,,,,,3,1.38,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,60-59,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=320
-,,,,,,,,,,3,1.33,Los Angeles Clippers,shot,,,,,,,,,,Jordan,,,,missed,,Layup,,,60-59,1,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=321
+,,,,,,,,,,3,1.38,Atlanta Hawks,turnover,,,,,,,,,,Williams,,,Bad Pass,,Crawford,,,,60-59,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=320
+,,,,,,,,,,3,1.33,Los Angeles Clippers,shot,,,Pachulia,,,,,,,Jordan,,,,missed,,Layup,,,60-59,1,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=321
 ,,,,,,,,,,3,1.29,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,60-59,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=322
 ,,,,,,,,,,3,1.12,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,60-59,30,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=323
 ,,,,,,,,,,3,1.11,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,60-59,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=324
 ,,,,,,,,,,3,0.56,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Jump Shot,,,60-61,3,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=325
-,,,,,,,,,,3,0.45,Atlanta Hawks,turnover,,,,,,,,,,Pachulia,,,Bad Pass,,,,,,60-61,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=326
+,,,,,,,,,,3,0.45,Atlanta Hawks,turnover,,,,,,,,,,Pachulia,,,Bad Pass,,Griffin,,,,60-61,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=326
 ,,,,,,,,,,3,0.42,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Driving Dunk,,,60-63,2,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=327
 ,,,,,,,,,,3,0.25,Atlanta Hawks,shot,,,,,,,,,,Tolliver,,,,missed,,Jump Shot,,,60-63,9,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=328
 ,,,,,,,,,,3,0.24,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=329
@@ -287,12 +287,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.39,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,62-65,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=345
 ,,,,,,,,,,4,10.39,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Tip Shot,,,62-65,1,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=344
 ,,,,,,,,,,4,10.36,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,62-65,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=346
-,,,,,,,,,,4,10.26,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,,,,,62-65,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=347
+,,,,,,,,,,4,10.26,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,Hollins,,,,62-65,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=347
 ,,,,,,,,,,4,10.23,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Running Jump Shot,,,62-67,8,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=348
 ,,,,,,,,,,4,10.23,Atlanta Hawks,foul,,,,,,,,,,Johnson,,,,,,Shooting Block,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=349
 ,,,,,,,,,,4,10.23,Atlanta Hawks,substitute,,,,Smith,,Horford,,,,,,,,,,,,,62-67,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=350
 ,,,,,,,,,,4,10.23,Los Angeles Clippers,free throw,,,,,,,1,,1,Bledsoe,1,,foul,made,,,,,62-68,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=351
-,,,,,,,,,,4,10.11,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,62-68,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=353
+,,,,,,,,,,4,10.11,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Barnes,,,,62-68,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=353
 ,,,,,,,,,,4,10.07,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Driving Dunk,,,62-70,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=354
 ,,,,,,,,,,4,10.04,Atlanta Hawks,foul,,,,,,,,,,,,,,,,,,,62-70,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=355
 ,,,,,,,,,,4,10.04,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Foul,,,,,,62-70,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=356
@@ -312,16 +312,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.30,Atlanta Hawks,free throw,,,,,,,1,,2,Tolliver,,,foul,missed,,,,,64-72,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=373
 ,,,,,,,,,,4,8.30,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,64-72,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=374
 ,,,,,,,,,,4,8.30,Atlanta Hawks,free throw,,,,,,,2,,2,Tolliver,1,,foul,made,,,,,65-72,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=375
-,,,,,,,,,,4,8.14,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Jump Shot,,,65-72,4,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=377
+,,,,,,,,,,4,8.14,Los Angeles Clippers,shot,,,Johnson,,,,,,,Bledsoe,,,,missed,,Jump Shot,,,65-72,4,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=377
 ,,,,,,,,,,4,8.14,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,65-72,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=378
 ,,,,,,,,,,4,8.14,Atlanta Hawks,substitute,,,,Korver,,Tolliver,,,,,,,,,,,,,65-72,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=379
 ,,,,,,,,,,4,8.06,Los Angeles Clippers,shot,,,,,,,,,,Crawford,2,,,made,,Jump Shot,,,65-74,19,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=381
-,,,,,,,,,,4,7.48,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,65-74,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=382
+,,,,,,,,,,4,7.48,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Barnes,,,,65-74,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=382
 ,,,,,,,,,,4,7.37,Los Angeles Clippers,shot,Turiaf,,,,,,,,,Crawford,2,,,made,,Dunk,,,65-76,4,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=383
-,,,,,,,,,,4,7.21,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,,,,,65-76,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=384
+,,,,,,,,,,4,7.21,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,Bledsoe,,,,65-76,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=384
 ,,,,,,,,,,4,7.15,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Layup,,,65-76,1,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=385
 ,,,,,,,,,,4,7.13,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,65-76,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=386
-,,,,,,,,,,4,7.12,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Layup,,,65-76,2,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=387
+,,,,,,,,,,4,7.12,Los Angeles Clippers,shot,,,Harris,,,,,,,Barnes,,,,missed,,Layup,,,65-76,2,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=387
 ,,,,,,,,,,4,7.10,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,65-76,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=388
 ,,,,,,,,,,4,7.00,Los Angeles Clippers,foul,,,,,,,,,,Bledsoe,,,,,,Personal,,,65-76,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=389
 ,,,,,,,,,,4,7.00,Atlanta Hawks,substitute,,,,Teague,,Harris,,,,,,,,,,,,,65-76,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=390
@@ -336,7 +336,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.22,Los Angeles Clippers,foul,,,,,,,,,,Bledsoe,,,,,,Personal,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=400
 ,,,,,,,,,,4,6.04,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Jump Shot,,,65-79,12,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=401
 ,,,,,,,,,,4,6.03,Atlanta Hawks,rebound,,,,,,,,,,Teague,,,,,,,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=402
-,,,,,,,,,,4,6.00,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Layup,,,65-79,3,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=403
+,,,,,,,,,,4,6.00,Atlanta Hawks,shot,,,Turiaf,,,,,,,Teague,,,,missed,,Layup,,,65-79,3,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=403
 ,,,,,,,,,,4,5.58,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=404
 ,,,,,,,,,,4,5.48,Atlanta Hawks,foul,,,,,,,,,,Smith,,,,,,Personal,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=405
 ,,,,,,,,,,4,5.44,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,,,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=407
@@ -345,16 +345,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.35,Los Angeles Clippers,substitute,,,,Paul,,Bledsoe,,,,,,,,,,,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=410
 ,,,,,,,,,,4,5.12,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,65-79,6,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=411
 ,,,,,,,,,,4,5.12,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=412
-,,,,,,,,,,4,5.00,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=413
+,,,,,,,,,,4,5.00,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Crawford,,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=413
 ,,,,,,,,,,4,4.56,Los Angeles Clippers,shot,Paul,,,,,,,,,Barnes,2,,,made,,Driving Dunk,,,65-81,1,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=414
-,,,,,,,,,,4,4.36,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,65-81,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=415
-,,,,,,,,,,4,4.32,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Layup,,,65-81,2,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=416
+,,,,,,,,,,4,4.36,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Paul,,,,65-81,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=415
+,,,,,,,,,,4,4.32,Los Angeles Clippers,shot,,,Korver,,,,,,,Barnes,,,,missed,,Layup,,,65-81,2,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=416
 ,,,,,,,,,,4,4.32,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,65-81,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=417
 ,,,,,,,,,,4,4.32,Los Angeles Clippers,substitute,,,,Jordan,,Turiaf,,,,,,,,,,,,,65-81,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=418
 ,,,,,,,,,,4,4.32,Los Angeles Clippers,substitute,,,,Griffin,,Hollins,,,,,,,,,,,,,65-81,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=419
 ,,,,,,,,,,4,4.32,Atlanta Hawks,substitute,,,,Tolliver,,Horford,,,,,,,,,,,,,65-81,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=420
 ,,,,,,,,,,4,4.17,Los Angeles Clippers,shot,Griffin,,,,,,,,,Paul,2,,,made,,Jump Shot,,,65-83,19,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=421
-,,,,,,,,,,4,3.54,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,65-83,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=422
+,,,,,,,,,,4,3.54,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Crawford,,,,65-83,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=422
 ,,,,,,,,,,4,3.48,Los Angeles Clippers,shot,Crawford,,,,,,,,,Barnes,2,,,made,,Driving Layup,,,65-85,3,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=423
 ,,,,,,,,,,4,3.48,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,65-85,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=424
 ,,,,,,,,,,4,3.48,Atlanta Hawks,substitute,,,,Jenkins,,Smith,,,,,,,,,,,,,65-85,,http://stats.nba.com/cvp.html?GameID=0021200091&GameEventID=426

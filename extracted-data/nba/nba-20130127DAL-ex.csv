@@ -9,7 +9,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.39,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=10
 ,,,,,,,,,,1,10.31,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Running Jump Shot,,,2-0,11,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=11
 ,,,,,,,,,,1,10.30,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=12
-,,,,,,,,,,1,10.21,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Driving Reverse Layup,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=13
+,,,,,,,,,,1,10.21,Dallas Mavericks,shot,,,Gortat,,,,,,,Marion,,,,missed,,Driving Reverse Layup,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=13
 ,,,,,,,,,,1,10.19,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=14
 ,,,,,,,,,,1,10.12,Phoenix Suns,shot,Dragic,,,,,,,,,Gortat,2,,,made,,Jump Shot,,,4-0,18,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=15
 ,,,,,,,,,,1,9.52,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,3PT Jump Shot,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=16
@@ -20,14 +20,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.30,Dallas Mavericks,free throw,,,,,,,2,,2,Nowitzki,1,,foul,made,,,,,6-2,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=22
 ,,,,,,,,,,1,9.20,Phoenix Suns,shot,Dragic,,,,,,,,,Scola,2,,,made,,Jump Shot,,,8-2,19,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=24
 ,,,,,,,,,,1,9.07,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Driving Layup,,,8-4,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=25
-,,,,,,,,,,1,8.45,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=26
+,,,,,,,,,,1,8.45,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,Mayo,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=26
 ,,,,,,,,,,1,8.40,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Driving Layup,,,8-4,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=27
 ,,,,,,,,,,1,8.38,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=29
 ,,,,,,,,,,1,8.38,Dallas Mavericks,shot,,,,,,,,,,Marion,2,,,made,,Putback Layup,,,8-6,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=28
 ,,,,,,,,,,1,8.20,Phoenix Suns,shot,,,,,,,,,,Scola,2,,,made,,Jump Hook Shot,,,10-6,5,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=30
 ,,,,,,,,,,1,8.10,Dallas Mavericks,shot,Collison,,,,,,,,,Nowitzki,2,,,made,,Jump Shot,,,10-8,16,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=32
 ,,,,,,,,,,1,7.54,Phoenix Suns,shot,Scola,,,,,,,,,Dragic,2,,,made,,Driving Layup,,,12-8,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=33
-,,,,,,,,,,1,7.27,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,12-8,17,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=34
+,,,,,,,,,,1,7.27,Dallas Mavericks,shot,,,Dragic,,,,,,,Collison,,,,missed,,Jump Shot,,,12-8,17,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=34
 ,,,,,,,,,,1,7.27,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,12-8,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=35
 ,,,,,,,,,,1,7.27,Dallas Mavericks,turnover,,,,,,,,,,,,,Shot Clock,,,,,,12-8,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=36
 ,,,,,,,,,,1,7.13,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,12-8,25,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=37
@@ -40,7 +40,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.37,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Driving Finger Roll Layup,,,12-12,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=44
 ,,,,,,,,,,1,6.24,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Reverse Layup,,,12-12,3,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=45
 ,,,,,,,,,,1,6.23,Dallas Mavericks,rebound,,,,,,,,,,James,,,,,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=46
-,,,,,,,,,,1,6.17,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,12-12,5,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=47
+,,,,,,,,,,1,6.17,Dallas Mavericks,shot,,,Gortat,,,,,,,James,,,,missed,,Jump Shot,,,12-12,5,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=47
 ,,,,,,,,,,1,6.15,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=48
 ,,,,,,,,,,1,6.11,Phoenix Suns,shot,Tucker,,,,,,,,,Dudley,2,,,made,,Jump Shot,,,14-12,18,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=49
 ,,,,,,,,,,1,5.57,Dallas Mavericks,shot,Mayo,,,,,,,,,Marion,2,,,made,,Jump Shot,,,14-14,5,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=50
@@ -64,7 +64,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.44,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=69
 ,,,,,,,,,,1,3.44,Dallas Mavericks,substitute,,,,Beaubois,,Collison,,,,,,,,,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=71
 ,,,,,,,,,,1,3.44,Phoenix Suns,substitute,,,,Beasley,,Dudley,,,,,,,,,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=72
-,,,,,,,,,,1,3.30,Phoenix Suns,turnover,,,,,,,,,,Gortat,,,Bad Pass,,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=73
+,,,,,,,,,,1,3.30,Phoenix Suns,turnover,,,,,,,,,,Gortat,,,Bad Pass,,Carter,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=73
 ,,,,,,,,,,1,3.14,Dallas Mavericks,shot,Marion,,,,,,,,,Brand,2,,,made,,Jump Shot,,,16-22,12,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=75
 ,,,,,,,,,,1,2.47,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Step Back Jump Shot,,,16-22,17,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=76
 ,,,,,,,,,,1,2.46,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,16-22,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=77
@@ -115,7 +115,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.56,Dallas Mavericks,rebound,,,,,,,,,,Beaubois,,,,,,,,,21-35,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=129
 ,,,,,,,,,,2,10.49,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Jump Shot,,,21-35,17,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=131
 ,,,,,,,,,,2,10.48,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,21-35,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=132
-,,,,,,,,,,2,10.36,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Bad Pass,,,,,,21-35,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=133
+,,,,,,,,,,2,10.36,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Bad Pass,,Carter,,,,21-35,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=133
 ,,,,,,,,,,2,10.27,Dallas Mavericks,shot,,,,,,,,,,Jones,2,,,made,,Driving Finger Roll Layup,,,21-37,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=134
 ,,,,,,,,,,2,10.27,Phoenix Suns,foul,,,,,,,,,,Brown,,,,,,Shooting,,,21-37,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=135
 ,,,,,,,,,,2,10.27,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,21-37,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=136
@@ -162,8 +162,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.07,Dallas Mavericks,substitute,,,,Collison,,Beaubois,,,,,,,,,,,,,31-49,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=182
 ,,,,,,,,,,2,6.07,Dallas Mavericks,free throw,,,,,,,2,,2,Jones,1,,foul,made,,,,,31-50,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=183
 ,,,,,,,,,,2,6.00,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Personal,,,31-50,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=185
-,,,,,,,,,,2,5.49,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,31-50,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=186
-,,,,,,,,,,2,5.45,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,Running Layup,,,31-50,2,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=187
+,,,,,,,,,,2,5.49,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Collison,,,,31-50,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=186
+,,,,,,,,,,2,5.45,Dallas Mavericks,shot,,,Beasley,,,,,,,Jones,,,,missed,,Running Layup,,,31-50,2,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=187
 ,,,,,,,,,,2,5.43,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,31-50,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=188
 ,,,,,,,,,,2,5.38,Phoenix Suns,shot,Tucker,,,,,,,,,Beasley,2,,,made,,Driving Finger Roll Layup,,,33-50,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=189
 ,,,,,,,,,,2,5.12,Dallas Mavericks,shot,Collison,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,33-52,18,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=190
@@ -242,7 +242,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.55,Phoenix Suns,free throw,,,,,,,1,,1,Dragic,1,,foul,made,,,,,47-57,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=285
 ,,,,,,,,,,3,10.38,Phoenix Suns,violation,,,,,,,,,,Dragic,,,Kicked Ball,,,,,,47-57,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=287
 ,,,,,,,,,,3,10.38,Dallas Mavericks,substitute,,,,Beaubois,,Collison,,,,,,,,,,,,,47-57,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=288
-,,,,,,,,,,3,10.28,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,,,,,47-57,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=289
+,,,,,,,,,,3,10.28,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,Gortat,,,,47-57,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=289
 ,,,,,,,,,,3,10.23,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Shooting Block,,,47-57,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=290
 ,,,,,,,,,,3,10.23,Phoenix Suns,free throw,,,,,,,1,,2,Scola,1,,foul,made,,,,,48-57,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=291
 ,,,,,,,,,,3,10.23,Phoenix Suns,free throw,,,,,,,2,,2,Scola,1,,foul,made,,,,,49-57,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=293
@@ -256,14 +256,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.47,Dallas Mavericks,shot,Marion,,,,,,,,,Brand,2,,,made,,Jump Shot,,,51-64,16,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=302
 ,,,,,,,,,,3,8.35,Phoenix Suns,shot,Scola,,,,,,,,,Dragic,2,,,made,,Driving Layup,,,53-64,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=303
 ,,,,,,,,,,3,8.22,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Personal,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=304
-,,,,,,,,,,3,8.18,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=305
-,,,,,,,,,,3,8.15,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=306
+,,,,,,,,,,3,8.18,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,Dudley,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=305
+,,,,,,,,,,3,8.15,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Mayo,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=306
 ,,,,,,,,,,3,8.12,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Alley Oop Dunk,,,53-64,2,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=307
 ,,,,,,,,,,3,8.11,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=308
 ,,,,,,,,,,3,8.08,Phoenix Suns,shot,Gortat,,,,,,,,,Dragic,2,,,made,,Driving Layup,,,55-64,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=309
 ,,,,,,,,,,3,8.08,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Shooting,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=310
 ,,,,,,,,,,3,8.08,Phoenix Suns,free throw,,,,,,,1,,1,Dragic,1,,foul,made,,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=311
-,,,,,,,,,,3,7.55,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=313
+,,,,,,,,,,3,7.55,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,Tucker,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=313
 ,,,,,,,,,,3,7.51,Phoenix Suns,shot,,,,,,,,,,Tucker,2,,,made,,Driving Finger Roll Layup,,,58-64,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=314
 ,,,,,,,,,,3,7.50,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,58-64,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=315
 ,,,,,,,,,,3,7.26,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Step Back Jump Shot,,,58-64,10,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=319
@@ -291,7 +291,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.22,Dallas Mavericks,turnover,,,,,,,,,,,,,Shot Clock,,,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=343
 ,,,,,,,,,,3,4.22,Phoenix Suns,substitute,,,,Beasley,,Gortat,,,,,,,,,,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=344
 ,,,,,,,,,,3,4.08,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Traveling,,,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=345
-,,,,,,,,,,3,3.55,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Lost Ball,,,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=346
+,,,,,,,,,,3,3.55,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Lost Ball,,Dragic,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=346
 ,,,,,,,,,,3,3.49,Phoenix Suns,shot,Dragic,,,,,,,,,Brown,2,,,made,,Layup,,,62-72,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=347
 ,,,,,,,,,,3,3.29,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Turnaround Jump Shot,,,62-72,6,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=348
 ,,,,,,,,,,3,3.29,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,62-72,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=349
@@ -326,7 +326,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.43,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Bad Pass,,,,,,69-78,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=383
 ,,,,,,,,,,3,0.32,Dallas Mavericks,shot,,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,69-81,24,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=384
 ,,,,,,,,,,3,0.23,Phoenix Suns,shot,,,,,,,,,,Marshall,3,,,made,,3PT Jump Shot,,,72-81,25,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=385
-,,,,,,,,,,4,11.47,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,72-81,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=389
+,,,,,,,,,,4,11.47,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Morris,,,,72-81,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=389
 ,,,,,,,,,,4,11.43,Dallas Mavericks,foul,,,,,,,,,,Kaman,,,,,,Shooting Block,,,72-81,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=390
 ,,,,,,,,,,4,11.43,Phoenix Suns,free throw,,,,,,,1,,2,Morris,1,,foul,made,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=391
 ,,,,,,,,,,4,11.43,Dallas Mavericks,substitute,,,,Collison,,Beaubois,,,,,,,,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=393
@@ -345,7 +345,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.24,Phoenix Suns,shot,,,,,,,,,,W. Johnson,,,,missed,,Jump Shot,,,76-87,22,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=408
 ,,,,,,,,,,4,10.24,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,76-87,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=409
 ,,,,,,,,,,4,10.23,Phoenix Suns,turnover,,,,,,,,,,Morris Out of Bounds,,,Lost Ball,,,,,,76-87,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=410
-,,,,,,,,,,4,10.15,Dallas Mavericks,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,76-87,4,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=411
+,,,,,,,,,,4,10.15,Dallas Mavericks,shot,,,Johnson,,,,,,,Wright,,,,missed,,Jump Shot,,,76-87,4,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=411
 ,,,,,,,,,,4,10.13,Phoenix Suns,rebound,,,,,,,,,,Marshall,,,,,,,,,76-87,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=412
 ,,,,,,,,,,4,10.04,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,76-87,21,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=413
 ,,,,,,,,,,4,10.04,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,76-87,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=414
@@ -361,7 +361,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.17,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,76-89,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=426
 ,,,,,,,,,,4,9.09,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,3PT Jump Shot,,,76-89,27,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=427
 ,,,,,,,,,,4,9.08,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,76-89,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=428
-,,,,,,,,,,4,8.46,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,76-89,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=429
+,,,,,,,,,,4,8.46,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,Carter,,,,76-89,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=429
 ,,,,,,,,,,4,8.42,Dallas Mavericks,shot,,,,,,,,,,Jones,2,,,made,,Driving Layup,,,76-91,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=430
 ,,,,,,,,,,4,8.40,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,76-91,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=431
 ,,,,,,,,,,4,8.40,Dallas Mavericks,substitute,,,,Marion,,Nowitzki,,,,,,,,,,,,,76-91,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=432
@@ -375,7 +375,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.48,Dallas Mavericks,shot,Carter,,,,,,,,,Marion,2,,,made,,Slam Dunk,,,79-93,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=440
 ,,,,,,,,,,4,7.32,Phoenix Suns,shot,Dragic,,,,,,,,,Scola,2,,,made,,Layup,,,81-93,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=441
 ,,,,,,,,,,4,7.14,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Jump Shot,,,81-95,18,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=442
-,,,,,,,,,,4,6.57,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,81-95,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=443
+,,,,,,,,,,4,6.57,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Collison,,,,81-95,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=443
 ,,,,,,,,,,4,6.53,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Running Finger Roll Layup,,,81-97,2,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=444
 ,,,,,,,,,,4,6.43,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,3PT Jump Shot,,,81-97,25,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=445
 ,,,,,,,,,,4,6.42,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,81-97,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=446
@@ -393,11 +393,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.46,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Personal,,,81-100,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=463
 ,,,,,,,,,,4,5.46,Phoenix Suns,free throw,,,,,,,1,,2,Dudley,1,,foul,made,,,,,82-100,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=464
 ,,,,,,,,,,4,5.46,Phoenix Suns,free throw,,,,,,,2,,2,Dudley,1,,foul,made,,,,,83-100,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=466
-,,,,,,,,,,4,5.25,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,83-100,20,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=468
+,,,,,,,,,,4,5.25,Dallas Mavericks,shot,,,Dragic,,,,,,,Collison,,,,missed,,Jump Shot,,,83-100,20,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=468
 ,,,,,,,,,,4,5.23,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,83-100,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=469
 ,,,,,,,,,,4,5.21,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Running Jump Shot,,,83-100,5,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=470
 ,,,,,,,,,,4,5.21,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,83-100,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=471
-,,,,,,,,,,4,5.14,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,83-100,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=472
+,,,,,,,,,,4,5.14,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Marion,,,,83-100,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=472
 ,,,,,,,,,,4,5.10,Dallas Mavericks,shot,Collison,,,,,,,,,Jones,2,,,made,,Running Slam Dunk,,,83-102,1,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=473
 ,,,,,,,,,,4,4.46,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Turnaround Hook Shot,,,83-102,3,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=474
 ,,,,,,,,,,4,4.45,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,83-102,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=475
@@ -443,10 +443,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.18,Dallas Mavericks,shot,,,,,,,,,,Jones,2,,,made,,Driving Jump Shot,,,93-110,13,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=523
 ,,,,,,,,,,4,1.06,Phoenix Suns,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,93-110,22,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=524
 ,,,,,,,,,,4,1.06,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,93-110,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=525
-,,,,,,,,,,4,0.53,Dallas Mavericks,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,93-110,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=526
+,,,,,,,,,,4,0.53,Dallas Mavericks,turnover,,,,,,,,,,James,,,Lost Ball,,Morris,,,,93-110,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=526
 ,,,,,,,,,,4,0.47,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Jump Shot,,,93-110,19,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=527
 ,,,,,,,,,,4,0.46,Dallas Mavericks,rebound,,,,,,,,,,Jones,,,,,,,,,93-110,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=528
-,,,,,,,,,,4,0.31,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Bad Pass,,,,,,93-110,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=529
+,,,,,,,,,,4,0.31,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Bad Pass,,Marshall,,,,93-110,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=529
 ,,,,,,,,,,4,0.21,Dallas Mavericks,foul,,,,,,,,,,James,,,,,,Shooting,,,93-110,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=531
 ,,,,,,,,,,4,0.21,Phoenix Suns,free throw,,,,,,,1,,2,Tucker,1,,foul,made,,,,,94-110,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=532
 ,,,,,,,,,,4,0.21,Phoenix Suns,free throw,,,,,,,2,,2,Tucker,1,,foul,made,,,,,95-110,,http://stats.nba.com/cvp.html?GameID=0021200657&GameEventID=534

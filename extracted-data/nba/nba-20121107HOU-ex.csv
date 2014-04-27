@@ -23,8 +23,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.33,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=31
 ,,,,,,,,,,1,8.23,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,Jump Shot,,,6-5,19,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=32
 ,,,,,,,,,,1,8.22,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=33
-,,,,,,,,,,1,8.11,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=35
-,,,,,,,,,,1,8.08,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Bad Pass,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=36
+,,,,,,,,,,1,8.11,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Iguodala,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=35
+,,,,,,,,,,1,8.08,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Bad Pass,,Harden,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=36
 ,,,,,,,,,,1,7.57,Houston Rockets,shot,,,,,,,,,,Patterson,,,,missed,,Jump Shot,,,6-5,17,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=38
 ,,,,,,,,,,1,7.56,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=39
 ,,,,,,,,,,1,7.48,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Running Jump Shot,,,6-5,7,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=40
@@ -33,7 +33,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.26,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Jump Shot,,,8-5,7,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=44
 ,,,,,,,,,,1,7.24,Houston Rockets,rebound,,,,,,,,,,Patterson,,,,,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=45
 ,,,,,,,,,,1,7.22,Houston Rockets,shot,,,,,,,,,,Patterson,2,,,made,,Layup,,,8-7,2,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=46
-,,,,,,,,,,1,7.10,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Lost Ball,,,,,,8-7,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=48
+,,,,,,,,,,1,7.10,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Lost Ball,,Parsons,,,,8-7,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=48
 ,,,,,,,,,,1,7.06,Houston Rockets,shot,Lin,,,,,,,,,Harden,2,,,made,,Layup,,,8-9,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=49
 ,,,,,,,,,,1,6.55,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,Layup,,,8-9,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=50
 ,,,,,,,,,,1,6.53,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=51
@@ -50,7 +50,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.12,Houston Rockets,shot,,,,,,,,,,Asik,2,,,made,,Layup,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=63
 ,,,,,,,,,,1,5.55,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,11-11,8,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=66
 ,,,,,,,,,,1,5.54,Houston Rockets,rebound,,,,,,,,,,Patterson,,,,,,,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=67
-,,,,,,,,,,1,5.47,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=68
+,,,,,,,,,,1,5.47,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Lawson,,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=68
 ,,,,,,,,,,1,5.43,Denver Nuggets,shot,Lawson,,,,,,,,,Iguodala,2,,,made,,Dunk,,,13-11,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=69
 ,,,,,,,,,,1,5.33,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=70
 ,,,,,,,,,,1,5.26,Houston Rockets,shot,Lin,,,,,,,,,Patterson,2,,,made,,Jump Shot,,,13-13,16,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=74
@@ -63,7 +63,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.18,Denver Nuggets,shot,Lawson,,,,,,,,,Iguodala,3,,,made,,3PT Jump Shot,,,16-13,24,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=83
 ,,,,,,,,,,1,4.03,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,16-13,25,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=85
 ,,,,,,,,,,1,4.02,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=86
-,,,,,,,,,,1,3.45,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Lost Ball,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=87
+,,,,,,,,,,1,3.45,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Lost Ball,,Lin,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=87
 ,,,,,,,,,,1,3.40,Houston Rockets,turnover,,,,,,,,,,Asik,,,Offensive Goaltending,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=90
 ,,,,,,,,,,1,3.40,Denver Nuggets,substitute,,,,Miller,,Lawson,,,,,,,,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=91
 ,,,,,,,,,,1,3.40,Houston Rockets,substitute,,,,Delfino,,Parsons,,,,,,,,,,,,,16-13,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=93
@@ -80,15 +80,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.51,Denver Nuggets,free throw,,,,,,,2,,2,McGee,1,,foul,made,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=113
 ,,,,,,,,,,1,2.39,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,21-15,25,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=116
 ,,,,,,,,,,1,2.38,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=117
-,,,,,,,,,,1,2.18,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Jump Shot,,,21-15,4,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=118
+,,,,,,,,,,1,2.18,Denver Nuggets,shot,,,Aldrich,,,,,,,Faried,,,,missed,,Jump Shot,,,21-15,4,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=118
 ,,,,,,,,,,1,2.15,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=120
 ,,,,,,,,,,1,2.15,Denver Nuggets,shot,,,,,,,,,,Faried,2,,,made,,Layup,,,23-15,3,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=119
 ,,,,,,,,,,1,1.52,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,23-15,20,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=121
 ,,,,,,,,,,1,1.51,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=122
-,,,,,,,,,,1,1.49,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=123
+,,,,,,,,,,1,1.49,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Harden,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=123
 ,,,,,,,,,,1,1.37,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,23-15,25,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=124
 ,,,,,,,,,,1,1.36,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=125
-,,,,,,,,,,1,1.30,Denver Nuggets,turnover,,,,,,,,,,McGee,,,Bad Pass,,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=126
+,,,,,,,,,,1,1.30,Denver Nuggets,turnover,,,,,,,,,,McGee,,,Bad Pass,,Lin,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=126
 ,,,,,,,,,,1,1.25,Houston Rockets,shot,Lin,,,,,,,,,Morris,2,,,made,,Layup,,,23-17,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=127
 ,,,,,,,,,,1,1.02,Denver Nuggets,shot,Miller,,,,,,,,,McGee,2,,,made,,Hook Shot,,,25-17,4,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=129
 ,,,,,,,,,,1,1.01,Denver Nuggets,foul,,,,,,,,,,Faried,,,,,,Technical,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=130
@@ -107,7 +107,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.00,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,3PT Jump Shot,,,25-18,25,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=148
 ,,,,,,,,,,1,0.00,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,25-18,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=150
 ,,,,,,,,,,2,11.42,Houston Rockets,shot,Aldrich,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,25-21,25,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=152
-,,,,,,,,,,2,11.24,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=154
+,,,,,,,,,,2,11.24,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Douglas,,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=154
 ,,,,,,,,,,2,11.18,Houston Rockets,shot,Parsons,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,25-24,25,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=155
 ,,,,,,,,,,2,10.57,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Driving Bank Shot,,,25-24,6,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=157
 ,,,,,,,,,,2,10.56,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=158
@@ -170,12 +170,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.33,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,Layup,,,38-35,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=233
 ,,,,,,,,,,2,5.30,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,38-35,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=234
 ,,,,,,,,,,2,5.26,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Layup,,,40-35,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=235
-,,,,,,,,,,2,5.10,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,40-35,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=237
+,,,,,,,,,,2,5.10,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Koufos,,,,40-35,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=237
 ,,,,,,,,,,2,5.07,Denver Nuggets,shot,Brewer,,,,,,,,,Lawson,2,,,made,,Layup,,,42-35,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=238
 ,,,,,,,,,,2,4.57,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=239
 ,,,,,,,,,,2,4.57,Houston Rockets,substitute,,,,Parsons,,Delfino,,,,,,,,,,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=242
 ,,,,,,,,,,2,4.57,Houston Rockets,substitute,,,,Lin,,Douglas,,,,,,,,,,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=243
-,,,,,,,,,,2,4.45,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=244
+,,,,,,,,,,2,4.45,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,Brewer,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=244
 ,,,,,,,,,,2,4.29,Denver Nuggets,shot,,,,,,,,,,Gallinari,2,,,made,,Jump Shot,,,44-35,16,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=245
 ,,,,,,,,,,2,4.15,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,44-35,24,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=246
 ,,,,,,,,,,2,4.14,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,44-35,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=247
@@ -214,8 +214,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.11,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=286
 ,,,,,,,,,,2,0.00,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,56-41,24,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=288
 ,,,,,,,,,,2,0.00,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=290
-,,,,,,,,,,3,11.49,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=293
-,,,,,,,,,,3,11.45,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=294
+,,,,,,,,,,3,11.49,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Lawson,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=293
+,,,,,,,,,,3,11.45,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Harden,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=294
 ,,,,,,,,,,3,11.39,Denver Nuggets,foul,,,,,,,,,,Koufos,,,,,,Shooting,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=295
 ,,,,,,,,,,3,11.39,Houston Rockets,free throw,,,,,,,1,,2,Harden,,,foul,missed,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=296
 ,,,,,,,,,,3,11.39,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=297
@@ -225,7 +225,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.14,Denver Nuggets,shot,,,,,,,,,,Koufos,,,,missed,,Jump Shot,,,56-41,5,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=303
 ,,,,,,,,,,3,11.13,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,56-41,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=304
 ,,,,,,,,,,3,10.54,Houston Rockets,shot,Parsons,,,,,,,,,Patterson,3,,,made,,3PT Jump Shot,,,56-44,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=305
-,,,,,,,,,,3,10.27,Denver Nuggets,shot,,,,,,,,,,Koufos,,,,missed,,Layup,,,56-44,2,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=307
+,,,,,,,,,,3,10.27,Denver Nuggets,shot,,,Patterson,,,,,,,Koufos,,,,missed,,Layup,,,56-44,2,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=307
 ,,,,,,,,,,3,10.26,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,56-44,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=308
 ,,,,,,,,,,3,10.23,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Turnaround Jump Shot,,,56-44,17,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=310
 ,,,,,,,,,,3,10.23,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,56-44,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=311
@@ -271,7 +271,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.41,Denver Nuggets,shot,,,,,,,,,,Faried,2,,,made,,Layup,,,61-49,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=361
 ,,,,,,,,,,3,6.27,Houston Rockets,foul,,,,,,,,,,,,,,,,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=363
 ,,,,,,,,,,3,6.27,Houston Rockets,turnover,,,,,,,,,,Patterson,,,Foul,,,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=364
-,,,,,,,,,,3,6.05,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=366
+,,,,,,,,,,3,6.05,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,Lin,,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=366
 ,,,,,,,,,,3,6.02,Denver Nuggets,foul,,,,,,,,,,Iguodala,,,,,,Shooting,,,61-49,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=367
 ,,,,,,,,,,3,6.02,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,61-50,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=368
 ,,,,,,,,,,3,6.02,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,61-51,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=370
@@ -281,7 +281,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.53,Denver Nuggets,substitute,,,,Miller,,Lawson,,,,,,,,,,,,,61-51,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=377
 ,,,,,,,,,,3,5.40,Houston Rockets,shot,,,,,,,,,,Patterson,,,,missed,,Jump Shot,,,61-51,12,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=379
 ,,,,,,,,,,3,5.38,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,61-51,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=380
-,,,,,,,,,,3,5.34,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,61-51,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=381
+,,,,,,,,,,3,5.34,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Delfino,,,,61-51,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=381
 ,,,,,,,,,,3,5.26,Houston Rockets,shot,Delfino,,,,,,,,,Patterson,2,,,made,,Jump Shot,,,61-53,18,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=382
 ,,,,,,,,,,3,5.02,Denver Nuggets,turnover,,,,,,,,,,McGee,,,3 Second Violation,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=383
 ,,,,,,,,,,3,4.41,Houston Rockets,shot,,,,,,,,,,Aldrich,2,,,made,,Jump Bank Shot,,,61-55,8,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=384
@@ -289,15 +289,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.41,Houston Rockets,free throw,,,,,,,1,,1,Aldrich,1,,foul,made,,,,,61-56,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=386
 ,,,,,,,,,,3,4.23,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,3PT Jump Shot,,,61-56,25,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=389
 ,,,,,,,,,,3,4.21,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,61-56,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=390
-,,,,,,,,,,3,3.59,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,61-56,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=406
-,,,,,,,,,,3,3.41,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,61-56,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=393
-,,,,,,,,,,3,3.33,Houston Rockets,turnover,,,,,,,,,,Harden Poss,,,Lost Ball,,,,,,61-56,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=394
+,,,,,,,,,,3,3.59,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Iguodala,,,,61-56,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=406
+,,,,,,,,,,3,3.41,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Lin,,,,61-56,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=393
+,,,,,,,,,,3,3.33,Houston Rockets,turnover,,,,,,,,,,Harden Poss,,,Lost Ball,,Iguodala,,,,61-56,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=394
 ,,,,,,,,,,3,3.30,Denver Nuggets,shot,Iguodala,,,,,,,,,McGee,2,,,made,,Jump Shot,,,63-56,8,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=395
 ,,,,,,,,,,3,3.19,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,63-56,25,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=396
 ,,,,,,,,,,3,3.15,Houston Rockets,rebound,,,,,,,,,,Aldrich,,,,,,,,,63-56,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=397
 ,,,,,,,,,,3,3.07,Houston Rockets,shot,Lin,,,,,,,,,Patterson,3,,,made,,3PT Jump Shot,,,63-59,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=398
-,,,,,,,,,,3,2.51,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Lost Ball,,,,,,63-59,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=400
-,,,,,,,,,,3,2.46,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Layup,,,63-59,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=401
+,,,,,,,,,,3,2.51,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Lost Ball,,Lin,,,,63-59,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=400
+,,,,,,,,,,3,2.46,Houston Rockets,shot,,,Gallinari,,,,,,,Lin,,,,missed,,Layup,,,63-59,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=401
 ,,,,,,,,,,3,2.42,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,63-59,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=403
 ,,,,,,,,,,3,2.42,Houston Rockets,shot,,,,,,,,,,Delfino,2,,,made,,Layup,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=402
 ,,,,,,,,,,3,2.42,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=404
@@ -311,11 +311,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.33,Houston Rockets,substitute,,,,Douglas,,Lin,,,,,,,,,,,,,65-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=415
 ,,,,,,,,,,3,1.10,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,65-61,2,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=416
 ,,,,,,,,,,3,1.08,Houston Rockets,rebound,,,,,,,,,,Aldrich,,,,,,,,,65-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=417
-,,,,,,,,,,3,1.05,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,65-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=418
+,,,,,,,,,,3,1.05,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,Brewer,,,,65-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=418
 ,,,,,,,,,,3,1.02,Houston Rockets,foul,,,,,,,,,,Aldrich,,,,,,Personal Take,,,65-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=419
 ,,,,,,,,,,3,1.02,Denver Nuggets,free throw,,,,,,,1,,2,Brewer,1,,foul,made,,,,,66-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=420
 ,,,,,,,,,,3,1.02,Denver Nuggets,free throw,,,,,,,2,,2,Brewer,1,,foul,made,,,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=422
-,,,,,,,,,,3,0.37,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,67-61,24,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=425
+,,,,,,,,,,3,0.37,Houston Rockets,shot,,,Brewer,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,67-61,24,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=425
 ,,,,,,,,,,3,0.37,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=426
 ,,,,,,,,,,3,0.37,Houston Rockets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=427
 ,,,,,,,,,,3,0.30,Houston Rockets,foul,,,,,,,,,,Patterson,,,,,,Personal Block,,,67-61,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=429
@@ -330,7 +330,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.22,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,Layup,,,71-64,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=444
 ,,,,,,,,,,4,11.21,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,71-64,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=446
 ,,,,,,,,,,4,11.21,Denver Nuggets,substitute,,,,Faried,,Iguodala,,,,,,,,,,,,,71-64,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=447
-,,,,,,,,,,4,11.11,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,71-64,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=448
+,,,,,,,,,,4,11.11,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Delfino,,,,71-64,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=448
 ,,,,,,,,,,4,11.06,Houston Rockets,shot,,,,,,,,,,Douglas,,,,missed,,Reverse Layup,,,71-64,3,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=459
 ,,,,,,,,,,4,11.03,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,71-64,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=449
 ,,,,,,,,,,4,10.54,Houston Rockets,shot,Parsons,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,71-67,26,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=450
@@ -339,7 +339,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.37,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,71-67,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=453
 ,,,,,,,,,,4,10.35,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Jump Shot,,,71-67,4,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=454
 ,,,,,,,,,,4,10.32,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,71-67,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=456
-,,,,,,,,,,4,10.18,Houston Rockets,turnover,,,,,,,,,,Morris,,,Lost Ball,,,,,,71-67,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=457
+,,,,,,,,,,4,10.18,Houston Rockets,turnover,,,,,,,,,,Morris,,,Lost Ball,,Faried,,,,71-67,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=457
 ,,,,,,,,,,4,10.18,Houston Rockets,foul,,,,,,,,,,Asik,,,,,,Personal,,,71-67,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=458
 ,,,,,,,,,,4,10.05,Denver Nuggets,shot,Lawson,,,,,,,,,Brewer,3,,,made,,3PT Jump Shot,,,74-67,25,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=461
 ,,,,,,,,,,4,9.52,Denver Nuggets,foul,,,,,,,,,,Miller,,,,,,Personal,,,74-67,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=463
@@ -377,7 +377,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.59,Denver Nuggets,substitute,,,,Gallinari,,Koufos,,,,,,,,,,,,,80-71,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=510
 ,,,,,,,,,,4,6.56,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,80-71,18,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=511
 ,,,,,,,,,,4,6.55,Houston Rockets,rebound,,,,,,,,,,Patterson,,,,,,,,,80-71,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=512
-,,,,,,,,,,4,6.46,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,Layup,,,80-71,2,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=513
+,,,,,,,,,,4,6.46,Houston Rockets,shot,,,Brewer,,,,,,,Morris,,,,missed,,Layup,,,80-71,2,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=513
 ,,,,,,,,,,4,6.43,Houston Rockets,rebound,,,,,,,,,,Patterson,,,,,,,,,80-71,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=514
 ,,,,,,,,,,4,6.41,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,80-71,27,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=515
 ,,,,,,,,,,4,6.40,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,80-71,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=516
@@ -401,13 +401,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.43,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Jump Shot,,,85-76,22,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=544
 ,,,,,,,,,,4,4.42,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=545
 ,,,,,,,,,,4,4.31,Houston Rockets,jumpball,,Lawson,,,Lin,,,,,,,,,,,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=546
-,,,,,,,,,,4,4.18,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=548
+,,,,,,,,,,4,4.18,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Harden,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=548
 ,,,,,,,,,,4,4.13,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Layup,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=549
 ,,,,,,,,,,4,4.11,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=550
 ,,,,,,,,,,4,4.11,Denver Nuggets,foul,,,,,,,,,,Faried,,,,,,Personal,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=551
 ,,,,,,,,,,4,4.11,Houston Rockets,free throw,,,,,,,1,,2,Delfino,1,,foul,made,,,,,85-77,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=552
 ,,,,,,,,,,4,4.11,Houston Rockets,free throw,,,,,,,2,,2,Delfino,1,,foul,made,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=554
-,,,,,,,,,,4,3.52,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=557
+,,,,,,,,,,4,3.52,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Lin,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=557
 ,,,,,,,,,,4,3.44,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Running Jump Shot,,,85-80,3,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=558
 ,,,,,,,,,,4,3.31,Houston Rockets,foul,,,,,,,,,,Parsons,,,,,,Shooting,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=559
 ,,,,,,,,,,4,3.31,Denver Nuggets,free throw,,,,,,,1,,2,Lawson,,,foul,missed,,,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=560
@@ -424,11 +424,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.21,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,3PT Jump Shot,,,89-83,26,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=574
 ,,,,,,,,,,4,2.19,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,89-83,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=575
 ,,,,,,,,,,4,2.11,Houston Rockets,shot,Delfino,,,,,,,,,Harden,2,,,made,,Dunk,,,89-85,1,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=576
-,,,,,,,,,,4,1.52,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,89-85,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=578
+,,,,,,,,,,4,1.52,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Harden,,,,89-85,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=578
 ,,,,,,,,,,4,1.47,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Layup,,,89-85,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=579
 ,,,,,,,,,,4,1.44,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,89-85,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=580
 ,,,,,,,,,,4,1.42,Denver Nuggets,shot,Miller,,,,,,,,,Iguodala,2,,,made,,Dunk,,,91-85,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=581
-,,,,,,,,,,4,1.27,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,91-85,24,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=582
+,,,,,,,,,,4,1.27,Houston Rockets,shot,,,Iguodala,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,91-85,24,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=582
 ,,,,,,,,,,4,1.24,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,91-85,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=583
 ,,,,,,,,,,4,1.21,Denver Nuggets,foul,,,,,,,,,,Miller,,,,,,Personal,,,91-85,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=584
 ,,,,,,,,,,4,1.21,Houston Rockets,free throw,,,,,,,1,,2,Lin,1,,foul,made,,,,,91-86,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=587
@@ -438,7 +438,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.59,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,91-87,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=597
 ,,,,,,,,,,4,0.59,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Offensive Goaltending,,,,,,91-87,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=596
 ,,,,,,,,,,4,0.59,Houston Rockets,substitute,,,,Lin,,Douglas,,,,,,,,,,,,,91-87,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=598
-,,,,,,,,,,4,0.47,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Layup,,,91-87,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=599
+,,,,,,,,,,4,0.47,Houston Rockets,shot,,,Faried,,,,,,,Harden,,,,missed,,Layup,,,91-87,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=599
 ,,,,,,,,,,4,0.44,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,91-87,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=600
 ,,,,,,,,,,4,0.26,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,91-87,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=602
 ,,,,,,,,,,4,0.24,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,91-87,,http://stats.nba.com/cvp.html?GameID=0021200059&GameEventID=604

@@ -2,7 +2,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.36,Phoenix Suns,shot,,,,,,,,,,Scola,2,,,made,,Finger Roll Layup,,,2-0,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=2
 ,,,,,,,,,,1,11.21,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,2-0,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=3
 ,,,,,,,,,,1,11.20,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=4
-,,,,,,,,,,1,11.18,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=5
+,,,,,,,,,,1,11.18,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,Evans,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=5
 ,,,,,,,,,,1,11.16,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Layup,,,2-2,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=6
 ,,,,,,,,,,1,10.58,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Hook Shot,,,2-2,7,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=7
 ,,,,,,,,,,1,10.58,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=8
@@ -18,7 +18,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.47,Sacramento Kings,free throw,,,,,,,2,,2,Evans,1,,foul,made,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=22
 ,,,,,,,,,,1,9.34,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,6-8,17,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=24
 ,,,,,,,,,,1,9.34,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=25
-,,,,,,,,,,1,9.30,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=26
+,,,,,,,,,,1,9.30,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Tucker,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=26
 ,,,,,,,,,,1,9.23,Phoenix Suns,turnover,,,,,,,,,,Scola Out of Bounds,,,Lost Ball,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=27
 ,,,,,,,,,,1,9.11,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,6-8,4,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=28
 ,,,,,,,,,,1,9.10,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=29
@@ -29,7 +29,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.39,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Jump Shot,,,6-8,19,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=34
 ,,,,,,,,,,1,8.38,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=35
 ,,,,,,,,,,1,8.35,Sacramento Kings,shot,Thompson,,,,,,,,,Evans,2,,,made,,Layup,,,6-10,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=36
-,,,,,,,,,,1,8.20,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,6-10,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=38
+,,,,,,,,,,1,8.20,Phoenix Suns,shot,,,Evans,,,,,,,Scola,,,,missed,,Jump Shot,,,6-10,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=38
 ,,,,,,,,,,1,8.18,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=39
 ,,,,,,,,,,1,8.15,Phoenix Suns,shot,Dudley,,,,,,,,,Scola,2,,,made,,Layup,,,8-10,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=40
 ,,,,,,,,,,1,8.05,Sacramento Kings,foul,,,,,,,,,,Thompson,,,,,,Offensive Charge,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=41
@@ -49,9 +49,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.26,Sacramento Kings,substitute,,,,Robinson,,Thompson,,,,,,,,,,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=51
 ,,,,,,,,,,1,7.26,Phoenix Suns,free throw,,,,,,,1,,1,Scola,,,foul,missed,,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=52
 ,,,,,,,,,,1,7.26,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=54
-,,,,,,,,,,1,7.15,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,10-10,4,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=56
+,,,,,,,,,,1,7.15,Sacramento Kings,shot,,,Dragic,,,,,,,Thomas,,,,missed,,Jump Shot,,,10-10,4,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=56
 ,,,,,,,,,,1,7.14,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=57
-,,,,,,,,,,1,7.10,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=58
+,,,,,,,,,,1,7.10,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,Robinson,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=58
 ,,,,,,,,,,1,7.10,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Personal,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=59
 ,,,,,,,,,,1,6.55,Sacramento Kings,shot,Cousins,,,,,,,,,Salmons,2,,,made,,Jump Shot,,,10-12,8,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=61
 ,,,,,,,,,,1,6.36,Phoenix Suns,shot,,,,,,,,,,Gortat,2,,,made,,Jump Shot,,,12-12,17,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=63
@@ -79,9 +79,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.59,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,17-18,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=96
 ,,,,,,,,,,1,3.52,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Driving Layup,,,17-20,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=97
 ,,,,,,,,,,1,3.36,Phoenix Suns,shot,Scola,,,,,,,,,Dudley,2,,,made,,Jump Shot,,,19-20,21,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=99
-,,,,,,,,,,1,3.30,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,,,,,19-20,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=101
+,,,,,,,,,,1,3.30,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,Gortat,,,,19-20,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=101
 ,,,,,,,,,,1,3.26,Phoenix Suns,shot,Dragic,,,,,,,,,Tucker,2,,,made,,Driving Layup,,,21-20,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=102
-,,,,,,,,,,1,3.03,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Layup,,,21-20,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=104
+,,,,,,,,,,1,3.03,Sacramento Kings,shot,,,Gortat,,,,,,,Cousins,,,,missed,,Layup,,,21-20,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=104
 ,,,,,,,,,,1,3.02,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,21-20,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=105
 ,,,,,,,,,,1,2.56,Sacramento Kings,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,21-20,21,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=107
 ,,,,,,,,,,1,2.55,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,21-20,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=108
@@ -104,21 +104,21 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.25,Sacramento Kings,foul,,,,,,,,,,Thornton,,,,,,Shooting,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=127
 ,,,,,,,,,,1,1.25,Phoenix Suns,free throw,,,,,,,1,,1,Dudley,1,,foul,made,,,,,26-20,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=128
 ,,,,,,,,,,1,1.14,Sacramento Kings,shot,,,,,,,,,,Salmons,2,,,made,,Pullup Bank Shot,,,26-22,8,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=130
-,,,,,,,,,,1,0.53,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,26-22,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=131
+,,,,,,,,,,1,0.53,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Cousins,,,,26-22,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=131
 ,,,,,,,,,,1,0.46,Sacramento Kings,shot,Thomas,,,,,,,,,Robinson,2,,,made,,Dunk,,,26-24,1,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=132
 ,,,,,,,,,,1,0.35,Phoenix Suns,shot,Brown,,,,,,,,,Morris,2,,,made,,Jump Shot,,,28-24,19,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=134
 ,,,,,,,,,,1,0.28,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Running Jump Shot,,,28-24,7,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=135
 ,,,,,,,,,,1,0.27,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,28-24,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=136
 ,,,,,,,,,,1,0.06,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Pullup Jump Shot,,,30-24,14,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=137
 ,,,,,,,,,,1,0.00,Sacramento Kings,shot,Thomas,,,,,,,,,Cousins,3,,,made,,3PT Jump Shot,,,30-27,24,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=138
-,,,,,,,,,,2,11.50,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Bad Pass,,,,,,30-27,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=144
+,,,,,,,,,,2,11.50,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Bad Pass,,Telfair,,,,30-27,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=144
 ,,,,,,,,,,2,11.45,Phoenix Suns,shot,,,,,,,,,,Telfair,2,,,made,,Driving Layup,,,32-27,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=145
 ,,,,,,,,,,2,11.39,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Shooting,,,32-27,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=146
 ,,,,,,,,,,2,11.39,Sacramento Kings,free throw,,,,,,,1,,2,Salmons,,,foul,missed,,,,,32-27,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=147
 ,,,,,,,,,,2,11.39,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,32-27,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=148
 ,,,,,,,,,,2,11.39,Sacramento Kings,free throw,,,,,,,2,,2,Salmons,,,foul,missed,,,,,32-27,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=149
 ,,,,,,,,,,2,11.38,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,32-27,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=151
-,,,,,,,,,,2,11.21,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Lost Ball,,,,,,32-27,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=152
+,,,,,,,,,,2,11.21,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Lost Ball,,Thornton,,,,32-27,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=152
 ,,,,,,,,,,2,11.18,Sacramento Kings,shot,Robinson,,,,,,,,,Thornton,2,,,made,,Layup,,,32-29,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=153
 ,,,,,,,,,,2,11.18,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Shooting,,,32-29,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=154
 ,,,,,,,,,,2,11.18,Sacramento Kings,substitute,,,,Johnson,,Salmons,,,,,,,,,,,,,32-29,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=155
@@ -127,13 +127,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.18,Sacramento Kings,free throw,,,,,,,1,,1,Thornton,1,,foul,made,,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=158
 ,,,,,,,,,,2,11.03,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,32-30,18,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=161
 ,,,,,,,,,,2,11.02,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=162
-,,,,,,,,,,2,10.46,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Lost Ball,,,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=163
+,,,,,,,,,,2,10.46,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Lost Ball,,Telfair,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=163
 ,,,,,,,,,,2,10.42,Phoenix Suns,shot,Brown,,,,,,,,,Gortat,2,,,made,,Dunk,,,34-30,1,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=164
 ,,,,,,,,,,2,10.21,Sacramento Kings,shot,,,,,,,,,,Johnson,2,,,made,,Finger Roll Layup,,,34-32,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=165
 ,,,,,,,,,,2,10.06,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Running Jump Shot,,,36-32,7,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=166
 ,,,,,,,,,,2,9.52,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,36-32,25,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=167
 ,,,,,,,,,,2,9.51,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,36-32,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=168
-,,,,,,,,,,2,9.49,Sacramento Kings,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,36-32,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=169
+,,,,,,,,,,2,9.49,Sacramento Kings,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Brown,,,,36-32,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=169
 ,,,,,,,,,,2,9.42,Phoenix Suns,shot,Brown,,,,,,,,,Gortat,2,,,made,,Layup,,,38-32,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=170
 ,,,,,,,,,,2,9.10,Sacramento Kings,shot,Robinson,,,,,,,,,Johnson,2,,,made,,Jump Shot,,,38-34,5,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=171
 ,,,,,,,,,,2,8.53,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,38-34,5,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=172
@@ -143,7 +143,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.36,Phoenix Suns,substitute,,,,Zeller,,Gortat,,,,,,,,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=177
 ,,,,,,,,,,2,8.23,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,3PT Jump Shot,,,38-37,25,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=180
 ,,,,,,,,,,2,8.22,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=181
-,,,,,,,,,,2,8.13,Phoenix Suns,shot,,,,,,,,,,Telfair,,,,missed,,Jump Shot,,,38-37,18,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=182
+,,,,,,,,,,2,8.13,Phoenix Suns,shot,,,Johnson,,,,,,,Telfair,,,,missed,,Jump Shot,,,38-37,18,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=182
 ,,,,,,,,,,2,8.12,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=183
 ,,,,,,,,,,2,8.01,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=184
 ,,,,,,,,,,2,8.00,Sacramento Kings,rebound,,,,,,,,,,Johnson,,,,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=185
@@ -161,14 +161,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.46,Sacramento Kings,foul,,,,,,,,,,Brooks,,,,,,Personal,,,38-39,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=198
 ,,,,,,,,,,2,6.36,Phoenix Suns,shot,,,,,,,,,,W. Johnson,,,,missed,,3PT Jump Shot,,,38-39,25,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=200
 ,,,,,,,,,,2,6.35,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,38-39,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=201
-,,,,,,,,,,2,6.16,Sacramento Kings,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,38-39,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=202
+,,,,,,,,,,2,6.16,Sacramento Kings,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Brown,,,,38-39,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=202
 ,,,,,,,,,,2,6.15,Sacramento Kings,foul,,,,,,,,,,Brooks,,,,,,Personal,,,38-39,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=203
 ,,,,,,,,,,2,6.00,Phoenix Suns,shot,,,,,,,,,,Telfair,3,,,made,,3PT Jump Shot,,,41-39,25,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=204
 ,,,,,,,,,,2,5.42,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Personal,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=205
 ,,,,,,,,,,2,5.42,Sacramento Kings,substitute,,,,Outlaw,,Robinson,,,,,,,,,,,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=209
 ,,,,,,,,,,2,5.42,Sacramento Kings,free throw,,,,,,,1,,2,Brooks,1,,foul,made,,,,,41-40,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=210
 ,,,,,,,,,,2,5.42,Sacramento Kings,free throw,,,,,,,2,,2,Brooks,1,,foul,made,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=212
-,,,,,,,,,,2,5.19,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,41-41,17,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=215
+,,,,,,,,,,2,5.19,Phoenix Suns,shot,,,Johnson,,,,,,,Beasley,,,,missed,,Jump Shot,,,41-41,17,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=215
 ,,,,,,,,,,2,5.18,Phoenix Suns,rebound,,,,,,,,,,W. Johnson,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=216
 ,,,,,,,,,,2,5.18,Phoenix Suns,turnover,,,,,,,,,,,,,Shot Clock,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=217
 ,,,,,,,,,,2,5.08,Sacramento Kings,turnover,,,,,,,,,,Johnson Out of Bounds,,,Lost Ball,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=218
@@ -199,14 +199,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.04,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=248
 ,,,,,,,,,,2,2.56,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=249
 ,,,,,,,,,,2,2.56,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=250
-,,,,,,,,,,2,2.39,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=252
+,,,,,,,,,,2,2.39,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Outlaw,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=252
 ,,,,,,,,,,2,2.36,Sacramento Kings,shot,,,,,,,,,,Outlaw,2,,,made,,Layup,,,45-48,1,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=253
 ,,,,,,,,,,2,2.24,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,45-48,12,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=254
 ,,,,,,,,,,2,2.22,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=255
 ,,,,,,,,,,2,2.19,Sacramento Kings,shot,Cousins,,,,,,,,,Johnson,2,,,made,,Layup,,,45-50,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=256
 ,,,,,,,,,,2,2.19,Phoenix Suns,foul,,,,,,,,,,Dragic,,,,,,Shooting,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=257
 ,,,,,,,,,,2,2.19,Sacramento Kings,free throw,,,,,,,1,,1,Johnson,1,,foul,made,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=258
-,,,,,,,,,,2,2.03,Phoenix Suns,turnover,,,,,,,,,,Gortat,,,Lost Ball,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=261
+,,,,,,,,,,2,2.03,Phoenix Suns,turnover,,,,,,,,,,Gortat,,,Lost Ball,,Johnson,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=261
 ,,,,,,,,,,2,1.56,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Jump Shot,,,45-51,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=262
 ,,,,,,,,,,2,1.55,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=263
 ,,,,,,,,,,2,1.49,Phoenix Suns,shot,Dudley,,,,,,,,,Dragic,2,,,made,,Layup,,,47-51,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=264
@@ -215,7 +215,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.56,Sacramento Kings,shot,Evans,,,,,,,,,Fredette,2,,,made,,Floating Jump Shot,,,49-55,7,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=267
 ,,,,,,,,,,2,0.42,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,3PT Jump Shot,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=268
 ,,,,,,,,,,2,0.40,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=269
-,,,,,,,,,,2,0.37,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=270
+,,,,,,,,,,2,0.37,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Dudley,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=270
 ,,,,,,,,,,2,0.36,Sacramento Kings,foul,,,,,,,,,,Outlaw,,,,,,Personal,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=271
 ,,,,,,,,,,2,0.28,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Jump Shot,,,49-55,19,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=272
 ,,,,,,,,,,2,0.27,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=273
@@ -239,7 +239,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.10,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,51-59,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=294
 ,,,,,,,,,,3,9.59,Phoenix Suns,shot,Dragic,,,,,,,,,Morris,3,,,made,,3PT Jump Shot,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=295
 ,,,,,,,,,,3,9.50,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Palming,,,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=296
-,,,,,,,,,,3,9.39,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Bad Pass,,,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=297
+,,,,,,,,,,3,9.39,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Bad Pass,,Evans,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=297
 ,,,,,,,,,,3,9.37,Phoenix Suns,foul,,,,,,,,,,Dudley,,,,,,Personal Take,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=298
 ,,,,,,,,,,3,9.26,Sacramento Kings,shot,Cousins,,,,,,,,,Evans,2,,,made,,Layup,,,54-61,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=299
 ,,,,,,,,,,3,9.11,Phoenix Suns,shot,Tucker,,,,,,,,,Gortat,2,,,made,,Jump Shot,,,56-61,15,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=301
@@ -270,7 +270,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.33,Sacramento Kings,free throw,,,,,,,2,,2,Salmons,1,,foul,made,,,,,62-66,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=325
 ,,,,,,,,,,3,6.22,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,62-66,16,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=327
 ,,,,,,,,,,3,6.21,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,62-66,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=328
-,,,,,,,,,,3,6.13,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Layup,,,62-66,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=329
+,,,,,,,,,,3,6.13,Sacramento Kings,shot,,,Morris,,,,,,,Cousins,,,,missed,,Layup,,,62-66,2,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=329
 ,,,,,,,,,,3,6.11,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,62-66,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=330
 ,,,,,,,,,,3,5.55,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Layup,,,62-66,1,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=331
 ,,,,,,,,,,3,5.53,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,62-66,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=332
@@ -285,11 +285,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.35,Sacramento Kings,free throw,,,,,,,2,,2,Thomas,1,,foul,made,,,,,64-70,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=342
 ,,,,,,,,,,3,4.24,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Personal,,,64-70,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=344
 ,,,,,,,,,,3,4.21,Sacramento Kings,foul,,,,,,,,,,Thomas,,,,,,Personal,,,64-70,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=345
-,,,,,,,,,,3,4.11,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Running Jump Shot,,,64-70,4,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=346
+,,,,,,,,,,3,4.11,Phoenix Suns,shot,,,Cousins,,,,,,,Morris,,,,missed,,Running Jump Shot,,,64-70,4,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=346
 ,,,,,,,,,,3,4.10,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,64-70,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=347
 ,,,,,,,,,,3,4.04,Sacramento Kings,shot,Evans,,,,,,,,,Robinson,2,,,made,,Reverse Layup,,,64-72,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=348
 ,,,,,,,,,,3,3.48,Phoenix Suns,shot,Dragic,,,,,,,,,Brown,3,,,made,,3PT Jump Shot,,,67-72,25,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=349
-,,,,,,,,,,3,3.35,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=350
+,,,,,,,,,,3,3.35,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Morris,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=350
 ,,,,,,,,,,3,3.28,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,67-72,8,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=351
 ,,,,,,,,,,3,3.28,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=352
 ,,,,,,,,,,3,3.05,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,3PT Jump Shot,,,67-72,25,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=353
@@ -302,10 +302,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.00,Sacramento Kings,free throw,,,,,,,2,,2,Salmons,1,,foul,made,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=360
 ,,,,,,,,,,3,2.37,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Fadeaway Jumper,,,69-73,19,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=362
 ,,,,,,,,,,3,2.23,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Driving Layup,,,69-75,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=363
-,,,,,,,,,,3,2.06,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=364
+,,,,,,,,,,3,2.06,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Cousins,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=364
 ,,,,,,,,,,3,1.49,Sacramento Kings,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,69-75,15,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=365
 ,,,,,,,,,,3,1.46,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=366
-,,,,,,,,,,3,1.37,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,69-75,6,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=367
+,,,,,,,,,,3,1.37,Sacramento Kings,shot,,,Gortat,,,,,,,Thomas,,,,missed,,Jump Shot,,,69-75,6,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=367
 ,,,,,,,,,,3,1.35,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=368
 ,,,,,,,,,,3,1.31,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,69-75,15,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=369
 ,,,,,,,,,,3,1.30,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,69-75,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=370
@@ -320,11 +320,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.36,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,71-77,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=385
 ,,,,,,,,,,3,0.25,Phoenix Suns,shot,Telfair,,,,,,,,,Morris,3,,,made,,3PT Jump Shot,,,74-77,26,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=386
 ,,,,,,,,,,3,0.01,Sacramento Kings,turnover,,,,,,,,,,,,,Shot Clock,,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=387
-,,,,,,,,,,3,0.00,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,74-77,22,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=388
+,,,,,,,,,,3,0.00,Phoenix Suns,shot,,,Salmons,,,,,,,Morris,,,,missed,,Jump Shot,,,74-77,22,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=388
 ,,,,,,,,,,3,0.00,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=390
 ,,,,,,,,,,4,11.44,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,74-77,4,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=393
 ,,,,,,,,,,4,11.43,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=394
-,,,,,,,,,,4,11.41,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Layup,,,74-77,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=395
+,,,,,,,,,,4,11.41,Phoenix Suns,shot,,,Johnson,,,,,,,Beasley,,,,missed,,Layup,,,74-77,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=395
 ,,,,,,,,,,4,11.41,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=396
 ,,,,,,,,,,4,11.41,Sacramento Kings,substitute,,,,Thornton,,Evans,,,,,,,,,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=397
 ,,,,,,,,,,4,11.38,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Jump Shot,,,74-77,19,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=398
@@ -336,7 +336,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.47,Sacramento Kings,shot,Thornton,,,,,,,,,Brooks,3,,,made,,3PT Jump Shot,,,76-82,25,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=404
 ,,,,,,,,,,4,10.22,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,3PT Jump Shot,,,76-82,24,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=405
 ,,,,,,,,,,4,10.22,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,76-82,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=406
-,,,,,,,,,,4,10.10,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,,,,,76-82,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=407
+,,,,,,,,,,4,10.10,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,Brown,,,,76-82,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=407
 ,,,,,,,,,,4,10.09,Sacramento Kings,foul,,,,,,,,,,Thornton,,,,,,Personal Take,,,76-82,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=408
 ,,,,,,,,,,4,9.57,Phoenix Suns,shot,Scola,,,,,,,,,Telfair,3,,,made,,3PT Jump Shot,,,79-82,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=409
 ,,,,,,,,,,4,9.43,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,79-82,21,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=410
@@ -352,11 +352,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.43,Sacramento Kings,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,83-84,16,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=425
 ,,,,,,,,,,4,8.41,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,83-84,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=426
 ,,,,,,,,,,4,8.28,Phoenix Suns,shot,Beasley,,,,,,,,,Scola,2,,,made,,Jump Shot,,,85-84,21,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=432
-,,,,,,,,,,4,8.07,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Lost Ball,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=434
+,,,,,,,,,,4,8.07,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Lost Ball,,Beasley,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=434
 ,,,,,,,,,,4,8.06,Sacramento Kings,foul,,,,,,,,,,Brooks,,,,,,Personal,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=435
-,,,,,,,,,,4,7.51,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,85-84,18,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=436
+,,,,,,,,,,4,7.51,Phoenix Suns,shot,,,Johnson,,,,,,,Beasley,,,,missed,,Jump Shot,,,85-84,18,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=436
 ,,,,,,,,,,4,7.50,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=439
-,,,,,,,,,,4,7.50,Sacramento Kings,turnover,,,,,,,,,,Brooks Poss,,,Lost Ball,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=445
+,,,,,,,,,,4,7.50,Sacramento Kings,turnover,,,,,,,,,,Brooks Poss,,,Lost Ball,,Morris,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=445
 ,,,,,,,,,,4,7.47,Phoenix Suns,shot,Morris,,,,,,,,,Beasley,2,,,made,,Slam Dunk,,,87-84,1,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=438
 ,,,,,,,,,,4,7.29,Phoenix Suns,foul,,,,,,,,,,Brown,,,,,,Shooting,,,87-84,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=440
 ,,,,,,,,,,4,7.29,Sacramento Kings,free throw,,,,,,,1,,2,Brooks,,,foul,missed,,,,,87-84,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=442
@@ -385,14 +385,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.12,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=476
 ,,,,,,,,,,4,4.56,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,94-85,18,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=478
 ,,,,,,,,,,4,4.55,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=479
-,,,,,,,,,,4,4.33,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Running Jump Shot,,,94-85,9,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=480
+,,,,,,,,,,4,4.33,Phoenix Suns,shot,,,Brooks,,,,,,,Beasley,,,,missed,,Running Jump Shot,,,94-85,9,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=480
 ,,,,,,,,,,4,4.33,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=481
 ,,,,,,,,,,4,4.33,Sacramento Kings,jumpball,,Beasley,,,Brooks,,,,,,,,,,,,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=482
 ,,,,,,,,,,4,4.29,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Shooting,,,94-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=483
 ,,,,,,,,,,4,4.29,Phoenix Suns,free throw,,,,,,,1,,2,Beasley,1,,foul,made,,,,,95-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=484
 ,,,,,,,,,,4,4.29,Sacramento Kings,substitute,,,,Thomas,,Brooks,,,,,,,,,,,,,95-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=486
 ,,,,,,,,,,4,4.29,Phoenix Suns,free throw,,,,,,,2,,2,Beasley,1,,foul,made,,,,,96-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=487
-,,,,,,,,,,4,4.17,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,,,,,96-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=490
+,,,,,,,,,,4,4.17,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,Scola,,,,96-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=490
 ,,,,,,,,,,4,4.03,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Traveling,,,,,,96-85,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=491
 ,,,,,,,,,,4,3.49,Sacramento Kings,shot,Thomas,,,,,,,,,Johnson,2,,,made,,Jump Shot,,,96-87,6,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=493
 ,,,,,,,,,,4,3.49,Sacramento Kings,foul,,,,,,,,,,,,,,,,,,,96-87,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=494
@@ -405,11 +405,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.24,Sacramento Kings,free throw,,,,,,,2,,2,Johnson,1,,foul,made,,,,,97-88,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=503
 ,,,,,,,,,,4,3.06,Phoenix Suns,shot,Morris,,,,,,,,,Beasley,2,,,made,,Jump Shot,,,99-88,16,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=505
 ,,,,,,,,,,4,2.45,Sacramento Kings,shot,Cousins,,,,,,,,,Evans,3,,,made,,3PT Jump Shot,,,99-91,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=506
-,,,,,,,,,,4,2.26,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,99-91,9,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=507
+,,,,,,,,,,4,2.26,Phoenix Suns,shot,,,Salmons,,,,,,,Beasley,,,,missed,,Jump Shot,,,99-91,9,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=507
 ,,,,,,,,,,4,2.26,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,99-91,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=508
 ,,,,,,,,,,4,2.26,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,99-91,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=509
 ,,,,,,,,,,4,2.15,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Jump Shot,,,101-91,21,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=515
-,,,,,,,,,,4,2.00,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,101-91,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=516
+,,,,,,,,,,4,2.00,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Dragic,,,,101-91,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=516
 ,,,,,,,,,,4,1.54,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Layup,,,101-91,3,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=517
 ,,,,,,,,,,4,1.54,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,101-91,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=518
 ,,,,,,,,,,4,1.54,Sacramento Kings,jumpball,,Morris,,,Cousins,,,,,,,,,,,,,,101-91,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=519
@@ -425,7 +425,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.50,Phoenix Suns,shot,,,,,,,,,,Scola,2,,,made,,Jump Shot,,,103-93,22,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=538
 ,,,,,,,,,,4,0.50,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Shooting,,,103-93,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=539
 ,,,,,,,,,,4,0.50,Phoenix Suns,free throw,,,,,,,1,,1,Scola,1,,foul,made,,,,,104-93,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=540
-,,,,,,,,,,4,0.41,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,,,,,104-93,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=542
+,,,,,,,,,,4,0.41,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,Brown,,,,104-93,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=542
 ,,,,,,,,,,4,0.26,Sacramento Kings,foul,,,,,,,,,,Thomas,,,,,,Shooting,,,104-93,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=543
 ,,,,,,,,,,4,0.26,Phoenix Suns,free throw,,,,,,,1,,2,Dragic,1,,foul,made,,,,,105-93,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=544
 ,,,,,,,,,,4,0.26,Phoenix Suns,substitute,,,,Zeller,,Scola,,,,,,,,,,,,,105-93,,http://stats.nba.com/cvp.html?GameID=0021200626&GameEventID=546

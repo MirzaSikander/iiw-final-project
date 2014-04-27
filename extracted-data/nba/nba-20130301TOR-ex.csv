@@ -7,7 +7,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.06,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=7
 ,,,,,,,,,,1,10.53,Indiana Pacers,shot,Hill,,,,,,,,,West,2,,,made,,Jump Shot,,,2-0,18,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=8
 ,,,,,,,,,,1,10.34,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Traveling,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=9
-,,,,,,,,,,1,10.12,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Driving Hook Shot,,,2-0,7,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=10
+,,,,,,,,,,1,10.12,Indiana Pacers,shot,,,Johnson,,,,,,,Hibbert,,,,missed,,Driving Hook Shot,,,2-0,7,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=10
 ,,,,,,,,,,1,10.10,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=11
 ,,,,,,,,,,1,10.08,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Layup,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=12
 ,,,,,,,,,,1,10.07,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=13
@@ -15,7 +15,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.48,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,2-0,18,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=16
 ,,,,,,,,,,1,9.47,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=17
 ,,,,,,,,,,1,9.30,Indiana Pacers,shot,,,,,,,,,,West,2,,,made,,Fadeaway Jumper,,,4-0,9,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=18
-,,,,,,,,,,1,9.10,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Driving Jump Shot,,,4-0,8,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=19
+,,,,,,,,,,1,9.10,Toronto Raptors,shot,,,Hibbert,,,,,,,Gay,,,,missed,,Driving Jump Shot,,,4-0,8,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=19
 ,,,,,,,,,,1,9.08,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=20
 ,,,,,,,,,,1,9.02,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=21
 ,,,,,,,,,,1,9.01,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,4-0,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=22
@@ -34,9 +34,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.26,Toronto Raptors,free throw,,,,,,,1,,2,Gay,1,,foul,made,,,,,4-7,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=37
 ,,,,,,,,,,1,7.26,Toronto Raptors,free throw,,,,,,,2,,2,Gay,1,,foul,made,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=39
 ,,,,,,,,,,1,7.09,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Turnaround Hook Shot,,,6-8,7,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=41
-,,,,,,,,,,1,6.51,Toronto Raptors,shot,,,,,,,,,,Valanciunas,,,,missed,,Dunk,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=43
+,,,,,,,,,,1,6.51,Toronto Raptors,shot,,,Hibbert,,,,,,,Valanciunas,,,,missed,,Dunk,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=43
 ,,,,,,,,,,1,6.49,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=44
-,,,,,,,,,,1,6.46,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=45
+,,,,,,,,,,1,6.46,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,Hill,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=45
 ,,,,,,,,,,1,6.46,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Personal,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=46
 ,,,,,,,,,,1,6.24,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,6-8,27,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=47
 ,,,,,,,,,,1,6.23,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=48
@@ -73,7 +73,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.45,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=90
 ,,,,,,,,,,1,3.36,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Fadeaway Bank Shot,,,9-11,17,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=91
 ,,,,,,,,,,1,3.35,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=92
-,,,,,,,,,,1,3.25,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Lost Ball,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=94
+,,,,,,,,,,1,3.25,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Lost Ball,,DeRozan,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=94
 ,,,,,,,,,,1,3.11,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Driving Layup,,,9-11,4,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=95
 ,,,,,,,,,,1,3.10,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=96
 ,,,,,,,,,,1,3.02,Indiana Pacers,shot,Hill,,,,,,,,,Granger,3,,,made,,3PT Jump Shot,,,12-11,26,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=97
@@ -89,7 +89,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.25,Indiana Pacers,free throw,,,,,,,2,,2,Granger,1,,foul,made,,,,,13-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=108
 ,,,,,,,,,,1,2.09,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Turnaround Fadeaway Shot,,,13-13,13,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=110
 ,,,,,,,,,,1,2.08,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,13-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=111
-,,,,,,,,,,1,1.55,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,13-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=112
+,,,,,,,,,,1,1.55,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Mahinmi,,,,13-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=112
 ,,,,,,,,,,1,1.42,Indiana Pacers,turnover,,,,,,,,,,West,,,Traveling,,,,,,13-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=113
 ,,,,,,,,,,1,1.42,Toronto Raptors,substitute,,,,Lucas III,,Lowry,,,,,,,,,,,,,13-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=114
 ,,,,,,,,,,1,1.32,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Shot,,,13-13,15,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=115
@@ -113,7 +113,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.22,Indiana Pacers,shot,George,,,,,,,,,Granger,2,,,made,,Pullup Jump Shot,,,19-13,17,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=137
 ,,,,,,,,,,2,11.03,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,19-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=138
 ,,,,,,,,,,2,11.03,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,19-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=139
-,,,,,,,,,,2,10.50,Indiana Pacers,turnover,,,,,,,,,,Granger,,,Lost Ball,,,,,,19-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=140
+,,,,,,,,,,2,10.50,Indiana Pacers,turnover,,,,,,,,,,Granger,,,Lost Ball,,Gay,,,,19-13,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=140
 ,,,,,,,,,,2,10.43,Toronto Raptors,shot,Gay,,,,,,,,,Lucas III,2,,,made,,Pullup Jump Shot,,,19-15,18,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=141
 ,,,,,,,,,,2,10.29,Indiana Pacers,shot,,,,,,,,,,Granger,,,,missed,,3PT Jump Shot,,,19-15,25,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=142
 ,,,,,,,,,,2,10.28,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=143
@@ -122,7 +122,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.12,Indiana Pacers,substitute,,,,Hibbert,,Mahinmi,,,,,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=146
 ,,,,,,,,,,2,10.12,Indiana Pacers,substitute,,,,Johnson,,George,,,,,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=147
 ,,,,,,,,,,2,10.03,Toronto Raptors,shot,Anderson,,,,,,,,,Lucas III,3,,,made,,3PT Jump Shot,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=148
-,,,,,,,,,,2,9.46,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,,,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=149
+,,,,,,,,,,2,9.46,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,Ross,,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=149
 ,,,,,,,,,,2,9.40,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,Driving Reverse Layup,,,19-18,2,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=150
 ,,,,,,,,,,2,9.38,Indiana Pacers,rebound,,,,,,,,,,Granger,,,,,,,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=151
 ,,,,,,,,,,2,9.18,Toronto Raptors,foul,,,,,,,,,,Anderson,,,,,,Shooting Block,,,19-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=153
@@ -135,14 +135,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.32,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=162
 ,,,,,,,,,,2,8.32,Indiana Pacers,foul,,,,,,,,,,Granger,,,,,,Loose ball,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=163
 ,,,,,,,,,,2,8.32,Toronto Raptors,substitute,,,,DeRozan,,Ross,,,,,,,,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=166
-,,,,,,,,,,2,8.14,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=168
+,,,,,,,,,,2,8.14,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,Granger,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=168
 ,,,,,,,,,,2,8.14,Toronto Raptors,foul,,,,,,,,,,Gay,,,,,,Personal,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=169
 ,,,,,,,,,,2,8.00,Indiana Pacers,shot,,,,,,,,,,Granger,,,,missed,,3PT Jump Shot,,,23-18,27,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=170
 ,,,,,,,,,,2,7.59,Toronto Raptors,rebound,,,,,,,,,,Lucas III,,,,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=171
 ,,,,,,,,,,2,7.58,Toronto Raptors,foul,,,,,,,,,,,,,,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=172
 ,,,,,,,,,,2,7.58,Toronto Raptors,turnover,,,,,,,,,,Bargnani,,,Foul,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=173
-,,,,,,,,,,2,7.41,Indiana Pacers,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=174
-,,,,,,,,,,2,7.33,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Bad Pass,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=175
+,,,,,,,,,,2,7.41,Indiana Pacers,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Anderson,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=174
+,,,,,,,,,,2,7.33,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Bad Pass,,Hansbrough,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=175
 ,,,,,,,,,,2,7.25,Toronto Raptors,foul,,,,,,,,,,Anderson,,,,,,Personal,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=176
 ,,,,,,,,,,2,7.25,Indiana Pacers,substitute,,,,Stephenson,,Granger,,,,,,,,,,,,,23-18,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=177
 ,,,,,,,,,,2,7.11,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Driving Finger Roll Layup,,,25-18,2,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=178
@@ -188,7 +188,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.48,Indiana Pacers,shot,West,,,,,,,,,Hill,3,,,made,,3PT Jump Shot,,,33-28,27,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=228
 ,,,,,,,,,,2,2.25,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,33-28,18,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=229
 ,,,,,,,,,,2,2.24,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=230
-,,,,,,,,,,2,2.07,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=231
+,,,,,,,,,,2,2.07,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,George,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=231
 ,,,,,,,,,,2,2.03,Indiana Pacers,shot,West,,,,,,,,,George,2,,,made,,Driving Layup,,,35-28,1,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=232
 ,,,,,,,,,,2,1.38,Indiana Pacers,foul,,,,,,,,,,Hill,,,,,,Personal,,,35-28,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=235
 ,,,,,,,,,,2,1.38,Toronto Raptors,free throw,,,,,,,1,,2,Bargnani,1,,foul,made,,,,,35-29,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=236
@@ -215,11 +215,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.43,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,39-34,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=269
 ,,,,,,,,,,3,11.28,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,39-34,16,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=270
 ,,,,,,,,,,3,11.27,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,39-34,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=271
-,,,,,,,,,,3,11.21,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Driving Jump Shot,,,39-34,4,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=272
+,,,,,,,,,,3,11.21,Indiana Pacers,shot,,,Lowry,,,,,,,George,,,,missed,,Driving Jump Shot,,,39-34,4,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=272
 ,,,,,,,,,,3,11.21,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,39-34,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=273
 ,,,,,,,,,,3,11.17,Indiana Pacers,foul,,,,,,,,,,,,,,,,,,,39-34,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=274
 ,,,,,,,,,,3,11.17,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Foul,,,,,,39-34,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=275
-,,,,,,,,,,3,11.06,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,39-34,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=276
+,,,,,,,,,,3,11.06,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Lost Ball,,West,,,,39-34,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=276
 ,,,,,,,,,,3,10.49,Indiana Pacers,shot,Hill,,,,,,,,,Hibbert,2,,,made,,Jump Hook Shot,,,41-34,3,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=277
 ,,,,,,,,,,3,10.30,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Driving Hook Shot,,,41-34,10,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=278
 ,,,,,,,,,,3,10.29,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=279
@@ -241,10 +241,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.19,Toronto Raptors,shot,,,,,,,,,,Lowry,2,,,made,,Pullup Jump Shot,,,45-41,12,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=299
 ,,,,,,,,,,3,8.07,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Personal,,,45-41,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=300
 ,,,,,,,,,,3,8.03,Indiana Pacers,shot,George,,,,,,,,,West,2,,,made,,Driving Hook Shot,,,47-41,8,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=302
-,,,,,,,,,,3,7.45,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=303
+,,,,,,,,,,3,7.45,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Hill,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=303
 ,,,,,,,,,,3,7.39,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,47-41,16,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=304
 ,,,,,,,,,,3,7.38,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=305
-,,,,,,,,,,3,7.22,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=306
+,,,,,,,,,,3,7.22,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Bargnani,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=306
 ,,,,,,,,,,3,7.22,Indiana Pacers,foul,,,,,,,,,,West,,,,,,Personal,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=307
 ,,,,,,,,,,3,7.22,Toronto Raptors,substitute,,,,Gray,,Valanciunas,,,,,,,,,,,,,47-41,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=308
 ,,,,,,,,,,3,7.00,Toronto Raptors,shot,Gay,,,,,,,,,Gray,2,,,made,,Running Reverse Layup,,,47-43,2,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=309
@@ -268,7 +268,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.17,Toronto Raptors,substitute,,,,Anderson,,Gay,,,,,,,,,,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=333
 ,,,,,,,,,,3,5.17,Indiana Pacers,free throw,,,,,,,2,,2,George,1,,foul,made,,,,,53-43,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=334
 ,,,,,,,,,,3,5.02,Toronto Raptors,shot,DeRozan,,,,,,,,,Anderson,2,,,made,,Driving Layup,,,53-45,4,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=336
-,,,,,,,,,,3,4.40,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,53-45,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=337
+,,,,,,,,,,3,4.40,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Lowry,,,,53-45,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=337
 ,,,,,,,,,,3,4.29,Toronto Raptors,shot,DeRozan,,,,,,,,,Bargnani,2,,,made,,Pullup Jump Shot,,,53-47,15,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=338
 ,,,,,,,,,,3,4.12,Indiana Pacers,foul,,,,,,,,,,,,,,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=339
 ,,,,,,,,,,3,4.12,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Foul,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=340
@@ -276,7 +276,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.00,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=342
 ,,,,,,,,,,3,3.51,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Driving Jump Shot,,,55-47,7,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=349
 ,,,,,,,,,,3,3.51,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Loose ball,,,55-47,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=350
-,,,,,,,,,,3,3.40,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Driving Jump Shot,,,55-47,8,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=351
+,,,,,,,,,,3,3.40,Toronto Raptors,shot,,,West,,,,,,,DeRozan,,,,missed,,Driving Jump Shot,,,55-47,8,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=351
 ,,,,,,,,,,3,3.38,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,55-47,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=352
 ,,,,,,,,,,3,3.32,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,55-47,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=353
 ,,,,,,,,,,3,3.32,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,55-47,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=354
@@ -290,7 +290,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.50,Toronto Raptors,shot,,,,,,,,,,Lucas III,2,,,made,,Jump Shot,,,55-49,19,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=363
 ,,,,,,,,,,3,2.27,Indiana Pacers,turnover,,,,,,,,,,George,,,Traveling,,,,,,55-49,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=365
 ,,,,,,,,,,3,2.27,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,55-49,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=366
-,,,,,,,,,,3,2.09,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Driving Layup,,,55-49,5,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=370
+,,,,,,,,,,3,2.09,Toronto Raptors,shot,,,Johnson,,,,,,,Anderson,,,,missed,,Driving Layup,,,55-49,5,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=370
 ,,,,,,,,,,3,2.07,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,55-49,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=371
 ,,,,,,,,,,3,1.59,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Driving Dunk,,,57-49,1,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=372
 ,,,,,,,,,,3,1.34,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Discontinue Dribble,,,,,,57-49,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=373
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.52,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Technical,,,72-53,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=395
 ,,,,,,,,,,4,9.52,Toronto Raptors,free throw,,,,,,,,,,Gay,1,,Technical,made,,,,,72-54,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=396
 ,,,,,,,,,,4,9.33,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Jump Shot,,,72-56,20,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=398
-,,,,,,,,,,4,9.17,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Driving Jump Shot,,,72-56,4,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=399
+,,,,,,,,,,4,9.17,Indiana Pacers,shot,,,Valanciunas,,,,,,,George,,,,missed,,Driving Jump Shot,,,72-56,4,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=399
 ,,,,,,,,,,4,9.17,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,72-56,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=400
 ,,,,,,,,,,4,9.15,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Jump Shot,,,72-56,19,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=402
 ,,,,,,,,,,4,9.13,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,72-56,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=403
@@ -351,7 +351,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.23,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,79-64,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=443
 ,,,,,,,,,,4,6.00,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Finger Roll Layup,,,79-64,1,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=445
 ,,,,,,,,,,4,5.59,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,79-64,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=446
-,,,,,,,,,,4,5.57,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Layup,,,79-64,3,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=447
+,,,,,,,,,,4,5.57,Indiana Pacers,shot,,,Anderson,,,,,,,Mahinmi,,,,missed,,Layup,,,79-64,3,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=447
 ,,,,,,,,,,4,5.54,Toronto Raptors,rebound,,,,,,,,,,Lucas III,,,,,,,,,79-64,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=448
 ,,,,,,,,,,4,5.46,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,79-64,26,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=449
 ,,,,,,,,,,4,5.45,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,79-64,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=450
@@ -359,7 +359,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.21,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,82-64,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=452
 ,,,,,,,,,,4,5.21,Toronto Raptors,substitute,,,,Acy,,Johnson,,,,,,,,,,,,,82-64,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=454
 ,,,,,,,,,,4,5.06,Toronto Raptors,shot,,,,,,,,,,Anderson,2,,,made,,Fadeaway Jumper,,,82-66,11,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=456
-,,,,,,,,,,4,4.45,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Bad Pass,,,,,,82-66,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=457
+,,,,,,,,,,4,4.45,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Bad Pass,,Anderson,,,,82-66,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=457
 ,,,,,,,,,,4,4.44,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Personal,,,82-66,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=458
 ,,,,,,,,,,4,4.44,Toronto Raptors,free throw,,,,,,,1,,2,Anderson,1,,foul,made,,,,,82-67,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=459
 ,,,,,,,,,,4,4.44,Toronto Raptors,free throw,,,,,,,2,,2,Anderson,1,,foul,made,,,,,82-68,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=461
@@ -370,9 +370,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.16,Indiana Pacers,foul,,,,,,,,,,Hill,,,,,,Personal,,,83-68,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=468
 ,,,,,,,,,,4,4.16,Toronto Raptors,free throw,,,,,,,1,,2,Acy,1,,foul,made,,,,,83-69,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=469
 ,,,,,,,,,,4,4.16,Toronto Raptors,free throw,,,,,,,2,,2,Acy,1,,foul,made,,,,,83-70,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=472
-,,,,,,,,,,4,3.52,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,83-70,5,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=474
+,,,,,,,,,,4,3.52,Indiana Pacers,shot,,,Bargnani,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,83-70,5,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=474
 ,,,,,,,,,,4,3.51,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,83-70,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=475
-,,,,,,,,,,4,3.51,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Layup,,,83-70,2,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=476
+,,,,,,,,,,4,3.51,Indiana Pacers,shot,,,Acy,,,,,,,Mahinmi,,,,missed,,Layup,,,83-70,2,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=476
 ,,,,,,,,,,4,3.51,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,83-70,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=477
 ,,,,,,,,,,4,3.51,Indiana Pacers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,83-70,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=478
 ,,,,,,,,,,4,3.31,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Floating Jump Shot,,,83-70,5,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=479
@@ -400,9 +400,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.31,Indiana Pacers,substitute,,,,Hansbrough,,Hibbert,,,,,,,,,,,,,89-75,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=507
 ,,,,,,,,,,4,1.31,Indiana Pacers,substitute,,,,Green,,Stephenson,,,,,,,,,,,,,89-75,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=508
 ,,,,,,,,,,4,1.31,Indiana Pacers,substitute,,,,Young,,Hill,,,,,,,,,,,,,89-75,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=509
-,,,,,,,,,,4,1.21,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Bad Pass,,,,,,89-75,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=510
+,,,,,,,,,,4,1.21,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Bad Pass,,III,,,,89-75,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=510
 ,,,,,,,,,,4,1.16,Toronto Raptors,shot,Lucas III,,,,,,,,,Anderson,2,,,made,,Driving Layup,,,89-77,3,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=511
-,,,,,,,,,,4,1.01,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Lost Ball,,,,,,89-77,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=512
+,,,,,,,,,,4,1.01,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Lost Ball,,Acy,,,,89-77,,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=512
 ,,,,,,,,,,4,0.59,Toronto Raptors,shot,,,,,,,,,,Acy,2,,,made,,Driving Slam Dunk,,,89-79,1,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=513
 ,,,,,,,,,,4,0.39,Indiana Pacers,shot,Augustin,,,,,,,,,Pendergraph,2,,,made,,Slam Dunk,,,91-79,2,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=515
 ,,,,,,,,,,4,0.32,Toronto Raptors,shot,,,,,,,,,,Lucas III,,,,missed,,Jump Shot,,,91-79,20,http://stats.nba.com/cvp.html?GameID=0021200864&GameEventID=516

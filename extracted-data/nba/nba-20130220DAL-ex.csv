@@ -21,7 +21,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.42,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Tip Shot,,,2-5,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=23
 ,,,,,,,,,,1,9.40,Dallas Mavericks,rebound,,,,,,,,,,James,,,,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=25
 ,,,,,,,,,,1,9.40,Dallas Mavericks,shot,,,,,,,,,,James,2,,,made,,Putback Layup,,,2-7,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=26
-,,,,,,,,,,1,9.18,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Bad Pass,,,,,,2-7,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=27
+,,,,,,,,,,1,9.18,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Bad Pass,,Marion,,,,2-7,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=27
 ,,,,,,,,,,1,9.13,Dallas Mavericks,shot,Collison,,,,,,,,,Mayo,2,,,made,,Layup,,,2-9,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=28
 ,,,,,,,,,,1,9.07,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,2-9,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=29
 ,,,,,,,,,,1,8.59,Orlando Magic,shot,Nicholson,,,,,,,,,Nelson,3,,,made,,3PT Jump Shot,,,5-9,24,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=32
@@ -44,7 +44,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.31,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Pullup Jump Shot,,,12-17,19,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=52
 ,,,,,,,,,,1,6.14,Orlando Magic,shot,Nelson,,,,,,,,,Nicholson,2,,,made,,Jump Shot,,,14-17,21,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=53
 ,,,,,,,,,,1,6.08,Dallas Mavericks,shot,Collison,,,,,,,,,Mayo,3,,,made,,3PT Jump Shot,,,14-20,24,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=54
-,,,,,,,,,,1,5.51,Orlando Magic,turnover,,,,,,,,,,Harkless,,,Bad Pass,,,,,,14-20,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=55
+,,,,,,,,,,1,5.51,Orlando Magic,turnover,,,,,,,,,,Harkless,,,Bad Pass,,Collison,,,,14-20,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=55
 ,,,,,,,,,,1,5.48,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Running Dunk,,,14-22,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=56
 ,,,,,,,,,,1,5.33,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Bad Pass,,,,,,14-22,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=57
 ,,,,,,,,,,1,5.33,Orlando Magic,substitute,,,,Redick,,Harkless,,,,,,,,,,,,,14-22,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=58
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.46,Dallas Mavericks,shot,Nowitzki,,,,,,,,,James,2,,,made,,Reverse Layup,,,28-39,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=114
 ,,,,,,,,,,1,0.32,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,Step Back Jump Shot,,,28-39,22,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=115
 ,,,,,,,,,,1,0.31,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,28-39,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=116
-,,,,,,,,,,1,0.12,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,Driving Jump Shot,,,28-39,5,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=117
+,,,,,,,,,,1,0.12,Dallas Mavericks,shot,,,Moore,,,,,,,James,,,,missed,,Driving Jump Shot,,,28-39,5,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=117
 ,,,,,,,,,,1,0.10,Orlando Magic,rebound,,,,,,,,,,Ayon,,,,,,,,,28-39,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=118
 ,,,,,,,,,,1,0.07,Orlando Magic,shot,Redick,,,,,,,,,Harkless,2,,,made,,Slam Dunk,,,30-39,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=119
 ,,,,,,,,,,1,0.01,Orlando Magic,substitute,,,,Vucevic,,Harkless,,,,,,,,,,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=121
@@ -129,7 +129,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.24,Dallas Mavericks,substitute,,,,Wright,,Brand,,,,,,,,,,,,,37-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=155
 ,,,,,,,,,,2,9.08,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Jump Shot,,,37-51,16,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=156
 ,,,,,,,,,,2,9.07,Orlando Magic,rebound,,,,,,,,,,Ayon,,,,,,,,,37-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=157
-,,,,,,,,,,2,8.59,Orlando Magic,shot,,,,,,,,,,Vucevic,,,,missed,,Hook Shot,,,37-51,4,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=158
+,,,,,,,,,,2,8.59,Orlando Magic,shot,,,Nowitzki,,,,,,,Vucevic,,,,missed,,Hook Shot,,,37-51,4,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=158
 ,,,,,,,,,,2,8.57,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,37-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=159
 ,,,,,,,,,,2,8.50,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Jump Shot,,,37-51,16,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=160
 ,,,,,,,,,,2,8.49,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,37-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=161
@@ -140,7 +140,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.37,Orlando Magic,substitute,,,,Nicholson,,Ayon,,,,,,,,,,,,,37-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=167
 ,,,,,,,,,,2,8.37,Orlando Magic,free throw,,,,,,,1,,2,Redick,1,,foul,made,,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=168
 ,,,,,,,,,,2,8.37,Orlando Magic,free throw,,,,,,,2,,2,Redick,1,,foul,made,,,,,39-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=170
-,,,,,,,,,,2,8.26,Dallas Mavericks,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,39-51,5,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=172
+,,,,,,,,,,2,8.26,Dallas Mavericks,shot,,,Vucevic,,,,,,,Wright,,,,missed,,Jump Shot,,,39-51,5,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=172
 ,,,,,,,,,,2,8.24,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,39-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=173
 ,,,,,,,,,,2,8.21,Dallas Mavericks,shot,,,,,,,,,,Wright,,,,missed,,Hook Shot,,,39-51,7,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=174
 ,,,,,,,,,,2,8.20,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,39-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=175
@@ -154,7 +154,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.38,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,40-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=185
 ,,,,,,,,,,2,7.30,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,3PT Jump Shot,,,40-51,24,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=186
 ,,,,,,,,,,2,7.29,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,40-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=187
-,,,,,,,,,,2,7.18,Orlando Magic,shot,,,,,,,,,,Redick,,,,missed,,Driving Reverse Layup,,,40-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=188
+,,,,,,,,,,2,7.18,Orlando Magic,shot,,,Marion,,,,,,,Redick,,,,missed,,Driving Reverse Layup,,,40-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=188
 ,,,,,,,,,,2,7.15,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,40-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=189
 ,,,,,,,,,,2,7.14,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,3PT Jump Shot,,,40-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=190
 ,,,,,,,,,,2,7.11,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,40-51,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=191
@@ -171,7 +171,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.12,Orlando Magic,shot,,,,,,,,,,Nicholson,2,,,made,,Turnaround Hook Shot,,,42-53,8,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=203
 ,,,,,,,,,,2,5.54,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Turnaround Fadeaway Shot,,,42-53,14,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=204
 ,,,,,,,,,,2,5.53,Orlando Magic,rebound,,,,,,,,,,Jones,,,,,,,,,42-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=205
-,,,,,,,,,,2,5.35,Orlando Magic,shot,,,,,,,,,,Jones,,,,missed,,Reverse Layup,,,42-53,2,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=206
+,,,,,,,,,,2,5.35,Orlando Magic,shot,,,Marion,,,,,,,Jones,,,,missed,,Reverse Layup,,,42-53,2,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=206
 ,,,,,,,,,,2,5.33,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,42-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=207
 ,,,,,,,,,,2,5.27,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,42-53,24,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=208
 ,,,,,,,,,,2,5.26,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,42-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=209
@@ -188,7 +188,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.22,Orlando Magic,free throw,,,,,,,1,,2,Nicholson,1,,foul,made,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=220
 ,,,,,,,,,,2,4.22,Orlando Magic,free throw,,,,,,,2,,2,Nicholson,,,foul,missed,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=222
 ,,,,,,,,,,2,4.21,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=224
-,,,,,,,,,,2,4.06,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Layup,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=225
+,,,,,,,,,,2,4.06,Dallas Mavericks,shot,,,Vucevic,,,,,,,Brand,,,,missed,,Layup,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=225
 ,,,,,,,,,,2,4.04,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=226
 ,,,,,,,,,,2,3.56,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,Driving Reverse Layup,,,45-53,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=227
 ,,,,,,,,,,2,3.54,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=228
@@ -203,15 +203,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.21,Dallas Mavericks,free throw,,,,,,,2,,2,Brand,1,,foul,made,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=240
 ,,,,,,,,,,2,2.58,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Floating Jump Shot,,,47-55,9,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=242
 ,,,,,,,,,,2,2.57,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=243
-,,,,,,,,,,2,2.56,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Putback Layup,,,47-55,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=244
+,,,,,,,,,,2,2.56,Orlando Magic,shot,,,Brand,,,,,,,Harkless,,,,missed,,Putback Layup,,,47-55,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=244
 ,,,,,,,,,,2,2.54,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=245
 ,,,,,,,,,,2,2.53,Dallas Mavericks,turnover,,,,,,,,,,Collison Out of Bounds,,,Lost Ball,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=246
 ,,,,,,,,,,2,2.29,Orlando Magic,shot,Nelson,,,,,,,,,Vucevic,2,,,made,,Fadeaway Jumper,,,49-55,22,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=247
 ,,,,,,,,,,2,2.15,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,49-55,24,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=248
 ,,,,,,,,,,2,2.14,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=249
 ,,,,,,,,,,2,2.09,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=251
-,,,,,,,,,,2,2.03,Orlando Magic,turnover,,,,,,,,,,Nicholson,,,Lost Ball,,,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=254
-,,,,,,,,,,2,1.59,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=255
+,,,,,,,,,,2,2.03,Orlando Magic,turnover,,,,,,,,,,Nicholson,,,Lost Ball,,Nowitzki,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=254
+,,,,,,,,,,2,1.59,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,Nelson,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=255
 ,,,,,,,,,,2,1.53,Orlando Magic,shot,Afflalo,,,,,,,,,Harkless,2,,,made,,Reverse Layup,,,51-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=256
 ,,,,,,,,,,2,1.37,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,51-55,16,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=257
 ,,,,,,,,,,2,1.36,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=258
@@ -240,7 +240,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,Running Jump Shot,,,53-59,21,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=288
 ,,,,,,,,,,2,0.00,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,53-59,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=289
 ,,,,,,,,,,3,11.46,Orlando Magic,shot,Nelson,,,,,,,,,Nicholson,2,,,made,,Jump Shot,,,55-59,21,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=294
-,,,,,,,,,,3,11.30,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,Layup,,,55-59,3,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=295
+,,,,,,,,,,3,11.30,Dallas Mavericks,shot,,,Harkless,,,,,,,James,,,,missed,,Layup,,,55-59,3,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=295
 ,,,,,,,,,,3,11.30,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,55-59,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=297
 ,,,,,,,,,,3,11.30,Dallas Mavericks,jumpball,,Harkless,,,James,,,,,,,,,,,,,,55-59,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=296
 ,,,,,,,,,,3,11.21,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,55-59,14,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=298
@@ -248,11 +248,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.19,Dallas Mavericks,shot,,,,,,,,,,James,2,,,made,,Putback Layup,,,55-61,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=300
 ,,,,,,,,,,3,10.58,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Pullup Jump Shot,,,55-61,13,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=302
 ,,,,,,,,,,3,10.57,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=303
-,,,,,,,,,,3,10.47,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Bad Pass,,,,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=304
+,,,,,,,,,,3,10.47,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Bad Pass,,Nelson,,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=304
 ,,,,,,,,,,3,10.36,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Driving Hook Shot,,,55-61,7,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=305
 ,,,,,,,,,,3,10.35,Orlando Magic,rebound,,,,,,,,,,Nicholson,,,,,,,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=306
 ,,,,,,,,,,3,10.32,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Traveling,,,,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=307
-,,,,,,,,,,3,10.26,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=308
+,,,,,,,,,,3,10.26,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Harkless,,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=308
 ,,,,,,,,,,3,10.22,Orlando Magic,shot,Nelson,,,,,,,,,Harkless,2,,,made,,Layup,,,57-61,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=309
 ,,,,,,,,,,3,9.54,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,57-61,24,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=310
 ,,,,,,,,,,3,9.53,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=311
@@ -299,7 +299,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.21,Dallas Mavericks,shot,Collison,,,,,,,,,Marion,2,,,made,,Driving Layup,,,73-71,2,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=356
 ,,,,,,,,,,3,4.05,Orlando Magic,shot,Redick,,,,,,,,,Harkless,2,,,made,,Slam Dunk,,,75-71,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=358
 ,,,,,,,,,,3,3.46,Dallas Mavericks,shot,Collison,,,,,,,,,Marion,2,,,made,,Turnaround Jump Shot,,,75-73,7,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=359
-,,,,,,,,,,3,3.27,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Jump Shot,,,75-73,3,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=360
+,,,,,,,,,,3,3.27,Orlando Magic,shot,,,Brand,,,,,,,Harkless,,,,missed,,Jump Shot,,,75-73,3,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=360
 ,,,,,,,,,,3,3.25,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,75-73,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=361
 ,,,,,,,,,,3,3.10,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Jump Shot,,,75-73,15,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=362
 ,,,,,,,,,,3,3.09,Orlando Magic,rebound,,,,,,,,,,Nicholson,,,,,,,,,75-73,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=363
@@ -315,8 +315,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.18,Orlando Magic,shot,Afflalo,,,,,,,,,Ayon,2,,,made,,Reverse Layup,,,79-73,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=377
 ,,,,,,,,,,3,2.04,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,3PT Jump Shot,,,79-73,24,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=378
 ,,,,,,,,,,3,2.02,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=379
-,,,,,,,,,,3,1.56,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=380
-,,,,,,,,,,3,1.52,Orlando Magic,shot,,,,,,,,,,Redick,,,,missed,,Driving Layup,,,79-73,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=382
+,,,,,,,,,,3,1.56,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,Nelson,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=380
+,,,,,,,,,,3,1.52,Orlando Magic,shot,,,Mayo,,,,,,,Redick,,,,missed,,Driving Layup,,,79-73,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=382
 ,,,,,,,,,,3,1.51,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=383
 ,,,,,,,,,,3,1.47,Dallas Mavericks,shot,Mayo,,,,,,,,,Carter,2,,,made,,Alley Oop Dunk,,,79-75,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=384
 ,,,,,,,,,,3,1.39,Orlando Magic,shot,,,,,,,,,,Redick,,,,missed,,3PT Jump Shot,,,79-75,24,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=385
@@ -375,11 +375,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.37,Orlando Magic,shot,Afflalo,,,,,,,,,Vucevic,2,,,made,,Turnaround Hook Shot,,,88-90,8,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=446
 ,,,,,,,,,,4,7.19,Orlando Magic,foul,,,,,,,,,,Redick,,,,,,Personal,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=447
 ,,,,,,,,,,4,7.14,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Pullup Jump Shot,,,88-92,15,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=448
-,,,,,,,,,,4,6.53,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Jump Shot,,,88-92,5,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=449
+,,,,,,,,,,4,6.53,Orlando Magic,shot,,,Wright,,,,,,,Nicholson,,,,missed,,Jump Shot,,,88-92,5,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=449
 ,,,,,,,,,,4,6.51,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,88-92,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=450
 ,,,,,,,,,,4,6.42,Dallas Mavericks,shot,James,,,,,,,,,Wright,2,,,made,,Slam Dunk,,,88-94,1,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=451
-,,,,,,,,,,4,6.25,Orlando Magic,turnover,,,,,,,,,,Redick,,,Lost Ball,,,,,,88-94,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=452
-,,,,,,,,,,4,6.21,Dallas Mavericks,turnover,,,,,,,,,,Wright,,,Lost Ball,,,,,,88-94,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=453
+,,,,,,,,,,4,6.25,Orlando Magic,turnover,,,,,,,,,,Redick,,,Lost Ball,,James,,,,88-94,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=452
+,,,,,,,,,,4,6.21,Dallas Mavericks,turnover,,,,,,,,,,Wright,,,Lost Ball,,Nelson,,,,88-94,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=453
 ,,,,,,,,,,4,6.07,Orlando Magic,shot,Afflalo,,,,,,,,,Vucevic,2,,,made,,Jump Shot,,,90-94,19,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=455
 ,,,,,,,,,,4,6.01,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,90-94,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=456
 ,,,,,,,,,,4,6.01,Dallas Mavericks,substitute,,,,Marion,,Nowitzki,,,,,,,,,,,,,90-94,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=458
@@ -396,7 +396,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.56,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Personal,,,90-97,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=469
 ,,,,,,,,,,4,4.49,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,90-97,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=471
 ,,,,,,,,,,4,4.49,Orlando Magic,substitute,,,,Smith,,Nelson,,,,,,,,,,,,,90-97,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=473
-,,,,,,,,,,4,4.49,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Lost Ball,,,,,,90-97,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=475
+,,,,,,,,,,4,4.49,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Lost Ball,,Collison,,,,90-97,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=475
 ,,,,,,,,,,4,4.49,Dallas Mavericks,jumpball,,Smith,,,Collison,,,,,,,,,,,,,,90-97,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=474
 ,,,,,,,,,,4,4.33,Dallas Mavericks,shot,Carter,,,,,,,,,Wright,2,,,made,,Driving Jump Shot,,,90-99,5,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=476
 ,,,,,,,,,,4,4.12,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Step Back Jump Shot,,,90-99,13,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=477
@@ -411,13 +411,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.05,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=489
 ,,,,,,,,,,4,2.56,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Jump Shot,,,90-104,7,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=490
 ,,,,,,,,,,4,2.55,Orlando Magic,rebound,,,,,,,,,,Nicholson,,,,,,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=491
-,,,,,,,,,,4,2.53,Orlando Magic,turnover,,,,,,,,,,Nicholson,,,Bad Pass,,,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=492
+,,,,,,,,,,4,2.53,Orlando Magic,turnover,,,,,,,,,,Nicholson,,,Bad Pass,,Carter,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=492
 ,,,,,,,,,,4,2.50,Dallas Mavericks,shot,Carter,,,,,,,,,Marion,2,,,made,,Layup,,,90-106,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=493
 ,,,,,,,,,,4,2.37,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Turnaround Hook Shot,,,90-106,10,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=494
 ,,,,,,,,,,4,2.36,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,90-106,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=495
 ,,,,,,,,,,4,2.19,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,90-106,25,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=496
 ,,,,,,,,,,4,2.18,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,90-106,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=497
-,,,,,,,,,,4,2.12,Orlando Magic,shot,,,,,,,,,,Vucevic,,,,missed,,Driving Jump Shot,,,90-106,4,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=498
+,,,,,,,,,,4,2.12,Orlando Magic,shot,,,Mayo,,,,,,,Vucevic,,,,missed,,Driving Jump Shot,,,90-106,4,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=498
 ,,,,,,,,,,4,2.10,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,90-106,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=499
 ,,,,,,,,,,4,2.01,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,90-106,25,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=500
 ,,,,,,,,,,4,2.00,Orlando Magic,rebound,,,,,,,,,,Nicholson,,,,,,,,,90-106,,http://stats.nba.com/cvp.html?GameID=0021200806&GameEventID=501

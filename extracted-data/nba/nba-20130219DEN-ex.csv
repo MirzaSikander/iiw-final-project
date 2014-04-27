@@ -43,7 +43,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.27,Boston Celtics,shot,Bass,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,14-9,20,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=46
 ,,,,,,,,,,1,6.01,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Jump Shot,,,14-9,20,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=47
 ,,,,,,,,,,1,5.59,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=48
-,,,,,,,,,,1,5.53,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=49
+,,,,,,,,,,1,5.53,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,Iguodala,,,,14-9,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=49
 ,,,,,,,,,,1,5.48,Denver Nuggets,shot,Iguodala,,,,,,,,,Gallinari,2,,,made,,Dunk,,,14-11,1,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=50
 ,,,,,,,,,,1,5.42,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=51
 ,,,,,,,,,,1,5.42,Boston Celtics,substitute,,,,Collins,,Garnett,,,,,,,,,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=53
@@ -65,7 +65,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.09,Denver Nuggets,substitute,,,,McGee,,Koufos,,,,,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=70
 ,,,,,,,,,,1,3.51,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,Jump Shot,,,18-14,16,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=71
 ,,,,,,,,,,1,3.49,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=72
-,,,,,,,,,,1,3.29,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Turnaround Jump Shot,,,18-14,7,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=73
+,,,,,,,,,,1,3.29,Boston Celtics,shot,,,Iguodala,,,,,,,Bass,,,,missed,,Turnaround Jump Shot,,,18-14,7,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=73
 ,,,,,,,,,,1,3.28,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=74
 ,,,,,,,,,,1,3.10,Denver Nuggets,shot,,,,,,,,,,Chandler,,,,missed,,Jump Shot,,,18-14,22,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=75
 ,,,,,,,,,,1,3.08,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=76
@@ -93,7 +93,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.27,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,22-19,17,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=100
 ,,,,,,,,,,1,0.25,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,22-19,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=101
 ,,,,,,,,,,1,0.05,Denver Nuggets,shot,Gallinari,,,,,,,,,McGee,2,,,made,,Dunk,,,22-21,1,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=102
-,,,,,,,,,,1,0.01,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,22-21,25,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=103
+,,,,,,,,,,1,0.01,Boston Celtics,shot,,,Miller,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,22-21,25,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=103
 ,,,,,,,,,,1,0.00,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=104
 ,,,,,,,,,,2,11.43,Denver Nuggets,shot,,,,,,,,,,Chandler,,,,missed,,Driving Layup,,,22-21,1,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=108
 ,,,,,,,,,,2,11.42,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=109
@@ -113,7 +113,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.38,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,24-25,27,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=124
 ,,,,,,,,,,2,9.36,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=125
 ,,,,,,,,,,2,9.12,Boston Celtics,shot,Terry,,,,,,,,,Lee,3,,,made,,3PT Jump Shot,,,27-25,25,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=126
-,,,,,,,,,,2,8.53,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=127
+,,,,,,,,,,2,8.53,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,Lee,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=127
 ,,,,,,,,,,2,8.45,Boston Celtics,shot,Green,,,,,,,,,Wilcox,2,,,made,,Alley Oop Dunk,,,29-25,1,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=128
 ,,,,,,,,,,2,8.43,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,29-25,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=129
 ,,,,,,,,,,2,8.43,Denver Nuggets,substitute,,,,Lawson,,Chandler,,,,,,,,,,,,,29-25,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=132
@@ -134,7 +134,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.08,Denver Nuggets,substitute,,,,Gallinari,,Brewer,,,,,,,,,,,,,35-27,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=147
 ,,,,,,,,,,2,7.08,Boston Celtics,free throw,,,,,,,1,,1,Lee,1,,foul,made,,,,,36-27,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=148
 ,,,,,,,,,,2,6.54,Denver Nuggets,shot,Miller,,,,,,,,,Koufos,2,,,made,,Dunk,,,36-29,2,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=150
-,,,,,,,,,,2,6.40,Boston Celtics,turnover,,,,,,,,,,Green,,,Lost Ball,,,,,,36-29,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=151
+,,,,,,,,,,2,6.40,Boston Celtics,turnover,,,,,,,,,,Green,,,Lost Ball,,Lawson,,,,36-29,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=151
 ,,,,,,,,,,2,6.35,Denver Nuggets,shot,Lawson,,,,,,,,,Miller,2,,,made,,Layup,,,36-31,1,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=152
 ,,,,,,,,,,2,6.14,Boston Celtics,turnover,,,,,,,,,,Lee,,,Step Out of Bounds,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=153
 ,,,,,,,,,,2,6.14,Boston Celtics,substitute,,,,Bass,,Wilcox,,,,,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=154
@@ -143,7 +143,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.21,Denver Nuggets,shot,Lawson,,,,,,,,,Miller,3,,,made,,3PT Jump Shot,,,39-37,24,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=157
 ,,,,,,,,,,2,5.02,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Driving Layup,,,39-37,2,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=158
 ,,,,,,,,,,2,5.01,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=159
-,,,,,,,,,,2,4.56,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=160
+,,,,,,,,,,2,4.56,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Garnett,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=160
 ,,,,,,,,,,2,4.49,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,39-37,25,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=161
 ,,,,,,,,,,2,4.48,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=162
 ,,,,,,,,,,2,4.42,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Driving Layup,,,39-39,2,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=163
@@ -163,9 +163,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.05,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,44-43,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=181
 ,,,,,,,,,,2,3.00,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,44-43,26,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=182
 ,,,,,,,,,,2,2.59,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,44-43,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=183
-,,,,,,,,,,2,2.51,Denver Nuggets,turnover,,,,,,,,,,Koufos Poss,,,Lost Ball,,,,,,44-43,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=184
+,,,,,,,,,,2,2.51,Denver Nuggets,turnover,,,,,,,,,,Koufos Poss,,,Lost Ball,,Bass,,,,44-43,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=184
 ,,,,,,,,,,2,2.34,Boston Celtics,shot,,,,,,,,,,Garnett,2,,,made,,Turnaround Jump Shot,,,46-43,8,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=185
-,,,,,,,,,,2,2.13,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=186
+,,,,,,,,,,2,2.13,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Lee,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=186
 ,,,,,,,,,,2,2.08,Boston Celtics,shot,Pierce,,,,,,,,,Bass,2,,,made,,Dunk,,,48-43,1,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=187
 ,,,,,,,,,,2,1.40,Boston Celtics,foul,,,,,,,,,,Lee,,,,,,Shooting,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=188
 ,,,,,,,,,,2,1.40,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=191
@@ -205,7 +205,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.30,Denver Nuggets,substitute,,,,Iguodala,,Brewer,,,,,,,,,,,,,56-54,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=236
 ,,,,,,,,,,3,9.30,Denver Nuggets,free throw,,,,,,,2,,2,Gallinari,1,,foul,made,,,,,56-55,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=237
 ,,,,,,,,,,3,9.26,Denver Nuggets,foul,,,,,,,,,,Koufos,,,,,,Personal,,,56-55,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=239
-,,,,,,,,,,3,9.07,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Lost Ball,,,,,,56-55,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=241
+,,,,,,,,,,3,9.07,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Lost Ball,,Faried,,,,56-55,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=241
 ,,,,,,,,,,3,8.51,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,3PT Jump Shot,,,56-55,25,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=242
 ,,,,,,,,,,3,8.50,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,56-55,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=243
 ,,,,,,,,,,3,8.40,Boston Celtics,shot,Garnett,,,,,,,,,Bass,2,,,made,,Jump Shot,,,58-55,17,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=244
@@ -220,7 +220,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.51,Denver Nuggets,shot,,,,,,,,,,Koufos,2,,,made,,Putback Layup,,,60-57,3,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=252
 ,,,,,,,,,,3,7.37,Denver Nuggets,foul,,,,,,,,,,Gallinari,,,,,,Personal,,,60-57,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=254
 ,,,,,,,,,,3,7.37,Boston Celtics,substitute,,,,Collins,,Garnett,,,,,,,,,,,,,60-57,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=255
-,,,,,,,,,,3,7.27,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,60-57,15,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=256
+,,,,,,,,,,3,7.27,Boston Celtics,shot,,,Faried,,,,,,,Pierce,,,,missed,,Jump Shot,,,60-57,15,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=256
 ,,,,,,,,,,3,7.23,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,60-57,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=257
 ,,,,,,,,,,3,7.20,Denver Nuggets,shot,Iguodala,,,,,,,,,Lawson,2,,,made,,Layup,,,60-59,2,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=258
 ,,,,,,,,,,3,7.05,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,60-59,19,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=259
@@ -283,7 +283,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.51,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=329
 ,,,,,,,,,,3,2.51,Boston Celtics,substitute,,,,Wilcox,,Bass,,,,,,,,,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=331
 ,,,,,,,,,,3,2.51,Denver Nuggets,substitute,,,,Miller,,Lawson,,,,,,,,,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=332
-,,,,,,,,,,3,2.35,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=333
+,,,,,,,,,,3,2.35,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Green,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=333
 ,,,,,,,,,,3,2.11,Boston Celtics,turnover,,,,,,,,,,,,,Shot Clock,,,,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=334
 ,,,,,,,,,,3,1.48,Boston Celtics,foul,,,,,,,,,,Lee,,,,,,Personal,,,67-73,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=335
 ,,,,,,,,,,3,1.48,Denver Nuggets,free throw,,,,,,,1,,2,Miller,1,,foul,made,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=336
@@ -315,14 +315,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.41,Denver Nuggets,foul,,,,,,,,,,McGee,,,,,,Loose ball,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=370
 ,,,,,,,,,,4,10.24,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Turnaround Jump Shot,,,72-78,16,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=371
 ,,,,,,,,,,4,10.23,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=372
-,,,,,,,,,,4,9.59,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,72-78,7,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=373
+,,,,,,,,,,4,9.59,Denver Nuggets,shot,,,Green,,,,,,,Lawson,,,,missed,,Jump Shot,,,72-78,7,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=373
 ,,,,,,,,,,4,9.57,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=374
 ,,,,,,,,,,4,9.55,Denver Nuggets,foul,,,,,,,,,,Chandler,,,,,,Shooting,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=375
 ,,,,,,,,,,4,9.55,Boston Celtics,free throw,,,,,,,1,,2,Pierce,1,,foul,made,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=376
 ,,,,,,,,,,4,9.55,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=378
 ,,,,,,,,,,4,9.38,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,3PT Jump Shot,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=380
 ,,,,,,,,,,4,9.37,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=381
-,,,,,,,,,,4,9.16,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=382
+,,,,,,,,,,4,9.16,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Brewer,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=382
 ,,,,,,,,,,4,9.13,Boston Celtics,foul,,,,,,,,,,Bradley,,,,,,Shooting,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=383
 ,,,,,,,,,,4,9.13,Denver Nuggets,free throw,,,,,,,1,,2,Brewer,1,,foul,made,,,,,74-79,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=384
 ,,,,,,,,,,4,9.13,Denver Nuggets,free throw,,,,,,,2,,2,Brewer,1,,foul,made,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=386
@@ -342,8 +342,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.31,Denver Nuggets,free throw,,,,,,,1,,2,Gallinari,,,foul,missed,,,,,79-82,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=403
 ,,,,,,,,,,4,7.31,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,79-82,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=404
 ,,,,,,,,,,4,7.31,Denver Nuggets,free throw,,,,,,,2,,2,Gallinari,1,,foul,made,,,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=405
-,,,,,,,,,,4,7.18,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=407
-,,,,,,,,,,4,7.13,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,Layup,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=408
+,,,,,,,,,,4,7.18,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Brewer,,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=407
+,,,,,,,,,,4,7.13,Denver Nuggets,shot,,,Green,,,,,,,Brewer,,,,missed,,Layup,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=408
 ,,,,,,,,,,4,7.12,Boston Celtics,rebound,,,,,,,,,,Bradley,,,,,,,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=409
 ,,,,,,,,,,4,7.08,Boston Celtics,shot,Pierce,,,,,,,,,Bradley,2,,,made,,Layup,,,81-83,1,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=410
 ,,,,,,,,,,4,6.57,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Shooting,,,81-83,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=411
@@ -378,8 +378,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.40,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=446
 ,,,,,,,,,,4,3.40,Boston Celtics,free throw,,,,,,,2,,2,Garnett,,,foul,missed,,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=447
 ,,,,,,,,,,4,3.38,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=449
-,,,,,,,,,,4,3.29,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=450
-,,,,,,,,,,4,3.17,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=451
+,,,,,,,,,,4,3.29,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,Gallinari,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=450
+,,,,,,,,,,4,3.17,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Garnett,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=451
 ,,,,,,,,,,4,3.06,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,86-91,26,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=452
 ,,,,,,,,,,4,3.05,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=453
 ,,,,,,,,,,4,2.39,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,86-91,3,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=454
@@ -388,7 +388,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.35,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=457
 ,,,,,,,,,,4,2.35,Boston Celtics,substitute,,,,Bradley,,Garnett,,,,,,,,,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=460
 ,,,,,,,,,,4,2.35,Boston Celtics,substitute,,,,Bass,,Lee,,,,,,,,,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=461
-,,,,,,,,,,4,2.24,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Lost Ball,,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=463
+,,,,,,,,,,4,2.24,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Lost Ball,,Iguodala,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=463
 ,,,,,,,,,,4,2.21,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Shooting,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=464
 ,,,,,,,,,,4,2.21,Denver Nuggets,free throw,,,,,,,1,,2,Gallinari,,,foul,missed,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=465
 ,,,,,,,,,,4,2.21,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200794&GameEventID=466

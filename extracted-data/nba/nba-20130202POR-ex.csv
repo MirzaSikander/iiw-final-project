@@ -30,8 +30,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.41,Utah Jazz,shot,,,,,,,,,,Tinsley,2,,,made,,Running Jump Shot,,,9-6,9,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=33
 ,,,,,,,,,,1,7.29,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Jump Shot,,,9-6,13,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=34
 ,,,,,,,,,,1,7.28,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=35
-,,,,,,,,,,1,7.21,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=36
-,,,,,,,,,,1,7.16,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=37
+,,,,,,,,,,1,7.21,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,Hickson,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=36
+,,,,,,,,,,1,7.16,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Williams,,,,9-6,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=37
 ,,,,,,,,,,1,7.10,Utah Jazz,shot,Williams,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,12-6,24,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=38
 ,,,,,,,,,,1,6.47,Portland Trail Blazers,shot,Batum,,,,,,,,,Hickson,2,,,made,,Dunk,,,12-8,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=39
 ,,,,,,,,,,1,6.24,Utah Jazz,shot,Jefferson,,,,,,,,,Williams,2,,,made,,Turnaround Jump Shot,,,14-8,10,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=40
@@ -59,7 +59,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.10,Portland Trail Blazers,substitute,,,,Smith,,Lillard,,,,,,,,,,,,,21-17,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=66
 ,,,,,,,,,,1,3.10,Utah Jazz,substitute,,,,Favors,,Millsap,,,,,,,,,,,,,21-17,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=67
 ,,,,,,,,,,1,3.04,Utah Jazz,shot,Jefferson,,,,,,,,,Favors,2,,,made,,Jump Shot,,,23-17,14,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=68
-,,,,,,,,,,1,2.52,Portland Trail Blazers,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,23-17,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=69
+,,,,,,,,,,1,2.52,Portland Trail Blazers,turnover,,,,,,,,,,Smith,,,Bad Pass,,Foye,,,,23-17,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=69
 ,,,,,,,,,,1,2.38,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,23-17,15,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=70
 ,,,,,,,,,,1,2.38,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,23-17,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=71
 ,,,,,,,,,,1,2.28,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Driving Layup,,,23-19,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=72
@@ -90,7 +90,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.49,Portland Trail Blazers,free throw,,,,,,,1,,2,Babbitt,1,,foul,made,,,,,23-25,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=101
 ,,,,,,,,,,2,11.49,Portland Trail Blazers,free throw,,,,,,,2,,2,Babbitt,1,,foul,made,,,,,23-26,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=103
 ,,,,,,,,,,2,11.34,Utah Jazz,shot,Favors,,,,,,,,,Carroll,2,,,made,,Jump Shot,,,25-26,19,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=105
-,,,,,,,,,,2,11.13,Portland Trail Blazers,shot,,,,,,,,,,Smith,,,,missed,,Driving Layup,,,25-26,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=106
+,,,,,,,,,,2,11.13,Portland Trail Blazers,shot,,,Carroll,,,,,,,Smith,,,,missed,,Driving Layup,,,25-26,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=106
 ,,,,,,,,,,2,11.11,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=107
 ,,,,,,,,,,2,11.07,Portland Trail Blazers,foul,,,,,,,,,,Leonard,,,,,,Shooting,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=108
 ,,,,,,,,,,2,11.07,Utah Jazz,free throw,,,,,,,1,,2,Favors,1,,foul,made,,,,,26-26,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=109
@@ -118,11 +118,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.07,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=135
 ,,,,,,,,,,2,8.48,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=136
 ,,,,,,,,,,2,8.48,Portland Trail Blazers,substitute,,,,Hickson,,Leonard,,,,,,,,,,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=139
-,,,,,,,,,,2,8.36,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,Driving Layup,,,27-28,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=140
+,,,,,,,,,,2,8.36,Utah Jazz,shot,,,Barton,,,,,,,Burks,,,,missed,,Driving Layup,,,27-28,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=140
 ,,,,,,,,,,2,8.36,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=141
 ,,,,,,,,,,2,8.33,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Jump Shot,,,27-28,22,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=142
 ,,,,,,,,,,2,8.32,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=143
-,,,,,,,,,,2,8.23,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=144
+,,,,,,,,,,2,8.23,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Carroll,,,,27-28,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=144
 ,,,,,,,,,,2,8.20,Utah Jazz,shot,,,,,,,,,,Carroll,2,,,made,,Driving Layup,,,29-28,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=145
 ,,,,,,,,,,2,7.58,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,Layup,,,29-28,3,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=146
 ,,,,,,,,,,2,7.57,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=147
@@ -132,7 +132,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.40,Utah Jazz,shot,Millsap,,,,,,,,,Carroll,2,,,made,,Jump Shot,,,31-28,20,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=151
 ,,,,,,,,,,2,7.20,Portland Trail Blazers,shot,,,,,,,,,,Hickson,2,,,made,,Driving Dunk,,,31-30,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=152
 ,,,,,,,,,,2,7.03,Utah Jazz,shot,Millsap,,,,,,,,,Foye,2,,,made,,Layup,,,33-30,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=153
-,,,,,,,,,,2,6.38,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=154
+,,,,,,,,,,2,6.38,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Burks,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=154
 ,,,,,,,,,,2,6.34,Portland Trail Blazers,foul,,,,,,,,,,Lillard,,,,,,Shooting,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=155
 ,,,,,,,,,,2,6.34,Utah Jazz,free throw,,,,,,,1,,2,Burks,1,,foul,made,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=156
 ,,,,,,,,,,2,6.34,Portland Trail Blazers,substitute,,,,Aldridge,,Babbitt,,,,,,,,,,,,,34-30,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=158
@@ -182,7 +182,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.55,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=207
 ,,,,,,,,,,2,1.39,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,42-41,21,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=208
 ,,,,,,,,,,2,1.38,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=209
-,,,,,,,,,,2,1.31,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=210
+,,,,,,,,,,2,1.31,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,Foye,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=210
 ,,,,,,,,,,2,1.24,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Layup,,,42-41,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=211
 ,,,,,,,,,,2,1.23,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=213
 ,,,,,,,,,,2,1.23,Utah Jazz,shot,,,,,,,,,,Williams,2,,,made,,Tip Shot,,,44-41,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=212
@@ -198,13 +198,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.07,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=225
 ,,,,,,,,,,2,0.03,Utah Jazz,violation,,,,,,,,,,Millsap,,,Defensive Goaltending,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=231
 ,,,,,,,,,,2,0.03,Portland Trail Blazers,shot,Lillard,,,,,,,,,Batum,2,,,made,,Layup,,,46-43,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=226
-,,,,,,,,,,2,0.00,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Layup,,,46-43,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=228
+,,,,,,,,,,2,0.00,Utah Jazz,shot,,,Aldridge,,,,,,,Foye,,,,missed,,Layup,,,46-43,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=228
 ,,,,,,,,,,2,0.00,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=229
-,,,,,,,,,,3,11.44,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=234
+,,,,,,,,,,3,11.44,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,Williams,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=234
 ,,,,,,,,,,3,11.37,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Layup,,,46-43,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=235
 ,,,,,,,,,,3,11.35,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=236
 ,,,,,,,,,,3,11.31,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Personal,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=237
-,,,,,,,,,,3,11.25,Portland Trail Blazers,shot,,,,,,,,,,Claver,,,,missed,,Layup,,,46-43,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=238
+,,,,,,,,,,3,11.25,Portland Trail Blazers,shot,,,Jefferson,,,,,,,Claver,,,,missed,,Layup,,,46-43,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=238
 ,,,,,,,,,,3,11.25,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=239
 ,,,,,,,,,,3,11.22,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,46-43,16,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=240
 ,,,,,,,,,,3,11.22,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=241
@@ -253,7 +253,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.42,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,Layup,,,63-57,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=290
 ,,,,,,,,,,3,4.41,Portland Trail Blazers,rebound,,,,,,,,,,Babbitt,,,,,,,,,63-57,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=291
 ,,,,,,,,,,3,4.31,Portland Trail Blazers,shot,Lillard,,,,,,,,,Babbitt,3,,,made,,3PT Jump Shot,,,63-60,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=292
-,,,,,,,,,,3,4.15,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Layup,,,63-60,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=293
+,,,,,,,,,,3,4.15,Utah Jazz,shot,,,Batum,,,,,,,Williams,,,,missed,,Layup,,,63-60,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=293
 ,,,,,,,,,,3,4.13,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,63-60,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=294
 ,,,,,,,,,,3,4.07,Portland Trail Blazers,shot,Lillard,,,,,,,,,Barton,2,,,made,,Reverse Layup,,,63-62,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=295
 ,,,,,,,,,,3,3.57,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,63-62,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=296
@@ -308,7 +308,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.57,Utah Jazz,shot,,,,,,,,,,Kanter,,,,missed,,Layup,,,71-79,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=353
 ,,,,,,,,,,4,9.55,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,71-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=355
 ,,,,,,,,,,4,9.55,Utah Jazz,shot,,,,,,,,,,Favors,2,,,made,,Tip Shot,,,73-79,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=354
-,,,,,,,,,,4,9.37,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,73-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=356
+,,,,,,,,,,4,9.37,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Favors,,,,73-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=356
 ,,,,,,,,,,4,9.32,Utah Jazz,shot,Burks,,,,,,,,,Millsap,2,,,made,,Layup,,,75-79,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=357
 ,,,,,,,,,,4,9.32,Portland Trail Blazers,foul,,,,,,,,,,Babbitt,,,,,,Shooting,,,75-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=358
 ,,,,,,,,,,4,9.32,Portland Trail Blazers,substitute,,,,Aldridge,,Batum,,,,,,,,,,,,,75-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=359
@@ -318,13 +318,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.11,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=364
 ,,,,,,,,,,4,8.59,Utah Jazz,shot,,,,,,,,,,Kanter,,,,missed,,Layup,,,76-79,3,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=365
 ,,,,,,,,,,4,8.57,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=366
-,,,,,,,,,,4,8.55,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Layup,,,76-79,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=367
+,,,,,,,,,,4,8.55,Utah Jazz,shot,,,Babbitt,,,,,,,Millsap,,,,missed,,Layup,,,76-79,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=367
 ,,,,,,,,,,4,8.53,Portland Trail Blazers,rebound,,,,,,,,,,Babbitt,,,,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=368
 ,,,,,,,,,,4,8.47,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Fadeaway Jumper,,,76-79,18,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=369
 ,,,,,,,,,,4,8.46,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=370
 ,,,,,,,,,,4,8.25,Utah Jazz,shot,Millsap,,,,,,,,,Burks,3,,,made,,3PT Jump Shot,,,79-79,24,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=371
 ,,,,,,,,,,4,8.05,Utah Jazz,foul,,,,,,,,,,Kanter,,,,,,Personal,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=372
-,,,,,,,,,,4,8.00,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=375
+,,,,,,,,,,4,8.00,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Carroll,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=375
 ,,,,,,,,,,4,7.57,Portland Trail Blazers,foul,,,,,,,,,,Smith,,,,,,Personal,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=376
 ,,,,,,,,,,4,7.52,Portland Trail Blazers,foul,,,,,,,,,,Babbitt,,,,,,Personal,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=377
 ,,,,,,,,,,4,7.37,Utah Jazz,shot,,,,,,,,,,Kanter,,,,missed,,Fadeaway Jumper,,,79-79,16,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=378
@@ -335,7 +335,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.25,Portland Trail Blazers,shot,Aldridge,,,,,,,,,Lillard,2,,,made,,Jump Shot,,,81-84,22,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=383
 ,,,,,,,,,,4,6.12,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,Driving Finger Roll Layup,,,81-84,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=384
 ,,,,,,,,,,4,6.10,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=385
-,,,,,,,,,,4,6.09,Utah Jazz,shot,,,,,,,,,,Kanter,,,,missed,,Layup,,,81-84,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=386
+,,,,,,,,,,4,6.09,Utah Jazz,shot,,,Aldridge,,,,,,,Kanter,,,,missed,,Layup,,,81-84,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=386
 ,,,,,,,,,,4,6.07,Portland Trail Blazers,rebound,,,,,,,,,,Babbitt,,,,,,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=387
 ,,,,,,,,,,4,6.07,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Personal,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=388
 ,,,,,,,,,,4,6.07,Utah Jazz,substitute,,,,Tinsley,,Burks,,,,,,,,,,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=389
@@ -349,7 +349,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.18,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,81-86,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=398
 ,,,,,,,,,,4,5.18,Utah Jazz,shot,,,,,,,,,,Favors,2,,,made,,Tip Shot,,,83-86,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=397
 ,,,,,,,,,,4,4.59,Portland Trail Blazers,shot,Hickson,,,,,,,,,Smith,2,,,made,,Reverse Layup,,,83-88,1,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=399
-,,,,,,,,,,4,4.41,Utah Jazz,turnover,,,,,,,,,,Carroll,,,Bad Pass,,,,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=400
+,,,,,,,,,,4,4.41,Utah Jazz,turnover,,,,,,,,,,Carroll,,,Bad Pass,,Smith,,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=400
 ,,,,,,,,,,4,4.41,Utah Jazz,foul,,,,,,,,,,Favors,,,,,,Personal,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=401
 ,,,,,,,,,,4,4.41,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=402
 ,,,,,,,,,,4,4.41,Utah Jazz,substitute,,,,Williams,,Carroll,,,,,,,,,,,,,83-88,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=404
@@ -367,7 +367,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.18,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,Pullup Jump Shot,,,87-93,9,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=420
 ,,,,,,,,,,4,3.16,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,87-93,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=421
 ,,,,,,,,,,4,3.06,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Layup,,,89-93,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=422
-,,,,,,,,,,4,2.45,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,,,,,89-93,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=423
+,,,,,,,,,,4,2.45,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,Millsap,,,,89-93,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=423
 ,,,,,,,,,,4,2.24,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,89-93,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=424
 ,,,,,,,,,,4,2.23,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,89-93,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=425
 ,,,,,,,,,,4,2.08,Utah Jazz,foul,,,,,,,,,,Williams,,,,,,Shooting,,,89-93,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=426
@@ -423,5 +423,5 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.08,Utah Jazz,foul,,,,,,,,,,Williams,,,,,,Personal,,,99-103,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=494
 ,,,,,,,,,,4,0.08,Portland Trail Blazers,free throw,,,,,,,1,,2,Batum,1,,foul,made,,,,,99-104,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=495
 ,,,,,,,,,,4,0.08,Portland Trail Blazers,free throw,,,,,,,2,,2,Batum,1,,foul,made,,,,,99-105,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=496
-,,,,,,,,,,4,0.02,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,Layup,,,99-105,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=498
+,,,,,,,,,,4,0.02,Utah Jazz,shot,,,Hickson,,,,,,,Tinsley,,,,missed,,Layup,,,99-105,2,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=498
 ,,,,,,,,,,4,0.00,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,99-105,,http://stats.nba.com/cvp.html?GameID=0021200703&GameEventID=499

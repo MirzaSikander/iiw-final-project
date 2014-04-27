@@ -14,7 +14,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.40,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Turnaround Jump Shot,,,6-6,7,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=14
 ,,,,,,,,,,1,9.28,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,6-6,22,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=15
 ,,,,,,,,,,1,9.27,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=16
-,,,,,,,,,,1,9.23,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=17
+,,,,,,,,,,1,9.23,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Wade,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=17
 ,,,,,,,,,,1,9.18,Portland Trail Blazers,foul,,,,,,,,,,Batum,,,,,,Shooting,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=18
 ,,,,,,,,,,1,9.18,Miami Heat,free throw,,,,,,,1,,2,Wade,1,,foul,made,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=19
 ,,,,,,,,,,1,9.18,Miami Heat,free throw,,,,,,,2,,2,Wade,1,,foul,made,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=21
@@ -26,13 +26,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.33,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=28
 ,,,,,,,,,,1,8.18,Miami Heat,shot,,,,,,,,,,Haslem,,,,missed,,Jump Shot,,,8-8,20,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=29
 ,,,,,,,,,,1,8.17,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=30
-,,,,,,,,,,1,8.15,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=31
+,,,,,,,,,,1,8.15,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,Aldridge,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=31
 ,,,,,,,,,,1,8.09,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,8-8,24,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=32
 ,,,,,,,,,,1,8.08,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=33
 ,,,,,,,,,,1,8.00,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Jump Shot,,,8-10,20,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=35
 ,,,,,,,,,,1,7.45,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,8-10,9,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=36
 ,,,,,,,,,,1,7.45,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=37
-,,,,,,,,,,1,7.35,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,8-10,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=38
+,,,,,,,,,,1,7.35,Portland Trail Blazers,shot,,,Haslem,,,,,,,Hickson,,,,missed,,Layup,,,8-10,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=38
 ,,,,,,,,,,1,7.34,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=39
 ,,,,,,,,,,1,7.30,Miami Heat,foul,,,,,,,,,,Chalmers,,,,,,Offensive Charge,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=40
 ,,,,,,,,,,1,7.30,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Foul,,,,,,8-10,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=41
@@ -46,7 +46,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.54,Portland Trail Blazers,free throw,,,,,,,2,,2,Hickson,1,,foul,made,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=50
 ,,,,,,,,,,1,6.35,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,8-12,20,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=52
 ,,,,,,,,,,1,6.34,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=53
-,,,,,,,,,,1,6.25,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Jump Shot,,,8-12,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=54
+,,,,,,,,,,1,6.25,Portland Trail Blazers,shot,,,Bosh,,,,,,,Hickson,,,,missed,,Jump Shot,,,8-12,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=54
 ,,,,,,,,,,1,6.24,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=55
 ,,,,,,,,,,1,6.22,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,8-12,22,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=56
 ,,,,,,,,,,1,6.20,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=57
@@ -70,7 +70,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.07,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Personal,,,14-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=76
 ,,,,,,,,,,1,4.07,Miami Heat,substitute,,,,Miller,,Haslem,,,,,,,,,,,,,14-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=77
 ,,,,,,,,,,1,3.54,Miami Heat,shot,Miller,,,,,,,,,Bosh,2,,,made,,Driving Slam Dunk,,,16-12,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=78
-,,,,,,,,,,1,3.30,Portland Trail Blazers,turnover,,,,,,,,,,Pavlovic,,,Lost Ball,,,,,,16-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=79
+,,,,,,,,,,1,3.30,Portland Trail Blazers,turnover,,,,,,,,,,Pavlovic,,,Lost Ball,,Bosh,,,,16-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=79
 ,,,,,,,,,,1,3.26,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Layup,,,18-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=80
 ,,,,,,,,,,1,3.25,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,18-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=81
 ,,,,,,,,,,1,3.25,Miami Heat,substitute,,,,Anthony,,Bosh,,,,,,,,,,,,,18-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=83
@@ -79,7 +79,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.59,Miami Heat,shot,,,,,,,,,,Miller,,,,missed,,3PT Jump Shot,,,18-12,25,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=86
 ,,,,,,,,,,1,2.57,Portland Trail Blazers,rebound,,,,,,,,,,Pavlovic,,,,,,,,,18-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=87
 ,,,,,,,,,,1,2.45,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,3 Second Violation,,,,,,18-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=88
-,,,,,,,,,,1,2.30,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,18-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=89
+,,,,,,,,,,1,2.30,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Lillard,,,,18-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=89
 ,,,,,,,,,,1,2.25,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Driving Layup,,,18-12,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=90
 ,,,,,,,,,,1,2.23,Portland Trail Blazers,rebound,,,,,,,,,,Freeland,,,,,,,,,18-12,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=91
 ,,,,,,,,,,1,2.22,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Layup,,,18-12,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=92
@@ -93,7 +93,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.09,Portland Trail Blazers,rebound,,,,,,,,,,Freeland,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=100
 ,,,,,,,,,,1,0.51,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=101
 ,,,,,,,,,,1,0.50,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=102
-,,,,,,,,,,1,0.46,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Driving Layup,,,18-15,2,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=103
+,,,,,,,,,,1,0.46,Miami Heat,shot,,,Pavlovic,,,,,,,Allen,,,,missed,,Driving Layup,,,18-15,2,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=103
 ,,,,,,,,,,1,0.44,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=104
 ,,,,,,,,,,1,0.39,Portland Trail Blazers,shot,,,,,,,,,,Lillard,3,,,made,,3PT Pullup Jump Shot,,,18-18,25,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=105
 ,,,,,,,,,,1,0.17,Miami Heat,shot,,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,21-18,25,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=106
@@ -143,17 +143,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.16,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,34-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=162
 ,,,,,,,,,,2,7.16,Miami Heat,shot,,,,,,,,,,Haslem,,,,missed,,Tip Shot,,,34-27,2,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=161
 ,,,,,,,,,,2,7.14,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,34-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=163
-,,,,,,,,,,2,7.07,Portland Trail Blazers,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,34-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=164
+,,,,,,,,,,2,7.07,Portland Trail Blazers,turnover,,,,,,,,,,Price,,,Bad Pass,,Allen,,,,34-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=164
 ,,,,,,,,,,2,6.54,Miami Heat,shot,Allen,,,,,,,,,Cole,3,,,made,,3PT Jump Shot,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=165
 ,,,,,,,,,,2,6.39,Portland Trail Blazers,foul,,,,,,,,,,Pavlovic,,,,,,Offensive Charge,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=166
 ,,,,,,,,,,2,6.39,Portland Trail Blazers,turnover,,,,,,,,,,Pavlovic,,,Foul,,,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=167
 ,,,,,,,,,,2,6.39,Miami Heat,substitute,,,,James,,Allen,,,,,,,,,,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=168
 ,,,,,,,,,,2,6.39,Portland Trail Blazers,substitute,,,,Matthews,,Pavlovic,,,,,,,,,,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=169
 ,,,,,,,,,,2,6.18,Miami Heat,turnover,,,,,,,,,,Bosh,,,Traveling,,,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=170
-,,,,,,,,,,2,6.05,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=171
+,,,,,,,,,,2,6.05,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Miller,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=171
 ,,,,,,,,,,2,5.48,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,37-27,18,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=173
 ,,,,,,,,,,2,5.48,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=174
-,,,,,,,,,,2,5.26,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Jump Shot,,,37-27,20,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=175
+,,,,,,,,,,2,5.26,Portland Trail Blazers,shot,,,James,,,,,,,Matthews,,,,missed,,Jump Shot,,,37-27,20,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=175
 ,,,,,,,,,,2,5.24,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,37-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=176
 ,,,,,,,,,,2,5.23,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Driving Layup,,,39-27,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=177
 ,,,,,,,,,,2,5.22,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,39-27,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=178
@@ -174,7 +174,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.58,Portland Trail Blazers,violation,,,,,,,,,,Hickson,,,Defensive Goaltending,,,,,,40-32,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=199
 ,,,,,,,,,,2,3.58,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Layup,,,42-32,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=198
 ,,,,,,,,,,2,3.43,Portland Trail Blazers,shot,Batum,,,,,,,,,Matthews,2,,,made,,Reverse Layup,,,42-34,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=200
-,,,,,,,,,,2,3.30,Miami Heat,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,42-34,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=201
+,,,,,,,,,,2,3.30,Miami Heat,turnover,,,,,,,,,,Miller,,,Bad Pass,,Matthews,,,,42-34,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=201
 ,,,,,,,,,,2,3.22,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,3PT Jump Shot,,,42-34,24,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=202
 ,,,,,,,,,,2,3.21,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,42-34,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=203
 ,,,,,,,,,,2,3.09,Miami Heat,shot,,,,,,,,,,Miller,,,,missed,,3PT Jump Shot,,,42-34,24,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=204
@@ -213,9 +213,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.43,Portland Trail Blazers,free throw,,,,,,,2,,2,Batum,1,,foul,made,,,,,50-39,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=242
 ,,,,,,,,,,2,0.36,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Running Bank Hook Shot,,,52-39,4,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=244
 ,,,,,,,,,,2,0.19,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=245
-,,,,,,,,,,2,0.00,Miami Heat,turnover,,,,,,,,,,Allen,,,Lost Ball,,,,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=246
-,,,,,,,,,,3,11.41,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,,,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=250
-,,,,,,,,,,3,11.37,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=251
+,,,,,,,,,,2,0.00,Miami Heat,turnover,,,,,,,,,,Allen,,,Lost Ball,,Matthews,,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=246
+,,,,,,,,,,3,11.41,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,James,,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=250
+,,,,,,,,,,3,11.37,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,Lillard,,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=251
 ,,,,,,,,,,3,11.24,Portland Trail Blazers,shot,,,,,,,,,,Matthews,3,,,made,,3PT Pullup Jump Shot,,,52-42,25,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=252
 ,,,,,,,,,,3,11.02,Miami Heat,shot,Wade,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,54-42,22,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=253
 ,,,,,,,,,,3,10.37,Portland Trail Blazers,shot,Hickson,,,,,,,,,Lillard,2,,,made,,Running Jump Shot,,,54-44,13,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=254
@@ -252,7 +252,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.33,Portland Trail Blazers,substitute,,,,Jeffries,,Hickson,,,,,,,,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=289
 ,,,,,,,,,,3,6.18,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Running Jump Shot,,,61-53,6,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=290
 ,,,,,,,,,,3,6.17,Portland Trail Blazers,rebound,,,,,,,,,,Jeffries,,,,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=291
-,,,,,,,,,,3,6.10,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=292
+,,,,,,,,,,3,6.10,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Chalmers,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=292
 ,,,,,,,,,,3,6.03,Miami Heat,shot,Chalmers,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,63-53,21,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=293
 ,,,,,,,,,,3,5.44,Miami Heat,foul,,,,,,,,,,Bosh,,,,,,Shooting,,,63-53,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=296
 ,,,,,,,,,,3,5.44,Portland Trail Blazers,free throw,,,,,,,1,,2,Aldridge,1,,foul,made,,,,,63-54,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=297
@@ -291,24 +291,24 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.49,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=339
 ,,,,,,,,,,3,1.34,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,3PT Jump Shot,,,65-57,24,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=340
 ,,,,,,,,,,3,1.31,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=341
-,,,,,,,,,,3,1.21,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=342
-,,,,,,,,,,3,1.17,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=343
+,,,,,,,,,,3,1.21,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,James,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=342
+,,,,,,,,,,3,1.17,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,Price,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=343
 ,,,,,,,,,,3,1.07,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,3PT Jump Shot,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=345
 ,,,,,,,,,,3,1.06,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=346
 ,,,,,,,,,,3,0.47,Miami Heat,shot,,,,,,,,,,Miller,,,,missed,,3PT Jump Shot,,,65-57,25,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=347
 ,,,,,,,,,,3,0.46,Portland Trail Blazers,rebound,,,,,,,,,,Jeffries,,,,,,,,,65-57,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=348
 ,,,,,,,,,,3,0.41,Portland Trail Blazers,shot,Batum,,,,,,,,,Matthews,2,,,made,,Reverse Layup,,,65-59,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=349
 ,,,,,,,,,,3,0.38,Miami Heat,violation,,,,,,,,,,Heat,,, Delay of game Violation,,,,,,65-59,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=350
-,,,,,,,,,,3,0.36,Miami Heat,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,65-59,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=351
+,,,,,,,,,,3,0.36,Miami Heat,turnover,,,,,,,,,,Miller,,,Bad Pass,,Batum,,,,65-59,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=351
 ,,,,,,,,,,3,0.33,Portland Trail Blazers,shot,,,,,,,,,,Batum,2,,,made,,Driving Finger Roll Layup,,,65-61,3,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=352
 ,,,,,,,,,,3,0.11,Miami Heat,shot,Miller,,,,,,,,,Cole,3,,,made,,3PT Jump Shot,,,68-61,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=353
 ,,,,,,,,,,3,0.04,Portland Trail Blazers,shot,,,,,,,,,,Price,2,,,made,,Driving Reverse Layup,,,68-63,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=354
-,,,,,,,,,,3,0.00,Miami Heat,shot,,,,,,,,,,Miller,,,,missed,,Pullup Jump Shot,,,68-63,17,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=355
+,,,,,,,,,,3,0.00,Miami Heat,shot,,,Batum,,,,,,,Miller,,,,missed,,Pullup Jump Shot,,,68-63,17,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=355
 ,,,,,,,,,,3,0.00,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,68-63,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=356
 ,,,,,,,,,,4,11.42,Miami Heat,shot,Bosh,,,,,,,,,Allen,2,,,made,,Layup,,,70-63,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=360
 ,,,,,,,,,,4,11.18,Portland Trail Blazers,shot,,,,,,,,,,Jeffries,,,,missed,,Jump Shot,,,70-63,18,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=361
 ,,,,,,,,,,4,11.17,Miami Heat,rebound,,,,,,,,,,Miller,,,,,,,,,70-63,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=362
-,,,,,,,,,,4,11.03,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,70-63,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=363
+,,,,,,,,,,4,11.03,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,Price,,,,70-63,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=363
 ,,,,,,,,,,4,11.00,Miami Heat,foul,,,,,,,,,,Allen,,,,,,Shooting,,,70-63,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=364
 ,,,,,,,,,,4,11.00,Portland Trail Blazers,free throw,,,,,,,1,,2,Price,1,,foul,made,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=365
 ,,,,,,,,,,4,11.00,Portland Trail Blazers,free throw,,,,,,,2,,2,Price,1,,foul,made,,,,,70-65,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=367
@@ -322,7 +322,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.45,Portland Trail Blazers,foul,,,,,,,,,,Hickson,,,,,,Shooting,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=377
 ,,,,,,,,,,4,9.45,Miami Heat,free throw,,,,,,,1,,2,Bosh,1,,foul,made,,,,,73-66,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=378
 ,,,,,,,,,,4,9.45,Miami Heat,free throw,,,,,,,2,,2,Bosh,1,,foul,made,,,,,74-66,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=380
-,,,,,,,,,,4,9.37,Portland Trail Blazers,turnover,,,,,,,,,,Jeffries,,,Bad Pass,,,,,,74-66,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=382
+,,,,,,,,,,4,9.37,Portland Trail Blazers,turnover,,,,,,,,,,Jeffries,,,Bad Pass,,Bosh,,,,74-66,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=382
 ,,,,,,,,,,4,9.25,Miami Heat,shot,James,,,,,,,,,Miller,3,,,made,,3PT Jump Shot,,,77-66,25,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=383
 ,,,,,,,,,,4,9.24,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,77-66,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=384
 ,,,,,,,,,,4,9.24,Portland Trail Blazers,substitute,,,,Matthews,,Jeffries,,,,,,,,,,,,,77-66,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=386
@@ -337,11 +337,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.29,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,78-68,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=396
 ,,,,,,,,,,4,8.13,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,78-68,25,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=397
 ,,,,,,,,,,4,8.12,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,78-68,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=398
-,,,,,,,,,,4,8.09,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,78-68,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=399
+,,,,,,,,,,4,8.09,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Wade,,,,78-68,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=399
 ,,,,,,,,,,4,8.09,Portland Trail Blazers,foul,,,,,,,,,,Hickson,,,,,,Shooting,,,78-68,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=400
 ,,,,,,,,,,4,8.09,Miami Heat,free throw,,,,,,,1,,2,Wade,1,,foul,made,,,,,79-68,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=401
 ,,,,,,,,,,4,8.09,Miami Heat,free throw,,,,,,,2,,2,Wade,1,,foul,made,,,,,80-68,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=403
-,,,,,,,,,,4,7.54,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,80-68,20,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=405
+,,,,,,,,,,4,7.54,Portland Trail Blazers,shot,,,Bosh,,,,,,,Aldridge,,,,missed,,Jump Shot,,,80-68,20,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=405
 ,,,,,,,,,,4,7.54,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,80-68,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=406
 ,,,,,,,,,,4,7.54,Miami Heat,foul,,,,,,,,,,James,,,,,,Shooting,,,80-68,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=407
 ,,,,,,,,,,4,7.54,Portland Trail Blazers,free throw,,,,,,,1,,2,Aldridge,1,,foul,made,,,,,80-69,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=408
@@ -349,7 +349,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.54,Portland Trail Blazers,free throw,,,,,,,2,,2,Aldridge,1,,foul,made,,,,,80-70,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=411
 ,,,,,,,,,,4,7.34,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,3PT Jump Shot,,,80-70,25,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=413
 ,,,,,,,,,,4,7.34,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,80-70,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=414
-,,,,,,,,,,4,7.11,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Driving Layup,,,80-70,2,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=415
+,,,,,,,,,,4,7.11,Portland Trail Blazers,shot,,,Bosh,,,,,,,Matthews,,,,missed,,Driving Layup,,,80-70,2,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=415
 ,,,,,,,,,,4,7.09,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,80-70,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=416
 ,,,,,,,,,,4,7.07,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,80-70,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=417
 ,,,,,,,,,,4,6.49,Miami Heat,foul,,,,,,,,,,Wade,,,,,,Shooting,,,80-70,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=418
@@ -359,7 +359,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.12,Miami Heat,foul,,,,,,,,,,Miller,,,,,,Personal,,,82-72,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=424
 ,,,,,,,,,,4,6.12,Portland Trail Blazers,free throw,,,,,,,1,,2,Batum,1,,foul,made,,,,,82-73,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=431
 ,,,,,,,,,,4,6.12,Portland Trail Blazers,free throw,,,,,,,2,,2,Batum,1,,foul,made,,,,,82-74,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=429
-,,,,,,,,,,4,5.53,Miami Heat,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,82-74,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=432
+,,,,,,,,,,4,5.53,Miami Heat,turnover,,,,,,,,,,Miller,,,Bad Pass,,Aldridge,,,,82-74,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=432
 ,,,,,,,,,,4,5.37,Portland Trail Blazers,shot,Lillard,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,82-77,26,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=436
 ,,,,,,,,,,4,5.10,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Fadeaway Jumper,,,82-77,13,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=437
 ,,,,,,,,,,4,5.09,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=438
@@ -371,7 +371,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.17,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,82-79,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=445
 ,,,,,,,,,,4,4.17,Portland Trail Blazers,free throw,,,,,,,2,,2,Lillard,,,foul,missed,,,,,82-79,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=446
 ,,,,,,,,,,4,4.16,Miami Heat,rebound,,,,,,,,,,Miller,,,,,,,,,82-79,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=448
-,,,,,,,,,,4,4.06,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,82-79,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=449
+,,,,,,,,,,4,4.06,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Batum,,,,82-79,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=449
 ,,,,,,,,,,4,4.03,Portland Trail Blazers,shot,,,,,,,,,,Batum,2,,,made,,Driving Layup,,,82-81,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=450
 ,,,,,,,,,,4,4.03,Miami Heat,foul,,,,,,,,,,Wade,,,,,,Shooting,,,82-81,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=451
 ,,,,,,,,,,4,4.03,Portland Trail Blazers,free throw,,,,,,,1,,1,Batum,1,,foul,made,,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=452
@@ -389,7 +389,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.39,Portland Trail Blazers,free throw,,,,,,,2,,2,Batum,1,,foul,made,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=467
 ,,,,,,,,,,4,2.22,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Driving Layup,,,85-84,2,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=469
 ,,,,,,,,,,4,2.21,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=470
-,,,,,,,,,,4,2.09,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,85-84,2,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=471
+,,,,,,,,,,4,2.09,Portland Trail Blazers,shot,,,Bosh,,,,,,,Hickson,,,,missed,,Layup,,,85-84,2,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=471
 ,,,,,,,,,,4,2.07,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=473
 ,,,,,,,,,,4,2.07,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Tip Shot,,,85-84,1,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=472
 ,,,,,,,,,,4,2.05,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200529&GameEventID=474

@@ -1,5 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.45,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=2
+,,,,,,,,,,1,11.45,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Richardson,,,,,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=2
 ,,,,,,,,,,1,11.34,Philadelphia 76ers,shot,Richardson,,,,,,,,,Young,2,,,made,,Jump Hook Shot,,,0-2,5,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=3
 ,,,,,,,,,,1,11.24,Dallas Mavericks,shot,Jones,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,2-2,17,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=4
 ,,,,,,,,,,1,11.07,Philadelphia 76ers,shot,Allen,,,,,,,,,Richardson,3,,,made,,3PT Jump Shot,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=5
@@ -16,8 +16,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.57,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Floating Jump Shot,,,6-15,8,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=17
 ,,,,,,,,,,1,8.32,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,3PT Jump Shot,,,6-15,25,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=18
 ,,,,,,,,,,1,8.32,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,6-15,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=19
-,,,,,,,,,,1,8.13,Philadelphia 76ers,turnover,,,,,,,,,,Allen Poss,,,Lost Ball,,,,,,6-15,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=20
-,,,,,,,,,,1,8.11,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,6-15,5,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=23
+,,,,,,,,,,1,8.13,Philadelphia 76ers,turnover,,,,,,,,,,Allen Poss,,,Lost Ball,,Jones,,,,6-15,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=20
+,,,,,,,,,,1,8.11,Dallas Mavericks,shot,,,Holiday,,,,,,,Jones,,,,missed,,Jump Shot,,,6-15,5,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=23
 ,,,,,,,,,,1,8.10,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,6-15,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=24
 ,,,,,,,,,,1,8.06,Dallas Mavericks,shot,Mayo,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,8-15,18,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=25
 ,,,,,,,,,,1,7.53,Philadelphia 76ers,shot,Turner,,,,,,,,,Young,2,,,made,,Layup,,,8-17,1,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=26
@@ -30,7 +30,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.45,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Layup,,,13-17,2,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=38
 ,,,,,,,,,,1,6.43,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,13-17,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=40
 ,,,,,,,,,,1,6.43,Philadelphia 76ers,shot,,,,,,,,,,Allen,2,,,made,,Putback Layup,,,13-19,1,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=39
-,,,,,,,,,,1,6.38,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,,,,,13-19,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=41
+,,,,,,,,,,1,6.38,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,Holiday,,,,13-19,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=41
 ,,,,,,,,,,1,6.32,Philadelphia 76ers,shot,Holiday,,,,,,,,,Young,2,,,made,,Running Slam Dunk,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=42
 ,,,,,,,,,,1,6.23,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=43
 ,,,,,,,,,,1,6.13,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,3PT Jump Shot,,,13-21,24,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=46
@@ -45,7 +45,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.23,Philadelphia 76ers,foul,,,,,,,,,,Young,,,,,,Shooting,,,15-21,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=55
 ,,,,,,,,,,1,5.23,Philadelphia 76ers,substitute,,,,Wright,,Young,,,,,,,,,,,,,15-21,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=57
 ,,,,,,,,,,1,5.23,Dallas Mavericks,free throw,,,,,,,1,,1,Kaman,1,,foul,made,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=58
-,,,,,,,,,,1,5.13,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=60
+,,,,,,,,,,1,5.13,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,Collison,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=60
 ,,,,,,,,,,1,5.00,Dallas Mavericks,shot,Collison,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,19-21,24,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=61
 ,,,,,,,,,,1,4.52,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=63
 ,,,,,,,,,,1,4.34,Philadelphia 76ers,shot,,,,,,,,,,Richardson,,,,missed,,Jump Shot,,,19-21,15,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=64
@@ -73,7 +73,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.08,Dallas Mavericks,substitute,,,,Murphy,,Mayo,,,,,,,,,,,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=86
 ,,,,,,,,,,1,1.52,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Jump Shot,,,25-23,4,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=87
 ,,,,,,,,,,1,1.50,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=88
-,,,,,,,,,,1,1.45,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,,,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=89
+,,,,,,,,,,1,1.45,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,Collison,,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=89
 ,,,,,,,,,,1,1.27,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Jump Shot,,,25-23,14,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=91
 ,,,,,,,,,,1,1.24,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=93
 ,,,,,,,,,,1,1.24,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=118
@@ -83,7 +83,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.16,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,27-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=98
 ,,,,,,,,,,1,1.01,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,27-23,16,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=99
 ,,,,,,,,,,1,0.59,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,27-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=100
-,,,,,,,,,,1,0.57,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,27-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=101
+,,,,,,,,,,1,0.57,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,Collison,,,,27-23,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=101
 ,,,,,,,,,,1,0.55,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Driving Layup,,,29-23,2,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=102
 ,,,,,,,,,,1,0.41,Philadelphia 76ers,shot,Wright,,,,,,,,,Turner,2,,,made,,Jump Shot,,,29-25,19,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=103
 ,,,,,,,,,,1,0.29,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,29-25,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=104
@@ -94,7 +94,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.04,Dallas Mavericks,free throw,,,,,,,2,,2,Collison,1,,foul,made,,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=111
 ,,,,,,,,,,1,0.00,Philadelphia 76ers,shot,,,,,,,,,,Wayns,,,,missed,,Jump Shot,,,31-28,21,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=113
 ,,,,,,,,,,1,0.00,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=114
-,,,,,,,,,,2,11.45,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=120
+,,,,,,,,,,2,11.45,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,Collison,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=120
 ,,,,,,,,,,2,11.42,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Driving Layup,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=121
 ,,,,,,,,,,2,11.20,Philadelphia 76ers,shot,Wright,,,,,,,,,Wayns,3,,,made,,3PT Pullup Jump Shot,,,33-31,25,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=122
 ,,,,,,,,,,2,11.11,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Jump Shot,,,35-31,11,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=123
@@ -106,10 +106,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.48,Dallas Mavericks,free throw,,,,,,,1,,1,Brand,1,,foul,made,,,,,38-31,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=129
 ,,,,,,,,,,2,10.33,Philadelphia 76ers,shot,,,,,,,,,,Wayns,,,,missed,,Jump Shot,,,38-31,3,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=131
 ,,,,,,,,,,2,10.32,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,38-31,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=132
-,,,,,,,,,,2,10.27,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Jump Shot,,,38-31,4,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=133
+,,,,,,,,,,2,10.27,Dallas Mavericks,shot,,,Wright,,,,,,,Collison,,,,missed,,Jump Shot,,,38-31,4,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=133
 ,,,,,,,,,,2,10.27,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,38-31,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=134
 ,,,,,,,,,,2,10.27,Philadelphia 76ers,substitute,,,,Brown,,Hawes,,,,,,,,,,,,,38-31,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=135
-,,,,,,,,,,2,10.07,Philadelphia 76ers,shot,,,,,,,,,,Wayns,,,,missed,,Layup,,,38-31,3,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=136
+,,,,,,,,,,2,10.07,Philadelphia 76ers,shot,,,Brand,,,,,,,Wayns,,,,missed,,Layup,,,38-31,3,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=136
 ,,,,,,,,,,2,10.04,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,38-31,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=137
 ,,,,,,,,,,2,9.57,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Step Back Jump Shot,,,38-31,12,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=138
 ,,,,,,,,,,2,9.56,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,38-31,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=139
@@ -151,7 +151,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.11,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Layup,,,42-39,2,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=183
 ,,,,,,,,,,2,7.09,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,42-39,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=186
 ,,,,,,,,,,2,7.09,Dallas Mavericks,shot,,,,,,,,,,Brand,2,,,made,,Putback Layup,,,44-39,2,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=185
-,,,,,,,,,,2,6.51,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,,,,,44-39,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=187
+,,,,,,,,,,2,6.51,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,Murphy,,,,44-39,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=187
 ,,,,,,,,,,2,6.45,Dallas Mavericks,shot,Crowder,,,,,,,,,Jones,2,,,made,,Layup,,,46-39,1,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=188
 ,,,,,,,,,,2,6.39,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,46-39,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=189
 ,,,,,,,,,,2,6.39,Dallas Mavericks,substitute,,,,Marion,,Jones,,,,,,,,,,,,,46-39,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=191
@@ -249,7 +249,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.48,Philadelphia 76ers,shot,,,,,,,,,,Richardson,,,,missed,,Jump Shot,,,58-59,18,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=312
 ,,,,,,,,,,3,9.46,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=313
 ,,,,,,,,,,3,9.37,Philadelphia 76ers,foul,,,,,,,,,,Richardson,,,,,,Personal,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=314
-,,,,,,,,,,3,9.31,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Lost Ball,,,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=315
+,,,,,,,,,,3,9.31,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Lost Ball,,Holiday,,,,58-59,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=315
 ,,,,,,,,,,3,9.21,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Driving Jump Shot,,,58-61,1,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=316
 ,,,,,,,,,,3,9.08,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,58-61,7,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=317
 ,,,,,,,,,,3,9.06,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,58-61,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=318
@@ -258,7 +258,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.47,Dallas Mavericks,shot,Mayo,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,60-61,14,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=321
 ,,,,,,,,,,3,8.47,Philadelphia 76ers,foul,,,,,,,,,,Allen,,,,,,Shooting,,,60-61,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=322
 ,,,,,,,,,,3,8.47,Dallas Mavericks,free throw,,,,,,,1,,1,Kaman,1,,foul,made,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=323
-,,,,,,,,,,3,8.34,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=325
+,,,,,,,,,,3,8.34,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,Crowder,,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=325
 ,,,,,,,,,,3,8.29,Philadelphia 76ers,foul,,,,,,,,,,Young,,,,,,Shooting,,,61-61,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=326
 ,,,,,,,,,,3,8.29,Dallas Mavericks,free throw,,,,,,,1,,2,Jones,1,,foul,made,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=327
 ,,,,,,,,,,3,8.29,Dallas Mavericks,free throw,,,,,,,2,,2,Jones,1,,foul,made,,,,,63-61,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=329
@@ -296,11 +296,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.40,Dallas Mavericks,substitute,,,,Carter,,Crowder,,,,,,,,,,,,,70-70,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=365
 ,,,,,,,,,,3,4.40,Philadelphia 76ers,free throw,,,,,,,1,,1,Turner,,,foul,missed,,,,,70-70,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=366
 ,,,,,,,,,,3,4.38,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,70-70,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=368
-,,,,,,,,,,3,4.25,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Layup,,,70-70,2,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=369
+,,,,,,,,,,3,4.25,Dallas Mavericks,shot,,,Brown,,,,,,,Collison,,,,missed,,Layup,,,70-70,2,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=369
 ,,,,,,,,,,3,4.25,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,70-70,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=370
 ,,,,,,,,,,3,4.18,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Jump Shot,,,70-70,14,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=371
 ,,,,,,,,,,3,4.16,Philadelphia 76ers,rebound,,,,,,,,,,Brown,,,,,,,,,70-70,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=372
-,,,,,,,,,,3,4.05,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,,,,,70-70,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=373
+,,,,,,,,,,3,4.05,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,Brand,,,,70-70,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=373
 ,,,,,,,,,,3,3.58,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,70-70,26,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=374
 ,,,,,,,,,,3,3.53,Philadelphia 76ers,rebound,,,,,,,,,,Brown,,,,,,,,,70-70,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=375
 ,,,,,,,,,,3,3.48,Philadelphia 76ers,shot,,,,,,,,,,Turner,2,,,made,,Jump Shot,,,70-72,15,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=376
@@ -368,21 +368,21 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.41,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,77-79,6,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=458
 ,,,,,,,,,,4,9.38,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,77-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=459
 ,,,,,,,,,,4,9.31,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Running Layup,,,79-79,3,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=460
-,,,,,,,,,,4,9.11,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=461
+,,,,,,,,,,4,9.11,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,Jones,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=461
 ,,,,,,,,,,4,9.03,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,3PT Jump Shot,,,79-79,25,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=462
 ,,,,,,,,,,4,9.02,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=463
-,,,,,,,,,,4,8.51,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=464
+,,,,,,,,,,4,8.51,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,Collison,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=464
 ,,,,,,,,,,4,8.47,Philadelphia 76ers,foul,,,,,,,,,,Wright,,,,,,Shooting,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=465
 ,,,,,,,,,,4,8.47,Philadelphia 76ers,substitute,,,,Richardson,,Wayns,,,,,,,,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=470
 ,,,,,,,,,,4,8.47,Dallas Mavericks,free throw,,,,,,,1,,2,Brand,1,,foul,made,,,,,80-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=471
 ,,,,,,,,,,4,8.47,Dallas Mavericks,free throw,,,,,,,2,,2,Brand,1,,foul,made,,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=473
 ,,,,,,,,,,4,8.32,Philadelphia 76ers,shot,Young,,,,,,,,,Hawes,2,,,made,,Jump Shot,,,81-81,16,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=475
 ,,,,,,,,,,4,8.14,Philadelphia 76ers,foul,,,,,,,,,,Young,,,,,,Personal,,,81-81,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=476
-,,,,,,,,,,4,8.05,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,81-81,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=477
+,,,,,,,,,,4,8.05,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Hawes,,,,81-81,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=477
 ,,,,,,,,,,4,7.55,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,3PT Jump Shot,,,81-81,24,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=478
 ,,,,,,,,,,4,7.52,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,81-81,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=479
 ,,,,,,,,,,4,7.51,Philadelphia 76ers,shot,Wright,,,,,,,,,Hawes,2,,,made,,Layup,,,81-83,2,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=480
-,,,,,,,,,,4,7.41,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,,,,,81-83,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=481
+,,,,,,,,,,4,7.41,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,Richardson,,,,81-83,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=481
 ,,,,,,,,,,4,7.24,Philadelphia 76ers,shot,Young,,,,,,,,,Wright,2,,,made,,Reverse Dunk,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=482
 ,,,,,,,,,,4,7.23,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=484
 ,,,,,,,,,,4,7.23,Philadelphia 76ers,substitute,,,,Brown,,Hawes,,,,,,,,,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=496
@@ -390,19 +390,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.23,Dallas Mavericks,substitute,,,,Mayo,,Collison,,,,,,,,,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=487
 ,,,,,,,,,,4,7.23,Dallas Mavericks,substitute,,,,Kaman,,Brand,,,,,,,,,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=488
 ,,,,,,,,,,4,7.23,Dallas Mavericks,substitute,,,,Jones,,Jones,,,,,,,,,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=489
-,,,,,,,,,,4,7.11,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=490
+,,,,,,,,,,4,7.11,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Richardson,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=490
 ,,,,,,,,,,4,6.53,Philadelphia 76ers,shot,Brown,,,,,,,,,Young,2,,,made,,Floating Jump Shot,,,81-87,11,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=491
 ,,,,,,,,,,4,6.36,Dallas Mavericks,turnover,,,,,,,,,,Mayo Poss,,,Lost Ball,,,,,,81-87,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=492
 ,,,,,,,,,,4,6.36,Philadelphia 76ers,substitute,,,,Young,,Wright,,,,,,,,,,,,,81-87,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=493
 ,,,,,,,,,,4,6.19,Philadelphia 76ers,shot,,,,,,,,,,Richardson,,,,missed,,Jump Shot,,,81-87,18,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=494
 ,,,,,,,,,,4,6.17,Dallas Mavericks,rebound,,,,,,,,,,Jones,,,,,,,,,81-87,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=495
-,,,,,,,,,,4,5.59,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Lost Ball,,,,,,81-87,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=497
+,,,,,,,,,,4,5.59,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Lost Ball,,Holiday,,,,81-87,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=497
 ,,,,,,,,,,4,5.55,Philadelphia 76ers,shot,Holiday,,,,,,,,,Young,2,,,made,,Layup,,,81-89,1,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=498
 ,,,,,,,,,,4,5.55,Dallas Mavericks,foul,,,,,,,,,,Crowder,,,,,,Shooting,,,81-89,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=499
 ,,,,,,,,,,4,5.55,Dallas Mavericks,substitute,,,,Collison,,Crowder,,,,,,,,,,,,,81-89,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=500
 ,,,,,,,,,,4,5.55,Dallas Mavericks,substitute,,,,Carter,,Jones,,,,,,,,,,,,,81-89,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=501
 ,,,,,,,,,,4,5.55,Philadelphia 76ers,free throw,,,,,,,1,,1,Young,1,,foul,made,,,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=502
-,,,,,,,,,,4,5.39,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=504
+,,,,,,,,,,4,5.39,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Brown,,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=504
 ,,,,,,,,,,4,5.37,Dallas Mavericks,foul,,,,,,,,,,Marion,,,,,,Personal,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=505
 ,,,,,,,,,,4,5.19,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Shooting,,,81-90,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=506
 ,,,,,,,,,,4,5.19,Philadelphia 76ers,free throw,,,,,,,1,,2,Young,1,,foul,made,,,,,81-91,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=507
@@ -443,8 +443,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.10,Philadelphia 76ers,substitute,,,,Allen,,Brown,,,,,,,,,,,,,92-98,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=558
 ,,,,,,,,,,4,2.10,Dallas Mavericks,free throw,,,,,,,2,,2,Mayo,1,,foul,made,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=559
 ,,,,,,,,,,4,1.52,Philadelphia 76ers,shot,Turner,,,,,,,,,Young,2,,,made,,Jump Shot,,,93-100,13,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=561
-,,,,,,,,,,4,1.41,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=562
-,,,,,,,,,,4,1.32,Philadelphia 76ers,turnover,,,,,,,,,,Richardson Poss,,,Lost Ball,,,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=563
+,,,,,,,,,,4,1.41,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Young,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=562
+,,,,,,,,,,4,1.32,Philadelphia 76ers,turnover,,,,,,,,,,Richardson Poss,,,Lost Ball,,Carter,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=563
 ,,,,,,,,,,4,1.24,Dallas Mavericks,shot,Mayo,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,96-100,28,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=564
 ,,,,,,,,,,4,1.04,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,96-100,13,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=565
 ,,,,,,,,,,4,1.02,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,96-100,,http://stats.nba.com/cvp.html?GameID=0021200204&GameEventID=566

@@ -22,7 +22,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.56,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,4-6,17,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=22
 ,,,,,,,,,,1,8.55,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=23
 ,,,,,,,,,,1,8.47,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Driving Layup,,,4-8,1,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=24
-,,,,,,,,,,1,8.30,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Jump Shot,,,4-8,4,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=25
+,,,,,,,,,,1,8.30,Portland Trail Blazers,shot,,,Young,,,,,,,Hickson,,,,missed,,Jump Shot,,,4-8,4,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=25
 ,,,,,,,,,,1,8.28,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=26
 ,,,,,,,,,,1,8.25,Philadelphia 76ers,shot,Young,,,,,,,,,Hawes,2,,,made,,Layup,,,4-10,1,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=27
 ,,,,,,,,,,1,8.23,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,4-10,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=28
@@ -30,7 +30,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.55,Philadelphia 76ers,shot,Young,,,,,,,,,Hawes,2,,,made,,Slam Dunk,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=31
 ,,,,,,,,,,1,7.34,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,6-12,25,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=32
 ,,,,,,,,,,1,7.32,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=33
-,,,,,,,,,,1,7.22,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=34
+,,,,,,,,,,1,7.22,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,Young,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=34
 ,,,,,,,,,,1,7.19,Portland Trail Blazers,foul,,,,,,,,,,Lillard,,,,,,Shooting,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=35
 ,,,,,,,,,,1,7.19,Philadelphia 76ers,free throw,,,,,,,1,,2,Young,1,,foul,made,,,,,6-13,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=36
 ,,,,,,,,,,1,7.19,Philadelphia 76ers,free throw,,,,,,,2,,2,Young,,,foul,missed,,,,,6-13,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=38
@@ -45,7 +45,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.16,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Traveling,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=51
 ,,,,,,,,,,1,5.59,Portland Trail Blazers,shot,Batum,,,,,,,,,Aldridge,2,,,made,,Turnaround Jump Shot,,,10-13,14,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=52
 ,,,,,,,,,,1,5.48,Philadelphia 76ers,shot,Holiday,,,,,,,,,Wilkins,2,,,made,,Jump Shot,,,10-15,13,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=53
-,,,,,,,,,,1,5.40,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=54
+,,,,,,,,,,1,5.40,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,Holiday,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=54
 ,,,,,,,,,,1,5.36,Philadelphia 76ers,shot,Wilkins,,,,,,,,,Young,2,,,made,,Dunk,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=55
 ,,,,,,,,,,1,5.17,Portland Trail Blazers,shot,Lillard,,,,,,,,,Aldridge,2,,,made,,Jump Shot,,,12-17,18,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=56
 ,,,,,,,,,,1,4.58,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,12-17,9,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=57
@@ -88,7 +88,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.41,Philadelphia 76ers,rebound,,,,,,,,,,Moultrie,,,,,,,,,28-32,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=105
 ,,,,,,,,,,2,11.36,Philadelphia 76ers,shot,Holiday,,,,,,,,,Jenkins,2,,,made,,Driving Layup,,,28-34,1,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=106
 ,,,,,,,,,,2,11.22,Philadelphia 76ers,foul,,,,,,,,,,Jenkins,,,,,,Personal,,,28-34,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=107
-,,,,,,,,,,2,11.09,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,28-34,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=109
+,,,,,,,,,,2,11.09,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Moultrie,,,,28-34,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=109
 ,,,,,,,,,,2,11.05,Philadelphia 76ers,shot,Moultrie,,,,,,,,,Holiday,2,,,made,,Driving Layup,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=110
 ,,,,,,,,,,2,10.53,Philadelphia 76ers,foul,,,,,,,,,,Wright,,,,,,Personal,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=112
 ,,,,,,,,,,2,10.53,Portland Trail Blazers,substitute,,,,Lillard,,Maynor,,,,,,,,,,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=113
@@ -103,7 +103,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.00,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=124
 ,,,,,,,,,,2,9.53,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,30-38,1,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=125
 ,,,,,,,,,,2,9.52,Philadelphia 76ers,rebound,,,,,,,,,,Moultrie,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=126
-,,,,,,,,,,2,9.46,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,30-38,7,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=127
+,,,,,,,,,,2,9.46,Philadelphia 76ers,shot,,,Batum,,,,,,,Holiday,,,,missed,,Jump Shot,,,30-38,7,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=127
 ,,,,,,,,,,2,9.42,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=128
 ,,,,,,,,,,2,9.34,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,30-38,25,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=129
 ,,,,,,,,,,2,9.32,Philadelphia 76ers,rebound,,,,,,,,,,Moultrie,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=130
@@ -111,7 +111,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.18,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=132
 ,,,,,,,,,,2,9.14,Portland Trail Blazers,turnover,,,,,,,,,,Barton,,,Bad Pass,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=133
 ,,,,,,,,,,2,9.14,Portland Trail Blazers,substitute,,,,Freeland,,Aldridge,,,,,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=134
-,,,,,,,,,,2,9.00,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=135
+,,,,,,,,,,2,9.00,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,Freeland,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=135
 ,,,,,,,,,,2,8.57,Philadelphia 76ers,foul,,,,,,,,,,Young,,,,,,Shooting,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=136
 ,,,,,,,,,,2,8.57,Portland Trail Blazers,substitute,,,,Matthews,,Batum,,,,,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=139
 ,,,,,,,,,,2,8.57,Portland Trail Blazers,free throw,,,,,,,1,,2,Freeland,1,,foul,made,,,,,31-38,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=140
@@ -121,11 +121,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.25,Portland Trail Blazers,foul,,,,,,,,,,Lillard,,,,,,Offensive Charge,,,32-41,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=146
 ,,,,,,,,,,2,8.25,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Foul,,,,,,32-41,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=147
 ,,,,,,,,,,2,8.25,Philadelphia 76ers,substitute,,,,Turner,,Jenkins,,,,,,,,,,,,,32-41,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=148
-,,,,,,,,,,2,8.13,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,32-41,5,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=149
+,,,,,,,,,,2,8.13,Philadelphia 76ers,shot,,,Leonard,,,,,,,Young,,,,missed,,Jump Shot,,,32-41,5,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=149
 ,,,,,,,,,,2,8.11,Portland Trail Blazers,rebound,,,,,,,,,,Freeland,,,,,,,,,32-41,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=150
-,,,,,,,,,,2,7.53,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Layup,,,32-41,1,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=152
+,,,,,,,,,,2,7.53,Portland Trail Blazers,shot,,,Young,,,,,,,Matthews,,,,missed,,Layup,,,32-41,1,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=152
 ,,,,,,,,,,2,7.50,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,32-41,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=153
-,,,,,,,,,,2,7.41,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Bad Pass,,,,,,32-41,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=154
+,,,,,,,,,,2,7.41,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Bad Pass,,Matthews,,,,32-41,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=154
 ,,,,,,,,,,2,7.38,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Driving Layup,,,34-41,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=155
 ,,,,,,,,,,2,7.20,Philadelphia 76ers,shot,Turner,,,,,,,,,Young,2,,,made,,Driving Bank Shot,,,34-43,5,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=156
 ,,,,,,,,,,2,7.04,Philadelphia 76ers,foul,,,,,,,,,,Young,,,,,,Personal,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=157
@@ -154,7 +154,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.58,Portland Trail Blazers,substitute,,,,Batum,,Maynor,,,,,,,,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=185
 ,,,,,,,,,,2,4.58,Portland Trail Blazers,substitute,,,,Aldridge,,Freeland,,,,,,,,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=186
 ,,,,,,,,,,2,4.58,Philadelphia 76ers,substitute,,,,Wilkins,,Turner,,,,,,,,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=187
-,,,,,,,,,,2,4.52,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=188
+,,,,,,,,,,2,4.52,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Wilkins,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=188
 ,,,,,,,,,,2,4.47,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,39-49,26,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=189
 ,,,,,,,,,,2,4.46,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=190
 ,,,,,,,,,,2,4.25,Portland Trail Blazers,shot,Aldridge,,,,,,,,,Matthews,2,,,made,,Jump Shot,,,41-49,21,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=191
@@ -172,12 +172,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.32,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=204
 ,,,,,,,,,,2,2.23,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,44-51,14,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=206
 ,,,,,,,,,,2,2.22,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=207
-,,,,,,,,,,2,2.20,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=208
+,,,,,,,,,,2,2.20,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Matthews,,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=208
 ,,,,,,,,,,2,2.14,Portland Trail Blazers,shot,Matthews,,,,,,,,,Lillard,2,,,made,,Pullup Jump Shot,,,46-51,10,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=209
 ,,,,,,,,,,2,1.51,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Jump Shot,,,46-51,18,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=210
 ,,,,,,,,,,2,1.49,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=211
 ,,,,,,,,,,2,1.48,Philadelphia 76ers,shot,Hawes,,,,,,,,,Young,2,,,made,,Layup,,,46-53,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=212
-,,,,,,,,,,2,1.29,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,,,,,46-53,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=213
+,,,,,,,,,,2,1.29,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,Young,,,,46-53,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=213
 ,,,,,,,,,,2,1.23,Philadelphia 76ers,shot,,,,,,,,,,Wilkins,,,,missed,,Layup,,,46-53,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=214
 ,,,,,,,,,,2,1.22,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,46-53,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=216
 ,,,,,,,,,,2,1.22,Philadelphia 76ers,shot,,,,,,,,,,Young,2,,,made,,Putback Dunk,,,46-55,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=215
@@ -198,7 +198,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.35,Philadelphia 76ers,shot,Hawes,,,,,,,,,Turner,2,,,made,,Jump Shot,,,50-60,20,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=238
 ,,,,,,,,,,3,11.23,Portland Trail Blazers,shot,,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,53-60,25,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=239
 ,,,,,,,,,,3,11.06,Philadelphia 76ers,shot,Holiday,,,,,,,,,Hawes,2,,,made,,Jump Shot,,,53-62,17,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=240
-,,,,,,,,,,3,10.49,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Jump Shot,,,53-62,3,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=241
+,,,,,,,,,,3,10.49,Portland Trail Blazers,shot,,,Hawes,,,,,,,Hickson,,,,missed,,Jump Shot,,,53-62,3,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=241
 ,,,,,,,,,,3,10.47,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,53-62,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=242
 ,,,,,,,,,,3,10.45,Philadelphia 76ers,shot,,,,,,,,,,Young,2,,,made,,Layup,,,53-64,3,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=243
 ,,,,,,,,,,3,10.45,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Shooting,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=244
@@ -208,10 +208,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.29,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=249
 ,,,,,,,,,,3,10.20,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,53-64,17,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=250
 ,,,,,,,,,,3,10.18,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=251
-,,,,,,,,,,3,10.06,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Layup,,,53-64,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=252
+,,,,,,,,,,3,10.06,Philadelphia 76ers,shot,,,Matthews,,,,,,,Turner,,,,missed,,Layup,,,53-64,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=252
 ,,,,,,,,,,3,10.05,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=253
 ,,,,,,,,,,3,10.02,Philadelphia 76ers,foul,,,,,,,,,,Young,,,,,,Personal,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=254
-,,,,,,,,,,3,9.59,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,53-64,21,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=255
+,,,,,,,,,,3,9.59,Portland Trail Blazers,shot,,,Holiday,,,,,,,Lillard,,,,missed,,Jump Shot,,,53-64,21,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=255
 ,,,,,,,,,,3,9.57,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=256
 ,,,,,,,,,,3,9.54,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Layup,,,53-64,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=257
 ,,,,,,,,,,3,9.53,Philadelphia 76ers,rebound,,,,,,,,,,Wilkins,,,,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=259
@@ -221,7 +221,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.31,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,53-66,20,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=262
 ,,,,,,,,,,3,9.28,Portland Trail Blazers,rebound,,,,,,,,,,Freeland,,,,,,,,,53-66,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=264
 ,,,,,,,,,,3,9.28,Portland Trail Blazers,shot,,,,,,,,,,Freeland,2,,,made,,Layup,,,55-66,1,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=263
-,,,,,,,,,,3,9.09,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,55-66,4,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=265
+,,,,,,,,,,3,9.09,Philadelphia 76ers,shot,,,Batum,,,,,,,Turner,,,,missed,,Jump Shot,,,55-66,4,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=265
 ,,,,,,,,,,3,9.07,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,55-66,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=266
 ,,,,,,,,,,3,8.54,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,55-66,25,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=267
 ,,,,,,,,,,3,8.53,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,55-66,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=268
@@ -240,7 +240,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.10,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,60-66,25,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=282
 ,,,,,,,,,,3,7.08,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,60-66,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=283
 ,,,,,,,,,,3,6.54,Philadelphia 76ers,shot,Holiday,,,,,,,,,Hawes,2,,,made,,Fadeaway Jumper,,,60-68,16,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=284
-,,,,,,,,,,3,6.29,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Layup,,,60-68,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=285
+,,,,,,,,,,3,6.29,Portland Trail Blazers,shot,,,Wright,,,,,,,Aldridge,,,,missed,,Layup,,,60-68,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=285
 ,,,,,,,,,,3,6.27,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,60-68,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=286
 ,,,,,,,,,,3,6.12,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,60-68,7,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=287
 ,,,,,,,,,,3,6.10,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,60-68,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=288
@@ -263,10 +263,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.11,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,64-74,18,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=308
 ,,,,,,,,,,3,4.09,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=309
 ,,,,,,,,,,3,3.57,Philadelphia 76ers,shot,Wilkins,,,,,,,,,Allen,2,,,made,,Hook Shot,,,64-76,4,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=310
-,,,,,,,,,,3,3.32,Portland Trail Blazers,turnover,,,,,,,,,,Freeland,,,Lost Ball,,,,,,64-76,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=311
+,,,,,,,,,,3,3.32,Portland Trail Blazers,turnover,,,,,,,,,,Freeland,,,Lost Ball,,Young,,,,64-76,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=311
 ,,,,,,,,,,3,3.23,Philadelphia 76ers,shot,Holiday,,,,,,,,,Young,2,,,made,,Jump Shot,,,64-78,17,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=313
 ,,,,,,,,,,3,2.58,Portland Trail Blazers,shot,Maynor,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,67-78,24,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=314
-,,,,,,,,,,3,2.29,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Layup,,,67-78,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=315
+,,,,,,,,,,3,2.29,Philadelphia 76ers,shot,,,Aldridge,,,,,,,Holiday,,,,missed,,Layup,,,67-78,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=315
 ,,,,,,,,,,3,2.27,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,67-78,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=316
 ,,,,,,,,,,3,2.19,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,67-78,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=317
 ,,,,,,,,,,3,2.17,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,67-78,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=318
@@ -294,9 +294,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.34,Portland Trail Blazers,rebound,,,,,,,,,,Maynor,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=341
 ,,,,,,,,,,3,0.28,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,72-78,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=342
 ,,,,,,,,,,3,0.26,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=343
-,,,,,,,,,,3,0.05,Philadelphia 76ers,shot,,,,,,,,,,Jenkins,,,,missed,,Jump Shot,,,72-78,7,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=344
+,,,,,,,,,,3,0.05,Philadelphia 76ers,shot,,,Maynor,,,,,,,Jenkins,,,,missed,,Jump Shot,,,72-78,7,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=344
 ,,,,,,,,,,3,0.03,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=345
-,,,,,,,,,,3,0.01,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,72-78,20,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=346
+,,,,,,,,,,3,0.01,Portland Trail Blazers,shot,,,Wright,,,,,,,Lillard,,,,missed,,Jump Shot,,,72-78,20,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=346
 ,,,,,,,,,,3,0.00,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=347
 ,,,,,,,,,,4,11.42,Philadelphia 76ers,foul,,,,,,,,,,Hawes,,,,,,Offensive Charge,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=351
 ,,,,,,,,,,4,11.42,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Foul,,,,,,72-78,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=352
@@ -307,13 +307,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.51,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=357
 ,,,,,,,,,,4,10.42,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,74-80,17,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=358
 ,,,,,,,,,,4,10.40,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=359
-,,,,,,,,,,4,10.35,Portland Trail Blazers,shot,,,,,,,,,,Maynor,,,,missed,,Jump Shot,,,74-80,3,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=360
+,,,,,,,,,,4,10.35,Portland Trail Blazers,shot,,,Wright,,,,,,,Maynor,,,,missed,,Jump Shot,,,74-80,3,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=360
 ,,,,,,,,,,4,10.32,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=361
 ,,,,,,,,,,4,10.18,Philadelphia 76ers,shot,,,,,,,,,,Jenkins,,,,missed,,Layup,,,74-80,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=362
 ,,,,,,,,,,4,10.16,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=363
 ,,,,,,,,,,4,10.12,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,74-80,16,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=364
 ,,,,,,,,,,4,10.10,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=365
-,,,,,,,,,,4,10.02,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Layup,,,74-80,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=366
+,,,,,,,,,,4,10.02,Portland Trail Blazers,shot,,,Hawes,,,,,,,Matthews,,,,missed,,Layup,,,74-80,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=366
 ,,,,,,,,,,4,10.01,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=367
 ,,,,,,,,,,4,9.49,Philadelphia 76ers,turnover,,,,,,,,,,Hawes Out of Bounds,,,Lost Ball,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=368
 ,,,,,,,,,,4,9.28,Portland Trail Blazers,shot,Babbitt,,,,,,,,,Leonard,2,,,made,,Turnaround Hook Shot,,,76-80,10,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=369
@@ -326,7 +326,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.01,Philadelphia 76ers,substitute,,,,Holiday,,Jenkins,,,,,,,,,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=376
 ,,,,,,,,,,4,9.01,Philadelphia 76ers,free throw,,,,,,,2,,2,Wright,1,,foul,made,,,,,76-82,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=377
 ,,,,,,,,,,4,8.42,Portland Trail Blazers,shot,Babbitt,,,,,,,,,Maynor,3,,,made,,3PT Jump Shot,,,79-82,24,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=379
-,,,,,,,,,,4,8.22,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,,,,,79-82,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=380
+,,,,,,,,,,4,8.22,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,Matthews,,,,79-82,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=380
 ,,,,,,,,,,4,8.17,Portland Trail Blazers,shot,Maynor,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,82-82,25,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=381
 ,,,,,,,,,,4,8.15,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,82-82,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=382
 ,,,,,,,,,,4,8.06,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,82-82,26,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=384
@@ -349,7 +349,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.22,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,82-85,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=402
 ,,,,,,,,,,4,6.20,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Driving Layup,,,82-87,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=401
 ,,,,,,,,,,4,6.01,Portland Trail Blazers,shot,Aldridge,,,,,,,,,Babbitt,3,,,made,,3PT Jump Shot,,,85-87,26,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=403
-,,,,,,,,,,4,5.44,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Lost Ball,,,,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=404
+,,,,,,,,,,4,5.44,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Lost Ball,,Matthews,,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=404
 ,,,,,,,,,,4,5.39,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Floating Jump Shot,,,87-87,8,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=405
 ,,,,,,,,,,4,5.27,Portland Trail Blazers,foul,,,,,,,,,,Maynor,,,,,,Personal,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=406
 ,,,,,,,,,,4,5.27,Philadelphia 76ers,substitute,,,,Wilkins,,Turner,,,,,,,,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=409
@@ -358,7 +358,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.15,Philadelphia 76ers,turnover,,,,,,,,,,Wilkins,,,Foul,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=412
 ,,,,,,,,,,4,4.58,Portland Trail Blazers,shot,Lillard,,,,,,,,,Babbitt,3,,,made,,3PT Jump Shot,,,90-87,27,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=413
 ,,,,,,,,,,4,4.41,Philadelphia 76ers,shot,Holiday,,,,,,,,,Young,2,,,made,,Layup,,,90-89,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=414
-,,,,,,,,,,4,4.25,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=415
+,,,,,,,,,,4,4.25,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Young,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=415
 ,,,,,,,,,,4,4.13,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,3PT Jump Shot,,,90-89,26,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=416
 ,,,,,,,,,,4,4.12,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=417
 ,,,,,,,,,,4,4.01,Portland Trail Blazers,shot,Lillard,,,,,,,,,Aldridge,2,,,made,,Driving Layup,,,92-89,2,http://stats.nba.com/cvp.html?GameID=0021200993&GameEventID=418

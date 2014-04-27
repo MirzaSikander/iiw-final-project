@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.47,Atlanta Hawks,shot,,,,,,,,,,Tolliver,,,,missed,,Jump Shot,,,,7,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=2
 ,,,,,,,,,,1,11.45,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=3
-,,,,,,,,,,1,11.39,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=4
+,,,,,,,,,,1,11.39,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,Johnson,,,,,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=4
 ,,,,,,,,,,1,11.36,San Antonio Spurs,foul,,,,,,,,,,Green,,,,,,Shooting,,,,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=5
 ,,,,,,,,,,1,11.36,Atlanta Hawks,free throw,,,,,,,1,,2,Jones,1,,foul,made,,,,,1-0,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=6
 ,,,,,,,,,,1,11.36,Atlanta Hawks,free throw,,,,,,,2,,2,Jones,1,,foul,made,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=8
@@ -45,7 +45,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.10,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=52
 ,,,,,,,,,,1,7.09,Atlanta Hawks,shot,,,,,,,,,,Petro,,,,missed,,Layup,,,6-10,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=51
 ,,,,,,,,,,1,7.07,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=53
-,,,,,,,,,,1,7.02,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,6-10,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=54
+,,,,,,,,,,1,7.02,San Antonio Spurs,shot,,,Johnson,,,,,,,Duncan,,,,missed,,Layup,,,6-10,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=54
 ,,,,,,,,,,1,6.59,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=55
 ,,,,,,,,,,1,6.57,San Antonio Spurs,foul,,,,,,,,,,De Colo,,,,,,Personal,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=56
 ,,,,,,,,,,1,6.57,Atlanta Hawks,substitute,,,,Scott,,Petro,,,,,,,,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=57
@@ -58,13 +58,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.08,Atlanta Hawks,substitute,,,,Jenkins,,Teague,,,,,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=66
 ,,,,,,,,,,1,6.03,Atlanta Hawks,foul,,,,,,,,,,Johnson,,,,,,Personal,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=67
 ,,,,,,,,,,1,6.03,San Antonio Spurs,substitute,,,,Diaw,,Splitter,,,,,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=68
-,,,,,,,,,,1,5.57,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=69
+,,,,,,,,,,1,5.57,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,Jones,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=69
 ,,,,,,,,,,1,5.50,Atlanta Hawks,shot,Mack,,,,,,,,,Scott,2,,,made,,Jump Shot,,,10-12,8,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=70
 ,,,,,,,,,,1,5.32,San Antonio Spurs,shot,,,,,,,,,,Leonard,2,,,made,,Turnaround Jump Shot,,,10-14,9,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=71
-,,,,,,,,,,1,5.17,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=72
+,,,,,,,,,,1,5.17,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Leonard,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=72
 ,,,,,,,,,,1,5.08,San Antonio Spurs,shot,,,,,,,,,,De Colo,,,,missed,,3PT Jump Shot,,,10-14,25,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=73
 ,,,,,,,,,,1,5.06,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=74
-,,,,,,,,,,1,4.57,Atlanta Hawks,shot,,,,,,,,,,Scott,,,,missed,,Layup,,,10-14,3,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=75
+,,,,,,,,,,1,4.57,Atlanta Hawks,shot,,,Duncan,,,,,,,Scott,,,,missed,,Layup,,,10-14,3,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=75
 ,,,,,,,,,,1,4.55,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=76
 ,,,,,,,,,,1,4.51,Atlanta Hawks,foul,,,,,,,,,,Mack,,,,,,Shooting,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=77
 ,,,,,,,,,,1,4.51,San Antonio Spurs,free throw,,,,,,,1,,2,Leonard,,,foul,missed,,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=78
@@ -95,7 +95,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.11,Atlanta Hawks,shot,Mack,,,,,,,,,Scott,2,,,made,,Jump Shot,,,18-21,17,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=110
 ,,,,,,,,,,1,1.46,San Antonio Spurs,shot,,,,,,,,,,Joseph,,,,missed,,3PT Jump Shot,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=111
 ,,,,,,,,,,1,1.44,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=112
-,,,,,,,,,,1,1.42,San Antonio Spurs,shot,,,,,,,,,,Joseph,,,,missed,,Layup,,,18-21,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=113
+,,,,,,,,,,1,1.42,San Antonio Spurs,shot,,,Petro,,,,,,,Joseph,,,,missed,,Layup,,,18-21,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=113
 ,,,,,,,,,,1,1.40,San Antonio Spurs,rebound,,,,,,,,,,Joseph,,,,,,,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=114
 ,,,,,,,,,,1,1.32,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,3PT Jump Shot,,,18-21,24,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=115
 ,,,,,,,,,,1,1.31,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=116
@@ -103,7 +103,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.07,Atlanta Hawks,shot,,,,,,,,,,Mack,2,,,made,,Jump Shot,,,20-21,15,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=118
 ,,,,,,,,,,1,0.57,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Jump Shot,,,20-21,13,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=119
 ,,,,,,,,,,1,0.55,Atlanta Hawks,rebound,,,,,,,,,,Scott,,,,,,,,,20-21,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=120
-,,,,,,,,,,1,0.43,Atlanta Hawks,shot,,,,,,,,,,Mack,,,,missed,,Layup,,,20-21,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=121
+,,,,,,,,,,1,0.43,Atlanta Hawks,shot,,,Blair,,,,,,,Mack,,,,missed,,Layup,,,20-21,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=121
 ,,,,,,,,,,1,0.41,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,20-21,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=122
 ,,,,,,,,,,1,0.33,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,3PT Jump Shot,,,20-21,25,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=123
 ,,,,,,,,,,1,0.32,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,20-21,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=124
@@ -133,9 +133,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.17,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Tip Shot,,,24-26,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=152
 ,,,,,,,,,,2,9.03,San Antonio Spurs,shot,,,,,,,,,,Joseph,,,,missed,,3PT Jump Shot,,,24-26,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=154
 ,,,,,,,,,,2,9.01,Atlanta Hawks,rebound,,,,,,,,,,Teague,,,,,,,,,24-26,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=155
-,,,,,,,,,,2,8.58,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Layup,,,24-26,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=156
+,,,,,,,,,,2,8.58,Atlanta Hawks,shot,,,Joseph,,,,,,,Teague,,,,missed,,Layup,,,24-26,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=156
 ,,,,,,,,,,2,8.57,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,24-26,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=157
-,,,,,,,,,,2,8.55,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Lost Ball,,,,,,24-26,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=158
+,,,,,,,,,,2,8.55,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Lost Ball,,Jones,,,,24-26,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=158
 ,,,,,,,,,,2,8.54,San Antonio Spurs,foul,,,,,,,,,,Jackson,,,,,,Personal,,,24-26,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=159
 ,,,,,,,,,,2,8.54,San Antonio Spurs,substitute,,,,Bonner,,Diaw,,,,,,,,,,,,,24-26,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=162
 ,,,,,,,,,,2,8.54,San Antonio Spurs,substitute,,,,Green,,Neal,,,,,,,,,,,,,24-26,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=163
@@ -158,20 +158,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.07,San Antonio Spurs,shot,,,,,,,,,,Bonner,,,,missed,,3PT Jump Shot,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=184
 ,,,,,,,,,,2,7.07,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=185
 ,,,,,,,,,,2,7.07,San Antonio Spurs,foul,,,,,,,,,,Jackson,,,,,,Loose ball,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=186
-,,,,,,,,,,2,6.58,Atlanta Hawks,shot,,,,,,,,,,Jones,,,,missed,,Layup,,,28-29,3,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=187
+,,,,,,,,,,2,6.58,Atlanta Hawks,shot,,,Bonner,,,,,,,Jones,,,,missed,,Layup,,,28-29,3,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=187
 ,,,,,,,,,,2,6.57,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=188
-,,,,,,,,,,2,6.46,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Turnaround Fadeaway Shot,,,28-29,12,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=189
+,,,,,,,,,,2,6.46,Atlanta Hawks,shot,,,Duncan,,,,,,,Johnson,,,,missed,,Turnaround Fadeaway Shot,,,28-29,12,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=189
 ,,,,,,,,,,2,6.43,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=190
 ,,,,,,,,,,2,6.40,San Antonio Spurs,shot,,,,,,,,,,Joseph,,,,missed,,Layup,,,28-29,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=191
 ,,,,,,,,,,2,6.39,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=215
-,,,,,,,,,,2,6.32,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Layup,,,28-29,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=202
+,,,,,,,,,,2,6.32,Atlanta Hawks,shot,,,Bonner,,,,,,,Johnson,,,,missed,,Layup,,,28-29,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=202
 ,,,,,,,,,,2,6.31,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=192
-,,,,,,,,,,2,6.28,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Layup,,,28-29,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=193
+,,,,,,,,,,2,6.28,Atlanta Hawks,shot,,,Duncan,,,,,,,Johnson,,,,missed,,Layup,,,28-29,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=193
 ,,,,,,,,,,2,6.27,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=194
 ,,,,,,,,,,2,6.21,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=195
 ,,,,,,,,,,2,6.20,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=197
 ,,,,,,,,,,2,6.20,San Antonio Spurs,shot,,,,,,,,,,Jackson,2,,,made,,Layup,,,28-31,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=196
-,,,,,,,,,,2,5.58,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Layup,,,28-31,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=198
+,,,,,,,,,,2,5.58,Atlanta Hawks,shot,,,Duncan,,,,,,,Teague,,,,missed,,Layup,,,28-31,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=198
 ,,,,,,,,,,2,5.57,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,28-31,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=199
 ,,,,,,,,,,2,5.51,Atlanta Hawks,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,28-31,13,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=200
 ,,,,,,,,,,2,5.49,San Antonio Spurs,rebound,,,,,,,,,,Joseph,,,,,,,,,28-31,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=201
@@ -198,10 +198,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.06,Atlanta Hawks,shot,Jones,,,,,,,,,Jenkins,2,,,made,,Layup,,,36-41,3,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=241
 ,,,,,,,,,,2,2.44,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Turnaround Jump Shot,,,36-41,8,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=242
 ,,,,,,,,,,2,2.41,Atlanta Hawks,rebound,,,,,,,,,,Mack,,,,,,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=243
-,,,,,,,,,,2,2.40,Atlanta Hawks,turnover,,,,,,,,,,Mack,,,Lost Ball,,,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=244
+,,,,,,,,,,2,2.40,Atlanta Hawks,turnover,,,,,,,,,,Mack,,,Lost Ball,,Jackson,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=244
 ,,,,,,,,,,2,2.37,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=245
 ,,,,,,,,,,2,2.35,Atlanta Hawks,rebound,,,,,,,,,,Jones,,,,,,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=246
-,,,,,,,,,,2,2.28,Atlanta Hawks,shot,,,,,,,,,,Petro,,,,missed,,Jump Shot,,,36-41,5,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=247
+,,,,,,,,,,2,2.28,Atlanta Hawks,shot,,,Bonner,,,,,,,Petro,,,,missed,,Jump Shot,,,36-41,5,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=247
 ,,,,,,,,,,2,2.26,Atlanta Hawks,rebound,,,,,,,,,,Scott,,,,,,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=248
 ,,,,,,,,,,2,2.13,Atlanta Hawks,turnover,,,,,,,,,,,,,Shot Clock,,,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=249
 ,,,,,,,,,,2,2.13,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=250
@@ -240,8 +240,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.17,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=290
 ,,,,,,,,,,3,10.05,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Reverse Layup,,,46-51,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=292
 ,,,,,,,,,,3,10.04,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=293
-,,,,,,,,,,3,9.49,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=294
-,,,,,,,,,,3,9.24,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Running Jump Shot,,,46-51,5,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=295
+,,,,,,,,,,3,9.49,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,Johnson,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=294
+,,,,,,,,,,3,9.24,Atlanta Hawks,shot,,,Leonard,,,,,,,Teague,,,,missed,,Running Jump Shot,,,46-51,5,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=295
 ,,,,,,,,,,3,9.23,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=296
 ,,,,,,,,,,3,9.10,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Jump Shot,,,46-51,4,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=297
 ,,,,,,,,,,3,9.09,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,46-51,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=298
@@ -254,7 +254,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.36,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,48-54,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=307
 ,,,,,,,,,,3,8.28,San Antonio Spurs,shot,,,,,,,,,,De Colo,,,,missed,,Jump Shot,,,48-54,6,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=308
 ,,,,,,,,,,3,8.27,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,48-54,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=309
-,,,,,,,,,,3,8.17,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,,,,,48-54,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=310
+,,,,,,,,,,3,8.17,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,Petro,,,,48-54,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=310
 ,,,,,,,,,,3,8.14,Atlanta Hawks,shot,Teague,,,,,,,,,Jones,2,,,made,,Layup,,,50-54,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=311
 ,,,,,,,,,,3,8.14,San Antonio Spurs,foul,,,,,,,,,,Leonard,,,,,,Shooting,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=312
 ,,,,,,,,,,3,8.14,San Antonio Spurs,substitute,,,,Joseph,,Neal,,,,,,,,,,,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=313
@@ -264,7 +264,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.42,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,51-56,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=318
 ,,,,,,,,,,3,7.39,San Antonio Spurs,foul,,,,,,,,,,,,,,,,,,,51-56,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=319
 ,,,,,,,,,,3,7.39,San Antonio Spurs,turnover,,,,,,,,,,Splitter,,,Foul,,,,,,51-56,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=320
-,,,,,,,,,,3,7.22,Atlanta Hawks,turnover,,,,,,,,,,Jones,,,Lost Ball,,,,,,51-56,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=322
+,,,,,,,,,,3,7.22,Atlanta Hawks,turnover,,,,,,,,,,Jones,,,Lost Ball,,Splitter,,,,51-56,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=322
 ,,,,,,,,,,3,7.17,San Antonio Spurs,shot,,,,,,,,,,Joseph,2,,,made,,Layup,,,51-58,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=323
 ,,,,,,,,,,3,7.06,Atlanta Hawks,turnover,,,,,,,,,,Petro,,,3 Second Violation,,,,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=324
 ,,,,,,,,,,3,6.52,Atlanta Hawks,foul,,,,,,,,,,Petro,,,,,,Shooting,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=325
@@ -273,7 +273,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.52,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=330
 ,,,,,,,,,,3,6.26,Atlanta Hawks,shot,,,,,,,,,,Petro,,,,missed,,Jump Shot,,,51-60,16,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=332
 ,,,,,,,,,,3,6.25,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=333
-,,,,,,,,,,3,6.22,San Antonio Spurs,turnover,,,,,,,,,,Joseph,,,Lost Ball,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=334
+,,,,,,,,,,3,6.22,San Antonio Spurs,turnover,,,,,,,,,,Joseph,,,Lost Ball,,Teague,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=334
 ,,,,,,,,,,3,6.18,Atlanta Hawks,shot,Teague,,,,,,,,,Petro,2,,,made,,Layup,,,53-60,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=335
 ,,,,,,,,,,3,5.54,San Antonio Spurs,shot,,,,,,,,,,Joseph,,,,missed,,Layup,,,53-60,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=336
 ,,,,,,,,,,3,5.53,Atlanta Hawks,rebound,,,,,,,,,,Teague,,,,,,,,,53-60,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=337
@@ -317,7 +317,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.02,San Antonio Spurs,free throw,,,,,,,2,,2,Jackson,1,,foul,made,,,,,57-69,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=382
 ,,,,,,,,,,3,2.49,Atlanta Hawks,shot,,,,,,,,,,Scott,,,,missed,,3PT Jump Shot,,,57-69,25,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=384
 ,,,,,,,,,,3,2.48,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,57-69,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=385
-,,,,,,,,,,3,2.40,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Lost Ball,,,,,,57-69,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=386
+,,,,,,,,,,3,2.40,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Lost Ball,,Mack,,,,57-69,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=386
 ,,,,,,,,,,3,2.35,Atlanta Hawks,shot,,,,,,,,,,Jenkins,2,,,made,,Layup,,,59-69,3,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=387
 ,,,,,,,,,,3,2.15,San Antonio Spurs,shot,,,,,,,,,,Joseph,,,,missed,,3PT Jump Shot,,,59-69,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=388
 ,,,,,,,,,,3,2.14,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,59-69,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=389
@@ -334,12 +334,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.08,Atlanta Hawks,shot,,,,,,,,,,Mack,3,,,made,,3PT Jump Shot,,,69-73,26,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=402
 ,,,,,,,,,,3,0.00,San Antonio Spurs,shot,,,,,,,,,,Joseph,,,,missed,,Turnaround Jump Shot,,,69-73,5,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=403
 ,,,,,,,,,,3,0.00,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=404
-,,,,,,,,,,4,11.46,Atlanta Hawks,turnover,,,,,,,,,,Scott,,,Bad Pass,,,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=408
+,,,,,,,,,,4,11.46,Atlanta Hawks,turnover,,,,,,,,,,Scott,,,Bad Pass,,Blair,,,,69-73,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=408
 ,,,,,,,,,,4,11.41,San Antonio Spurs,shot,Bonner,,,,,,,,,Blair,2,,,made,,Layup,,,69-75,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=409
 ,,,,,,,,,,4,11.23,Atlanta Hawks,shot,Petro,,,,,,,,,Jenkins,2,,,made,,Floating Jump Shot,,,71-75,6,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=410
 ,,,,,,,,,,4,11.07,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Jump Shot,,,71-75,15,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=411
 ,,,,,,,,,,4,11.06,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,71-75,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=412
-,,,,,,,,,,4,10.54,Atlanta Hawks,shot,,,,,,,,,,Jones,,,,missed,,Layup,,,71-75,3,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=413
+,,,,,,,,,,4,10.54,Atlanta Hawks,shot,,,Bonner,,,,,,,Jones,,,,missed,,Layup,,,71-75,3,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=413
 ,,,,,,,,,,4,10.53,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,71-75,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=414
 ,,,,,,,,,,4,10.33,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,71-75,26,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=415
 ,,,,,,,,,,4,10.32,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,71-75,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=416
@@ -349,7 +349,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.16,Atlanta Hawks,substitute,,,,Johnson,,Petro,,,,,,,,,,,,,71-75,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=420
 ,,,,,,,,,,4,10.02,San Antonio Spurs,shot,Joseph,,,,,,,,,Leonard,2,,,made,,Pullup Bank Shot,,,71-77,4,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=421
 ,,,,,,,,,,4,9.45,Atlanta Hawks,turnover,,,,,,,,,,Johnson Out of Bounds,,,Lost Ball,,,,,,71-77,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=422
-,,,,,,,,,,4,9.33,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Lost Ball,,,,,,71-77,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=423
+,,,,,,,,,,4,9.33,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Lost Ball,,Teague,,,,71-77,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=423
 ,,,,,,,,,,4,9.29,San Antonio Spurs,violation,,,,,,,,,,Leonard,,,Defensive Goaltending,,,,,,71-77,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=426
 ,,,,,,,,,,4,9.29,Atlanta Hawks,shot,Teague,,,,,,,,,Scott,2,,,made,,Layup,,,73-77,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=424
 ,,,,,,,,,,4,9.06,San Antonio Spurs,shot,,,,,,,,,,Joseph,2,,,made,,Driving Reverse Layup,,,73-79,1,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=427
@@ -385,9 +385,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.16,Atlanta Hawks,free throw,,,,,,,1,,2,Scott,,,foul,missed,,,,,79-89,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=462
 ,,,,,,,,,,4,5.16,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,79-89,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=463
 ,,,,,,,,,,4,5.16,Atlanta Hawks,free throw,,,,,,,2,,2,Scott,1,,foul,made,,,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=464
-,,,,,,,,,,4,5.06,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Bad Pass,,,,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=466
+,,,,,,,,,,4,5.06,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Bad Pass,,Johnson,,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=466
 ,,,,,,,,,,4,5.06,San Antonio Spurs,foul,,,,,,,,,,Leonard,,,,,,Personal,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=467
-,,,,,,,,,,4,4.57,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Dunk,,,80-89,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=468
+,,,,,,,,,,4,4.57,Atlanta Hawks,shot,,,Leonard,,,,,,,Johnson,,,,missed,,Dunk,,,80-89,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=468
 ,,,,,,,,,,4,4.56,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=469
 ,,,,,,,,,,4,4.38,San Antonio Spurs,shot,,,,,,,,,,De Colo,,,,missed,,Layup,,,80-89,2,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=470
 ,,,,,,,,,,4,4.37,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=471
@@ -433,14 +433,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.27,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,93-97,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=520
 ,,,,,,,,,,4,0.27,San Antonio Spurs,free throw,,,,,,,2,,2,Leonard,1,,foul,made,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=521
 ,,,,,,,,,,4,0.27,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=523
-,,,,,,,,,,4,0.23,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Lost Ball,,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=525
+,,,,,,,,,,4,0.23,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Lost Ball,,Leonard,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=525
 ,,,,,,,,,,4,0.18,Atlanta Hawks,foul,,,,,,,,,,Jones,,,,,,Personal,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=526
 ,,,,,,,,,,4,0.18,San Antonio Spurs,free throw,,,,,,,1,,2,Green,,,foul,missed,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=527
 ,,,,,,,,,,4,0.18,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=528
 ,,,,,,,,,,4,0.18,San Antonio Spurs,substitute,,,,Blair,,Duncan,,,,,,,,,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=529
 ,,,,,,,,,,4,0.18,San Antonio Spurs,free throw,,,,,,,2,,2,Green,1,,foul,made,,,,,93-99,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=530
 ,,,,,,,,,,4,0.08,Atlanta Hawks,shot,Mack,,,,,,,,,Jones,2,,,made,,Step Back Jump Shot,,,95-99,18,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=532
-,,,,,,,,,,4,0.03,San Antonio Spurs,turnover,,,,,,,,,,Splitter,,,Lost Ball,,,,,,95-99,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=533
+,,,,,,,,,,4,0.03,San Antonio Spurs,turnover,,,,,,,,,,Splitter,,,Lost Ball,,Jones,,,,95-99,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=533
 ,,,,,,,,,,4,0.01,San Antonio Spurs,foul,,,,,,,,,,Joseph,,,,,,Shooting,,,95-99,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=534
 ,,,,,,,,,,4,0.01,Atlanta Hawks,free throw,,,,,,,1,,3,Jones,1,,foul,made,,,,,96-99,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=537
 ,,,,,,,,,,4,0.01,Atlanta Hawks,free throw,,,,,,,2,,3,Jones,1,,foul,made,,,,,97-99,,http://stats.nba.com/cvp.html?GameID=0021201143&GameEventID=539

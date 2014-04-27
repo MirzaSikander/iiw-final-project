@@ -18,7 +18,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.11,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Floating Jump Shot,,,7-8,11,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=18
 ,,,,,,,,,,1,7.54,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,7-8,20,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=19
 ,,,,,,,,,,1,7.53,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=20
-,,,,,,,,,,1,7.52,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Putback Layup,,,7-8,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=21
+,,,,,,,,,,1,7.52,Memphis Grizzlies,shot,,,Smith,,,,,,,Randolph,,,,missed,,Putback Layup,,,7-8,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=21
 ,,,,,,,,,,1,7.50,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=22
 ,,,,,,,,,,1,7.48,Memphis Grizzlies,foul,,,,,,,,,,Allen,,,,,,Personal,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=23
 ,,,,,,,,,,1,7.38,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Hook Shot,,,7-10,10,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=24
@@ -76,7 +76,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.24,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,22-26,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=86
 ,,,,,,,,,,1,0.24,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Putback Layup,,,22-26,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=85
 ,,,,,,,,,,1,0.23,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,22-26,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=87
-,,,,,,,,,,1,0.22,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Putback Layup,,,22-26,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=88
+,,,,,,,,,,1,0.22,Memphis Grizzlies,shot,,,Tolliver,,,,,,,Gasol,,,,missed,,Putback Layup,,,22-26,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=88
 ,,,,,,,,,,1,0.20,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,22-26,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=89
 ,,,,,,,,,,1,0.01,Atlanta Hawks,shot,,,,,,,,,,Tolliver,,,,missed,,3PT Jump Shot,,,22-26,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=90
 ,,,,,,,,,,1,0.01,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,22-26,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=91
@@ -109,7 +109,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.37,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Jump Shot,,,26-32,18,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=126
 ,,,,,,,,,,2,9.36,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=128
 ,,,,,,,,,,2,9.36,Memphis Grizzlies,shot,,,,,,,,,,Gasol,2,,,made,,Tip Shot,,,28-32,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=127
-,,,,,,,,,,2,9.12,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,,,,,28-32,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=129
+,,,,,,,,,,2,9.12,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,Gasol,,,,28-32,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=129
 ,,,,,,,,,,2,9.07,Memphis Grizzlies,shot,Daye,,,,,,,,,Bayless,2,,,made,,Running Layup,,,30-32,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=130
 ,,,,,,,,,,2,8.48,Atlanta Hawks,shot,Korver,,,,,,,,,Petro,2,,,made,,Layup,,,30-34,2,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=131
 ,,,,,,,,,,2,8.32,Atlanta Hawks,foul,,,,,,,,,,Petro,,,,,,Personal,,,30-34,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=132
@@ -156,12 +156,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.39,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Hook Shot,,,37-44,8,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=188
 ,,,,,,,,,,2,4.30,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Driving Layup,,,37-46,3,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=189
 ,,,,,,,,,,2,4.17,Memphis Grizzlies,shot,Gasol,,,,,,,,,Conley,2,,,made,,Running Layup,,,39-46,2,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=191
-,,,,,,,,,,2,4.08,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=192
-,,,,,,,,,,2,3.51,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=193
+,,,,,,,,,,2,4.08,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Gasol,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=192
+,,,,,,,,,,2,3.51,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Korver,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=193
 ,,,,,,,,,,2,3.39,Atlanta Hawks,shot,Teague,,,,,,,,,Jenkins,3,,,made,,3PT Jump Shot,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=194
-,,,,,,,,,,2,3.14,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Driving Hook Shot,,,39-49,4,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=195
+,,,,,,,,,,2,3.14,Memphis Grizzlies,shot,,,Korver,,,,,,,Prince,,,,missed,,Driving Hook Shot,,,39-49,4,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=195
 ,,,,,,,,,,2,3.12,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=196
-,,,,,,,,,,2,2.55,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=197
+,,,,,,,,,,2,2.55,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Gasol,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=197
 ,,,,,,,,,,2,2.46,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Driving Hook Shot,,,39-49,5,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=198
 ,,,,,,,,,,2,2.45,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=199
 ,,,,,,,,,,2,2.40,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=200
@@ -212,8 +212,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.34,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,48-63,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=262
 ,,,,,,,,,,3,9.10,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,48-63,18,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=263
 ,,,,,,,,,,3,9.08,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,48-63,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=264
-,,,,,,,,,,3,9.04,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Lost Ball,,,,,,48-63,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=265
-,,,,,,,,,,3,8.56,Atlanta Hawks,shot,,,,,,,,,,Tolliver,,,,missed,,Layup,,,48-63,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=266
+,,,,,,,,,,3,9.04,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Lost Ball,,Horford,,,,48-63,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=265
+,,,,,,,,,,3,8.56,Atlanta Hawks,shot,,,Randolph,,,,,,,Tolliver,,,,missed,,Layup,,,48-63,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=266
 ,,,,,,,,,,3,8.54,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,48-63,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=267
 ,,,,,,,,,,3,8.49,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,48-63,18,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=268
 ,,,,,,,,,,3,8.48,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,48-63,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=269
@@ -231,7 +231,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.22,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,3PT Jump Shot,,,48-67,24,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=287
 ,,,,,,,,,,3,7.21,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,48-67,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=288
 ,,,,,,,,,,3,7.15,Atlanta Hawks,shot,,,,,,,,,,Tolliver,2,,,made,,Running Layup,,,48-69,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=289
-,,,,,,,,,,3,6.54,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,48-69,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=290
+,,,,,,,,,,3,6.54,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Smith,,,,48-69,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=290
 ,,,,,,,,,,3,6.45,Memphis Grizzlies,substitute,,,,Bayless,,Prince,,,,,,,,,,,,,48-69,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=294
 ,,,,,,,,,,3,6.45,Memphis Grizzlies,substitute,,,,Arthur,,Gasol,,,,,,,,,,,,,48-69,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=295
 ,,,,,,,,,,3,6.39,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,3PT Jump Shot,,,48-69,25,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=296
@@ -239,7 +239,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.27,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Jump Shot,,,50-69,19,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=298
 ,,,,,,,,,,3,6.03,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,3PT Jump Shot,,,50-69,26,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=299
 ,,,,,,,,,,3,6.01,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,50-69,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=300
-,,,,,,,,,,3,5.52,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,50-69,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=302
+,,,,,,,,,,3,5.52,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Conley,,,,50-69,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=302
 ,,,,,,,,,,3,5.39,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,50-69,22,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=303
 ,,,,,,,,,,3,5.38,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,50-69,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=304
 ,,,,,,,,,,3,5.31,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,50-69,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=307
@@ -257,7 +257,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.28,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Turnaround Fadeaway Shot,,,52-72,12,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=324
 ,,,,,,,,,,3,4.26,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,52-72,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=325
 ,,,,,,,,,,3,4.19,Atlanta Hawks,shot,Smith,,,,,,,,,Teague,2,,,made,,Running Layup,,,52-74,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=326
-,,,,,,,,,,3,4.01,Memphis Grizzlies,shot,,,,,,,,,,Wroten,,,,missed,,Driving Layup,,,52-74,2,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=327
+,,,,,,,,,,3,4.01,Memphis Grizzlies,shot,,,Smith,,,,,,,Wroten,,,,missed,,Driving Layup,,,52-74,2,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=327
 ,,,,,,,,,,3,3.59,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,52-74,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=328
 ,,,,,,,,,,3,3.55,Memphis Grizzlies,foul,,,,,,,,,,Arthur,,,,,,Shooting,,,52-74,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=329
 ,,,,,,,,,,3,3.55,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,,,foul,missed,,,,,52-74,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=330
@@ -267,7 +267,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.55,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,52-75,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=334
 ,,,,,,,,,,3,3.42,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Jump Shot,,,52-75,18,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=337
 ,,,,,,,,,,3,3.41,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,52-75,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=338
-,,,,,,,,,,3,3.29,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Bad Pass,,,,,,52-75,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=339
+,,,,,,,,,,3,3.29,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Bad Pass,,Arthur,,,,52-75,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=339
 ,,,,,,,,,,3,3.25,Memphis Grizzlies,foul,,,,,,,,,,Davis,,,,,,Offensive Charge,,,52-75,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=340
 ,,,,,,,,,,3,3.25,Memphis Grizzlies,turnover,,,,,,,,,,Davis,,,Foul,,,,,,52-75,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=341
 ,,,,,,,,,,3,3.01,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Turnaround Jump Shot,,,52-75,15,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=342
@@ -297,11 +297,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.42,Atlanta Hawks,free throw,,,,,,,1,,2,Harris,1,,foul,made,,,,,60-79,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=368
 ,,,,,,,,,,3,0.42,Atlanta Hawks,free throw,,,,,,,2,,2,Harris,1,,foul,made,,,,,60-80,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=370
 ,,,,,,,,,,3,0.35,Memphis Grizzlies,shot,Wroten,,,,,,,,,Davis,2,,,made,,Dunk,,,62-80,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=372
-,,,,,,,,,,3,0.21,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Driving Jump Shot,,,62-80,4,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=373
+,,,,,,,,,,3,0.21,Atlanta Hawks,shot,,,Davis,,,,,,,Smith,,,,missed,,Driving Jump Shot,,,62-80,4,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=373
 ,,,,,,,,,,3,0.20,Memphis Grizzlies,rebound,,,,,,,,,,Davis,,,,,,,,,62-80,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=374
 ,,,,,,,,,,3,0.08,Memphis Grizzlies,shot,,,,,,,,,,Daye,,,,missed,,3PT Jump Shot,,,62-80,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=375
 ,,,,,,,,,,3,0.07,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,62-80,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=376
-,,,,,,,,,,3,0.02,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,62-80,27,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=377
+,,,,,,,,,,3,0.02,Atlanta Hawks,shot,,,Arthur,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,62-80,27,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=377
 ,,,,,,,,,,3,0.00,Atlanta Hawks,rebound,,,,,,,,,,Scott,,,,,,,,,62-80,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=378
 ,,,,,,,,,,3,0.00,Atlanta Hawks,shot,,,,,,,,,,Scott,,,,missed,,Jump Shot,,,62-80,6,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=379
 ,,,,,,,,,,3,0.00,Memphis Grizzlies,rebound,,,,,,,,,,Davis,,,,,,,,,62-80,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=380
@@ -312,9 +312,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.08,Atlanta Hawks,shot,Horford,,,,,,,,,Johnson,2,,,made,,Driving Slam Dunk,,,64-82,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=388
 ,,,,,,,,,,4,10.56,Memphis Grizzlies,shot,,,,,,,,,,Wroten,,,,missed,,Jump Shot,,,64-82,20,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=389
 ,,,,,,,,,,4,10.53,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,64-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=390
-,,,,,,,,,,4,10.37,Atlanta Hawks,turnover,,,,,,,,,,Scott,,,Bad Pass,,,,,,64-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=391
-,,,,,,,,,,4,10.32,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,,,,,64-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=392
-,,,,,,,,,,4,10.27,Atlanta Hawks,shot,,,,,,,,,,Jenkins,,,,missed,,Running Layup,,,64-82,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=393
+,,,,,,,,,,4,10.37,Atlanta Hawks,turnover,,,,,,,,,,Scott,,,Bad Pass,,Daye,,,,64-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=391
+,,,,,,,,,,4,10.32,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,Johnson,,,,64-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=392
+,,,,,,,,,,4,10.27,Atlanta Hawks,shot,,,Wroten,,,,,,,Jenkins,,,,missed,,Running Layup,,,64-82,1,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=393
 ,,,,,,,,,,4,10.25,Memphis Grizzlies,rebound,,,,,,,,,,Daye,,,,,,,,,64-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=394
 ,,,,,,,,,,4,10.22,Memphis Grizzlies,shot,Arthur,,,,,,,,,Bayless,2,,,made,,Running Layup,,,66-82,2,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=395
 ,,,,,,,,,,4,9.56,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,66-82,9,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=397
@@ -323,7 +323,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.55,Atlanta Hawks,substitute,,,,Smith,,Johnson,,,,,,,,,,,,,66-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=400
 ,,,,,,,,,,4,9.45,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Personal,,,66-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=401
 ,,,,,,,,,,4,9.45,Atlanta Hawks,substitute,,,,Korver,,Scott,,,,,,,,,,,,,66-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=402
-,,,,,,,,,,4,9.33,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Driving Layup,,,66-82,2,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=403
+,,,,,,,,,,4,9.33,Memphis Grizzlies,shot,,,Smith,,,,,,,Arthur,,,,missed,,Driving Layup,,,66-82,2,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=403
 ,,,,,,,,,,4,9.31,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,66-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=404
 ,,,,,,,,,,4,9.12,Memphis Grizzlies,foul,,,,,,,,,,Daye,,,,,,Shooting,,,66-82,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=405
 ,,,,,,,,,,4,9.12,Atlanta Hawks,free throw,,,,,,,1,,2,Teague,1,,foul,made,,,,,66-83,,http://stats.nba.com/cvp.html?GameID=0021200725&GameEventID=406

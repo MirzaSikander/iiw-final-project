@@ -16,7 +16,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.31,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Driving Layup,,,2-4,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=16
 ,,,,,,,,,,1,9.15,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Jump Shot,,,2-4,20,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=17
 ,,,,,,,,,,1,9.14,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=18
-,,,,,,,,,,1,8.57,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=20
+,,,,,,,,,,1,8.57,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Garnett,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=20
 ,,,,,,,,,,1,8.45,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Layup,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=21
 ,,,,,,,,,,1,8.31,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,2-6,16,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=22
 ,,,,,,,,,,1,8.30,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=23
@@ -83,7 +83,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.27,Philadelphia 76ers,substitute,,,,Holiday,,Turner,,,,,,,,,,,,,13-22,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=92
 ,,,,,,,,,,1,1.27,Philadelphia 76ers,free throw,,,,,,,2,,2,Moultrie,1,,foul,made,,,,,14-22,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=93
 ,,,,,,,,,,1,1.10,Boston Celtics,turnover,,,,,,,,,,Green,,,Traveling,,,,,,14-22,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=96
-,,,,,,,,,,1,0.53,Philadelphia 76ers,shot,,,,,,,,,,Wilkins,,,,missed,,Layup,,,14-22,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=97
+,,,,,,,,,,1,0.53,Philadelphia 76ers,shot,,,Wilcox,,,,,,,Wilkins,,,,missed,,Layup,,,14-22,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=97
 ,,,,,,,,,,1,0.50,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,14-22,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=98
 ,,,,,,,,,,1,0.50,Philadelphia 76ers,shot,,,,,,,,,,Wright,2,,,made,,Floating Jump Shot,,,16-22,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=99
 ,,,,,,,,,,1,0.50,Philadelphia 76ers,violation,,,,,,,,,,76ers,,, Delay of game Violation,,,,,,16-22,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=100
@@ -95,8 +95,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.00,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,16-24,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=107
 ,,,,,,,,,,2,11.40,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Layup,,,16-24,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=113
 ,,,,,,,,,,2,11.39,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,16-24,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=114
-,,,,,,,,,,2,11.27,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,16-24,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=115
-,,,,,,,,,,2,11.23,Philadelphia 76ers,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,16-24,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=116
+,,,,,,,,,,2,11.27,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,Allen,,,,16-24,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=115
+,,,,,,,,,,2,11.23,Philadelphia 76ers,turnover,,,,,,,,,,Allen,,,Bad Pass,,Rondo,,,,16-24,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=116
 ,,,,,,,,,,2,11.06,Boston Celtics,shot,,,,,,,,,,Garnett,2,,,made,,Pullup Jump Shot,,,16-26,14,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=117
 ,,,,,,,,,,2,10.51,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Turnaround Jump Shot,,,16-26,14,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=118
 ,,,,,,,,,,2,10.50,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,16-26,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=119
@@ -162,14 +162,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.57,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,23-36,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=189
 ,,,,,,,,,,2,4.57,Philadelphia 76ers,free throw,,,,,,,2,,2,Young,1,,foul,made,,,,,24-36,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=190
 ,,,,,,,,,,2,4.45,Boston Celtics,shot,Pierce,,,,,,,,,Terry,3,,,made,,3PT Jump Shot,,,24-39,24,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=192
-,,,,,,,,,,2,4.20,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Layup,,,24-39,2,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=193
+,,,,,,,,,,2,4.20,Philadelphia 76ers,shot,,,Wilcox,,,,,,,Turner,,,,missed,,Layup,,,24-39,2,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=193
 ,,,,,,,,,,2,4.18,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,24-39,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=194
 ,,,,,,,,,,2,4.13,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Driving Layup,,,24-41,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=195
 ,,,,,,,,,,2,3.55,Philadelphia 76ers,shot,,,,,,,,,,Richardson,,,,missed,,Alley Oop Layup,,,24-41,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=196
 ,,,,,,,,,,2,3.53,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,24-41,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=197
 ,,,,,,,,,,2,3.35,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,24-41,24,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=199
 ,,,,,,,,,,2,3.34,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,24-41,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=200
-,,,,,,,,,,2,3.22,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,24-41,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=201
+,,,,,,,,,,2,3.22,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Wilcox,,,,24-41,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=201
 ,,,,,,,,,,2,3.13,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Jump Shot,,,24-41,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=202
 ,,,,,,,,,,2,3.12,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,24-41,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=203
 ,,,,,,,,,,2,3.12,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,24-41,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=204
@@ -209,17 +209,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,28-48,21,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=251
 ,,,,,,,,,,2,0.00,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,28-48,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=252
 ,,,,,,,,,,3,11.36,Philadelphia 76ers,shot,Turner,,,,,,,,,Young,2,,,made,,Turnaround Jump Shot,,,30-48,10,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=257
-,,,,,,,,,,3,11.09,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,30-48,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=258
+,,,,,,,,,,3,11.09,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Young,,,,30-48,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=258
 ,,,,,,,,,,3,11.03,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,3PT Jump Shot,,,30-48,25,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=259
 ,,,,,,,,,,3,11.01,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,30-48,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=260
 ,,,,,,,,,,3,11.01,Philadelphia 76ers,shot,,,,,,,,,,Turner,2,,,made,,Tip Shot,,,32-48,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=261
 ,,,,,,,,,,3,10.43,Boston Celtics,shot,,,,,,,,,,Garnett,2,,,made,,Layup,,,32-50,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=262
-,,,,,,,,,,3,10.26,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Lost Ball,,,,,,32-50,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=263
-,,,,,,,,,,3,10.23,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,32-50,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=264
+,,,,,,,,,,3,10.26,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Lost Ball,,Rondo,,,,32-50,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=263
+,,,,,,,,,,3,10.23,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Richardson,,,,32-50,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=264
 ,,,,,,,,,,3,10.08,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,32-50,14,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=265
 ,,,,,,,,,,3,10.06,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,32-50,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=266
 ,,,,,,,,,,3,9.45,Boston Celtics,shot,Rondo,,,,,,,,,Garnett,2,,,made,,Fadeaway Jumper,,,32-52,20,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=267
-,,,,,,,,,,3,9.27,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Bad Pass,,,,,,32-52,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=268
+,,,,,,,,,,3,9.27,Philadelphia 76ers,turnover,,,,,,,,,,Richardson,,,Bad Pass,,Pierce,,,,32-52,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=268
 ,,,,,,,,,,3,9.09,Boston Celtics,turnover,,,,,,,,,,Bass,,,3 Second Violation,,,,,,32-52,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=271
 ,,,,,,,,,,3,8.55,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Personal,,,32-52,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=272
 ,,,,,,,,,,3,8.46,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Fadeaway Jumper,,,32-52,15,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=273
@@ -268,7 +268,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.10,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Jump Shot,,,53-65,20,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=319
 ,,,,,,,,,,3,2.09,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,53-65,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=320
 ,,,,,,,,,,3,1.56,Philadelphia 76ers,shot,,,,,,,,,,Young,2,,,made,,Running Hook Shot,,,55-65,5,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=321
-,,,,,,,,,,3,1.29,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,55-65,4,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=322
+,,,,,,,,,,3,1.29,Boston Celtics,shot,,,Hawes,,,,,,,Green,,,,missed,,Jump Shot,,,55-65,4,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=322
 ,,,,,,,,,,3,1.28,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,55-65,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=323
 ,,,,,,,,,,3,1.19,Philadelphia 76ers,shot,,,,,,,,,,Turner,2,,,made,,Jump Shot,,,57-65,5,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=324
 ,,,,,,,,,,3,1.05,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,57-65,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=325
@@ -296,8 +296,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.23,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=354
 ,,,,,,,,,,4,10.18,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Layup,,,59-75,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=355
 ,,,,,,,,,,4,10.17,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=356
-,,,,,,,,,,4,10.11,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=357
-,,,,,,,,,,4,10.05,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=358
+,,,,,,,,,,4,10.11,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,Rondo,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=357
+,,,,,,,,,,4,10.05,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Wayns,,,,59-75,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=358
 ,,,,,,,,,,4,10.01,Philadelphia 76ers,shot,,,,,,,,,,Wayns,2,,,made,,Driving Layup,,,61-75,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=360
 ,,,,,,,,,,4,9.35,Boston Celtics,shot,,,,,,,,,,Green,2,,,made,,Jump Shot,,,61-77,20,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=361
 ,,,,,,,,,,4,9.18,Boston Celtics,foul,,,,,,,,,,Sullinger,,,,,,Personal Block,,,61-77,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=362
@@ -328,7 +328,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.45,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,70-85,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=389
 ,,,,,,,,,,4,5.45,Philadelphia 76ers,substitute,,,,Richardson,,Wayns,,,,,,,,,,,,,70-85,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=391
 ,,,,,,,,,,4,5.27,Philadelphia 76ers,shot,Holiday,,,,,,,,,Young,2,,,made,,Jump Shot,,,72-85,6,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=392
-,,,,,,,,,,4,5.04,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Jump Shot,,,72-85,4,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=393
+,,,,,,,,,,4,5.04,Boston Celtics,shot,,,Young,,,,,,,Sullinger,,,,missed,,Jump Shot,,,72-85,4,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=393
 ,,,,,,,,,,4,5.03,Philadelphia 76ers,rebound,,,,,,,,,,Richardson,,,,,,,,,72-85,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=394
 ,,,,,,,,,,4,4.56,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,3PT Jump Shot,,,72-85,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=395
 ,,,,,,,,,,4,4.55,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,72-85,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=396
@@ -371,7 +371,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.48,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Fadeaway Jumper,,,73-92,10,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=437
 ,,,,,,,,,,4,1.47,Philadelphia 76ers,rebound,,,,,,,,,,Wayns,,,,,,,,,73-92,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=438
 ,,,,,,,,,,4,1.30,Philadelphia 76ers,shot,Hawes,,,,,,,,,Moultrie,2,,,made,,Dunk,,,75-92,1,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=439
-,,,,,,,,,,4,1.15,Boston Celtics,shot,,,,,,,,,,Barbosa,,,,missed,,Jump Shot,,,75-92,4,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=440
+,,,,,,,,,,4,1.15,Boston Celtics,shot,,,Hawes,,,,,,,Barbosa,,,,missed,,Jump Shot,,,75-92,4,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=440
 ,,,,,,,,,,4,1.14,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,75-92,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=441
 ,,,,,,,,,,4,1.09,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Pullup Jump Shot,,,75-92,14,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=442
 ,,,,,,,,,,4,1.06,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,75-92,,http://stats.nba.com/cvp.html?GameID=0021200285&GameEventID=443

@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.17,Toronto Raptors,shot,,,,,,,,,,Calderon,,,,missed,,Pullup Jump Shot,,,2-2,18,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=13
 ,,,,,,,,,,1,10.16,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=14
 ,,,,,,,,,,1,9.52,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Step Back Jump Shot,,,2-4,23,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=15
-,,,,,,,,,,1,9.30,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Running Jump Shot,,,2-4,5,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=16
+,,,,,,,,,,1,9.30,Toronto Raptors,shot,,,Wright,,,,,,,Bargnani,,,,missed,,Running Jump Shot,,,2-4,5,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=16
 ,,,,,,,,,,1,9.28,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=17
 ,,,,,,,,,,1,9.25,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Pullup Jump Shot,,,2-4,16,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=18
 ,,,,,,,,,,1,9.23,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=19
@@ -86,8 +86,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.28,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Driving Reverse Layup,,,18-27,2,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=103
 ,,,,,,,,,,1,2.27,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,18-27,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=104
 ,,,,,,,,,,1,2.17,Dallas Mavericks,shot,Collison,,,,,,,,,Murphy,3,,,made,,3PT Jump Shot,,,18-30,24,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=105
-,,,,,,,,,,1,1.58,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=106
-,,,,,,,,,,1,1.53,Dallas Mavericks,turnover,,,,,,,,,,Murphy,,,Lost Ball,,,,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=107
+,,,,,,,,,,1,1.58,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Murphy,,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=106
+,,,,,,,,,,1,1.53,Dallas Mavericks,turnover,,,,,,,,,,Murphy,,,Lost Ball,,Anderson,,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=107
 ,,,,,,,,,,1,1.52,Dallas Mavericks,foul,,,,,,,,,,Murphy,,,,,,Personal,,,18-30,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=108
 ,,,,,,,,,,1,1.52,Toronto Raptors,free throw,,,,,,,1,,2,Anderson,1,,foul,made,,,,,19-30,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=109
 ,,,,,,,,,,1,1.52,Dallas Mavericks,substitute,,,,Mayo,,Collison,,,,,,,,,,,,,19-30,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=111
@@ -128,7 +128,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.23,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,26-38,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=154
 ,,,,,,,,,,2,10.23,Dallas Mavericks,substitute,,,,Crowder,,Carter,,,,,,,,,,,,,26-38,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=155
 ,,,,,,,,,,2,10.23,Dallas Mavericks,free throw,,,,,,,2,,2,Jones,1,,foul,made,,,,,26-39,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=156
-,,,,,,,,,,2,10.07,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,,,,,26-39,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=158
+,,,,,,,,,,2,10.07,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,Mayo,,,,26-39,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=158
 ,,,,,,,,,,2,10.04,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Offensive Charge,,,26-39,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=159
 ,,,,,,,,,,2,10.04,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Foul,,,,,,26-39,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=160
 ,,,,,,,,,,2,9.49,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,26-39,24,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=161
@@ -198,11 +198,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.50,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Tip Shot,,,39-50,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=248
 ,,,,,,,,,,2,4.49,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,39-50,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=250
 ,,,,,,,,,,2,4.46,Dallas Mavericks,shot,,,,,,,,,,Wright,2,,,made,,Dunk,,,39-52,1,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=251
-,,,,,,,,,,2,4.28,Toronto Raptors,turnover,,,,,,,,,,Gray,,,Bad Pass,,,,,,39-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=252
-,,,,,,,,,,2,4.25,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,,,,,39-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=253
+,,,,,,,,,,2,4.28,Toronto Raptors,turnover,,,,,,,,,,Gray,,,Bad Pass,,Carter,,,,39-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=252
+,,,,,,,,,,2,4.25,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,Gray,,,,39-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=253
 ,,,,,,,,,,2,4.19,Toronto Raptors,shot,DeRozan,,,,,,,,,Calderon,3,,,made,,3PT Jump Shot,,,42-52,25,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=254
-,,,,,,,,,,2,4.03,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=255
-,,,,,,,,,,2,3.57,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,Driving Layup,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=256
+,,,,,,,,,,2,4.03,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,Bargnani,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=255
+,,,,,,,,,,2,3.57,Toronto Raptors,shot,,,Wright,,,,,,,Fields,,,,missed,,Driving Layup,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=256
 ,,,,,,,,,,2,3.55,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=257
 ,,,,,,,,,,2,3.54,Toronto Raptors,foul,,,,,,,,,,Gray,,,,,,Flagrant,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=265
 ,,,,,,,,,,2,3.54,Dallas Mavericks,free throw,,,,,,,,,,Collison,1,,foul,made,,,,,42-53,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=267
@@ -217,7 +217,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.13,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Shooting,,,44-55,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=279
 ,,,,,,,,,,2,3.13,Dallas Mavericks,free throw,,,,,,,1,,1,Wright,1,,foul,made,,,,,44-56,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=280
 ,,,,,,,,,,2,2.58,Toronto Raptors,shot,Calderon,,,,,,,,,Bargnani,2,,,made,,Driving Hook Shot,,,46-56,5,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=282
-,,,,,,,,,,2,2.47,Dallas Mavericks,turnover,,,,,,,,,,Wright,,,Bad Pass,,,,,,46-56,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=283
+,,,,,,,,,,2,2.47,Dallas Mavericks,turnover,,,,,,,,,,Wright,,,Bad Pass,,Bargnani,,,,46-56,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=283
 ,,,,,,,,,,2,2.40,Toronto Raptors,shot,,,,,,,,,,Calderon,,,,missed,,3PT Jump Shot,,,46-56,25,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=284
 ,,,,,,,,,,2,2.39,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,46-56,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=285
 ,,,,,,,,,,2,2.31,Dallas Mavericks,shot,Mayo,,,,,,,,,Kaman,2,,,made,,Driving Layup,,,46-58,1,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=286
@@ -239,7 +239,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.57,Toronto Raptors,shot,,,,,,,,,,Bargnani,2,,,made,,Driving Finger Roll Layup,,,50-61,2,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=308
 ,,,,,,,,,,2,0.46,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Floating Jump Shot,,,50-61,14,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=309
 ,,,,,,,,,,2,0.45,Toronto Raptors,rebound,,,,,,,,,,Lucas III,,,,,,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=310
-,,,,,,,,,,2,0.24,Toronto Raptors,shot,,,,,,,,,,Gray,,,,missed,,Jump Shot,,,50-61,5,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=311
+,,,,,,,,,,2,0.24,Toronto Raptors,shot,,,Kaman,,,,,,,Gray,,,,missed,,Jump Shot,,,50-61,5,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=311
 ,,,,,,,,,,2,0.22,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=312
 ,,,,,,,,,,2,0.03,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Driving Layup,,,50-61,1,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=313
 ,,,,,,,,,,2,0.01,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,50-61,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=314
@@ -269,8 +269,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.32,Dallas Mavericks,shot,Kaman,,,,,,,,,Crowder,3,,,made,,3PT Jump Shot,,,54-66,25,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=348
 ,,,,,,,,,,3,9.12,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Driving Jump Shot,,,54-66,5,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=350
 ,,,,,,,,,,3,9.11,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,54-66,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=351
-,,,,,,,,,,3,9.06,Toronto Raptors,turnover,,,,,,,,,,Fields,,,Lost Ball,,,,,,54-66,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=352
-,,,,,,,,,,3,9.02,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Driving Layup,,,54-66,2,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=353
+,,,,,,,,,,3,9.06,Toronto Raptors,turnover,,,,,,,,,,Fields,,,Lost Ball,,Collison,,,,54-66,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=352
+,,,,,,,,,,3,9.02,Dallas Mavericks,shot,,,Johnson,,,,,,,Collison,,,,missed,,Driving Layup,,,54-66,2,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=353
 ,,,,,,,,,,3,9.00,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,54-66,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=354
 ,,,,,,,,,,3,8.47,Toronto Raptors,shot,DeRozan,,,,,,,,,Bargnani,2,,,made,,Turnaround Jump Shot,,,56-66,13,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=355
 ,,,,,,,,,,3,8.34,Dallas Mavericks,shot,,,,,,,,,,Wright,,,,missed,,Alley Oop Dunk,,,56-66,1,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=356
@@ -293,7 +293,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.03,Dallas Mavericks,violation,,,,,,,,,,MAVERICKS,,, Delay of game Violation,,,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=376
 ,,,,,,,,,,3,6.48,Toronto Raptors,turnover,,,,,,,,,,DeRozan Out of Bounds,,,Lost Ball,,,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=377
 ,,,,,,,,,,3,6.48,Dallas Mavericks,substitute,,,,Collison,,Jones,,,,,,,,,,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=378
-,,,,,,,,,,3,6.39,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=379
+,,,,,,,,,,3,6.39,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,Calderon,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=379
 ,,,,,,,,,,3,6.30,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,3PT Jump Shot,,,60-72,25,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=380
 ,,,,,,,,,,3,6.29,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,60-72,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=381
 ,,,,,,,,,,3,6.22,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Pullup Jump Shot,,,60-74,13,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=382
@@ -358,8 +358,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.46,Toronto Raptors,free throw,,,,,,,2,,2,DeRozan,,,foul,missed,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=450
 ,,,,,,,,,,3,0.45,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=452
 ,,,,,,,,,,3,0.45,Toronto Raptors,substitute,,,,McGuire,,DeRozan,,,,,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=453
-,,,,,,,,,,3,0.26,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=455
-,,,,,,,,,,3,0.20,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Driving Jump Shot,,,74-82,6,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=456
+,,,,,,,,,,3,0.26,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,McGuire,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=455
+,,,,,,,,,,3,0.20,Toronto Raptors,shot,,,Murphy,,,,,,,Anderson,,,,missed,,Driving Jump Shot,,,74-82,6,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=456
 ,,,,,,,,,,3,0.20,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=457
 ,,,,,,,,,,3,0.02,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,74-82,25,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=458
 ,,,,,,,,,,3,0.00,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,74-82,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=459
@@ -382,7 +382,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.48,Toronto Raptors,free throw,,,,,,,2,,2,Johnson,,,foul,missed,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=482
 ,,,,,,,,,,4,9.48,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=484
 ,,,,,,,,,,4,9.47,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Loose ball,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=485
-,,,,,,,,,,4,9.33,Toronto Raptors,shot,,,,,,,,,,Acy,,,,missed,,Jump Shot,,,77-90,6,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=486
+,,,,,,,,,,4,9.33,Toronto Raptors,shot,,,Carter,,,,,,,Acy,,,,missed,,Jump Shot,,,77-90,6,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=486
 ,,,,,,,,,,4,9.32,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=487
 ,,,,,,,,,,4,9.27,Toronto Raptors,foul,,,,,,,,,,McGuire,,,,,,Personal,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=488
 ,,,,,,,,,,4,9.27,Toronto Raptors,substitute,,,,Calderon,,Lucas III,,,,,,,,,,,,,77-90,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=489
@@ -411,7 +411,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.07,Toronto Raptors,shot,DeRozan,,,,,,,,,Calderon,3,,,made,,3PT Jump Shot,,,84-95,26,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=516
 ,,,,,,,,,,4,6.54,Dallas Mavericks,shot,Mayo,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,84-97,15,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=517
 ,,,,,,,,,,4,6.39,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Turnaround Fadeaway,,,86-97,12,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=518
-,,,,,,,,,,4,6.29,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,,,,,86-97,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=519
+,,,,,,,,,,4,6.29,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,Johnson,,,,86-97,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=519
 ,,,,,,,,,,4,6.18,Toronto Raptors,shot,Calderon,,,,,,,,,Johnson,2,,,made,,Alley Oop Dunk,,,88-97,1,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=520
 ,,,,,,,,,,4,6.16,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,88-97,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=522
 ,,,,,,,,,,4,6.00,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,88-97,17,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=527
@@ -447,7 +447,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.48,Toronto Raptors,shot,,,,,,,,,,Bargnani,2,,,made,,Reverse Layup,,,97-105,2,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=563
 ,,,,,,,,,,4,2.29,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Driving Jump Shot,,,97-105,6,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=564
 ,,,,,,,,,,4,2.28,Toronto Raptors,rebound,,,,,,,,,,McGuire,,,,,,,,,97-105,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=565
-,,,,,,,,,,4,2.09,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,97-105,14,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=566
+,,,,,,,,,,4,2.09,Toronto Raptors,shot,,,Carter,,,,,,,DeRozan,,,,missed,,Jump Shot,,,97-105,14,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=566
 ,,,,,,,,,,4,2.09,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,97-105,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=567
 ,,,,,,,,,,4,2.09,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,97-105,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=568
 ,,,,,,,,,,4,2.04,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,3PT Jump Shot,,,97-105,,http://stats.nba.com/cvp.html?GameID=0021200061&GameEventID=571

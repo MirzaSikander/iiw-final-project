@@ -2,14 +2,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.40,Portland Trail Blazers,shot,Lillard,,,,,,,,,Aldridge,2,,,made,,Fadeaway Jumper,,,0-2,19,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=2
 ,,,,,,,,,,1,11.17,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,3,,,made,,3PT Pullup Jump Shot,,,3-2,24,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=4
 ,,,,,,,,,,1,11.02,Portland Trail Blazers,shot,Hickson,,,,,,,,,Lillard,2,,,made,,Reverse Layup,,,3-4,2,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=5
-,,,,,,,,,,1,10.42,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Running Hook Shot,,,3-4,6,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=6
+,,,,,,,,,,1,10.42,Minnesota Timberwolves,shot,,,Hickson,,,,,,,Pekovic,,,,missed,,Running Hook Shot,,,3-4,6,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=6
 ,,,,,,,,,,1,10.41,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=7
 ,,,,,,,,,,1,10.33,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,3-4,20,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=8
 ,,,,,,,,,,1,10.31,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=9
 ,,,,,,,,,,1,10.21,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Hook Shot,,,3-4,8,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=10
 ,,,,,,,,,,1,10.20,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=11
 ,,,,,,,,,,1,10.19,Minnesota Timberwolves,shot,,,,,,,,,,Love,2,,,made,,Layup,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=12
-,,,,,,,,,,1,9.55,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=13
+,,,,,,,,,,1,9.55,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Love,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=13
 ,,,,,,,,,,1,9.47,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,3PT Jump Shot,,,5-4,25,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=14
 ,,,,,,,,,,1,9.46,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=15
 ,,,,,,,,,,1,9.38,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Running Bank Shot,,,5-6,10,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=16
@@ -52,7 +52,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.41,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Pekovic,2,,,made,,Dunk,,,22-17,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=58
 ,,,,,,,,,,1,4.15,Portland Trail Blazers,shot,Batum,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,22-20,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=59
 ,,,,,,,,,,1,4.03,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Lee,3,,,made,,3PT Jump Shot,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=60
-,,,,,,,,,,1,3.41,Portland Trail Blazers,turnover,,,,,,,,,,Leonard,,,Bad Pass,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=61
+,,,,,,,,,,1,3.41,Portland Trail Blazers,turnover,,,,,,,,,,Leonard,,,Bad Pass,,Kirilenko,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=61
 ,,,,,,,,,,1,3.37,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Lee,2,,,made,,Dunk,,,27-20,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=62
 ,,,,,,,,,,1,3.20,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,2,,,made,,Layup,,,27-22,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=63
 ,,,,,,,,,,1,3.01,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Running Hook Shot,,,27-22,5,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=64
@@ -63,7 +63,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.45,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,27-24,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=69
 ,,,,,,,,,,1,2.45,Minnesota Timberwolves,substitute,,,,Cunningham,,Pekovic,,,,,,,,,,,,,27-24,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=71
 ,,,,,,,,,,1,2.45,Portland Trail Blazers,substitute,,,,Jeffries,,Aldridge,,,,,,,,,,,,,27-24,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=72
-,,,,,,,,,,1,2.33,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Lost Ball,,,,,,27-24,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=73
+,,,,,,,,,,1,2.33,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Lost Ball,,Cunningham,,,,27-24,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=73
 ,,,,,,,,,,1,2.31,Minnesota Timberwolves,shot,Lee,,,,,,,,,Kirilenko,2,,,made,,Dunk,,,29-24,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=74
 ,,,,,,,,,,1,2.04,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,29-24,24,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=75
 ,,,,,,,,,,1,2.04,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,29-24,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=76
@@ -75,7 +75,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.21,Portland Trail Blazers,substitute,,,,Babbitt,,Leonard,,,,,,,,,,,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=82
 ,,,,,,,,,,1,1.21,Minnesota Timberwolves,substitute,,,,Barea,,Lee,,,,,,,,,,,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=83
 ,,,,,,,,,,1,1.09,Portland Trail Blazers,shot,Babbitt,,,,,,,,,Lillard,2,,,made,,Jump Shot,,,31-26,21,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=84
-,,,,,,,,,,1,0.53,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,,,,,31-26,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=85
+,,,,,,,,,,1,0.53,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,Matthews,,,,31-26,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=85
 ,,,,,,,,,,1,0.50,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Driving Dunk,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=86
 ,,,,,,,,,,1,0.29,Portland Trail Blazers,foul,,,,,,,,,,Jeffries,,,,,,Shooting,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=87
 ,,,,,,,,,,1,0.29,Minnesota Timberwolves,free throw,,,,,,,1,,2,Love,1,,foul,made,,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=88
@@ -84,7 +84,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.08,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=93
 ,,,,,,,,,,1,0.03,Portland Trail Blazers,shot,,,,,,,,,,Babbitt,,,,missed,,3PT Jump Shot,,,33-28,29,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=94
 ,,,,,,,,,,1,0.01,Minnesota Timberwolves,rebound,,,,,,,,,,Barea,,,,,,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=95
-,,,,,,,,,,1,0.00,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,3PT Jump Shot,,,33-28,50,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=96
+,,,,,,,,,,1,0.00,Minnesota Timberwolves,shot,,,Lillard,,,,,,,Barea,,,,missed,,3PT Jump Shot,,,33-28,50,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=96
 ,,,,,,,,,,1,0.00,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=97
 ,,,,,,,,,,2,11.37,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Jump Shot,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=101
 ,,,,,,,,,,2,11.35,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=102
@@ -103,7 +103,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.56,Minnesota Timberwolves,shot,Barea,,,,,,,,,Howard,2,,,made,,Jump Bank Shot,,,37-28,21,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=115
 ,,,,,,,,,,2,9.50,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,37-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=116
 ,,,,,,,,,,2,9.50,Portland Trail Blazers,substitute,,,,Aldridge,,Jeffries,,,,,,,,,,,,,37-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=118
-,,,,,,,,,,2,9.39,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,,,,,37-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=119
+,,,,,,,,,,2,9.39,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,Shved,,,,37-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=119
 ,,,,,,,,,,2,9.26,Minnesota Timberwolves,shot,,,,,,,,,,Shved,2,,,made,,Driving Reverse Layup,,,39-28,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=120
 ,,,,,,,,,,2,9.03,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,39-28,19,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=121
 ,,,,,,,,,,2,9.03,Minnesota Timberwolves,rebound,,,,,,,,,,Howard,,,,,,,,,39-28,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=122
@@ -118,7 +118,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.16,Minnesota Timberwolves,rebound,,,,,,,,,,Amundson,,,,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=134
 ,,,,,,,,,,2,8.16,Minnesota Timberwolves,shot,,,,,,,,,,Amundson,,,,missed,,Tip Shot,,,41-30,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=133
 ,,,,,,,,,,2,8.14,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=135
-,,,,,,,,,,2,8.03,Portland Trail Blazers,turnover,,,,,,,,,,Barton,,,Bad Pass,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=136
+,,,,,,,,,,2,8.03,Portland Trail Blazers,turnover,,,,,,,,,,Barton,,,Bad Pass,,Barea,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=136
 ,,,,,,,,,,2,7.56,Minnesota Timberwolves,shot,,,,,,,,,,Amundson,,,,missed,,Jump Shot,,,41-30,4,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=137
 ,,,,,,,,,,2,7.55,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=138
 ,,,,,,,,,,2,7.49,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge Out of Bounds,,,Lost Ball,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=139
@@ -182,7 +182,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.43,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,53-44,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=207
 ,,,,,,,,,,2,1.19,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,Jump Shot,,,53-44,4,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=208
 ,,,,,,,,,,2,1.17,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,53-44,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=209
-,,,,,,,,,,2,1.14,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Lost Ball,,,,,,53-44,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=210
+,,,,,,,,,,2,1.14,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Lost Ball,,Jeffries,,,,53-44,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=210
 ,,,,,,,,,,2,1.03,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,53-47,25,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=211
 ,,,,,,,,,,2,0.50,Minnesota Timberwolves,foul,,,,,,,,,,,,,,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=212
 ,,,,,,,,,,2,0.50,Minnesota Timberwolves,turnover,,,,,,,,,,Cunningham,,,Foul,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=213
@@ -200,7 +200,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.11,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,57-50,3,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=228
 ,,,,,,,,,,3,11.09,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,57-50,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=229
 ,,,,,,,,,,3,11.00,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Jump Shot,,,57-52,16,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=230
-,,,,,,,,,,3,10.35,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,57-52,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=231
+,,,,,,,,,,3,10.35,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,Hickson,,,,57-52,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=231
 ,,,,,,,,,,3,10.34,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Personal,,,57-52,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=232
 ,,,,,,,,,,3,10.25,Minnesota Timberwolves,foul,,,,,,,,,,Lee,,,,,,Personal,,,57-52,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=233
 ,,,,,,,,,,3,10.21,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Shooting,,,57-52,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=234
@@ -221,7 +221,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.20,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,2,,,made,,Layup,,,61-58,2,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=253
 ,,,,,,,,,,3,8.02,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Driving Layup,,,61-58,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=254
 ,,,,,,,,,,3,7.59,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=255
-,,,,,,,,,,3,7.54,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,Layup,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=256
+,,,,,,,,,,3,7.54,Minnesota Timberwolves,shot,,,Batum,,,,,,,Love,,,,missed,,Layup,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=256
 ,,,,,,,,,,3,7.52,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=257
 ,,,,,,,,,,3,7.48,Minnesota Timberwolves,foul,,,,,,,,,,Lee,,,,,,Shooting,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=258
 ,,,,,,,,,,3,7.48,Portland Trail Blazers,free throw,,,,,,,1,,2,Hickson,,,foul,missed,,,,,61-58,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=259
@@ -233,9 +233,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.50,Minnesota Timberwolves,free throw,,,,,,,1,,2,Pekovic,1,,foul,made,,,,,64-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=266
 ,,,,,,,,,,3,6.50,Portland Trail Blazers,substitute,,,,Jeffries,,Aldridge,,,,,,,,,,,,,64-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=268
 ,,,,,,,,,,3,6.50,Minnesota Timberwolves,free throw,,,,,,,2,,2,Pekovic,1,,foul,made,,,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=269
-,,,,,,,,,,3,6.34,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,,,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=271
-,,,,,,,,,,3,6.30,Minnesota Timberwolves,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=272
-,,,,,,,,,,3,6.28,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=273
+,,,,,,,,,,3,6.34,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Lost Ball,,Love,,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=271
+,,,,,,,,,,3,6.30,Minnesota Timberwolves,turnover,,,,,,,,,,Lee,,,Bad Pass,,Matthews,,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=272
+,,,,,,,,,,3,6.28,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Love,,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=273
 ,,,,,,,,,,3,6.26,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Shooting,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=274
 ,,,,,,,,,,3,6.26,Minnesota Timberwolves,free throw,,,,,,,1,,2,Love,,,foul,missed,,,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=275
 ,,,,,,,,,,3,6.26,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,65-62,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=276
@@ -263,7 +263,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.25,Portland Trail Blazers,foul,,,,,,,,,,Leonard,,,,,,Technical,,,68-66,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=303
 ,,,,,,,,,,3,4.25,Minnesota Timberwolves,free throw,,,,,,,,,,Ridnour,,,Technical,missed,,,,,68-66,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=304
 ,,,,,,,,,,3,4.25,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,68-66,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=305
-,,,,,,,,,,3,4.17,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,Driving Layup,,,68-66,2,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=306
+,,,,,,,,,,3,4.17,Minnesota Timberwolves,shot,,,Leonard,,,,,,,Love,,,,missed,,Driving Layup,,,68-66,2,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=306
 ,,,,,,,,,,3,4.15,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,68-66,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=307
 ,,,,,,,,,,3,4.15,Portland Trail Blazers,foul,,,,,,,,,,Leonard,,,,,,Shooting,,,68-66,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=308
 ,,,,,,,,,,3,4.15,Minnesota Timberwolves,free throw,,,,,,,1,,2,Kirilenko,1,,foul,made,,,,,69-66,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=309
@@ -293,7 +293,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.17,Portland Trail Blazers,substitute,,,,Price,,Leonard,,,,,,,,,,,,,73-72,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=341
 ,,,,,,,,,,3,2.17,Portland Trail Blazers,free throw,,,,,,,2,,2,Batum,1,,foul,made,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=342
 ,,,,,,,,,,3,2.02,Minnesota Timberwolves,shot,,,,,,,,,,Love,2,,,made,,Fadeaway Bank Shot,,,75-73,15,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=344
-,,,,,,,,,,3,1.35,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Lost Ball,,,,,,75-73,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=345
+,,,,,,,,,,3,1.35,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Lost Ball,,Cunningham,,,,75-73,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=345
 ,,,,,,,,,,3,1.22,Portland Trail Blazers,foul,,,,,,,,,,Jeffries,,,,,,Shooting,,,75-73,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=346
 ,,,,,,,,,,3,1.22,Minnesota Timberwolves,free throw,,,,,,,1,,2,Love,,,foul,missed,,,,,75-73,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=347
 ,,,,,,,,,,3,1.22,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,75-73,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=348
@@ -320,10 +320,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.52,Minnesota Timberwolves,foul,,,,,,,,,,Howard,,,,,,Personal,,,78-81,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=376
 ,,,,,,,,,,4,11.37,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Turnaround Jump Shot,,,78-81,6,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=377
 ,,,,,,,,,,4,11.37,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,78-81,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=378
-,,,,,,,,,,4,11.26,Minnesota Timberwolves,turnover,,,,,,,,,,Amundson,,,Lost Ball,,,,,,78-81,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=379
-,,,,,,,,,,4,11.11,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Driving Layup,,,78-81,2,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=380
+,,,,,,,,,,4,11.26,Minnesota Timberwolves,turnover,,,,,,,,,,Amundson,,,Lost Ball,,Price,,,,78-81,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=379
+,,,,,,,,,,4,11.11,Portland Trail Blazers,shot,,,Amundson,,,,,,,Matthews,,,,missed,,Driving Layup,,,78-81,2,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=380
 ,,,,,,,,,,4,11.11,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,78-81,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=381
-,,,,,,,,,,4,11.11,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,78-81,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=382
+,,,,,,,,,,4,11.11,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,Cunningham,,,,78-81,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=382
 ,,,,,,,,,,4,10.56,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Pullup Jump Shot,,,78-81,24,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=383
 ,,,,,,,,,,4,10.55,Portland Trail Blazers,rebound,,,,,,,,,,Price,,,,,,,,,78-81,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=384
 ,,,,,,,,,,4,10.41,Portland Trail Blazers,shot,Pavlovic,,,,,,,,,Price,3,,,made,,3PT Jump Shot,,,78-84,24,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=385
@@ -339,9 +339,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.02,Portland Trail Blazers,shot,Matthews,,,,,,,,,Pavlovic,2,,,made,,Jump Shot,,,78-86,10,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=395
 ,,,,,,,,,,4,9.43,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Turnaround Fadeaway Shot,,,78-86,10,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=396
 ,,,,,,,,,,4,9.43,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=397
-,,,,,,,,,,4,9.34,Portland Trail Blazers,shot,,,,,,,,,,Price,,,,missed,,Driving Layup,,,78-86,3,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=398
+,,,,,,,,,,4,9.34,Portland Trail Blazers,shot,,,Cunningham,,,,,,,Price,,,,missed,,Driving Layup,,,78-86,3,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=398
 ,,,,,,,,,,4,9.32,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=399
-,,,,,,,,,,4,9.20,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=400
+,,,,,,,,,,4,9.20,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,Matthews,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=400
 ,,,,,,,,,,4,9.15,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Running Layup,,,78-88,3,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=401
 ,,,,,,,,,,4,9.10,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=402
 ,,,,,,,,,,4,9.10,Minnesota Timberwolves,substitute,,,,Kirilenko,,Shved,,,,,,,,,,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=404
@@ -349,10 +349,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.48,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,3PT Jump Shot,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=406
 ,,,,,,,,,,4,8.46,Minnesota Timberwolves,rebound,,,,,,,,,,Howard,,,,,,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=407
 ,,,,,,,,,,4,8.46,Minnesota Timberwolves,shot,,,,,,,,,,Howard,2,,,made,,Putback Layup,,,80-88,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=408
-,,,,,,,,,,4,8.24,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=409
+,,,,,,,,,,4,8.24,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,Pekovic,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=409
 ,,,,,,,,,,4,8.18,Minnesota Timberwolves,shot,,,,,,,,,,Howard,,,,missed,,Running Jump Shot,,,80-88,8,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=423
 ,,,,,,,,,,4,8.18,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=410
-,,,,,,,,,,4,8.16,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Layup,,,80-88,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=411
+,,,,,,,,,,4,8.16,Minnesota Timberwolves,shot,,,Hickson,,,,,,,Pekovic,,,,missed,,Layup,,,80-88,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=411
 ,,,,,,,,,,4,8.14,Portland Trail Blazers,rebound,,,,,,,,,,Pavlovic,,,,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=412
 ,,,,,,,,,,4,7.56,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Jump Shot,,,80-90,20,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=413
 ,,,,,,,,,,4,7.41,Minnesota Timberwolves,shot,,,,,,,,,,Howard,2,,,made,,Driving Reverse Layup,,,82-90,2,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=414
@@ -361,7 +361,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.08,Portland Trail Blazers,foul,,,,,,,,,,Pavlovic,,,,,,Personal,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=417
 ,,,,,,,,,,4,7.00,Minnesota Timberwolves,shot,Pekovic,,,,,,,,,Kirilenko,2,,,made,,Driving Layup,,,84-90,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=418
 ,,,,,,,,,,4,6.39,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Driving Reverse Layup,,,84-92,1,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=419
-,,,,,,,,,,4,6.25,Minnesota Timberwolves,turnover,,,,,,,,,,Howard,,,Lost Ball,,,,,,84-92,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=420
+,,,,,,,,,,4,6.25,Minnesota Timberwolves,turnover,,,,,,,,,,Howard,,,Lost Ball,,Matthews,,,,84-92,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=420
 ,,,,,,,,,,4,6.17,Portland Trail Blazers,shot,Price,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,84-95,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=421
 ,,,,,,,,,,4,6.16,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,84-95,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=422
 ,,,,,,,,,,4,6.16,Minnesota Timberwolves,substitute,,,,Ridnour,,Howard,,,,,,,,,,,,,84-95,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=425
@@ -403,7 +403,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.53,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,92-99,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=468
 ,,,,,,,,,,4,2.33,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Jump Shot,,,92-99,23,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=469
 ,,,,,,,,,,4,2.32,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,92-99,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=470
-,,,,,,,,,,4,2.23,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,Layup,,,92-99,2,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=471
+,,,,,,,,,,4,2.23,Minnesota Timberwolves,shot,,,Batum,,,,,,,Love,,,,missed,,Layup,,,92-99,2,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=471
 ,,,,,,,,,,4,2.21,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,92-99,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=472
 ,,,,,,,,,,4,2.03,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,3PT Jump Shot,,,92-99,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=473
 ,,,,,,,,,,4,2.02,Minnesota Timberwolves,rebound,,,,,,,,,,Howard,,,,,,,,,92-99,,http://stats.nba.com/cvp.html?GameID=0021200182&GameEventID=474

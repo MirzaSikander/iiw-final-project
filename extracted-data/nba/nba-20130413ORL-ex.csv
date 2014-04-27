@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.47,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,,25,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=2
 ,,,,,,,,,,1,11.45,Orlando Magic,rebound,,,,,,,,,,Udrih,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=3
-,,,,,,,,,,1,11.35,Orlando Magic,turnover,,,,,,,,,,Harris,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=4
+,,,,,,,,,,1,11.35,Orlando Magic,turnover,,,,,,,,,,Harris,,,Bad Pass,,Pierce,,,,,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=4
 ,,,,,,,,,,1,11.29,Boston Celtics,shot,,,,,,,,,,Green,2,,,made,,Driving Layup,,,2-0,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=5
 ,,,,,,,,,,1,11.13,Orlando Magic,shot,,,,,,,,,,O'Quinn,,,,missed,,Jump Shot,,,2-0,16,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=6
 ,,,,,,,,,,1,11.12,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=7
@@ -12,7 +12,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.08,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,7-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=12
 ,,,,,,,,,,1,10.01,Orlando Magic,shot,,,,,,,,,,Udrih,,,,missed,,Jump Shot,,,7-0,17,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=14
 ,,,,,,,,,,1,10.00,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,7-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=15
-,,,,,,,,,,1,9.54,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Running Jump Shot,,,7-0,4,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=16
+,,,,,,,,,,1,9.54,Boston Celtics,shot,,,Harris,,,,,,,Green,,,,missed,,Running Jump Shot,,,7-0,4,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=16
 ,,,,,,,,,,1,9.50,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,7-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=18
 ,,,,,,,,,,1,9.50,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Tip Shot,,,7-0,1,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=17
 ,,,,,,,,,,1,9.48,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,7-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=20
@@ -25,11 +25,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.44,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,3PT Jump Shot,,,9-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=29
 ,,,,,,,,,,1,8.43,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,9-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=30
 ,,,,,,,,,,1,8.43,Orlando Magic,foul,,,,,,,,,,O'Quinn,,,,,,Loose ball,,,9-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=31
-,,,,,,,,,,1,8.33,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,9-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=32
+,,,,,,,,,,1,8.33,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,Harkless,,,,9-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=32
 ,,,,,,,,,,1,8.23,Orlando Magic,shot,,,,,,,,,,O'Quinn,,,,missed,,Jump Shot,,,9-0,6,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=33
 ,,,,,,,,,,1,8.21,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,9-0,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=35
 ,,,,,,,,,,1,8.21,Orlando Magic,shot,,,,,,,,,,Vucevic,2,,,made,,Tip Shot,,,9-2,1,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=34
-,,,,,,,,,,1,7.59,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Lost Ball,,,,,,9-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=36
+,,,,,,,,,,1,7.59,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Lost Ball,,Vucevic,,,,9-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=36
 ,,,,,,,,,,1,7.50,Orlando Magic,shot,,,,,,,,,,Vucevic,,,,missed,,Jump Shot,,,9-2,19,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=37
 ,,,,,,,,,,1,7.49,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,9-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=38
 ,,,,,,,,,,1,7.41,Orlando Magic,foul,,,,,,,,,,Vucevic,,,,,,Shooting,,,9-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=39
@@ -38,13 +38,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.41,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,10-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=42
 ,,,,,,,,,,1,7.28,Orlando Magic,shot,,,,,,,,,,O'Quinn,,,,missed,,Jump Shot,,,10-2,10,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=44
 ,,,,,,,,,,1,7.26,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,10-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=45
-,,,,,,,,,,1,7.22,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,,,,,10-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=46
-,,,,,,,,,,1,7.14,Orlando Magic,turnover,,,,,,,,,,Harris,,,Bad Pass,,,,,,10-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=47
+,,,,,,,,,,1,7.22,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,Harkless,,,,10-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=46
+,,,,,,,,,,1,7.14,Orlando Magic,turnover,,,,,,,,,,Harris,,,Bad Pass,,Garnett,,,,10-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=47
 ,,,,,,,,,,1,7.11,Boston Celtics,foul,,,,,,,,,,Bradley,,,,,,Offensive Charge,,,10-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=48
 ,,,,,,,,,,1,7.11,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Foul,,,,,,10-2,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=49
 ,,,,,,,,,,1,6.59,Orlando Magic,shot,,,,,,,,,,Udrih,2,,,made,,Driving Reverse Layup,,,10-4,3,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=50
 ,,,,,,,,,,1,6.44,Boston Celtics,shot,,,,,,,,,,Bass,2,,,made,,Jump Shot,,,12-4,20,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=51
-,,,,,,,,,,1,6.32,Orlando Magic,turnover,,,,,,,,,,Udrih,,,Bad Pass,,,,,,12-4,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=52
+,,,,,,,,,,1,6.32,Orlando Magic,turnover,,,,,,,,,,Udrih,,,Bad Pass,,Green,,,,12-4,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=52
 ,,,,,,,,,,1,6.29,Orlando Magic,foul,,,,,,,,,,O'Quinn,,,,,,Shooting,,,12-4,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=53
 ,,,,,,,,,,1,6.29,Boston Celtics,free throw,,,,,,,1,,2,Bradley,1,,foul,made,,,,,13-4,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=54
 ,,,,,,,,,,1,6.29,Boston Celtics,substitute,,,,Randolph,,Garnett,,,,,,,,,,,,,13-4,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=56
@@ -58,7 +58,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.52,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,14-6,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=66
 ,,,,,,,,,,1,5.43,Boston Celtics,foul,,,,,,,,,,Randolph,,,,,,Personal,,,14-6,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=67
 ,,,,,,,,,,1,5.43,Boston Celtics,substitute,,,,Wilcox,,Randolph,,,,,,,,,,,,,14-6,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=68
-,,,,,,,,,,1,5.32,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Running Jump Shot,,,14-6,8,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=69
+,,,,,,,,,,1,5.32,Orlando Magic,shot,,,Bass,,,,,,,Harkless,,,,missed,,Running Jump Shot,,,14-6,8,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=69
 ,,,,,,,,,,1,5.30,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,14-6,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=70
 ,,,,,,,,,,1,5.24,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Driving Layup,,,14-6,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=71
 ,,,,,,,,,,1,5.23,Orlando Magic,rebound,,,,,,,,,,Udrih,,,,,,,,,14-6,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=72
@@ -70,7 +70,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.24,Boston Celtics,free throw,,,,,,,,,,Pierce,1,,Technical,made,,,,,17-8,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=80
 ,,,,,,,,,,1,4.13,Boston Celtics,shot,,,,,,,,,,Bass,2,,,made,,Jump Shot,,,19-8,7,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=82
 ,,,,,,,,,,1,3.52,Orlando Magic,shot,,,,,,,,,,Harkless,2,,,made,,Running Jump Shot,,,19-10,4,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=83
-,,,,,,,,,,1,3.44,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,,,,,19-10,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=84
+,,,,,,,,,,1,3.44,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,Nicholson,,,,19-10,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=84
 ,,,,,,,,,,1,3.39,Boston Celtics,foul,,,,,,,,,,Bass,,,,,,Shooting,,,19-10,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=85
 ,,,,,,,,,,1,3.39,Orlando Magic,free throw,,,,,,,1,,2,Harris,1,,foul,made,,,,,19-11,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=86
 ,,,,,,,,,,1,3.39,Orlando Magic,substitute,,,,Moore,,Harkless,,,,,,,,,,,,,19-11,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=88
@@ -97,7 +97,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.59,Boston Celtics,shot,Green,,,,,,,,,Bass,2,,,made,,Jump Shot,,,21-13,19,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=113
 ,,,,,,,,,,1,1.41,Orlando Magic,shot,,,,,,,,,,Harris,,,,missed,,Jump Shot,,,21-13,10,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=114
 ,,,,,,,,,,1,1.40,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,21-13,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=115
-,,,,,,,,,,1,1.21,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,,,,,21-13,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=116
+,,,,,,,,,,1,1.21,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,O'Quinn,,,,21-13,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=116
 ,,,,,,,,,,1,1.20,Boston Celtics,foul,,,,,,,,,,Lee,,,,,,Personal,,,21-13,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=117
 ,,,,,,,,,,1,1.20,Boston Celtics,substitute,,,,Crawford,,Bradley,,,,,,,,,,,,,21-13,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=118
 ,,,,,,,,,,1,1.20,Boston Celtics,violation,,,,,,,,,,Celtics,,, Delay of game Violation,,,,,,21-13,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=119
@@ -107,7 +107,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.51,Orlando Magic,shot,Nicholson,,,,,,,,,O'Quinn,2,,,made,,Jump Shot,,,23-15,9,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=123
 ,,,,,,,,,,1,0.32,Boston Celtics,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,23-15,20,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=124
 ,,,,,,,,,,1,0.31,Orlando Magic,rebound,,,,,,,,,,O'Quinn,,,,,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=125
-,,,,,,,,,,1,0.20,Orlando Magic,shot,,,,,,,,,,O'Quinn,,,,missed,,Layup,,,23-15,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=126
+,,,,,,,,,,1,0.20,Orlando Magic,shot,,,Wilcox,,,,,,,O'Quinn,,,,missed,,Layup,,,23-15,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=126
 ,,,,,,,,,,1,0.19,Orlando Magic,rebound,,,,,,,,,,O'Quinn,,,,,,,,,23-15,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=128
 ,,,,,,,,,,1,0.19,Orlando Magic,shot,,,,,,,,,,O'Quinn,2,,,made,,Layup,,,23-17,1,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=127
 ,,,,,,,,,,1,0.00,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Fadeaway Jumper,,,23-17,18,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=129
@@ -184,11 +184,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.59,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,44-29,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=215
 ,,,,,,,,,,2,3.59,Boston Celtics,substitute,,,,Bradley,,Lee,,,,,,,,,,,,,44-29,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=217
 ,,,,,,,,,,2,3.59,Orlando Magic,substitute,,,,Nicholson,,O'Quinn,,,,,,,,,,,,,44-29,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=218
-,,,,,,,,,,2,3.43,Orlando Magic,shot,,,,,,,,,,Jones,,,,missed,,Running Jump Shot,,,44-29,7,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=219
+,,,,,,,,,,2,3.43,Orlando Magic,shot,,,Bass,,,,,,,Jones,,,,missed,,Running Jump Shot,,,44-29,7,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=219
 ,,,,,,,,,,2,3.41,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,44-29,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=220
 ,,,,,,,,,,2,3.35,Boston Celtics,shot,,,,,,,,,,Crawford,2,,,made,,Driving Layup,,,46-29,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=221
-,,,,,,,,,,2,3.23,Orlando Magic,turnover,,,,,,,,,,Harris,,,Bad Pass,,,,,,46-29,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=222
-,,,,,,,,,,2,3.18,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Layup,,,46-29,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=223
+,,,,,,,,,,2,3.23,Orlando Magic,turnover,,,,,,,,,,Harris,,,Bad Pass,,Green,,,,46-29,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=222
+,,,,,,,,,,2,3.18,Boston Celtics,shot,,,Udrih,,,,,,,Bradley,,,,missed,,Layup,,,46-29,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=223
 ,,,,,,,,,,2,3.15,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,46-29,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=224
 ,,,,,,,,,,2,3.05,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,46-29,21,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=225
 ,,,,,,,,,,2,3.03,Orlando Magic,rebound,,,,,,,,,,Nicholson,,,,,,,,,46-29,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=226
@@ -204,7 +204,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.02,Orlando Magic,substitute,,,,Moore,,Jones,,,,,,,,,,,,,51-32,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=238
 ,,,,,,,,,,2,2.02,Boston Celtics,free throw,,,,,,,1,,1,Pierce,,,foul,missed,,,,,51-32,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=239
 ,,,,,,,,,,2,2.01,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,51-32,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=241
-,,,,,,,,,,2,1.55,Orlando Magic,turnover,,,,,,,,,,Udrih,,,Lost Ball,,,,,,51-32,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=242
+,,,,,,,,,,2,1.55,Orlando Magic,turnover,,,,,,,,,,Udrih,,,Lost Ball,,Bradley,,,,51-32,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=242
 ,,,,,,,,,,2,1.52,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Layup,,,51-32,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=243
 ,,,,,,,,,,2,1.51,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,51-32,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=245
 ,,,,,,,,,,2,1.51,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Tip Shot,,,51-32,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=244
@@ -218,7 +218,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.12,Boston Celtics,substitute,,,,Williams,,Pierce,,,,,,,,,,,,,51-34,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=253
 ,,,,,,,,,,2,0.57,Orlando Magic,shot,Vucevic,,,,,,,,,Moore,2,,,made,,Jump Shot,,,51-36,21,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=254
 ,,,,,,,,,,2,0.45,Boston Celtics,shot,Williams,,,,,,,,,Bradley,2,,,made,,Jump Shot,,,53-36,19,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=255
-,,,,,,,,,,2,0.37,Orlando Magic,shot,,,,,,,,,,Udrih,,,,missed,,Driving Layup,,,53-36,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=256
+,,,,,,,,,,2,0.37,Orlando Magic,shot,,,Bass,,,,,,,Udrih,,,,missed,,Driving Layup,,,53-36,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=256
 ,,,,,,,,,,2,0.37,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,53-36,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=257
 ,,,,,,,,,,2,0.32,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,Driving Layup,,,53-36,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=258
 ,,,,,,,,,,2,0.30,Boston Celtics,rebound,,,,,,,,,,Crawford,,,,,,,,,53-36,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=259
@@ -267,7 +267,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.09,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,67-45,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=313
 ,,,,,,,,,,3,7.09,Orlando Magic,substitute,,,,Nicholson,,O'Quinn,,,,,,,,,,,,,67-45,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=314
 ,,,,,,,,,,3,7.09,Orlando Magic,free throw,,,,,,,2,,2,Harris,1,,foul,made,,,,,67-46,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=315
-,,,,,,,,,,3,6.47,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Fadeaway Jumper,,,67-46,10,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=317
+,,,,,,,,,,3,6.47,Boston Celtics,shot,,,Harris,,,,,,,Pierce,,,,missed,,Fadeaway Jumper,,,67-46,10,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=317
 ,,,,,,,,,,3,6.46,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,67-46,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=318
 ,,,,,,,,,,3,6.36,Orlando Magic,shot,Harkless,,,,,,,,,Harris,2,,,made,,Driving Dunk,,,67-48,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=319
 ,,,,,,,,,,3,6.36,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,67-48,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=320
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.15,Orlando Magic,shot,Udrih,,,,,,,,,Harris,3,,,made,,3PT Jump Shot,,,83-62,25,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=375
 ,,,,,,,,,,3,1.00,Boston Celtics,shot,Crawford,,,,,,,,,Wilcox,2,,,made,,Slam Dunk,,,85-62,1,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=376
 ,,,,,,,,,,3,0.45,Orlando Magic,turnover,,,,,,,,,,Vucevic Out of Bounds,,,Lost Ball,,,,,,85-62,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=377
-,,,,,,,,,,3,0.23,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Turnaround Jump Shot,,,85-62,14,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=378
+,,,,,,,,,,3,0.23,Boston Celtics,shot,,,Vucevic,,,,,,,Green,,,,missed,,Turnaround Jump Shot,,,85-62,14,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=378
 ,,,,,,,,,,3,0.21,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,85-62,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=379
 ,,,,,,,,,,3,0.15,Boston Celtics,foul,,,,,,,,,,Wilcox,,,,,,Shooting,,,85-62,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=380
 ,,,,,,,,,,3,0.15,Orlando Magic,free throw,,,,,,,1,,2,Harris,1,,foul,made,,,,,85-63,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=381
@@ -324,7 +324,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.15,Orlando Magic,free throw,,,,,,,2,,2,Harris,1,,foul,made,,,,,85-64,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=385
 ,,,,,,,,,,4,11.44,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,85-64,19,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=390
 ,,,,,,,,,,4,11.42,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,85-64,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=391
-,,,,,,,,,,4,11.29,Orlando Magic,turnover,,,,,,,,,,Moore,,,Bad Pass,,,,,,85-64,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=392
+,,,,,,,,,,4,11.29,Orlando Magic,turnover,,,,,,,,,,Moore,,,Bad Pass,,Williams,,,,85-64,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=392
 ,,,,,,,,,,4,11.23,Boston Celtics,shot,Lee,,,,,,,,,Williams,2,,,made,,Driving Reverse Layup,,,87-64,2,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=393
 ,,,,,,,,,,4,11.23,Orlando Magic,foul,,,,,,,,,,O'Quinn,,,,,,Shooting,,,87-64,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=394
 ,,,,,,,,,,4,11.23,Boston Celtics,free throw,,,,,,,1,,1,Williams,1,,foul,made,,,,,88-64,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=395
@@ -345,13 +345,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.06,Orlando Magic,foul,,,,,,,,,,Vucevic,,,,,,Shooting,,,93-68,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=414
 ,,,,,,,,,,4,9.06,Boston Celtics,free throw,,,,,,,1,,2,Lee,1,,foul,made,,,,,94-68,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=415
 ,,,,,,,,,,4,9.06,Boston Celtics,free throw,,,,,,,2,,2,Lee,1,,foul,made,,,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=417
-,,,,,,,,,,4,8.46,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Lost Ball,,,,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=419
+,,,,,,,,,,4,8.46,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Lost Ball,,Lee,,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=419
 ,,,,,,,,,,4,8.27,Orlando Magic,violation,,,,,,,,,,Vucevic,,,Kicked Ball,,,,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=420
 ,,,,,,,,,,4,8.18,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,95-68,24,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=421
 ,,,,,,,,,,4,8.16,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,95-68,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=422
 ,,,,,,,,,,4,7.58,Orlando Magic,shot,Harris,,,,,,,,,Lamb,2,,,made,,Floating Jump Shot,,,95-70,9,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=423
 ,,,,,,,,,,4,7.43,Boston Celtics,shot,Williams,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,98-70,26,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=424
-,,,,,,,,,,4,7.29,Orlando Magic,turnover,,,,,,,,,,Moore,,,Bad Pass,,,,,,98-70,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=425
+,,,,,,,,,,4,7.29,Orlando Magic,turnover,,,,,,,,,,Moore,,,Bad Pass,,Williams,,,,98-70,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=425
 ,,,,,,,,,,4,7.21,Boston Celtics,shot,Crawford,,,,,,,,,Lee,3,,,made,,3PT Jump Shot,,,101-70,24,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=426
 ,,,,,,,,,,4,7.19,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,101-70,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=427
 ,,,,,,,,,,4,7.19,Orlando Magic,substitute,,,,O'Quinn,,Harris,,,,,,,,,,,,,101-70,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=430
@@ -378,7 +378,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.16,Orlando Magic,turnover,,,,,,,,,,O'Quinn,,,Bad Pass,,,,,,111-78,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=454
 ,,,,,,,,,,4,4.16,Orlando Magic,substitute,,,,Jones,,Moore,,,,,,,,,,,,,111-78,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=455
 ,,,,,,,,,,4,3.56,Boston Celtics,shot,,,,,,,,,,Lee,2,,,made,,Driving Layup,,,113-78,3,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=456
-,,,,,,,,,,4,3.33,Orlando Magic,turnover,,,,,,,,,,Jones,,,Lost Ball,,,,,,113-78,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=457
+,,,,,,,,,,4,3.33,Orlando Magic,turnover,,,,,,,,,,Jones,,,Lost Ball,,Lee,,,,113-78,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=457
 ,,,,,,,,,,4,3.27,Boston Celtics,shot,Crawford,,,,,,,,,Lee,2,,,made,,Driving Dunk,,,115-78,1,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=458
 ,,,,,,,,,,4,3.15,Orlando Magic,foul,,,,,,,,,,,,,,,,,,,115-78,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=459
 ,,,,,,,,,,4,3.15,Orlando Magic,turnover,,,,,,,,,,O'Quinn,,,Foul,,,,,,115-78,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=460
@@ -396,7 +396,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.52,Orlando Magic,shot,Nicholson,,,,,,,,,Lamb,3,,,made,,3PT Jump Shot,,,117-83,25,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=476
 ,,,,,,,,,,4,1.37,Boston Celtics,shot,,,,,,,,,,White,,,,missed,,Jump Shot,,,117-83,16,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=477
 ,,,,,,,,,,4,1.36,Orlando Magic,rebound,,,,,,,,,,Moore,,,,,,,,,117-83,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=478
-,,,,,,,,,,4,1.23,Orlando Magic,turnover,,,,,,,,,,Moore,,,Lost Ball,,,,,,117-83,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=479
+,,,,,,,,,,4,1.23,Orlando Magic,turnover,,,,,,,,,,Moore,,,Lost Ball,,Randolph,,,,117-83,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=479
 ,,,,,,,,,,4,1.17,Boston Celtics,foul,,,,,,,,,,,,,,,,,,,117-83,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=480
 ,,,,,,,,,,4,1.17,Boston Celtics,turnover,,,,,,,,,,White,,,Foul,,,,,,117-83,,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=481
 ,,,,,,,,,,4,1.04,Orlando Magic,shot,Nicholson,,,,,,,,,Moore,3,,,made,,3PT Jump Shot,,,117-86,25,http://stats.nba.com/cvp.html?GameID=0021201191&GameEventID=482

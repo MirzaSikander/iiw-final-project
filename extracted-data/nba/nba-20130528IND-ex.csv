@@ -1,5 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.39,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=2
+,,,,,,,,,,1,11.39,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Hibbert,,,,,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=2
 ,,,,,,,,,,1,11.20,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Jump Hook Shot,,,0-2,9,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=3
 ,,,,,,,,,,1,11.00,Indiana Pacers,foul,,,,,,,,,,Hill,,,,,,Loose ball,,,0-2,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=4
 ,,,,,,,,,,1,10.54,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=5
@@ -20,7 +20,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.07,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Personal,,,0-11,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=23
 ,,,,,,,,,,1,8.52,Miami Heat,shot,,,,,,,,,,Haslem,,,,missed,,Jump Shot,,,0-11,15,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=24
 ,,,,,,,,,,1,8.50,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,0-11,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=25
-,,,,,,,,,,1,8.49,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Layup,,,0-11,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=26
+,,,,,,,,,,1,8.49,Miami Heat,shot,,,West,,,,,,,James,,,,missed,,Layup,,,0-11,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=26
 ,,,,,,,,,,1,8.48,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,0-11,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=27
 ,,,,,,,,,,1,8.48,Indiana Pacers,foul,,,,,,,,,,West,,,,,,Shooting,,,0-11,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=28
 ,,,,,,,,,,1,8.48,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,1-11,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=29
@@ -39,10 +39,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.54,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Jump Shot,,,7-14,15,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=46
 ,,,,,,,,,,1,6.53,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,7-14,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=47
 ,,,,,,,,,,1,6.43,Miami Heat,shot,Wade,,,,,,,,,James,2,,,made,,Layup,,,9-14,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=48
-,,,,,,,,,,1,6.24,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,9-14,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=49
+,,,,,,,,,,1,6.24,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Haslem,,,,9-14,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=49
 ,,,,,,,,,,1,6.21,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Layup,,,9-14,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=50
 ,,,,,,,,,,1,6.20,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,9-14,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=51
-,,,,,,,,,,1,6.13,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Layup,,,9-14,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=52
+,,,,,,,,,,1,6.13,Indiana Pacers,shot,,,Wade,,,,,,,Stephenson,,,,missed,,Layup,,,9-14,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=52
 ,,,,,,,,,,1,6.11,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,9-14,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=53
 ,,,,,,,,,,1,6.07,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Dunk,,,11-14,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=54
 ,,,,,,,,,,1,5.45,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,11-14,9,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=55
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.35,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Shooting,,,13-16,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=75
 ,,,,,,,,,,1,3.35,Miami Heat,free throw,,,,,,,1,,2,Chalmers,1,,foul,made,,,,,14-16,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=76
 ,,,,,,,,,,1,3.35,Miami Heat,free throw,,,,,,,2,,2,Chalmers,1,,foul,made,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=78
-,,,,,,,,,,1,3.12,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=80
+,,,,,,,,,,1,3.12,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Chalmers,,,,15-16,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=80
 ,,,,,,,,,,1,3.03,Miami Heat,shot,James,,,,,,,,,Haslem,2,,,made,,Dunk,,,17-16,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=81
 ,,,,,,,,,,1,2.48,Miami Heat,foul,,,,,,,,,,Chalmers,,,,,,Personal,,,17-16,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=82
 ,,,,,,,,,,1,2.48,Miami Heat,foul,,,,,,,,,,James,,,,,,Technical,,,17-16,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=83
@@ -100,7 +100,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.07,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=115
 ,,,,,,,,,,1,1.07,Miami Heat,free throw,,,,,,,2,,2,James,,,foul,missed,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=117
 ,,,,,,,,,,1,1.07,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=119
-,,,,,,,,,,1,0.59,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=120
+,,,,,,,,,,1,0.59,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,Allen,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=120
 ,,,,,,,,,,1,0.56,Miami Heat,shot,Allen,,,,,,,,,Cole,2,,,made,,Layup,,,21-24,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=121
 ,,,,,,,,,,1,0.33,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,21-24,11,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=122
 ,,,,,,,,,,1,0.32,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=123
@@ -134,7 +134,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.52,Indiana Pacers,foul,,,,,,,,,,Hansbrough,,,,,,Loose ball,,,25-32,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=158
 ,,,,,,,,,,2,8.52,Indiana Pacers,substitute,,,,West,,Hansbrough,,,,,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=161
 ,,,,,,,,,,2,8.52,Indiana Pacers,substitute,,,,George,,Stephenson,,,,,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=162
-,,,,,,,,,,2,8.28,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=163
+,,,,,,,,,,2,8.28,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,Young,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=163
 ,,,,,,,,,,2,8.06,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Layup,,,25-32,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=164
 ,,,,,,,,,,2,8.05,Miami Heat,rebound,,,,,,,,,,Battier,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=165
 ,,,,,,,,,,2,7.49,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,25-32,18,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=166
@@ -150,7 +150,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.14,Miami Heat,shot,,,,,,,,,,Cole,2,,,made,,Layup,,,30-36,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=176
 ,,,,,,,,,,2,5.50,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Layup,,,30-36,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=177
 ,,,,,,,,,,2,5.49,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,30-36,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=178
-,,,,,,,,,,2,5.44,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,30-36,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=179
+,,,,,,,,,,2,5.44,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,Young,,,,30-36,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=179
 ,,,,,,,,,,2,5.38,Indiana Pacers,shot,George,,,,,,,,,Young,2,,,made,,Dunk,,,30-38,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=180
 ,,,,,,,,,,2,5.29,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=181
 ,,,,,,,,,,2,5.29,Miami Heat,substitute,,,,James,,Allen,,,,,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=183
@@ -220,7 +220,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Layup,,,47-48,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=264
 ,,,,,,,,,,3,11.40,Miami Heat,foul,,,,,,,,,,Chalmers,,,,,,Personal,,,47-48,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=268
 ,,,,,,,,,,3,11.32,Miami Heat,foul,,,,,,,,,,Wade,,,,,,Personal,,,47-48,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=269
-,,,,,,,,,,3,11.26,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,,,,,47-48,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=270
+,,,,,,,,,,3,11.26,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,Chalmers,,,,47-48,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=270
 ,,,,,,,,,,3,11.13,Miami Heat,shot,James,,,,,,,,,Haslem,2,,,made,,Jump Shot,,,49-48,17,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=271
 ,,,,,,,,,,3,10.59,Indiana Pacers,shot,,,,,,,,,,Stephenson,2,,,made,,Jump Bank Shot,,,49-50,7,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=272
 ,,,,,,,,,,3,10.49,Indiana Pacers,foul,,,,,,,,,,West,,,,,,Personal,,,49-50,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=273
@@ -235,11 +235,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.40,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Shooting,,,54-54,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=282
 ,,,,,,,,,,3,8.40,Miami Heat,free throw,,,,,,,1,,2,Chalmers,1,,foul,made,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=283
 ,,,,,,,,,,3,8.40,Miami Heat,free throw,,,,,,,2,,2,Chalmers,1,,foul,made,,,,,56-54,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=285
-,,,,,,,,,,3,8.20,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Layup,,,56-54,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=287
+,,,,,,,,,,3,8.20,Indiana Pacers,shot,,,James,,,,,,,George,,,,missed,,Layup,,,56-54,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=287
 ,,,,,,,,,,3,8.19,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,56-54,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=288
 ,,,,,,,,,,3,8.14,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Driving Finger Roll Layup,,,58-54,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=289
-,,,,,,,,,,3,7.53,Indiana Pacers,turnover,,,,,,,,,,West,,,Bad Pass,,,,,,58-54,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=290
-,,,,,,,,,,3,7.39,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Layup,,,58-54,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=291
+,,,,,,,,,,3,7.53,Indiana Pacers,turnover,,,,,,,,,,West,,,Bad Pass,,Haslem,,,,58-54,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=290
+,,,,,,,,,,3,7.39,Miami Heat,shot,,,George,,,,,,,Chalmers,,,,missed,,Layup,,,58-54,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=291
 ,,,,,,,,,,3,7.39,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,58-54,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=292
 ,,,,,,,,,,3,7.36,Miami Heat,shot,Wade,,,,,,,,,Chalmers,2,,,made,,Jump Shot,,,60-54,14,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=293
 ,,,,,,,,,,3,7.35,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,60-54,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=294
@@ -261,7 +261,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.54,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,60-59,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=313
 ,,,,,,,,,,3,5.36,Indiana Pacers,shot,Hibbert,,,,,,,,,West,2,,,made,,Jump Shot,,,60-61,17,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=314
 ,,,,,,,,,,3,5.35,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,60-61,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=315
-,,,,,,,,,,3,5.11,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Layup,,,60-61,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=317
+,,,,,,,,,,3,5.11,Miami Heat,shot,,,George,,,,,,,Wade,,,,missed,,Layup,,,60-61,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=317
 ,,,,,,,,,,3,5.09,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,60-61,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=318
 ,,,,,,,,,,3,5.05,Miami Heat,foul,,,,,,,,,,Bosh,,,,,,Personal,,,60-61,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=319
 ,,,,,,,,,,3,5.05,Indiana Pacers,free throw,,,,,,,1,,2,Hibbert,1,,foul,made,,,,,60-62,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=320
@@ -292,7 +292,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.09,Indiana Pacers,violation,,,,,,,,,,PACERS,,, Delay of game Violation,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=349
 ,,,,,,,,,,3,1.52,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,67-71,4,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=350
 ,,,,,,,,,,3,1.47,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=351
-,,,,,,,,,,3,1.43,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Layup,,,67-71,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=352
+,,,,,,,,,,3,1.43,Indiana Pacers,shot,,,James,,,,,,,Hill,,,,missed,,Layup,,,67-71,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=352
 ,,,,,,,,,,3,1.41,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=353
 ,,,,,,,,,,3,1.41,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Personal,,,67-71,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=354
 ,,,,,,,,,,3,1.41,Miami Heat,free throw,,,,,,,,,,Allen,1,,Technical,made,,,,,68-71,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=356
@@ -317,7 +317,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.02,Miami Heat,substitute,,,,Haslem,,Battier,,,,,,,,,,,,,70-74,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=380
 ,,,,,,,,,,3,0.02,Indiana Pacers,substitute,,,,Augustin,,Young,,,,,,,,,,,,,70-74,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=381
 ,,,,,,,,,,3,0.00,Indiana Pacers,shot,Hill,,,,,,,,,Stephenson,3,,,made,,3PT Jump Shot,,,70-77,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=382
-,,,,,,,,,,4,11.42,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,70-77,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=387
+,,,,,,,,,,4,11.42,Miami Heat,shot,,,Mahinmi,,,,,,,Allen,,,,missed,,Layup,,,70-77,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=387
 ,,,,,,,,,,4,11.41,Indiana Pacers,rebound,,,,,,,,,,Young,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=388
 ,,,,,,,,,,4,11.31,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Jump Shot,,,70-77,5,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=389
 ,,,,,,,,,,4,11.31,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=390
@@ -356,7 +356,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.09,Miami Heat,free throw,,,,,,,1,,2,Chalmers,1,,foul,made,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=426
 ,,,,,,,,,,4,8.09,Indiana Pacers,substitute,,,,Hill,,Stephenson,,,,,,,,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=428
 ,,,,,,,,,,4,8.09,Miami Heat,free throw,,,,,,,2,,2,Chalmers,1,,foul,made,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=429
-,,,,,,,,,,4,7.57,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=431
+,,,,,,,,,,4,7.57,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,Wade,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=431
 ,,,,,,,,,,4,7.54,Indiana Pacers,foul,,,,,,,,,,Augustin,,,,,,Shooting,,,74-81,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=432
 ,,,,,,,,,,4,7.54,Miami Heat,free throw,,,,,,,1,,2,Wade,1,,foul,made,,,,,75-81,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=433
 ,,,,,,,,,,4,7.54,Miami Heat,free throw,,,,,,,2,,2,Wade,1,,foul,made,,,,,76-81,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=435
@@ -364,15 +364,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.20,Miami Heat,shot,,,,,,,,,,Chalmers,2,,,made,,Driving Bank Shot,,,78-83,9,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=438
 ,,,,,,,,,,4,7.07,Miami Heat,foul,,,,,,,,,,James,,,,,,Personal,,,78-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=439
 ,,,,,,,,,,4,7.07,Indiana Pacers,substitute,,,,West,,Hansbrough,,,,,,,,,,,,,78-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=440
-,,,,,,,,,,4,6.55,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,78-83,9,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=441
+,,,,,,,,,,4,6.55,Indiana Pacers,shot,,,James,,,,,,,Hill,,,,missed,,Jump Shot,,,78-83,9,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=441
 ,,,,,,,,,,4,6.54,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,78-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=442
 ,,,,,,,,,,4,6.49,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Layup,,,80-83,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=443
-,,,,,,,,,,4,6.31,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Layup,,,80-83,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=444
+,,,,,,,,,,4,6.31,Indiana Pacers,shot,,,Bosh,,,,,,,Hill,,,,missed,,Layup,,,80-83,2,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=444
 ,,,,,,,,,,4,6.31,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,80-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=445
 ,,,,,,,,,,4,6.15,Miami Heat,shot,Bosh,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,83-83,26,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=446
 ,,,,,,,,,,4,6.00,Miami Heat,foul,,,,,,,,,,Wade,,,,,,Personal,,,83-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=447
 ,,,,,,,,,,4,6.00,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,83-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=448
-,,,,,,,,,,4,6.00,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,83-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=450
+,,,,,,,,,,4,6.00,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,James,,,,83-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=450
 ,,,,,,,,,,4,5.57,Indiana Pacers,violation,,,,,,,,,,George,,,Defensive Goaltending,,,,,,83-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=452
 ,,,,,,,,,,4,5.57,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Layup,,,85-83,1,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=451
 ,,,,,,,,,,4,5.57,Indiana Pacers,foul,,,,,,,,,,West,,,,,,Shooting,,,85-83,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=453
@@ -386,7 +386,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.55,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,89-86,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=463
 ,,,,,,,,,,4,4.55,Indiana Pacers,substitute,,,,Stephenson,,Augustin,,,,,,,,,,,,,89-86,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=464
 ,,,,,,,,,,4,4.55,Indiana Pacers,free throw,,,,,,,2,,2,West,1,,foul,made,,,,,89-87,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=465
-,,,,,,,,,,4,4.35,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Jump Shot,,,89-87,11,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=467
+,,,,,,,,,,4,4.35,Miami Heat,shot,,,Hill,,,,,,,Chalmers,,,,missed,,Jump Shot,,,89-87,11,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=467
 ,,,,,,,,,,4,4.33,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,89-87,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=468
 ,,,,,,,,,,4,4.12,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,89-87,27,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=469
 ,,,,,,,,,,4,4.10,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,89-87,,http://stats.nba.com/cvp.html?GameID=0041200304&GameEventID=470

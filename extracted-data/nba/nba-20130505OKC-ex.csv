@@ -2,7 +2,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.46,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,,19,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=2
 ,,,,,,,,,,1,11.45,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=3
 ,,,,,,,,,,1,11.28,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,3 Second Violation,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=4
-,,,,,,,,,,1,11.08,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=7
+,,,,,,,,,,1,11.08,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Gasol,,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=7
 ,,,,,,,,,,1,11.03,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,,1,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=8
 ,,,,,,,,,,1,11.02,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=9
 ,,,,,,,,,,1,10.58,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=10
@@ -11,7 +11,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.50,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=13
 ,,,,,,,,,,1,10.37,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Driving Layup,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=14
 ,,,,,,,,,,1,10.36,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=15
-,,,,,,,,,,1,10.28,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,,10,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=16
+,,,,,,,,,,1,10.28,Oklahoma City Thunder,shot,,,Gasol,,,,,,,Perkins,,,,missed,,Jump Shot,,,,10,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=16
 ,,,,,,,,,,1,10.26,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=17
 ,,,,,,,,,,1,10.24,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,,12,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=18
 ,,,,,,,,,,1,10.23,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=19
@@ -88,17 +88,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.33,Oklahoma City Thunder,substitute,,,,Fisher,,Jackson,,,,,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=101
 ,,,,,,,,,,1,2.33,Oklahoma City Thunder,free throw,,,,,,,1,,1,Durant,1,,foul,made,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=102
 ,,,,,,,,,,1,2.19,Memphis Grizzlies,shot,,,,,,,,,,Bayless,2,,,made,,Pullup Jump Shot,,,14-12,23,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=104
-,,,,,,,,,,1,1.59,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Lost Ball,,,,,,14-12,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=105
+,,,,,,,,,,1,1.59,Oklahoma City Thunder,turnover,,,,,,,,,,Martin,,,Lost Ball,,Gasol,,,,14-12,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=105
 ,,,,,,,,,,1,1.52,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,3PT Step Back Jump Shot,,,14-12,25,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=106
 ,,,,,,,,,,1,1.52,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,14-12,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=107
 ,,,,,,,,,,1,1.43,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Pullup Jump Shot,,,14-14,13,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=108
 ,,,,,,,,,,1,1.26,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,3PT Jump Shot,,,14-14,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=110
 ,,,,,,,,,,1,1.24,Oklahoma City Thunder,rebound,,,,,,,,,,Martin,,,,,,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=112
-,,,,,,,,,,1,1.08,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,14-14,3,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=114
+,,,,,,,,,,1,1.08,Oklahoma City Thunder,shot,,,Gasol,,,,,,,Perkins,,,,missed,,Jump Shot,,,14-14,3,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=114
 ,,,,,,,,,,1,1.06,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=115
 ,,,,,,,,,,1,0.57,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,3PT Jump Shot,,,14-14,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=116
 ,,,,,,,,,,1,0.54,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=117
-,,,,,,,,,,1,0.52,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=118
+,,,,,,,,,,1,0.52,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Bad Pass,,Conley,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=118
 ,,,,,,,,,,1,0.43,Memphis Grizzlies,shot,Pondexter,,,,,,,,,Arthur,2,,,made,,Jump Shot,,,16-14,15,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=119
 ,,,,,,,,,,1,0.26,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,3PT Jump Shot,,,16-14,25,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=120
 ,,,,,,,,,,1,0.25,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,16-14,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=121
@@ -267,7 +267,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.33,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=321
 ,,,,,,,,,,3,6.33,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Loose ball,,,61-53,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=322
 ,,,,,,,,,,3,6.33,Oklahoma City Thunder,substitute,,,,Martin,,Sefolosha,,,,,,,,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=323
-,,,,,,,,,,3,6.24,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,61-53,4,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=324
+,,,,,,,,,,3,6.24,Memphis Grizzlies,shot,,,Ibaka,,,,,,,Randolph,,,,missed,,Jump Shot,,,61-53,4,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=324
 ,,,,,,,,,,3,6.23,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=325
 ,,,,,,,,,,3,6.12,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,61-53,19,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=326
 ,,,,,,,,,,3,6.11,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,61-53,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=327
@@ -328,7 +328,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.27,Oklahoma City Thunder,free throw,,,,,,,1,,2,Durant,1,,foul,made,,,,,70-62,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=387
 ,,,,,,,,,,3,0.27,Memphis Grizzlies,substitute,,,,Bayless,,Allen,,,,,,,,,,,,,70-62,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=389
 ,,,,,,,,,,3,0.27,Oklahoma City Thunder,free throw,,,,,,,2,,2,Durant,1,,foul,made,,,,,70-63,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=390
-,,,,,,,,,,3,0.07,Memphis Grizzlies,shot,,,,,,,,,,Dooling,,,,missed,,Jump Shot,,,70-63,13,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=392
+,,,,,,,,,,3,0.07,Memphis Grizzlies,shot,,,Durant,,,,,,,Dooling,,,,missed,,Jump Shot,,,70-63,13,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=392
 ,,,,,,,,,,3,0.05,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,70-63,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=393
 ,,,,,,,,,,3,0.03,Memphis Grizzlies,foul,,,,,,,,,,Bayless,,,,,,Shooting,,,70-63,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=394
 ,,,,,,,,,,3,0.03,Oklahoma City Thunder,free throw,,,,,,,1,,2,Martin,1,,foul,made,,,,,70-64,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=395
@@ -345,7 +345,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.37,Memphis Grizzlies,foul,,,,,,,,,,Pondexter,,,,,,Shooting,,,75-69,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=412
 ,,,,,,,,,,4,10.37,Oklahoma City Thunder,free throw,,,,,,,1,,1,Martin,1,,foul,made,,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=413
 ,,,,,,,,,,4,10.26,Oklahoma City Thunder,foul,,,,,,,,,,Jackson,,,,,,Personal,,,75-70,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=415
-,,,,,,,,,,4,10.16,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=416
+,,,,,,,,,,4,10.16,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Durant,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=416
 ,,,,,,,,,,4,10.10,Oklahoma City Thunder,shot,Durant,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,75-73,24,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=417
 ,,,,,,,,,,4,10.08,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,75-73,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=418
 ,,,,,,,,,,4,9.52,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Running Bank Shot,,,77-73,9,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=421
@@ -388,19 +388,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.24,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,84-79,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=464
 ,,,,,,,,,,4,5.14,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,84-79,18,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=465
 ,,,,,,,,,,4,5.13,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,84-79,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=466
-,,,,,,,,,,4,4.54,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Layup,,,84-79,2,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=467
+,,,,,,,,,,4,4.54,Memphis Grizzlies,shot,,,Ibaka,,,,,,,Gasol,,,,missed,,Layup,,,84-79,2,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=467
 ,,,,,,,,,,4,4.53,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,84-79,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=468
 ,,,,,,,,,,4,4.45,Oklahoma City Thunder,shot,Durant,,,,,,,,,Fisher,3,,,made,,3PT Jump Shot,,,84-82,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=469
-,,,,,,,,,,4,4.18,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,84-82,4,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=470
+,,,,,,,,,,4,4.18,Memphis Grizzlies,shot,,,Durant,,,,,,,Randolph,,,,missed,,Jump Shot,,,84-82,4,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=470
 ,,,,,,,,,,4,4.17,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=471
 ,,,,,,,,,,4,4.15,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Jump Shot,,,84-82,14,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=472
 ,,,,,,,,,,4,4.15,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=473
 ,,,,,,,,,,4,4.15,Memphis Grizzlies,turnover,,,,,,,,,,,,,Shot Clock,,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=474
-,,,,,,,,,,4,4.03,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=475
+,,,,,,,,,,4,4.03,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Bad Pass,,Conley,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=475
 ,,,,,,,,,,4,3.58,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Layup,,,84-82,2,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=476
 ,,,,,,,,,,4,3.57,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,84-82,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=477
 ,,,,,,,,,,4,3.46,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Running Jump Shot,,,84-84,8,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=478
-,,,,,,,,,,4,3.25,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Jump Shot,,,84-84,6,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=479
+,,,,,,,,,,4,3.25,Memphis Grizzlies,shot,,,Martin,,,,,,,Pondexter,,,,missed,,Jump Shot,,,84-84,6,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=479
 ,,,,,,,,,,4,3.23,Oklahoma City Thunder,rebound,,,,,,,,,,Martin,,,,,,,,,84-84,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=480
 ,,,,,,,,,,4,3.22,Oklahoma City Thunder,jumpball,,Pondexter,,,Martin,,,,,,,,,,,,,,84-84,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=481
 ,,,,,,,,,,4,3.06,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Fadeaway Jumper,,,84-84,15,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=482
@@ -416,7 +416,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.08,Memphis Grizzlies,free throw,,,,,,,2,,2,Randolph,1,,foul,made,,,,,88-86,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=497
 ,,,,,,,,,,4,1.51,Oklahoma City Thunder,shot,,,,,,,,,,Fisher,,,,missed,,3PT Jump Shot,,,88-86,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=499
 ,,,,,,,,,,4,1.50,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,88-86,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=500
-,,,,,,,,,,4,1.31,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Turnaround Jump Shot,,,88-86,4,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=501
+,,,,,,,,,,4,1.31,Memphis Grizzlies,shot,,,Ibaka,,,,,,,Randolph,,,,missed,,Turnaround Jump Shot,,,88-86,4,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=501
 ,,,,,,,,,,4,1.30,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,88-86,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=502
 ,,,,,,,,,,4,1.21,Memphis Grizzlies,foul,,,,,,,,,,Conley,,,,,,Shooting,,,88-86,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=503
 ,,,,,,,,,,4,1.21,Oklahoma City Thunder,free throw,,,,,,,1,,2,Ibaka,,,foul,missed,,,,,88-86,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=504
@@ -428,14 +428,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.08,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=512
 ,,,,,,,,,,4,1.08,Memphis Grizzlies,substitute,,,,Allen,,Pondexter,,,,,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=514
 ,,,,,,,,,,4,1.08,Oklahoma City Thunder,substitute,,,,Martin,,Sefolosha,,,,,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=515
-,,,,,,,,,,4,1.07,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Lost Ball,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=516
+,,,,,,,,,,4,1.07,Oklahoma City Thunder,turnover,,,,,,,,,,Perkins,,,Lost Ball,,Gasol,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=516
 ,,,,,,,,,,4,0.44,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Running Jump Shot,,,90-87,11,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=517
 ,,,,,,,,,,4,0.43,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=518
 ,,,,,,,,,,4,0.37,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Fadeaway Jumper,,,90-89,9,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=519
 ,,,,,,,,,,4,0.31,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=520
 ,,,,,,,,,,4,0.31,Oklahoma City Thunder,substitute,,,,Sefolosha,,Martin,,,,,,,,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=521
 ,,,,,,,,,,4,0.31,Memphis Grizzlies,substitute,,,,Pondexter,,Allen,,,,,,,,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=522
-,,,,,,,,,,4,0.17,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=523
+,,,,,,,,,,4,0.17,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,Fisher,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=523
 ,,,,,,,,,,4,0.11,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Pullup Jump Shot,,,90-91,19,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=524
 ,,,,,,,,,,4,0.11,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,90-91,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=525
 ,,,,,,,,,,4,0.03,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,90-91,,http://stats.nba.com/cvp.html?GameID=0041200221&GameEventID=528

@@ -1,6 +1,6 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.33,Toronto Raptors,shot,Lowry,,,,,,,,,Bargnani,2,,,made,,Jump Shot,,,2-0,20,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=3
-,,,,,,,,,,1,11.16,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,2-0,6,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=4
+,,,,,,,,,,1,11.16,Sacramento Kings,shot,,,DeRozan,,,,,,,Cousins,,,,missed,,Jump Shot,,,2-0,6,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=4
 ,,,,,,,,,,1,11.15,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=5
 ,,,,,,,,,,1,11.08,Toronto Raptors,shot,,,,,,,,,,Pietrus,,,,missed,,3PT Jump Shot,,,2-0,24,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=6
 ,,,,,,,,,,1,11.08,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=7
@@ -11,7 +11,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.50,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Step Out of Bounds,,,,,,2-1,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=13
 ,,,,,,,,,,1,10.40,Sacramento Kings,shot,Brooks,,,,,,,,,Thompson,2,,,made,,Layup,,,2-3,2,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=14
 ,,,,,,,,,,1,10.25,Toronto Raptors,shot,,,,,,,,,,Valanciunas,2,,,made,,Dunk,,,4-3,1,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=15
-,,,,,,,,,,1,10.14,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=16
+,,,,,,,,,,1,10.14,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Lost Ball,,DeRozan,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=16
 ,,,,,,,,,,1,10.10,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,4-3,3,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=17
 ,,,,,,,,,,1,10.10,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=18
 ,,,,,,,,,,1,10.10,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Traveling,,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=19
@@ -28,9 +28,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.41,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,9-7,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=30
 ,,,,,,,,,,1,8.41,Toronto Raptors,free throw,,,,,,,2,,2,DeRozan,,,foul,missed,,,,,9-7,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=31
 ,,,,,,,,,,1,8.40,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,9-7,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=33
-,,,,,,,,,,1,8.20,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Jump Shot,,,9-7,5,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=34
+,,,,,,,,,,1,8.20,Sacramento Kings,shot,,,Valanciunas,,,,,,,Evans,,,,missed,,Jump Shot,,,9-7,5,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=34
 ,,,,,,,,,,1,8.20,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,9-7,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=35
-,,,,,,,,,,1,8.15,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Driving Jump Shot,,,9-7,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=36
+,,,,,,,,,,1,8.15,Toronto Raptors,shot,,,Salmons,,,,,,,Lowry,,,,missed,,Driving Jump Shot,,,9-7,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=36
 ,,,,,,,,,,1,8.13,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,9-7,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=37
 ,,,,,,,,,,1,8.02,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,3 Second Violation,,,,,,9-7,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=38
 ,,,,,,,,,,1,7.48,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Shot,,,9-7,19,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=39
@@ -46,7 +46,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.18,Sacramento Kings,free throw,,,,,,,1,,1,Thompson,1,,foul,made,,,,,11-12,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=49
 ,,,,,,,,,,1,7.08,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Jump Shot,,,13-12,16,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=51
 ,,,,,,,,,,1,6.58,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Traveling,,,,,,13-12,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=52
-,,,,,,,,,,1,6.44,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Running Jump Shot,,,13-12,5,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=53
+,,,,,,,,,,1,6.44,Toronto Raptors,shot,,,Evans,,,,,,,Lowry,,,,missed,,Running Jump Shot,,,13-12,5,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=53
 ,,,,,,,,,,1,6.44,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,13-12,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=54
 ,,,,,,,,,,1,6.34,Toronto Raptors,shot,Bargnani,,,,,,,,,Lowry,2,,,made,,Floating Jump Shot,,,15-12,11,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=55
 ,,,,,,,,,,1,6.24,Toronto Raptors,foul,,,,,,,,,,Bargnani,,,,,,Personal,,,15-12,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=57
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.48,Sacramento Kings,shot,,,,,,,,,,Brooks,,,,missed,,Jump Shot,,,21-14,18,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=75
 ,,,,,,,,,,1,4.47,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,21-14,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=76
 ,,,,,,,,,,1,4.38,Sacramento Kings,shot,Salmons,,,,,,,,,Brooks,3,,,made,,3PT Jump Shot,,,21-17,25,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=77
-,,,,,,,,,,1,4.25,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,21-17,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=78
+,,,,,,,,,,1,4.25,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Thompson,,,,21-17,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=78
 ,,,,,,,,,,1,4.12,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Layup,,,21-19,3,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=79
 ,,,,,,,,,,1,4.01,Toronto Raptors,shot,Pietrus,,,,,,,,,DeRozan,2,,,made,,Jump Shot,,,23-19,15,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=81
 ,,,,,,,,,,1,3.44,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,3PT Jump Shot,,,23-19,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=82
@@ -94,14 +94,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.16,Sacramento Kings,shot,,,,,,,,,,Thompson,2,,,made,,Tip Shot,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=107
 ,,,,,,,,,,1,1.56,Toronto Raptors,shot,Johnson,,,,,,,,,DeRozan,2,,,made,,Jump Shot,,,27-23,19,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=109
 ,,,,,,,,,,1,1.40,Sacramento Kings,shot,Thompson,,,,,,,,,Salmons,2,,,made,,Layup,,,27-25,2,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=110
-,,,,,,,,,,1,1.22,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=111
+,,,,,,,,,,1,1.22,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,Thornton,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=111
 ,,,,,,,,,,1,1.17,Sacramento Kings,shot,,,,,,,,,,Thornton,2,,,made,,Pullup Jump Shot,,,27-27,19,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=112
 ,,,,,,,,,,1,0.52,Toronto Raptors,shot,,,,,,,,,,Pietrus,,,,missed,,3PT Jump Shot,,,27-27,24,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=113
 ,,,,,,,,,,1,0.52,Sacramento Kings,rebound,,,,,,,,,,Thornton,,,,,,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=114
 ,,,,,,,,,,1,0.49,Sacramento Kings,shot,Thornton,,,,,,,,,Cousins,2,,,made,,Dunk,,,27-29,1,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=115
 ,,,,,,,,,,1,0.29,Toronto Raptors,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,27-29,11,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=116
 ,,,,,,,,,,1,0.29,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=117
-,,,,,,,,,,1,0.25,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,27-29,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=118
+,,,,,,,,,,1,0.25,Sacramento Kings,shot,,,Davis,,,,,,,Thompson,,,,missed,,Jump Shot,,,27-29,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=118
 ,,,,,,,,,,1,0.22,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=119
 ,,,,,,,,,,1,0.04,Toronto Raptors,shot,Calderon,,,,,,,,,Davis,2,,,made,,Jump Shot,,,29-29,6,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=120
 ,,,,,,,,,,1,0.00,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,3PT Jump Shot,,,29-29,30,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=121
@@ -125,16 +125,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.02,Toronto Raptors,free throw,,,,,,,1,,2,Davis,,,foul,missed,,,,,32-31,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=143
 ,,,,,,,,,,2,10.02,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,32-31,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=151
 ,,,,,,,,,,2,10.02,Toronto Raptors,free throw,,,,,,,2,,2,Davis,1,,foul,made,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=145
-,,,,,,,,,,2,9.43,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Bad Pass,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=147
+,,,,,,,,,,2,9.43,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Bad Pass,,Lowry,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=147
 ,,,,,,,,,,2,9.39,Toronto Raptors,shot,Johnson,,,,,,,,,Davis,2,,,made,,Dunk,,,35-31,1,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=149
 ,,,,,,,,,,2,9.13,Toronto Raptors,foul,,,,,,,,,,Davis,,,,,,Shooting,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=152
 ,,,,,,,,,,2,9.13,Sacramento Kings,free throw,,,,,,,1,,2,Robinson,1,,foul,made,,,,,35-32,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=153
 ,,,,,,,,,,2,9.13,Sacramento Kings,free throw,,,,,,,2,,2,Robinson,1,,foul,made,,,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=156
-,,,,,,,,,,2,8.56,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,Jump Shot,,,35-33,22,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=158
+,,,,,,,,,,2,8.56,Toronto Raptors,shot,,,Johnson,,,,,,,Ross,,,,missed,,Jump Shot,,,35-33,22,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=158
 ,,,,,,,,,,2,8.54,Sacramento Kings,rebound,,,,,,,,,,Johnson,,,,,,,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=160
 ,,,,,,,,,,2,8.46,Sacramento Kings,shot,,,,,,,,,,Hayes,,,,missed,,Jump Shot,,,35-33,7,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=161
 ,,,,,,,,,,2,8.45,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=162
-,,,,,,,,,,2,8.36,Toronto Raptors,shot,,,,,,,,,,Davis,,,,missed,,Layup,,,35-33,1,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=163
+,,,,,,,,,,2,8.36,Toronto Raptors,shot,,,Robinson,,,,,,,Davis,,,,missed,,Layup,,,35-33,1,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=163
 ,,,,,,,,,,2,8.34,Toronto Raptors,rebound,,,,,,,,,,Davis,,,,,,,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=165
 ,,,,,,,,,,2,8.34,Sacramento Kings,foul,,,,,,,,,,Johnson,,,,,,Shooting,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=166
 ,,,,,,,,,,2,8.34,Toronto Raptors,substitute,,,,Bargnani,,Johnson,,,,,,,,,,,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=168
@@ -143,7 +143,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.20,Sacramento Kings,shot,,,,,,,,,,Robinson,,,,missed,,Layup,,,37-33,2,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=174
 ,,,,,,,,,,2,8.19,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,37-33,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=175
 ,,,,,,,,,,2,8.18,Sacramento Kings,shot,,,,,,,,,,Robinson,2,,,made,,Layup,,,37-35,2,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=176
-,,,,,,,,,,2,8.05,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,37-35,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=177
+,,,,,,,,,,2,8.05,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Robinson,,,,37-35,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=177
 ,,,,,,,,,,2,8.00,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,37-35,7,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=178
 ,,,,,,,,,,2,7.59,Toronto Raptors,rebound,,,,,,,,,,Calderon,,,,,,,,,37-35,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=179
 ,,,,,,,,,,2,7.52,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,3PT Jump Shot,,,37-35,25,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=180
@@ -179,12 +179,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.44,Toronto Raptors,substitute,,,,Pietrus,,Ross,,,,,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=218
 ,,,,,,,,,,2,5.44,Sacramento Kings,substitute,,,,Brooks,,Fredette,,,,,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=219
 ,,,,,,,,,,2,5.44,Sacramento Kings,substitute,,,,Cousins,,Hayes,,,,,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=220
-,,,,,,,,,,2,5.26,Sacramento Kings,shot,,,,,,,,,,Brooks,,,,missed,,Jump Shot,,,41-41,12,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=221
+,,,,,,,,,,2,5.26,Sacramento Kings,shot,,,DeRozan,,,,,,,Brooks,,,,missed,,Jump Shot,,,41-41,12,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=221
 ,,,,,,,,,,2,5.26,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=222
 ,,,,,,,,,,2,5.23,Sacramento Kings,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,41-41,15,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=223
 ,,,,,,,,,,2,5.23,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=224
 ,,,,,,,,,,2,5.23,Sacramento Kings,turnover,,,,,,,,,,,,,Shot Clock,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=225
-,,,,,,,,,,2,5.08,Toronto Raptors,turnover,,,,,,,,,,Bargnani,,,Lost Ball,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=226
+,,,,,,,,,,2,5.08,Toronto Raptors,turnover,,,,,,,,,,Bargnani,,,Lost Ball,,Evans,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=226
 ,,,,,,,,,,2,5.03,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Driving Layup,,,41-43,3,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=227
 ,,,,,,,,,,2,4.48,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,3PT Jump Shot,,,41-43,25,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=228
 ,,,,,,,,,,2,4.48,Sacramento Kings,rebound,,,,,,,,,,Johnson,,,,,,,,,41-43,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=229
@@ -229,7 +229,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.20,Sacramento Kings,substitute,,,,Robinson,,Cousins,,,,,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=280
 ,,,,,,,,,,2,0.20,Sacramento Kings,substitute,,,,Johnson,,Brooks,,,,,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=281
 ,,,,,,,,,,2,0.20,Toronto Raptors,substitute,,,,Bargnani,,Valanciunas,,,,,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=282
-,,,,,,,,,,2,0.02,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,47-55,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=283
+,,,,,,,,,,2,0.02,Toronto Raptors,shot,,,Johnson,,,,,,,DeRozan,,,,missed,,Jump Shot,,,47-55,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=283
 ,,,,,,,,,,2,0.02,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=284
 ,,,,,,,,,,2,0.00,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Shot,,,47-55,20,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=285
 ,,,,,,,,,,2,0.00,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=286
@@ -252,7 +252,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.42,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Floating Jump Shot,,,52-61,6,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=309
 ,,,,,,,,,,3,9.42,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=310
 ,,,,,,,,,,3,9.36,Sacramento Kings,shot,Salmons,,,,,,,,,Evans,2,,,made,,Driving Layup,,,52-63,2,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=311
-,,,,,,,,,,3,9.19,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=312
+,,,,,,,,,,3,9.19,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,Brooks,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=312
 ,,,,,,,,,,3,9.16,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Bad Pass,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=313
 ,,,,,,,,,,3,9.16,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=314
 ,,,,,,,,,,3,9.16,Toronto Raptors,substitute,,,,Johnson,,Valanciunas,,,,,,,,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=316
@@ -261,7 +261,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.43,Sacramento Kings,shot,,,,,,,,,,Brooks,,,,missed,,3PT Jump Shot,,,54-63,25,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=320
 ,,,,,,,,,,3,8.42,Toronto Raptors,rebound,,,,,,,,,,Bargnani,,,,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=321
 ,,,,,,,,,,3,8.33,Toronto Raptors,shot,,,,,,,,,,Lowry,2,,,made,,Driving Layup,,,56-63,2,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=322
-,,,,,,,,,,3,8.08,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Lost Ball,,,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=323
+,,,,,,,,,,3,8.08,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Lost Ball,,Johnson,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=323
 ,,,,,,,,,,3,8.06,Sacramento Kings,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=324
 ,,,,,,,,,,3,8.06,Toronto Raptors,free throw,,,,,,,1,,2,Lowry,1,,foul,made,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=325
 ,,,,,,,,,,3,8.06,Toronto Raptors,free throw,,,,,,,2,,2,Lowry,1,,foul,made,,,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=327
@@ -298,14 +298,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.36,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,Jump Shot,,,64-73,6,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=366
 ,,,,,,,,,,3,4.35,Toronto Raptors,rebound,,,,,,,,,,Davis,,,,,,,,,64-73,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=367
 ,,,,,,,,,,3,4.26,Toronto Raptors,shot,Lowry,,,,,,,,,Pietrus,2,,,made,,Jump Bank Shot,,,66-73,8,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=368
-,,,,,,,,,,3,4.00,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,66-73,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=370
+,,,,,,,,,,3,4.00,Sacramento Kings,shot,,,Johnson,,,,,,,Thompson,,,,missed,,Jump Shot,,,66-73,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=370
 ,,,,,,,,,,3,3.59,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,66-73,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=371
 ,,,,,,,,,,3,3.54,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,66-73,3,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=372
 ,,,,,,,,,,3,3.54,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,66-73,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=373
 ,,,,,,,,,,3,3.54,Sacramento Kings,substitute,,,,Thornton,,Salmons,,,,,,,,,,,,,66-73,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=374
 ,,,,,,,,,,3,3.54,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Technical,,,66-73,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=375
 ,,,,,,,,,,3,3.54,Sacramento Kings,free throw,,,,,,,,,,Thornton,1,,Technical,made,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=376
-,,,,,,,,,,3,3.41,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=378
+,,,,,,,,,,3,3.41,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Pietrus,,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=378
 ,,,,,,,,,,3,3.38,Sacramento Kings,foul,,,,,,,,,,Brooks,,,,,,Shooting,,,66-74,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=379
 ,,,,,,,,,,3,3.38,Toronto Raptors,free throw,,,,,,,1,,2,Lowry,1,,foul,made,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=380
 ,,,,,,,,,,3,3.38,Toronto Raptors,free throw,,,,,,,2,,2,Lowry,1,,foul,made,,,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=382
@@ -323,7 +323,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.10,Toronto Raptors,free throw,,,,,,,1,,2,Lowry,1,,foul,made,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=402
 ,,,,,,,,,,3,2.10,Sacramento Kings,substitute,,,,Robinson,,Cousins,,,,,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=404
 ,,,,,,,,,,3,2.10,Toronto Raptors,free throw,,,,,,,2,,2,Lowry,1,,foul,made,,,,,74-76,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=405
-,,,,,,,,,,3,1.52,Sacramento Kings,shot,,,,,,,,,,Brooks,,,,missed,,Jump Shot,,,74-76,5,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=407
+,,,,,,,,,,3,1.52,Sacramento Kings,shot,,,Johnson,,,,,,,Brooks,,,,missed,,Jump Shot,,,74-76,5,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=407
 ,,,,,,,,,,3,1.51,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,74-76,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=408
 ,,,,,,,,,,3,1.47,Toronto Raptors,shot,,,,,,,,,,Pietrus,2,,,made,,Slam Dunk,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=409
 ,,,,,,,,,,3,1.23,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Personal,,,76-76,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=410
@@ -337,7 +337,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.44,Toronto Raptors,rebound,,,,,,,,,,Davis,,,,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=420
 ,,,,,,,,,,3,0.39,Toronto Raptors,turnover,,,,,,,,,,Pietrus Poss,,,Lost Ball,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=421
 ,,,,,,,,,,3,0.39,Sacramento Kings,substitute,,,,Johnson,,Evans,,,,,,,,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=422
-,,,,,,,,,,3,0.32,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Bad Pass,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=423
+,,,,,,,,,,3,0.32,Sacramento Kings,turnover,,,,,,,,,,Brooks,,,Bad Pass,,DeRozan,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=423
 ,,,,,,,,,,3,0.20,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Turnaround Jump Shot,,,76-78,6,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=424
 ,,,,,,,,,,3,0.18,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=425
 ,,,,,,,,,,3,0.02,Sacramento Kings,shot,,,,,,,,,,Brooks,,,,missed,,3PT Jump Shot,,,76-78,25,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=427
@@ -375,7 +375,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.05,Sacramento Kings,substitute,,,,Salmons,,Johnson,,,,,,,,,,,,,84-85,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=469
 ,,,,,,,,,,4,7.49,Toronto Raptors,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,84-85,9,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=470
 ,,,,,,,,,,4,7.48,Sacramento Kings,rebound,,,,,,,,,,Salmons,,,,,,,,,84-85,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=471
-,,,,,,,,,,4,7.41,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,84-85,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=472
+,,,,,,,,,,4,7.41,Sacramento Kings,shot,,,DeRozan,,,,,,,Thornton,,,,missed,,Jump Shot,,,84-85,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=472
 ,,,,,,,,,,4,7.41,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,84-85,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=473
 ,,,,,,,,,,4,7.41,Toronto Raptors,foul,,,,,,,,,,Davis,,,,,,Shooting,,,84-85,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=474
 ,,,,,,,,,,4,7.41,Sacramento Kings,free throw,,,,,,,1,,2,Robinson,1,,foul,made,,,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=476
@@ -386,7 +386,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.06,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,87-86,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=483
 ,,,,,,,,,,4,7.06,Toronto Raptors,foul,,,,,,,,,,Davis,,,,,,Loose ball,,,87-86,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=484
 ,,,,,,,,,,4,7.06,Toronto Raptors,substitute,,,,Bargnani,,Davis,,,,,,,,,,,,,87-86,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=485
-,,,,,,,,,,4,6.59,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Running Jump Shot,,,87-86,8,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=486
+,,,,,,,,,,4,6.59,Sacramento Kings,shot,,,Bargnani,,,,,,,Fredette,,,,missed,,Running Jump Shot,,,87-86,8,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=486
 ,,,,,,,,,,4,6.58,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,87-86,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=487
 ,,,,,,,,,,4,6.51,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,3PT Jump Shot,,,87-86,25,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=488
 ,,,,,,,,,,4,6.51,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,87-86,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=489
@@ -401,7 +401,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.04,Sacramento Kings,substitute,,,,Brooks,,Thornton,,,,,,,,,,,,,89-86,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=498
 ,,,,,,,,,,4,5.44,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,3PT Jump Shot,,,89-86,25,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=499
 ,,,,,,,,,,4,5.44,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,89-86,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=500
-,,,,,,,,,,4,5.32,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Driving Layup,,,89-86,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=501
+,,,,,,,,,,4,5.32,Sacramento Kings,shot,,,DeRozan,,,,,,,Cousins,,,,missed,,Driving Layup,,,89-86,4,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=501
 ,,,,,,,,,,4,5.32,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,89-86,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=502
 ,,,,,,,,,,4,5.28,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Jump Shot,,,89-88,8,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=507
 ,,,,,,,,,,4,5.28,Toronto Raptors,foul,,,,,,,,,,Johnson,,,,,,Shooting,,,89-88,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=508
@@ -412,9 +412,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.32,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Turnaround Jump Shot,,,91-91,13,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=514
 ,,,,,,,,,,4,4.08,Toronto Raptors,shot,,,,,,,,,,Lowry,2,,,made,,Pullup Jump Shot,,,93-91,11,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=515
 ,,,,,,,,,,4,3.50,Sacramento Kings,shot,Salmons,,,,,,,,,Evans,2,,,made,,Driving Layup,,,93-93,2,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=516
-,,,,,,,,,,4,3.34,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,93-93,3,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=517
+,,,,,,,,,,4,3.34,Toronto Raptors,shot,,,Cousins,,,,,,,DeRozan,,,,missed,,Layup,,,93-93,3,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=517
 ,,,,,,,,,,4,3.33,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=518
-,,,,,,,,,,4,3.12,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=519
+,,,,,,,,,,4,3.12,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,Johnson,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=519
 ,,,,,,,,,,4,3.01,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,3PT Jump Shot,,,93-93,25,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=520
 ,,,,,,,,,,4,3.00,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=521
 ,,,,,,,,,,4,2.46,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Layup,,,93-95,3,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=522
@@ -441,7 +441,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.06,Toronto Raptors,free throw,,,,,,,2,,2,Lowry,1,,foul,made,,,,,97-101,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=548
 ,,,,,,,,,,4,0.49,Sacramento Kings,shot,,,,,,,,,,Thompson,2,,,made,,Jump Hook Shot,,,97-103,8,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=550
 ,,,,,,,,,,4,0.49,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,97-103,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=551
-,,,,,,,,,,4,0.42,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,3PT Jump Shot,,,97-103,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=555
+,,,,,,,,,,4,0.42,Toronto Raptors,shot,,,Evans,,,,,,,Lowry,,,,missed,,3PT Jump Shot,,,97-103,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=555
 ,,,,,,,,,,4,0.40,Sacramento Kings,rebound,,,,,,,,,,Johnson,,,,,,,,,97-103,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=556
 ,,,,,,,,,,4,0.28,Toronto Raptors,foul,,,,,,,,,,Pietrus,,,,,,Personal,,,97-103,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=557
 ,,,,,,,,,,4,0.28,Sacramento Kings,substitute,,,,Brooks,,Thompson,,,,,,,,,,,,,97-103,,http://stats.nba.com/cvp.html?GameID=0021200266&GameEventID=558

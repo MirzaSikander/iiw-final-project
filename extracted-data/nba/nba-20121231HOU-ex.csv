@@ -4,7 +4,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.05,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Hook Shot,,,2-3,7,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=4
 ,,,,,,,,,,1,11.03,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=5
 ,,,,,,,,,,1,10.44,Houston Rockets,shot,Morris,,,,,,,,,Parsons,2,,,made,,Layup,,,2-5,1,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=6
-,,,,,,,,,,1,10.33,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Layup,,,2-5,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=7
+,,,,,,,,,,1,10.33,Atlanta Hawks,shot,,,Asik,,,,,,,Teague,,,,missed,,Layup,,,2-5,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=7
 ,,,,,,,,,,1,10.31,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=8
 ,,,,,,,,,,1,10.29,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=9
 ,,,,,,,,,,1,10.15,Atlanta Hawks,shot,,,,,,,,,,Horford,2,,,made,,Jump Shot,,,4-5,18,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=10
@@ -26,7 +26,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.11,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,10-7,15,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=26
 ,,,,,,,,,,1,8.10,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,10-7,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=27
 ,,,,,,,,,,1,8.02,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Driving Layup,,,10-9,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=28
-,,,,,,,,,,1,7.41,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,,,,,10-9,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=29
+,,,,,,,,,,1,7.41,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,Parsons,,,,10-9,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=29
 ,,,,,,,,,,1,7.39,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,,,,,10-9,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=30
 ,,,,,,,,,,1,7.29,Atlanta Hawks,shot,Teague,,,,,,,,,Horford,2,,,made,,Jump Shot,,,12-9,12,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=31
 ,,,,,,,,,,1,7.10,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Jump Bank Shot,,,12-9,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=32
@@ -39,7 +39,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.38,Houston Rockets,free throw,,,,,,,1,,2,Asik,1,,foul,made,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=43
 ,,,,,,,,,,1,6.38,Houston Rockets,free throw,,,,,,,2,,2,Asik,,,foul,missed,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=45
 ,,,,,,,,,,1,6.38,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=47
-,,,,,,,,,,1,6.22,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=48
+,,,,,,,,,,1,6.22,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Lin,,,,14-10,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=48
 ,,,,,,,,,,1,6.17,Houston Rockets,shot,Parsons,,,,,,,,,Lin,2,,,made,,Driving Layup,,,14-12,3,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=49
 ,,,,,,,,,,1,6.07,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Layup,,,14-12,3,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=50
 ,,,,,,,,,,1,6.06,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,14-12,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=51
@@ -49,7 +49,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.16,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,14-14,24,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=55
 ,,,,,,,,,,1,5.15,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=56
 ,,,,,,,,,,1,5.09,Atlanta Hawks,shot,,,,,,,,,,Korver,3,,,made,,3PT Jump Shot,,,17-14,24,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=57
-,,,,,,,,,,1,4.56,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=58
+,,,,,,,,,,1,4.56,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Williams,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=58
 ,,,,,,,,,,1,4.51,Atlanta Hawks,turnover,,,,,,,,,,Smith Out of Bounds,,,Lost Ball,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=59
 ,,,,,,,,,,1,4.51,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=60
 ,,,,,,,,,,1,4.51,Houston Rockets,substitute,,,,Smith,,Asik,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=62
@@ -76,13 +76,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.01,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,21-23,23,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=88
 ,,,,,,,,,,1,2.00,Atlanta Hawks,rebound,,,,,,,,,,Stevenson,,,,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=89
 ,,,,,,,,,,1,1.50,Atlanta Hawks,shot,Horford,,,,,,,,,Stevenson,3,,,made,,3PT Jump Shot,,,24-23,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=90
-,,,,,,,,,,1,1.23,Houston Rockets,turnover,,,,,,,,,,Morris,,,Bad Pass,,,,,,24-23,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=91
+,,,,,,,,,,1,1.23,Houston Rockets,turnover,,,,,,,,,,Morris,,,Bad Pass,,Horford,,,,24-23,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=91
 ,,,,,,,,,,1,1.16,Atlanta Hawks,shot,Jenkins,,,,,,,,,Stevenson,3,,,made,,3PT Jump Shot,,,27-23,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=92
 ,,,,,,,,,,1,0.58,Atlanta Hawks,foul,,,,,,,,,,Pachulia,,,,,,Personal,,,27-23,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=93
 ,,,,,,,,,,1,0.58,Atlanta Hawks,substitute,,,,Johnson,,Horford,,,,,,,,,,,,,27-23,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=94
 ,,,,,,,,,,1,0.58,Atlanta Hawks,substitute,,,,Teague,,Williams,,,,,,,,,,,,,27-23,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=95
 ,,,,,,,,,,1,0.49,Houston Rockets,shot,,,,,,,,,,Parsons,2,,,made,,Jump Bank Shot,,,27-25,6,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=97
-,,,,,,,,,,1,0.48,Atlanta Hawks,turnover,,,,,,,,,,Pachulia,,,Lost Ball,,,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=98
+,,,,,,,,,,1,0.48,Atlanta Hawks,turnover,,,,,,,,,,Pachulia,,,Lost Ball,,Douglas,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=98
 ,,,,,,,,,,1,0.47,Atlanta Hawks,foul,,,,,,,,,,Teague,,,,,,Personal,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=99
 ,,,,,,,,,,1,0.47,Houston Rockets,free throw,,,,,,,1,,2,Douglas,,,foul,missed,,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=100
 ,,,,,,,,,,1,0.47,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,27-25,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=101
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.08,Houston Rockets,shot,Douglas,,,,,,,,,Asik,2,,,made,,Jump Shot,,,29-30,17,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=115
 ,,,,,,,,,,2,10.48,Atlanta Hawks,shot,,,,,,,,,,Stevenson,,,,missed,,Jump Shot,,,29-30,20,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=116
 ,,,,,,,,,,2,10.46,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=117
-,,,,,,,,,,2,10.37,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=118
+,,,,,,,,,,2,10.37,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Stevenson,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=118
 ,,,,,,,,,,2,10.32,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Driving Layup,,,29-30,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=119
 ,,,,,,,,,,2,10.30,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=120
 ,,,,,,,,,,2,10.27,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=121
@@ -123,7 +123,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.46,Atlanta Hawks,substitute,,,,Horford,,Johnson,,,,,,,,,,,,,31-39,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=143
 ,,,,,,,,,,2,7.46,Atlanta Hawks,substitute,,,,Korver,,Stevenson,,,,,,,,,,,,,31-39,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=144
 ,,,,,,,,,,2,7.42,Houston Rockets,shot,Delfino,,,,,,,,,Lin,2,,,made,,Pullup Jump Shot,,,31-41,21,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=145
-,,,,,,,,,,2,7.23,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,31-41,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=146
+,,,,,,,,,,2,7.23,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Lin,,,,31-41,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=146
 ,,,,,,,,,,2,7.17,Houston Rockets,shot,Lin,,,,,,,,,Douglas,2,,,made,,Layup,,,31-43,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=147
 ,,,,,,,,,,2,6.57,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,31-43,20,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=148
 ,,,,,,,,,,2,6.56,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,31-43,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=149
@@ -141,16 +141,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.15,Houston Rockets,rebound,,,,,,,,,,Patterson,,,,,,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=161
 ,,,,,,,,,,2,5.02,Houston Rockets,shot,,,,,,,,,,Patterson,,,,missed,,Turnaround Hook Shot,,,35-48,12,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=162
 ,,,,,,,,,,2,5.00,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=163
-,,,,,,,,,,2,4.55,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Layup,,,35-48,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=164
+,,,,,,,,,,2,4.55,Atlanta Hawks,shot,,,Patterson,,,,,,,Horford,,,,missed,,Layup,,,35-48,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=164
 ,,,,,,,,,,2,4.55,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=165
 ,,,,,,,,,,2,4.55,Houston Rockets,substitute,,,,Harden,,Douglas,,,,,,,,,,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=169
-,,,,,,,,,,2,4.46,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=170
+,,,,,,,,,,2,4.46,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Smith,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=170
 ,,,,,,,,,,2,4.41,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,3PT Jump Shot,,,35-48,25,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=171
 ,,,,,,,,,,2,4.39,Houston Rockets,rebound,,,,,,,,,,Patterson,,,,,,,,,35-48,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=172
 ,,,,,,,,,,2,4.27,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Pullup Jump Shot,,,35-50,21,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=173
 ,,,,,,,,,,2,4.06,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,3PT Jump Shot,,,35-50,24,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=174
 ,,,,,,,,,,2,4.05,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,35-50,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=175
-,,,,,,,,,,2,3.54,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,35-50,4,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=176
+,,,,,,,,,,2,3.54,Houston Rockets,shot,,,Williams,,,,,,,Harden,,,,missed,,Jump Shot,,,35-50,4,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=176
 ,,,,,,,,,,2,3.51,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,35-50,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=177
 ,,,,,,,,,,2,3.47,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Slam Dunk,,,37-50,1,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=178
 ,,,,,,,,,,2,3.35,Houston Rockets,shot,Delfino,,,,,,,,,Patterson,3,,,made,,3PT Jump Shot,,,37-53,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=179
@@ -163,7 +163,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.16,Houston Rockets,free throw,,,,,,,1,,1,Lin,1,,foul,made,,,,,37-56,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=184
 ,,,,,,,,,,2,2.59,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,37-56,1,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=188
 ,,,,,,,,,,2,2.57,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,37-56,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=189
-,,,,,,,,,,2,2.56,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,37-56,1,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=190
+,,,,,,,,,,2,2.56,Atlanta Hawks,shot,,,Lin,,,,,,,Smith,,,,missed,,Layup,,,37-56,1,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=190
 ,,,,,,,,,,2,2.54,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,37-56,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=191
 ,,,,,,,,,,2,2.50,Houston Rockets,shot,Delfino,,,,,,,,,Morris,2,,,made,,Dunk,,,37-58,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=192
 ,,,,,,,,,,2,2.29,Atlanta Hawks,shot,Horford,,,,,,,,,Jenkins,3,,,made,,3PT Jump Shot,,,40-58,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=193
@@ -176,7 +176,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.56,Houston Rockets,foul,,,,,,,,,,Morris,,,,,,Shooting,,,40-60,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=204
 ,,,,,,,,,,2,1.56,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,1,,foul,made,,,,,41-60,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=205
 ,,,,,,,,,,2,1.56,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,42-60,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=207
-,,,,,,,,,,2,1.45,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Layup,,,42-60,4,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=209
+,,,,,,,,,,2,1.45,Houston Rockets,shot,,,Jenkins,,,,,,,Lin,,,,missed,,Layup,,,42-60,4,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=209
 ,,,,,,,,,,2,1.43,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,42-60,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=210
 ,,,,,,,,,,2,1.33,Atlanta Hawks,shot,Williams,,,,,,,,,Smith,3,,,made,,3PT Jump Shot,,,45-60,25,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=211
 ,,,,,,,,,,2,1.07,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Fadeaway Jumper,,,45-60,22,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=212
@@ -189,7 +189,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.02,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,46-60,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=220
 ,,,,,,,,,,2,0.44,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,46-60,25,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=222
 ,,,,,,,,,,2,0.43,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,46-60,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=223
-,,,,,,,,,,2,0.38,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,Running Jump Shot,,,46-60,7,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=225
+,,,,,,,,,,2,0.38,Atlanta Hawks,shot,,,Lin,,,,,,,Williams,,,,missed,,Running Jump Shot,,,46-60,7,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=225
 ,,,,,,,,,,2,0.36,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,46-60,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=226
 ,,,,,,,,,,2,0.32,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,46-60,19,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=227
 ,,,,,,,,,,2,0.30,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,46-60,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=228
@@ -202,13 +202,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.05,Atlanta Hawks,foul,,,,,,,,,,,,,,,,,,,46-61,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=237
 ,,,,,,,,,,2,0.05,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Foul,,,,,,46-61,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=238
 ,,,,,,,,,,2,0.01,Houston Rockets,shot,,,,,,,,,,Harden,3,,,made,,3PT Pullup Jump Shot,,,46-64,26,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=239
-,,,,,,,,,,2,0.01,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,46-64,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=240
+,,,,,,,,,,2,0.01,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Harden,,,,46-64,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=240
 ,,,,,,,,,,2,0.00,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,46-64,39,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=241
 ,,,,,,,,,,2,0.00,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,46-64,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=242
 ,,,,,,,,,,3,11.48,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Jump Shot,,,46-64,19,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=246
 ,,,,,,,,,,3,11.47,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,46-64,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=247
 ,,,,,,,,,,3,11.33,Atlanta Hawks,shot,Teague,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,49-64,25,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=248
-,,,,,,,,,,3,11.21,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Driving Layup,,,49-64,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=250
+,,,,,,,,,,3,11.21,Houston Rockets,shot,,,Smith,,,,,,,Parsons,,,,missed,,Driving Layup,,,49-64,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=250
 ,,,,,,,,,,3,11.19,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,49-64,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=251
 ,,,,,,,,,,3,11.14,Atlanta Hawks,shot,Teague,,,,,,,,,Smith,3,,,made,,3PT Jump Shot,,,52-64,25,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=252
 ,,,,,,,,,,3,11.12,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,52-64,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=253
@@ -218,7 +218,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.18,Houston Rockets,shot,Harden,,,,,,,,,Morris,2,,,made,,Pullup Jump Shot,,,52-68,17,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=259
 ,,,,,,,,,,3,9.58,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,52-68,26,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=260
 ,,,,,,,,,,3,9.56,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,52-68,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=261
-,,,,,,,,,,3,9.44,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,52-68,6,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=262
+,,,,,,,,,,3,9.44,Houston Rockets,shot,,,Smith,,,,,,,Harden,,,,missed,,Jump Shot,,,52-68,6,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=262
 ,,,,,,,,,,3,9.44,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,52-68,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=263
 ,,,,,,,,,,3,9.35,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,3PT Jump Shot,,,52-68,24,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=264
 ,,,,,,,,,,3,9.34,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,52-68,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=265
@@ -233,14 +233,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.34,Atlanta Hawks,shot,Teague,,,,,,,,,Horford,2,,,made,,Layup,,,57-70,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=276
 ,,,,,,,,,,3,8.16,Houston Rockets,shot,Lin,,,,,,,,,Morris,2,,,made,,Layup,,,57-72,3,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=277
 ,,,,,,,,,,3,7.59,Atlanta Hawks,shot,,,,,,,,,,Williams,2,,,made,,Running Jump Shot,,,59-72,12,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=278
-,,,,,,,,,,3,7.41,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,59-72,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=279
+,,,,,,,,,,3,7.41,Houston Rockets,shot,,,Smith,,,,,,,Parsons,,,,missed,,Layup,,,59-72,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=279
 ,,,,,,,,,,3,7.40,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,59-72,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=280
 ,,,,,,,,,,3,7.38,Houston Rockets,foul,,,,,,,,,,Harden,,,,,,Personal,,,59-72,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=281
-,,,,,,,,,,3,7.29,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,59-72,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=282
+,,,,,,,,,,3,7.29,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Morris,,,,59-72,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=282
 ,,,,,,,,,,3,7.24,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Alley Oop Layup,,,59-72,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=283
 ,,,,,,,,,,3,7.20,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,59-72,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=284
 ,,,,,,,,,,3,7.15,Atlanta Hawks,shot,Korver,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,62-72,26,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=285
-,,,,,,,,,,3,7.01,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,62-72,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=286
+,,,,,,,,,,3,7.01,Houston Rockets,shot,,,Smith,,,,,,,Parsons,,,,missed,,Layup,,,62-72,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=286
 ,,,,,,,,,,3,7.00,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,62-72,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=287
 ,,,,,,,,,,3,6.52,Atlanta Hawks,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,62-72,24,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=288
 ,,,,,,,,,,3,6.49,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,62-72,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=289
@@ -319,7 +319,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.39,Atlanta Hawks,rebound,,,,,,,,,,Scott,,,,,,,,,79-90,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=377
 ,,,,,,,,,,4,10.34,Atlanta Hawks,shot,Teague,,,,,,,,,Jenkins,2,,,made,,Driving Layup,,,81-90,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=378
 ,,,,,,,,,,4,10.21,Houston Rockets,shot,Lin,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,81-93,25,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=379
-,,,,,,,,,,4,10.02,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,81-93,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=380
+,,,,,,,,,,4,10.02,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Delfino,,,,81-93,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=380
 ,,,,,,,,,,4,9.57,Atlanta Hawks,foul,,,,,,,,,,Jenkins,,,,,,Shooting Block,,,81-93,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=381
 ,,,,,,,,,,4,9.57,Houston Rockets,free throw,,,,,,,1,,2,Lin,1,,foul,made,,,,,81-94,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=382
 ,,,,,,,,,,4,9.57,Houston Rockets,free throw,,,,,,,2,,2,Lin,1,,foul,made,,,,,81-95,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=384
@@ -344,7 +344,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.24,Atlanta Hawks,shot,Pachulia,,,,,,,,,Teague,3,,,made,,3PT Jump Shot,,,88-100,25,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=408
 ,,,,,,,,,,4,7.08,Houston Rockets,shot,Delfino,,,,,,,,,Smith,2,,,made,,Dunk,,,88-102,1,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=409
 ,,,,,,,,,,4,6.57,Atlanta Hawks,shot,Teague,,,,,,,,,Jenkins,2,,,made,,Driving Layup,,,90-102,3,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=410
-,,,,,,,,,,4,6.35,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,90-102,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=411
+,,,,,,,,,,4,6.35,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Teague,,,,90-102,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=411
 ,,,,,,,,,,4,6.29,Atlanta Hawks,shot,,,,,,,,,,Stevenson,2,,,made,,Layup,,,92-102,1,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=412
 ,,,,,,,,,,4,6.05,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,92-102,11,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=413
 ,,,,,,,,,,4,6.04,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,92-102,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=414
@@ -358,11 +358,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.34,Atlanta Hawks,rebound,,,,,,,,,,Pachulia,,,,,,,,,94-102,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=425
 ,,,,,,,,,,4,5.22,Atlanta Hawks,shot,Scott,,,,,,,,,Jenkins,3,,,made,,3PT Jump Shot,,,97-102,24,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=426
 ,,,,,,,,,,4,5.05,Houston Rockets,shot,Harden,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,97-105,25,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=427
-,,,,,,,,,,4,4.42,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,97-105,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=428
+,,,,,,,,,,4,4.42,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Lin,,,,97-105,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=428
 ,,,,,,,,,,4,4.38,Houston Rockets,shot,Lin,,,,,,,,,Delfino,2,,,made,,Layup,,,97-107,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=429
 ,,,,,,,,,,4,4.38,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,97-107,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=430
 ,,,,,,,,,,4,4.38,Houston Rockets,substitute,,,,Morris,,Patterson,,,,,,,,,,,,,97-107,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=433
-,,,,,,,,,,4,4.22,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Bad Pass,,,,,,97-107,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=435
+,,,,,,,,,,4,4.22,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Bad Pass,,Harden,,,,97-107,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=435
 ,,,,,,,,,,4,4.13,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Driving Layup,,,97-109,3,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=436
 ,,,,,,,,,,4,4.13,Atlanta Hawks,foul,,,,,,,,,,Pachulia,,,,,,Shooting,,,97-109,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=437
 ,,,,,,,,,,4,4.13,Houston Rockets,free throw,,,,,,,1,,1,Harden,1,,foul,made,,,,,97-110,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=438
@@ -373,12 +373,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.37,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,100-113,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=445
 ,,,,,,,,,,4,3.37,Atlanta Hawks,substitute,,,,Tolliver,,Teague,,,,,,,,,,,,,100-113,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=449
 ,,,,,,,,,,4,3.37,Atlanta Hawks,substitute,,,,Petro,,Pachulia,,,,,,,,,,,,,100-113,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=450
-,,,,,,,,,,4,3.20,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Bad Pass,,,,,,100-113,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=451
+,,,,,,,,,,4,3.20,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Bad Pass,,Lin,,,,100-113,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=451
 ,,,,,,,,,,4,3.15,Houston Rockets,shot,Morris,,,,,,,,,Asik,2,,,made,,Alley Oop Dunk,,,100-115,1,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=452
 ,,,,,,,,,,4,2.56,Atlanta Hawks,shot,,,,,,,,,,Jenkins,,,,missed,,3PT Jump Shot,,,100-115,26,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=453
 ,,,,,,,,,,4,2.55,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,100-115,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=454
 ,,,,,,,,,,4,2.40,Houston Rockets,shot,Morris,,,,,,,,,Lin,3,,,made,,3PT Jump Shot,,,100-118,24,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=455
-,,,,,,,,,,4,2.15,Atlanta Hawks,shot,,,,,,,,,,Scott,,,,missed,,Layup,,,100-118,3,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=456
+,,,,,,,,,,4,2.15,Atlanta Hawks,shot,,,Harden,,,,,,,Scott,,,,missed,,Layup,,,100-118,3,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=456
 ,,,,,,,,,,4,2.14,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,100-118,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=457
 ,,,,,,,,,,4,2.14,Houston Rockets,substitute,,,,Machado,,Morris,,,,,,,,,,,,,100-118,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=458
 ,,,,,,,,,,4,2.14,Houston Rockets,substitute,,,,Motiejunas,,Harden,,,,,,,,,,,,,100-118,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=459
@@ -394,5 +394,5 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.10,Houston Rockets,substitute,,,,Aldrich,,Asik,,,,,,,,,,,,,102-120,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=469
 ,,,,,,,,,,4,1.00,Houston Rockets,shot,Delfino,,,,,,,,,Motiejunas,3,,,made,,3PT Jump Shot,,,102-123,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=471
 ,,,,,,,,,,4,0.39,Atlanta Hawks,shot,,,,,,,,,,Scott,2,,,made,,Reverse Layup,,,104-123,2,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=473
-,,,,,,,,,,4,0.24,Houston Rockets,turnover,,,,,,,,,,Aldrich,,,Bad Pass,,,,,,104-123,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=475
+,,,,,,,,,,4,0.24,Houston Rockets,turnover,,,,,,,,,,Aldrich,,,Bad Pass,,Jenkins,,,,104-123,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=475
 ,,,,,,,,,,4,0.19,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Bad Pass,,,,,,104-123,,http://stats.nba.com/cvp.html?GameID=0021200455&GameEventID=476

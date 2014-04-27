@@ -4,7 +4,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.00,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Jump Shot,,,2-3,20,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=4
 ,,,,,,,,,,1,10.59,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=5
 ,,,,,,,,,,1,10.52,Boston Celtics,shot,Rondo,,,,,,,,,Garnett,2,,,made,,Pullup Jump Shot,,,2-5,18,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=6
-,,,,,,,,,,1,10.26,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=7
+,,,,,,,,,,1,10.26,Oklahoma City Thunder,turnover,,,,,,,,,,Durant,,,Lost Ball,,Pierce,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=7
 ,,,,,,,,,,1,10.20,Boston Celtics,shot,Rondo,,,,,,,,,Bass,2,,,made,,Layup,,,2-7,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=8
 ,,,,,,,,,,1,9.51,Oklahoma City Thunder,shot,,,,,,,,,,Durant,2,,,made,,Driving Finger Roll Layup,,,4-7,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=9
 ,,,,,,,,,,1,9.40,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,4-7,25,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=10
@@ -49,7 +49,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.32,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,14-11,15,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=62
 ,,,,,,,,,,1,4.31,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,14-11,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=63
 ,,,,,,,,,,1,4.20,Oklahoma City Thunder,shot,Westbrook,,,,,,,,,Perkins,2,,,made,,Layup,,,16-11,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=64
-,,,,,,,,,,1,4.09,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Lost Ball,,,,,,16-11,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=65
+,,,,,,,,,,1,4.09,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Lost Ball,,Perkins,,,,16-11,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=65
 ,,,,,,,,,,1,4.02,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,3PT Jump Shot,,,16-11,27,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=66
 ,,,,,,,,,,1,4.01,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,16-11,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=67
 ,,,,,,,,,,1,4.00,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Layup,,,16-11,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=68
@@ -103,7 +103,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.06,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,30-23,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=125
 ,,,,,,,,,,2,9.57,Oklahoma City Thunder,shot,,,,,,,,,,Maynor,,,,missed,,3PT Jump Shot,,,30-23,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=126
 ,,,,,,,,,,2,9.57,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,30-23,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=127
-,,,,,,,,,,2,9.54,Oklahoma City Thunder,shot,,,,,,,,,,Collison,,,,missed,,Layup,,,30-23,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=128
+,,,,,,,,,,2,9.54,Oklahoma City Thunder,shot,,,Green,,,,,,,Collison,,,,missed,,Layup,,,30-23,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=128
 ,,,,,,,,,,2,9.52,Oklahoma City Thunder,rebound,,,,,,,,,,Thabeet,,,,,,,,,30-23,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=129
 ,,,,,,,,,,2,9.47,Oklahoma City Thunder,shot,,,,,,,,,,Martin,,,,missed,,3PT Jump Shot,,,30-23,24,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=130
 ,,,,,,,,,,2,9.47,Boston Celtics,rebound,,,,,,,,,,Barbosa,,,,,,,,,30-23,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=131
@@ -116,12 +116,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.01,Boston Celtics,free throw,,,,,,,2,,2,Garnett,,,foul,missed,,,,,30-25,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=138
 ,,,,,,,,,,2,9.00,Oklahoma City Thunder,rebound,,,,,,,,,,Durant,,,,,,,,,30-25,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=140
 ,,,,,,,,,,2,8.44,Oklahoma City Thunder,shot,,,,,,,,,,Maynor,2,,,made,,Running Layup,,,32-25,3,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=142
-,,,,,,,,,,2,8.31,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,32-25,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=143
+,,,,,,,,,,2,8.31,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Thabeet,,,,32-25,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=143
 ,,,,,,,,,,2,8.23,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Fadeaway Jumper,,,32-25,9,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=144
 ,,,,,,,,,,2,8.22,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,32-25,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=145
 ,,,,,,,,,,2,8.13,Boston Celtics,shot,Barbosa,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,32-28,25,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=146
-,,,,,,,,,,2,7.52,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Lost Ball,,,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=147
-,,,,,,,,,,2,7.46,Boston Celtics,shot,,,,,,,,,,Barbosa,,,,missed,,Layup,,,32-28,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=148
+,,,,,,,,,,2,7.52,Oklahoma City Thunder,turnover,,,,,,,,,,Thabeet,,,Lost Ball,,Sullinger,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=147
+,,,,,,,,,,2,7.46,Boston Celtics,shot,,,Thabeet,,,,,,,Barbosa,,,,missed,,Layup,,,32-28,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=148
 ,,,,,,,,,,2,7.45,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=149
 ,,,,,,,,,,2,7.44,Boston Celtics,shot,,,,,,,,,,Sullinger,2,,,made,,Layup,,,32-30,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=150
 ,,,,,,,,,,2,7.36,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=151
@@ -132,7 +132,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.08,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,32-30,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=158
 ,,,,,,,,,,2,6.55,Oklahoma City Thunder,shot,Maynor,,,,,,,,,Collison,2,,,made,,Layup,,,34-30,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=159
 ,,,,,,,,,,2,6.33,Boston Celtics,shot,Lee,,,,,,,,,Sullinger,2,,,made,,Jump Shot,,,34-32,20,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=160
-,,,,,,,,,,2,6.14,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=161
+,,,,,,,,,,2,6.14,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Pierce,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=161
 ,,,,,,,,,,2,6.14,Oklahoma City Thunder,foul,,,,,,,,,,Collison,,,,,,Personal Take,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=162
 ,,,,,,,,,,2,6.14,Oklahoma City Thunder,substitute,,,,Westbrook,,Maynor,,,,,,,,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=163
 ,,,,,,,,,,2,6.14,Boston Celtics,substitute,,,,Rondo,,Barbosa,,,,,,,,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=164
@@ -169,15 +169,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.19,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=199
 ,,,,,,,,,,2,2.19,Boston Celtics,substitute,,,,Bass,,Wilcox,,,,,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=201
 ,,,,,,,,,,2,2.19,Boston Celtics,substitute,,,,Garnett,,Sullinger,,,,,,,,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=202
-,,,,,,,,,,2,2.03,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=203
+,,,,,,,,,,2,2.03,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,Pierce,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=203
 ,,,,,,,,,,2,1.57,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Driving Finger Roll Layup,,,41-43,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=204
 ,,,,,,,,,,2,1.44,Boston Celtics,foul,,,,,,,,,,Bass,,,,,,Personal,,,41-43,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=205
 ,,,,,,,,,,2,1.44,Boston Celtics,substitute,,,,Green,,Pierce,,,,,,,,,,,,,41-43,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=206
 ,,,,,,,,,,2,1.34,Oklahoma City Thunder,shot,,,,,,,,,,Perkins,,,,missed,,Jump Shot,,,41-43,14,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=207
 ,,,,,,,,,,2,1.33,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,41-43,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=208
 ,,,,,,,,,,2,1.15,Boston Celtics,shot,Rondo,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,41-45,21,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=209
-,,,,,,,,,,2,0.56,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=210
-,,,,,,,,,,2,0.54,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,,,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=211
+,,,,,,,,,,2,0.56,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Garnett,,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=210
+,,,,,,,,,,2,0.54,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,Martin,,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=211
 ,,,,,,,,,,2,0.41,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Jump Shot,,,43-45,8,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=212
 ,,,,,,,,,,2,0.41,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,43-45,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=213
 ,,,,,,,,,,2,0.30,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,43-45,18,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=215
@@ -192,19 +192,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.15,Boston Celtics,shot,Garnett,,,,,,,,,Pierce,2,,,made,,Driving Finger Roll Layup,,,45-52,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=228
 ,,,,,,,,,,3,10.57,Oklahoma City Thunder,shot,Durant,,,,,,,,,Ibaka,2,,,made,,Jump Shot,,,47-52,13,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=229
 ,,,,,,,,,,3,10.42,Boston Celtics,shot,,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,47-55,27,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=230
-,,,,,,,,,,3,10.16,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=231
+,,,,,,,,,,3,10.16,Oklahoma City Thunder,turnover,,,,,,,,,,Ibaka,,,Lost Ball,,Terry,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=231
 ,,,,,,,,,,3,10.07,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,47-55,5,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=232
 ,,,,,,,,,,3,10.06,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=233
 ,,,,,,,,,,3,10.05,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Personal,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=234
 ,,,,,,,,,,3,9.51,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,47-55,25,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=235
 ,,,,,,,,,,3,9.50,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=236
-,,,,,,,,,,3,9.39,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,47-55,3,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=237
+,,,,,,,,,,3,9.39,Boston Celtics,shot,,,Perkins,,,,,,,Bass,,,,missed,,Jump Shot,,,47-55,3,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=237
 ,,,,,,,,,,3,9.37,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=238
 ,,,,,,,,,,3,9.31,Oklahoma City Thunder,shot,Perkins,,,,,,,,,Sefolosha,2,,,made,,Layup,,,49-55,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=239
 ,,,,,,,,,,3,9.27,Boston Celtics,shot,,,,,,,,,,Terry,3,,,made,,3PT Jump Shot,,,49-58,26,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=240
 ,,,,,,,,,,3,9.26,Oklahoma City Thunder,timeout,,,,,,,,,,,,,,,,,,,49-58,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=241
 ,,,,,,,,,,3,9.04,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Durant,2,,,made,,Running Reverse Layup,,,51-58,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=244
-,,,,,,,,,,3,8.36,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Turnaround Jump Shot,,,51-58,5,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=245
+,,,,,,,,,,3,8.36,Boston Celtics,shot,,,Perkins,,,,,,,Garnett,,,,missed,,Turnaround Jump Shot,,,51-58,5,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=245
 ,,,,,,,,,,3,8.35,Oklahoma City Thunder,rebound,,,,,,,,,,Westbrook,,,,,,,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=246
 ,,,,,,,,,,3,8.30,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Layup,,,53-58,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=247
 ,,,,,,,,,,3,8.04,Boston Celtics,shot,,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,53-61,27,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=248
@@ -212,7 +212,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.41,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=250
 ,,,,,,,,,,3,7.32,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Discontinue Dribble,,,,,,53-61,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=251
 ,,,,,,,,,,3,7.07,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,2,,,made,,Driving Layup,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=252
-,,,,,,,,,,3,6.47,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=253
+,,,,,,,,,,3,6.47,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Durant,,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=253
 ,,,,,,,,,,3,6.44,Oklahoma City Thunder,shot,Durant,,,,,,,,,Westbrook,2,,,made,,Driving Finger Roll Layup,,,57-61,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=254
 ,,,,,,,,,,3,6.44,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=255
 ,,,,,,,,,,3,6.44,Boston Celtics,substitute,,,,Wilcox,,Garnett,,,,,,,,,,,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=257
@@ -249,7 +249,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.51,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Turnaround Jump Shot,,,63-66,7,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=300
 ,,,,,,,,,,3,3.50,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=301
 ,,,,,,,,,,3,3.43,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Personal,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=302
-,,,,,,,,,,3,3.37,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=303
+,,,,,,,,,,3,3.37,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Bad Pass,,Green,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=303
 ,,,,,,,,,,3,3.36,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Personal,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=304
 ,,,,,,,,,,3,3.14,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,63-66,9,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=305
 ,,,,,,,,,,3,3.12,Oklahoma City Thunder,rebound,,,,,,,,,,Collison,,,,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=306
@@ -262,7 +262,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.49,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,64-66,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=315
 ,,,,,,,,,,3,2.34,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Fadeaway Jumper,,,64-66,16,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=316
 ,,,,,,,,,,3,2.34,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,64-66,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=317
-,,,,,,,,,,3,2.22,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Layup,,,64-66,3,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=318
+,,,,,,,,,,3,2.22,Boston Celtics,shot,,,Westbrook,,,,,,,Sullinger,,,,missed,,Layup,,,64-66,3,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=318
 ,,,,,,,,,,3,2.21,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,64-66,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=319
 ,,,,,,,,,,3,2.21,Boston Celtics,shot,,,,,,,,,,Sullinger,2,,,made,,Tip Shot,,,64-68,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=320
 ,,,,,,,,,,3,2.04,Oklahoma City Thunder,shot,,,,,,,,,,Ibaka,,,,missed,,Jump Shot,,,64-68,19,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=321
@@ -284,7 +284,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.32,Oklahoma City Thunder,foul,,,,,,,,,,Collison,,,,,,Personal,,,64-72,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=339
 ,,,,,,,,,,3,0.32,Boston Celtics,free throw,,,,,,,1,,2,Green,1,,foul,made,,,,,64-73,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=340
 ,,,,,,,,,,3,0.32,Boston Celtics,free throw,,,,,,,2,,2,Green,1,,foul,made,,,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=342
-,,,,,,,,,,3,0.17,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=344
+,,,,,,,,,,3,0.17,Oklahoma City Thunder,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Lee,,,,64-74,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=344
 ,,,,,,,,,,3,0.14,Boston Celtics,shot,Lee,,,,,,,,,Green,2,,,made,,Driving Finger Roll Layup,,,64-76,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=345
 ,,,,,,,,,,3,0.14,Oklahoma City Thunder,foul,,,,,,,,,,Sefolosha,,,,,,Shooting,,,64-76,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=346
 ,,,,,,,,,,3,0.14,Boston Celtics,free throw,,,,,,,1,,1,Green,1,,foul,made,,,,,64-77,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=347
@@ -318,7 +318,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.42,Boston Celtics,foul,,,,,,,,,,Green,,,,,,Personal,,,70-84,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=387
 ,,,,,,,,,,4,9.26,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,3PT Jump Shot,,,70-84,25,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=388
 ,,,,,,,,,,4,9.16,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,70-84,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=390
-,,,,,,,,,,4,9.16,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,70-84,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=389
+,,,,,,,,,,4,9.16,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Westbrook,,,,70-84,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=389
 ,,,,,,,,,,4,9.13,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Westbrook,2,,,made,,Layup,,,72-84,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=391
 ,,,,,,,,,,4,9.01,Oklahoma City Thunder,foul,,,,,,,,,,Sefolosha,,,,,,Shooting,,,72-84,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=392
 ,,,,,,,,,,4,9.01,Boston Celtics,free throw,,,,,,,1,,2,Pierce,1,,foul,made,,,,,72-85,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=393
@@ -360,13 +360,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.23,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Layup,,,87-95,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=450
 ,,,,,,,,,,4,5.22,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,87-95,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=451
 ,,,,,,,,,,4,5.13,Boston Celtics,shot,,,,,,,,,,Garnett,2,,,made,,Fadeaway Jumper,,,87-97,12,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=452
-,,,,,,,,,,4,4.59,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,,,,,87-97,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=453
+,,,,,,,,,,4,4.59,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,Rondo,,,,87-97,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=453
 ,,,,,,,,,,4,4.48,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Turnaround Fadeaway Shot,,,87-97,11,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=454
 ,,,,,,,,,,4,4.47,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,87-97,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=455
 ,,,,,,,,,,4,4.35,Oklahoma City Thunder,shot,,,,,,,,,,Westbrook,,,,missed,,Jump Shot,,,87-97,17,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=456
 ,,,,,,,,,,4,4.34,Oklahoma City Thunder,rebound,,,,,,,,,,Ibaka,,,,,,,,,87-97,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=457
-,,,,,,,,,,4,4.29,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,,,,,87-97,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=458
-,,,,,,,,,,4,4.22,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Layup,,,87-97,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=459
+,,,,,,,,,,4,4.29,Oklahoma City Thunder,turnover,,,,,,,,,,Westbrook,,,Lost Ball,,Rondo,,,,87-97,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=458
+,,,,,,,,,,4,4.22,Boston Celtics,shot,,,Ibaka,,,,,,,Green,,,,missed,,Layup,,,87-97,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=459
 ,,,,,,,,,,4,4.21,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,87-97,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=460
 ,,,,,,,,,,4,4.20,Oklahoma City Thunder,foul,,,,,,,,,,Westbrook,,,,,,Shooting,,,87-97,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=461
 ,,,,,,,,,,4,4.20,Boston Celtics,free throw,,,,,,,1,,2,Garnett,1,,foul,made,,,,,87-98,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=462
@@ -376,7 +376,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.07,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,Running Jump Shot,,,87-99,5,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=470
 ,,,,,,,,,,4,4.06,Oklahoma City Thunder,rebound,,,,,,,,,,,,,,,,,,,87-99,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=471
 ,,,,,,,,,,4,4.02,Oklahoma City Thunder,shot,Sefolosha,,,,,,,,,Durant,2,,,made,,Jump Shot,,,89-99,17,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=472
-,,,,,,,,,,4,3.46,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Layup,,,89-99,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=473
+,,,,,,,,,,4,3.46,Boston Celtics,shot,,,Durant,,,,,,,Rondo,,,,missed,,Layup,,,89-99,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=473
 ,,,,,,,,,,4,3.45,Oklahoma City Thunder,rebound,,,,,,,,,,Perkins,,,,,,,,,89-99,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=474
 ,,,,,,,,,,4,3.31,Oklahoma City Thunder,shot,,,,,,,,,,Sefolosha,,,,missed,,3PT Jump Shot,,,89-99,26,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=475
 ,,,,,,,,,,4,3.30,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,89-99,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=476
@@ -405,9 +405,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.36,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,98-101,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=508
 ,,,,,,,,,,4,1.36,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Tip Shot,,,98-101,2,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=509
 ,,,,,,,,,,4,1.35,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,98-101,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=510
-,,,,,,,,,,4,1.34,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Layup,,,98-101,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=511
+,,,,,,,,,,4,1.34,Boston Celtics,shot,,,Ibaka,,,,,,,Bass,,,,missed,,Layup,,,98-101,1,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=511
 ,,,,,,,,,,4,1.33,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,98-101,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=512
-,,,,,,,,,,4,1.20,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,,,,,98-101,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=515
+,,,,,,,,,,4,1.20,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,Westbrook,,,,98-101,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=515
 ,,,,,,,,,,4,1.14,Oklahoma City Thunder,shot,,,,,,,,,,Durant,,,,missed,,3PT Jump Shot,,,98-101,26,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=516
 ,,,,,,,,,,4,1.13,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,98-101,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=517
 ,,,,,,,,,,4,1.01,Oklahoma City Thunder,foul,,,,,,,,,,Ibaka,,,,,,Shooting,,,98-101,,http://stats.nba.com/cvp.html?GameID=0021200173&GameEventID=518

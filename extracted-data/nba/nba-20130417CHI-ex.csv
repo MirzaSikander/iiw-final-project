@@ -12,7 +12,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.06,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,0-2,10,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=11
 ,,,,,,,,,,1,10.04,Chicago Bulls,rebound,,,,,,,,,,Butler,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=13
 ,,,,,,,,,,1,10.04,Chicago Bulls,shot,,,,,,,,,,Butler,2,,,made,,Tip Shot,,,0-4,1,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=12
-,,,,,,,,,,1,9.52,Washington Wizards,shot,,,,,,,,,,Temple,,,,missed,,Driving Layup,,,0-4,3,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=14
+,,,,,,,,,,1,9.52,Washington Wizards,shot,,,Butler,,,,,,,Temple,,,,missed,,Driving Layup,,,0-4,3,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=14
 ,,,,,,,,,,1,9.52,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=15
 ,,,,,,,,,,1,9.47,Washington Wizards,shot,,,,,,,,,,Booker,,,,missed,,Jump Shot,,,0-4,17,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=16
 ,,,,,,,,,,1,9.45,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=17
@@ -38,7 +38,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.17,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,2-10,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=38
 ,,,,,,,,,,1,7.12,Washington Wizards,shot,Wall,,,,,,,,,Temple,3,,,made,,3PT Jump Shot,,,5-10,24,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=39
 ,,,,,,,,,,1,6.54,Chicago Bulls,shot,Deng,,,,,,,,,Hinrich,3,,,made,,3PT Jump Shot,,,5-13,26,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=40
-,,,,,,,,,,1,6.42,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Lost Ball,,,,,,5-13,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=41
+,,,,,,,,,,1,6.42,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Lost Ball,,Mohammed,,,,5-13,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=41
 ,,,,,,,,,,1,6.39,Chicago Bulls,shot,,,,,,,,,,Hinrich,2,,,made,,Reverse Layup,,,5-15,2,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=42
 ,,,,,,,,,,1,6.39,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Shooting,,,5-15,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=43
 ,,,,,,,,,,1,6.39,Chicago Bulls,free throw,,,,,,,1,,1,Hinrich,1,,foul,made,,,,,5-16,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=44
@@ -58,7 +58,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.48,Chicago Bulls,free throw,,,,,,,1,,1,Mohammed,1,,foul,made,,,,,7-21,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=60
 ,,,,,,,,,,1,4.33,Washington Wizards,shot,,,,,,,,,,Martin,,,,missed,,Jump Shot,,,7-21,19,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=62
 ,,,,,,,,,,1,4.32,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,7-21,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=63
-,,,,,,,,,,1,4.16,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Layup,,,7-21,3,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=64
+,,,,,,,,,,1,4.16,Chicago Bulls,shot,,,Seraphin,,,,,,,Boozer,,,,missed,,Layup,,,7-21,3,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=64
 ,,,,,,,,,,1,4.10,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,7-21,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=65
 ,,,,,,,,,,1,4.08,Chicago Bulls,shot,,,,,,,,,,Boozer,2,,,made,,Layup,,,7-23,2,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=66
 ,,,,,,,,,,1,4.02,Washington Wizards,shot,,,,,,,,,,Booker,,,,missed,,Jump Shot,,,7-23,18,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=67
@@ -77,7 +77,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.09,Washington Wizards,free throw,,,,,,,1,,2,Price,1,,foul,made,,,,,8-27,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=80
 ,,,,,,,,,,1,3.09,Washington Wizards,free throw,,,,,,,2,,2,Price,,,foul,missed,,,,,8-27,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=83
 ,,,,,,,,,,1,3.07,Chicago Bulls,rebound,,,,,,,,,,Belinelli,,,,,,,,,8-27,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=85
-,,,,,,,,,,1,2.52,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,8-27,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=86
+,,,,,,,,,,1,2.52,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,Booker,,,,8-27,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=86
 ,,,,,,,,,,1,2.38,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,3PT Jump Shot,,,8-27,26,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=87
 ,,,,,,,,,,1,2.38,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,8-27,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=88
 ,,,,,,,,,,1,2.38,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,8-27,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=89
@@ -108,7 +108,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.40,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,Shooting,,,17-31,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=125
 ,,,,,,,,,,2,11.40,Washington Wizards,free throw,,,,,,,1,,1,Price,1,,foul,made,,,,,18-31,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=126
 ,,,,,,,,,,2,11.15,Chicago Bulls,shot,,,,,,,,,,Belinelli,2,,,made,,Running Layup,,,18-33,1,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=128
-,,,,,,,,,,2,11.02,Washington Wizards,turnover,,,,,,,,,,Temple,,,Bad Pass,,,,,,18-33,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=129
+,,,,,,,,,,2,11.02,Washington Wizards,turnover,,,,,,,,,,Temple,,,Bad Pass,,Robinson,,,,18-33,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=129
 ,,,,,,,,,,2,10.57,Chicago Bulls,shot,Robinson,,,,,,,,,Belinelli,2,,,made,,Running Layup,,,18-35,3,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=130
 ,,,,,,,,,,2,10.47,Washington Wizards,shot,,,,,,,,,,Temple,,,,missed,,Jump Shot,,,18-35,15,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=131
 ,,,,,,,,,,2,10.45,Washington Wizards,rebound,,,,,,,,,,Price,,,,,,,,,18-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=132
@@ -123,10 +123,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.57,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,21-35,18,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=143
 ,,,,,,,,,,2,9.55,Washington Wizards,rebound,,,,,,,,,,Singleton,,,,,,,,,21-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=144
 ,,,,,,,,,,2,9.42,Washington Wizards,shot,Price,,,,,,,,,Vesely,2,,,made,,Hook Shot,,,23-35,9,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=145
-,,,,,,,,,,2,9.19,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Bad Pass,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=146
+,,,,,,,,,,2,9.19,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Bad Pass,,Temple,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=146
 ,,,,,,,,,,2,9.18,Chicago Bulls,foul,,,,,,,,,,Belinelli,,,,,,Personal,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=147
 ,,,,,,,,,,2,9.09,Washington Wizards,shot,,,,,,,,,,Price,2,,,made,,Jump Shot,,,25-35,18,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=148
-,,,,,,,,,,2,8.47,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Lost Ball,,,,,,25-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=149
+,,,,,,,,,,2,8.47,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Lost Ball,,Vesely,,,,25-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=149
 ,,,,,,,,,,2,8.34,Washington Wizards,shot,Temple,,,,,,,,,Price,3,,,made,,3PT Jump Shot,,,28-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=150
 ,,,,,,,,,,2,8.27,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,28-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=151
 ,,,,,,,,,,2,8.13,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,Jump Shot,,,28-35,18,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=155
@@ -136,7 +136,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.38,Chicago Bulls,substitute,,,,Hamilton,,Belinelli,,,,,,,,,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=160
 ,,,,,,,,,,2,7.38,Chicago Bulls,turnover,,,,,,,,,,Hamilton,,,Backcourt,,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=161
 ,,,,,,,,,,2,7.31,Washington Wizards,shot,,,,,,,,,,Price,2,,,made,,Jump Shot,,,32-35,17,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=162
-,,,,,,,,,,2,7.11,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,,,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=163
+,,,,,,,,,,2,7.11,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,Temple,,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=163
 ,,,,,,,,,,2,7.08,Chicago Bulls,foul,,,,,,,,,,Boozer,,,,,,Personal,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=164
 ,,,,,,,,,,2,7.08,Washington Wizards,free throw,,,,,,,1,,2,Collins,1,,foul,made,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=165
 ,,,,,,,,,,2,7.08,Washington Wizards,free throw,,,,,,,2,,2,Collins,1,,foul,made,,,,,34-35,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=167
@@ -147,7 +147,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.31,Chicago Bulls,shot,Robinson,,,,,,,,,Hamilton,2,,,made,,Reverse Layup,,,34-37,2,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=173
 ,,,,,,,,,,2,6.30,Chicago Bulls,violation,,,,,,,,,,BULLS,,, Delay of game Violation,,,,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=174
 ,,,,,,,,,,2,6.30,Washington Wizards,free throw,,,,,,,,,,Price,1,,Technical,made,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=175
-,,,,,,,,,,2,6.18,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=177
+,,,,,,,,,,2,6.18,Washington Wizards,turnover,,,,,,,,,,Price,,,Bad Pass,,Butler,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=177
 ,,,,,,,,,,2,6.12,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,3PT Jump Shot,,,35-37,25,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=178
 ,,,,,,,,,,2,6.11,Washington Wizards,rebound,,,,,,,,,,Singleton,,,,,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=179
 ,,,,,,,,,,2,5.51,Washington Wizards,shot,,,,,,,,,,Temple,,,,missed,,Jump Shot,,,35-37,12,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=180
@@ -245,7 +245,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.35,Washington Wizards,foul,,,,,,,,,,Booker,,,,,,Shooting,,,54-61,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=289
 ,,,,,,,,,,3,6.35,Chicago Bulls,free throw,,,,,,,1,,2,Boozer,1,,foul,made,,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=290
 ,,,,,,,,,,3,6.35,Chicago Bulls,free throw,,,,,,,2,,2,Boozer,1,,foul,made,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=292
-,,,,,,,,,,3,6.22,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=294
+,,,,,,,,,,3,6.22,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Butler,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=294
 ,,,,,,,,,,3,6.18,Washington Wizards,foul,,,,,,,,,,Collins,,,,,,Shooting,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=295
 ,,,,,,,,,,3,6.18,Chicago Bulls,free throw,,,,,,,1,,2,Mohammed,1,,foul,made,,,,,54-64,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=296
 ,,,,,,,,,,3,6.18,Chicago Bulls,free throw,,,,,,,2,,2,Mohammed,1,,foul,made,,,,,54-65,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=298
@@ -278,7 +278,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.35,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=331
 ,,,,,,,,,,3,3.16,Washington Wizards,shot,,,,,,,,,,Booker,,,,missed,,Jump Shot,,,60-69,17,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=332
 ,,,,,,,,,,3,3.15,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=333
-,,,,,,,,,,3,3.00,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Turnaround Jump Shot,,,60-69,9,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=334
+,,,,,,,,,,3,3.00,Chicago Bulls,shot,,,Booker,,,,,,,Boozer,,,,missed,,Turnaround Jump Shot,,,60-69,9,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=334
 ,,,,,,,,,,3,2.56,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=335
 ,,,,,,,,,,3,2.52,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,60-69,19,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=336
 ,,,,,,,,,,3,2.51,Washington Wizards,rebound,,,,,,,,,,Singleton,,,,,,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=337
@@ -304,20 +304,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.36,Washington Wizards,rebound,,,,,,,,,,Booker,,,,,,,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=361
 ,,,,,,,,,,4,11.21,Washington Wizards,shot,Wall,,,,,,,,,Singleton,2,,,made,,Jump Shot,,,70-74,20,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=362
 ,,,,,,,,,,4,11.03,Chicago Bulls,shot,Robinson,,,,,,,,,Butler,3,,,made,,3PT Jump Shot,,,70-77,25,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=363
-,,,,,,,,,,4,10.47,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Bad Pass,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=364
+,,,,,,,,,,4,10.47,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Bad Pass,,Noah,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=364
 ,,,,,,,,,,4,10.32,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,Jump Shot,,,70-77,20,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=366
 ,,,,,,,,,,4,10.30,Washington Wizards,rebound,,,,,,,,,,Booker,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=367
 ,,,,,,,,,,4,10.16,Washington Wizards,shot,,,,,,,,,,Booker,,,,missed,,Jump Shot,,,70-77,9,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=368
 ,,,,,,,,,,4,10.15,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=369
-,,,,,,,,,,4,10.07,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Reverse Layup,,,70-77,1,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=370
+,,,,,,,,,,4,10.07,Chicago Bulls,shot,,,Booker,,,,,,,Boozer,,,,missed,,Reverse Layup,,,70-77,1,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=370
 ,,,,,,,,,,4,10.07,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=371
 ,,,,,,,,,,4,10.07,Washington Wizards,substitute,,,,Vesely,,Booker,,,,,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=372
 ,,,,,,,,,,4,9.59,Washington Wizards,foul,,,,,,,,,,Seraphin,,,,,,Personal,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=373
-,,,,,,,,,,4,9.56,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Dunk,,,70-77,2,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=374
+,,,,,,,,,,4,9.56,Chicago Bulls,shot,,,Singleton,,,,,,,Noah,,,,missed,,Dunk,,,70-77,2,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=374
 ,,,,,,,,,,4,9.53,Washington Wizards,rebound,,,,,,,,,,Singleton,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=375
 ,,,,,,,,,,4,9.50,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Layup,,,70-77,2,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=376
 ,,,,,,,,,,4,9.48,Chicago Bulls,rebound,,,,,,,,,,Butler,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=377
-,,,,,,,,,,4,9.27,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Lost Ball,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=378
+,,,,,,,,,,4,9.27,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Lost Ball,,Price,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=378
 ,,,,,,,,,,4,9.25,Chicago Bulls,foul,,,,,,,,,,Belinelli,,,,,,Personal,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=379
 ,,,,,,,,,,4,9.25,Washington Wizards,substitute,,,,Temple,,Wall,,,,,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=380
 ,,,,,,,,,,4,9.25,Chicago Bulls,substitute,,,,Gibson,,Boozer,,,,,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=381
@@ -326,7 +326,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.44,Chicago Bulls,shot,Noah,,,,,,,,,Robinson,3,,,made,,3PT Jump Shot,,,73-80,25,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=384
 ,,,,,,,,,,4,8.33,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,3PT Jump Shot,,,73-80,26,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=385
 ,,,,,,,,,,4,8.30,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=386
-,,,,,,,,,,4,8.25,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Reverse Layup,,,73-80,3,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=387
+,,,,,,,,,,4,8.25,Chicago Bulls,shot,,,Seraphin,,,,,,,Gibson,,,,missed,,Reverse Layup,,,73-80,3,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=387
 ,,,,,,,,,,4,8.21,Washington Wizards,rebound,,,,,,,,,,Vesely,,,,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=388
 ,,,,,,,,,,4,8.10,Washington Wizards,shot,Price,,,,,,,,,Seraphin,2,,,made,,Jump Shot,,,75-80,16,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=389
 ,,,,,,,,,,4,7.49,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,3PT Jump Shot,,,75-80,25,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=390
@@ -362,7 +362,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.44,Chicago Bulls,substitute,,,,Hinrich,,Robinson,,,,,,,,,,,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=429
 ,,,,,,,,,,4,4.44,Chicago Bulls,free throw,,,,,,,2,,2,Gibson,1,,foul,made,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=430
 ,,,,,,,,,,4,4.23,Washington Wizards,shot,Seraphin,,,,,,,,,Temple,3,,,made,,3PT Jump Shot,,,82-84,24,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=433
-,,,,,,,,,,4,4.02,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Lost Ball,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=434
+,,,,,,,,,,4,4.02,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Lost Ball,,Temple,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=434
 ,,,,,,,,,,4,4.02,Chicago Bulls,foul,,,,,,,,,,Gibson,,,,,,Personal,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=435
 ,,,,,,,,,,4,3.50,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Jump Shot,,,82-84,18,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=436
 ,,,,,,,,,,4,3.49,Chicago Bulls,rebound,,,,,,,,,,Hinrich,,,,,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=437
@@ -390,7 +390,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.38,Washington Wizards,free throw,,,,,,,2,,2,Wall,1,,foul,made,,,,,87-92,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=464
 ,,,,,,,,,,4,1.16,Chicago Bulls,shot,,,,,,,,,,Gibson,2,,,made,,Finger Roll Layup,,,87-94,2,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=466
 ,,,,,,,,,,4,1.05,Washington Wizards,shot,Booker,,,,,,,,,Wall,3,,,made,,3PT Jump Shot,,,90-94,26,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=467
-,,,,,,,,,,4,0.41,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Bad Pass,,,,,,90-94,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=468
+,,,,,,,,,,4,0.41,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Bad Pass,,Booker,,,,90-94,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=468
 ,,,,,,,,,,4,0.38,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,90-94,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=470
 ,,,,,,,,,,4,0.26,Washington Wizards,shot,,,,,,,,,,Price,2,,,made,,Floating Jump Shot,,,92-94,6,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=475
 ,,,,,,,,,,4,0.17,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Personal,,,92-94,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=476
@@ -399,7 +399,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.17,Chicago Bulls,free throw,,,,,,,2,,2,Hinrich,1,,foul,made,,,,,92-95,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=480
 ,,,,,,,,,,4,0.17,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,92-95,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=482
 ,,,,,,,,,,4,0.17,Chicago Bulls,substitute,,,,Cook,,Boozer,,,,,,,,,,,,,92-95,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=483
-,,,,,,,,,,4,0.10,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,3PT Jump Shot,,,92-95,26,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=485
+,,,,,,,,,,4,0.10,Washington Wizards,shot,,,Gibson,,,,,,,Price,,,,missed,,3PT Jump Shot,,,92-95,26,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=485
 ,,,,,,,,,,4,0.10,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,92-95,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=486
 ,,,,,,,,,,4,0.00,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,3PT Jump Shot,,,92-95,26,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=490
 ,,,,,,,,,,4,0.00,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,92-95,,http://stats.nba.com/cvp.html?GameID=0021201222&GameEventID=492

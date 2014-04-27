@@ -4,7 +4,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.47,Boston Celtics,free throw,,,,,,,1,,2,Bradley,1,,foul,made,,,,,1-0,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=4
 ,,,,,,,,,,1,11.47,Boston Celtics,free throw,,,,,,,2,,2,Bradley,1,,foul,made,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=6
 ,,,,,,,,,,1,11.24,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Pullup Jump Shot,,,2-2,21,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=8
-,,,,,,,,,,1,11.10,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=9
+,,,,,,,,,,1,11.10,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,Lowry,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=9
 ,,,,,,,,,,1,11.06,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Layup,,,2-2,2,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=10
 ,,,,,,,,,,1,11.04,Boston Celtics,rebound,,,,,,,,,,Bradley,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=11
 ,,,,,,,,,,1,10.56,Boston Celtics,shot,Bradley,,,,,,,,,Pierce,2,,,made,,Jump Shot,,,4-2,14,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=12
@@ -29,15 +29,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.06,Toronto Raptors,free throw,,,,,,,1,,2,Valanciunas,1,,foul,made,,,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=33
 ,,,,,,,,,,1,8.06,Toronto Raptors,free throw,,,,,,,2,,2,Valanciunas,,,foul,missed,,,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=35
 ,,,,,,,,,,1,8.05,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=37
-,,,,,,,,,,1,7.50,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Layup,,,9-12,2,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=38
+,,,,,,,,,,1,7.50,Boston Celtics,shot,,,Valanciunas,,,,,,,Bradley,,,,missed,,Layup,,,9-12,2,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=38
 ,,,,,,,,,,1,7.48,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=39
-,,,,,,,,,,1,7.46,Toronto Raptors,turnover,,,,,,,,,,Valanciunas Poss,,,Lost Ball,,,,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=45
+,,,,,,,,,,1,7.46,Toronto Raptors,turnover,,,,,,,,,,Valanciunas Poss,,,Lost Ball,,Bradley,,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=45
 ,,,,,,,,,,1,7.39,Boston Celtics,shot,Pierce,,,,,,,,,Bass,2,,,made,,Jump Shot,,,11-12,17,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=40
 ,,,,,,,,,,1,7.20,Boston Celtics,foul,,,,,,,,,,Wilcox,,,,,,Shooting,,,11-12,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=41
 ,,,,,,,,,,1,7.20,Toronto Raptors,free throw,,,,,,,1,,2,Valanciunas,1,,foul,made,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=42
 ,,,,,,,,,,1,7.20,Boston Celtics,substitute,,,,Randolph,,Wilcox,,,,,,,,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=44
 ,,,,,,,,,,1,7.20,Toronto Raptors,free throw,,,,,,,2,,2,Valanciunas,1,,foul,made,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=46
-,,,,,,,,,,1,7.18,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=48
+,,,,,,,,,,1,7.18,Boston Celtics,turnover,,,,,,,,,,Bass,,,Bad Pass,,Johnson,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=48
 ,,,,,,,,,,1,7.17,Boston Celtics,foul,,,,,,,,,,Bass,,,,,,Shooting,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=49
 ,,,,,,,,,,1,7.17,Toronto Raptors,free throw,,,,,,,1,,2,Lowry,1,,foul,made,,,,,11-15,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=50
 ,,,,,,,,,,1,7.17,Toronto Raptors,free throw,,,,,,,2,,2,Lowry,1,,foul,made,,,,,11-16,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=52
@@ -62,7 +62,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.38,Boston Celtics,rebound,,,,,,,,,,Randolph,,,,,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=78
 ,,,,,,,,,,1,5.29,Boston Celtics,shot,,,,,,,,,,Bass,2,,,made,,Jump Shot,,,17-17,17,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=79
 ,,,,,,,,,,1,5.16,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Traveling,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=80
-,,,,,,,,,,1,5.00,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Driving Layup,,,17-17,4,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=81
+,,,,,,,,,,1,5.00,Boston Celtics,shot,,,Valanciunas,,,,,,,Green,,,,missed,,Driving Layup,,,17-17,4,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=81
 ,,,,,,,,,,1,4.59,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=87
 ,,,,,,,,,,1,4.55,Toronto Raptors,shot,Gay,,,,,,,,,DeRozan,2,,,made,,Driving Layup,,,17-19,2,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=82
 ,,,,,,,,,,1,4.49,Boston Celtics,foul,,,,,,,,,,,,,,,,,,,17-19,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=83
@@ -72,7 +72,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.43,Toronto Raptors,free throw,,,,,,,1,,2,DeRozan,1,,foul,made,,,,,17-20,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=89
 ,,,,,,,,,,1,4.43,Boston Celtics,substitute,,,,Crawford,,Green,,,,,,,,,,,,,17-20,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=91
 ,,,,,,,,,,1,4.43,Toronto Raptors,free throw,,,,,,,2,,2,DeRozan,1,,foul,made,,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=92
-,,,,,,,,,,1,4.28,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,17-21,10,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=95
+,,,,,,,,,,1,4.28,Boston Celtics,shot,,,Valanciunas,,,,,,,Bass,,,,missed,,Jump Shot,,,17-21,10,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=95
 ,,,,,,,,,,1,4.28,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=96
 ,,,,,,,,,,1,4.11,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,17-21,16,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=97
 ,,,,,,,,,,1,4.10,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,17-21,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=98
@@ -107,7 +107,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.05,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Pullup Jump Shot,,,27-31,16,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=133
 ,,,,,,,,,,1,0.04,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=134
 ,,,,,,,,,,1,0.00,Boston Celtics,shot,Lee,,,,,,,,,Crawford,3,,,made,,3PT Jump Bank Shot,,,30-31,40,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=135
-,,,,,,,,,,2,11.49,Boston Celtics,shot,,,,,,,,,,White,,,,missed,,Layup,,,30-31,3,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=141
+,,,,,,,,,,2,11.49,Boston Celtics,shot,,,Johnson,,,,,,,White,,,,missed,,Layup,,,30-31,3,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=141
 ,,,,,,,,,,2,11.46,Boston Celtics,rebound,,,,,,,,,,Randolph,,,,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=142
 ,,,,,,,,,,2,11.44,Boston Celtics,shot,,,,,,,,,,Randolph,2,,,made,,Layup,,,32-31,2,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=143
 ,,,,,,,,,,2,11.39,Boston Celtics,foul,,,,,,,,,,Lee,,,,,,Personal,,,32-31,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=144
@@ -137,7 +137,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.42,Boston Celtics,foul,,,,,,,,,,Lee,,,,,,Shooting,,,37-36,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=173
 ,,,,,,,,,,2,8.42,Toronto Raptors,free throw,,,,,,,1,,2,Anderson,1,,foul,made,,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=174
 ,,,,,,,,,,2,8.42,Toronto Raptors,free throw,,,,,,,2,,2,Anderson,1,,foul,made,,,,,37-38,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=176
-,,,,,,,,,,2,8.22,Boston Celtics,shot,,,,,,,,,,White,,,,missed,,Jump Shot,,,37-38,4,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=178
+,,,,,,,,,,2,8.22,Boston Celtics,shot,,,Johnson,,,,,,,White,,,,missed,,Jump Shot,,,37-38,4,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=178
 ,,,,,,,,,,2,8.20,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,37-38,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=179
 ,,,,,,,,,,2,8.12,Toronto Raptors,shot,Fields,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,37-41,27,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=180
 ,,,,,,,,,,2,7.52,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Driving Layup,,,37-41,3,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=181
@@ -180,7 +180,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.31,Toronto Raptors,foul,,,,,,,,,,Fields,,,,,,Shooting,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=224
 ,,,,,,,,,,2,4.31,Boston Celtics,free throw,,,,,,,1,,1,Pierce,,,foul,missed,,,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=225
 ,,,,,,,,,,2,4.30,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=227
-,,,,,,,,,,2,4.08,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,,,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=228
+,,,,,,,,,,2,4.08,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,Pierce,,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=228
 ,,,,,,,,,,2,4.00,Toronto Raptors,foul,,,,,,,,,,Gay,,,,,,Personal,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=229
 ,,,,,,,,,,2,3.53,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Jump Shot,,,41-48,20,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=230
 ,,,,,,,,,,2,3.52,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,41-48,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=231
@@ -190,7 +190,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.58,Boston Celtics,turnover,,,,,,,,,,Bradley Poss,,,Lost Ball,,,,,,43-53,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=235
 ,,,,,,,,,,2,2.58,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,43-53,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=236
 ,,,,,,,,,,2,2.58,Boston Celtics,substitute,,,,Lee,,Pierce,,,,,,,,,,,,,43-53,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=238
-,,,,,,,,,,2,2.35,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,Jump Shot,,,43-53,7,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=240
+,,,,,,,,,,2,2.35,Toronto Raptors,shot,,,Lee,,,,,,,Fields,,,,missed,,Jump Shot,,,43-53,7,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=240
 ,,,,,,,,,,2,2.33,Boston Celtics,rebound,,,,,,,,,,Bradley,,,,,,,,,43-53,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=241
 ,,,,,,,,,,2,2.31,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Layup,,,43-53,2,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=242
 ,,,,,,,,,,2,2.29,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,43-53,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=243
@@ -207,7 +207,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.10,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,45-57,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=256
 ,,,,,,,,,,2,1.04,Toronto Raptors,shot,Lowry,,,,,,,,,Fields,2,,,made,,Running Reverse Layup,,,45-59,3,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=257
 ,,,,,,,,,,2,0.49,Boston Celtics,shot,Crawford,,,,,,,,,Bradley,2,,,made,,Jump Shot,,,47-59,20,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=258
-,,,,,,,,,,2,0.39,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,47-59,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=259
+,,,,,,,,,,2,0.39,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Crawford,,,,47-59,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=259
 ,,,,,,,,,,2,0.34,Boston Celtics,shot,,,,,,,,,,Crawford,,,,missed,,Driving Layup,,,47-59,3,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=260
 ,,,,,,,,,,2,0.33,Boston Celtics,rebound,,,,,,,,,,Crawford,,,,,,,,,47-59,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=261
 ,,,,,,,,,,2,0.32,Boston Celtics,shot,,,,,,,,,,Crawford,2,,,made,,Jump Shot,,,49-59,6,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=262
@@ -222,7 +222,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.26,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Turnaround Jump Shot,,,51-59,15,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=275
 ,,,,,,,,,,3,11.25,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,51-59,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=276
 ,,,,,,,,,,3,11.13,Toronto Raptors,shot,DeRozan,,,,,,,,,Lowry,3,,,made,,3PT Jump Shot,,,51-62,24,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=277
-,,,,,,,,,,3,11.05,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,,,,,51-62,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=278
+,,,,,,,,,,3,11.05,Boston Celtics,turnover,,,,,,,,,,Bradley,,,Bad Pass,,Lowry,,,,51-62,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=278
 ,,,,,,,,,,3,11.01,Toronto Raptors,shot,,,,,,,,,,Lowry,2,,,made,,Driving Layup,,,51-64,1,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=279
 ,,,,,,,,,,3,10.44,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,51-64,15,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=280
 ,,,,,,,,,,3,10.43,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=281
@@ -248,8 +248,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.21,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,54-72,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=303
 ,,,,,,,,,,3,8.13,Toronto Raptors,shot,Johnson,,,,,,,,,Valanciunas,2,,,made,,Slam Dunk,,,54-74,2,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=304
 ,,,,,,,,,,3,7.45,Boston Celtics,shot,,,,,,,,,,Williams,2,,,made,,Pullup Jump Shot,,,56-74,14,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=305
-,,,,,,,,,,3,7.25,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,,,,,56-74,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=306
-,,,,,,,,,,3,7.13,Boston Celtics,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,56-74,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=307
+,,,,,,,,,,3,7.25,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,White,,,,56-74,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=306
+,,,,,,,,,,3,7.13,Boston Celtics,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Gay,,,,56-74,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=307
 ,,,,,,,,,,3,7.09,Toronto Raptors,shot,Lowry,,,,,,,,,DeRozan,2,,,made,,Layup,,,56-76,2,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=308
 ,,,,,,,,,,3,6.57,Toronto Raptors,foul,,,,,,,,,,Johnson,,,,,,Personal,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=309
 ,,,,,,,,,,3,6.52,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Personal,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=310
@@ -275,10 +275,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.46,Toronto Raptors,free throw,,,,,,,2,,2,Gay,1,,foul,made,,,,,60-81,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=334
 ,,,,,,,,,,3,4.40,Boston Celtics,foul,,,,,,,,,,,,,,,,,,,60-81,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=336
 ,,,,,,,,,,3,4.40,Boston Celtics,turnover,,,,,,,,,,Melo,,,Foul,,,,,,60-81,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=337
-,,,,,,,,,,3,4.23,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,60-81,16,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=339
+,,,,,,,,,,3,4.23,Toronto Raptors,shot,,,Williams,,,,,,,Gay,,,,missed,,Jump Shot,,,60-81,16,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=339
 ,,,,,,,,,,3,4.20,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,60-81,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=340
 ,,,,,,,,,,3,4.16,Toronto Raptors,shot,,,,,,,,,,Gay,2,,,made,,Pullup Jump Shot,,,60-83,8,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=341
-,,,,,,,,,,3,4.05,Boston Celtics,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,60-83,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=342
+,,,,,,,,,,3,4.05,Boston Celtics,turnover,,,,,,,,,,Williams,,,Bad Pass,,Lowry,,,,60-83,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=342
 ,,,,,,,,,,3,4.00,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Running Layup,,,60-83,3,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=343
 ,,,,,,,,,,3,3.59,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,60-83,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=344
 ,,,,,,,,,,3,3.56,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Putback Dunk,,,60-85,2,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=345
@@ -292,7 +292,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.21,Boston Celtics,shot,,,,,,,,,,White,,,,missed,,Jump Shot,,,63-86,20,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=354
 ,,,,,,,,,,3,3.20,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,63-86,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=355
 ,,,,,,,,,,3,3.06,Boston Celtics,foul,,,,,,,,,,Melo,,,,,,Personal,,,63-86,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=356
-,,,,,,,,,,3,2.57,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,,,,,63-86,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=357
+,,,,,,,,,,3,2.57,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Bad Pass,,Melo,,,,63-86,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=357
 ,,,,,,,,,,3,2.52,Boston Celtics,shot,,,,,,,,,,Williams,,,,missed,,Driving Layup,,,63-86,1,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=358
 ,,,,,,,,,,3,2.51,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,63-86,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=359
 ,,,,,,,,,,3,2.39,Boston Celtics,foul,,,,,,,,,,Melo,,,,,,Personal,,,63-86,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=360
@@ -322,7 +322,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.47,Toronto Raptors,free throw,,,,,,,2,,2,Acy,,,foul,missed,,,,,70-96,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=389
 ,,,,,,,,,,4,11.46,Boston Celtics,rebound,,,,,,,,,,Crawford,,,,,,,,,70-96,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=391
 ,,,,,,,,,,4,11.34,Boston Celtics,shot,,,,,,,,,,Lee,2,,,made,,Pullup Jump Shot,,,72-96,17,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=392
-,,,,,,,,,,4,11.19,Toronto Raptors,turnover,,,,,,,,,,Gray,,,Bad Pass,,,,,,72-96,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=393
+,,,,,,,,,,4,11.19,Toronto Raptors,turnover,,,,,,,,,,Gray,,,Bad Pass,,Williams,,,,72-96,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=393
 ,,,,,,,,,,4,11.13,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,72-96,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=394
 ,,,,,,,,,,4,10.58,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,72-96,16,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=395
 ,,,,,,,,,,4,10.56,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,72-96,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=396
@@ -370,7 +370,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.08,Boston Celtics,shot,,,,,,,,,,Crawford,,,,missed,,3PT Pullup Jump Shot,,,76-107,27,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=450
 ,,,,,,,,,,4,5.07,Toronto Raptors,rebound,,,,,,,,,,Anderson,,,,,,,,,76-107,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=451
 ,,,,,,,,,,4,4.50,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,76-107,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=452
-,,,,,,,,,,4,4.50,Toronto Raptors,turnover,,,,,,,,,,Acy,,,Lost Ball,,,,,,76-107,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=456
+,,,,,,,,,,4,4.50,Toronto Raptors,turnover,,,,,,,,,,Acy,,,Lost Ball,,Lee,,,,76-107,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=456
 ,,,,,,,,,,4,4.50,Toronto Raptors,jumpball,,Lee,,,Acy,,,,,,,,,,,,,,76-107,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=455
 ,,,,,,,,,,4,4.31,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,76-107,19,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=458
 ,,,,,,,,,,4,4.31,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,76-107,,http://stats.nba.com/cvp.html?GameID=0021201216&GameEventID=459

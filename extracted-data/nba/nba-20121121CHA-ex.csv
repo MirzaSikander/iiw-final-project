@@ -21,7 +21,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.42,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,2,,,made,,Layup,,,8-4,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=22
 ,,,,,,,,,,1,8.42,Toronto Raptors,foul,,,,,,,,,,Valanciunas,,,,,,Shooting,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=23
 ,,,,,,,,,,1,8.42,Charlotte Bobcats,free throw,,,,,,,1,,1,Kidd-Gilchrist,1,,foul,made,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=24
-,,,,,,,,,,1,8.30,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,8-5,4,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=26
+,,,,,,,,,,1,8.30,Toronto Raptors,shot,,,Haywood,,,,,,,DeRozan,,,,missed,,Layup,,,8-5,4,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=26
 ,,,,,,,,,,1,8.29,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=27
 ,,,,,,,,,,1,8.13,Charlotte Bobcats,shot,,,,,,,,,,Mullens,,,,missed,,3PT Jump Shot,,,8-5,26,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=28
 ,,,,,,,,,,1,8.11,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=29
@@ -34,7 +34,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.41,Charlotte Bobcats,shot,,,,,,,,,,Taylor,2,,,made,,Tip Shot,,,10-7,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=37
 ,,,,,,,,,,1,7.24,Toronto Raptors,shot,Lowry,,,,,,,,,Bargnani,2,,,made,,Jump Shot,,,12-7,8,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=39
 ,,,,,,,,,,1,7.05,Toronto Raptors,violation,,,,,,,,,,Lowry,,,Kicked Ball,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=40
-,,,,,,,,,,1,7.01,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=41
+,,,,,,,,,,1,7.01,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,Lowry,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=41
 ,,,,,,,,,,1,6.50,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Shot,,,12-7,14,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=43
 ,,,,,,,,,,1,6.49,Charlotte Bobcats,rebound,,,,,,,,,,Haywood,,,,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=44
 ,,,,,,,,,,1,6.44,Toronto Raptors,foul,,,,,,,,,,McGuire,,,,,,Shooting,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=45
@@ -86,7 +86,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.46,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=98
 ,,,,,,,,,,1,2.46,Toronto Raptors,foul,,,,,,,,,,Bargnani,,,,,,Loose ball,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=99
 ,,,,,,,,,,1,2.38,Charlotte Bobcats,jumpball,,Johnson,,,Haywood,,,,,,,,,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=101
-,,,,,,,,,,1,2.22,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=102
+,,,,,,,,,,1,2.22,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,Ross,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=102
 ,,,,,,,,,,1,2.17,Toronto Raptors,shot,,,,,,,,,,Ross,2,,,made,,Slam Dunk,,,22-16,2,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=103
 ,,,,,,,,,,1,2.01,Charlotte Bobcats,shot,,,,,,,,,,Haywood,,,,missed,,Layup,,,22-16,2,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=104
 ,,,,,,,,,,1,2.00,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,22-16,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=105
@@ -108,13 +108,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.11,Toronto Raptors,substitute,,,,Bargnani,,Johnson,,,,,,,,,,,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=124
 ,,,,,,,,,,1,0.11,Charlotte Bobcats,substitute,,,,Warrick,,Haywood,,,,,,,,,,,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=126
 ,,,,,,,,,,1,0.11,Charlotte Bobcats,free throw,,,,,,,2,,2,Gordon,1,,foul,made,,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=127
-,,,,,,,,,,1,0.00,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=129
+,,,,,,,,,,1,0.00,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Sessions,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=129
 ,,,,,,,,,,1,0.00,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,3PT Jump Shot,,,25-22,58,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=130
 ,,,,,,,,,,1,0.00,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=132
 ,,,,,,,,,,2,11.46,Charlotte Bobcats,violation,,,,,,,,,,Gordon,,,Kicked Ball,,,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=135
 ,,,,,,,,,,2,11.37,Toronto Raptors,shot,,,,,,,,,,Calderon,,,,missed,,Jump Shot,,,25-22,20,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=136
 ,,,,,,,,,,2,11.36,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=137
-,,,,,,,,,,2,11.30,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Lost Ball,,,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=138
+,,,,,,,,,,2,11.30,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Lost Ball,,Davis,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=138
 ,,,,,,,,,,2,11.25,Toronto Raptors,shot,Calderon,,,,,,,,,DeRozan,2,,,made,,Dunk,,,27-22,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=139
 ,,,,,,,,,,2,11.13,Toronto Raptors,foul,,,,,,,,,,Ross,,,,,,Personal,,,27-22,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=140
 ,,,,,,,,,,2,11.01,Charlotte Bobcats,shot,Biyombo,,,,,,,,,Gordon,2,,,made,,Layup,,,27-24,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=141
@@ -122,7 +122,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.45,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,27-24,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=144
 ,,,,,,,,,,2,10.45,Toronto Raptors,shot,,,,,,,,,,Ross,2,,,made,,Putback Dunk,,,29-24,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=143
 ,,,,,,,,,,2,10.32,Charlotte Bobcats,shot,,,,,,,,,,Sessions,2,,,made,,Layup,,,29-26,2,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=145
-,,,,,,,,,,2,10.24,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,,,,,29-26,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=146
+,,,,,,,,,,2,10.24,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,Biyombo,,,,29-26,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=146
 ,,,,,,,,,,2,10.18,Charlotte Bobcats,shot,,,,,,,,,,Taylor,2,,,made,,Layup,,,29-28,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=147
 ,,,,,,,,,,2,10.11,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=148
 ,,,,,,,,,,2,10.11,Toronto Raptors,substitute,,,,Valanciunas,,Johnson,,,,,,,,,,,,,29-28,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=150
@@ -145,7 +145,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.17,Charlotte Bobcats,free throw,,,,,,,1,,2,Gordon,1,,foul,made,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=170
 ,,,,,,,,,,2,8.17,Charlotte Bobcats,free throw,,,,,,,2,,2,Gordon,1,,foul,made,,,,,33-32,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=172
 ,,,,,,,,,,2,8.08,Charlotte Bobcats,foul,,,,,,,,,,Gordon,,,,,,Personal,,,33-32,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=174
-,,,,,,,,,,2,8.00,Toronto Raptors,turnover,,,,,,,,,,Kleiza,,,Bad Pass,,,,,,33-32,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=176
+,,,,,,,,,,2,8.00,Toronto Raptors,turnover,,,,,,,,,,Kleiza,,,Bad Pass,,Taylor,,,,33-32,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=176
 ,,,,,,,,,,2,7.53,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,33-32,20,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=177
 ,,,,,,,,,,2,7.52,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,33-32,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=178
 ,,,,,,,,,,2,7.52,Charlotte Bobcats,foul,,,,,,,,,,Warrick,,,,,,Loose ball,,,33-32,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=179
@@ -181,7 +181,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.31,Charlotte Bobcats,violation,,,,,,,,,,Haywood,,,Defensive Goaltending,,,,,,38-39,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=217
 ,,,,,,,,,,2,4.31,Toronto Raptors,shot,Lowry,,,,,,,,,Bargnani,2,,,made,,Layup,,,40-39,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=216
 ,,,,,,,,,,2,4.11,Charlotte Bobcats,shot,Walker,,,,,,,,,Mullens,2,,,made,,Turnaround Hook Shot,,,40-41,7,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=219
-,,,,,,,,,,2,3.59,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Layup,,,40-41,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=220
+,,,,,,,,,,2,3.59,Toronto Raptors,shot,,,Walker,,,,,,,Lowry,,,,missed,,Layup,,,40-41,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=220
 ,,,,,,,,,,2,3.58,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,40-41,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=221
 ,,,,,,,,,,2,3.54,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Layup,,,40-43,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=222
 ,,,,,,,,,,2,3.38,Charlotte Bobcats,foul,,,,,,,,,,Haywood,,,,,,Shooting,,,40-43,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=223
@@ -204,7 +204,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.10,Toronto Raptors,substitute,,,,Davis,,Bargnani,,,,,,,,,,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=246
 ,,,,,,,,,,2,3.10,Charlotte Bobcats,free throw,,,,,,,2,,2,Biyombo,,,foul,missed,,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=247
 ,,,,,,,,,,2,3.08,Toronto Raptors,rebound,,,,,,,,,,Davis,,,,,,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=249
-,,,,,,,,,,2,2.46,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=250
+,,,,,,,,,,2,2.46,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,Kidd-Gilchrist,,,,42-46,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=250
 ,,,,,,,,,,2,2.41,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,2,,,made,,Dunk,,,42-48,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=251
 ,,,,,,,,,,2,2.20,Charlotte Bobcats,foul,,,,,,,,,,Walker,,,,,,Personal,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=252
 ,,,,,,,,,,2,2.20,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=253
@@ -217,7 +217,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.10,Charlotte Bobcats,turnover,,,,,,,,,,Biyombo,,,Foul,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=265
 ,,,,,,,,,,2,1.58,Toronto Raptors,shot,,,,,,,,,,Kleiza,,,,missed,,3PT Jump Shot,,,45-48,26,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=266
 ,,,,,,,,,,2,1.57,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=267
-,,,,,,,,,,2,1.39,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,45-48,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=268
+,,,,,,,,,,2,1.39,Charlotte Bobcats,shot,,,Lowry,,,,,,,Sessions,,,,missed,,Layup,,,45-48,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=268
 ,,,,,,,,,,2,1.39,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=269
 ,,,,,,,,,,2,1.31,Toronto Raptors,shot,,,,,,,,,,Lowry,3,,,made,,3PT Jump Shot,,,48-48,26,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=270
 ,,,,,,,,,,2,1.17,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,48-48,7,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=271
@@ -248,20 +248,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.25,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,61-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=304
 ,,,,,,,,,,3,9.18,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,3PT Jump Shot,,,61-55,25,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=305
 ,,,,,,,,,,3,9.16,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,61-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=306
-,,,,,,,,,,3,9.07,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,61-55,5,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=307
+,,,,,,,,,,3,9.07,Charlotte Bobcats,shot,,,Lowry,,,,,,,Walker,,,,missed,,Jump Shot,,,61-55,5,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=307
 ,,,,,,,,,,3,9.04,Toronto Raptors,rebound,,,,,,,,,,Bargnani,,,,,,,,,61-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=308
 ,,,,,,,,,,3,8.57,Toronto Raptors,shot,Lowry,,,,,,,,,Valanciunas,2,,,made,,Jump Shot,,,63-55,18,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=309
 ,,,,,,,,,,3,8.47,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=310
 ,,,,,,,,,,3,8.47,Charlotte Bobcats,substitute,,,,Sessions,,Taylor,,,,,,,,,,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=312
 ,,,,,,,,,,3,8.34,Toronto Raptors,foul,,,,,,,,,,McGuire,,,,,,Personal,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=313
-,,,,,,,,,,3,8.28,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,63-55,10,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=314
+,,,,,,,,,,3,8.28,Charlotte Bobcats,shot,,,McGuire,,,,,,,Sessions,,,,missed,,Jump Shot,,,63-55,10,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=314
 ,,,,,,,,,,3,8.26,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=315
-,,,,,,,,,,3,8.19,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,63-55,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=316
+,,,,,,,,,,3,8.19,Toronto Raptors,shot,,,Walker,,,,,,,DeRozan,,,,missed,,Layup,,,63-55,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=316
 ,,,,,,,,,,3,8.19,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=317
 ,,,,,,,,,,3,8.14,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Personal,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=318
 ,,,,,,,,,,3,8.14,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,63-55,2,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=319
 ,,,,,,,,,,3,8.13,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=320
-,,,,,,,,,,3,7.58,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=321
+,,,,,,,,,,3,7.58,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,Walker,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=321
 ,,,,,,,,,,3,7.52,Charlotte Bobcats,shot,,,,,,,,,,Mullens,,,,missed,,3PT Jump Shot,,,63-55,27,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=322
 ,,,,,,,,,,3,7.49,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=323
 ,,,,,,,,,,3,7.49,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,2,,,made,,Layup,,,63-57,2,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=333
@@ -271,7 +271,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.28,Toronto Raptors,rebound,,,,,,,,,,McGuire,,,,,,,,,63-57,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=326
 ,,,,,,,,,,3,7.23,Toronto Raptors,shot,McGuire,,,,,,,,,Lowry,2,,,made,,Layup,,,65-57,2,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=327
 ,,,,,,,,,,3,7.00,Charlotte Bobcats,shot,Sessions,,,,,,,,,Walker,2,,,made,,Jump Shot,,,65-59,11,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=328
-,,,,,,,,,,3,6.40,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,65-59,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=329
+,,,,,,,,,,3,6.40,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Kidd-Gilchrist,,,,65-59,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=329
 ,,,,,,,,,,3,6.35,Charlotte Bobcats,shot,Kidd-Gilchrist,,,,,,,,,Walker,2,,,made,,Layup,,,65-61,2,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=330
 ,,,,,,,,,,3,6.21,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,65-61,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=331
 ,,,,,,,,,,3,6.04,Toronto Raptors,shot,,,,,,,,,,Bargnani,2,,,made,,Jump Shot,,,67-61,7,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=335
@@ -301,9 +301,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.33,Toronto Raptors,substitute,,,,Ross,,McGuire,,,,,,,,,,,,,69-70,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=365
 ,,,,,,,,,,3,3.33,Charlotte Bobcats,substitute,,,,Gordon,,Taylor,,,,,,,,,,,,,69-70,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=366
 ,,,,,,,,,,3,3.33,Charlotte Bobcats,free throw,,,,,,,2,,2,Sessions,1,,foul,made,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=367
-,,,,,,,,,,3,3.19,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,69-71,4,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=369
+,,,,,,,,,,3,3.19,Toronto Raptors,shot,,,Gordon,,,,,,,DeRozan,,,,missed,,Jump Shot,,,69-71,4,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=369
 ,,,,,,,,,,3,3.17,Charlotte Bobcats,rebound,,,,,,,,,,Mullens,,,,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=370
-,,,,,,,,,,3,3.06,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Layup,,,69-71,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=371
+,,,,,,,,,,3,3.06,Charlotte Bobcats,shot,,,Lowry,,,,,,,Gordon,,,,missed,,Layup,,,69-71,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=371
 ,,,,,,,,,,3,3.05,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=372
 ,,,,,,,,,,3,3.05,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Double Dribble,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=373
 ,,,,,,,,,,3,2.51,Charlotte Bobcats,foul,,,,,,,,,,,,,,,,,,,69-71,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=374
@@ -334,7 +334,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.40,Toronto Raptors,foul,,,,,,,,,,Davis,,,,,,Loose ball,,,74-75,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=403
 ,,,,,,,,,,4,11.40,Toronto Raptors,substitute,,,,Kleiza,,Bargnani,,,,,,,,,,,,,74-75,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=404
 ,,,,,,,,,,4,11.30,Charlotte Bobcats,shot,Sessions,,,,,,,,,Gordon,3,,,made,,3PT Jump Shot,,,74-78,27,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=405
-,,,,,,,,,,4,11.12,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=406
+,,,,,,,,,,4,11.12,Toronto Raptors,shot,,,Gordon,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=406
 ,,,,,,,,,,4,11.09,Charlotte Bobcats,rebound,,,,,,,,,,Taylor,,,,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=407
 ,,,,,,,,,,4,11.01,Toronto Raptors,foul,,,,,,,,,,Davis,,,,,,Shooting,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=408
 ,,,,,,,,,,4,11.01,Charlotte Bobcats,free throw,,,,,,,1,,2,Kidd-Gilchrist,1,,foul,made,,,,,74-79,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=409
@@ -354,18 +354,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.06,Toronto Raptors,shot,,,,,,,,,,McGuire,,,,missed,,Layup,,,76-86,2,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=427
 ,,,,,,,,,,4,9.05,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,76-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=428
 ,,,,,,,,,,4,8.51,Toronto Raptors,foul,,,,,,,,,,Ross,,,,,,Personal,,,76-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=429
-,,,,,,,,,,4,8.37,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Jump Shot,,,76-86,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=430
+,,,,,,,,,,4,8.37,Charlotte Bobcats,shot,,,Valanciunas,,,,,,,Biyombo,,,,missed,,Jump Shot,,,76-86,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=430
 ,,,,,,,,,,4,8.34,Toronto Raptors,rebound,,,,,,,,,,Calderon,,,,,,,,,76-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=431
 ,,,,,,,,,,4,8.29,Toronto Raptors,shot,McGuire,,,,,,,,,Ross,3,,,made,,3PT Jump Shot,,,79-86,27,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=432
-,,,,,,,,,,4,8.10,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,79-86,4,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=433
+,,,,,,,,,,4,8.10,Charlotte Bobcats,shot,,,Calderon,,,,,,,Sessions,,,,missed,,Jump Shot,,,79-86,4,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=433
 ,,,,,,,,,,4,8.10,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=434
 ,,,,,,,,,,4,8.10,Toronto Raptors,substitute,,,,DeRozan,,Kleiza,,,,,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=435
 ,,,,,,,,,,4,8.10,Charlotte Bobcats,substitute,,,,Walker,,Kidd-Gilchrist,,,,,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=436
 ,,,,,,,,,,4,8.10,Charlotte Bobcats,substitute,,,,Mullens,,Biyombo,,,,,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=437
-,,,,,,,,,,4,7.59,Charlotte Bobcats,shot,,,,,,,,,,Taylor,,,,missed,,3PT Jump Shot,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=438
+,,,,,,,,,,4,7.59,Charlotte Bobcats,shot,,,Ross,,,,,,,Taylor,,,,missed,,3PT Jump Shot,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=438
 ,,,,,,,,,,4,7.59,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=439
 ,,,,,,,,,,4,7.57,Charlotte Bobcats,turnover,,,,,,,,,,,,,Shot Clock,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=440
-,,,,,,,,,,4,7.46,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=441
+,,,,,,,,,,4,7.46,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,Taylor,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=441
 ,,,,,,,,,,4,7.44,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,clear path,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=442
 ,,,,,,,,,,4,7.44,Charlotte Bobcats,free throw,,,,,,,,,,Taylor,1,,foul,made,,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=443
 ,,,,,,,,,,4,7.44,Charlotte Bobcats,free throw,,,,,,,,,,Taylor,1,,foul,made,,,,,79-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=445
@@ -380,7 +380,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.02,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,79-88,29,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=455
 ,,,,,,,,,,4,7.01,Toronto Raptors,rebound,,,,,,,,,,McGuire,,,,,,,,,79-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=456
 ,,,,,,,,,,4,6.51,Toronto Raptors,shot,Ross,,,,,,,,,Calderon,3,,,made,,3PT Jump Shot,,,82-88,26,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=457
-,,,,,,,,,,4,6.37,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,82-88,5,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=458
+,,,,,,,,,,4,6.37,Charlotte Bobcats,shot,,,DeRozan,,,,,,,Sessions,,,,missed,,Jump Shot,,,82-88,5,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=458
 ,,,,,,,,,,4,6.37,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=459
 ,,,,,,,,,,4,6.37,Toronto Raptors,substitute,,,,Lowry,,Ross,,,,,,,,,,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=460
 ,,,,,,,,,,4,6.37,Toronto Raptors,substitute,,,,Bargnani,,McGuire,,,,,,,,,,,,,82-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=462
@@ -397,7 +397,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.36,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Jump Shot,,,86-88,16,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=477
 ,,,,,,,,,,4,5.20,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,86-88,2,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=478
 ,,,,,,,,,,4,5.20,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,86-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=479
-,,,,,,,,,,4,5.12,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,86-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=480
+,,,,,,,,,,4,5.12,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,Calderon,,,,86-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=480
 ,,,,,,,,,,4,4.51,Toronto Raptors,shot,Lowry,,,,,,,,,Bargnani,2,,,made,,Jump Shot,,,88-88,18,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=481
 ,,,,,,,,,,4,4.50,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,88-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=482
 ,,,,,,,,,,4,4.50,Charlotte Bobcats,substitute,,,,Gordon,,Taylor,,,,,,,,,,,,,88-88,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=484
@@ -414,16 +414,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.05,Charlotte Bobcats,substitute,,,,Biyombo,,Mullens,,,,,,,,,,,,,93-90,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=494
 ,,,,,,,,,,4,3.05,Charlotte Bobcats,free throw,,,,,,,2,,2,Kidd-Gilchrist,1,,foul,made,,,,,93-91,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=495
 ,,,,,,,,,,4,3.00,Charlotte Bobcats,foul,,,,,,,,,,Sessions,,,,,,Personal,,,93-91,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=497
-,,,,,,,,,,4,2.43,Toronto Raptors,shot,,,,,,,,,,Valanciunas,,,,missed,,Jump Shot,,,93-91,17,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=498
+,,,,,,,,,,4,2.43,Toronto Raptors,shot,,,Biyombo,,,,,,,Valanciunas,,,,missed,,Jump Shot,,,93-91,17,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=498
 ,,,,,,,,,,4,2.41,Charlotte Bobcats,rebound,,,,,,,,,,Gordon,,,,,,,,,93-91,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=499
 ,,,,,,,,,,4,2.41,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Shooting,,,93-91,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=500
 ,,,,,,,,,,4,2.41,Charlotte Bobcats,free throw,,,,,,,1,,2,Sessions,1,,foul,made,,,,,93-92,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=502
 ,,,,,,,,,,4,2.41,Charlotte Bobcats,free throw,,,,,,,2,,2,Sessions,1,,foul,made,,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=505
-,,,,,,,,,,4,2.28,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Layup,,,93-93,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=507
+,,,,,,,,,,4,2.28,Toronto Raptors,shot,,,Walker,,,,,,,Lowry,,,,missed,,Layup,,,93-93,3,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=507
 ,,,,,,,,,,4,2.26,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=508
 ,,,,,,,,,,4,2.11,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,93-93,10,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=509
 ,,,,,,,,,,4,2.10,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=510
-,,,,,,,,,,4,2.08,Charlotte Bobcats,turnover,,,,,,,,,,Biyombo,,,Lost Ball,,,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=511
+,,,,,,,,,,4,2.08,Charlotte Bobcats,turnover,,,,,,,,,,Biyombo,,,Lost Ball,,Lowry,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=511
 ,,,,,,,,,,4,2.01,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Personal,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=512
 ,,,,,,,,,,4,1.52,Toronto Raptors,shot,Calderon,,,,,,,,,DeRozan,2,,,made,,Jump Shot,,,95-93,4,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=515
 ,,,,,,,,,,4,1.52,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,95-93,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=516
@@ -457,12 +457,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.28,Charlotte Bobcats,substitute,,,,Biyombo,,Mullens,,,,,,,,,,,,,97-98,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=551
 ,,,,,,,,,,4,0.18,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,97-98,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=552
 ,,,,,,,,,,4,0.17,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,97-98,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=553
-,,,,,,,,,,4,0.14,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,97-98,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=554
+,,,,,,,,,,4,0.14,Toronto Raptors,shot,,,Biyombo,,,,,,,DeRozan,,,,missed,,Layup,,,97-98,1,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=554
 ,,,,,,,,,,4,0.13,Toronto Raptors,rebound,,,,,,,,,,Bargnani,,,,,,,,,97-98,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=555
 ,,,,,,,,,,4,0.09,Toronto Raptors,shot,,,,,,,,,,Calderon,,,,missed,,3PT Jump Shot,,,97-98,30,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=556
 ,,,,,,,,,,4,0.08,Toronto Raptors,rebound,,,,,,,,,,Calderon,,,,,,,,,97-98,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=557
 ,,,,,,,,,,4,0.06,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,97-98,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=559
-,,,,,,,,,,4,0.03,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Jump Shot,,,97-98,13,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=561
+,,,,,,,,,,4,0.03,Toronto Raptors,shot,,,Taylor,,,,,,,Lowry,,,,missed,,Jump Shot,,,97-98,13,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=561
 ,,,,,,,,,,4,0.03,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,97-98,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=562
 ,,,,,,,,,,4,0.00,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Shot,,,97-98,18,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=563
 ,,,,,,,,,,4,0.00,Charlotte Bobcats,rebound,,,,,,,,,,Taylor,,,,,,,,,97-98,,http://stats.nba.com/cvp.html?GameID=0021200157&GameEventID=564

@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.51,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,2,,,made,,Layup,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=2
 ,,,,,,,,,,1,11.46,Minnesota Timberwolves,substitute,,,,Gelabale,,Kirilenko,,,,,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=4
-,,,,,,,,,,1,11.31,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,2-0,3,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=5
+,,,,,,,,,,1,11.31,Charlotte Bobcats,shot,,,Ridnour,,,,,,,Henderson,,,,missed,,Jump Shot,,,2-0,3,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=5
 ,,,,,,,,,,1,11.29,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=6
 ,,,,,,,,,,1,11.22,Charlotte Bobcats,foul,,,,,,,,,,Warrick,,,,,,Shooting,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=7
 ,,,,,,,,,,1,11.22,Minnesota Timberwolves,free throw,,,,,,,1,,2,Stiemsma,1,,foul,made,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=8
@@ -23,7 +23,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.11,Charlotte Bobcats,shot,Walker,,,,,,,,,Kidd-Gilchrist,2,,,made,,Dunk,,,9-4,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=27
 ,,,,,,,,,,1,8.56,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Williams,2,,,made,,Alley Oop Layup,,,11-4,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=28
 ,,,,,,,,,,1,8.51,Charlotte Bobcats,jumpball,,Gelabale,,,Biyombo,,,,,,,,,,,,,,11-4,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=29
-,,,,,,,,,,1,8.44,Charlotte Bobcats,shot,,,,,,,,,,Warrick,,,,missed,,Layup,,,11-4,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=30
+,,,,,,,,,,1,8.44,Charlotte Bobcats,shot,,,Stiemsma,,,,,,,Warrick,,,,missed,,Layup,,,11-4,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=30
 ,,,,,,,,,,1,8.44,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,11-4,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=31
 ,,,,,,,,,,1,8.19,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Ridnour,3,,,made,,3PT Jump Shot,,,14-4,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=33
 ,,,,,,,,,,1,8.15,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,14-4,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=34
@@ -77,7 +77,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.27,Charlotte Bobcats,free throw,,,,,,,1,,2,Gordon,1,,foul,made,,,,,29-12,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=89
 ,,,,,,,,,,1,3.27,Minnesota Timberwolves,substitute,,,,Johnson,,Williams,,,,,,,,,,,,,29-12,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=91
 ,,,,,,,,,,1,3.27,Charlotte Bobcats,free throw,,,,,,,2,,2,Gordon,1,,foul,made,,,,,29-13,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=92
-,,,,,,,,,,1,3.11,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Jump Shot,,,29-13,6,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=94
+,,,,,,,,,,1,3.11,Minnesota Timberwolves,shot,,,Gordon,,,,,,,Barea,,,,missed,,Jump Shot,,,29-13,6,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=94
 ,,,,,,,,,,1,3.09,Charlotte Bobcats,rebound,,,,,,,,,,Thomas,,,,,,,,,29-13,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=95
 ,,,,,,,,,,1,3.04,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,29-13,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=96
 ,,,,,,,,,,1,3.04,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,29-13,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=98
@@ -96,7 +96,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.35,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,3PT Jump Shot,,,31-16,26,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=112
 ,,,,,,,,,,1,1.34,Charlotte Bobcats,rebound,,,,,,,,,,Thomas,,,,,,,,,31-16,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=113
 ,,,,,,,,,,1,1.27,Charlotte Bobcats,shot,Gordon,,,,,,,,,Sessions,2,,,made,,Layup,,,31-18,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=114
-,,,,,,,,,,1,1.13,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Layup,,,31-18,3,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=115
+,,,,,,,,,,1,1.13,Minnesota Timberwolves,shot,,,Haywood,,,,,,,Barea,,,,missed,,Layup,,,31-18,3,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=115
 ,,,,,,,,,,1,1.11,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,31-18,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=116
 ,,,,,,,,,,1,1.05,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,31-18,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=117
 ,,,,,,,,,,1,1.02,Minnesota Timberwolves,foul,,,,,,,,,,Johnson,,,,,,Shooting,,,31-18,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=118
@@ -124,7 +124,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.10,Minnesota Timberwolves,turnover,,,,,,,,,,Johnson,,,Offensive Goaltending,,,,,,38-24,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=148
 ,,,,,,,,,,2,10.10,Charlotte Bobcats,substitute,,,,Kidd-Gilchrist,,Thomas,,,,,,,,,,,,,38-24,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=149
 ,,,,,,,,,,2,9.54,Charlotte Bobcats,shot,,,,,,,,,,Sessions,2,,,made,,Jump Shot,,,38-26,19,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=150
-,,,,,,,,,,2,9.33,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Lost Ball,,,,,,38-26,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=151
+,,,,,,,,,,2,9.33,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Lost Ball,,Walker,,,,38-26,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=151
 ,,,,,,,,,,2,9.27,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Driving Layup,,,38-26,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=152
 ,,,,,,,,,,2,9.24,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,38-26,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=154
 ,,,,,,,,,,2,9.24,Charlotte Bobcats,shot,,,,,,,,,,Sessions,2,,,made,,Putback Layup,,,38-28,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=153
@@ -158,11 +158,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.21,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,43-32,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=187
 ,,,,,,,,,,2,6.21,Minnesota Timberwolves,free throw,,,,,,,1,,2,Kirilenko,1,,foul,made,,,,,44-32,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=188
 ,,,,,,,,,,2,6.21,Minnesota Timberwolves,free throw,,,,,,,2,,2,Kirilenko,1,,foul,made,,,,,45-32,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=190
-,,,,,,,,,,2,6.07,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,,,,,45-32,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=192
-,,,,,,,,,,2,6.03,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,Layup,,,45-32,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=193
+,,,,,,,,,,2,6.07,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Bad Pass,,Rubio,,,,45-32,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=192
+,,,,,,,,,,2,6.03,Minnesota Timberwolves,shot,,,Henderson,,,,,,,Rubio,,,,missed,,Layup,,,45-32,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=193
 ,,,,,,,,,,2,6.00,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,45-32,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=194
 ,,,,,,,,,,2,5.57,Charlotte Bobcats,shot,Walker,,,,,,,,,Gordon,2,,,made,,Layup,,,45-34,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=195
-,,,,,,,,,,2,5.48,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Layup,,,45-34,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=196
+,,,,,,,,,,2,5.48,Minnesota Timberwolves,shot,,,Biyombo,,,,,,,Barea,,,,missed,,Layup,,,45-34,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=196
 ,,,,,,,,,,2,5.48,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,45-34,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=197
 ,,,,,,,,,,2,5.48,Charlotte Bobcats,foul,,,,,,,,,,Kidd-Gilchrist,,,,,,Personal,,,45-34,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=202
 ,,,,,,,,,,2,5.48,Charlotte Bobcats,substitute,,,,Sessions,,Kidd-Gilchrist,,,,,,,,,,,,,45-34,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=203
@@ -171,7 +171,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.17,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,3PT Jump Shot,,,45-34,25,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=206
 ,,,,,,,,,,2,5.16,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,45-34,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=207
 ,,,,,,,,,,2,4.57,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,,,,,45-34,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=208
-,,,,,,,,,,2,4.42,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,45-34,7,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=209
+,,,,,,,,,,2,4.42,Minnesota Timberwolves,shot,,,Biyombo,,,,,,,Cunningham,,,,missed,,Jump Shot,,,45-34,7,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=209
 ,,,,,,,,,,2,4.40,Minnesota Timberwolves,rebound,,,,,,,,,,Rubio,,,,,,,,,45-34,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=210
 ,,,,,,,,,,2,4.37,Minnesota Timberwolves,substitute,,,,Gelabale,,Ridnour,,,,,,,,,,,,,45-34,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=212
 ,,,,,,,,,,2,4.34,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Cunningham,2,,,made,,Jump Shot,,,47-34,17,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=213
@@ -182,7 +182,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.44,Charlotte Bobcats,shot,Walker,,,,,,,,,Sessions,2,,,made,,Driving Layup,,,50-38,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=218
 ,,,,,,,,,,2,3.24,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Cunningham,2,,,made,,Jump Shot,,,52-38,18,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=219
 ,,,,,,,,,,2,3.06,Charlotte Bobcats,shot,,,,,,,,,,Gordon,2,,,made,,Driving Layup,,,52-40,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=220
-,,,,,,,,,,2,2.39,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Lost Ball,,,,,,52-40,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=221
+,,,,,,,,,,2,2.39,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Lost Ball,,Thomas,,,,52-40,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=221
 ,,,,,,,,,,2,2.33,Charlotte Bobcats,shot,Thomas,,,,,,,,,Walker,2,,,made,,Layup,,,52-42,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=222
 ,,,,,,,,,,2,2.24,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,52-42,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=223
 ,,,,,,,,,,2,2.24,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,52-42,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=225
@@ -193,8 +193,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.56,Charlotte Bobcats,free throw,,,,,,,1,,2,Gordon,1,,foul,made,,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=231
 ,,,,,,,,,,2,1.56,Minnesota Timberwolves,substitute,,,,Ridnour,,Gelabale,,,,,,,,,,,,,52-43,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=233
 ,,,,,,,,,,2,1.56,Charlotte Bobcats,free throw,,,,,,,2,,2,Gordon,1,,foul,made,,,,,52-44,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=234
-,,,,,,,,,,2,1.41,Minnesota Timberwolves,turnover,,,,,,,,,,Stiemsma,,,Bad Pass,,,,,,52-44,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=236
-,,,,,,,,,,2,1.21,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,,,,,52-44,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=238
+,,,,,,,,,,2,1.41,Minnesota Timberwolves,turnover,,,,,,,,,,Stiemsma,,,Bad Pass,,Gordon,,,,52-44,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=236
+,,,,,,,,,,2,1.21,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,Rubio,,,,52-44,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=238
 ,,,,,,,,,,2,1.16,Charlotte Bobcats,foul,,,,,,,,,,Thomas,,,,,,Shooting,,,52-44,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=239
 ,,,,,,,,,,2,1.16,Minnesota Timberwolves,free throw,,,,,,,1,,2,Kirilenko,1,,foul,made,,,,,53-44,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=240
 ,,,,,,,,,,2,1.16,Minnesota Timberwolves,free throw,,,,,,,2,,2,Kirilenko,1,,foul,made,,,,,54-44,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=242
@@ -208,7 +208,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.05,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,58-47,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=253
 ,,,,,,,,,,2,0.04,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,58-47,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=254
 ,,,,,,,,,,2,0.04,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,58-47,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=255
-,,,,,,,,,,2,0.02,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,,,,,58-47,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=259
+,,,,,,,,,,2,0.02,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,Kirilenko,,,,58-47,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=259
 ,,,,,,,,,,2,0.00,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,3PT Jump Shot,,,58-47,25,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=260
 ,,,,,,,,,,2,0.00,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,58-47,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=262
 ,,,,,,,,,,3,11.35,Charlotte Bobcats,shot,Biyombo,,,,,,,,,Walker,3,,,made,,3PT Jump Shot,,,58-50,25,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=265
@@ -221,7 +221,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.14,Minnesota Timberwolves,foul,,,,,,,,,,Rubio,,,,,,Personal,,,58-50,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=273
 ,,,,,,,,,,3,11.01,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Layup,,,58-50,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=274
 ,,,,,,,,,,3,11.00,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,58-50,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=275
-,,,,,,,,,,3,10.35,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,Jump Shot,,,58-50,19,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=276
+,,,,,,,,,,3,10.35,Minnesota Timberwolves,shot,,,Walker,,,,,,,Rubio,,,,missed,,Jump Shot,,,58-50,19,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=276
 ,,,,,,,,,,3,10.33,Charlotte Bobcats,rebound,,,,,,,,,,Thomas,,,,,,,,,58-50,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=277
 ,,,,,,,,,,3,10.26,Charlotte Bobcats,turnover,,,,,,,,,,Taylor,,,Traveling,,,,,,58-50,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=278
 ,,,,,,,,,,3,10.10,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,58-50,18,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=279
@@ -236,7 +236,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.17,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,60-50,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=291
 ,,,,,,,,,,3,9.17,Charlotte Bobcats,shot,,,,,,,,,,Henderson,2,,,made,,Layup,,,60-52,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=290
 ,,,,,,,,,,3,8.51,Minnesota Timberwolves,shot,Williams,,,,,,,,,Rubio,2,,,made,,Jump Shot,,,62-52,18,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=292
-,,,,,,,,,,3,8.34,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Driving Layup,,,62-52,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=293
+,,,,,,,,,,3,8.34,Charlotte Bobcats,shot,,,Stiemsma,,,,,,,Walker,,,,missed,,Driving Layup,,,62-52,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=293
 ,,,,,,,,,,3,8.34,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,62-52,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=294
 ,,,,,,,,,,3,8.27,Charlotte Bobcats,turnover,,,,,,,,,,Walker Out of Bounds,,,Lost Ball,,,,,,62-52,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=295
 ,,,,,,,,,,3,8.03,Minnesota Timberwolves,turnover,,,,,,,,,,,,,Shot Clock,,,,,,62-52,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=296
@@ -273,7 +273,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.38,Charlotte Bobcats,foul,,,,,,,,,,Gordon,,,,,,Personal,,,67-60,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=330
 ,,,,,,,,,,3,4.34,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Traveling,,,,,,67-60,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=331
 ,,,,,,,,,,3,4.18,Charlotte Bobcats,shot,,,,,,,,,,Henderson,2,,,made,,Turnaround Jump Shot,,,67-62,9,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=332
-,,,,,,,,,,3,3.59,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,Layup,,,67-62,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=333
+,,,,,,,,,,3,3.59,Minnesota Timberwolves,shot,,,Gordon,,,,,,,Kirilenko,,,,missed,,Layup,,,67-62,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=333
 ,,,,,,,,,,3,3.59,Charlotte Bobcats,rebound,,,,,,,,,,Gordon,,,,,,,,,67-62,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=334
 ,,,,,,,,,,3,3.58,Minnesota Timberwolves,foul,,,,,,,,,,Stiemsma,,,,,,Personal,,,67-62,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=335
 ,,,,,,,,,,3,3.47,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Layup,,,67-62,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=336
@@ -303,7 +303,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.27,Minnesota Timberwolves,foul,,,,,,,,,,Barea,,,,,,Personal,,,73-67,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=364
 ,,,,,,,,,,3,1.27,Charlotte Bobcats,free throw,,,,,,,1,,2,Walker,1,,foul,made,,,,,73-68,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=365
 ,,,,,,,,,,3,1.27,Charlotte Bobcats,free throw,,,,,,,2,,2,Walker,1,,foul,made,,,,,73-69,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=367
-,,,,,,,,,,3,1.08,Minnesota Timberwolves,turnover,,,,,,,,,,Stiemsma,,,Bad Pass,,,,,,73-69,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=369
+,,,,,,,,,,3,1.08,Minnesota Timberwolves,turnover,,,,,,,,,,Stiemsma,,,Bad Pass,,Walker,,,,73-69,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=369
 ,,,,,,,,,,3,0.55,Charlotte Bobcats,shot,,,,,,,,,,Gordon,2,,,made,,Driving Layup,,,73-71,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=370
 ,,,,,,,,,,3,0.47,Charlotte Bobcats,foul,,,,,,,,,,Gordon,,,,,,Personal,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=371
 ,,,,,,,,,,3,0.47,Charlotte Bobcats,foul,,,,,,,,,,Gordon,,,,,,Technical,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=372
@@ -311,17 +311,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.47,Minnesota Timberwolves,free throw,,,,,,,1,,2,Stiemsma,1,,foul,made,,,,,75-71,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=375
 ,,,,,,,,,,3,0.47,Minnesota Timberwolves,free throw,,,,,,,2,,2,Stiemsma,,,foul,missed,,,,,75-71,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=377
 ,,,,,,,,,,3,0.44,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,75-71,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=379
-,,,,,,,,,,3,0.34,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,,,,,75-71,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=380
+,,,,,,,,,,3,0.34,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,Kirilenko,,,,75-71,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=380
 ,,,,,,,,,,3,0.29,Minnesota Timberwolves,shot,,,,,,,,,,Barea,2,,,made,,Driving Jump Shot,,,77-71,8,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=381
 ,,,,,,,,,,3,0.11,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Pullup Jump Shot,,,77-73,9,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=382
 ,,,,,,,,,,3,0.00,Minnesota Timberwolves,shot,,,,,,,,,,Gelabale,,,,missed,,3PT Jump Shot,,,77-73,26,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=383
 ,,,,,,,,,,3,0.00,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,77-73,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=385
 ,,,,,,,,,,4,11.48,Minnesota Timberwolves,shot,Barea,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,79-73,20,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=388
 ,,,,,,,,,,4,11.24,Charlotte Bobcats,shot,Sessions,,,,,,,,,Adrien,2,,,made,,Slam Dunk,,,79-75,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=389
-,,,,,,,,,,4,11.07,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Driving Reverse Layup,,,79-75,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=390
+,,,,,,,,,,4,11.07,Minnesota Timberwolves,shot,,,Haywood,,,,,,,Barea,,,,missed,,Driving Reverse Layup,,,79-75,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=390
 ,,,,,,,,,,4,11.06,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,79-75,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=391
 ,,,,,,,,,,4,11.01,Charlotte Bobcats,shot,Gordon,,,,,,,,,Sessions,2,,,made,,Layup,,,79-77,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=392
-,,,,,,,,,,4,10.47,Minnesota Timberwolves,turnover,,,,,,,,,,Cunningham,,,Bad Pass,,,,,,79-77,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=393
+,,,,,,,,,,4,10.47,Minnesota Timberwolves,turnover,,,,,,,,,,Cunningham,,,Bad Pass,,Walker,,,,79-77,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=393
 ,,,,,,,,,,4,10.42,Charlotte Bobcats,shot,Walker,,,,,,,,,Sessions,2,,,made,,Dunk,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=394
 ,,,,,,,,,,4,10.42,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=395
 ,,,,,,,,,,4,10.42,Minnesota Timberwolves,substitute,,,,Johnson,,Stiemsma,,,,,,,,,,,,,79-79,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=397
@@ -332,7 +332,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.28,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=403
 ,,,,,,,,,,4,9.18,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Johnson,2,,,made,,Alley Oop Dunk,,,81-81,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=404
 ,,,,,,,,,,4,8.52,Charlotte Bobcats,shot,,,,,,,,,,Walker,3,,,made,,3PT Jump Shot,,,81-84,26,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=405
-,,,,,,,,,,4,8.25,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Layup,,,81-84,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=406
+,,,,,,,,,,4,8.25,Minnesota Timberwolves,shot,,,Haywood,,,,,,,Barea,,,,missed,,Layup,,,81-84,2,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=406
 ,,,,,,,,,,4,8.23,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=407
 ,,,,,,,,,,4,8.21,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Shooting,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=408
 ,,,,,,,,,,4,8.21,Charlotte Bobcats,free throw,,,,,,,1,,2,Sessions,1,,foul,made,,,,,81-85,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=409
@@ -353,7 +353,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.17,Charlotte Bobcats,free throw,,,,,,,1,,1,Biyombo,1,,foul,made,,,,,83-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=428
 ,,,,,,,,,,4,7.11,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,83-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=430
 ,,,,,,,,,,4,6.58,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,3,,,made,,3PT Pullup Jump Shot,,,86-91,28,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=434
-,,,,,,,,,,4,6.43,Charlotte Bobcats,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=435
+,,,,,,,,,,4,6.43,Charlotte Bobcats,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Rubio,,,,86-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=435
 ,,,,,,,,,,4,6.38,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,88-91,18,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=436
 ,,,,,,,,,,4,6.24,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,88-91,18,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=437
 ,,,,,,,,,,4,6.23,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,88-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=438
@@ -365,7 +365,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.11,Minnesota Timberwolves,free throw,,,,,,,2,,2,Cunningham,,,foul,missed,,,,,88-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=444
 ,,,,,,,,,,4,6.10,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,88-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=446
 ,,,,,,,,,,4,5.52,Minnesota Timberwolves,foul,,,,,,,,,,Barea,,,,,,Personal,,,88-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=447
-,,,,,,,,,,4,5.39,Charlotte Bobcats,turnover,,,,,,,,,,Gordon,,,Lost Ball,,,,,,88-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=448
+,,,,,,,,,,4,5.39,Charlotte Bobcats,turnover,,,,,,,,,,Gordon,,,Lost Ball,,Rubio,,,,88-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=448
 ,,,,,,,,,,4,5.34,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,88-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=449
 ,,,,,,,,,,4,5.34,Minnesota Timberwolves,free throw,,,,,,,1,,2,Kirilenko,1,,foul,made,,,,,89-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=450
 ,,,,,,,,,,4,5.34,Minnesota Timberwolves,free throw,,,,,,,2,,2,Kirilenko,1,,foul,made,,,,,90-91,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=452
@@ -379,7 +379,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.50,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,90-93,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=467
 ,,,,,,,,,,4,4.37,Minnesota Timberwolves,shot,,,,,,,,,,Barea,3,,,made,,3PT Jump Shot,,,93-93,25,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=463
 ,,,,,,,,,,4,4.32,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=464
-,,,,,,,,,,4,4.14,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,93-93,13,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=471
+,,,,,,,,,,4,4.14,Charlotte Bobcats,shot,,,Kirilenko,,,,,,,Henderson,,,,missed,,Jump Shot,,,93-93,13,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=471
 ,,,,,,,,,,4,4.13,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=472
 ,,,,,,,,,,4,4.01,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Personal,,,93-93,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=473
 ,,,,,,,,,,4,3.46,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,93-93,17,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=474
@@ -389,7 +389,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.38,Charlotte Bobcats,free throw,,,,,,,2,,2,Sessions,1,,foul,made,,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=479
 ,,,,,,,,,,4,3.25,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,3PT Jump Shot,,,93-95,25,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=481
 ,,,,,,,,,,4,3.23,Charlotte Bobcats,rebound,,,,,,,,,,Henderson,,,,,,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=482
-,,,,,,,,,,4,3.07,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=483
+,,,,,,,,,,4,3.07,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,Rubio,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=483
 ,,,,,,,,,,4,2.54,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=484
 ,,,,,,,,,,4,2.54,Minnesota Timberwolves,free throw,,,,,,,1,,2,Rubio,,,foul,missed,,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=485
 ,,,,,,,,,,4,2.54,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,93-95,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=486
@@ -406,7 +406,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.23,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,94-97,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=498
 ,,,,,,,,,,4,1.11,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Barea,3,,,made,,3PT Jump Shot,,,97-97,26,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=499
 ,,,,,,,,,,4,1.05,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,97-97,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=500
-,,,,,,,,,,4,1.04,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,,,,,97-97,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=504
+,,,,,,,,,,4,1.04,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,Ridnour,,,,97-97,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=504
 ,,,,,,,,,,4,1.00,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,Layup,,,97-97,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=505
 ,,,,,,,,,,4,0.56,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,97-97,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=507
 ,,,,,,,,,,4,0.56,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,2,,,made,,Putback Dunk,,,99-97,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=506
@@ -421,5 +421,5 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.29,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,2,,,made,,Driving Reverse Layup,,,101-99,1,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=519
 ,,,,,,,,,,4,0.04,Charlotte Bobcats,shot,Walker,,,,,,,,,Henderson,3,,,made,,3PT Jump Shot,,,101-102,25,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=520
 ,,,,,,,,,,4,0.04,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,101-102,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=521
-,,,,,,,,,,4,0.01,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Jump Shot,,,101-102,15,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=524
+,,,,,,,,,,4,0.01,Minnesota Timberwolves,shot,,,Walker,,,,,,,Barea,,,,missed,,Jump Shot,,,101-102,15,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=524
 ,,,,,,,,,,4,0.00,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,101-102,,http://stats.nba.com/cvp.html?GameID=0021200645&GameEventID=525

@@ -17,7 +17,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.09,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,4-2,24,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=19
 ,,,,,,,,,,1,10.08,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=21
 ,,,,,,,,,,1,10.08,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Putback Dunk,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=20
-,,,,,,,,,,1,9.53,Houston Rockets,turnover,,,,,,,,,,Garcia,,,Lost Ball,,,,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=22
+,,,,,,,,,,1,9.53,Houston Rockets,turnover,,,,,,,,,,Garcia,,,Lost Ball,,Claver,,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=22
 ,,,,,,,,,,1,9.44,Portland Trail Blazers,shot,,,,,,,,,,Claver,2,,,made,,Driving Layup,,,4-6,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=23
 ,,,,,,,,,,1,9.24,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,4-6,3,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=24
 ,,,,,,,,,,1,9.24,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=25
@@ -42,8 +42,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.53,Portland Trail Blazers,free throw,,,,,,,1,,1,Hickson,1,,foul,made,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=45
 ,,,,,,,,,,1,6.53,Portland Trail Blazers,substitute,,,,Barton,,Claver,,,,,,,,,,,,,15-17,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=51
 ,,,,,,,,,,1,6.38,Houston Rockets,shot,,,,,,,,,,Harden,3,,,made,,3PT Jump Shot,,,18-17,26,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=47
-,,,,,,,,,,1,6.20,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,18-17,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=48
-,,,,,,,,,,1,6.17,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,18-17,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=49
+,,,,,,,,,,1,6.20,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,Garcia,,,,18-17,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=48
+,,,,,,,,,,1,6.17,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Aldridge,,,,18-17,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=49
 ,,,,,,,,,,1,6.00,Portland Trail Blazers,shot,,,,,,,,,,Barton,2,,,made,,Jump Shot,,,18-19,8,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=50
 ,,,,,,,,,,1,5.42,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Running Jump Shot,,,20-19,8,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=52
 ,,,,,,,,,,1,5.20,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,3PT Jump Shot,,,20-19,26,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=53
@@ -56,7 +56,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.58,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,21-19,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=63
 ,,,,,,,,,,1,4.40,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,21-19,10,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=64
 ,,,,,,,,,,1,4.39,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,21-19,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=65
-,,,,,,,,,,1,4.32,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,21-19,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=66
+,,,,,,,,,,1,4.32,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Matthews,,,,21-19,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=66
 ,,,,,,,,,,1,4.25,Portland Trail Blazers,shot,Matthews,,,,,,,,,Lillard,2,,,made,,Dunk,,,21-21,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=67
 ,,,,,,,,,,1,4.11,Houston Rockets,shot,Lin,,,,,,,,,Asik,2,,,made,,Dunk,,,23-21,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=68
 ,,,,,,,,,,1,3.55,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Shooting,,,23-21,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=69
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.53,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=77
 ,,,,,,,,,,1,3.36,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Jump Shot,,,23-22,21,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=78
 ,,,,,,,,,,1,3.34,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=79
-,,,,,,,,,,1,3.23,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Lost Ball,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=80
+,,,,,,,,,,1,3.23,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Lost Ball,,Lin,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=80
 ,,,,,,,,,,1,3.18,Portland Trail Blazers,foul,,,,,,,,,,Leonard,,,,,,Shooting,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=81
 ,,,,,,,,,,1,3.18,Houston Rockets,free throw,,,,,,,1,,2,Lin,1,,foul,made,,,,,24-22,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=82
 ,,,,,,,,,,1,3.18,Houston Rockets,free throw,,,,,,,2,,2,Lin,,,foul,missed,,,,,24-22,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=84
@@ -101,15 +101,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.26,Portland Trail Blazers,substitute,,,,Claver,,Leonard,,,,,,,,,,,,,34-31,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=118
 ,,,,,,,,,,1,0.26,Houston Rockets,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=119
 ,,,,,,,,,,1,0.08,Houston Rockets,foul,,,,,,,,,,Smith,,,,,,Personal,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=121
-,,,,,,,,,,1,0.00,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,35-31,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=122
+,,,,,,,,,,1,0.00,Portland Trail Blazers,shot,,,Smith,,,,,,,Lillard,,,,missed,,Layup,,,35-31,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=122
 ,,,,,,,,,,1,0.00,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=123
 ,,,,,,,,,,2,11.42,Houston Rockets,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,35-31,12,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=128
 ,,,,,,,,,,2,11.41,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=129
-,,,,,,,,,,2,11.36,Houston Rockets,shot,,,,,,,,,,Jones,,,,missed,,Layup,,,35-31,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=130
+,,,,,,,,,,2,11.36,Houston Rockets,shot,,,Claver,,,,,,,Jones,,,,missed,,Layup,,,35-31,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=130
 ,,,,,,,,,,2,11.35,Portland Trail Blazers,rebound,,,,,,,,,,Claver,,,,,,,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=131
 ,,,,,,,,,,2,11.12,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,35-31,26,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=132
 ,,,,,,,,,,2,11.11,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=133
-,,,,,,,,,,2,11.07,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,35-31,2,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=134
+,,,,,,,,,,2,11.07,Portland Trail Blazers,shot,,,Beverley,,,,,,,Lillard,,,,missed,,Layup,,,35-31,2,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=134
 ,,,,,,,,,,2,11.05,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=135
 ,,,,,,,,,,2,10.59,Portland Trail Blazers,shot,,,,,,,,,,Pavlovic,,,,missed,,3PT Jump Shot,,,35-31,24,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=136
 ,,,,,,,,,,2,10.58,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,35-31,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=137
@@ -137,7 +137,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.10,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Jump Shot,,,48-36,5,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=161
 ,,,,,,,,,,2,8.10,Portland Trail Blazers,foul,,,,,,,,,,Maynor,,,,,,Shooting,,,48-36,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=162
 ,,,,,,,,,,2,8.10,Houston Rockets,free throw,,,,,,,1,,1,Lin,1,,foul,made,,,,,49-36,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=163
-,,,,,,,,,,2,7.55,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,49-36,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=165
+,,,,,,,,,,2,7.55,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Lin,,,,49-36,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=165
 ,,,,,,,,,,2,7.45,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,3PT Jump Shot,,,49-36,25,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=166
 ,,,,,,,,,,2,7.44,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,49-36,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=167
 ,,,,,,,,,,2,7.32,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Personal,,,49-36,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=168
@@ -151,7 +151,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.05,Houston Rockets,substitute,,,,Garcia,,Anderson,,,,,,,,,,,,,50-38,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=179
 ,,,,,,,,,,2,7.05,Houston Rockets,free throw,,,,,,,2,,2,Motiejunas,,,foul,missed,,,,,50-38,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=180
 ,,,,,,,,,,2,7.03,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,50-38,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=182
-,,,,,,,,,,2,6.53,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,50-38,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=183
+,,,,,,,,,,2,6.53,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Garcia,,,,50-38,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=183
 ,,,,,,,,,,2,6.40,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,50-38,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=184
 ,,,,,,,,,,2,6.29,Portland Trail Blazers,shot,,,,,,,,,,Claver,,,,missed,,Jump Shot,,,50-38,7,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=185
 ,,,,,,,,,,2,6.29,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,50-38,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=186
@@ -202,7 +202,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.25,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,59-48,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=244
 ,,,,,,,,,,2,2.21,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,2,,,made,,Layup,,,59-50,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=245
 ,,,,,,,,,,2,2.15,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=246
-,,,,,,,,,,2,2.01,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=248
+,,,,,,,,,,2,2.01,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Lillard,,,,59-50,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=248
 ,,,,,,,,,,2,1.56,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Driving Layup,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=249
 ,,,,,,,,,,2,1.42,Houston Rockets,shot,,,,,,,,,,Garcia,,,,missed,,3PT Jump Shot,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=250
 ,,,,,,,,,,2,1.42,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=251
@@ -231,7 +231,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.05,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,66-57,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=282
 ,,,,,,,,,,3,10.59,Houston Rockets,violation,,,,,,,,,,Lin,,,Kicked Ball,,,,,,66-57,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=283
 ,,,,,,,,,,3,10.58,Portland Trail Blazers,shot,Claver,,,,,,,,,Matthews,2,,,made,,Alley Oop Dunk,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=284
-,,,,,,,,,,3,10.46,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=285
+,,,,,,,,,,3,10.46,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Lillard,,,,66-59,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=285
 ,,,,,,,,,,3,10.42,Portland Trail Blazers,shot,Lillard,,,,,,,,,Hickson,2,,,made,,Alley Oop Dunk,,,66-61,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=286
 ,,,,,,,,,,3,10.23,Houston Rockets,shot,,,,,,,,,,Garcia,,,,missed,,Driving Finger Roll Layup,,,66-61,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=287
 ,,,,,,,,,,3,10.21,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,66-61,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=288
@@ -278,7 +278,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.35,Houston Rockets,substitute,,,,Motiejunas,,Smith,,,,,,,,,,,,,82-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=337
 ,,,,,,,,,,3,5.08,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,82-72,25,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=339
 ,,,,,,,,,,3,5.08,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,82-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=340
-,,,,,,,,,,3,5.05,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,,,,,82-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=341
+,,,,,,,,,,3,5.05,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,Hickson,,,,82-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=341
 ,,,,,,,,,,3,5.03,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,82-72,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=342
 ,,,,,,,,,,3,5.02,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,82-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=343
 ,,,,,,,,,,3,4.56,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,82-72,25,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=344
@@ -286,7 +286,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.38,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Driving Layup,,,82-72,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=346
 ,,,,,,,,,,3,4.36,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,82-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=347
 ,,,,,,,,,,3,4.17,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Driving Layup,,,84-72,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=348
-,,,,,,,,,,3,3.47,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Lost Ball,,,,,,84-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=349
+,,,,,,,,,,3,3.47,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Lost Ball,,Garcia,,,,84-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=349
 ,,,,,,,,,,3,3.44,Portland Trail Blazers,foul,,,,,,,,,,Lillard,,,,,,Shooting,,,84-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=350
 ,,,,,,,,,,3,3.44,Houston Rockets,free throw,,,,,,,1,,2,Lin,1,,foul,made,,,,,85-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=351
 ,,,,,,,,,,3,3.44,Portland Trail Blazers,substitute,,,,Barton,,Claver,,,,,,,,,,,,,85-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=352
@@ -304,11 +304,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.53,Houston Rockets,substitute,,,,Beverley,,Lin,,,,,,,,,,,,,86-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=366
 ,,,,,,,,,,3,2.53,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,87-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=367
 ,,,,,,,,,,3,2.53,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,88-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=369
-,,,,,,,,,,3,2.37,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Layup,,,88-72,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=371
+,,,,,,,,,,3,2.37,Portland Trail Blazers,shot,,,Harden,,,,,,,Matthews,,,,missed,,Layup,,,88-72,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=371
 ,,,,,,,,,,3,2.34,Houston Rockets,rebound,,,,,,,,,,Anderson,,,,,,,,,88-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=372
 ,,,,,,,,,,3,2.28,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,88-72,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=373
 ,,,,,,,,,,3,2.27,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,88-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=374
-,,,,,,,,,,3,2.25,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,88-72,2,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=375
+,,,,,,,,,,3,2.25,Houston Rockets,shot,,,Barton,,,,,,,Asik,,,,missed,,Layup,,,88-72,2,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=375
 ,,,,,,,,,,3,2.23,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,88-72,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=376
 ,,,,,,,,,,3,2.07,Portland Trail Blazers,shot,Lillard,,,,,,,,,Leonard,2,,,made,,Reverse Layup,,,88-74,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=377
 ,,,,,,,,,,3,1.46,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,3PT Jump Shot,,,88-74,24,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=378
@@ -319,7 +319,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.15,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,88-74,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=384
 ,,,,,,,,,,3,1.15,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,Tip Shot,,,88-74,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=383
 ,,,,,,,,,,3,1.13,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,88-74,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=385
-,,,,,,,,,,3,1.06,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Driving Layup,,,88-74,3,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=386
+,,,,,,,,,,3,1.06,Portland Trail Blazers,shot,,,Asik,,,,,,,Lillard,,,,missed,,Driving Layup,,,88-74,3,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=386
 ,,,,,,,,,,3,1.06,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,88-74,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=387
 ,,,,,,,,,,3,1.06,Houston Rockets,foul,,,,,,,,,,Asik,,,,,,Technical,,,88-74,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=388
 ,,,,,,,,,,3,1.06,Portland Trail Blazers,free throw,,,,,,,,,,Lillard,1,,Technical,made,,,,,88-75,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=389
@@ -332,7 +332,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.15,Portland Trail Blazers,shot,,,,,,,,,,Leonard,,,,missed,,Jump Shot,,,88-77,5,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=397
 ,,,,,,,,,,3,0.14,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,88-77,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=398
 ,,,,,,,,,,3,0.12,Houston Rockets,shot,Harden,,,,,,,,,Motiejunas,2,,,made,,Dunk,,,90-77,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=399
-,,,,,,,,,,3,0.09,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,90-77,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=400
+,,,,,,,,,,3,0.09,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Beverley,,,,90-77,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=400
 ,,,,,,,,,,3,0.06,Houston Rockets,shot,Beverley,,,,,,,,,Harden,2,,,made,,Layup,,,92-77,2,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=401
 ,,,,,,,,,,3,0.00,Portland Trail Blazers,shot,,,,,,,,,,Leonard,,,,missed,,Jump Shot,,,92-77,6,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=402
 ,,,,,,,,,,3,0.00,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,92-77,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=403
@@ -351,7 +351,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.23,Houston Rockets,shot,Lin,,,,,,,,,Smith,2,,,made,,Alley Oop Dunk,,,98-81,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=421
 ,,,,,,,,,,4,9.59,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,98-81,25,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=422
 ,,,,,,,,,,4,9.57,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,98-81,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=423
-,,,,,,,,,,4,9.47,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,98-81,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=424
+,,,,,,,,,,4,9.47,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Matthews,,,,98-81,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=424
 ,,,,,,,,,,4,9.44,Portland Trail Blazers,shot,Leonard,,,,,,,,,Barton,2,,,made,,Dunk,,,98-83,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=425
 ,,,,,,,,,,4,9.25,Houston Rockets,shot,Lin,,,,,,,,,Smith,2,,,made,,Hook Shot,,,100-83,3,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=426
 ,,,,,,,,,,4,9.06,Portland Trail Blazers,shot,,,,,,,,,,Barton,2,,,made,,Driving Layup,,,100-85,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=427
@@ -393,7 +393,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.35,Houston Rockets,shot,Asik,,,,,,,,,Harden,2,,,made,,Layup,,,107-90,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=470
 ,,,,,,,,,,4,5.35,Portland Trail Blazers,foul,,,,,,,,,,Aldridge,,,,,,Shooting,,,107-90,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=472
 ,,,,,,,,,,4,5.35,Houston Rockets,free throw,,,,,,,1,,1,Harden,1,,foul,made,,,,,108-90,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=473
-,,,,,,,,,,4,5.17,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,108-90,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=475
+,,,,,,,,,,4,5.17,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Harden,,,,108-90,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=475
 ,,,,,,,,,,4,5.13,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Running Jump Shot,,,110-90,2,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=476
 ,,,,,,,,,,4,5.00,Houston Rockets,foul,,,,,,,,,,Asik,,,,,,Personal,,,110-90,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=479
 ,,,,,,,,,,4,5.00,Portland Trail Blazers,free throw,,,,,,,1,,2,Aldridge,1,,foul,made,,,,,110-91,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=480
@@ -408,7 +408,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.25,Portland Trail Blazers,shot,,,,,,,,,,Leonard,,,,missed,,Hook Shot,,,111-92,6,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=492
 ,,,,,,,,,,4,4.24,Portland Trail Blazers,rebound,,,,,,,,,,Freeland,,,,,,,,,111-92,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=493
 ,,,,,,,,,,4,4.20,Portland Trail Blazers,shot,Freeland,,,,,,,,,Matthews,2,,,made,,Layup,,,111-94,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=494
-,,,,,,,,,,4,4.15,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,111-94,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=495
+,,,,,,,,,,4,4.15,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Maynor,,,,111-94,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=495
 ,,,,,,,,,,4,4.10,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,111-94,24,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=496
 ,,,,,,,,,,4,4.10,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,111-94,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=497
 ,,,,,,,,,,4,4.00,Houston Rockets,shot,Beverley,,,,,,,,,Motiejunas,3,,,made,,3PT Jump Shot,,,114-94,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=498
@@ -433,7 +433,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.24,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,Running Jump Shot,,,114-94,9,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=518
 ,,,,,,,,,,4,2.23,Houston Rockets,rebound,,,,,,,,,,Brooks,,,,,,,,,114-94,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=519
 ,,,,,,,,,,4,2.00,Houston Rockets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,114-94,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=520
-,,,,,,,,,,4,1.53,Portland Trail Blazers,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,114-94,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=521
+,,,,,,,,,,4,1.53,Portland Trail Blazers,turnover,,,,,,,,,,Smith,,,Bad Pass,,Robinson,,,,114-94,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=521
 ,,,,,,,,,,4,1.51,Houston Rockets,shot,,,,,,,,,,Robinson,2,,,made,,Driving Dunk,,,116-94,1,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=522
 ,,,,,,,,,,4,1.36,Portland Trail Blazers,shot,,,,,,,,,,Smith,,,,missed,,Pullup Jump Shot,,,116-94,15,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=523
 ,,,,,,,,,,4,1.36,Houston Rockets,rebound,,,,,,,,,,Jones,,,,,,,,,116-94,,http://stats.nba.com/cvp.html?GameID=0021201136&GameEventID=524

@@ -2,8 +2,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,12.00,Boston Celtics,jumpball,,Lopez,,,Garnett,,,,,,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=2
 ,,,,,,,,,,1,11.42,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Jump Shot,,,0-2,20,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=4
 ,,,,,,,,,,1,11.31,Brooklyn Nets,shot,Lopez,,,,,,,,,Humphries,2,,,made,,Slam Dunk,,,2-2,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=5
-,,,,,,,,,,1,11.16,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=7
-,,,,,,,,,,1,11.10,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=8
+,,,,,,,,,,1,11.16,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Lopez,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=7
+,,,,,,,,,,1,11.10,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Bad Pass,,Rondo,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=8
 ,,,,,,,,,,1,11.05,Boston Celtics,shot,Pierce,,,,,,,,,Rondo,2,,,made,,Layup,,,2-4,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=9
 ,,,,,,,,,,1,10.53,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Layup,,,2-4,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=10
 ,,,,,,,,,,1,10.52,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=11
@@ -28,7 +28,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.11,Brooklyn Nets,free throw,,,,,,,2,,2,Humphries,,,foul,missed,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=33
 ,,,,,,,,,,1,9.10,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=35
 ,,,,,,,,,,1,8.52,Boston Celtics,shot,,,,,,,,,,Garnett,2,,,made,,Turnaround Bank Shot,,,7-8,7,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=37
-,,,,,,,,,,1,8.27,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Layup,,,7-8,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=38
+,,,,,,,,,,1,8.27,Brooklyn Nets,shot,,,Bass,,,,,,,Lopez,,,,missed,,Layup,,,7-8,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=38
 ,,,,,,,,,,1,8.27,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=39
 ,,,,,,,,,,1,8.27,Brooklyn Nets,foul,,,,,,,,,,Lopez,,,,,,Personal,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=40
 ,,,,,,,,,,1,8.27,Brooklyn Nets,substitute,,,,Blatche,,Lopez,,,,,,,,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=41
@@ -56,12 +56,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.48,Brooklyn Nets,rebound,,,,,,,,,,Blatche,,,,,,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=66
 ,,,,,,,,,,1,5.47,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Layup,,,14-14,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=67
 ,,,,,,,,,,1,5.45,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=68
-,,,,,,,,,,1,5.38,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Layup,,,14-14,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=69
+,,,,,,,,,,1,5.38,Boston Celtics,shot,,,Humphries,,,,,,,Rondo,,,,missed,,Layup,,,14-14,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=69
 ,,,,,,,,,,1,5.36,Brooklyn Nets,rebound,,,,,,,,,,Blatche,,,,,,,,,14-14,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=70
 ,,,,,,,,,,1,5.26,Brooklyn Nets,shot,D. Williams,,,,,,,,,Johnson,3,,,made,,3PT Jump Shot,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=71
 ,,,,,,,,,,1,5.10,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,17-14,25,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=72
 ,,,,,,,,,,1,5.09,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=73
-,,,,,,,,,,1,4.52,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Layup,,,17-14,3,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=74
+,,,,,,,,,,1,4.52,Brooklyn Nets,shot,,,Wilcox,,,,,,,Blatche,,,,missed,,Layup,,,17-14,3,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=74
 ,,,,,,,,,,1,4.51,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=75
 ,,,,,,,,,,1,4.45,Boston Celtics,shot,Rondo,,,,,,,,,Wilcox,2,,,made,,Alley Oop Dunk,,,17-16,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=76
 ,,,,,,,,,,1,4.13,Brooklyn Nets,shot,,,,,,,,,,Humphries,,,,missed,,Jump Shot,,,17-16,12,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=77
@@ -82,7 +82,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.06,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,17-16,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=93
 ,,,,,,,,,,1,2.49,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,Jump Shot,,,17-16,9,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=95
 ,,,,,,,,,,1,2.48,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,17-16,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=96
-,,,,,,,,,,1,2.45,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Layup,,,17-16,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=102
+,,,,,,,,,,1,2.45,Boston Celtics,shot,,,Williams,,,,,,,Rondo,,,,missed,,Layup,,,17-16,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=102
 ,,,,,,,,,,1,2.44,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,17-16,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=103
 ,,,,,,,,,,1,2.44,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,17-16,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=104
 ,,,,,,,,,,1,2.44,Brooklyn Nets,substitute,,,,Stackhouse,,Johnson,,,,,,,,,,,,,17-16,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=106
@@ -104,7 +104,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.31,Boston Celtics,foul,,,,,,,,,,Sullinger,,,,,,Loose ball,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=122
 ,,,,,,,,,,1,0.31,Brooklyn Nets,free throw,,,,,,,1,,1,Evans,,,foul,missed,,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=125
 ,,,,,,,,,,1,0.29,Boston Celtics,rebound,,,,,,,,,,Wilcox,,,,,,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=127
-,,,,,,,,,,1,0.25,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Bad Pass,,,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=128
+,,,,,,,,,,1,0.25,Boston Celtics,turnover,,,,,,,,,,Wilcox,,,Bad Pass,,Wallace,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=128
 ,,,,,,,,,,1,0.21,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,Layup,,,27-20,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=129
 ,,,,,,,,,,1,0.20,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=130
 ,,,,,,,,,,1,0.14,Boston Celtics,shot,,,,,,,,,,Barbosa,,,,missed,,Layup,,,27-20,3,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=131
@@ -126,7 +126,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.55,Boston Celtics,substitute,,,,Collins,,Sullinger,,,,,,,,,,,,,31-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=157
 ,,,,,,,,,,2,10.39,Brooklyn Nets,foul,,,,,,,,,,Evans,,,,,,Personal,,,31-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=158
 ,,,,,,,,,,2,10.32,Brooklyn Nets,foul,,,,,,,,,,Stackhouse,,,,,,Personal,,,31-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=159
-,,,,,,,,,,2,10.22,Boston Celtics,turnover,,,,,,,,,,Collins,,,Bad Pass,,,,,,31-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=160
+,,,,,,,,,,2,10.22,Boston Celtics,turnover,,,,,,,,,,Collins,,,Bad Pass,,Blatche,,,,31-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=160
 ,,,,,,,,,,2,10.00,Boston Celtics,foul,,,,,,,,,,Green,,,,,,Shooting,,,31-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=161
 ,,,,,,,,,,2,10.00,Brooklyn Nets,free throw,,,,,,,1,,2,Johnson,1,,foul,made,,,,,32-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=162
 ,,,,,,,,,,2,10.00,Brooklyn Nets,free throw,,,,,,,2,,2,Johnson,1,,foul,made,,,,,33-20,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=164
@@ -136,16 +136,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.24,Boston Celtics,foul,,,,,,,,,,Collins,,,,,,Shooting,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=169
 ,,,,,,,,,,2,9.24,Brooklyn Nets,free throw,,,,,,,1,,2,Blatche,1,,foul,made,,,,,34-22,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=170
 ,,,,,,,,,,2,9.24,Brooklyn Nets,free throw,,,,,,,2,,2,Blatche,1,,foul,made,,,,,35-22,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=172
-,,,,,,,,,,2,9.14,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,,,,,35-22,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=174
-,,,,,,,,,,2,9.11,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Lost Ball,,,,,,35-22,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=175
+,,,,,,,,,,2,9.14,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Bad Pass,,Blatche,,,,35-22,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=174
+,,,,,,,,,,2,9.11,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Lost Ball,,Lee,,,,35-22,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=175
 ,,,,,,,,,,2,9.08,Boston Celtics,shot,,,,,,,,,,Lee,2,,,made,,Slam Dunk,,,35-24,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=176
 ,,,,,,,,,,2,8.53,Boston Celtics,foul,,,,,,,,,,Lee,,,,,,Shooting,,,35-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=177
 ,,,,,,,,,,2,8.53,Brooklyn Nets,substitute,,,,Lopez,,Blatche,,,,,,,,,,,,,35-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=180
 ,,,,,,,,,,2,8.53,Brooklyn Nets,free throw,,,,,,,1,,2,Watson,1,,foul,made,,,,,36-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=181
 ,,,,,,,,,,2,8.53,Brooklyn Nets,free throw,,,,,,,2,,2,Watson,1,,foul,made,,,,,37-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=183
-,,,,,,,,,,2,8.45,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Lost Ball,,,,,,37-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=185
+,,,,,,,,,,2,8.45,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Lost Ball,,Stackhouse,,,,37-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=185
 ,,,,,,,,,,2,8.42,Brooklyn Nets,shot,Johnson,,,,,,,,,Watson,2,,,made,,Layup,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=186
-,,,,,,,,,,2,8.34,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=187
+,,,,,,,,,,2,8.34,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,Stackhouse,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=187
 ,,,,,,,,,,2,8.12,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,39-24,11,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=188
 ,,,,,,,,,,2,8.11,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=189
 ,,,,,,,,,,2,7.50,Boston Celtics,shot,,,,,,,,,,Garnett,2,,,made,,Turnaround Jump Shot,,,39-26,6,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=190
@@ -189,19 +189,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.23,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,44-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=229
 ,,,,,,,,,,2,4.02,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Shot,,,44-26,9,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=230
 ,,,,,,,,,,2,4.01,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,44-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=231
-,,,,,,,,,,2,3.55,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Layup,,,44-26,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=232
+,,,,,,,,,,2,3.55,Boston Celtics,shot,,,Humphries,,,,,,,Rondo,,,,missed,,Layup,,,44-26,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=232
 ,,,,,,,,,,2,3.53,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,44-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=233
 ,,,,,,,,,,2,3.49,Brooklyn Nets,shot,,,,,,,,,,Lopez,2,,,made,,Layup,,,46-26,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=241
 ,,,,,,,,,,2,3.49,Boston Celtics,foul,,,,,,,,,,Collins,,,,,,Shooting,,,46-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=234
 ,,,,,,,,,,2,3.49,Brooklyn Nets,free throw,,,,,,,1,,1,Lopez,1,,foul,made,,,,,47-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=235
 ,,,,,,,,,,2,3.41,Brooklyn Nets,foul,,,,,,,,,,Wallace,,,,,,Personal,,,47-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=239
 ,,,,,,,,,,2,3.41,Brooklyn Nets,substitute,,,,Blatche,,Lopez,,,,,,,,,,,,,47-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=258
-,,,,,,,,,,2,3.24,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,47-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=240
+,,,,,,,,,,2,3.24,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Johnson,,,,47-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=240
 ,,,,,,,,,,2,3.23,Brooklyn Nets,foul,,,,,,,,,,,,,,,,,,,47-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=242
 ,,,,,,,,,,2,3.23,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Foul,,,,,,47-26,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=243
 ,,,,,,,,,,2,3.11,Boston Celtics,shot,Bass,,,,,,,,,Pierce,2,,,made,,Jump Shot,,,47-28,19,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=244
-,,,,,,,,,,2,2.53,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,47-28,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=245
-,,,,,,,,,,2,2.45,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,,,,,47-28,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=246
+,,,,,,,,,,2,2.53,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Pierce,,,,47-28,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=245
+,,,,,,,,,,2,2.45,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,Wallace,,,,47-28,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=246
 ,,,,,,,,,,2,2.31,Brooklyn Nets,foul,,,,,,,,,,Blatche,,,,,,Offensive Charge,,,47-28,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=247
 ,,,,,,,,,,2,2.31,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Foul,,,,,,47-28,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=248
 ,,,,,,,,,,2,2.31,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,47-28,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=249
@@ -211,7 +211,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.18,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Running Jump Shot,,,47-30,6,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=257
 ,,,,,,,,,,2,1.55,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,3PT Jump Shot,,,47-30,26,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=259
 ,,,,,,,,,,2,1.54,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,47-30,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=260
-,,,,,,,,,,2,1.49,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,47-30,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=261
+,,,,,,,,,,2,1.49,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Wallace,,,,47-30,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=261
 ,,,,,,,,,,2,1.42,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Shooting,,,47-30,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=262
 ,,,,,,,,,,2,1.42,Brooklyn Nets,free throw,,,,,,,1,,2,D. Williams,1,,foul,made,,,,,48-30,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=263
 ,,,,,,,,,,2,1.42,Brooklyn Nets,substitute,,,,Humphries,,Blatche,,,,,,,,,,,,,48-30,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=266
@@ -223,7 +223,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.14,Brooklyn Nets,substitute,,,,Watson,,Stackhouse,,,,,,,,,,,,,49-32,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=281
 ,,,,,,,,,,2,1.14,Brooklyn Nets,free throw,,,,,,,2,,2,Evans,,,foul,missed,,,,,49-32,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=282
 ,,,,,,,,,,2,1.14,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,49-32,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=285
-,,,,,,,,,,2,1.10,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Lost Ball,,,,,,49-32,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=286
+,,,,,,,,,,2,1.10,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Lost Ball,,Rondo,,,,49-32,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=286
 ,,,,,,,,,,2,1.04,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Jump Shot,,,49-32,3,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=287
 ,,,,,,,,,,2,1.03,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,49-32,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=288
 ,,,,,,,,,,2,1.03,Boston Celtics,shot,,,,,,,,,,Bass,2,,,made,,Putback Dunk,,,49-34,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=289
@@ -252,13 +252,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.08,Brooklyn Nets,rebound,,,,,,,,,,Watson,,,,,,,,,51-38,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=326
 ,,,,,,,,,,2,0.01,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,51-38,25,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=328
 ,,,,,,,,,,2,0.00,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,51-38,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=329
-,,,,,,,,,,3,11.40,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,,,,,51-38,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=334
+,,,,,,,,,,3,11.40,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,Terry,,,,51-38,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=334
 ,,,,,,,,,,3,11.31,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Fadeaway Jumper,,,51-40,11,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=335
 ,,,,,,,,,,3,11.20,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,51-40,24,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=336
 ,,,,,,,,,,3,11.19,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,51-40,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=337
 ,,,,,,,,,,3,11.12,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,51-40,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=338
 ,,,,,,,,,,3,11.11,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,51-40,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=339
-,,,,,,,,,,3,10.53,Brooklyn Nets,shot,,,,,,,,,,Bogans,,,,missed,,Jump Shot,,,51-40,7,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=340
+,,,,,,,,,,3,10.53,Brooklyn Nets,shot,,,Bass,,,,,,,Bogans,,,,missed,,Jump Shot,,,51-40,7,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=340
 ,,,,,,,,,,3,10.51,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,51-40,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=341
 ,,,,,,,,,,3,10.46,Brooklyn Nets,foul,,,,,,,,,,Bogans,,,,,,Shooting,,,51-40,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=342
 ,,,,,,,,,,3,10.46,Boston Celtics,free throw,,,,,,,1,,2,Pierce,,,foul,missed,,,,,51-40,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=343
@@ -279,7 +279,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.20,Brooklyn Nets,rebound,,,,,,,,,,D. Williams,,,,,,,,,58-44,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=359
 ,,,,,,,,,,3,8.11,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,Jump Shot,,,58-44,16,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=360
 ,,,,,,,,,,3,8.09,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,58-44,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=361
-,,,,,,,,,,3,8.04,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,Jump Shot,,,58-44,5,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=362
+,,,,,,,,,,3,8.04,Brooklyn Nets,shot,,,Lee,,,,,,,D. Williams,,,,missed,,Jump Shot,,,58-44,5,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=362
 ,,,,,,,,,,3,8.03,Brooklyn Nets,rebound,,,,,,,,,,,,,,,,,,,58-44,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=363
 ,,,,,,,,,,3,7.55,Brooklyn Nets,shot,,,,,,,,,,Johnson,2,,,made,,Turnaround Jump Shot,,,60-44,12,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=364
 ,,,,,,,,,,3,7.35,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Turnaround Jump Shot,,,60-44,10,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=365
@@ -298,7 +298,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.05,Boston Celtics,free throw,,,,,,,1,,2,Pierce,1,,foul,made,,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=378
 ,,,,,,,,,,3,6.05,Boston Celtics,free throw,,,,,,,2,,2,Pierce,,,foul,missed,,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=380
 ,,,,,,,,,,3,6.05,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=382
-,,,,,,,,,,3,5.46,Brooklyn Nets,turnover,,,,,,,,,,Evans,,,Lost Ball,,,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=383
+,,,,,,,,,,3,5.46,Brooklyn Nets,turnover,,,,,,,,,,Evans,,,Lost Ball,,Pierce,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=383
 ,,,,,,,,,,3,5.40,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,60-47,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=384
 ,,,,,,,,,,3,5.38,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,60-47,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=385
 ,,,,,,,,,,3,5.35,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,60-47,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=386
@@ -311,7 +311,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.40,Boston Celtics,foul,,,,,,,,,,Bass,,,,,,Personal,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=395
 ,,,,,,,,,,3,4.33,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,3PT Jump Shot,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=396
 ,,,,,,,,,,3,4.32,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=397
-,,,,,,,,,,3,4.26,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=398
+,,,,,,,,,,3,4.26,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Evans,,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=398
 ,,,,,,,,,,3,4.16,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Personal,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=399
 ,,,,,,,,,,3,4.16,Boston Celtics,substitute,,,,Collins,,Bass,,,,,,,,,,,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=400
 ,,,,,,,,,,3,4.16,Brooklyn Nets,substitute,,,,Stackhouse,,Bogans,,,,,,,,,,,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=401
@@ -326,14 +326,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.28,Boston Celtics,free throw,,,,,,,2,,2,Pierce,,,foul,missed,,,,,63-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=410
 ,,,,,,,,,,3,3.27,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,63-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=412
 ,,,,,,,,,,3,3.03,Brooklyn Nets,shot,Johnson,,,,,,,,,Stackhouse,3,,,made,,3PT Jump Shot,,,66-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=413
-,,,,,,,,,,3,2.46,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,66-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=414
+,,,,,,,,,,3,2.46,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,Evans,,,,66-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=414
 ,,,,,,,,,,3,2.40,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Personal,,,66-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=415
 ,,,,,,,,,,3,2.40,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,66-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=416
 ,,,,,,,,,,3,2.40,Boston Celtics,substitute,,,,Green,,Pierce,,,,,,,,,,,,,66-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=419
 ,,,,,,,,,,3,2.40,Brooklyn Nets,free throw,,,,,,,1,,2,Stackhouse,1,,foul,made,,,,,67-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=420
 ,,,,,,,,,,3,2.40,Brooklyn Nets,free throw,,,,,,,2,,2,Stackhouse,1,,foul,made,,,,,68-49,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=422
 ,,,,,,,,,,3,2.22,Boston Celtics,shot,,,,,,,,,,Sullinger,2,,,made,,Jump Hook Shot,,,68-51,10,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=424
-,,,,,,,,,,3,2.03,Brooklyn Nets,turnover,,,,,,,,,,Stackhouse,,,Lost Ball,,,,,,68-51,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=425
+,,,,,,,,,,3,2.03,Brooklyn Nets,turnover,,,,,,,,,,Stackhouse,,,Lost Ball,,Sullinger,,,,68-51,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=425
 ,,,,,,,,,,3,1.55,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,68-51,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=426
 ,,,,,,,,,,3,1.51,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,68-51,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=427
 ,,,,,,,,,,3,1.51,Boston Celtics,substitute,,,,Barbosa,,Terry,,,,,,,,,,,,,68-51,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=428
@@ -345,7 +345,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.11,Boston Celtics,rebound,,,,,,,,,,Barbosa,,,,,,,,,68-51,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=437
 ,,,,,,,,,,3,1.03,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Jump Shot,,,68-51,14,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=439
 ,,,,,,,,,,3,1.02,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,68-51,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=440
-,,,,,,,,,,3,0.46,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Layup,,,68-51,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=442
+,,,,,,,,,,3,0.46,Brooklyn Nets,shot,,,Green,,,,,,,Blatche,,,,missed,,Layup,,,68-51,1,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=442
 ,,,,,,,,,,3,0.43,Boston Celtics,rebound,,,,,,,,,,Collins,,,,,,,,,68-51,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=443
 ,,,,,,,,,,3,0.36,Boston Celtics,shot,,,,,,,,,,Lee,2,,,made,,Running Jump Shot,,,68-53,5,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=444
 ,,,,,,,,,,3,0.32,Boston Celtics,foul,,,,,,,,,,Barbosa,,,,,,Personal,,,68-53,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=445
@@ -365,7 +365,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.26,Boston Celtics,shot,Pierce,,,,,,,,,Barbosa,2,,,made,,Jump Bank Shot,,,70-57,13,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=467
 ,,,,,,,,,,4,11.07,Boston Celtics,foul,,,,,,,,,,Garnett,,,,,,Personal,,,70-57,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=468
 ,,,,,,,,,,4,11.07,Boston Celtics,substitute,,,,Terry,,Lee,,,,,,,,,,,,,70-57,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=469
-,,,,,,,,,,4,10.54,Brooklyn Nets,shot,,,,,,,,,,Watson,,,,missed,,3PT Jump Shot,,,70-57,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=470
+,,,,,,,,,,4,10.54,Brooklyn Nets,shot,,,Barbosa,,,,,,,Watson,,,,missed,,3PT Jump Shot,,,70-57,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=470
 ,,,,,,,,,,4,10.53,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,70-57,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=471
 ,,,,,,,,,,4,10.48,Boston Celtics,shot,,,,,,,,,,Barbosa,,,,missed,,Jump Shot,,,70-57,4,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=472
 ,,,,,,,,,,4,10.47,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,70-57,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=473
@@ -429,7 +429,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.07,Boston Celtics,free throw,,,,,,,2,,2,Bass,1,,foul,made,,,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=547
 ,,,,,,,,,,4,4.53,Brooklyn Nets,shot,,,,,,,,,,D. Williams,,,,missed,,3PT Jump Shot,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=549
 ,,,,,,,,,,4,4.52,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=550
-,,,,,,,,,,4,4.45,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=551
+,,,,,,,,,,4,4.45,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Stackhouse,,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=551
 ,,,,,,,,,,4,4.22,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,82-71,7,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=552
 ,,,,,,,,,,4,4.21,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=553
 ,,,,,,,,,,4,4.21,Brooklyn Nets,shot,,,,,,,,,,Evans,,,,missed,,Tip Shot,,,82-71,2,http://stats.nba.com/cvp.html?GameID=0021200211&GameEventID=554

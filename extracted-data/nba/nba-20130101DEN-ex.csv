@@ -5,7 +5,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.08,Denver Nuggets,shot,Miller,,,,,,,,,Iguodala,3,,,made,,3PT Jump Shot,,,3-3,26,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=5
 ,,,,,,,,,,1,10.43,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Turnaround Fadeaway,,,5-3,17,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=6
 ,,,,,,,,,,1,10.21,Denver Nuggets,shot,,,,,,,,,,Iguodala,2,,,made,,Driving Dunk,,,5-5,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=7
-,,,,,,,,,,1,10.05,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,5-5,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=8
+,,,,,,,,,,1,10.05,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Miller,,,,5-5,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=8
 ,,,,,,,,,,1,10.01,Denver Nuggets,shot,Iguodala,,,,,,,,,Miller,2,,,made,,Layup,,,5-7,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=9
 ,,,,,,,,,,1,9.43,Denver Nuggets,foul,,,,,,,,,,Koufos,,,,,,Shooting,,,5-7,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=10
 ,,,,,,,,,,1,9.43,Los Angeles Clippers,free throw,,,,,,,1,,2,Jordan,1,,foul,made,,,,,6-7,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=11
@@ -17,7 +17,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.54,Los Angeles Clippers,shot,Griffin,,,,,,,,,Butler,2,,,made,,Jump Shot,,,9-7,20,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=19
 ,,,,,,,,,,1,8.42,Denver Nuggets,shot,Miller,,,,,,,,,Koufos,2,,,made,,Layup,,,9-9,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=20
 ,,,,,,,,,,1,8.27,Los Angeles Clippers,shot,,,,,,,,,,Griffin,2,,,made,,Fadeaway Bank Shot,,,11-9,10,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=21
-,,,,,,,,,,1,8.11,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Running Jump Shot,,,11-9,3,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=22
+,,,,,,,,,,1,8.11,Denver Nuggets,shot,,,Jordan,,,,,,,Gallinari,,,,missed,,Running Jump Shot,,,11-9,3,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=22
 ,,,,,,,,,,1,8.10,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,11-9,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=23
 ,,,,,,,,,,1,7.58,Denver Nuggets,shot,Miller,,,,,,,,,Faried,2,,,made,,Layup,,,11-11,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=24
 ,,,,,,,,,,1,7.41,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,11-11,24,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=25
@@ -33,7 +33,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.15,Denver Nuggets,free throw,,,,,,,1,,1,Iguodala,,,foul,missed,,,,,11-15,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=37
 ,,,,,,,,,,1,7.13,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,11-15,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=39
 ,,,,,,,,,,1,7.07,Los Angeles Clippers,shot,Paul,,,,,,,,,Green,2,,,made,,Layup,,,13-15,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=40
-,,,,,,,,,,1,6.44,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=42
+,,,,,,,,,,1,6.44,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,Paul,,,,13-15,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=42
 ,,,,,,,,,,1,6.27,Los Angeles Clippers,shot,Griffin,,,,,,,,,Paul,3,,,made,,3PT Jump Shot,,,16-15,25,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=43
 ,,,,,,,,,,1,6.13,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Bad Pass,,,,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=44
 ,,,,,,,,,,1,6.06,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,3 Second Violation,,,,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=45
@@ -48,8 +48,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.36,Los Angeles Clippers,free throw,,,,,,,2,,2,Jordan,,,foul,missed,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=55
 ,,,,,,,,,,1,5.35,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=57
 ,,,,,,,,,,1,5.15,Denver Nuggets,turnover,,,,,,,,,,McGee,,,Offensive Goaltending,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=58
-,,,,,,,,,,1,4.57,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Lost Ball,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=59
-,,,,,,,,,,1,4.47,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=60
+,,,,,,,,,,1,4.57,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Lost Ball,,Gallinari,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=59
+,,,,,,,,,,1,4.47,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,Griffin,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=60
 ,,,,,,,,,,1,4.41,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,16-17,26,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=61
 ,,,,,,,,,,1,4.39,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=62
 ,,,,,,,,,,1,4.26,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,3PT Jump Shot,,,16-17,26,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=63
@@ -65,7 +65,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.17,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=73
 ,,,,,,,,,,1,3.05,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,3PT Jump Shot,,,16-17,25,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=74
 ,,,,,,,,,,1,3.04,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=75
-,,,,,,,,,,1,2.58,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=76
+,,,,,,,,,,1,2.58,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Jordan,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=76
 ,,,,,,,,,,1,2.48,Denver Nuggets,foul,,,,,,,,,,McGee,,,,,,Shooting,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=77
 ,,,,,,,,,,1,2.48,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=78
 ,,,,,,,,,,1,2.48,Denver Nuggets,substitute,,,,Brewer,,Gallinari,,,,,,,,,,,,,16-17,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=81
@@ -93,19 +93,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.01,Denver Nuggets,shot,,,,,,,,,,Mozgov,,,,missed,,3PT Jump Shot,,,19-21,33,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=105
 ,,,,,,,,,,1,0.00,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=106
 ,,,,,,,,,,2,11.38,Denver Nuggets,shot,McGee,,,,,,,,,Miller,2,,,made,,Layup,,,19-23,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=110
-,,,,,,,,,,2,11.29,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=111
+,,,,,,,,,,2,11.29,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,Brewer,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=111
 ,,,,,,,,,,2,11.17,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,3PT Jump Shot,,,19-23,26,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=112
 ,,,,,,,,,,2,11.15,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=113
 ,,,,,,,,,,2,11.11,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,19-23,25,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=114
 ,,,,,,,,,,2,11.09,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=115
-,,,,,,,,,,2,10.58,Denver Nuggets,shot,,,,,,,,,,Mozgov,,,,missed,,Layup,,,19-23,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=116
+,,,,,,,,,,2,10.58,Denver Nuggets,shot,,,Turiaf,,,,,,,Mozgov,,,,missed,,Layup,,,19-23,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=116
 ,,,,,,,,,,2,10.57,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=117
 ,,,,,,,,,,2,10.57,Los Angeles Clippers,foul,,,,,,,,,,Turiaf,,,,,,Shooting,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=118
 ,,,,,,,,,,2,10.57,Denver Nuggets,free throw,,,,,,,1,,2,Mozgov,1,,foul,made,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=119
 ,,,,,,,,,,2,10.57,Denver Nuggets,free throw,,,,,,,2,,2,Mozgov,1,,foul,made,,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=121
-,,,,,,,,,,2,10.43,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=123
+,,,,,,,,,,2,10.43,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,Brewer,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=123
 ,,,,,,,,,,2,10.38,Denver Nuggets,shot,McGee,,,,,,,,,Brewer,2,,,made,,Layup,,,19-27,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=124
-,,,,,,,,,,2,10.19,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Layup,,,19-27,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=125
+,,,,,,,,,,2,10.19,Los Angeles Clippers,shot,,,McGee,,,,,,,Barnes,,,,missed,,Layup,,,19-27,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=125
 ,,,,,,,,,,2,10.18,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=126
 ,,,,,,,,,,2,10.16,Los Angeles Clippers,foul,,,,,,,,,,Odom,,,,,,Shooting,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=127
 ,,,,,,,,,,2,10.16,Denver Nuggets,free throw,,,,,,,1,,2,Gallinari,1,,foul,made,,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=128
@@ -131,10 +131,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.45,Denver Nuggets,substitute,,,,Iguodala,,Miller,,,,,,,,,,,,,22-31,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=155
 ,,,,,,,,,,2,8.45,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,23-31,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=156
 ,,,,,,,,,,2,8.34,Los Angeles Clippers,foul,,,,,,,,,,Turiaf,,,,,,Personal,,,23-31,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=158
-,,,,,,,,,,2,8.27,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,23-31,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=159
-,,,,,,,,,,2,8.20,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,,,,,23-31,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=160
+,,,,,,,,,,2,8.27,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Odom,,,,23-31,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=159
+,,,,,,,,,,2,8.20,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,Faried,,,,23-31,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=160
 ,,,,,,,,,,2,8.14,Denver Nuggets,shot,Iguodala,,,,,,,,,Brewer,2,,,made,,Alley Oop Layup,,,23-33,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=161
-,,,,,,,,,,2,8.01,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Layup,,,23-33,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=162
+,,,,,,,,,,2,8.01,Los Angeles Clippers,shot,,,Mozgov,,,,,,,Crawford,,,,missed,,Layup,,,23-33,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=162
 ,,,,,,,,,,2,7.59,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,23-33,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=163
 ,,,,,,,,,,2,7.57,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Putback Layup,,,25-33,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=164
 ,,,,,,,,,,2,7.43,Los Angeles Clippers,foul,,,,,,,,,,Odom,,,,,,Shooting,,,25-33,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=165
@@ -170,8 +170,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.30,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,32-44,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=202
 ,,,,,,,,,,2,4.16,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,32-44,24,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=203
 ,,,,,,,,,,2,4.14,Los Angeles Clippers,rebound,,,,,,,,,,Crawford,,,,,,,,,32-44,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=204
-,,,,,,,,,,2,4.11,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,32-44,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=205
-,,,,,,,,,,2,4.07,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,Driving Layup,,,32-44,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=206
+,,,,,,,,,,2,4.11,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Iguodala,,,,32-44,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=205
+,,,,,,,,,,2,4.07,Denver Nuggets,shot,,,Jordan,,,,,,,Brewer,,,,missed,,Driving Layup,,,32-44,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=206
 ,,,,,,,,,,2,4.05,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,32-44,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=207
 ,,,,,,,,,,2,3.59,Los Angeles Clippers,shot,Barnes,,,,,,,,,Jordan,2,,,made,,Alley Oop Dunk,,,34-44,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=208
 ,,,,,,,,,,2,3.24,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Fadeaway Jumper,,,34-44,17,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=209
@@ -182,7 +182,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.22,Denver Nuggets,substitute,,,,Hamilton,,Gallinari,,,,,,,,,,,,,34-44,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=214
 ,,,,,,,,,,2,3.22,Los Angeles Clippers,substitute,,,,Butler,,Barnes,,,,,,,,,,,,,34-44,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=216
 ,,,,,,,,,,2,3.01,Denver Nuggets,shot,Iguodala,,,,,,,,,Faried,2,,,made,,Jump Hook Shot,,,34-46,4,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=215
-,,,,,,,,,,2,2.48,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,,,,,34-46,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=217
+,,,,,,,,,,2,2.48,Los Angeles Clippers,turnover,,,,,,,,,,Crawford,,,Lost Ball,,Hamilton,,,,34-46,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=217
 ,,,,,,,,,,2,2.37,Denver Nuggets,shot,,,,,,,,,,Koufos,,,,missed,,Reverse Layup,,,34-46,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=218
 ,,,,,,,,,,2,2.36,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,34-46,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=219
 ,,,,,,,,,,2,2.31,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Driving Layup,,,36-46,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=220
@@ -192,7 +192,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.31,Los Angeles Clippers,free throw,,,,,,,1,,1,Paul,1,,foul,made,,,,,37-46,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=226
 ,,,,,,,,,,2,2.08,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,3PT Jump Shot,,,37-46,26,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=228
 ,,,,,,,,,,2,2.08,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,37-46,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=229
-,,,,,,,,,,2,1.52,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,37-46,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=230
+,,,,,,,,,,2,1.52,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Jordan,,,,37-46,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=230
 ,,,,,,,,,,2,1.46,Los Angeles Clippers,shot,Paul,,,,,,,,,Jordan,2,,,made,,Alley Oop Dunk,,,39-46,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=231
 ,,,,,,,,,,2,1.26,Los Angeles Clippers,foul,,,,,,,,,,Griffin,,,,,,Personal,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=232
 ,,,,,,,,,,2,1.26,Denver Nuggets,free throw,,,,,,,1,,2,Hamilton,1,,foul,made,,,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=233
@@ -226,7 +226,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.45,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Jump Shot,,,45-48,18,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=269
 ,,,,,,,,,,3,10.44,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=270
 ,,,,,,,,,,3,10.41,Los Angeles Clippers,foul,,,,,,,,,,Paul,,,,,,Personal,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=271
-,,,,,,,,,,3,10.26,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Layup,,,45-48,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=272
+,,,,,,,,,,3,10.26,Denver Nuggets,shot,,,Jordan,,,,,,,Faried,,,,missed,,Layup,,,45-48,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=272
 ,,,,,,,,,,3,10.24,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=273
 ,,,,,,,,,,3,10.23,Denver Nuggets,foul,,,,,,,,,,Iguodala,,,,,,Shooting,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=274
 ,,,,,,,,,,3,10.23,Los Angeles Clippers,free throw,,,,,,,1,,2,Griffin,1,,foul,made,,,,,46-48,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=275
@@ -235,7 +235,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.43,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,47-50,24,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=281
 ,,,,,,,,,,3,9.42,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=283
 ,,,,,,,,,,3,9.42,Los Angeles Clippers,shot,,,,,,,,,,Jordan,2,,,made,,Putback Layup,,,49-50,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=282
-,,,,,,,,,,3,9.33,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Lost Ball,,,,,,49-50,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=284
+,,,,,,,,,,3,9.33,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Lost Ball,,Green,,,,49-50,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=284
 ,,,,,,,,,,3,9.33,Denver Nuggets,foul,,,,,,,,,,Miller,,,,,,Personal,,,49-50,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=285
 ,,,,,,,,,,3,9.18,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Hook Shot,,,49-50,5,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=286
 ,,,,,,,,,,3,9.17,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,49-50,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=287
@@ -256,8 +256,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.00,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=305
 ,,,,,,,,,,3,7.43,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,49-54,25,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=306
 ,,,,,,,,,,3,7.42,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=307
-,,,,,,,,,,3,7.34,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Lost Ball,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=308
-,,,,,,,,,,3,7.29,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=309
+,,,,,,,,,,3,7.34,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Lost Ball,,Jordan,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=308
+,,,,,,,,,,3,7.29,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Faried,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=309
 ,,,,,,,,,,3,7.22,Denver Nuggets,shot,Iguodala,,,,,,,,,Gallinari,3,,,made,,3PT Jump Shot,,,49-57,24,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=310
 ,,,,,,,,,,3,7.22,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,49-57,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=311
 ,,,,,,,,,,3,7.22,Los Angeles Clippers,substitute,,,,Crawford,,Green,,,,,,,,,,,,,49-57,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=314
@@ -268,7 +268,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.55,Los Angeles Clippers,substitute,,,,Odom,,Griffin,,,,,,,,,,,,,51-57,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=319
 ,,,,,,,,,,3,6.55,Denver Nuggets,free throw,,,,,,,2,,2,Iguodala,,,foul,missed,,,,,51-57,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=320
 ,,,,,,,,,,3,6.53,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,51-57,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=322
-,,,,,,,,,,3,6.42,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,,,,,51-57,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=323
+,,,,,,,,,,3,6.42,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,Paul,,,,51-57,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=323
 ,,,,,,,,,,3,6.29,Los Angeles Clippers,shot,,,,,,,,,,Paul,2,,,made,,Running Jump Shot,,,53-57,10,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=324
 ,,,,,,,,,,3,6.20,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Step Out of Bounds,,,,,,53-57,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=325
 ,,,,,,,,,,3,6.07,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,53-57,21,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=326
@@ -296,7 +296,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.14,Denver Nuggets,substitute,,,,Brewer,,Iguodala,,,,,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=351
 ,,,,,,,,,,3,3.14,Los Angeles Clippers,free throw,,,,,,,2,,2,Jordan,,,foul,missed,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=352
 ,,,,,,,,,,3,3.13,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=354
-,,,,,,,,,,3,2.57,Denver Nuggets,turnover,,,,,,,,,,Fournier,,,Lost Ball,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=355
+,,,,,,,,,,3,2.57,Denver Nuggets,turnover,,,,,,,,,,Fournier,,,Lost Ball,,Barnes,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=355
 ,,,,,,,,,,3,2.56,Denver Nuggets,foul,,,,,,,,,,Fournier,,,,,,Personal,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=356
 ,,,,,,,,,,3,2.56,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=357
 ,,,,,,,,,,3,2.56,Los Angeles Clippers,substitute,,,,Turiaf,,Jordan,,,,,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=359
@@ -304,7 +304,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.56,Denver Nuggets,substitute,,,,Koufos,,Faried,,,,,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=361
 ,,,,,,,,,,3,2.42,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,55-63,26,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=362
 ,,,,,,,,,,3,2.40,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=363
-,,,,,,,,,,3,2.23,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Driving Layup,,,55-63,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=364
+,,,,,,,,,,3,2.23,Denver Nuggets,shot,,,Odom,,,,,,,Miller,,,,missed,,Driving Layup,,,55-63,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=364
 ,,,,,,,,,,3,2.22,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=365
 ,,,,,,,,,,3,2.17,Denver Nuggets,shot,Miller,,,,,,,,,Brewer,2,,,made,,Jump Shot,,,55-65,16,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=367
 ,,,,,,,,,,3,1.54,Los Angeles Clippers,shot,Barnes,,,,,,,,,Bledsoe,3,,,made,,3PT Jump Shot,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=368
@@ -313,7 +313,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.46,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=371
 ,,,,,,,,,,3,1.46,Denver Nuggets,free throw,,,,,,,2,,2,Fournier,,,foul,missed,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=372
 ,,,,,,,,,,3,1.44,Los Angeles Clippers,rebound,,,,,,,,,,Crawford,,,,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=374
-,,,,,,,,,,3,1.34,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=375
+,,,,,,,,,,3,1.34,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Bad Pass,,Brewer,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=375
 ,,,,,,,,,,3,1.28,Denver Nuggets,shot,Brewer,,,,,,,,,Miller,2,,,made,,Layup,,,58-67,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=376
 ,,,,,,,,,,3,1.12,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,Layup,,,58-67,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=377
 ,,,,,,,,,,3,1.11,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,58-67,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=378
@@ -332,7 +332,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.05,Los Angeles Clippers,free throw,,,,,,,1,,2,Crawford,,,foul,missed,,,,,58-72,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=393
 ,,,,,,,,,,3,0.05,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,58-72,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=394
 ,,,,,,,,,,3,0.05,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,59-72,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=395
-,,,,,,,,,,3,0.02,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,59-72,27,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=397
+,,,,,,,,,,3,0.02,Denver Nuggets,shot,,,Barnes,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,59-72,27,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=397
 ,,,,,,,,,,3,0.01,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,59-72,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=398
 ,,,,,,,,,,3,0.00,Denver Nuggets,shot,,,,,,,,,,McGee,3,,,made,,3PT Jump Shot,,,59-75,27,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=400
 ,,,,,,,,,,4,11.48,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,59-75,20,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=405
@@ -370,7 +370,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.55,Denver Nuggets,free throw,,,,,,,1,,2,Faried,1,,foul,made,,,,,66-80,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=441
 ,,,,,,,,,,4,7.55,Denver Nuggets,substitute,,,,Gallinari,,Koufos,,,,,,,,,,,,,66-80,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=443
 ,,,,,,,,,,4,7.55,Denver Nuggets,free throw,,,,,,,2,,2,Faried,1,,foul,made,,,,,66-81,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=444
-,,,,,,,,,,4,7.43,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,,,,,66-81,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=446
+,,,,,,,,,,4,7.43,Los Angeles Clippers,turnover,,,,,,,,,,Paul,,,Bad Pass,,Iguodala,,,,66-81,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=446
 ,,,,,,,,,,4,7.33,Denver Nuggets,shot,Iguodala,,,,,,,,,Brewer,2,,,made,,Jump Shot,,,66-83,16,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=447
 ,,,,,,,,,,4,7.23,Denver Nuggets,foul,,,,,,,,,,Faried,,,,,,Personal,,,66-83,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=448
 ,,,,,,,,,,4,7.23,Los Angeles Clippers,substitute,,,,Crawford,,Bledsoe,,,,,,,,,,,,,66-83,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=449
@@ -380,7 +380,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.34,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,68-83,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=453
 ,,,,,,,,,,4,6.20,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Fadeaway Bank Shot,,,68-83,13,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=454
 ,,,,,,,,,,4,6.19,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,68-83,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=455
-,,,,,,,,,,4,6.03,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Jump Shot,,,68-83,8,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=456
+,,,,,,,,,,4,6.03,Denver Nuggets,shot,,,Barnes,,,,,,,Gallinari,,,,missed,,Jump Shot,,,68-83,8,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=456
 ,,,,,,,,,,4,6.03,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,68-83,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=457
 ,,,,,,,,,,4,6.01,Los Angeles Clippers,foul,,,,,,,,,,Butler,,,,,,Personal,,,68-83,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=458
 ,,,,,,,,,,4,5.51,Denver Nuggets,shot,Iguodala,,,,,,,,,Brewer,2,,,made,,Jump Shot,,,68-85,14,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=459
@@ -396,7 +396,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.02,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,70-85,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=473
 ,,,,,,,,,,4,5.01,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Layup,,,72-85,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=474
 ,,,,,,,,,,4,4.50,Denver Nuggets,shot,,,,,,,,,,Miller,2,,,made,,Driving Layup,,,72-87,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=475
-,,,,,,,,,,4,4.47,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Bad Pass,,,,,,72-87,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=476
+,,,,,,,,,,4,4.47,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Bad Pass,,Brewer,,,,72-87,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=476
 ,,,,,,,,,,4,4.46,Denver Nuggets,foul,,,,,,,,,,,,,,,,,,,72-87,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=477
 ,,,,,,,,,,4,4.46,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Foul,,,,,,72-87,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=478
 ,,,,,,,,,,4,4.32,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,72-87,24,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=479
@@ -422,7 +422,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.09,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=502
 ,,,,,,,,,,4,2.45,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,74-89,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=503
 ,,,,,,,,,,4,2.44,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=504
-,,,,,,,,,,4,2.38,Los Angeles Clippers,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,74-89,16,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=505
+,,,,,,,,,,4,2.38,Los Angeles Clippers,shot,,,Faried,,,,,,,Green,,,,missed,,Jump Shot,,,74-89,16,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=505
 ,,,,,,,,,,4,2.37,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=506
 ,,,,,,,,,,4,2.37,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=508
 ,,,,,,,,,,4,2.37,Los Angeles Clippers,substitute,,,,Turiaf,,Butler,,,,,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=510
@@ -435,7 +435,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.48,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=519
 ,,,,,,,,,,4,1.48,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Tip Shot,,,74-89,1,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=518
 ,,,,,,,,,,4,1.47,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=520
-,,,,,,,,,,4,1.44,Los Angeles Clippers,shot,,,,,,,,,,Turiaf,,,,missed,,Layup,,,74-89,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=522
+,,,,,,,,,,4,1.44,Los Angeles Clippers,shot,,,Gallinari,,,,,,,Turiaf,,,,missed,,Layup,,,74-89,2,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=522
 ,,,,,,,,,,4,1.42,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=523
 ,,,,,,,,,,4,1.21,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,3PT Jump Shot,,,74-89,25,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=524
 ,,,,,,,,,,4,1.20,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=525
@@ -447,7 +447,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.04,Denver Nuggets,rebound,,,,,,,,,,Randolph,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=532
 ,,,,,,,,,,4,0.50,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=533
 ,,,,,,,,,,4,0.50,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=534
-,,,,,,,,,,4,0.47,Denver Nuggets,turnover,,,,,,,,,,Mozgov,,,Bad Pass,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=535
+,,,,,,,,,,4,0.47,Denver Nuggets,turnover,,,,,,,,,,Mozgov,,,Bad Pass,,Green,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=535
 ,,,,,,,,,,4,0.46,Denver Nuggets,foul,,,,,,,,,,Fournier,,,,,,Shooting,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=536
 ,,,,,,,,,,4,0.46,Los Angeles Clippers,free throw,,,,,,,1,,2,Barnes,,,foul,missed,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=537
 ,,,,,,,,,,4,0.46,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,74-89,,http://stats.nba.com/cvp.html?GameID=0021200462&GameEventID=538

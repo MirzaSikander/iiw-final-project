@@ -7,9 +7,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.18,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=7
 ,,,,,,,,,,1,10.54,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Step Back Jump Shot,,,,17,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=8
 ,,,,,,,,,,1,10.53,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=9
-,,,,,,,,,,1,10.45,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Driving Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=10
+,,,,,,,,,,1,10.45,Houston Rockets,shot,,,Morris,,,,,,,Parsons,,,,missed,,Driving Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=10
 ,,,,,,,,,,1,10.44,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=11
-,,,,,,,,,,1,10.36,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=12
+,,,,,,,,,,1,10.36,Houston Rockets,shot,,,Morris,,,,,,,Motiejunas,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=12
 ,,,,,,,,,,1,10.34,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=13
 ,,,,,,,,,,1,10.22,Phoenix Suns,shot,Dragic,,,,,,,,,Scola,2,,,made,,Jump Shot,,,2-0,18,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=15
 ,,,,,,,,,,1,10.16,Houston Rockets,shot,Lin,,,,,,,,,Motiejunas,2,,,made,,Layup,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=16
@@ -34,7 +34,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.51,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=39
 ,,,,,,,,,,1,6.50,Houston Rockets,shot,,,,,,,,,,Motiejunas,2,,,made,,Putback Layup,,,8-14,1,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=38
 ,,,,,,,,,,1,6.28,Phoenix Suns,shot,,,,,,,,,,W. Johnson,2,,,made,,Running Bank Shot,,,10-14,4,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=40
-,,,,,,,,,,1,6.21,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=41
+,,,,,,,,,,1,6.21,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Dragic,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=41
 ,,,,,,,,,,1,6.15,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,10-14,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=42
 ,,,,,,,,,,1,6.14,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=43
 ,,,,,,,,,,1,6.07,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Shooting,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=44
@@ -42,7 +42,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.07,Phoenix Suns,substitute,,,,O'Neal,,Scola,,,,,,,,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=47
 ,,,,,,,,,,1,6.07,Houston Rockets,free throw,,,,,,,2,,2,Harden,,,foul,missed,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=48
 ,,,,,,,,,,1,6.07,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=50
-,,,,,,,,,,1,6.00,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=51
+,,,,,,,,,,1,6.00,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Parsons,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=51
 ,,,,,,,,,,1,5.55,Houston Rockets,foul,,,,,,,,,,Motiejunas,,,,,,Offensive Charge,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=52
 ,,,,,,,,,,1,5.55,Houston Rockets,turnover,,,,,,,,,,Motiejunas,,,Foul,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=53
 ,,,,,,,,,,1,5.55,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=54
@@ -51,10 +51,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.37,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=58
 ,,,,,,,,,,1,5.14,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,10-15,24,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=59
 ,,,,,,,,,,1,5.13,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=60
-,,,,,,,,,,1,4.52,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Turnaround Jump Shot,,,10-15,7,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=61
+,,,,,,,,,,1,4.52,Phoenix Suns,shot,,,Motiejunas,,,,,,,O'Neal,,,,missed,,Turnaround Jump Shot,,,10-15,7,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=61
 ,,,,,,,,,,1,4.50,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,10-15,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=62
 ,,,,,,,,,,1,4.47,Houston Rockets,shot,Lin,,,,,,,,,Parsons,2,,,made,,Layup,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=63
-,,,,,,,,,,1,4.38,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Bad Pass,,,,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=64
+,,,,,,,,,,1,4.38,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Bad Pass,,Lin,,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=64
 ,,,,,,,,,,1,4.35,Phoenix Suns,violation,,,,,,,,,,Dragic,,,Defensive Goaltending,,,,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=66
 ,,,,,,,,,,1,4.35,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Layup,,,10-19,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=65
 ,,,,,,,,,,1,4.16,Phoenix Suns,shot,O'Neal,,,,,,,,,Morris,2,,,made,,Layup,,,12-19,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=68
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.37,Phoenix Suns,shot,W. Johnson,,,,,,,,,Morris,2,,,made,,Layup,,,21-22,1,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=93
 ,,,,,,,,,,1,2.26,Houston Rockets,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,21-22,21,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=95
 ,,,,,,,,,,1,2.25,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=96
-,,,,,,,,,,1,2.22,Houston Rockets,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,21-22,7,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=97
+,,,,,,,,,,1,2.22,Houston Rockets,shot,,,O'Neal,,,,,,,Robinson,,,,missed,,Jump Shot,,,21-22,7,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=97
 ,,,,,,,,,,1,2.22,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=98
 ,,,,,,,,,,1,2.22,Phoenix Suns,foul,,,,,,,,,,O'Neal,,,,,,Shooting,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=99
 ,,,,,,,,,,1,2.22,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=100
@@ -92,7 +92,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.22,Houston Rockets,free throw,,,,,,,1,,2,Robinson,1,,foul,made,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=106
 ,,,,,,,,,,1,2.22,Houston Rockets,free throw,,,,,,,2,,2,Robinson,,,foul,missed,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=108
 ,,,,,,,,,,1,2.22,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=110
-,,,,,,,,,,1,2.02,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=112
+,,,,,,,,,,1,2.02,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,Beverley,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=112
 ,,,,,,,,,,1,1.44,Houston Rockets,shot,Delfino,,,,,,,,,Beverley,3,,,made,,3PT Jump Shot,,,21-26,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=113
 ,,,,,,,,,,1,1.21,Phoenix Suns,shot,,,,,,,,,,W. Johnson,2,,,made,,Fadeaway Jumper,,,23-26,16,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=114
 ,,,,,,,,,,1,1.05,Houston Rockets,shot,,,,,,,,,,Robinson,2,,,made,,Turnaround Bank Shot,,,23-28,7,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=115
@@ -100,11 +100,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.36,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Personal,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=117
 ,,,,,,,,,,1,0.36,Houston Rockets,free throw,,,,,,,1,,2,Asik,1,,foul,made,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=118
 ,,,,,,,,,,1,0.36,Houston Rockets,free throw,,,,,,,2,,2,Asik,1,,foul,made,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=120
-,,,,,,,,,,1,0.22,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Lost Ball,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=123
+,,,,,,,,,,1,0.22,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Lost Ball,,Delfino,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=123
 ,,,,,,,,,,1,0.00,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,3PT Jump Shot,,,25-30,25,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=124
 ,,,,,,,,,,1,0.00,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,25-30,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=125
 ,,,,,,,,,,2,11.40,Phoenix Suns,shot,,,,,,,,,,W. Johnson,2,,,made,,Jump Shot,,,27-30,22,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=129
-,,,,,,,,,,2,11.24,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=130
+,,,,,,,,,,2,11.24,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,Marshall,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=130
 ,,,,,,,,,,2,11.12,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Step Back Jump Shot,,,29-30,9,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=131
 ,,,,,,,,,,2,10.45,Houston Rockets,shot,,,,,,,,,,Robinson,,,,missed,,Slam Dunk,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=132
 ,,,,,,,,,,2,10.45,Phoenix Suns,rebound,,,,,,,,,,Marshall,,,,,,,,,29-30,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=133
@@ -183,7 +183,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.15,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,43-44,3,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=236
 ,,,,,,,,,,2,4.15,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=238
 ,,,,,,,,,,2,4.15,Houston Rockets,jumpball,,Haddadi,,,Smith,,,,,,,,,,,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=237
-,,,,,,,,,,2,4.07,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Driving Jump Shot,,,43-44,5,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=239
+,,,,,,,,,,2,4.07,Houston Rockets,shot,,,Haddadi,,,,,,,Lin,,,,missed,,Driving Jump Shot,,,43-44,5,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=239
 ,,,,,,,,,,2,4.07,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=241
 ,,,,,,,,,,2,4.07,Houston Rockets,jumpball,,Haddadi,,,Lin,,,,,,,,,,,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=240
 ,,,,,,,,,,2,4.02,Phoenix Suns,substitute,,,,O'Neal,,Haddadi,,,,,,,,,,,,,43-44,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=244
@@ -205,10 +205,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.26,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Foul,,,,,,43-51,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=263
 ,,,,,,,,,,2,2.11,Houston Rockets,shot,Harden,,,,,,,,,Asik,2,,,made,,Dunk,,,43-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=264
 ,,,,,,,,,,2,1.48,Phoenix Suns,shot,,,,,,,,,,Morris,2,,,made,,Driving Layup,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=265
-,,,,,,,,,,2,1.47,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=266
+,,,,,,,,,,2,1.47,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Johnson,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=266
 ,,,,,,,,,,2,1.40,Phoenix Suns,shot,,,,,,,,,,W. Johnson,,,,missed,,Jump Shot,,,45-53,11,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=267
 ,,,,,,,,,,2,1.38,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=268
-,,,,,,,,,,2,1.31,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=270
+,,,,,,,,,,2,1.31,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Morris,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=270
 ,,,,,,,,,,2,1.26,Houston Rockets,foul,,,,,,,,,,Harden,,,,,,Personal,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=272
 ,,,,,,,,,,2,1.26,Phoenix Suns,free throw,,,,,,,1,,2,Morris,,,foul,missed,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=275
 ,,,,,,,,,,2,1.26,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=276
@@ -216,7 +216,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.26,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=279
 ,,,,,,,,,,2,1.11,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,45-53,1,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=280
 ,,,,,,,,,,2,1.10,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=281
-,,,,,,,,,,2,1.07,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,Layup,,,45-53,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=282
+,,,,,,,,,,2,1.07,Houston Rockets,shot,,,O'Neal,,,,,,,Motiejunas,,,,missed,,Layup,,,45-53,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=282
 ,,,,,,,,,,2,1.06,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=283
 ,,,,,,,,,,2,0.54,Phoenix Suns,shot,,,,,,,,,,W. Johnson,,,,missed,,3PT Jump Shot,,,45-53,25,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=284
 ,,,,,,,,,,2,0.54,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=285
@@ -241,7 +241,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.31,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,48-60,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=314
 ,,,,,,,,,,3,10.25,Houston Rockets,shot,Lin,,,,,,,,,Asik,2,,,made,,Dunk,,,48-62,1,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=315
 ,,,,,,,,,,3,10.18,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=316
-,,,,,,,,,,3,10.08,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,48-62,4,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=318
+,,,,,,,,,,3,10.08,Phoenix Suns,shot,,,Parsons,,,,,,,Morris,,,,missed,,Jump Shot,,,48-62,4,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=318
 ,,,,,,,,,,3,10.06,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=319
 ,,,,,,,,,,3,10.03,Houston Rockets,shot,Lin,,,,,,,,,Parsons,2,,,made,,Layup,,,48-64,1,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=320
 ,,,,,,,,,,3,10.03,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Shooting,,,48-64,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=321
@@ -258,12 +258,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.13,Phoenix Suns,shot,,,,,,,,,,W. Johnson,3,,,made,,3PT Jump Shot,,,51-67,25,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=336
 ,,,,,,,,,,3,9.02,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,51-67,25,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=337
 ,,,,,,,,,,3,9.01,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,51-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=338
-,,,,,,,,,,3,8.39,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,51-67,3,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=339
+,,,,,,,,,,3,8.39,Phoenix Suns,shot,,,Asik,,,,,,,Morris,,,,missed,,Jump Shot,,,51-67,3,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=339
 ,,,,,,,,,,3,8.38,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,51-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=340
-,,,,,,,,,,3,8.18,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Lost Ball,,,,,,51-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=341
+,,,,,,,,,,3,8.18,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Lost Ball,,Morris,,,,51-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=341
 ,,,,,,,,,,3,8.13,Phoenix Suns,shot,W. Johnson,,,,,,,,,Dragic,2,,,made,,Layup,,,53-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=342
 ,,,,,,,,,,3,8.12,Phoenix Suns,violation,,,,,,,,,,Suns,,, Delay of game Violation,,,,,,53-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=343
-,,,,,,,,,,3,7.59,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,53-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=345
+,,,,,,,,,,3,7.59,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Dragic,,,,53-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=345
 ,,,,,,,,,,3,7.58,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Layup,,,55-67,1,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=346
 ,,,,,,,,,,3,7.58,Houston Rockets,foul,,,,,,,,,,Harden,,,,,,Shooting,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=347
 ,,,,,,,,,,3,7.58,Phoenix Suns,free throw,,,,,,,1,,1,Dragic,1,,foul,made,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=348
@@ -273,7 +273,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.15,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=355
 ,,,,,,,,,,3,7.07,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,56-69,18,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=356
 ,,,,,,,,,,3,7.06,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=357
-,,,,,,,,,,3,6.58,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Reverse Layup,,,56-69,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=358
+,,,,,,,,,,3,6.58,Houston Rockets,shot,,,Johnson,,,,,,,Asik,,,,missed,,Reverse Layup,,,56-69,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=358
 ,,,,,,,,,,3,6.56,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=359
 ,,,,,,,,,,3,6.55,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Traveling,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=360
 ,,,,,,,,,,3,6.49,Houston Rockets,shot,Parsons,,,,,,,,,Motiejunas,3,,,made,,3PT Jump Shot,,,56-72,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=362
@@ -294,7 +294,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.00,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=379
 ,,,,,,,,,,3,4.51,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,3PT Jump Shot,,,56-76,27,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=380
 ,,,,,,,,,,3,4.50,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=381
-,,,,,,,,,,3,4.41,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Layup,,,56-76,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=382
+,,,,,,,,,,3,4.41,Phoenix Suns,shot,,,Smith,,,,,,,Dragic,,,,missed,,Layup,,,56-76,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=382
 ,,,,,,,,,,3,4.40,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=383
 ,,,,,,,,,,3,4.35,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,56-76,3,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=384
 ,,,,,,,,,,3,4.34,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=385
@@ -303,17 +303,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.26,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Tip Shot,,,56-76,1,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=387
 ,,,,,,,,,,3,4.24,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=389
 ,,,,,,,,,,3,4.24,Houston Rockets,substitute,,,,Delfino,,Parsons,,,,,,,,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=391
-,,,,,,,,,,3,4.24,Houston Rockets,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=393
+,,,,,,,,,,3,4.24,Houston Rockets,turnover,,,,,,,,,,Smith,,,Bad Pass,,Dragic,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=393
 ,,,,,,,,,,3,4.24,Houston Rockets,jumpball,,Dragic,,,Lin,,,,,,,,,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=392
 ,,,,,,,,,,3,4.14,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,56-76,27,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=394
 ,,,,,,,,,,3,4.13,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=395
-,,,,,,,,,,3,4.07,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=396
-,,,,,,,,,,3,4.03,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=397
+,,,,,,,,,,3,4.07,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,O'Neal,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=396
+,,,,,,,,,,3,4.03,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Lin,,,,56-76,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=397
 ,,,,,,,,,,3,3.54,Houston Rockets,shot,Lin,,,,,,,,,Motiejunas,2,,,made,,Jump Shot,,,56-78,9,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=398
 ,,,,,,,,,,3,3.48,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,56-78,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=399
 ,,,,,,,,,,3,3.48,Houston Rockets,substitute,,,,Beverley,,Lin,,,,,,,,,,,,,56-78,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=401
 ,,,,,,,,,,3,3.48,Phoenix Suns,substitute,,,,Marshall,,Dragic,,,,,,,,,,,,,56-78,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=402
-,,,,,,,,,,3,3.31,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Turnaround Jump Shot,,,56-78,7,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=403
+,,,,,,,,,,3,3.31,Phoenix Suns,shot,,,Smith,,,,,,,O'Neal,,,,missed,,Turnaround Jump Shot,,,56-78,7,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=403
 ,,,,,,,,,,3,3.29,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,56-78,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=404
 ,,,,,,,,,,3,3.23,Houston Rockets,foul,,,,,,,,,,,,,,,,,,,56-78,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=405
 ,,,,,,,,,,3,3.23,Houston Rockets,turnover,,,,,,,,,,Smith,,,Foul,,,,,,56-78,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=406
@@ -352,8 +352,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.15,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Turnaround Fadeaway Shot,,,64-97,8,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=452
 ,,,,,,,,,,4,9.14,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,64-97,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=453
 ,,,,,,,,,,4,8.59,Houston Rockets,shot,Beverley,,,,,,,,,Robinson,2,,,made,,Driving Finger Roll Layup,,,64-99,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=454
-,,,,,,,,,,4,8.51,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Lost Ball,,,,,,64-99,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=455
-,,,,,,,,,,4,8.46,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Dunk,,,64-99,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=456
+,,,,,,,,,,4,8.51,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Lost Ball,,Beverley,,,,64-99,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=455
+,,,,,,,,,,4,8.46,Houston Rockets,shot,,,Beasley,,,,,,,Beverley,,,,missed,,Dunk,,,64-99,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=456
 ,,,,,,,,,,4,8.44,Phoenix Suns,rebound,,,,,,,,,,Marshall,,,,,,,,,64-99,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=457
 ,,,,,,,,,,4,8.40,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Jump Shot,,,64-99,11,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=458
 ,,,,,,,,,,4,8.39,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,64-99,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=459
@@ -369,22 +369,22 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.16,Houston Rockets,substitute,,,,Smith,,Asik,,,,,,,,,,,,,64-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=474
 ,,,,,,,,,,4,8.07,Houston Rockets,foul,,,,,,,,,,,,,,,,,,,64-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=475
 ,,,,,,,,,,4,8.07,Houston Rockets,turnover,,,,,,,,,,Smith,,,Foul,,,,,,64-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=476
-,,,,,,,,,,4,7.54,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,64-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=477
+,,,,,,,,,,4,7.54,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,Robinson,,,,64-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=477
 ,,,,,,,,,,4,7.48,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,64-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=478
 ,,,,,,,,,,4,7.36,Phoenix Suns,shot,Marshall,,,,,,,,,Beasley,2,,,made,,Jump Shot,,,66-100,17,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=480
 ,,,,,,,,,,4,7.19,Houston Rockets,shot,,,,,,,,,,Garcia,,,,missed,,Jump Shot,,,66-100,16,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=481
 ,,,,,,,,,,4,7.18,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,66-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=482
-,,,,,,,,,,4,7.12,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,66-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=483
+,,,,,,,,,,4,7.12,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Marshall,,,,66-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=483
 ,,,,,,,,,,4,7.06,Phoenix Suns,shot,,,,,,,,,,Garrett,2,,,made,,Layup,,,68-100,3,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=484
-,,,,,,,,,,4,6.45,Houston Rockets,turnover,,,,,,,,,,Garcia,,,Bad Pass,,,,,,68-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=485
+,,,,,,,,,,4,6.45,Houston Rockets,turnover,,,,,,,,,,Garcia,,,Bad Pass,,Haddadi,,,,68-100,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=485
 ,,,,,,,,,,4,6.39,Phoenix Suns,shot,Marshall,,,,,,,,,Garrett,2,,,made,,Layup,,,70-100,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=486
 ,,,,,,,,,,4,6.21,Houston Rockets,shot,Garcia,,,,,,,,,Smith,2,,,made,,Layup,,,70-102,2,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=487
 ,,,,,,,,,,4,6.09,Phoenix Suns,shot,Marshall,,,,,,,,,Garrett,2,,,made,,Pullup Jump Shot,,,72-102,11,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=488
 ,,,,,,,,,,4,5.42,Houston Rockets,shot,,,,,,,,,,Anderson,2,,,made,,Driving Layup,,,72-104,1,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=489
 ,,,,,,,,,,4,5.31,Phoenix Suns,shot,,,,,,,,,,Garrett,,,,missed,,Jump Shot,,,72-104,17,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=490
 ,,,,,,,,,,4,5.30,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,72-104,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=491
-,,,,,,,,,,4,5.20,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Lost Ball,,,,,,72-104,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=492
-,,,,,,,,,,4,5.16,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,,,,,72-104,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=493
+,,,,,,,,,,4,5.20,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Lost Ball,,Beasley,,,,72-104,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=492
+,,,,,,,,,,4,5.16,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,Anderson,,,,72-104,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=493
 ,,,,,,,,,,4,5.10,Houston Rockets,shot,Anderson,,,,,,,,,Robinson,2,,,made,,Alley Oop Dunk,,,72-106,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=494
 ,,,,,,,,,,4,5.02,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,72-106,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=495
 ,,,,,,,,,,4,5.02,Houston Rockets,substitute,,,,Brooks,,Garcia,,,,,,,,,,,,,72-106,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=497
@@ -406,14 +406,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.09,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Pullup Jump Shot,,,75-108,17,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=520
 ,,,,,,,,,,4,3.08,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,75-108,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=521
 ,,,,,,,,,,4,3.04,Houston Rockets,turnover,,,,,,,,,,Brooks,,,Traveling,,,,,,75-108,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=522
-,,,,,,,,,,4,2.47,Phoenix Suns,turnover,,,,,,,,,,Haddadi,,,Bad Pass,,,,,,75-108,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=523
+,,,,,,,,,,4,2.47,Phoenix Suns,turnover,,,,,,,,,,Haddadi,,,Bad Pass,,Anderson,,,,75-108,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=523
 ,,,,,,,,,,4,2.36,Houston Rockets,shot,Anderson,,,,,,,,,Brooks,3,,,made,,3PT Jump Shot,,,75-111,25,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=524
 ,,,,,,,,,,4,2.11,Phoenix Suns,shot,,,,,,,,,,Marshall,,,,missed,,3PT Jump Shot,,,75-111,26,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=525
 ,,,,,,,,,,4,2.10,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,75-111,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=526
-,,,,,,,,,,4,2.02,Houston Rockets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,,,,,75-111,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=528
+,,,,,,,,,,4,2.02,Houston Rockets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,Beasley,,,,75-111,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=528
 ,,,,,,,,,,4,1.57,Phoenix Suns,shot,Marshall,,,,,,,,,Garrett,3,,,made,,3PT Jump Shot,,,78-111,26,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=529
-,,,,,,,,,,4,1.38,Houston Rockets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,,,,,78-111,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=530
-,,,,,,,,,,4,1.32,Phoenix Suns,turnover,,,,,,,,,,Garrett,,,Lost Ball,,,,,,78-111,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=531
+,,,,,,,,,,4,1.38,Houston Rockets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,Garrett,,,,78-111,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=530
+,,,,,,,,,,4,1.32,Phoenix Suns,turnover,,,,,,,,,,Garrett,,,Lost Ball,,Beverley,,,,78-111,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=531
 ,,,,,,,,,,4,1.13,Houston Rockets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,78-111,28,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=532
 ,,,,,,,,,,4,1.12,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,78-111,,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=533
 ,,,,,,,,,,4,1.02,Phoenix Suns,shot,Beasley,,,,,,,,,Marshall,3,,,made,,3PT Jump Shot,,,81-111,25,http://stats.nba.com/cvp.html?GameID=0021200961&GameEventID=535

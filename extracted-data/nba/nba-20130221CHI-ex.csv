@@ -5,7 +5,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.01,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Jump Shot,,,2-0,14,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=5
 ,,,,,,,,,,1,11.00,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=6
 ,,,,,,,,,,1,10.57,Chicago Bulls,shot,Boozer,,,,,,,,,Noah,2,,,made,,Slam Dunk,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=7
-,,,,,,,,,,1,10.38,Miami Heat,shot,,,,,,,,,,Haslem,,,,missed,,Layup,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=8
+,,,,,,,,,,1,10.38,Miami Heat,shot,,,Noah,,,,,,,Haslem,,,,missed,,Layup,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=8
 ,,,,,,,,,,1,10.36,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=9
 ,,,,,,,,,,1,10.31,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,2-2,17,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=10
 ,,,,,,,,,,1,10.30,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=11
@@ -13,15 +13,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.03,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Jump Shot,,,4-2,20,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=13
 ,,,,,,,,,,1,10.02,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=14
 ,,,,,,,,,,1,9.58,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=15
-,,,,,,,,,,1,9.42,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Bad Pass,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=16
+,,,,,,,,,,1,9.42,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Bad Pass,,Wade,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=16
 ,,,,,,,,,,1,9.37,Miami Heat,shot,Chalmers,,,,,,,,,James,2,,,made,,Layup,,,6-2,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=17
 ,,,,,,,,,,1,9.20,Chicago Bulls,turnover,,,,,,,,,,Hamilton,,,Bad Pass,,,,,,6-2,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=18
 ,,,,,,,,,,1,9.10,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,6-2,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=19
 ,,,,,,,,,,1,8.52,Chicago Bulls,shot,,,,,,,,,,Hamilton,2,,,made,,Jump Shot,,,6-4,21,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=20
-,,,,,,,,,,1,8.38,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=21
-,,,,,,,,,,1,8.33,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=22
+,,,,,,,,,,1,8.38,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Deng,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=21
+,,,,,,,,,,1,8.33,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,James,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=22
 ,,,,,,,,,,1,8.28,Miami Heat,shot,,,,,,,,,,Chalmers,2,,,made,,Jump Shot,,,8-4,20,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=23
-,,,,,,,,,,1,8.08,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=24
+,,,,,,,,,,1,8.08,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,James,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=24
 ,,,,,,,,,,1,8.02,Miami Heat,shot,Wade,,,,,,,,,James,2,,,made,,Driving Layup,,,10-4,1,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=25
 ,,,,,,,,,,1,7.51,Miami Heat,foul,,,,,,,,,,Haslem,,,,,,Shooting,,,10-4,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=26
 ,,,,,,,,,,1,7.51,Chicago Bulls,free throw,,,,,,,1,,2,Robinson,1,,foul,made,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=27
@@ -33,8 +33,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.19,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,12-6,21,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=35
 ,,,,,,,,,,1,7.18,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,12-6,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=36
 ,,,,,,,,,,1,7.12,Chicago Bulls,shot,Deng,,,,,,,,,Noah,2,,,made,,Dunk,,,12-8,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=37
-,,,,,,,,,,1,6.55,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,,,,,12-8,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=38
-,,,,,,,,,,1,6.37,Chicago Bulls,shot,,,,,,,,,,Hamilton,,,,missed,,Driving Layup,,,12-8,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=40
+,,,,,,,,,,1,6.55,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,Boozer,,,,12-8,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=38
+,,,,,,,,,,1,6.37,Chicago Bulls,shot,,,Wade,,,,,,,Hamilton,,,,missed,,Driving Layup,,,12-8,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=40
 ,,,,,,,,,,1,6.37,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,12-8,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=41
 ,,,,,,,,,,1,6.33,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Layup,,,12-8,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=42
 ,,,,,,,,,,1,6.32,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,12-8,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=44
@@ -53,10 +53,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.28,Miami Heat,free throw,,,,,,,1,,2,Bosh,,,foul,missed,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=57
 ,,,,,,,,,,1,5.28,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=58
 ,,,,,,,,,,1,5.28,Miami Heat,free throw,,,,,,,2,,2,Bosh,1,,foul,made,,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=59
-,,,,,,,,,,1,5.11,Chicago Bulls,turnover,,,,,,,,,,Hamilton,,,Bad Pass,,,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=61
-,,,,,,,,,,1,5.09,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=62
+,,,,,,,,,,1,5.11,Chicago Bulls,turnover,,,,,,,,,,Hamilton,,,Bad Pass,,Bosh,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=61
+,,,,,,,,,,1,5.09,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Robinson,,,,13-11,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=62
 ,,,,,,,,,,1,5.04,Chicago Bulls,shot,Noah,,,,,,,,,Robinson,2,,,made,,Driving Layup,,,13-13,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=63
-,,,,,,,,,,1,4.43,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,13-13,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=64
+,,,,,,,,,,1,4.43,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Robinson,,,,13-13,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=64
 ,,,,,,,,,,1,4.39,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Layup,,,13-13,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=65
 ,,,,,,,,,,1,4.37,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,13-13,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=66
 ,,,,,,,,,,1,4.35,Chicago Bulls,shot,,,,,,,,,,Noah,2,,,made,,Layup,,,13-15,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=67
@@ -91,7 +91,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.17,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,19-16,19,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=99
 ,,,,,,,,,,1,2.17,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=100
 ,,,,,,,,,,1,2.17,Miami Heat,foul,,,,,,,,,,James,,,,,,Personal,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=101
-,,,,,,,,,,1,2.06,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,19-16,4,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=102
+,,,,,,,,,,1,2.06,Chicago Bulls,shot,,,Andersen,,,,,,,Gibson,,,,missed,,Jump Shot,,,19-16,4,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=102
 ,,,,,,,,,,1,2.04,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=104
 ,,,,,,,,,,1,2.04,Chicago Bulls,shot,,,,,,,,,,Deng,2,,,made,,Putback Layup,,,19-18,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=103
 ,,,,,,,,,,1,1.47,Miami Heat,shot,James,,,,,,,,,Chalmers,2,,,made,,Jump Shot,,,21-18,17,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=106
@@ -110,7 +110,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.03,Miami Heat,free throw,,,,,,,1,,2,Allen,,,foul,missed,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=119
 ,,,,,,,,,,1,0.03,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=120
 ,,,,,,,,,,1,0.03,Miami Heat,free throw,,,,,,,2,,2,Allen,1,,foul,made,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=121
-,,,,,,,,,,1,0.02,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=125
+,,,,,,,,,,1,0.02,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,Allen,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=125
 ,,,,,,,,,,2,11.41,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Jump Shot,,,22-22,19,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=128
 ,,,,,,,,,,2,11.40,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=129
 ,,,,,,,,,,2,11.22,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Bad Pass,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=130
@@ -119,7 +119,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.41,Chicago Bulls,shot,,,,,,,,,,Teague,2,,,made,,Driving Layup,,,22-24,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=134
 ,,,,,,,,,,2,10.20,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,22-24,21,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=135
 ,,,,,,,,,,2,10.19,Chicago Bulls,rebound,,,,,,,,,,Teague,,,,,,,,,22-24,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=136
-,,,,,,,,,,2,9.59,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,22-24,16,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=137
+,,,,,,,,,,2,9.59,Chicago Bulls,shot,,,Allen,,,,,,,Butler,,,,missed,,Jump Shot,,,22-24,16,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=137
 ,,,,,,,,,,2,9.57,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,22-24,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=138
 ,,,,,,,,,,2,9.49,Chicago Bulls,foul,,,,,,,,,,Noah,,,,,,Shooting,,,22-24,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=139
 ,,,,,,,,,,2,9.49,Miami Heat,free throw,,,,,,,1,,2,Andersen,1,,foul,made,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=140
@@ -129,10 +129,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.42,Chicago Bulls,rebound,,,,,,,,,,Teague,,,,,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=146
 ,,,,,,,,,,2,9.19,Chicago Bulls,shot,Gibson,,,,,,,,,Teague,2,,,made,,Floating Jump Shot,,,23-26,5,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=147
 ,,,,,,,,,,2,8.56,Miami Heat,shot,Cole,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,26-26,24,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=148
-,,,,,,,,,,2,8.31,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,26-26,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=149
+,,,,,,,,,,2,8.31,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Lost Ball,,Andersen,,,,26-26,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=149
 ,,,,,,,,,,2,8.31,Chicago Bulls,foul,,,,,,,,,,Teague,,,,,,Personal,,,26-26,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=150
 ,,,,,,,,,,2,8.31,Miami Heat,substitute,,,,Bosh,,Andersen,,,,,,,,,,,,,26-26,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=152
-,,,,,,,,,,2,8.20,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,,,,,26-26,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=153
+,,,,,,,,,,2,8.20,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,Noah,,,,26-26,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=153
 ,,,,,,,,,,2,8.16,Chicago Bulls,shot,Noah,,,,,,,,,Gibson,2,,,made,,Running Slam Dunk,,,26-28,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=154
 ,,,,,,,,,,2,7.53,Miami Heat,shot,,,,,,,,,,Allen,2,,,made,,Driving Layup,,,28-28,1,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=155
 ,,,,,,,,,,2,7.36,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,28-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=156
@@ -142,7 +142,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.53,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,30-28,25,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=160
 ,,,,,,,,,,2,6.52,Miami Heat,rebound,,,,,,,,,,Battier,,,,,,,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=161
 ,,,,,,,,,,2,6.47,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Fadeaway Jumper,,,32-28,13,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=162
-,,,,,,,,,,2,6.36,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=163
+,,,,,,,,,,2,6.36,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,Allen,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=163
 ,,,,,,,,,,2,6.16,Miami Heat,shot,,,,,,,,,,Cole,2,,,made,,Running Dunk,,,34-28,1,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=164
 ,,,,,,,,,,2,6.09,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,34-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=165
 ,,,,,,,,,,2,6.09,Chicago Bulls,substitute,,,,Robinson,,Belinelli,,,,,,,,,,,,,34-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=167
@@ -159,7 +159,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.43,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,3PT Jump Shot,,,36-28,25,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=179
 ,,,,,,,,,,2,4.42,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,36-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=180
 ,,,,,,,,,,2,4.37,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Driving Layup,,,38-28,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=181
-,,,,,,,,,,2,4.13,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,,,,,38-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=182
+,,,,,,,,,,2,4.13,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,Bosh,,,,38-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=182
 ,,,,,,,,,,2,3.59,Chicago Bulls,foul,,,,,,,,,,Boozer,,,,,,Shooting,,,38-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=183
 ,,,,,,,,,,2,3.59,Miami Heat,free throw,,,,,,,1,,2,Bosh,,,foul,missed,,,,,38-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=184
 ,,,,,,,,,,2,3.59,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,38-28,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=185
@@ -211,13 +211,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.56,Miami Heat,shot,Chalmers,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,52-39,20,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=243
 ,,,,,,,,,,3,9.37,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Bank Shot,,,52-39,5,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=244
 ,,,,,,,,,,3,9.36,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=245
-,,,,,,,,,,3,9.20,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,3PT Jump Shot,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=246
+,,,,,,,,,,3,9.20,Miami Heat,shot,,,Noah,,,,,,,Bosh,,,,missed,,3PT Jump Shot,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=246
 ,,,,,,,,,,3,9.17,Chicago Bulls,rebound,,,,,,,,,,Teague,,,,,,,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=247
 ,,,,,,,,,,3,9.09,Miami Heat,foul,,,,,,,,,,Chalmers,,,,,,Personal,,,52-39,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=248
 ,,,,,,,,,,3,8.56,Chicago Bulls,shot,Boozer,,,,,,,,,Teague,2,,,made,,Driving Layup,,,52-41,1,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=249
 ,,,,,,,,,,3,8.36,Miami Heat,shot,Chalmers,,,,,,,,,Wade,2,,,made,,Jump Shot,,,54-41,20,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=250
 ,,,,,,,,,,3,8.15,Miami Heat,foul,,,,,,,,,,Bosh,,,,,,Personal Block,,,54-41,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=252
-,,,,,,,,,,3,8.13,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,54-41,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=254
+,,,,,,,,,,3,8.13,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,Chalmers,,,,54-41,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=254
 ,,,,,,,,,,3,8.08,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Layup,,,54-41,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=255
 ,,,,,,,,,,3,8.06,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,54-41,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=256
 ,,,,,,,,,,3,8.00,Chicago Bulls,shot,,,,,,,,,,Hamilton,,,,missed,,3PT Jump Shot,,,54-41,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=257
@@ -233,7 +233,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.07,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Jump Shot,,,56-43,19,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=267
 ,,,,,,,,,,3,6.40,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Running Jump Shot,,,56-43,6,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=268
 ,,,,,,,,,,3,6.39,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,56-43,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=269
-,,,,,,,,,,3,6.31,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,56-43,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=270
+,,,,,,,,,,3,6.31,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Noah,,,,56-43,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=270
 ,,,,,,,,,,3,6.27,Miami Heat,violation,,,,,,,,,,James,,,Defensive Goaltending,,,,,,56-43,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=272
 ,,,,,,,,,,3,6.27,Chicago Bulls,shot,Noah,,,,,,,,,Hamilton,2,,,made,,Layup,,,56-45,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=271
 ,,,,,,,,,,3,6.03,Miami Heat,shot,,,,,,,,,,Haslem,,,,missed,,Jump Shot,,,56-45,6,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=273
@@ -242,7 +242,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.48,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Jump Shot,,,56-45,16,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=277
 ,,,,,,,,,,3,5.46,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,56-45,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=278
 ,,,,,,,,,,3,5.33,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,56-45,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=279
-,,,,,,,,,,3,5.33,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,56-45,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=281
+,,,,,,,,,,3,5.33,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,Deng,,,,56-45,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=281
 ,,,,,,,,,,3,5.33,Chicago Bulls,jumpball,,James,,,Deng,,,,,,,,,,,,,,56-45,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=280
 ,,,,,,,,,,3,5.18,Miami Heat,foul,,,,,,,,,,Haslem,,,,,,Shooting Block,,,56-45,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=282
 ,,,,,,,,,,3,5.18,Chicago Bulls,free throw,,,,,,,1,,2,Boozer,1,,foul,made,,,,,56-46,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=283
@@ -250,7 +250,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.03,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Jump Shot,,,56-47,14,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=287
 ,,,,,,,,,,3,5.02,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,56-47,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=288
 ,,,,,,,,,,3,4.48,Chicago Bulls,shot,Hamilton,,,,,,,,,Boozer,2,,,made,,Layup,,,56-49,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=289
-,,,,,,,,,,3,4.24,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,,,,,56-49,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=290
+,,,,,,,,,,3,4.24,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,Noah,,,,56-49,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=290
 ,,,,,,,,,,3,4.04,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Jump Shot,,,56-49,16,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=291
 ,,,,,,,,,,3,4.02,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,56-49,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=292
 ,,,,,,,,,,3,3.55,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Shot,,,58-49,21,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=293
@@ -258,7 +258,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.32,Miami Heat,substitute,,,,Battier,,Haslem,,,,,,,,,,,,,58-49,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=295
 ,,,,,,,,,,3,3.32,Miami Heat,substitute,,,,Allen,,Wade,,,,,,,,,,,,,58-49,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=296
 ,,,,,,,,,,3,3.21,Miami Heat,shot,Chalmers,,,,,,,,,James,2,,,made,,Jump Shot,,,60-49,22,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=297
-,,,,,,,,,,3,2.52,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,60-49,14,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=298
+,,,,,,,,,,3,2.52,Chicago Bulls,shot,,,Battier,,,,,,,Boozer,,,,missed,,Jump Shot,,,60-49,14,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=298
 ,,,,,,,,,,3,2.50,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=300
 ,,,,,,,,,,3,2.50,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Putback Layup,,,60-49,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=299
 ,,,,,,,,,,3,2.50,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,60-49,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=306
@@ -285,7 +285,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.13,Miami Heat,free throw,,,,,,,2,,2,James,1,,foul,made,,,,,64-50,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=325
 ,,,,,,,,,,3,1.01,Miami Heat,violation,,,,,,,,,,Andersen,,,Defensive Goaltending,,,,,,64-50,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=328
 ,,,,,,,,,,3,1.01,Chicago Bulls,shot,Hamilton,,,,,,,,,Noah,2,,,made,,Jump Shot,,,64-52,9,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=327
-,,,,,,,,,,3,0.46,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,64-52,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=329
+,,,,,,,,,,3,0.46,Miami Heat,turnover,,,,,,,,,,James,,,Lost Ball,,Teague,,,,64-52,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=329
 ,,,,,,,,,,3,0.41,Chicago Bulls,shot,,,,,,,,,,Teague,,,,missed,,Reverse Layup,,,64-52,1,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=330
 ,,,,,,,,,,3,0.39,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,64-52,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=331
 ,,,,,,,,,,3,0.32,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,64-52,25,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=332
@@ -295,7 +295,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.27,Chicago Bulls,foul,,,,,,,,,,Noah,,,,,,Technical,,,64-52,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=336
 ,,,,,,,,,,3,0.27,Miami Heat,free throw,,,,,,,,,,Allen,1,,Technical,made,,,,,65-52,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=337
 ,,,,,,,,,,3,0.27,Miami Heat,substitute,,,,Bosh,,Andersen,,,,,,,,,,,,,65-52,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=339
-,,,,,,,,,,3,0.07,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Jump Shot,,,65-52,5,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=340
+,,,,,,,,,,3,0.07,Miami Heat,shot,,,Teague,,,,,,,Chalmers,,,,missed,,Jump Shot,,,65-52,5,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=340
 ,,,,,,,,,,3,0.04,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,65-52,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=341
 ,,,,,,,,,,3,0.03,Chicago Bulls,shot,Noah,,,,,,,,,Deng,2,,,made,,Driving Layup,,,65-54,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=342
 ,,,,,,,,,,3,0.00,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,65-54,25,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=344
@@ -306,7 +306,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.58,Chicago Bulls,shot,,,,,,,,,,Hamilton,,,,missed,,3PT Jump Shot,,,65-56,28,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=352
 ,,,,,,,,,,4,10.58,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,65-56,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=353
 ,,,,,,,,,,4,10.43,Miami Heat,shot,Wade,,,,,,,,,Allen,3,,,made,,3PT Jump Shot,,,68-56,26,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=354
-,,,,,,,,,,4,10.24,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Lost Ball,,,,,,68-56,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=355
+,,,,,,,,,,4,10.24,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Lost Ball,,Battier,,,,68-56,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=355
 ,,,,,,,,,,4,10.07,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Layup,,,70-56,1,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=356
 ,,,,,,,,,,4,10.05,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,70-56,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=357
 ,,,,,,,,,,4,10.05,Chicago Bulls,substitute,,,,Boozer,,Deng,,,,,,,,,,,,,70-56,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=358
@@ -317,25 +317,25 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.28,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,70-58,21,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=364
 ,,,,,,,,,,4,9.27,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,70-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=365
 ,,,,,,,,,,4,9.16,Miami Heat,foul,,,,,,,,,,Andersen,,,,,,Personal,,,70-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=366
-,,,,,,,,,,4,9.02,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,70-58,19,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=367
+,,,,,,,,,,4,9.02,Chicago Bulls,shot,,,Wade,,,,,,,Robinson,,,,missed,,Jump Shot,,,70-58,19,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=367
 ,,,,,,,,,,4,9.01,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,70-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=368
 ,,,,,,,,,,4,9.01,Chicago Bulls,turnover,,,,,,,,,,,,,Shot Clock,,,,,,70-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=396
 ,,,,,,,,,,4,8.46,Miami Heat,shot,Wade,,,,,,,,,Allen,2,,,made,,Jump Bank Shot,,,72-58,18,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=369
 ,,,,,,,,,,4,8.25,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,3PT Jump Shot,,,72-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=370
 ,,,,,,,,,,4,8.23,Miami Heat,rebound,,,,,,,,,,Cole,,,,,,,,,72-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=371
-,,,,,,,,,,4,8.20,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Layup,,,72-58,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=372
+,,,,,,,,,,4,8.20,Miami Heat,shot,,,Butler,,,,,,,Cole,,,,missed,,Layup,,,72-58,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=372
 ,,,,,,,,,,4,8.17,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,72-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=373
 ,,,,,,,,,,4,8.15,Miami Heat,shot,,,,,,,,,,Andersen,,,,missed,,Layup,,,72-58,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=374
 ,,,,,,,,,,4,8.14,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,72-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=375
 ,,,,,,,,,,4,8.08,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,3PT Jump Shot,,,72-58,25,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=376
 ,,,,,,,,,,4,8.08,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,72-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=377
-,,,,,,,,,,4,7.51,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Bad Pass,,,,,,72-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=378
+,,,,,,,,,,4,7.51,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Bad Pass,,Cole,,,,72-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=378
 ,,,,,,,,,,4,7.48,Miami Heat,shot,,,,,,,,,,Cole,2,,,made,,Layup,,,74-58,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=379
-,,,,,,,,,,4,7.24,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Layup,,,74-58,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=380
+,,,,,,,,,,4,7.24,Chicago Bulls,shot,,,Andersen,,,,,,,Gibson,,,,missed,,Layup,,,74-58,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=380
 ,,,,,,,,,,4,7.24,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,74-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=381
 ,,,,,,,,,,4,7.24,Miami Heat,substitute,,,,Bosh,,Andersen,,,,,,,,,,,,,74-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=382
 ,,,,,,,,,,4,7.24,Miami Heat,substitute,,,,James,,Battier,,,,,,,,,,,,,74-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=383
-,,,,,,,,,,4,7.22,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,74-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=384
+,,,,,,,,,,4,7.22,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Wade,,,,74-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=384
 ,,,,,,,,,,4,7.19,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,Personal,,,74-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=385
 ,,,,,,,,,,4,7.12,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,74-58,3,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=386
 ,,,,,,,,,,4,7.11,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,74-58,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=388
@@ -357,7 +357,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.30,Chicago Bulls,substitute,,,,Noah,,Gibson,,,,,,,,,,,,,76-60,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=408
 ,,,,,,,,,,4,5.17,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Jump Shot,,,76-60,16,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=409
 ,,,,,,,,,,4,5.15,Chicago Bulls,rebound,,,,,,,,,,Butler,,,,,,,,,76-60,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=410
-,,,,,,,,,,4,5.11,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,76-60,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=411
+,,,,,,,,,,4,5.11,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,Bosh,,,,76-60,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=411
 ,,,,,,,,,,4,5.03,Miami Heat,shot,James,,,,,,,,,Wade,2,,,made,,Reverse Layup,,,78-60,2,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=412
 ,,,,,,,,,,4,4.40,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,3PT Jump Shot,,,78-60,25,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=413
 ,,,,,,,,,,4,4.39,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,78-60,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=414
@@ -380,8 +380,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.12,Miami Heat,substitute,,,,Anthony,,James,,,,,,,,,,,,,84-65,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=432
 ,,,,,,,,,,4,2.12,Miami Heat,substitute,,,,Lewis,,Bosh,,,,,,,,,,,,,84-65,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=433
 ,,,,,,,,,,4,2.12,Miami Heat,substitute,,,,Jones,,Wade,,,,,,,,,,,,,84-65,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=434
-,,,,,,,,,,4,1.57,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Lost Ball,,,,,,84-65,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=435
-,,,,,,,,,,4,1.51,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,84-65,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=436
+,,,,,,,,,,4,1.57,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Lost Ball,,Cole,,,,84-65,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=435
+,,,,,,,,,,4,1.51,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,Radmanovic,,,,84-65,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=436
 ,,,,,,,,,,4,1.39,Chicago Bulls,shot,,,,,,,,,,Mohammed,,,,missed,,Jump Shot,,,84-65,14,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=437
 ,,,,,,,,,,4,1.37,Miami Heat,rebound,,,,,,,,,,Cole,,,,,,,,,84-65,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=438
 ,,,,,,,,,,4,1.17,Miami Heat,shot,,,,,,,,,,Allen,,,,missed,,3PT Jump Shot,,,84-65,,http://stats.nba.com/cvp.html?GameID=0021200809&GameEventID=439

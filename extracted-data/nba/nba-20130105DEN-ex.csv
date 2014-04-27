@@ -16,7 +16,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.36,Denver Nuggets,shot,,,,,,,,,,Iguodala,2,,,made,,Turnaround Jump Shot,,,5-4,14,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=18
 ,,,,,,,,,,1,9.23,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,Driving Layup,,,5-4,1,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=19
 ,,,,,,,,,,1,9.23,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=20
-,,,,,,,,,,1,9.13,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=21
+,,,,,,,,,,1,9.13,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,Millsap,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=21
 ,,,,,,,,,,1,9.09,Utah Jazz,shot,Williams,,,,,,,,,Millsap,2,,,made,,Layup,,,7-4,3,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=22
 ,,,,,,,,,,1,9.09,Denver Nuggets,foul,,,,,,,,,,Gallinari,,,,,,Shooting Block,,,7-4,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=23
 ,,,,,,,,,,1,9.09,Utah Jazz,free throw,,,,,,,1,,1,Millsap,1,,foul,made,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=24
@@ -26,9 +26,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.52,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=31
 ,,,,,,,,,,1,8.34,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,8-5,19,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=33
 ,,,,,,,,,,1,8.33,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=34
-,,,,,,,,,,1,8.26,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=35
+,,,,,,,,,,1,8.26,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,Tinsley,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=35
 ,,,,,,,,,,1,8.20,Utah Jazz,shot,Tinsley,,,,,,,,,Foye,2,,,made,,Reverse Layup,,,10-5,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=36
-,,,,,,,,,,1,8.08,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Bad Pass,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=37
+,,,,,,,,,,1,8.08,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Bad Pass,,Williams,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=37
 ,,,,,,,,,,1,7.52,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,10-5,25,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=38
 ,,,,,,,,,,1,7.50,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,10-5,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=39
 ,,,,,,,,,,1,7.44,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Jump Shot,,,10-7,17,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=40
@@ -90,7 +90,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.03,Denver Nuggets,shot,,,,,,,,,,McGee,2,,,made,,Layup,,,16-15,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=104
 ,,,,,,,,,,1,3.47,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,3PT Jump Shot,,,16-15,25,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=105
 ,,,,,,,,,,1,3.47,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=106
-,,,,,,,,,,1,3.40,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=107
+,,,,,,,,,,1,3.40,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Favors,,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=107
 ,,,,,,,,,,1,3.37,Denver Nuggets,foul,,,,,,,,,,Brewer,,,,,,Shooting Block,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=108
 ,,,,,,,,,,1,3.37,Utah Jazz,free throw,,,,,,,1,,2,Hayward,,,foul,missed,,,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=109
 ,,,,,,,,,,1,3.37,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,16-15,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=110
@@ -105,14 +105,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.47,Denver Nuggets,jumpball,,Hayward,,,Faried,,,,,,,,,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=118
 ,,,,,,,,,,1,2.41,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,17-17,16,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=123
 ,,,,,,,,,,1,2.40,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=124
-,,,,,,,,,,1,2.31,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=125
+,,,,,,,,,,1,2.31,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,Millsap,,,,17-17,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=125
 ,,,,,,,,,,1,2.21,Utah Jazz,shot,Watson,,,,,,,,,Millsap,2,,,made,,Jump Shot,,,19-17,16,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=127
 ,,,,,,,,,,1,1.59,Denver Nuggets,shot,Faried,,,,,,,,,McGee,2,,,made,,Layup,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=128
 ,,,,,,,,,,1,1.39,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Layup,,,19-19,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=129
 ,,,,,,,,,,1,1.38,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=130
 ,,,,,,,,,,1,1.34,Denver Nuggets,shot,Brewer,,,,,,,,,Miller,2,,,made,,Layup,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=131
 ,,,,,,,,,,1,1.17,Utah Jazz,turnover,,,,,,,,,,Millsap,,,3 Second Violation,,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=132
-,,,,,,,,,,1,0.56,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,Jump Shot,,,19-21,7,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=133
+,,,,,,,,,,1,0.56,Denver Nuggets,shot,,,Hayward,,,,,,,Brewer,,,,missed,,Jump Shot,,,19-21,7,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=133
 ,,,,,,,,,,1,0.55,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=134
 ,,,,,,,,,,1,0.49,Denver Nuggets,foul,,,,,,,,,,Iguodala,,,,,,Shooting,,,19-21,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=135
 ,,,,,,,,,,1,0.49,Utah Jazz,free throw,,,,,,,1,,2,Favors,1,,foul,made,,,,,20-21,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=136
@@ -135,7 +135,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.33,Utah Jazz,foul,,,,,,,,,,,,,,,,,,,26-25,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=160
 ,,,,,,,,,,2,10.33,Utah Jazz,turnover,,,,,,,,,,Favors,,,Foul,,,,,,26-25,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=161
 ,,,,,,,,,,2,10.20,Utah Jazz,foul,,,,,,,,,,Carroll,,,,,,Personal,,,26-25,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=162
-,,,,,,,,,,2,10.11,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,,,,,26-25,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=163
+,,,,,,,,,,2,10.11,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,Millsap,,,,26-25,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=163
 ,,,,,,,,,,2,9.59,Utah Jazz,shot,Carroll,,,,,,,,,Watson,2,,,made,,Running Jump Shot,,,28-25,8,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=164
 ,,,,,,,,,,2,9.50,Utah Jazz,foul,,,,,,,,,,Carroll,,,,,,Shooting,,,28-25,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=165
 ,,,,,,,,,,2,9.50,Denver Nuggets,free throw,,,,,,,1,,2,Gallinari,1,,foul,made,,,,,28-26,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=166
@@ -150,7 +150,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.04,Utah Jazz,free throw,,,,,,,2,,2,Millsap,1,,foul,made,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=180
 ,,,,,,,,,,2,8.39,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Turnaround Jump Shot,,,33-30,8,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=182
 ,,,,,,,,,,2,8.38,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=183
-,,,,,,,,,,2,8.32,Utah Jazz,turnover,,,,,,,,,,Watson,,,Bad Pass,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=187
+,,,,,,,,,,2,8.32,Utah Jazz,turnover,,,,,,,,,,Watson,,,Bad Pass,,Gallinari,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=187
 ,,,,,,,,,,2,8.32,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=188
 ,,,,,,,,,,2,8.16,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,3PT Jump Shot,,,33-30,24,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=190
 ,,,,,,,,,,2,8.15,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,33-30,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=191
@@ -163,7 +163,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.29,Utah Jazz,substitute,,,,Tinsley,,Watson,,,,,,,,,,,,,36-30,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=200
 ,,,,,,,,,,2,7.29,Denver Nuggets,substitute,,,,Lawson,,Brewer,,,,,,,,,,,,,36-30,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=201
 ,,,,,,,,,,2,7.29,Denver Nuggets,free throw,,,,,,,2,,2,McGee,1,,foul,made,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=202
-,,,,,,,,,,2,7.15,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=204
+,,,,,,,,,,2,7.15,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Miller,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=204
 ,,,,,,,,,,2,7.11,Denver Nuggets,foul,,,,,,,,,,,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=205
 ,,,,,,,,,,2,7.11,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Foul,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=206
 ,,,,,,,,,,2,7.11,Denver Nuggets,substitute,,,,Faried,,McGee,,,,,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=207
@@ -177,9 +177,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.32,Denver Nuggets,shot,Miller,,,,,,,,,Faried,2,,,made,,Layup,,,38-38,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=215
 ,,,,,,,,,,2,5.14,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Turnaround Jump Shot,,,38-38,7,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=216
 ,,,,,,,,,,2,5.13,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=217
-,,,,,,,,,,2,5.01,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,38-38,3,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=218
+,,,,,,,,,,2,5.01,Denver Nuggets,shot,,,Millsap,,,,,,,Miller,,,,missed,,Layup,,,38-38,3,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=218
 ,,,,,,,,,,2,5.01,Utah Jazz,rebound,,,,,,,,,,Tinsley,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=219
-,,,,,,,,,,2,4.56,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Layup,,,38-38,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=220
+,,,,,,,,,,2,4.56,Utah Jazz,shot,,,Lawson,,,,,,,Williams,,,,missed,,Layup,,,38-38,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=220
 ,,,,,,,,,,2,4.56,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=222
 ,,,,,,,,,,2,4.56,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=223
 ,,,,,,,,,,2,4.56,Denver Nuggets,substitute,,,,Iguodala,,Miller,,,,,,,,,,,,,38-38,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=226
@@ -198,7 +198,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.22,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=240
 ,,,,,,,,,,2,3.08,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,Jump Shot,,,42-41,17,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=241
 ,,,,,,,,,,2,3.06,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=242
-,,,,,,,,,,2,2.56,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,42-41,14,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=243
+,,,,,,,,,,2,2.56,Denver Nuggets,shot,,,Tinsley,,,,,,,Lawson,,,,missed,,Jump Shot,,,42-41,14,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=243
 ,,,,,,,,,,2,2.55,Utah Jazz,rebound,,,,,,,,,,Tinsley,,,,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=244
 ,,,,,,,,,,2,2.42,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,42-41,17,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=245
 ,,,,,,,,,,2,2.41,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=246
@@ -220,19 +220,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.03,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Personal,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=265
 ,,,,,,,,,,2,1.03,Denver Nuggets,free throw,,,,,,,1,,2,Iguodala,1,,foul,made,,,,,45-47,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=266
 ,,,,,,,,,,2,1.03,Denver Nuggets,free throw,,,,,,,2,,2,Iguodala,1,,foul,made,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=268
-,,,,,,,,,,2,0.44,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,Dunk,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=270
+,,,,,,,,,,2,0.44,Utah Jazz,shot,,,Faried,,,,,,,Williams,,,,missed,,Dunk,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=270
 ,,,,,,,,,,2,0.42,Utah Jazz,rebound,,,,,,,,,,Foye,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=271
 ,,,,,,,,,,2,0.39,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Jump Shot,,,45-48,4,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=272
 ,,,,,,,,,,2,0.38,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=273
-,,,,,,,,,,2,0.35,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=274
-,,,,,,,,,,2,0.18,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Jump Hook Shot,,,45-48,3,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=275
+,,,,,,,,,,2,0.35,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,Tinsley,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=274
+,,,,,,,,,,2,0.18,Utah Jazz,shot,,,McGee,,,,,,,Favors,,,,missed,,Jump Hook Shot,,,45-48,3,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=275
 ,,,,,,,,,,2,0.17,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=276
 ,,,,,,,,,,2,0.15,Utah Jazz,foul,,,,,,,,,,Tinsley,,,,,,clear path,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=277
 ,,,,,,,,,,2,0.15,Denver Nuggets,free throw,,,,,,,,,,Iguodala,,,foul,missed,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=279
 ,,,,,,,,,,2,0.15,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,45-48,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=280
 ,,,,,,,,,,2,0.15,Denver Nuggets,free throw,,,,,,,,,,Iguodala,1,,foul,made,,,,,45-49,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=281
 ,,,,,,,,,,2,0.15,Utah Jazz,substitute,,,,Evans,,Jefferson,,,,,,,,,,,,,45-49,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=283
-,,,,,,,,,,2,0.03,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Driving Layup,,,45-49,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=284
+,,,,,,,,,,2,0.03,Denver Nuggets,shot,,,Favors,,,,,,,Lawson,,,,missed,,Driving Layup,,,45-49,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=284
 ,,,,,,,,,,2,0.02,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,45-49,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=285
 ,,,,,,,,,,3,11.41,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,3PT Jump Shot,,,45-49,26,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=289
 ,,,,,,,,,,3,11.41,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,45-49,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=290
@@ -242,7 +242,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.01,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Fadeaway Jumper,,,45-51,15,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=296
 ,,,,,,,,,,3,11.00,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,45-51,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=297
 ,,,,,,,,,,3,10.45,Denver Nuggets,shot,,,,,,,,,,Gallinari,2,,,made,,Jump Shot,,,45-53,17,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=298
-,,,,,,,,,,3,10.43,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=299
+,,,,,,,,,,3,10.43,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Bad Pass,,Lawson,,,,45-53,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=299
 ,,,,,,,,,,3,10.39,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Layup,,,45-55,1,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=300
 ,,,,,,,,,,3,10.37,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,45-55,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=301
 ,,,,,,,,,,3,10.21,Utah Jazz,shot,Jefferson,,,,,,,,,Tinsley,2,,,made,,Jump Shot,,,47-55,16,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=305
@@ -255,12 +255,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.53,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,47-60,23,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=312
 ,,,,,,,,,,3,8.51,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,47-60,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=313
 ,,,,,,,,,,3,8.41,Utah Jazz,shot,Tinsley,,,,,,,,,Millsap,2,,,made,,Jump Shot,,,49-60,19,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=314
-,,,,,,,,,,3,8.23,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,49-60,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=315
+,,,,,,,,,,3,8.23,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,Millsap,,,,49-60,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=315
 ,,,,,,,,,,3,8.17,Utah Jazz,shot,Millsap,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,52-60,24,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=316
 ,,,,,,,,,,3,7.53,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,3PT Jump Shot,,,52-60,25,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=317
 ,,,,,,,,,,3,7.52,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,52-60,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=318
 ,,,,,,,,,,3,7.38,Utah Jazz,shot,Tinsley,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,55-60,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=319
-,,,,,,,,,,3,7.28,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Driving Layup,,,55-60,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=320
+,,,,,,,,,,3,7.28,Denver Nuggets,shot,,,Millsap,,,,,,,Lawson,,,,missed,,Driving Layup,,,55-60,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=320
 ,,,,,,,,,,3,7.27,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,55-60,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=321
 ,,,,,,,,,,3,7.13,Denver Nuggets,foul,,,,,,,,,,Gallinari,,,,,,Shooting,,,55-60,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=322
 ,,,,,,,,,,3,7.13,Utah Jazz,free throw,,,,,,,1,,2,Millsap,1,,foul,made,,,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=323
@@ -270,7 +270,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.54,Denver Nuggets,free throw,,,,,,,1,,2,Gallinari,1,,foul,made,,,,,56-61,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=329
 ,,,,,,,,,,3,6.54,Denver Nuggets,free throw,,,,,,,2,,2,Gallinari,1,,foul,made,,,,,56-62,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=331
 ,,,,,,,,,,3,6.42,Utah Jazz,turnover,,,,,,,,,,Foye,,,Bad Pass,,,,,,56-62,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=333
-,,,,,,,,,,3,6.35,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Jump Shot,,,56-62,14,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=334
+,,,,,,,,,,3,6.35,Denver Nuggets,shot,,,Millsap,,,,,,,Faried,,,,missed,,Jump Shot,,,56-62,14,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=334
 ,,,,,,,,,,3,6.34,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,56-62,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=335
 ,,,,,,,,,,3,6.30,Denver Nuggets,shot,Iguodala,,,,,,,,,Koufos,2,,,made,,Layup,,,56-64,3,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=337
 ,,,,,,,,,,3,6.19,Denver Nuggets,foul,,,,,,,,,,Faried,,,,,,Personal,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=338
@@ -287,7 +287,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.08,Utah Jazz,free throw,,,,,,,1,,2,Foye,1,,foul,made,,,,,59-69,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=352
 ,,,,,,,,,,3,5.08,Utah Jazz,substitute,,,,Watson,,Tinsley,,,,,,,,,,,,,59-69,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=354
 ,,,,,,,,,,3,5.08,Utah Jazz,free throw,,,,,,,2,,2,Foye,1,,foul,made,,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=355
-,,,,,,,,,,3,4.48,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=357
+,,,,,,,,,,3,4.48,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Watson,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=357
 ,,,,,,,,,,3,4.33,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Traveling,,,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=358
 ,,,,,,,,,,3,4.33,Utah Jazz,substitute,,,,Hayward,,Foye,,,,,,,,,,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=359
 ,,,,,,,,,,3,4.33,Denver Nuggets,substitute,,,,McGee,,Koufos,,,,,,,,,,,,,60-69,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=360
@@ -302,7 +302,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.42,Utah Jazz,substitute,,,,Favors,,Millsap,,,,,,,,,,,,,62-73,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=369
 ,,,,,,,,,,3,3.42,Denver Nuggets,substitute,,,,Brewer,,Iguodala,,,,,,,,,,,,,62-73,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=370
 ,,,,,,,,,,3,3.42,Denver Nuggets,free throw,,,,,,,1,,1,Lawson,1,,foul,made,,,,,62-74,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=371
-,,,,,,,,,,3,3.27,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,62-74,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=373
+,,,,,,,,,,3,3.27,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,McGee,,,,62-74,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=373
 ,,,,,,,,,,3,3.27,Utah Jazz,foul,,,,,,,,,,Carroll,,,,,,Personal,,,62-74,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=374
 ,,,,,,,,,,3,3.27,Denver Nuggets,free throw,,,,,,,1,,2,Gallinari,1,,foul,made,,,,,62-75,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=375
 ,,,,,,,,,,3,3.27,Denver Nuggets,substitute,,,,Miller,,Lawson,,,,,,,,,,,,,62-75,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=377
@@ -314,13 +314,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.51,Denver Nuggets,free throw,,,,,,,2,,2,Gallinari,1,,foul,made,,,,,64-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=389
 ,,,,,,,,,,3,2.35,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Running Jump Shot,,,64-78,9,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=391
 ,,,,,,,,,,3,2.34,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,64-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=392
-,,,,,,,,,,3,2.26,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,64-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=393
+,,,,,,,,,,3,2.26,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,Carroll,,,,64-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=393
 ,,,,,,,,,,3,2.25,Denver Nuggets,foul,,,,,,,,,,Miller,,,,,,Personal Block,,,64-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=394
 ,,,,,,,,,,3,2.25,Utah Jazz,free throw,,,,,,,1,,2,Carroll,1,,foul,made,,,,,65-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=395
 ,,,,,,,,,,3,2.25,Utah Jazz,free throw,,,,,,,2,,2,Carroll,1,,foul,made,,,,,66-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=397
-,,,,,,,,,,3,2.14,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,66-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=399
-,,,,,,,,,,3,2.09,Utah Jazz,turnover,,,,,,,,,,Watson,,,Bad Pass,,,,,,66-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=401
-,,,,,,,,,,3,2.08,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Bad Pass,,,,,,66-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=402
+,,,,,,,,,,3,2.14,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Favors,,,,66-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=399
+,,,,,,,,,,3,2.09,Utah Jazz,turnover,,,,,,,,,,Watson,,,Bad Pass,,Faried,,,,66-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=401
+,,,,,,,,,,3,2.08,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Bad Pass,,Watson,,,,66-78,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=402
 ,,,,,,,,,,3,2.06,Utah Jazz,shot,,,,,,,,,,Watson,2,,,made,,Layup,,,68-78,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=403
 ,,,,,,,,,,3,1.42,Denver Nuggets,shot,Miller,,,,,,,,,Gallinari,2,,,made,,Layup,,,68-80,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=404
 ,,,,,,,,,,3,1.32,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Jump Shot,,,68-80,16,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=405
@@ -330,13 +330,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.56,Denver Nuggets,foul,,,,,,,,,,McGee,,,,,,Personal,,,68-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=409
 ,,,,,,,,,,3,0.56,Utah Jazz,free throw,,,,,,,1,,2,Jefferson,1,,foul,made,,,,,69-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=410
 ,,,,,,,,,,3,0.56,Utah Jazz,free throw,,,,,,,2,,2,Jefferson,1,,foul,made,,,,,70-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=412
-,,,,,,,,,,3,0.40,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,70-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=414
-,,,,,,,,,,3,0.35,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Layup,,,70-80,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=415
+,,,,,,,,,,3,0.40,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Carroll,,,,70-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=414
+,,,,,,,,,,3,0.35,Utah Jazz,shot,,,Brewer,,,,,,,Jefferson,,,,missed,,Layup,,,70-80,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=415
 ,,,,,,,,,,3,0.34,Utah Jazz,rebound,,,,,,,,,,Carroll,,,,,,,,,70-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=416
 ,,,,,,,,,,3,0.34,Denver Nuggets,foul,,,,,,,,,,Gallinari,,,,,,Personal,,,70-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=417
 ,,,,,,,,,,3,0.34,Utah Jazz,free throw,,,,,,,1,,2,Carroll,1,,foul,made,,,,,71-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=418
 ,,,,,,,,,,3,0.34,Utah Jazz,free throw,,,,,,,2,,2,Carroll,1,,foul,made,,,,,72-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=420
-,,,,,,,,,,3,0.21,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,72-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=422
+,,,,,,,,,,3,0.21,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Favors,,,,72-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=422
 ,,,,,,,,,,3,0.18,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Offensive Goaltending,,,,,,72-80,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=424
 ,,,,,,,,,,3,0.01,Denver Nuggets,shot,Gallinari,,,,,,,,,Miller,3,,,made,,3PT Jump Shot,,,72-83,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=425
 ,,,,,,,,,,3,0.00,Utah Jazz,shot,,,,,,,,,,Carroll,,,,missed,,3PT Running Jump Shot,,,72-83,49,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=426
@@ -344,7 +344,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.53,Utah Jazz,foul,,,,,,,,,,Favors,,,,,,Shooting,,,72-83,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=431
 ,,,,,,,,,,4,11.53,Denver Nuggets,free throw,,,,,,,1,,2,Iguodala,1,,foul,made,,,,,72-84,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=432
 ,,,,,,,,,,4,11.53,Denver Nuggets,free throw,,,,,,,2,,2,Iguodala,1,,foul,made,,,,,72-85,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=434
-,,,,,,,,,,4,11.39,Utah Jazz,turnover,,,,,,,,,,Carroll,,,Bad Pass,,,,,,72-85,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=436
+,,,,,,,,,,4,11.39,Utah Jazz,turnover,,,,,,,,,,Carroll,,,Bad Pass,,Miller,,,,72-85,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=436
 ,,,,,,,,,,4,11.39,Utah Jazz,foul,,,,,,,,,,Carroll,,,,,,Personal,,,72-85,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=437
 ,,,,,,,,,,4,11.24,Denver Nuggets,shot,,,,,,,,,,Miller,2,,,made,,Jump Bank Shot,,,72-87,10,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=438
 ,,,,,,,,,,4,11.01,Utah Jazz,shot,Watson,,,,,,,,,Hayward,3,,,made,,3PT Jump Shot,,,75-87,25,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=439
@@ -358,11 +358,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.06,Denver Nuggets,free throw,,,,,,,2,,2,Miller,1,,foul,made,,,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=448
 ,,,,,,,,,,4,9.51,Denver Nuggets,foul,,,,,,,,,,Koufos,,,,,,Personal,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=450
 ,,,,,,,,,,4,9.44,Denver Nuggets,violation,,,,,,,,,,McGee,,,Kicked Ball,,,,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=451
-,,,,,,,,,,4,9.39,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Layup,,,75-89,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=452
+,,,,,,,,,,4,9.39,Utah Jazz,shot,,,Koufos,,,,,,,Favors,,,,missed,,Layup,,,75-89,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=452
 ,,,,,,,,,,4,9.38,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=453
 ,,,,,,,,,,4,9.38,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Personal,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=454
 ,,,,,,,,,,4,9.24,Denver Nuggets,shot,,,,,,,,,,Miller,2,,,made,,Jump Shot,,,75-91,16,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=455
-,,,,,,,,,,4,9.04,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Running Jump Shot,,,75-91,9,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=456
+,,,,,,,,,,4,9.04,Utah Jazz,shot,,,Koufos,,,,,,,Millsap,,,,missed,,Running Jump Shot,,,75-91,9,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=456
 ,,,,,,,,,,4,9.04,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,75-91,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=457
 ,,,,,,,,,,4,9.04,Utah Jazz,substitute,,,,Foye,,Watson,,,,,,,,,,,,,75-91,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=462
 ,,,,,,,,,,4,8.54,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Jump Shot,,,75-91,17,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=463
@@ -396,15 +396,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.28,Denver Nuggets,free throw,,,,,,,2,,2,McGee,1,,foul,made,,,,,78-102,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=500
 ,,,,,,,,,,4,6.12,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,78-102,16,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=502
 ,,,,,,,,,,4,6.10,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,78-102,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=503
-,,,,,,,,,,4,6.04,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,78-102,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=504
+,,,,,,,,,,4,6.04,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Hayward,,,,78-102,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=504
 ,,,,,,,,,,4,6.02,Utah Jazz,shot,,,,,,,,,,Hayward,2,,,made,,Layup,,,80-102,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=505
 ,,,,,,,,,,4,6.02,Denver Nuggets,foul,,,,,,,,,,Fournier,,,,,,Shooting,,,80-102,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=506
 ,,,,,,,,,,4,6.02,Denver Nuggets,substitute,,,,Mozgov,,McGee,,,,,,,,,,,,,80-102,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=507
 ,,,,,,,,,,4,6.02,Denver Nuggets,substitute,,,,Hamilton,,Iguodala,,,,,,,,,,,,,80-102,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=508
 ,,,,,,,,,,4,6.02,Utah Jazz,free throw,,,,,,,1,,1,Hayward,1,,foul,made,,,,,81-102,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=509
 ,,,,,,,,,,4,5.45,Denver Nuggets,shot,,,,,,,,,,Fournier,2,,,made,,Driving Layup,,,81-104,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=511
-,,,,,,,,,,4,5.40,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,,,,,81-104,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=512
-,,,,,,,,,,4,5.31,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,81-104,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=513
+,,,,,,,,,,4,5.40,Utah Jazz,turnover,,,,,,,,,,Hayward,,,Bad Pass,,Koufos,,,,81-104,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=512
+,,,,,,,,,,4,5.31,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Hayward,,,,81-104,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=513
 ,,,,,,,,,,4,5.27,Utah Jazz,turnover,,,,,,,,,,Foye,,,Bad Pass,,,,,,81-104,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=514
 ,,,,,,,,,,4,5.27,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,81-104,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=515
 ,,,,,,,,,,4,5.27,Utah Jazz,substitute,,,,Favors,,Millsap,,,,,,,,,,,,,81-104,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=517
@@ -470,6 +470,6 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.43,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,88-110,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=590
 ,,,,,,,,,,4,0.43,Utah Jazz,free throw,,,,,,,2,,2,Burks,1,,foul,made,,,,,89-110,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=591
 ,,,,,,,,,,4,0.33,Denver Nuggets,turnover,,,,,,,,,,Stone,,,Traveling,,,,,,89-110,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=593
-,,,,,,,,,,4,0.22,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Layup,,,89-110,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=594
+,,,,,,,,,,4,0.22,Utah Jazz,shot,,,Mozgov,,,,,,,Foye,,,,missed,,Layup,,,89-110,2,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=594
 ,,,,,,,,,,4,0.21,Utah Jazz,rebound,,,,,,,,,,Burks,,,,,,,,,89-110,,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=596
 ,,,,,,,,,,4,0.21,Utah Jazz,shot,,,,,,,,,,Burks,2,,,made,,Tip Shot,,,91-110,1,http://stats.nba.com/cvp.html?GameID=0021200497&GameEventID=595

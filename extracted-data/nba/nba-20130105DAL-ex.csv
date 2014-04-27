@@ -2,8 +2,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.41,New Orleans Hornets,shot,Gordon,,,,,,,,,Davis,2,,,made,,Jump Shot,,,2-0,15,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=2
 ,,,,,,,,,,1,11.14,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Running Jump Shot,,,2-0,13,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=3
 ,,,,,,,,,,1,11.13,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=4
-,,,,,,,,,,1,11.02,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=6
-,,,,,,,,,,1,10.50,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Bad Pass,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=7
+,,,,,,,,,,1,11.02,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,Lopez,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=6
+,,,,,,,,,,1,10.50,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Bad Pass,,Nowitzki,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=7
 ,,,,,,,,,,1,10.38,New Orleans Hornets,foul,,,,,,,,,,Davis,,,,,,Shooting,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=8
 ,,,,,,,,,,1,10.38,Dallas Mavericks,free throw,,,,,,,1,,2,Nowitzki,1,,foul,made,,,,,2-1,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=9
 ,,,,,,,,,,1,10.38,Dallas Mavericks,free throw,,,,,,,2,,2,Nowitzki,1,,foul,made,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=11
@@ -25,7 +25,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.17,New Orleans Hornets,shot,Vasquez,,,,,,,,,Aminu,2,,,made,,Floating Jump Shot,,,6-4,10,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=28
 ,,,,,,,,,,1,8.01,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=29
 ,,,,,,,,,,1,8.00,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=30
-,,,,,,,,,,1,7.57,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=31
+,,,,,,,,,,1,7.57,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,Mayo,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=31
 ,,,,,,,,,,1,7.52,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Layup,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=32
 ,,,,,,,,,,1,7.50,New Orleans Hornets,rebound,,,,,,,,,,Vasquez,,,,,,,,,6-4,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=33
 ,,,,,,,,,,1,7.40,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,6-4,24,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=34
@@ -56,7 +56,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.07,Dallas Mavericks,free throw,,,,,,,1,,1,Mayo,1,,foul,made,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=68
 ,,,,,,,,,,1,4.46,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,17-15,24,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=70
 ,,,,,,,,,,1,4.45,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=71
-,,,,,,,,,,1,4.32,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Jump Shot,,,17-15,4,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=72
+,,,,,,,,,,1,4.32,Dallas Mavericks,shot,,,Gordon,,,,,,,Marion,,,,missed,,Jump Shot,,,17-15,4,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=72
 ,,,,,,,,,,1,4.31,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=73
 ,,,,,,,,,,1,4.17,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,Jump Shot,,,17-15,17,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=74
 ,,,,,,,,,,1,4.16,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=75
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.53,New Orleans Hornets,substitute,,,,Rivers,,Lopez,,,,,,,,,,,,,18-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=81
 ,,,,,,,,,,1,3.53,New Orleans Hornets,substitute,,,,Smith,,Gordon,,,,,,,,,,,,,18-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=82
 ,,,,,,,,,,1,3.53,New Orleans Hornets,free throw,,,,,,,2,,2,Aminu,1,,foul,made,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=83
-,,,,,,,,,,1,3.43,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=85
+,,,,,,,,,,1,3.43,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Aminu,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=85
 ,,,,,,,,,,1,3.33,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,Fadeaway Jumper,,,19-17,18,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=86
 ,,,,,,,,,,1,3.32,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=87
 ,,,,,,,,,,1,3.08,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Jump Shot,,,19-17,4,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=88
@@ -76,7 +76,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.04,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=92
 ,,,,,,,,,,1,3.04,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Tip Shot,,,19-17,2,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=91
 ,,,,,,,,,,1,3.03,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=93
-,,,,,,,,,,1,2.59,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Lost Ball,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=94
+,,,,,,,,,,1,2.59,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Lost Ball,,Rivers,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=94
 ,,,,,,,,,,1,2.44,New Orleans Hornets,shot,,,,,,,,,,Rivers,,,,missed,,3PT Jump Shot,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=95
 ,,,,,,,,,,1,2.43,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=96
 ,,,,,,,,,,1,2.43,New Orleans Hornets,timeout,,,,,,,,,,,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=98
@@ -84,10 +84,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.43,Dallas Mavericks,substitute,,,,Nowitzki,,Kaman,,,,,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=100
 ,,,,,,,,,,1,2.43,Dallas Mavericks,substitute,,,,Brand,,Collison,,,,,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=101
 ,,,,,,,,,,1,2.43,New Orleans Hornets,substitute,,,,Thomas,,Aminu,,,,,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=102
-,,,,,,,,,,1,2.29,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,Driving Jump Shot,,,19-17,5,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=103
+,,,,,,,,,,1,2.29,New Orleans Hornets,shot,,,Carter,,,,,,,Roberts,,,,missed,,Driving Jump Shot,,,19-17,5,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=103
 ,,,,,,,,,,1,2.27,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=104
 ,,,,,,,,,,1,2.16,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Jump Bank Shot,,,19-19,14,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=105
-,,,,,,,,,,1,2.07,New Orleans Hornets,shot,,,,,,,,,,Rivers,,,,missed,,Jump Shot,,,19-19,6,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=106
+,,,,,,,,,,1,2.07,New Orleans Hornets,shot,,,Carter,,,,,,,Rivers,,,,missed,,Jump Shot,,,19-19,6,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=106
 ,,,,,,,,,,1,2.02,New Orleans Hornets,rebound,,,,,,,,,,Rivers,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=107
 ,,,,,,,,,,1,1.59,New Orleans Hornets,shot,Rivers,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,22-19,25,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=108
 ,,,,,,,,,,1,1.45,New Orleans Hornets,violation,,,,,,,,,,Anderson,,,Kicked Ball,,,,,,22-19,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=109
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.23,New Orleans Hornets,free throw,,,,,,,1,,1,Roberts,1,,foul,made,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=114
 ,,,,,,,,,,1,1.03,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Jump Shot,,,25-19,18,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=116
 ,,,,,,,,,,1,1.02,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=117
-,,,,,,,,,,1,0.50,New Orleans Hornets,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=118
+,,,,,,,,,,1,0.50,New Orleans Hornets,turnover,,,,,,,,,,Smith,,,Lost Ball,,Carter,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=118
 ,,,,,,,,,,1,0.47,Dallas Mavericks,shot,Beaubois,,,,,,,,,Nowitzki,2,,,made,,Running Layup,,,25-21,2,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=119
 ,,,,,,,,,,1,0.33,New Orleans Hornets,turnover,,,,,,,,,,Roberts,,,Bad Pass,,,,,,25-21,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=120
 ,,,,,,,,,,1,0.12,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,2,,,made,,Step Back Jump Shot,,,25-23,14,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=121
@@ -108,7 +108,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.48,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,25-23,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=128
 ,,,,,,,,,,2,11.36,Dallas Mavericks,shot,Nowitzki,,,,,,,,,Crowder,3,,,made,,3PT Jump Shot,,,25-26,24,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=129
 ,,,,,,,,,,2,11.20,Dallas Mavericks,foul,,,,,,,,,,Brand,,,,,,Personal,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=130
-,,,,,,,,,,2,11.05,New Orleans Hornets,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,25-26,17,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=133
+,,,,,,,,,,2,11.05,New Orleans Hornets,shot,,,Brand,,,,,,,Smith,,,,missed,,Jump Shot,,,25-26,17,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=133
 ,,,,,,,,,,2,11.05,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=134
 ,,,,,,,,,,2,11.05,New Orleans Hornets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=135
 ,,,,,,,,,,2,10.43,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,2,,,made,,Jump Shot,,,25-28,18,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=136
@@ -141,10 +141,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.05,Dallas Mavericks,shot,Marion,,,,,,,,,Brand,2,,,made,,Jump Shot,,,32-36,17,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=166
 ,,,,,,,,,,2,6.43,New Orleans Hornets,shot,,,,,,,,,,Mason Jr.,,,,missed,,3PT Jump Shot,,,32-36,24,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=167
 ,,,,,,,,,,2,6.42,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=168
-,,,,,,,,,,2,6.34,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=169
-,,,,,,,,,,2,6.26,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Lost Ball,,,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=170
+,,,,,,,,,,2,6.34,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,Gordon,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=169
+,,,,,,,,,,2,6.26,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Lost Ball,,Collison,,,,32-36,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=170
 ,,,,,,,,,,2,6.21,Dallas Mavericks,shot,Collison,,,,,,,,,Marion,2,,,made,,Driving Layup,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=171
-,,,,,,,,,,2,5.53,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,Driving Layup,,,32-38,3,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=172
+,,,,,,,,,,2,5.53,New Orleans Hornets,shot,,,Brand,,,,,,,Gordon,,,,missed,,Driving Layup,,,32-38,3,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=172
 ,,,,,,,,,,2,5.51,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=173
 ,,,,,,,,,,2,5.44,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,Jump Shot,,,32-38,7,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=174
 ,,,,,,,,,,2,5.43,New Orleans Hornets,rebound,,,,,,,,,,Gordon,,,,,,,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=175
@@ -156,7 +156,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.43,New Orleans Hornets,substitute,,,,Vasquez,,Mason Jr.,,,,,,,,,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=182
 ,,,,,,,,,,2,4.32,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,34-40,24,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=183
 ,,,,,,,,,,2,4.31,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=184
-,,,,,,,,,,2,4.28,New Orleans Hornets,turnover,,,,,,,,,,Aminu,,,Lost Ball,,,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=185
+,,,,,,,,,,2,4.28,New Orleans Hornets,turnover,,,,,,,,,,Aminu,,,Lost Ball,,Carter,,,,34-40,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=185
 ,,,,,,,,,,2,4.20,Dallas Mavericks,shot,Carter,,,,,,,,,Marion,2,,,made,,Dunk,,,34-42,1,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=186
 ,,,,,,,,,,2,3.58,New Orleans Hornets,shot,Anderson,,,,,,,,,Vasquez,2,,,made,,Running Layup,,,36-42,1,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=187
 ,,,,,,,,,,2,3.34,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Step Back Jump Shot,,,36-42,13,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=188
@@ -171,7 +171,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.42,Dallas Mavericks,substitute,,,,Kaman,,Carter,,,,,,,,,,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=198
 ,,,,,,,,,,2,2.42,Dallas Mavericks,substitute,,,,Nowitzki,,Brand,,,,,,,,,,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=199
 ,,,,,,,,,,2,2.42,New Orleans Hornets,substitute,,,,Davis,,Anderson,,,,,,,,,,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=200
-,,,,,,,,,,2,2.27,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Bad Pass,,,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=201
+,,,,,,,,,,2,2.27,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Bad Pass,,Aminu,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=201
 ,,,,,,,,,,2,2.09,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Personal,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=202
 ,,,,,,,,,,2,2.09,Dallas Mavericks,substitute,,,,Carter,,Mayo,,,,,,,,,,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=203
 ,,,,,,,,,,2,1.54,New Orleans Hornets,shot,,,,,,,,,,Aminu,,,,missed,,Jump Shot,,,36-42,20,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=204
@@ -186,9 +186,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.02,Dallas Mavericks,foul,,,,,,,,,,Carter,,,,,,Shooting,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=215
 ,,,,,,,,,,2,1.02,New Orleans Hornets,free throw,,,,,,,1,,2,Gordon,1,,foul,made,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=216
 ,,,,,,,,,,2,1.02,New Orleans Hornets,free throw,,,,,,,2,,2,Gordon,1,,foul,made,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=218
-,,,,,,,,,,2,0.41,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,40-45,17,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=220
+,,,,,,,,,,2,0.41,Dallas Mavericks,shot,,,Gordon,,,,,,,Jones,,,,missed,,Jump Shot,,,40-45,17,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=220
 ,,,,,,,,,,2,0.41,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=221
-,,,,,,,,,,2,0.29,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,Driving Jump Shot,,,40-45,6,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=222
+,,,,,,,,,,2,0.29,New Orleans Hornets,shot,,,Kaman,,,,,,,Gordon,,,,missed,,Driving Jump Shot,,,40-45,6,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=222
 ,,,,,,,,,,2,0.29,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=223
 ,,,,,,,,,,2,0.13,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Running Jump Shot,,,40-47,10,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=224
 ,,,,,,,,,,2,0.02,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Shot,,,40-47,17,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=225
@@ -236,9 +236,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.03,Dallas Mavericks,shot,Kaman,,,,,,,,,Collison,2,,,made,,Driving Finger Roll Layup,,,49-60,2,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=275
 ,,,,,,,,,,3,5.49,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Personal,,,49-60,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=276
 ,,,,,,,,,,3,5.49,New Orleans Hornets,substitute,,,,Rivers,,Gordon,,,,,,,,,,,,,49-60,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=277
-,,,,,,,,,,3,5.42,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Dunk,,,49-60,2,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=278
+,,,,,,,,,,3,5.42,New Orleans Hornets,shot,,,Kaman,,,,,,,Lopez,,,,missed,,Dunk,,,49-60,2,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=278
 ,,,,,,,,,,3,5.40,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,49-60,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=279
-,,,,,,,,,,3,5.39,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,,,,,49-60,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=280
+,,,,,,,,,,3,5.39,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,Vasquez,,,,49-60,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=280
 ,,,,,,,,,,3,5.14,New Orleans Hornets,shot,Aminu,,,,,,,,,Rivers,2,,,made,,Jump Shot,,,51-60,23,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=282
 ,,,,,,,,,,3,4.41,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Step Back Jump Shot,,,51-60,23,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=283
 ,,,,,,,,,,3,4.40,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=284
@@ -298,7 +298,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.55,Dallas Mavericks,foul,,,,,,,,,,Brand,,,,,,Loose ball,,,74-69,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=348
 ,,,,,,,,,,4,8.55,Dallas Mavericks,substitute,,,,Marion,,Jones,,,,,,,,,,,,,74-69,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=349
 ,,,,,,,,,,4,8.55,Dallas Mavericks,substitute,,,,Carter,,Nowitzki,,,,,,,,,,,,,74-69,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=350
-,,,,,,,,,,4,8.44,New Orleans Hornets,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,74-69,14,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=351
+,,,,,,,,,,4,8.44,New Orleans Hornets,shot,,,Brand,,,,,,,Smith,,,,missed,,Jump Shot,,,74-69,14,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=351
 ,,,,,,,,,,4,8.44,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,74-69,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=353
 ,,,,,,,,,,4,8.44,Dallas Mavericks,jumpball,,Smith,,,Brand,,,,,,,,,,,,,,74-69,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=352
 ,,,,,,,,,,4,8.33,Dallas Mavericks,shot,,,,,,,,,,Beaubois,2,,,made,,Driving Jump Shot,,,74-71,6,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=354
@@ -306,7 +306,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.12,Dallas Mavericks,rebound,,,,,,,,,,Beaubois,,,,,,,,,74-71,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=356
 ,,,,,,,,,,4,8.04,Dallas Mavericks,shot,,,,,,,,,,Beaubois,,,,missed,,Pullup Jump Shot,,,74-71,14,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=357
 ,,,,,,,,,,4,8.03,New Orleans Hornets,rebound,,,,,,,,,,Smith,,,,,,,,,74-71,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=358
-,,,,,,,,,,4,7.51,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,Driving Jump Shot,,,74-71,5,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=359
+,,,,,,,,,,4,7.51,New Orleans Hornets,shot,,,Brand,,,,,,,Anderson,,,,missed,,Driving Jump Shot,,,74-71,5,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=359
 ,,,,,,,,,,4,7.50,New Orleans Hornets,rebound,,,,,,,,,,Smith,,,,,,,,,74-71,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=360
 ,,,,,,,,,,4,7.50,Dallas Mavericks,foul,,,,,,,,,,Beaubois,,,,,,Personal,,,74-71,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=361
 ,,,,,,,,,,4,7.50,New Orleans Hornets,substitute,,,,Aminu,,Thomas,,,,,,,,,,,,,74-71,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=362
@@ -324,7 +324,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.43,Dallas Mavericks,shot,Collison,,,,,,,,,Mayo,2,,,made,,Driving Layup,,,81-79,1,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=375
 ,,,,,,,,,,4,5.43,New Orleans Hornets,timeout,,,,,,,,,,,,,,,,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=376
 ,,,,,,,,,,4,5.43,New Orleans Hornets,substitute,,,,Lopez,,Smith,,,,,,,,,,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=379
-,,,,,,,,,,4,5.27,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,Jump Shot,,,81-79,8,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=380
+,,,,,,,,,,4,5.27,New Orleans Hornets,shot,,,Brand,,,,,,,Gordon,,,,missed,,Jump Shot,,,81-79,8,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=380
 ,,,,,,,,,,4,5.26,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,81-79,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=381
 ,,,,,,,,,,4,5.23,Dallas Mavericks,shot,Marion,,,,,,,,,Mayo,2,,,made,,Running Finger Roll Layup,,,81-81,1,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=382
 ,,,,,,,,,,4,5.01,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,81-81,24,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=383
@@ -350,7 +350,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.06,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=407
 ,,,,,,,,,,4,1.53,New Orleans Hornets,shot,,,,,,,,,,Vasquez,,,,missed,,Driving Jump Shot,,,84-86,10,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=408
 ,,,,,,,,,,4,1.52,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=409
-,,,,,,,,,,4,1.41,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=410
+,,,,,,,,,,4,1.41,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Aminu,,,,84-86,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=410
 ,,,,,,,,,,4,1.36,New Orleans Hornets,shot,,,,,,,,,,Vasquez,3,,,made,,3PT Pullup Jump Shot,,,87-86,24,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=411
 ,,,,,,,,,,4,1.22,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,87-86,24,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=412
 ,,,,,,,,,,4,1.21,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,87-86,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=413
@@ -379,13 +379,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,4.23,Dallas Mavericks,shot,Carter,,,,,,,,,Mayo,3,,,made,,3PT Jump Shot,,,91-92,25,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=444
 ,,,,,,,,,,5,3.58,New Orleans Hornets,shot,,,,,,,,,,Vasquez,,,,missed,,3PT Jump Shot,,,91-92,27,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=445
 ,,,,,,,,,,5,3.57,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,91-92,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=446
-,,,,,,,,,,5,3.41,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Driving Layup,,,91-92,3,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=447
+,,,,,,,,,,5,3.41,Dallas Mavericks,shot,,,Aminu,,,,,,,Carter,,,,missed,,Driving Layup,,,91-92,3,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=447
 ,,,,,,,,,,5,3.41,New Orleans Hornets,rebound,,,,,,,,,,Smith,,,,,,,,,91-92,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=448
 ,,,,,,,,,,5,3.41,Dallas Mavericks,foul,,,,,,,,,,Marion,,,,,,Loose ball,,,91-92,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=449
-,,,,,,,,,,5,3.20,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Bad Pass,,,,,,91-92,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=450
+,,,,,,,,,,5,3.20,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Bad Pass,,Mayo,,,,91-92,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=450
 ,,,,,,,,,,5,3.07,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Fadeaway Jumper,,,91-92,16,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=451
 ,,,,,,,,,,5,3.07,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,91-92,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=452
-,,,,,,,,,,5,2.57,New Orleans Hornets,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,91-92,1,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=453
+,,,,,,,,,,5,2.57,New Orleans Hornets,shot,,,Mayo,,,,,,,Smith,,,,missed,,Layup,,,91-92,1,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=453
 ,,,,,,,,,,5,2.54,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,91-92,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=454
 ,,,,,,,,,,5,2.38,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,91-92,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=455
 ,,,,,,,,,,5,2.37,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,91-92,,http://stats.nba.com/cvp.html?GameID=0021200495&GameEventID=456

@@ -19,7 +19,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.01,New Orleans Hornets,foul,,,,,,,,,,Lopez,,,,,,Personal,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=23
 ,,,,,,,,,,1,8.51,San Antonio Spurs,foul,,,,,,,,,,Leonard,,,,,,Offensive Charge,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=25
 ,,,,,,,,,,1,8.51,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Foul,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=26
-,,,,,,,,,,1,8.34,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Bad Pass,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=27
+,,,,,,,,,,1,8.34,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Bad Pass,,Leonard,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=27
 ,,,,,,,,,,1,8.28,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Layup,,,10-6,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=28
 ,,,,,,,,,,1,8.19,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,10-6,21,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=29
 ,,,,,,,,,,1,8.18,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=30
@@ -102,10 +102,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.09,New Orleans Hornets,turnover,,,,,,,,,,Smith,,,Foul,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=130
 ,,,,,,,,,,2,10.57,San Antonio Spurs,shot,,,,,,,,,,Bonner,,,,missed,,Jump Shot,,,30-33,5,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=132
 ,,,,,,,,,,2,10.56,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=133
-,,,,,,,,,,2,10.46,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,30-33,6,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=134
+,,,,,,,,,,2,10.46,New Orleans Hornets,shot,,,Bonner,,,,,,,Anderson,,,,missed,,Jump Shot,,,30-33,6,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=134
 ,,,,,,,,,,2,10.44,San Antonio Spurs,rebound,,,,,,,,,,Neal,,,,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=135
 ,,,,,,,,,,2,10.40,San Antonio Spurs,shot,Neal,,,,,,,,,Green,2,,,made,,Jump Shot,,,32-33,16,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=136
-,,,,,,,,,,2,10.14,New Orleans Hornets,shot,,,,,,,,,,Mason Jr.,,,,missed,,Jump Shot,,,32-33,8,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=137
+,,,,,,,,,,2,10.14,New Orleans Hornets,shot,,,Green,,,,,,,Mason Jr.,,,,missed,,Jump Shot,,,32-33,8,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=137
 ,,,,,,,,,,2,10.14,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,32-33,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=138
 ,,,,,,,,,,2,10.14,New Orleans Hornets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,32-33,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=139
 ,,,,,,,,,,2,10.00,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,Jump Shot,,,32-33,21,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=140
@@ -139,7 +139,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.59,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=174
 ,,,,,,,,,,2,7.47,New Orleans Hornets,shot,,,,,,,,,,Vasquez,,,,missed,,3PT Jump Shot,,,33-37,25,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=175
 ,,,,,,,,,,2,7.46,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=176
-,,,,,,,,,,2,7.36,San Antonio Spurs,turnover,,,,,,,,,,Bonner,,,Bad Pass,,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=177
+,,,,,,,,,,2,7.36,San Antonio Spurs,turnover,,,,,,,,,,Bonner,,,Bad Pass,,Smith,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=177
 ,,,,,,,,,,2,7.29,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,33-37,24,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=178
 ,,,,,,,,,,2,7.28,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=179
 ,,,,,,,,,,2,7.14,New Orleans Hornets,foul,,,,,,,,,,,,,,,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=180
@@ -161,7 +161,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.01,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,35-42,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=199
 ,,,,,,,,,,2,5.51,New Orleans Hornets,foul,,,,,,,,,,,,,,,,,,,35-42,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=202
 ,,,,,,,,,,2,5.51,New Orleans Hornets,turnover,,,,,,,,,,Miller,,,Foul,,,,,,35-42,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=203
-,,,,,,,,,,2,5.33,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,,,,,35-42,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=208
+,,,,,,,,,,2,5.33,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,Miller,,,,35-42,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=208
 ,,,,,,,,,,2,5.27,New Orleans Hornets,shot,Vasquez,,,,,,,,,Aminu,2,,,made,,Alley Oop Dunk,,,35-44,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=209
 ,,,,,,,,,,2,5.09,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Layup,,,35-44,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=210
 ,,,,,,,,,,2,5.08,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,35-44,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=211
@@ -180,10 +180,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.48,New Orleans Hornets,substitute,,,,Davis,,Anderson,,,,,,,,,,,,,37-46,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=226
 ,,,,,,,,,,2,3.48,San Antonio Spurs,free throw,,,,,,,1,,1,Parker,1,,foul,made,,,,,38-46,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=227
 ,,,,,,,,,,2,3.32,New Orleans Hornets,shot,Lopez,,,,,,,,,Aminu,2,,,made,,Dunk,,,38-48,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=230
-,,,,,,,,,,2,3.13,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Jump Shot,,,38-48,6,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=231
+,,,,,,,,,,2,3.13,San Antonio Spurs,shot,,,Lopez,,,,,,,Leonard,,,,missed,,Jump Shot,,,38-48,6,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=231
 ,,,,,,,,,,2,3.11,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=232
-,,,,,,,,,,2,3.01,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=233
-,,,,,,,,,,2,2.56,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Layup,,,38-48,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=234
+,,,,,,,,,,2,3.01,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,Diaw,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=233
+,,,,,,,,,,2,2.56,San Antonio Spurs,shot,,,Davis,,,,,,,Leonard,,,,missed,,Layup,,,38-48,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=234
 ,,,,,,,,,,2,2.54,San Antonio Spurs,rebound,,,,,,,,,,Neal,,,,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=235
 ,,,,,,,,,,2,2.36,San Antonio Spurs,turnover,,,,,,,,,,,,,Shot Clock,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=236
 ,,,,,,,,,,2,2.36,New Orleans Hornets,timeout,,,,,,,,,,,,,,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=237
@@ -193,13 +193,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.05,New Orleans Hornets,rebound,,,,,,,,,,Vasquez,,,,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=242
 ,,,,,,,,,,2,1.57,New Orleans Hornets,turnover,,,,,,,,,,Aminu Out of Bounds,,,Lost Ball,,,,,,38-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=243
 ,,,,,,,,,,2,1.44,San Antonio Spurs,shot,Parker,,,,,,,,,Jackson,2,,,made,,Layup,,,40-48,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=244
-,,,,,,,,,,2,1.23,New Orleans Hornets,turnover,,,,,,,,,,Aminu,,,Lost Ball,,,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=245
+,,,,,,,,,,2,1.23,New Orleans Hornets,turnover,,,,,,,,,,Aminu,,,Lost Ball,,Jackson,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=245
 ,,,,,,,,,,2,1.09,San Antonio Spurs,shot,,,,,,,,,,Neal,,,,missed,,3PT Jump Shot,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=246
 ,,,,,,,,,,2,1.08,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=247
 ,,,,,,,,,,2,0.52,San Antonio Spurs,foul,,,,,,,,,,Parker,,,,,,Personal,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=248
-,,,,,,,,,,2,0.40,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,40-48,8,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=250
+,,,,,,,,,,2,0.40,New Orleans Hornets,shot,,,Duncan,,,,,,,Davis,,,,missed,,Jump Shot,,,40-48,8,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=250
 ,,,,,,,,,,2,0.39,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=251
-,,,,,,,,,,2,0.38,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Shot,,,40-48,13,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=252
+,,,,,,,,,,2,0.38,New Orleans Hornets,shot,,,Diaw,,,,,,,Lopez,,,,missed,,Jump Shot,,,40-48,13,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=252
 ,,,,,,,,,,2,0.38,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=253
 ,,,,,,,,,,2,0.38,New Orleans Hornets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=254
 ,,,,,,,,,,2,0.30,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,40-48,17,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=255
@@ -209,11 +209,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.09,San Antonio Spurs,substitute,,,,Bonner,,Diaw,,,,,,,,,,,,,40-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=259
 ,,,,,,,,,,2,0.09,New Orleans Hornets,substitute,,,,Roberts,,Vasquez,,,,,,,,,,,,,40-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=260
 ,,,,,,,,,,2,0.00,San Antonio Spurs,shot,Parker,,,,,,,,,Bonner,3,,,made,,3PT Jump Shot,,,43-50,26,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=261
-,,,,,,,,,,3,11.49,New Orleans Hornets,shot,,,,,,,,,,Rivers,,,,missed,,Layup,,,43-50,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=265
+,,,,,,,,,,3,11.49,New Orleans Hornets,shot,,,Duncan,,,,,,,Rivers,,,,missed,,Layup,,,43-50,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=265
 ,,,,,,,,,,3,11.47,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,43-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=266
 ,,,,,,,,,,3,11.36,San Antonio Spurs,shot,Parker,,,,,,,,,Diaw,2,,,made,,Driving Reverse Layup,,,45-50,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=267
-,,,,,,,,,,3,11.12,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=268
-,,,,,,,,,,3,11.09,San Antonio Spurs,turnover,,,,,,,,,,Diaw Poss,,,Lost Ball,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=269
+,,,,,,,,,,3,11.12,New Orleans Hornets,turnover,,,,,,,,,,Vasquez,,,Bad Pass,,Diaw,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=268
+,,,,,,,,,,3,11.09,San Antonio Spurs,turnover,,,,,,,,,,Diaw Poss,,,Lost Ball,,Davis,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=269
 ,,,,,,,,,,3,11.08,New Orleans Hornets,timeout,,,,,,,,,,,,,,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=270
 ,,,,,,,,,,3,10.54,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,45-50,6,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=272
 ,,,,,,,,,,3,10.52,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,45-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=273
@@ -224,7 +224,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.27,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Hook Shot,,,46-50,7,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=280
 ,,,,,,,,,,3,10.25,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=281
 ,,,,,,,,,,3,10.22,New Orleans Hornets,foul,,,,,,,,,,Vasquez,,,,,,Personal,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=282
-,,,,,,,,,,3,10.14,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=283
+,,,,,,,,,,3,10.14,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,Aminu,,,,46-50,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=283
 ,,,,,,,,,,3,10.11,New Orleans Hornets,shot,,,,,,,,,,Aminu,2,,,made,,Dunk,,,46-52,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=284
 ,,,,,,,,,,3,9.51,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,3PT Jump Shot,,,46-52,24,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=285
 ,,,,,,,,,,3,9.51,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,46-52,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=286
@@ -250,12 +250,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.34,New Orleans Hornets,substitute,,,,Mason Jr.,,Rivers,,,,,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=311
 ,,,,,,,,,,3,7.34,San Antonio Spurs,free throw,,,,,,,2,,2,Parker,,,foul,missed,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=312
 ,,,,,,,,,,3,7.32,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=314
-,,,,,,,,,,3,7.19,New Orleans Hornets,turnover,,,,,,,,,,Lopez,,,Lost Ball,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=315
+,,,,,,,,,,3,7.19,New Orleans Hornets,turnover,,,,,,,,,,Lopez,,,Lost Ball,,Leonard,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=315
 ,,,,,,,,,,3,7.19,New Orleans Hornets,foul,,,,,,,,,,Mason Jr.,,,,,,clear path,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=316
 ,,,,,,,,,,3,7.19,San Antonio Spurs,free throw,,,,,,,,,,Leonard,1,,foul,made,,,,,54-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=317
 ,,,,,,,,,,3,7.19,San Antonio Spurs,free throw,,,,,,,,,,Leonard,1,,foul,made,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=319
 ,,,,,,,,,,3,7.04,San Antonio Spurs,shot,Diaw,,,,,,,,,Leonard,3,,,made,,3PT Jump Shot,,,58-54,24,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=322
-,,,,,,,,,,3,6.51,New Orleans Hornets,turnover,,,,,,,,,,Aminu,,,Lost Ball,,,,,,58-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=323
+,,,,,,,,,,3,6.51,New Orleans Hornets,turnover,,,,,,,,,,Aminu,,,Lost Ball,,Leonard,,,,58-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=323
 ,,,,,,,,,,3,6.49,New Orleans Hornets,foul,,,,,,,,,,Aminu,,,,,,Loose ball,,,58-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=324
 ,,,,,,,,,,3,6.49,San Antonio Spurs,free throw,,,,,,,1,,2,Leonard,1,,foul,made,,,,,59-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=325
 ,,,,,,,,,,3,6.49,San Antonio Spurs,free throw,,,,,,,2,,2,Leonard,1,,foul,made,,,,,60-54,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=327
@@ -276,7 +276,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.18,New Orleans Hornets,substitute,,,,Anderson,,Davis,,,,,,,,,,,,,62-55,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=347
 ,,,,,,,,,,3,5.18,New Orleans Hornets,substitute,,,,Miller,,Aminu,,,,,,,,,,,,,62-55,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=348
 ,,,,,,,,,,3,5.18,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,,,,,62-55,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=349
-,,,,,,,,,,3,5.08,New Orleans Hornets,turnover,,,,,,,,,,Miller,,,Lost Ball,,,,,,62-55,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=350
+,,,,,,,,,,3,5.08,New Orleans Hornets,turnover,,,,,,,,,,Miller,,,Lost Ball,,Leonard,,,,62-55,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=350
 ,,,,,,,,,,3,5.05,San Antonio Spurs,shot,,,,,,,,,,Leonard,2,,,made,,Dunk,,,64-55,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=351
 ,,,,,,,,,,3,4.47,New Orleans Hornets,shot,,,,,,,,,,Vasquez,2,,,made,,Turnaround Jump Shot,,,64-57,5,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=352
 ,,,,,,,,,,3,4.26,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,64-57,26,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=353
@@ -309,7 +309,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.38,New Orleans Hornets,rebound,,,,,,,,,,Smith,,,,,,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=385
 ,,,,,,,,,,3,2.27,San Antonio Spurs,foul,,,,,,,,,,Jackson,,,,,,Personal,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=387
 ,,,,,,,,,,3,2.27,San Antonio Spurs,substitute,,,,Mills,,Parker,,,,,,,,,,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=388
-,,,,,,,,,,3,2.16,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Bad Pass,,,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=389
+,,,,,,,,,,3,2.16,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Bad Pass,,Leonard,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=389
 ,,,,,,,,,,3,2.13,San Antonio Spurs,foul,,,,,,,,,,,,,,,,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=390
 ,,,,,,,,,,3,2.13,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Foul,,,,,,66-62,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=391
 ,,,,,,,,,,3,1.48,New Orleans Hornets,shot,Miller,,,,,,,,,Anderson,2,,,made,,Jump Shot,,,66-64,21,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=394
@@ -320,27 +320,27 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.17,New Orleans Hornets,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,67-64,3,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=402
 ,,,,,,,,,,3,1.16,San Antonio Spurs,rebound,,,,,,,,,,Mills,,,,,,,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=403
 ,,,,,,,,,,3,1.11,San Antonio Spurs,shot,Mills,,,,,,,,,Splitter,2,,,made,,Dunk,,,69-64,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=404
-,,,,,,,,,,3,0.50,New Orleans Hornets,shot,,,,,,,,,,Rivers,,,,missed,,Jump Shot,,,69-64,16,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=405
+,,,,,,,,,,3,0.50,New Orleans Hornets,shot,,,Mills,,,,,,,Rivers,,,,missed,,Jump Shot,,,69-64,16,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=405
 ,,,,,,,,,,3,0.50,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,69-64,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=406
 ,,,,,,,,,,3,0.50,San Antonio Spurs,substitute,,,,Green,,Leonard,,,,,,,,,,,,,69-64,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=407
 ,,,,,,,,,,3,0.47,New Orleans Hornets,shot,Miller,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,69-67,24,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=408
 ,,,,,,,,,,3,0.36,San Antonio Spurs,shot,Jackson,,,,,,,,,Splitter,2,,,made,,Layup,,,71-67,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=409
 ,,,,,,,,,,3,0.26,New Orleans Hornets,shot,Rivers,,,,,,,,,Smith,2,,,made,,Dunk,,,71-69,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=411
-,,,,,,,,,,3,0.08,San Antonio Spurs,turnover,,,,,,,,,,Mills,,,Lost Ball,,,,,,71-69,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=412
+,,,,,,,,,,3,0.08,San Antonio Spurs,turnover,,,,,,,,,,Mills,,,Lost Ball,,Miller,,,,71-69,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=412
 ,,,,,,,,,,3,0.06,San Antonio Spurs,foul,,,,,,,,,,Jackson,,,,,,Personal,,,71-69,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=413
 ,,,,,,,,,,3,0.06,New Orleans Hornets,free throw,,,,,,,1,,2,Rivers,1,,foul,made,,,,,71-70,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=414
 ,,,,,,,,,,3,0.06,New Orleans Hornets,substitute,,,,Aminu,,Miller,,,,,,,,,,,,,71-70,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=416
 ,,,,,,,,,,3,0.06,New Orleans Hornets,free throw,,,,,,,2,,2,Rivers,1,,foul,made,,,,,71-71,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=417
-,,,,,,,,,,3,0.01,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Layup,,,71-71,3,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=420
+,,,,,,,,,,3,0.01,San Antonio Spurs,shot,,,Aminu,,,,,,,Green,,,,missed,,Layup,,,71-71,3,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=420
 ,,,,,,,,,,3,0.00,New Orleans Hornets,rebound,,,,,,,,,,Rivers,,,,,,,,,71-71,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=421
 ,,,,,,,,,,4,11.36,San Antonio Spurs,shot,,,,,,,,,,Neal,2,,,made,,Driving Bank Shot,,,73-71,8,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=424
 ,,,,,,,,,,4,11.20,San Antonio Spurs,foul,,,,,,,,,,Neal,,,,,,Shooting,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=425
 ,,,,,,,,,,4,11.20,New Orleans Hornets,free throw,,,,,,,1,,2,Anderson,1,,foul,made,,,,,73-72,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=426
 ,,,,,,,,,,4,11.20,New Orleans Hornets,free throw,,,,,,,2,,2,Anderson,1,,foul,made,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=428
-,,,,,,,,,,4,11.09,San Antonio Spurs,turnover,,,,,,,,,,Mills,,,Lost Ball,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=431
+,,,,,,,,,,4,11.09,San Antonio Spurs,turnover,,,,,,,,,,Mills,,,Lost Ball,,Aminu,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=431
 ,,,,,,,,,,4,11.05,New Orleans Hornets,shot,,,,,,,,,,Aminu,2,,,made,,Layup,,,73-75,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=432
 ,,,,,,,,,,4,10.47,San Antonio Spurs,shot,Neal,,,,,,,,,Green,2,,,made,,Driving Layup,,,75-75,3,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=433
-,,,,,,,,,,4,10.29,New Orleans Hornets,shot,,,,,,,,,,Aminu,,,,missed,,Layup,,,75-75,3,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=434
+,,,,,,,,,,4,10.29,New Orleans Hornets,shot,,,Green,,,,,,,Aminu,,,,missed,,Layup,,,75-75,3,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=434
 ,,,,,,,,,,4,10.27,San Antonio Spurs,rebound,,,,,,,,,,Neal,,,,,,,,,75-75,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=435
 ,,,,,,,,,,4,10.22,San Antonio Spurs,shot,Neal,,,,,,,,,Splitter,2,,,made,,Layup,,,77-75,3,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=436
 ,,,,,,,,,,4,10.01,New Orleans Hornets,shot,,,,,,,,,,Mason Jr.,,,,missed,,Jump Shot,,,77-75,21,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=437
@@ -357,8 +357,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.03,San Antonio Spurs,shot,Splitter,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,80-78,24,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=452
 ,,,,,,,,,,4,8.45,New Orleans Hornets,shot,,,,,,,,,,Rivers,,,,missed,,3PT Jump Shot,,,80-78,25,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=453
 ,,,,,,,,,,4,8.43,New Orleans Hornets,rebound,,,,,,,,,,Smith,,,,,,,,,80-78,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=454
-,,,,,,,,,,4,8.37,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Lost Ball,,,,,,80-78,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=455
-,,,,,,,,,,4,8.32,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Layup,,,80-78,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=456
+,,,,,,,,,,4,8.37,New Orleans Hornets,turnover,,,,,,,,,,Rivers,,,Lost Ball,,Green,,,,80-78,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=455
+,,,,,,,,,,4,8.32,San Antonio Spurs,shot,,,Aminu,,,,,,,Green,,,,missed,,Layup,,,80-78,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=456
 ,,,,,,,,,,4,8.31,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,80-78,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=457
 ,,,,,,,,,,4,8.26,New Orleans Hornets,shot,Aminu,,,,,,,,,Rivers,2,,,made,,Layup,,,80-80,3,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=458
 ,,,,,,,,,,4,8.24,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,80-80,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=459
@@ -366,7 +366,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.24,San Antonio Spurs,substitute,,,,Parker,,Neal,,,,,,,,,,,,,80-80,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=463
 ,,,,,,,,,,4,8.24,San Antonio Spurs,substitute,,,,Duncan,,Mills,,,,,,,,,,,,,80-80,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=464
 ,,,,,,,,,,4,8.24,New Orleans Hornets,substitute,,,,Vasquez,,Rivers,,,,,,,,,,,,,80-80,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=465
-,,,,,,,,,,4,7.59,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Dunk,,,80-80,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=466
+,,,,,,,,,,4,7.59,San Antonio Spurs,shot,,,Smith,,,,,,,Leonard,,,,missed,,Dunk,,,80-80,2,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=466
 ,,,,,,,,,,4,7.57,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,80-80,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=467
 ,,,,,,,,,,4,7.43,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,80-80,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=468
 ,,,,,,,,,,4,7.42,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,80-80,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=469
@@ -399,12 +399,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.05,New Orleans Hornets,shot,Mason Jr.,,,,,,,,,Aminu,2,,,made,,Layup,,,87-87,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=503
 ,,,,,,,,,,4,3.47,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Step Out of Bounds,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=504
 ,,,,,,,,,,4,3.47,San Antonio Spurs,substitute,,,,Jackson,,Green,,,,,,,,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=505
-,,,,,,,,,,4,3.33,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,87-87,8,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=506
+,,,,,,,,,,4,3.33,New Orleans Hornets,shot,,,Duncan,,,,,,,Anderson,,,,missed,,Jump Shot,,,87-87,8,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=506
 ,,,,,,,,,,4,3.32,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=507
-,,,,,,,,,,4,3.23,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,87-87,6,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=508
+,,,,,,,,,,4,3.23,San Antonio Spurs,shot,,,Aminu,,,,,,,Parker,,,,missed,,Jump Shot,,,87-87,6,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=508
 ,,,,,,,,,,4,3.22,New Orleans Hornets,rebound,,,,,,,,,,Vasquez,,,,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=509
 ,,,,,,,,,,4,3.18,New Orleans Hornets,shot,,,,,,,,,,Aminu,2,,,made,,Dunk,,,87-89,1,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=510
-,,,,,,,,,,4,2.59,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,,,,,87-89,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=511
+,,,,,,,,,,4,2.59,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,Vasquez,,,,87-89,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=511
 ,,,,,,,,,,4,2.42,San Antonio Spurs,foul,,,,,,,,,,Jackson,,,,,,Shooting,,,87-89,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=512
 ,,,,,,,,,,4,2.42,New Orleans Hornets,timeout,,,,,,,,,,,,,,,,,,,87-89,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=513
 ,,,,,,,,,,4,2.42,New Orleans Hornets,free throw,,,,,,,1,,2,Davis,1,,foul,made,,,,,87-90,,http://stats.nba.com/cvp.html?GameID=0021200008&GameEventID=515

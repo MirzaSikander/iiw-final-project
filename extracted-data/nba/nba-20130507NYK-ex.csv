@@ -5,7 +5,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.25,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=5
 ,,,,,,,,,,1,11.06,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,3PT Jump Shot,,,,25,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=6
 ,,,,,,,,,,1,11.04,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=7
-,,,,,,,,,,1,10.57,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=8
+,,,,,,,,,,1,10.57,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Anthony,,,,,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=8
 ,,,,,,,,,,1,10.43,New York Knicks,shot,,,,,,,,,,Prigioni,2,,,made,,Driving Jump Shot,,,0-2,11,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=10
 ,,,,,,,,,,1,10.23,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Jump Shot,,,0-2,19,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=11
 ,,,,,,,,,,1,10.22,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=12
@@ -19,7 +19,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.09,New York Knicks,shot,,,,,,,,,,Felton,2,,,made,,Step Back Jump Shot,,,2-8,17,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=22
 ,,,,,,,,,,1,8.48,New York Knicks,foul,,,,,,,,,,Prigioni,,,,,,Personal,,,2-8,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=23
 ,,,,,,,,,,1,8.42,Indiana Pacers,shot,Hill,,,,,,,,,George,2,,,made,,Alley Oop Layup,,,4-8,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=24
-,,,,,,,,,,1,8.16,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Layup,,,4-8,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=25
+,,,,,,,,,,1,8.16,New York Knicks,shot,,,Hibbert,,,,,,,Anthony,,,,missed,,Layup,,,4-8,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=25
 ,,,,,,,,,,1,8.15,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=26
 ,,,,,,,,,,1,8.14,New York Knicks,turnover,,,,,,,,,,,,,Shot Clock,,,,,,4-8,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=27
 ,,,,,,,,,,1,8.07,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Driving Layup,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=28
@@ -41,7 +41,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.56,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=44
 ,,,,,,,,,,1,5.56,New York Knicks,substitute,,,,Smith,,Prigioni,,,,,,,,,,,,,11-13,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=46
 ,,,,,,,,,,1,5.43,New York Knicks,shot,Anthony,,,,,,,,,Felton,3,,,made,,3PT Jump Shot,,,11-16,24,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=48
-,,,,,,,,,,1,5.23,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,,,,,11-16,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=49
+,,,,,,,,,,1,5.23,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,Smith,,,,11-16,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=49
 ,,,,,,,,,,1,5.20,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Driving Layup,,,11-16,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=50
 ,,,,,,,,,,1,5.19,New York Knicks,rebound,,,,,,,,,,Felton,,,,,,,,,11-16,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=51
 ,,,,,,,,,,1,5.18,Indiana Pacers,foul,,,,,,,,,,Hill,,,,,,Personal,,,11-16,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=52
@@ -73,7 +73,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.44,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Jump Shot,,,18-27,12,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=79
 ,,,,,,,,,,1,1.43,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,18-27,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=80
 ,,,,,,,,,,1,1.27,Indiana Pacers,substitute,,,,Young,,Stephenson,,,,,,,,,,,,,18-27,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=84
-,,,,,,,,,,1,1.27,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Lost Ball,,,,,,18-27,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=87
+,,,,,,,,,,1,1.27,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Lost Ball,,Martin,,,,18-27,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=87
 ,,,,,,,,,,1,1.27,New York Knicks,jumpball,,Hibbert,,,Kidd,,,,,,,,,,,,,,18-27,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=85
 ,,,,,,,,,,1,1.14,New York Knicks,turnover,,,,,,,,,,Smith,,,Traveling,,,,,,18-27,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=86
 ,,,,,,,,,,1,1.14,New York Knicks,violation,,,,,,,,,,KNICKS,,, Delay of game Violation,,,,,,18-27,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=88
@@ -87,14 +87,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.01,New York Knicks,shot,Chandler,,,,,,,,,Anthony,2,,,made,,Jump Shot,,,20-29,17,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=101
 ,,,,,,,,,,1,0.00,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,20-29,59,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=102
 ,,,,,,,,,,1,0.00,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,20-29,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=103
-,,,,,,,,,,2,11.41,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,Driving Layup,,,20-29,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=107
+,,,,,,,,,,2,11.41,Indiana Pacers,shot,,,Martin,,,,,,,Augustin,,,,missed,,Driving Layup,,,20-29,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=107
 ,,,,,,,,,,2,11.41,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,20-29,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=108
 ,,,,,,,,,,2,11.38,Indiana Pacers,turnover,,,,,,,,,,Hansbrough Out of Bounds,,,Lost Ball,,,,,,20-29,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=109
 ,,,,,,,,,,2,11.21,New York Knicks,shot,Smith,,,,,,,,,Martin,2,,,made,,Jump Shot,,,20-31,19,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=110
 ,,,,,,,,,,2,10.56,Indiana Pacers,shot,,,,,,,,,,Young,2,,,made,,Driving Reverse Layup,,,22-31,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=111
 ,,,,,,,,,,2,10.38,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Step Back Jump Shot,,,22-31,22,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=112
 ,,,,,,,,,,2,10.36,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,22-31,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=113
-,,,,,,,,,,2,10.23,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,22-31,5,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=114
+,,,,,,,,,,2,10.23,Indiana Pacers,shot,,,Smith,,,,,,,Hibbert,,,,missed,,Jump Shot,,,22-31,5,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=114
 ,,,,,,,,,,2,10.21,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,22-31,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=115
 ,,,,,,,,,,2,10.11,New York Knicks,shot,,,,,,,,,,Copeland,,,,missed,,3PT Jump Shot,,,22-31,25,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=116
 ,,,,,,,,,,2,10.09,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,22-31,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=117
@@ -125,7 +125,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.42,Indiana Pacers,substitute,,,,Hill,,Young,,,,,,,,,,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=160
 ,,,,,,,,,,2,6.42,New York Knicks,substitute,,,,Felton,,Kidd,,,,,,,,,,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=146
 ,,,,,,,,,,2,6.42,New York Knicks,substitute,,,,Anthony,,Copeland,,,,,,,,,,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=147
-,,,,,,,,,,2,6.35,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=148
+,,,,,,,,,,2,6.35,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Augustin,,,,30-39,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=148
 ,,,,,,,,,,2,6.31,Indiana Pacers,shot,,,,,,,,,,Augustin,2,,,made,,Driving Reverse Layup,,,32-39,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=149
 ,,,,,,,,,,2,6.20,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Jump Shot,,,32-39,18,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=150
 ,,,,,,,,,,2,6.19,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,32-39,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=151
@@ -137,19 +137,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.02,Indiana Pacers,free throw,,,,,,,3,,3,Hill,1,,foul,made,,,,,34-39,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=158
 ,,,,,,,,,,2,5.49,New York Knicks,shot,Shumpert,,,,,,,,,Martin,2,,,made,,Layup,,,34-41,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=161
 ,,,,,,,,,,2,5.27,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Bad Pass,,,,,,34-41,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=162
-,,,,,,,,,,2,5.10,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,34-41,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=167
+,,,,,,,,,,2,5.10,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Stephenson,,,,34-41,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=167
 ,,,,,,,,,,2,5.03,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Driving Layup,,,34-41,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=168
 ,,,,,,,,,,2,5.02,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,34-41,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=169
 ,,,,,,,,,,2,5.01,Indiana Pacers,foul,,,,,,,,,,Augustin,,,,,,Personal,,,34-41,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=170
 ,,,,,,,,,,2,5.01,Indiana Pacers,substitute,,,,George,,Augustin,,,,,,,,,,,,,34-41,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=171
 ,,,,,,,,,,2,4.51,New York Knicks,shot,,,,,,,,,,Martin,2,,,made,,Driving Layup,,,34-43,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=172
-,,,,,,,,,,2,4.37,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=173
+,,,,,,,,,,2,4.37,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Felton,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=173
 ,,,,,,,,,,2,4.30,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Layup,,,34-43,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=174
 ,,,,,,,,,,2,4.29,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=176
 ,,,,,,,,,,2,4.29,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Putback Layup,,,34-45,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=175
 ,,,,,,,,,,2,4.24,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,34-45,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=177
 ,,,,,,,,,,2,4.24,Indiana Pacers,substitute,,,,Hibbert,,Mahinmi,,,,,,,,,,,,,34-45,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=180
-,,,,,,,,,,2,4.07,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Jump Shot,,,34-45,13,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=181
+,,,,,,,,,,2,4.07,Indiana Pacers,shot,,,Martin,,,,,,,West,,,,missed,,Jump Shot,,,34-45,13,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=181
 ,,,,,,,,,,2,4.04,New York Knicks,rebound,,,,,,,,,,Martin,,,,,,,,,34-45,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=182
 ,,,,,,,,,,2,3.46,New York Knicks,shot,,,,,,,,,,Shumpert,2,,,made,,Jump Shot,,,34-47,20,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=183
 ,,,,,,,,,,2,3.21,Indiana Pacers,shot,Hill,,,,,,,,,West,2,,,made,,Hook Shot,,,36-47,5,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=184
@@ -188,7 +188,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.48,New York Knicks,foul,,,,,,,,,,Prigioni,,,,,,Personal,,,42-47,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=228
 ,,,,,,,,,,3,11.43,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,42-47,12,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=229
 ,,,,,,,,,,3,11.41,New York Knicks,rebound,,,,,,,,,,Shumpert,,,,,,,,,42-47,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=230
-,,,,,,,,,,3,11.27,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,,,,,42-47,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=231
+,,,,,,,,,,3,11.27,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,George,,,,42-47,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=231
 ,,,,,,,,,,3,11.22,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,42-47,15,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=232
 ,,,,,,,,,,3,11.21,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,42-47,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=235
 ,,,,,,,,,,3,11.21,New York Knicks,foul,,,,,,,,,,Chandler,,,,,,Personal,,,42-47,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=236
@@ -205,7 +205,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.35,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Jump Shot,,,44-49,17,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=247
 ,,,,,,,,,,3,9.33,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,44-49,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=248
 ,,,,,,,,,,3,9.22,Indiana Pacers,shot,Hill,,,,,,,,,George,3,,,made,,3PT Jump Shot,,,47-49,25,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=249
-,,,,,,,,,,3,9.04,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Layup,,,47-49,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=250
+,,,,,,,,,,3,9.04,New York Knicks,shot,,,Hibbert,,,,,,,Anthony,,,,missed,,Layup,,,47-49,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=250
 ,,,,,,,,,,3,9.03,New York Knicks,rebound,,,,,,,,,,Shumpert,,,,,,,,,47-49,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=251
 ,,,,,,,,,,3,9.02,New York Knicks,shot,,,,,,,,,,Shumpert,2,,,made,,Layup,,,47-51,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=252
 ,,,,,,,,,,3,8.48,New York Knicks,foul,,,,,,,,,,Shumpert,,,,,,Personal,,,47-51,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=253
@@ -215,18 +215,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.27,New York Knicks,substitute,,,,Kidd,,Prigioni,,,,,,,,,,,,,49-52,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=258
 ,,,,,,,,,,3,8.27,New York Knicks,free throw,,,,,,,2,,2,Felton,1,,foul,made,,,,,49-53,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=259
 ,,,,,,,,,,3,8.14,Indiana Pacers,shot,Hill,,,,,,,,,George,2,,,made,,Driving Layup,,,51-53,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=261
-,,,,,,,,,,3,7.57,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Driving Layup,,,51-53,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=262
+,,,,,,,,,,3,7.57,New York Knicks,shot,,,Hibbert,,,,,,,Anthony,,,,missed,,Driving Layup,,,51-53,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=262
 ,,,,,,,,,,3,7.56,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,51-53,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=263
 ,,,,,,,,,,3,7.53,New York Knicks,shot,Shumpert,,,,,,,,,Anthony,2,,,made,,Jump Shot,,,51-55,11,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=264
-,,,,,,,,,,3,7.37,Indiana Pacers,turnover,,,,,,,,,,West,,,Bad Pass,,,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=265
-,,,,,,,,,,3,7.34,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Layup,,,51-55,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=266
+,,,,,,,,,,3,7.37,Indiana Pacers,turnover,,,,,,,,,,West,,,Bad Pass,,Kidd,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=265
+,,,,,,,,,,3,7.34,New York Knicks,shot,,,Hill,,,,,,,Felton,,,,missed,,Layup,,,51-55,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=266
 ,,,,,,,,,,3,7.32,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=267
 ,,,,,,,,,,3,7.26,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,51-55,25,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=268
 ,,,,,,,,,,3,7.24,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=269
 ,,,,,,,,,,3,7.14,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Jump Shot,,,51-55,17,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=270
 ,,,,,,,,,,3,7.13,New York Knicks,rebound,,,,,,,,,,Kidd,,,,,,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=271
-,,,,,,,,,,3,7.10,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=272
-,,,,,,,,,,3,7.03,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=273
+,,,,,,,,,,3,7.10,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,Stephenson,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=272
+,,,,,,,,,,3,7.03,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Shumpert,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=273
 ,,,,,,,,,,3,6.54,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,3PT Jump Shot,,,51-55,25,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=274
 ,,,,,,,,,,3,6.53,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,51-55,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=275
 ,,,,,,,,,,3,6.46,Indiana Pacers,shot,Hill,,,,,,,,,West,2,,,made,,Layup,,,53-55,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=276
@@ -242,9 +242,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.46,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,56-58,19,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=292
 ,,,,,,,,,,3,5.44,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=293
 ,,,,,,,,,,3,5.24,Indiana Pacers,shot,George,,,,,,,,,Hibbert,2,,,made,,Hook Shot,,,58-58,7,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=294
-,,,,,,,,,,3,5.08,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Driving Layup,,,58-58,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=295
+,,,,,,,,,,3,5.08,New York Knicks,shot,,,Hibbert,,,,,,,Smith,,,,missed,,Driving Layup,,,58-58,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=295
 ,,,,,,,,,,3,5.06,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,58-58,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=296
-,,,,,,,,,,3,4.51,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,58-58,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=297
+,,,,,,,,,,3,4.51,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Smith,,,,58-58,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=297
 ,,,,,,,,,,3,4.44,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Jump Shot,,,58-58,5,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=298
 ,,,,,,,,,,3,4.43,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,58-58,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=300
 ,,,,,,,,,,3,4.43,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Tip Shot,,,58-60,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=299
@@ -257,7 +257,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.09,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,64-62,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=307
 ,,,,,,,,,,3,3.05,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,64-62,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=308
 ,,,,,,,,,,3,3.05,Indiana Pacers,substitute,,,,Pendergraph,,Hibbert,,,,,,,,,,,,,64-62,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=310
-,,,,,,,,,,3,3.01,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,,,,,64-62,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=312
+,,,,,,,,,,3,3.01,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,Anthony,,,,64-62,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=312
 ,,,,,,,,,,3,2.42,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Driving Layup,,,64-64,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=313
 ,,,,,,,,,,3,2.25,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Driving Hook Shot,,,64-64,3,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=314
 ,,,,,,,,,,3,2.24,New York Knicks,rebound,,,,,,,,,,Anthony,,,,,,,,,64-64,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=315
@@ -272,7 +272,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.32,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=325
 ,,,,,,,,,,3,1.32,New York Knicks,free throw,,,,,,,2,,2,Martin,,,foul,missed,,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=326
 ,,,,,,,,,,3,1.31,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=328
-,,,,,,,,,,3,1.19,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Lost Ball,,,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=329
+,,,,,,,,,,3,1.19,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Lost Ball,,Martin,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=329
 ,,,,,,,,,,3,1.15,New York Knicks,shot,Felton,,,,,,,,,Martin,2,,,made,,Alley Oop Dunk,,,64-69,2,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=330
 ,,,,,,,,,,3,0.55,New York Knicks,foul,,,,,,,,,,Anthony,,,,,,Shooting,,,64-69,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=331
 ,,,,,,,,,,3,0.55,Indiana Pacers,free throw,,,,,,,1,,2,West,1,,foul,made,,,,,65-69,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=332
@@ -324,7 +324,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.29,New York Knicks,shot,Prigioni,,,,,,,,,Anthony,3,,,made,,3PT Jump Shot,,,66-82,25,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=387
 ,,,,,,,,,,4,8.28,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,66-82,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=388
 ,,,,,,,,,,4,8.15,New York Knicks,foul,,,,,,,,,,Chandler,,,,,,Personal,,,66-82,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=390
-,,,,,,,,,,4,8.00,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,66-82,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=391
+,,,,,,,,,,4,8.00,Indiana Pacers,shot,,,Prigioni,,,,,,,George,,,,missed,,3PT Jump Shot,,,66-82,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=391
 ,,,,,,,,,,4,7.58,New York Knicks,rebound,,,,,,,,,,Prigioni,,,,,,,,,66-82,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=392
 ,,,,,,,,,,4,7.39,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Driving Reverse Layup,,,66-82,1,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=393
 ,,,,,,,,,,4,7.37,New York Knicks,rebound,,,,,,,,,,Chandler,,,,,,,,,66-82,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=395
@@ -333,7 +333,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.26,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,66-84,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=397
 ,,,,,,,,,,4,7.11,New York Knicks,shot,,,,,,,,,,Anthony,,,,missed,,Fadeaway Jumper,,,66-84,10,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=398
 ,,,,,,,,,,4,7.10,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,66-84,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=399
-,,,,,,,,,,4,7.00,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Lost Ball,,,,,,66-84,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=400
+,,,,,,,,,,4,7.00,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Lost Ball,,Kidd,,,,66-84,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=400
 ,,,,,,,,,,4,6.51,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,66-84,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=401
 ,,,,,,,,,,4,6.49,New York Knicks,rebound,,,,,,,,,,Smith,,,,,,,,,66-84,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=402
 ,,,,,,,,,,4,6.33,New York Knicks,shot,,,,,,,,,,Anthony,2,,,made,,Turnaround Jump Shot,,,66-86,5,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=403
@@ -377,7 +377,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.09,Indiana Pacers,shot,Hansbrough,,,,,,,,,Johnson,3,,,made,,3PT Jump Shot,,,71-98,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=447
 ,,,,,,,,,,4,2.43,New York Knicks,shot,,,,,,,,,,White,,,,missed,,3PT Jump Shot,,,71-98,25,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=452
 ,,,,,,,,,,4,2.41,Indiana Pacers,rebound,,,,,,,,,,Pendergraph,,,,,,,,,71-98,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=453
-,,,,,,,,,,4,2.33,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Bad Pass,,,,,,71-98,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=454
+,,,,,,,,,,4,2.33,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Bad Pass,,Copeland,,,,71-98,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=454
 ,,,,,,,,,,4,2.22,New York Knicks,shot,,,,,,,,,,Novak,,,,missed,,3PT Jump Shot,,,71-98,25,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=455
 ,,,,,,,,,,4,2.19,Indiana Pacers,rebound,,,,,,,,,,Green,,,,,,,,,71-98,,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=456
 ,,,,,,,,,,4,2.13,Indiana Pacers,shot,,,,,,,,,,Green,2,,,made,,Jump Shot,,,73-98,19,http://stats.nba.com/cvp.html?GameID=0041200212&GameEventID=457

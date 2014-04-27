@@ -5,7 +5,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.23,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=11
 ,,,,,,,,,,1,11.03,Miami Heat,shot,Chalmers,,,,,,,,,Haslem,2,,,made,,Layup,,,2-0,2,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=12
 ,,,,,,,,,,1,10.43,Cleveland Cavaliers,shot,,,,,,,,,,Gee,3,,,made,,3PT Jump Shot,,,2-3,24,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=13
-,,,,,,,,,,1,10.23,Miami Heat,turnover,,,,,,,,,,Haslem,,,Lost Ball,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=14
+,,,,,,,,,,1,10.23,Miami Heat,turnover,,,,,,,,,,Haslem,,,Lost Ball,,Zeller,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=14
 ,,,,,,,,,,1,10.18,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,2-3,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=15
 ,,,,,,,,,,1,10.17,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=17
 ,,,,,,,,,,1,10.17,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,2,,,made,,Putback Layup,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=16
@@ -26,7 +26,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.10,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,10-9,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=32
 ,,,,,,,,,,1,8.10,Miami Heat,free throw,,,,,,,2,,2,James,1,,foul,made,,,,,11-9,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=34
 ,,,,,,,,,,1,7.54,Cleveland Cavaliers,shot,Livingston,,,,,,,,,Thompson,2,,,made,,Jump Shot,,,11-11,7,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=36
-,,,,,,,,,,1,7.40,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=37
+,,,,,,,,,,1,7.40,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Ellington,,,,11-11,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=37
 ,,,,,,,,,,1,7.34,Cleveland Cavaliers,shot,Livingston,,,,,,,,,Zeller,2,,,made,,Layup,,,11-13,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=38
 ,,,,,,,,,,1,7.34,Miami Heat,foul,,,,,,,,,,Haslem,,,,,,Shooting,,,11-13,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=39
 ,,,,,,,,,,1,7.34,Cleveland Cavaliers,free throw,,,,,,,1,,1,Zeller,1,,foul,made,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=40
@@ -38,7 +38,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.39,Miami Heat,shot,,,,,,,,,,Haslem,2,,,made,,Putback Dunk,,,16-16,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=46
 ,,,,,,,,,,1,6.22,Miami Heat,foul,,,,,,,,,,Haslem,,,,,,Personal,,,16-16,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=48
 ,,,,,,,,,,1,6.15,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,2,,,made,,Turnaround Jump Shot,,,16-18,13,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=49
-,,,,,,,,,,1,6.06,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,,,,,16-18,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=50
+,,,,,,,,,,1,6.06,Miami Heat,turnover,,,,,,,,,,Wade,,,Bad Pass,,Livingston,,,,16-18,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=50
 ,,,,,,,,,,1,6.00,Cleveland Cavaliers,shot,Livingston,,,,,,,,,Thompson,2,,,made,,Dunk,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=51
 ,,,,,,,,,,1,5.59,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=52
 ,,,,,,,,,,1,5.38,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,16-20,26,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=56
@@ -69,7 +69,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.53,Cleveland Cavaliers,foul,,,,,,,,,,Gee,,,,,,Personal,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=86
 ,,,,,,,,,,1,2.53,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=87
 ,,,,,,,,,,1,2.53,Miami Heat,substitute,,,,Andersen,,Bosh,,,,,,,,,,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=89
-,,,,,,,,,,1,2.38,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=91
+,,,,,,,,,,1,2.38,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Thompson,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=91
 ,,,,,,,,,,1,2.37,Miami Heat,foul,,,,,,,,,,Andersen,,,,,,Personal,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=92
 ,,,,,,,,,,1,2.17,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Floating Jump Shot,,,19-28,7,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=93
 ,,,,,,,,,,1,2.13,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=94
@@ -103,7 +103,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.26,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,Running Jump Shot,,,24-32,6,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=136
 ,,,,,,,,,,2,11.23,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,24-32,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=137
 ,,,,,,,,,,2,11.15,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Slam Dunk,,,26-32,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=138
-,,,,,,,,,,2,10.55,Cleveland Cavaliers,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,26-32,3,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=139
+,,,,,,,,,,2,10.55,Cleveland Cavaliers,shot,,,Battier,,,,,,,Speights,,,,missed,,Jump Shot,,,26-32,3,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=139
 ,,,,,,,,,,2,10.54,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=140
 ,,,,,,,,,,2,10.42,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Running Bank Shot,,,26-32,11,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=141
 ,,,,,,,,,,2,10.39,Cleveland Cavaliers,rebound,,,,,,,,,,Speights,,,,,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=142
@@ -137,7 +137,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.20,Cleveland Cavaliers,shot,Miles,,,,,,,,,Livingston,2,,,made,,Alley Oop Layup,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=174
 ,,,,,,,,,,2,6.58,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Turnaround Jump Shot,,,31-36,9,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=175
 ,,,,,,,,,,2,6.56,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=176
-,,,,,,,,,,2,6.49,Cleveland Cavaliers,turnover,,,,,,,,,,Ellington,,,Bad Pass,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=177
+,,,,,,,,,,2,6.49,Cleveland Cavaliers,turnover,,,,,,,,,,Ellington,,,Bad Pass,,Allen,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=177
 ,,,,,,,,,,2,6.44,Miami Heat,shot,Allen,,,,,,,,,Wade,2,,,made,,Dunk,,,33-36,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=178
 ,,,,,,,,,,2,6.26,Cleveland Cavaliers,shot,Ellington,,,,,,,,,Miles,3,,,made,,3PT Jump Shot,,,33-39,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=179
 ,,,,,,,,,,2,6.19,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,33-39,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=180
@@ -152,10 +152,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.28,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,33-41,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=193
 ,,,,,,,,,,2,5.23,Cleveland Cavaliers,shot,Ellington,,,,,,,,,Miles,3,,,made,,3PT Jump Shot,,,33-44,24,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=194
 ,,,,,,,,,,2,5.17,Cleveland Cavaliers,foul,,,,,,,,,,Livingston,,,,,,Personal,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=195
-,,,,,,,,,,2,5.09,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Layup,,,33-44,2,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=196
+,,,,,,,,,,2,5.09,Miami Heat,shot,,,Zeller,,,,,,,Bosh,,,,missed,,Layup,,,33-44,2,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=196
 ,,,,,,,,,,2,5.08,Cleveland Cavaliers,rebound,,,,,,,,,,Livingston,,,,,,,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=197
 ,,,,,,,,,,2,5.05,Miami Heat,foul,,,,,,,,,,Chalmers,,,,,,Personal,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=198
-,,,,,,,,,,2,4.51,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,33-44,7,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=199
+,,,,,,,,,,2,4.51,Cleveland Cavaliers,shot,,,Bosh,,,,,,,Thompson,,,,missed,,Jump Shot,,,33-44,7,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=199
 ,,,,,,,,,,2,4.51,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=200
 ,,,,,,,,,,2,4.46,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,33-44,13,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=202
 ,,,,,,,,,,2,4.44,Cleveland Cavaliers,rebound,,,,,,,,,,Ellington,,,,,,,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=203
@@ -175,8 +175,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.07,Miami Heat,turnover,,,,,,,,,,James,,,Traveling,,,,,,33-50,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=222
 ,,,,,,,,,,2,2.45,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,3PT Jump Shot,,,33-50,29,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=223
 ,,,,,,,,,,2,2.45,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,33-50,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=237
-,,,,,,,,,,2,2.43,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,No,,,,,,33-50,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=224
-,,,,,,,,,,2,2.41,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,33-50,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=225
+,,,,,,,,,,2,2.43,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,No,,Allen,,,,33-50,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=224
+,,,,,,,,,,2,2.41,Miami Heat,turnover,,,,,,,,,,Allen,,,Bad Pass,,Thompson,,,,33-50,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=225
 ,,,,,,,,,,2,2.19,Cleveland Cavaliers,shot,Miles,,,,,,,,,Ellington,2,,,made,,Jump Shot,,,33-52,11,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=226
 ,,,,,,,,,,2,1.58,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Jump Shot,,,33-52,19,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=227
 ,,,,,,,,,,2,1.57,Cleveland Cavaliers,rebound,,,,,,,,,,Ellington,,,,,,,,,33-52,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=228
@@ -197,8 +197,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.47,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,34-55,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=252
 ,,,,,,,,,,2,0.38,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,3PT Jump Shot,,,34-55,27,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=254
 ,,,,,,,,,,2,0.37,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,34-55,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=255
-,,,,,,,,,,2,0.25,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,34-55,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=256
-,,,,,,,,,,2,0.01,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,Jump Shot,,,34-55,23,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=258
+,,,,,,,,,,2,0.25,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Livingston,,,,34-55,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=256
+,,,,,,,,,,2,0.01,Cleveland Cavaliers,shot,,,Bosh,,,,,,,Ellington,,,,missed,,Jump Shot,,,34-55,23,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=258
 ,,,,,,,,,,2,0.01,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,34-55,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=259
 ,,,,,,,,,,2,0.00,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,3PT Jump Shot,,,34-55,41,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=260
 ,,,,,,,,,,2,0.00,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,34-55,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=261
@@ -219,9 +219,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.44,Miami Heat,foul,,,,,,,,,,Bosh,,,,,,Shooting,,,38-62,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=283
 ,,,,,,,,,,3,8.44,Cleveland Cavaliers,free throw,,,,,,,1,,2,Zeller,1,,foul,made,,,,,38-63,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=284
 ,,,,,,,,,,3,8.44,Cleveland Cavaliers,free throw,,,,,,,2,,2,Zeller,1,,foul,made,,,,,38-64,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=286
-,,,,,,,,,,3,8.33,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,38-64,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=288
+,,,,,,,,,,3,8.33,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Thompson,,,,38-64,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=288
 ,,,,,,,,,,3,8.33,Miami Heat,foul,,,,,,,,,,Bosh,,,,,,Personal,,,38-64,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=289
-,,,,,,,,,,3,8.17,Cleveland Cavaliers,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,38-64,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=292
+,,,,,,,,,,3,8.17,Cleveland Cavaliers,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Bosh,,,,38-64,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=292
 ,,,,,,,,,,3,8.05,Miami Heat,shot,James,,,,,,,,,Bosh,2,,,made,,Layup,,,40-64,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=294
 ,,,,,,,,,,3,7.44,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Jump Shot,,,40-64,10,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=295
 ,,,,,,,,,,3,7.44,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,40-64,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=296
@@ -243,12 +243,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.27,Cleveland Cavaliers,shot,,,,,,,,,,Walton,,,,missed,,Jump Shot,,,41-67,21,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=315
 ,,,,,,,,,,3,6.25,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,41-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=316
 ,,,,,,,,,,3,6.14,Miami Heat,shot,James,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,43-67,16,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=317
-,,,,,,,,,,3,6.02,Cleveland Cavaliers,turnover,,,,,,,,,,Livingston,,,Bad Pass,,,,,,43-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=318
+,,,,,,,,,,3,6.02,Cleveland Cavaliers,turnover,,,,,,,,,,Livingston,,,Bad Pass,,James,,,,43-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=318
 ,,,,,,,,,,3,5.51,Cleveland Cavaliers,foul,,,,,,,,,,,,,,,,,,,43-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=319
 ,,,,,,,,,,3,5.51,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,43-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=320
 ,,,,,,,,,,3,5.51,Miami Heat,substitute,,,,Battier,,Haslem,,,,,,,,,,,,,43-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=322
 ,,,,,,,,,,3,5.51,Miami Heat,free throw,,,,,,,,,,Chalmers,1,,Technical,made,,,,,44-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=324
-,,,,,,,,,,3,5.41,Miami Heat,turnover,,,,,,,,,,Bosh,,,Bad Pass,,,,,,44-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=326
+,,,,,,,,,,3,5.41,Miami Heat,turnover,,,,,,,,,,Bosh,,,Bad Pass,,Walton,,,,44-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=326
 ,,,,,,,,,,3,5.38,Miami Heat,foul,,,,,,,,,,Wade,,,,,,Shooting,,,44-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=327
 ,,,,,,,,,,3,5.38,Cleveland Cavaliers,free throw,,,,,,,1,,2,Thompson,,,foul,missed,,,,,44-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=328
 ,,,,,,,,,,3,5.38,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,44-67,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=329
@@ -297,7 +297,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.52,Cleveland Cavaliers,free throw,,,,,,,2,,2,Gee,,,foul,missed,,,,,63-74,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=384
 ,,,,,,,,,,3,0.50,Miami Heat,rebound,,,,,,,,,,Andersen,,,,,,,,,63-74,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=386
 ,,,,,,,,,,3,0.41,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Driving Layup,,,65-74,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=387
-,,,,,,,,,,3,0.20,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Jump Shot,,,65-74,5,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=388
+,,,,,,,,,,3,0.20,Cleveland Cavaliers,shot,,,James,,,,,,,Gee,,,,missed,,Jump Shot,,,65-74,5,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=388
 ,,,,,,,,,,3,0.18,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,65-74,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=389
 ,,,,,,,,,,3,0.15,Miami Heat,shot,James,,,,,,,,,Allen,3,,,made,,3PT Jump Shot,,,68-74,25,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=390
 ,,,,,,,,,,3,0.00,Cleveland Cavaliers,shot,,,,,,,,,,Gibson,3,,,made,,3PT Jump Shot,,,68-77,26,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=391
@@ -306,11 +306,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.46,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,68-77,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=398
 ,,,,,,,,,,4,11.46,Miami Heat,free throw,,,,,,,2,,2,Andersen,1,,foul,made,,,,,69-77,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=399
 ,,,,,,,,,,4,11.40,Miami Heat,foul,,,,,,,,,,Allen,,,,,,Personal,,,69-77,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=401
-,,,,,,,,,,4,11.32,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,,,,,69-77,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=402
-,,,,,,,,,,4,11.24,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,69-77,3,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=403
+,,,,,,,,,,4,11.32,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,James,,,,69-77,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=402
+,,,,,,,,,,4,11.24,Miami Heat,shot,,,Speights,,,,,,,James,,,,missed,,Jump Shot,,,69-77,3,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=403
 ,,,,,,,,,,4,11.24,Miami Heat,rebound,,,,,,,,,,,,,,,,,,,69-77,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=404
 ,,,,,,,,,,4,11.16,Miami Heat,shot,,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,72-77,25,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=406
-,,,,,,,,,,4,11.03,Cleveland Cavaliers,turnover,,,,,,,,,,Gibson,,,Bad Pass,,,,,,72-77,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=407
+,,,,,,,,,,4,11.03,Cleveland Cavaliers,turnover,,,,,,,,,,Gibson,,,Bad Pass,,Allen,,,,72-77,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=407
 ,,,,,,,,,,4,10.58,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Alley Oop Layup,,,72-77,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=408
 ,,,,,,,,,,4,10.55,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,72-77,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=409
 ,,,,,,,,,,4,10.54,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Layup,,,74-77,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=410
@@ -323,7 +323,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.40,Miami Heat,shot,,,,,,,,,,James,3,,,made,,3PT Jump Shot,,,80-79,25,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=421
 ,,,,,,,,,,4,9.23,Cleveland Cavaliers,substitute,,,,Ellington,,Gibson,,,,,,,,,,,,,80-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=423
 ,,,,,,,,,,4,9.23,Miami Heat,violation,,,,,,,,,,Battier,,,Kicked Ball,,,,,,80-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=424
-,,,,,,,,,,4,9.16,Cleveland Cavaliers,turnover,,,,,,,,,,Livingston,,,Bad Pass,,,,,,80-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=425
+,,,,,,,,,,4,9.16,Cleveland Cavaliers,turnover,,,,,,,,,,Livingston,,,Bad Pass,,Allen,,,,80-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=425
 ,,,,,,,,,,4,9.04,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,80-79,25,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=426
 ,,,,,,,,,,4,9.02,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,80-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=427
 ,,,,,,,,,,4,8.51,Cleveland Cavaliers,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,80-79,16,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=428
@@ -338,13 +338,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.03,Cleveland Cavaliers,shot,,,,,,,,,,Miles,,,,missed,,Running Jump Shot,,,83-79,10,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=439
 ,,,,,,,,,,4,8.01,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=440
 ,,,,,,,,,,4,7.55,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Traveling,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=441
-,,,,,,,,,,4,7.30,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,83-79,9,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=442
+,,,,,,,,,,4,7.30,Cleveland Cavaliers,shot,,,Andersen,,,,,,,Thompson,,,,missed,,Jump Shot,,,83-79,9,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=442
 ,,,,,,,,,,4,7.30,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=443
 ,,,,,,,,,,4,7.30,Cleveland Cavaliers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=444
 ,,,,,,,,,,4,7.30,Miami Heat,substitute,,,,Bosh,,Andersen,,,,,,,,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=445
 ,,,,,,,,,,4,7.08,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Running Jump Shot,,,83-79,8,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=446
 ,,,,,,,,,,4,7.05,Cleveland Cavaliers,rebound,,,,,,,,,,Ellington,,,,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=447
-,,,,,,,,,,4,7.02,Cleveland Cavaliers,turnover,,,,,,,,,,Ellington,,,Bad Pass,,,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=448
+,,,,,,,,,,4,7.02,Cleveland Cavaliers,turnover,,,,,,,,,,Ellington,,,Bad Pass,,James,,,,83-79,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=448
 ,,,,,,,,,,4,6.58,Miami Heat,shot,James,,,,,,,,,Chalmers,2,,,made,,Layup,,,85-79,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=449
 ,,,,,,,,,,4,6.43,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,2,,,made,,Running Bank Shot,,,85-81,5,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=450
 ,,,,,,,,,,4,6.26,Miami Heat,shot,Wade,,,,,,,,,Allen,3,,,made,,3PT Jump Shot,,,88-81,24,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=452
@@ -363,14 +363,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.08,Miami Heat,foul,,,,,,,,,,Chalmers,,,,,,Loose ball,,,91-84,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=467
 ,,,,,,,,,,4,4.56,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,Layup,,,91-84,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=468
 ,,,,,,,,,,4,4.55,Cleveland Cavaliers,rebound,,,,,,,,,,Miles,,,,,,,,,91-84,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=469
-,,,,,,,,,,4,4.48,Cleveland Cavaliers,turnover,,,,,,,,,,Ellington,,,Bad Pass,,,,,,91-84,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=470
+,,,,,,,,,,4,4.48,Cleveland Cavaliers,turnover,,,,,,,,,,Ellington,,,Bad Pass,,Allen,,,,91-84,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=470
 ,,,,,,,,,,4,4.24,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Step Back Jump Shot,,,91-84,18,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=471
 ,,,,,,,,,,4,4.21,Cleveland Cavaliers,rebound,,,,,,,,,,Livingston,,,,,,,,,91-84,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=472
 ,,,,,,,,,,4,4.16,Miami Heat,foul,,,,,,,,,,Allen,,,,,,Personal,,,91-84,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=473
 ,,,,,,,,,,4,4.04,Cleveland Cavaliers,shot,Miles,,,,,,,,,Livingston,2,,,made,,Dunk,,,91-86,1,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=474
 ,,,,,,,,,,4,4.04,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,91-86,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=475
 ,,,,,,,,,,4,3.44,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Jump Shot,,,93-86,18,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=479
-,,,,,,,,,,4,3.28,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,93-86,4,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=480
+,,,,,,,,,,4,3.28,Cleveland Cavaliers,shot,,,James,,,,,,,Thompson,,,,missed,,Jump Shot,,,93-86,4,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=480
 ,,,,,,,,,,4,3.26,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,93-86,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=481
 ,,,,,,,,,,4,3.10,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Step Back Jump Shot,,,93-86,18,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=482
 ,,,,,,,,,,4,3.07,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,93-86,,http://stats.nba.com/cvp.html?GameID=0021201009&GameEventID=483

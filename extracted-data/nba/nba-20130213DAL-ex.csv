@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.07,Sacramento Kings,foul,,,,,,,,,,,,,,,,,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=13
 ,,,,,,,,,,1,10.07,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Foul,,,,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=14
 ,,,,,,,,,,1,9.52,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,2,,,made,,Jump Shot,,,4-6,17,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=15
-,,,,,,,,,,1,9.45,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=16
+,,,,,,,,,,1,9.45,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,Nowitzki,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=16
 ,,,,,,,,,,1,9.38,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,3PT Jump Shot,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=17
 ,,,,,,,,,,1,9.37,Dallas Mavericks,rebound,,,,,,,,,,James,,,,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=18
 ,,,,,,,,,,1,9.35,Dallas Mavericks,shot,,,,,,,,,,Marion,2,,,made,,Jump Shot,,,4-8,4,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=19
@@ -21,10 +21,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.21,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Driving Layup,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=21
 ,,,,,,,,,,1,9.11,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,Driving Finger Roll Layup,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=22
 ,,,,,,,,,,1,9.10,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=23
-,,,,,,,,,,1,8.56,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=24
+,,,,,,,,,,1,8.56,Sacramento Kings,shot,,,Nowitzki,,,,,,,Thompson,,,,missed,,Layup,,,6-8,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=24
 ,,,,,,,,,,1,8.54,Dallas Mavericks,rebound,,,,,,,,,,James,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=25
 ,,,,,,,,,,1,8.50,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Driving Layup,,,6-10,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=26
-,,,,,,,,,,1,8.37,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=27
+,,,,,,,,,,1,8.37,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Nowitzki,,,,6-10,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=27
 ,,,,,,,,,,1,8.31,Dallas Mavericks,shot,Collison,,,,,,,,,Marion,2,,,made,,Dunk,,,6-12,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=28
 ,,,,,,,,,,1,8.19,Dallas Mavericks,foul,,,,,,,,,,James,,,,,,Personal,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=29
 ,,,,,,,,,,1,8.08,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,6-12,7,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=30
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.19,Dallas Mavericks,shot,Collison,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,20-19,25,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=73
 ,,,,,,,,,,1,4.03,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Driving Layup,,,22-19,2,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=74
 ,,,,,,,,,,1,3.52,Dallas Mavericks,shot,Collison,,,,,,,,,Marion,2,,,made,,Jump Shot,,,22-21,15,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=75
-,,,,,,,,,,1,3.30,Sacramento Kings,shot,,,,,,,,,,Johnson,,,,missed,,Driving Layup,,,22-21,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=76
+,,,,,,,,,,1,3.30,Sacramento Kings,shot,,,Brand,,,,,,,Johnson,,,,missed,,Driving Layup,,,22-21,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=76
 ,,,,,,,,,,1,3.28,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=77
 ,,,,,,,,,,1,3.22,Sacramento Kings,foul,,,,,,,,,,Salmons,,,,,,Personal,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=78
 ,,,,,,,,,,1,3.22,Dallas Mavericks,substitute,,,,Beaubois,,Collison,,,,,,,,,,,,,22-21,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=79
@@ -95,7 +95,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.22,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=107
 ,,,,,,,,,,1,1.15,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,3PT Pullup Jump Shot,,,24-25,26,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=108
 ,,,,,,,,,,1,1.14,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=109
-,,,,,,,,,,1,1.08,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=110
+,,,,,,,,,,1,1.08,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,Hayes,,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=110
 ,,,,,,,,,,1,1.05,Dallas Mavericks,foul,,,,,,,,,,Crowder,,,,,,Shooting,,,24-25,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=111
 ,,,,,,,,,,1,1.05,Sacramento Kings,free throw,,,,,,,1,,2,Fredette,1,,foul,made,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=112
 ,,,,,,,,,,1,1.05,Sacramento Kings,substitute,,,,Outlaw,,Salmons,,,,,,,,,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=114
@@ -110,7 +110,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.03,Sacramento Kings,shot,,,,,,,,,,Johnson,2,,,made,,Putback Layup,,,27-30,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=125
 ,,,,,,,,,,1,0.00,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,3PT Jump Shot,,,27-30,25,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=127
 ,,,,,,,,,,1,0.00,Dallas Mavericks,rebound,,,,,,,,,,Jones,,,,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=128
-,,,,,,,,,,2,11.41,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=132
+,,,,,,,,,,2,11.41,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Crowder,,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=132
 ,,,,,,,,,,2,11.29,Sacramento Kings,foul,,,,,,,,,,Hayes,,,,,,Shooting,,,27-30,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=133
 ,,,,,,,,,,2,11.29,Dallas Mavericks,free throw,,,,,,,1,,2,Beaubois,1,,foul,made,,,,,27-31,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=134
 ,,,,,,,,,,2,11.29,Dallas Mavericks,free throw,,,,,,,2,,2,Beaubois,1,,foul,made,,,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=136
@@ -150,7 +150,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.25,Dallas Mavericks,free throw,,,,,,,1,,2,Wright,1,,foul,made,,,,,33-36,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=178
 ,,,,,,,,,,2,8.25,Sacramento Kings,substitute,,,,Cousins,,Johnson,,,,,,,,,,,,,33-36,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=180
 ,,,,,,,,,,2,8.25,Dallas Mavericks,free throw,,,,,,,2,,2,Wright,1,,foul,made,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=181
-,,,,,,,,,,2,8.09,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Driving Jump Shot,,,33-37,7,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=183
+,,,,,,,,,,2,8.09,Sacramento Kings,shot,,,Wright,,,,,,,Thomas,,,,missed,,Driving Jump Shot,,,33-37,7,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=183
 ,,,,,,,,,,2,8.08,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=184
 ,,,,,,,,,,2,8.08,Dallas Mavericks,foul,,,,,,,,,,Marion,,,,,,Shooting,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=185
 ,,,,,,,,,,2,8.08,Sacramento Kings,free throw,,,,,,,1,,2,Cousins,,,foul,missed,,,,,33-37,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=186
@@ -181,7 +181,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.09,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=214
 ,,,,,,,,,,2,5.57,Sacramento Kings,shot,,,,,,,,,,Garcia,,,,missed,,3PT Jump Shot,,,36-41,24,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=215
 ,,,,,,,,,,2,5.56,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=216
-,,,,,,,,,,2,5.53,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=217
+,,,,,,,,,,2,5.53,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Marion,,,,36-41,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=217
 ,,,,,,,,,,2,5.49,Dallas Mavericks,shot,Collison,,,,,,,,,Mayo,2,,,made,,Running Slam Dunk,,,36-43,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=218
 ,,,,,,,,,,2,5.36,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,36-43,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=219
 ,,,,,,,,,,2,5.36,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,36-43,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=220
@@ -193,7 +193,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.17,Dallas Mavericks,free throw,,,,,,,2,,2,Nowitzki,1,,foul,made,,,,,36-45,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=229
 ,,,,,,,,,,2,4.55,Sacramento Kings,shot,Thompson,,,,,,,,,Thomas,3,,,made,,3PT Jump Shot,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=231
 ,,,,,,,,,,2,4.30,Dallas Mavericks,shot,Collison,,,,,,,,,Mayo,2,,,made,,Jump Shot,,,39-47,13,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=233
-,,,,,,,,,,2,4.07,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=234
+,,,,,,,,,,2,4.07,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Collison,,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=234
 ,,,,,,,,,,2,4.01,Sacramento Kings,foul,,,,,,,,,,Salmons,,,,,,Shooting,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=235
 ,,,,,,,,,,2,4.01,Dallas Mavericks,free throw,,,,,,,1,,2,Mayo,1,,foul,made,,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=236
 ,,,,,,,,,,2,4.01,Sacramento Kings,substitute,,,,Johnson,,Cousins,,,,,,,,,,,,,39-48,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=238
@@ -213,7 +213,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.52,Dallas Mavericks,shot,Collison,,,,,,,,,Nowitzki,2,,,made,,Jump Shot,,,40-54,19,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=255
 ,,,,,,,,,,2,2.44,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,40-54,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=256
 ,,,,,,,,,,2,2.44,Dallas Mavericks,substitute,,,,Carter,,Marion,,,,,,,,,,,,,40-54,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=258
-,,,,,,,,,,2,2.32,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,Driving Jump Shot,,,40-54,4,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=260
+,,,,,,,,,,2,2.32,Sacramento Kings,shot,,,Brand,,,,,,,Salmons,,,,missed,,Driving Jump Shot,,,40-54,4,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=260
 ,,,,,,,,,,2,2.30,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,40-54,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=261
 ,,,,,,,,,,2,2.08,Dallas Mavericks,shot,Nowitzki,,,,,,,,,Collison,3,,,made,,3PT Jump Shot,,,40-57,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=262
 ,,,,,,,,,,2,1.42,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Traveling,,,,,,40-57,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=263
@@ -239,9 +239,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.40,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=289
 ,,,,,,,,,,3,11.24,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Jump Shot,,,44-59,21,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=290
 ,,,,,,,,,,3,11.23,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=291
-,,,,,,,,,,3,11.10,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Driving Layup,,,44-59,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=292
+,,,,,,,,,,3,11.10,Sacramento Kings,shot,,,James,,,,,,,Thomas,,,,missed,,Driving Layup,,,44-59,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=292
 ,,,,,,,,,,3,11.08,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=293
-,,,,,,,,,,3,11.04,Dallas Mavericks,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=294
+,,,,,,,,,,3,11.04,Dallas Mavericks,turnover,,,,,,,,,,James,,,Lost Ball,,Salmons,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=294
 ,,,,,,,,,,3,10.59,Sacramento Kings,shot,Salmons,,,,,,,,,Thomas,2,,,made,,Driving Layup,,,46-59,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=295
 ,,,,,,,,,,3,10.36,Sacramento Kings,foul,,,,,,,,,,Thomas,,,,,,Personal,,,46-59,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=296
 ,,,,,,,,,,3,10.26,Dallas Mavericks,shot,Collison,,,,,,,,,Marion,3,,,made,,3PT Jump Shot,,,46-62,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=297
@@ -252,7 +252,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.03,Dallas Mavericks,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,49-63,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=303
 ,,,,,,,,,,3,10.03,Dallas Mavericks,free throw,,,,,,,2,,2,James,,,foul,missed,,,,,49-63,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=305
 ,,,,,,,,,,3,10.03,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,49-63,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=307
-,,,,,,,,,,3,9.54,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,49-63,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=308
+,,,,,,,,,,3,9.54,Sacramento Kings,shot,,,James,,,,,,,Thompson,,,,missed,,Layup,,,49-63,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=308
 ,,,,,,,,,,3,9.53,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,49-63,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=309
 ,,,,,,,,,,3,9.53,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Personal,,,49-63,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=310
 ,,,,,,,,,,3,9.37,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Pullup Jump Shot,,,49-65,14,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=311
@@ -261,7 +261,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.13,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Driving Jump Shot,,,49-67,10,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=314
 ,,,,,,,,,,3,9.11,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,49-67,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=315
 ,,,,,,,,,,3,8.50,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Layup,,,51-67,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=318
-,,,,,,,,,,3,8.30,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,,,,,51-67,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=319
+,,,,,,,,,,3,8.30,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,Evans,,,,51-67,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=319
 ,,,,,,,,,,3,8.26,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Shooting,,,51-67,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=320
 ,,,,,,,,,,3,8.26,Sacramento Kings,free throw,,,,,,,1,,2,Evans,1,,foul,made,,,,,52-67,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=321
 ,,,,,,,,,,3,8.26,Sacramento Kings,free throw,,,,,,,2,,2,Evans,1,,foul,made,,,,,53-67,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=323
@@ -276,14 +276,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.19,Sacramento Kings,foul,,,,,,,,,,Evans,,,,,,Shooting,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=334
 ,,,,,,,,,,3,7.19,Dallas Mavericks,free throw,,,,,,,1,,2,Mayo,1,,foul,made,,,,,56-68,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=335
 ,,,,,,,,,,3,7.19,Dallas Mavericks,free throw,,,,,,,2,,2,Mayo,1,,foul,made,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=337
-,,,,,,,,,,3,7.03,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=339
+,,,,,,,,,,3,7.03,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Nowitzki,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=339
 ,,,,,,,,,,3,6.51,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,56-69,25,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=340
 ,,,,,,,,,,3,6.50,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=341
-,,,,,,,,,,3,6.44,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=342
-,,,,,,,,,,3,6.41,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=343
+,,,,,,,,,,3,6.44,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,Evans,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=342
+,,,,,,,,,,3,6.41,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,Mayo,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=343
 ,,,,,,,,,,3,6.33,Dallas Mavericks,substitute,,,,Brand,,James,,,,,,,,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=345
 ,,,,,,,,,,3,6.33,Dallas Mavericks,substitute,,,,Carter,,Nowitzki,,,,,,,,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=346
-,,,,,,,,,,3,6.27,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Bad Pass,,,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=347
+,,,,,,,,,,3,6.27,Dallas Mavericks,turnover,,,,,,,,,,Marion,,,Bad Pass,,Salmons,,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=347
 ,,,,,,,,,,3,6.23,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Shooting,,,56-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=348
 ,,,,,,,,,,3,6.23,Sacramento Kings,free throw,,,,,,,1,,2,Salmons,1,,foul,made,,,,,57-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=349
 ,,,,,,,,,,3,6.23,Sacramento Kings,free throw,,,,,,,2,,2,Salmons,1,,foul,made,,,,,58-69,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=351
@@ -314,7 +314,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.08,Dallas Mavericks,shot,Marion,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,66-79,24,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=385
 ,,,,,,,,,,3,3.56,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,3PT Jump Shot,,,66-79,25,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=386
 ,,,,,,,,,,3,3.55,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,66-79,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=387
-,,,,,,,,,,3,3.49,Dallas Mavericks,shot,,,,,,,,,,Brand,,,,missed,,Layup,,,66-79,2,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=388
+,,,,,,,,,,3,3.49,Dallas Mavericks,shot,,,Thompson,,,,,,,Brand,,,,missed,,Layup,,,66-79,2,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=388
 ,,,,,,,,,,3,3.48,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,66-79,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=389
 ,,,,,,,,,,3,3.48,Sacramento Kings,substitute,,,,Garcia,,Thompson,,,,,,,,,,,,,66-79,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=390
 ,,,,,,,,,,3,3.36,Sacramento Kings,foul,,,,,,,,,,Salmons,,,,,,Shooting,,,66-79,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=391
@@ -324,7 +324,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.19,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Pullup Jump Shot,,,66-81,21,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=397
 ,,,,,,,,,,3,3.18,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,66-81,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=398
 ,,,,,,,,,,3,3.14,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,66-81,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=399
-,,,,,,,,,,3,3.10,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,66-81,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=400
+,,,,,,,,,,3,3.10,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Evans,,,,66-81,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=400
 ,,,,,,,,,,3,3.04,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Driving Layup,,,68-81,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=401
 ,,,,,,,,,,3,2.52,Dallas Mavericks,foul,,,,,,,,,,Crowder,,,,,,Offensive Charge,,,68-81,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=402
 ,,,,,,,,,,3,2.52,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Foul,,,,,,68-81,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=403
@@ -341,10 +341,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.15,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,70-83,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=418
 ,,,,,,,,,,3,2.06,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,70-83,25,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=419
 ,,,,,,,,,,3,2.05,Sacramento Kings,rebound,,,,,,,,,,Garcia,,,,,,,,,70-83,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=420
-,,,,,,,,,,3,2.00,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,70-83,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=421
+,,,,,,,,,,3,2.00,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Carter,,,,70-83,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=421
 ,,,,,,,,,,3,1.55,Dallas Mavericks,shot,,,,,,,,,,Wright,,,,missed,,Driving Layup,,,70-83,2,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=422
 ,,,,,,,,,,3,1.54,Sacramento Kings,rebound,,,,,,,,,,Salmons,,,,,,,,,70-83,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=423
-,,,,,,,,,,3,1.47,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,70-83,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=424
+,,,,,,,,,,3,1.47,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Crowder,,,,70-83,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=424
 ,,,,,,,,,,3,1.30,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,3PT Jump Shot,,,70-83,25,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=425
 ,,,,,,,,,,3,1.29,Sacramento Kings,rebound,,,,,,,,,,Salmons,,,,,,,,,70-83,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=426
 ,,,,,,,,,,3,1.26,Sacramento Kings,shot,Salmons,,,,,,,,,Evans,2,,,made,,Driving Layup,,,72-83,2,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=427
@@ -371,13 +371,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.00,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,Driving Jump Shot,,,79-95,3,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=457
 ,,,,,,,,,,4,10.58,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,79-95,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=458
 ,,,,,,,,,,4,10.52,Dallas Mavericks,shot,,,,,,,,,,James,2,,,made,,Running Jump Shot,,,79-97,10,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=459
-,,,,,,,,,,4,10.38,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Lost Ball,,,,,,79-97,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=460
+,,,,,,,,,,4,10.38,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Lost Ball,,Carter,,,,79-97,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=460
 ,,,,,,,,,,4,10.31,Dallas Mavericks,shot,James,,,,,,,,,Nowitzki,3,,,made,,3PT Jump Shot,,,79-100,24,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=461
 ,,,,,,,,,,4,10.30,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,79-100,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=462
 ,,,,,,,,,,4,10.30,Dallas Mavericks,substitute,,,,Mayo,,Carter,,,,,,,,,,,,,79-100,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=463
 ,,,,,,,,,,4,10.30,Sacramento Kings,substitute,,,,Fredette,,Thomas,,,,,,,,,,,,,79-100,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=464
 ,,,,,,,,,,4,10.20,Dallas Mavericks,foul,,,,,,,,,,Wright,,,,,,Personal,,,79-100,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=465
-,,,,,,,,,,4,10.09,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Turnaround Hook Shot,,,79-100,6,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=466
+,,,,,,,,,,4,10.09,Sacramento Kings,shot,,,Wright,,,,,,,Thompson,,,,missed,,Turnaround Hook Shot,,,79-100,6,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=466
 ,,,,,,,,,,4,10.08,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,79-100,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=467
 ,,,,,,,,,,4,9.59,Dallas Mavericks,shot,James,,,,,,,,,Wright,2,,,made,,Jump Hook Shot,,,79-102,5,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=468
 ,,,,,,,,,,4,9.51,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Traveling,,,,,,79-102,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=469
@@ -417,15 +417,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.43,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Jump Shot,,,90-111,7,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=513
 ,,,,,,,,,,4,5.42,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=514
 ,,,,,,,,,,4,5.33,Dallas Mavericks,substitute,,,,Jones,,Carter,,,,,,,,,,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=516
-,,,,,,,,,,4,5.31,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=517
-,,,,,,,,,,4,5.24,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Driving Jump Shot,,,90-111,3,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=518
+,,,,,,,,,,4,5.31,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Garcia,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=517
+,,,,,,,,,,4,5.24,Sacramento Kings,shot,,,Jones,,,,,,,Evans,,,,missed,,Driving Jump Shot,,,90-111,3,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=518
 ,,,,,,,,,,4,5.24,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=519
-,,,,,,,,,,4,5.15,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=520
+,,,,,,,,,,4,5.15,Sacramento Kings,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Mayo,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=520
 ,,,,,,,,,,4,5.09,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,90-111,24,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=521
 ,,,,,,,,,,4,5.07,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=522
 ,,,,,,,,,,4,4.58,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,90-111,24,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=523
 ,,,,,,,,,,4,4.57,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=524
-,,,,,,,,,,4,4.48,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=525
+,,,,,,,,,,4,4.48,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,Mayo,,,,90-111,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=525
 ,,,,,,,,,,4,4.43,Dallas Mavericks,shot,Collison,,,,,,,,,Jones,2,,,made,,Running Layup,,,90-113,2,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=526
 ,,,,,,,,,,4,4.42,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,90-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=528
 ,,,,,,,,,,4,4.42,Dallas Mavericks,substitute,,,,Beaubois,,Marion,,,,,,,,,,,,,90-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=530
@@ -436,9 +436,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.26,Sacramento Kings,shot,,,,,,,,,,Fredette,2,,,made,,Driving Bank Shot,,,92-113,3,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=535
 ,,,,,,,,,,4,4.05,Dallas Mavericks,shot,,,,,,,,,,Beaubois,,,,missed,,Floating Jump Shot,,,92-113,10,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=536
 ,,,,,,,,,,4,4.04,Sacramento Kings,rebound,,,,,,,,,,Honeycutt,,,,,,,,,92-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=537
-,,,,,,,,,,4,3.54,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Driving Layup,,,92-113,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=538
+,,,,,,,,,,4,3.54,Sacramento Kings,shot,,,James,,,,,,,Fredette,,,,missed,,Driving Layup,,,92-113,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=538
 ,,,,,,,,,,4,3.52,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,92-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=539
-,,,,,,,,,,4,3.49,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,Layup,,,92-113,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=540
+,,,,,,,,,,4,3.49,Dallas Mavericks,shot,,,Garcia,,,,,,,James,,,,missed,,Layup,,,92-113,1,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=540
 ,,,,,,,,,,4,3.47,Sacramento Kings,rebound,,,,,,,,,,Johnson,,,,,,,,,92-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=541
 ,,,,,,,,,,4,3.44,Dallas Mavericks,foul,,,,,,,,,,James,,,,,,Shooting,,,92-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=542
 ,,,,,,,,,,4,3.44,Sacramento Kings,free throw,,,,,,,1,,2,Thompson,1,,foul,made,,,,,93-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=543
@@ -448,8 +448,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.19,Sacramento Kings,rebound,,,,,,,,,,Honeycutt,,,,,,,,,93-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=549
 ,,,,,,,,,,4,3.09,Sacramento Kings,shot,Johnson,,,,,,,,,Garcia,3,,,made,,3PT Jump Shot,,,96-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=550
 ,,,,,,,,,,4,3.08,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,96-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=551
-,,,,,,,,,,4,2.50,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,,,,,96-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=555
-,,,,,,,,,,4,2.46,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Driving Jump Shot,,,96-113,5,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=556
+,,,,,,,,,,4,2.50,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,Fredette,,,,96-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=555
+,,,,,,,,,,4,2.46,Sacramento Kings,shot,,,Jones,,,,,,,Fredette,,,,missed,,Driving Jump Shot,,,96-113,5,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=556
 ,,,,,,,,,,4,2.44,Dallas Mavericks,rebound,,,,,,,,,,Beaubois,,,,,,,,,96-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=557
 ,,,,,,,,,,4,2.31,Sacramento Kings,foul,,,,,,,,,,Fredette,,,,,,Shooting,,,96-113,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=558
 ,,,,,,,,,,4,2.31,Dallas Mavericks,free throw,,,,,,,1,,2,Jones,1,,foul,made,,,,,96-114,,http://stats.nba.com/cvp.html?GameID=0021200785&GameEventID=560

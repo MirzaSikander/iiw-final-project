@@ -1,9 +1,9 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.41,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Jump Shot,,,,12,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=2
 ,,,,,,,,,,1,11.40,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=3
-,,,,,,,,,,1,11.20,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Jump Shot,,,,6,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=4
+,,,,,,,,,,1,11.20,Brooklyn Nets,shot,,,Koufos,,,,,,,Lopez,,,,missed,,Jump Shot,,,,6,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=4
 ,,,,,,,,,,1,11.18,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=5
-,,,,,,,,,,1,11.15,Brooklyn Nets,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,,1,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=6
+,,,,,,,,,,1,11.15,Brooklyn Nets,shot,,,Koufos,,,,,,,Evans,,,,missed,,Layup,,,,1,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=6
 ,,,,,,,,,,1,11.13,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=7
 ,,,,,,,,,,1,11.09,Denver Nuggets,shot,Lawson,,,,,,,,,Chandler,2,,,made,,Jump Shot,,,2-0,19,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=8
 ,,,,,,,,,,1,10.45,Brooklyn Nets,shot,,,,,,,,,,Wallace,,,,missed,,3PT Jump Shot,,,2-0,24,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=9
@@ -16,8 +16,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.23,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=16
 ,,,,,,,,,,1,9.06,Brooklyn Nets,shot,Johnson,,,,,,,,,Wallace,3,,,made,,3PT Jump Shot,,,4-8,24,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=17
 ,,,,,,,,,,1,8.48,Denver Nuggets,shot,Lawson,,,,,,,,,Brewer,2,,,made,,Fadeaway Jumper,,,6-8,17,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=18
-,,,,,,,,,,1,8.20,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=19
-,,,,,,,,,,1,8.15,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,Reverse Layup,,,6-8,4,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=20
+,,,,,,,,,,1,8.20,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Brewer,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=19
+,,,,,,,,,,1,8.15,Denver Nuggets,shot,,,Wallace,,,,,,,Brewer,,,,missed,,Reverse Layup,,,6-8,4,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=20
 ,,,,,,,,,,1,8.14,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,6-8,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=21
 ,,,,,,,,,,1,8.10,Denver Nuggets,shot,,,,,,,,,,Faried,2,,,made,,Turnaround Hook Shot,,,8-8,2,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=22
 ,,,,,,,,,,1,7.52,Brooklyn Nets,shot,Wallace,,,,,,,,,Lopez,2,,,made,,Dunk,,,8-10,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=23
@@ -93,7 +93,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.41,Denver Nuggets,substitute,,,,Fournier,,Chandler,,,,,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=101
 ,,,,,,,,,,1,1.41,Brooklyn Nets,substitute,,,,Blatche,,Lopez,,,,,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=102
 ,,,,,,,,,,1,1.41,Brooklyn Nets,jumpball,,Faried,,,Humphries,,,,,,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=103
-,,,,,,,,,,1,1.33,Brooklyn Nets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=104
+,,,,,,,,,,1,1.33,Brooklyn Nets,turnover,,,,,,,,,,Brooks,,,Bad Pass,,Miller,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=104
 ,,,,,,,,,,1,1.29,Brooklyn Nets,foul,,,,,,,,,,Humphries,,,,,,Shooting,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=105
 ,,,,,,,,,,1,1.29,Denver Nuggets,free throw,,,,,,,1,,2,Fournier,1,,foul,made,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=106
 ,,,,,,,,,,1,1.29,Denver Nuggets,free throw,,,,,,,2,,2,Fournier,,,foul,missed,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=108
@@ -117,7 +117,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.01,Denver Nuggets,shot,,,,,,,,,,Hamilton,,,,missed,,Layup,,,26-27,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=135
 ,,,,,,,,,,2,11.00,Denver Nuggets,rebound,,,,,,,,,,Hamilton,,,,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=136
 ,,,,,,,,,,2,10.57,Denver Nuggets,shot,,,,,,,,,,Hamilton,2,,,made,,Layup,,,28-27,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=137
-,,,,,,,,,,2,10.41,Brooklyn Nets,shot,,,,,,,,,,Blatche,,,,missed,,Layup,,,28-27,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=138
+,,,,,,,,,,2,10.41,Brooklyn Nets,shot,,,Randolph,,,,,,,Blatche,,,,missed,,Layup,,,28-27,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=138
 ,,,,,,,,,,2,10.40,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,28-27,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=139
 ,,,,,,,,,,2,10.25,Brooklyn Nets,foul,,,,,,,,,,Brooks,,,,,,Personal,,,28-27,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=140
 ,,,,,,,,,,2,10.15,Denver Nuggets,shot,Miller,,,,,,,,,McGee,2,,,made,,Reverse Dunk,,,30-27,2,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=141
@@ -139,7 +139,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.16,Brooklyn Nets,rebound,,,,,,,,,,Blatche,,,,,,,,,35-35,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=161
 ,,,,,,,,,,2,8.11,Brooklyn Nets,shot,Blatche,,,,,,,,,Humphries,2,,,made,,Layup,,,35-37,1,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=162
 ,,,,,,,,,,2,7.49,Denver Nuggets,shot,Hamilton,,,,,,,,,Randolph,2,,,made,,Dunk,,,37-37,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=163
-,,,,,,,,,,2,7.31,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Lost Ball,,,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=164
+,,,,,,,,,,2,7.31,Brooklyn Nets,turnover,,,,,,,,,,Blatche,,,Lost Ball,,Lawson,,,,37-37,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=164
 ,,,,,,,,,,2,7.29,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Layup,,,39-37,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=165
 ,,,,,,,,,,2,7.29,Brooklyn Nets,foul,,,,,,,,,,Taylor,,,,,,Shooting,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=166
 ,,,,,,,,,,2,7.29,Brooklyn Nets,substitute,,,,Lopez,,Blatche,,,,,,,,,,,,,39-37,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=167
@@ -200,7 +200,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.33,Denver Nuggets,shot,Lawson,,,,,,,,,Chandler,2,,,made,,Jump Shot,,,56-58,21,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=234
 ,,,,,,,,,,2,1.14,Brooklyn Nets,shot,,,,,,,,,,Watson,,,,missed,,Jump Shot,,,56-58,20,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=235
 ,,,,,,,,,,2,1.13,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=236
-,,,,,,,,,,2,1.07,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=237
+,,,,,,,,,,2,1.07,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Evans,,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=237
 ,,,,,,,,,,2,1.06,Denver Nuggets,foul,,,,,,,,,,Faried,,,,,,Personal,,,56-58,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=238
 ,,,,,,,,,,2,1.06,Brooklyn Nets,free throw,,,,,,,1,,2,Evans,1,,foul,made,,,,,56-59,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=239
 ,,,,,,,,,,2,1.06,Brooklyn Nets,free throw,,,,,,,2,,2,Evans,1,,foul,made,,,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=241
@@ -209,7 +209,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.44,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=245
 ,,,,,,,,,,2,0.44,Denver Nuggets,substitute,,,,Randolph,,Faried,,,,,,,,,,,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=246
 ,,,,,,,,,,2,0.44,Denver Nuggets,free throw,,,,,,,2,,2,Koufos,1,,foul,made,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=247
-,,,,,,,,,,2,0.29,Brooklyn Nets,shot,,,,,,,,,,Lopez,,,,missed,,Layup,,,57-60,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=249
+,,,,,,,,,,2,0.29,Brooklyn Nets,shot,,,Randolph,,,,,,,Lopez,,,,missed,,Layup,,,57-60,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=249
 ,,,,,,,,,,2,0.28,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=250
 ,,,,,,,,,,2,0.27,Denver Nuggets,foul,,,,,,,,,,Chandler,,,,,,Shooting,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=251
 ,,,,,,,,,,2,0.27,Brooklyn Nets,free throw,,,,,,,1,,2,Evans,,,foul,missed,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=252
@@ -229,8 +229,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.30,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=273
 ,,,,,,,,,,3,11.12,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,57-63,25,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=274
 ,,,,,,,,,,3,11.11,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=275
-,,,,,,,,,,3,11.05,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=276
-,,,,,,,,,,3,10.57,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=277
+,,,,,,,,,,3,11.05,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,Watson,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=276
+,,,,,,,,,,3,10.57,Brooklyn Nets,turnover,,,,,,,,,,Wallace,,,Bad Pass,,Lawson,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=277
 ,,,,,,,,,,3,10.49,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,57-63,25,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=278
 ,,,,,,,,,,3,10.48,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=279
 ,,,,,,,,,,3,10.29,Denver Nuggets,foul,,,,,,,,,,Chandler,,,,,,Shooting,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=280
@@ -254,10 +254,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.55,Brooklyn Nets,shot,Wallace,,,,,,,,,Johnson,3,,,made,,3PT Jump Shot,,,61-73,24,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=301
 ,,,,,,,,,,3,7.53,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=302
 ,,,,,,,,,,3,7.42,Denver Nuggets,substitute,,,,McGee,,Koufos,,,,,,,,,,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=306
-,,,,,,,,,,3,7.42,Denver Nuggets,turnover,,,,,,,,,,Chandler,,,Lost Ball,,,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=308
+,,,,,,,,,,3,7.42,Denver Nuggets,turnover,,,,,,,,,,Chandler,,,Lost Ball,,Wallace,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=308
 ,,,,,,,,,,3,7.42,Brooklyn Nets,jumpball,,Chandler,,,Wallace,,,,,,,,,,,,,,61-73,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=307
 ,,,,,,,,,,3,7.17,Brooklyn Nets,shot,Johnson,,,,,,,,,Wallace,3,,,made,,3PT Jump Shot,,,61-76,24,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=309
-,,,,,,,,,,3,7.14,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Dunk,,,61-76,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=310
+,,,,,,,,,,3,7.14,Denver Nuggets,shot,,,Wallace,,,,,,,Faried,,,,missed,,Dunk,,,61-76,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=310
 ,,,,,,,,,,3,7.12,Brooklyn Nets,rebound,,,,,,,,,,Evans,,,,,,,,,61-76,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=311
 ,,,,,,,,,,3,7.02,Denver Nuggets,foul,,,,,,,,,,Brewer,,,,,,Personal,,,61-76,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=312
 ,,,,,,,,,,3,6.53,Brooklyn Nets,shot,,,,,,,,,,Johnson,2,,,made,,Jump Shot,,,61-78,9,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=313
@@ -280,7 +280,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.47,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,66-83,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=333
 ,,,,,,,,,,3,4.29,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,66-83,20,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=335
 ,,,,,,,,,,3,4.28,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,66-83,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=336
-,,,,,,,,,,3,4.24,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,66-83,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=337
+,,,,,,,,,,3,4.24,Denver Nuggets,shot,,,Wallace,,,,,,,Miller,,,,missed,,Layup,,,66-83,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=337
 ,,,,,,,,,,3,4.23,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,66-83,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=338
 ,,,,,,,,,,3,4.22,Denver Nuggets,shot,,,,,,,,,,Chandler,,,,missed,,Tip Shot,,,66-83,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=339
 ,,,,,,,,,,3,4.21,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,66-83,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=340
@@ -305,13 +305,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.52,Denver Nuggets,rebound,,,,,,,,,,Hamilton,,,,,,,,,75-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=361
 ,,,,,,,,,,3,1.38,Denver Nuggets,shot,,,,,,,,,,Lawson,3,,,made,,3PT Jump Shot,,,78-91,24,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=362
 ,,,,,,,,,,3,1.20,Brooklyn Nets,timeout,,,,,,,,,,,,,,,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=365
-,,,,,,,,,,3,1.17,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=367
+,,,,,,,,,,3,1.17,Brooklyn Nets,turnover,,,,,,,,,,Bogans,,,Bad Pass,,Miller,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=367
 ,,,,,,,,,,3,1.10,Brooklyn Nets,foul,,,,,,,,,,Bogans,,,,,,Personal,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=368
 ,,,,,,,,,,3,1.10,Denver Nuggets,free throw,,,,,,,1,,2,McGee,1,,foul,made,,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=369
 ,,,,,,,,,,3,1.10,Denver Nuggets,free throw,,,,,,,2,,2,McGee,,,foul,missed,,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=371
 ,,,,,,,,,,3,1.09,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=373
-,,,,,,,,,,3,0.53,Brooklyn Nets,turnover,,,,,,,,,,Humphries,,,Bad Pass,,,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=374
-,,,,,,,,,,3,0.47,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Lost Ball,,,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=375
+,,,,,,,,,,3,0.53,Brooklyn Nets,turnover,,,,,,,,,,Humphries,,,Bad Pass,,Hamilton,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=374
+,,,,,,,,,,3,0.47,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Lost Ball,,Taylor,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=375
 ,,,,,,,,,,3,0.45,Brooklyn Nets,shot,Taylor,,,,,,,,,Humphries,2,,,made,,Dunk,,,79-93,2,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=376
 ,,,,,,,,,,3,0.32,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,79-93,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=377
 ,,,,,,,,,,3,0.32,Brooklyn Nets,rebound,,,,,,,,,,Lopez,,,,,,,,,79-93,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=378
@@ -345,7 +345,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.48,Brooklyn Nets,turnover,,,,,,,,,,Watson,,,Foul,,,,,,94-101,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=411
 ,,,,,,,,,,4,8.34,Denver Nuggets,shot,,,,,,,,,,Hamilton,,,,missed,,3PT Jump Shot,,,94-101,25,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=412
 ,,,,,,,,,,4,8.33,Brooklyn Nets,rebound,,,,,,,,,,Humphries,,,,,,,,,94-101,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=413
-,,,,,,,,,,4,8.17,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Bad Pass,,,,,,94-101,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=414
+,,,,,,,,,,4,8.17,Brooklyn Nets,turnover,,,,,,,,,,Lopez,,,Bad Pass,,Hamilton,,,,94-101,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=414
 ,,,,,,,,,,4,8.13,Denver Nuggets,shot,,,,,,,,,,Brewer,2,,,made,,Layup,,,96-101,2,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=415
 ,,,,,,,,,,4,7.46,Brooklyn Nets,shot,Wallace,,,,,,,,,Watson,3,,,made,,3PT Jump Shot,,,96-104,24,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=416
 ,,,,,,,,,,4,7.22,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Jump Shot,,,96-104,12,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=417
@@ -363,8 +363,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.51,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,98-105,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=431
 ,,,,,,,,,,4,6.34,Brooklyn Nets,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,98-105,16,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=432
 ,,,,,,,,,,4,6.32,Brooklyn Nets,rebound,,,,,,,,,,Wallace,,,,,,,,,98-105,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=433
-,,,,,,,,,,4,6.19,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,98-105,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=434
-,,,,,,,,,,4,6.06,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,,,,,98-105,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=435
+,,,,,,,,,,4,6.19,Brooklyn Nets,turnover,,,,,,,,,,Johnson,,,Bad Pass,,McGee,,,,98-105,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=434
+,,,,,,,,,,4,6.06,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,Watson,,,,98-105,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=435
 ,,,,,,,,,,4,6.04,Denver Nuggets,foul,,,,,,,,,,Lawson,,,,,,Personal,,,98-105,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=436
 ,,,,,,,,,,4,5.54,Brooklyn Nets,jumpball,,Lawson,,,Lopez,,,,,,,,,,,,,,98-105,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=439
 ,,,,,,,,,,4,5.48,Brooklyn Nets,shot,,,,,,,,,,Watson,2,,,made,,Floating Jump Shot,,,98-107,7,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=440
@@ -398,7 +398,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.14,Denver Nuggets,shot,,,,,,,,,,Lawson,3,,,made,,3PT Jump Shot,,,103-115,25,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=473
 ,,,,,,,,,,4,2.52,Brooklyn Nets,shot,Johnson,,,,,,,,,Lopez,2,,,made,,Layup,,,103-117,2,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=474
 ,,,,,,,,,,4,2.36,Denver Nuggets,shot,,,,,,,,,,Lawson,3,,,made,,3PT Jump Shot,,,106-117,25,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=475
-,,,,,,,,,,4,2.13,Brooklyn Nets,shot,,,,,,,,,,Taylor,,,,missed,,Layup,,,106-117,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=476
+,,,,,,,,,,4,2.13,Brooklyn Nets,shot,,,Miller,,,,,,,Taylor,,,,missed,,Layup,,,106-117,3,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=476
 ,,,,,,,,,,4,2.12,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,106-117,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=477
 ,,,,,,,,,,4,2.12,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,106-117,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=478
 ,,,,,,,,,,4,2.12,Brooklyn Nets,substitute,,,,Watson,,Taylor,,,,,,,,,,,,,106-117,,http://stats.nba.com/cvp.html?GameID=0021200779&GameEventID=480

@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.46,Golden State Warriors,shot,Thompson,,,,,,,,,Bogut,2,,,made,,Dunk,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=2
 ,,,,,,,,,,1,11.27,San Antonio Spurs,shot,Diaw,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,2-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=3
-,,,,,,,,,,1,11.17,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=4
+,,,,,,,,,,1,11.17,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,Diaw,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=4
 ,,,,,,,,,,1,11.07,San Antonio Spurs,shot,,,,,,,,,,Diaw,,,,missed,,Jump Shot,,,2-3,17,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=5
 ,,,,,,,,,,1,11.06,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=6
 ,,,,,,,,,,1,10.57,Golden State Warriors,shot,Thompson,,,,,,,,,Bogut,2,,,made,,Jump Shot,,,4-3,7,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=7
@@ -27,7 +27,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.34,Golden State Warriors,free throw,,,,,,,1,,3,Thompson,1,,foul,made,,,,,9-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=27
 ,,,,,,,,,,1,8.34,Golden State Warriors,free throw,,,,,,,2,,3,Thompson,1,,foul,made,,,,,10-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=29
 ,,,,,,,,,,1,8.34,Golden State Warriors,free throw,,,,,,,3,,3,Thompson,1,,foul,made,,,,,11-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=31
-,,,,,,,,,,1,8.11,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,11-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=32
+,,,,,,,,,,1,8.11,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,Curry,,,,11-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=32
 ,,,,,,,,,,1,8.07,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,11-3,25,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=36
 ,,,,,,,,,,1,8.06,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,11-3,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=33
 ,,,,,,,,,,1,7.54,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Turnaround Bank Shot,,,11-3,9,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=34
@@ -42,7 +42,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.29,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,13-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=46
 ,,,,,,,,,,1,6.28,San Antonio Spurs,substitute,,,,Bonner,,Diaw,,,,,,,,,,,,,13-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=48
 ,,,,,,,,,,1,6.28,Golden State Warriors,substitute,,,,Green,,Ezeli,,,,,,,,,,,,,13-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=49
-,,,,,,,,,,1,6.28,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,13-7,4,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=50
+,,,,,,,,,,1,6.28,San Antonio Spurs,shot,,,Thompson,,,,,,,Parker,,,,missed,,Jump Shot,,,13-7,4,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=50
 ,,,,,,,,,,1,6.27,Golden State Warriors,rebound,,,,,,,,,,Curry,,,,,,,,,13-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=51
 ,,,,,,,,,,1,6.21,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Bad Pass,,,,,,13-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=52
 ,,,,,,,,,,1,6.05,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Bank Shot,,,13-7,11,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=53
@@ -52,7 +52,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.36,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=57
 ,,,,,,,,,,1,5.29,Golden State Warriors,turnover,,,,,,,,,,Curry Out of Bounds,,,Lost Ball,,,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=58
 ,,,,,,,,,,1,5.29,San Antonio Spurs,substitute,,,,Ginobili,,Green,,,,,,,,,,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=59
-,,,,,,,,,,1,5.09,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=60
+,,,,,,,,,,1,5.09,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Lost Ball,,Bogut,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=60
 ,,,,,,,,,,1,4.59,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,3PT Jump Shot,,,15-7,24,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=61
 ,,,,,,,,,,1,4.58,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=62
 ,,,,,,,,,,1,4.46,San Antonio Spurs,shot,Parker,,,,,,,,,Duncan,2,,,made,,Jump Shot,,,15-9,18,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=63
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.07,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,17-11,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=74
 ,,,,,,,,,,1,4.02,San Antonio Spurs,shot,Ginobili,,,,,,,,,Neal,3,,,made,,3PT Jump Shot,,,17-14,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=75
 ,,,,,,,,,,1,3.50,Golden State Warriors,shot,Thompson,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,20-14,25,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=76
-,,,,,,,,,,1,3.38,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,20-14,6,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=77
+,,,,,,,,,,1,3.38,San Antonio Spurs,shot,,,Green,,,,,,,Parker,,,,missed,,Jump Shot,,,20-14,6,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=77
 ,,,,,,,,,,1,3.36,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,20-14,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=78
 ,,,,,,,,,,1,3.32,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,20-14,16,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=79
 ,,,,,,,,,,1,3.31,San Antonio Spurs,rebound,,,,,,,,,,Bonner,,,,,,,,,20-14,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=80
@@ -93,7 +93,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.12,Golden State Warriors,turnover,,,,,,,,,,Landry,,,Traveling,,,,,,24-21,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=101
 ,,,,,,,,,,1,1.01,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,,,,,24-21,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=102
 ,,,,,,,,,,1,0.50,Golden State Warriors,shot,Jack,,,,,,,,,Curry,2,,,made,,Jump Shot,,,26-21,17,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=103
-,,,,,,,,,,1,0.41,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,3PT Jump Shot,,,26-21,25,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=104
+,,,,,,,,,,1,0.41,San Antonio Spurs,shot,,,Green,,,,,,,Ginobili,,,,missed,,3PT Jump Shot,,,26-21,25,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=104
 ,,,,,,,,,,1,0.38,San Antonio Spurs,rebound,,,,,,,,,,Ginobili,,,,,,,,,26-21,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=105
 ,,,,,,,,,,1,0.36,San Antonio Spurs,shot,,,,,,,,,,Ginobili,3,,,made,,3PT Jump Shot,,,26-24,25,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=106
 ,,,,,,,,,,1,0.28,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Floating Jump Shot,,,28-24,5,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=107
@@ -116,7 +116,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.31,Golden State Warriors,shot,,,,,,,,,,Jack,2,,,made,,Jump Bank Shot,,,32-27,5,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=132
 ,,,,,,,,,,2,10.16,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,3PT Jump Shot,,,32-27,24,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=133
 ,,,,,,,,,,2,10.14,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,32-27,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=134
-,,,,,,,,,,2,9.55,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Lost Ball,,,,,,32-27,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=135
+,,,,,,,,,,2,9.55,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Lost Ball,,Blair,,,,32-27,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=135
 ,,,,,,,,,,2,9.50,San Antonio Spurs,shot,Ginobili,,,,,,,,,Neal,2,,,made,,Layup,,,32-29,2,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=136
 ,,,,,,,,,,2,9.33,Golden State Warriors,shot,Green,,,,,,,,,Thompson,2,,,made,,Jump Shot,,,34-29,15,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=137
 ,,,,,,,,,,2,9.27,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=138
@@ -131,13 +131,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.50,San Antonio Spurs,foul,,,,,,,,,,Leonard,,,,,,Personal,,,34-31,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=150
 ,,,,,,,,,,2,8.38,Golden State Warriors,shot,Bogut,,,,,,,,,Barnes,2,,,made,,Driving Reverse Layup,,,36-31,1,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=151
 ,,,,,,,,,,2,8.16,San Antonio Spurs,substitute,,,,Neal,,Bonner,,,,,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=152
-,,,,,,,,,,2,8.16,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Lost Ball,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=154
+,,,,,,,,,,2,8.16,San Antonio Spurs,turnover,,,,,,,,,,Leonard,,,Lost Ball,,Thompson,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=154
 ,,,,,,,,,,2,8.16,San Antonio Spurs,jumpball,,Bogut,,,Leonard,,,,,,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=153
 ,,,,,,,,,,2,8.02,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Jump Shot,,,36-31,5,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=155
 ,,,,,,,,,,2,8.00,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=156
 ,,,,,,,,,,2,7.55,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Jump Shot,,,36-31,17,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=157
 ,,,,,,,,,,2,7.54,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=158
-,,,,,,,,,,2,7.48,San Antonio Spurs,shot,,,,,,,,,,Leonard,,,,missed,,Driving Jump Shot,,,36-31,3,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=159
+,,,,,,,,,,2,7.48,San Antonio Spurs,shot,,,Bogut,,,,,,,Leonard,,,,missed,,Driving Jump Shot,,,36-31,3,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=159
 ,,,,,,,,,,2,7.46,Golden State Warriors,rebound,,,,,,,,,,Bogut,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=160
 ,,,,,,,,,,2,7.38,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,3PT Jump Shot,,,36-31,24,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=161
 ,,,,,,,,,,2,7.37,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,36-31,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=162
@@ -183,8 +183,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.02,San Antonio Spurs,rebound,,,,,,,,,,Ginobili,,,,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=208
 ,,,,,,,,,,2,2.59,Golden State Warriors,foul,,,,,,,,,,Thompson,,,,,,Personal,,,46-41,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=209
 ,,,,,,,,,,2,2.59,Golden State Warriors,substitute,,,,Green,,Thompson,,,,,,,,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=212
-,,,,,,,,,,2,2.53,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=213
-,,,,,,,,,,2,2.50,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Lost Ball,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=214
+,,,,,,,,,,2,2.53,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,Jack,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=213
+,,,,,,,,,,2,2.50,Golden State Warriors,turnover,,,,,,,,,,Barnes,,,Lost Ball,,Ginobili,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=214
 ,,,,,,,,,,2,2.37,Golden State Warriors,foul,,,,,,,,,,Bogut,,,,,,Personal,,,46-41,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=215
 ,,,,,,,,,,2,2.37,San Antonio Spurs,free throw,,,,,,,1,,2,Parker,1,,foul,made,,,,,46-42,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=216
 ,,,,,,,,,,2,2.37,San Antonio Spurs,free throw,,,,,,,2,,2,Parker,1,,foul,made,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=219
@@ -239,9 +239,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.22,San Antonio Spurs,free throw,,,,,,,1,,2,Leonard,1,,foul,made,,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=282
 ,,,,,,,,,,3,10.22,San Antonio Spurs,free throw,,,,,,,2,,2,Leonard,,,foul,missed,,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=284
 ,,,,,,,,,,3,10.21,Golden State Warriors,rebound,,,,,,,,,,Thompson,,,,,,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=286
-,,,,,,,,,,3,10.12,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=287
+,,,,,,,,,,3,10.12,Golden State Warriors,turnover,,,,,,,,,,Thompson,,,Lost Ball,,Green,,,,58-52,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=287
 ,,,,,,,,,,3,10.03,San Antonio Spurs,shot,Parker,,,,,,,,,Bonner,3,,,made,,3PT Jump Shot,,,58-55,25,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=288
-,,,,,,,,,,3,9.49,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,Bad Pass,,,,,,58-55,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=289
+,,,,,,,,,,3,9.49,Golden State Warriors,turnover,,,,,,,,,,Bogut,,,Bad Pass,,Leonard,,,,58-55,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=289
 ,,,,,,,,,,3,9.45,San Antonio Spurs,shot,,,,,,,,,,Leonard,2,,,made,,Dunk,,,58-57,2,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=290
 ,,,,,,,,,,3,9.45,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,58-57,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=291
 ,,,,,,,,,,3,9.45,Golden State Warriors,substitute,,,,Green,,Ezeli,,,,,,,,,,,,,58-57,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=292
@@ -272,7 +272,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.56,Golden State Warriors,shot,,,,,,,,,,Thompson,2,,,made,,Reverse Layup,,,76-69,2,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=318
 ,,,,,,,,,,3,4.40,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,76-69,26,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=319
 ,,,,,,,,,,3,4.39,San Antonio Spurs,rebound,,,,,,,,,,Bonner,,,,,,,,,76-69,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=320
-,,,,,,,,,,3,4.33,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,76-69,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=321
+,,,,,,,,,,3,4.33,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,Thompson,,,,76-69,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=321
 ,,,,,,,,,,3,4.31,San Antonio Spurs,substitute,,,,Ginobili,,Leonard,,,,,,,,,,,,,76-69,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=323
 ,,,,,,,,,,3,4.31,San Antonio Spurs,substitute,,,,Neal,,Bonner,,,,,,,,,,,,,76-69,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=324
 ,,,,,,,,,,3,4.23,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,76-69,21,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=325
@@ -291,7 +291,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.33,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Jump Bank Shot,,,78-70,5,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=339
 ,,,,,,,,,,3,3.18,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,78-70,25,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=340
 ,,,,,,,,,,3,3.17,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,78-70,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=341
-,,,,,,,,,,3,3.11,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Layup,,,78-70,1,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=342
+,,,,,,,,,,3,3.11,San Antonio Spurs,shot,,,Ezeli,,,,,,,Parker,,,,missed,,Layup,,,78-70,1,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=342
 ,,,,,,,,,,3,3.11,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,78-70,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=343
 ,,,,,,,,,,3,3.11,Golden State Warriors,substitute,,,,Jack,,Thompson,,,,,,,,,,,,,78-70,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=344
 ,,,,,,,,,,3,2.59,San Antonio Spurs,shot,,,,,,,,,,Duncan,2,,,made,,Jump Bank Shot,,,78-72,4,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=345
@@ -358,7 +358,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.43,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,98-82,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=414
 ,,,,,,,,,,4,8.37,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,98-82,25,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=415
 ,,,,,,,,,,4,8.37,Golden State Warriors,rebound,,,,,,,,,,Landry,,,,,,,,,98-82,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=416
-,,,,,,,,,,4,8.29,Golden State Warriors,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,98-82,2,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=417
+,,,,,,,,,,4,8.29,Golden State Warriors,shot,,,Green,,,,,,,Thompson,,,,missed,,Layup,,,98-82,2,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=417
 ,,,,,,,,,,4,8.28,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,98-82,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=418
 ,,,,,,,,,,4,8.27,Golden State Warriors,foul,,,,,,,,,,Landry,,,,,,Personal,,,98-82,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=419
 ,,,,,,,,,,4,8.14,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Shot,,,98-82,4,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=422
@@ -421,14 +421,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.14,Golden State Warriors,foul,,,,,,,,,,Curry,,,,,,Offensive Charge,,,104-92,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=487
 ,,,,,,,,,,4,3.14,Golden State Warriors,turnover,,,,,,,,,,Curry,,,Foul,,,,,,104-92,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=488
 ,,,,,,,,,,4,3.06,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Layup,,,104-94,2,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=489
-,,,,,,,,,,4,2.49,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,,,,,104-94,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=490
+,,,,,,,,,,4,2.49,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,Leonard,,,,104-94,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=490
 ,,,,,,,,,,4,2.42,San Antonio Spurs,shot,Parker,,,,,,,,,Leonard,2,,,made,,Layup,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=491
 ,,,,,,,,,,4,2.42,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=492
 ,,,,,,,,,,4,2.18,Golden State Warriors,shot,,,,,,,,,,Jack,,,,missed,,Jump Shot,,,104-96,5,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=494
 ,,,,,,,,,,4,2.17,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=496
 ,,,,,,,,,,4,2.17,Golden State Warriors,shot,,,,,,,,,,Green,,,,missed,,Putback Layup,,,104-96,2,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=495
 ,,,,,,,,,,4,2.15,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=497
-,,,,,,,,,,4,2.00,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,,,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=498
+,,,,,,,,,,4,2.00,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,Green,,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=498
 ,,,,,,,,,,4,1.57,San Antonio Spurs,foul,,,,,,,,,,Neal,,,,,,Shooting,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=499
 ,,,,,,,,,,4,1.57,Golden State Warriors,free throw,,,,,,,1,,2,Jefferson,,,foul,missed,,,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=500
 ,,,,,,,,,,4,1.57,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=501
@@ -436,7 +436,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.57,Golden State Warriors,free throw,,,,,,,2,,2,Jefferson,,,foul,missed,,,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=503
 ,,,,,,,,,,4,1.56,San Antonio Spurs,rebound,,,,,,,,,,Ginobili,,,,,,,,,104-96,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=505
 ,,,,,,,,,,4,1.41,San Antonio Spurs,shot,Ginobili,,,,,,,,,Leonard,3,,,made,,3PT Jump Shot,,,104-99,24,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=506
-,,,,,,,,,,4,1.22,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,104-99,24,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=507
+,,,,,,,,,,4,1.22,Golden State Warriors,shot,,,Diaw,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,104-99,24,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=507
 ,,,,,,,,,,4,1.20,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,104-99,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=508
 ,,,,,,,,,,4,1.18,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Layup,,,104-101,2,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=509
 ,,,,,,,,,,4,1.18,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,104-101,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=510
@@ -468,13 +468,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,2.50,Golden State Warriors,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,111-108,9,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=542
 ,,,,,,,,,,5,2.49,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,111-108,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=543
 ,,,,,,,,,,5,2.27,San Antonio Spurs,shot,,,,,,,,,,Diaw,3,,,made,,3PT Jump Shot,,,111-111,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=544
-,,,,,,,,,,5,2.08,Golden State Warriors,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,111-111,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=545
+,,,,,,,,,,5,2.08,Golden State Warriors,turnover,,,,,,,,,,Green,,,Bad Pass,,Diaw,,,,111-111,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=545
 ,,,,,,,,,,5,2.02,San Antonio Spurs,shot,Parker,,,,,,,,,Green,2,,,made,,Layup,,,111-113,1,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=546
 ,,,,,,,,,,5,1.47,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,111-113,20,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=547
 ,,,,,,,,,,5,1.45,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,111-113,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=548
 ,,,,,,,,,,5,1.31,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,111-113,16,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=549
 ,,,,,,,,,,5,1.30,San Antonio Spurs,rebound,,,,,,,,,,Ginobili,,,,,,,,,111-113,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=550
-,,,,,,,,,,5,1.20,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,,,,,111-113,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=551
+,,,,,,,,,,5,1.20,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,Curry,,,,111-113,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=551
 ,,,,,,,,,,5,1.16,Golden State Warriors,shot,,,,,,,,,,Curry,2,,,made,,Layup,,,113-113,2,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=552
 ,,,,,,,,,,5,1.02,San Antonio Spurs,shot,,,,,,,,,,Leonard,2,,,made,,Pullup Jump Shot,,,113-115,6,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=553
 ,,,,,,,,,,5,1.02,Golden State Warriors,timeout,,,,,,,,,,,,,,,,,,,113-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=554
@@ -493,13 +493,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,0.01,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,Jump Shot,,,115-115,22,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=568
 ,,,,,,,,,,5,0.00,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=569
 ,,,,,,,,,,6,5.00,San Antonio Spurs,jumpball,,Bogut,,,Diaw,,,,,,,,,,,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=573
-,,,,,,,,,,6,4.43,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Bad Pass,,,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=574
+,,,,,,,,,,6,4.43,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Bad Pass,,Jack,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=574
 ,,,,,,,,,,6,4.37,Golden State Warriors,shot,,,,,,,,,,Barnes,,,,missed,,Layup,,,115-115,1,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=575
 ,,,,,,,,,,6,4.35,Golden State Warriors,rebound,,,,,,,,,,Barnes,,,,,,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=576
 ,,,,,,,,,,6,4.31,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,3PT Jump Shot,,,115-115,26,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=577
 ,,,,,,,,,,6,4.30,Golden State Warriors,rebound,,,,,,,,,,,,,,,,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=578
 ,,,,,,,,,,6,4.30,San Antonio Spurs,substitute,,,,Neal,,Ginobili,,,,,,,,,,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=584
-,,,,,,,,,,6,4.13,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=580
+,,,,,,,,,,6,4.13,Golden State Warriors,turnover,,,,,,,,,,Jack,,,Bad Pass,,Green,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=580
 ,,,,,,,,,,6,4.13,Golden State Warriors,foul,,,,,,,,,,Green,,,,,,Personal,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=581
 ,,,,,,,,,,6,3.51,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,115-115,19,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=582
 ,,,,,,,,,,6,3.50,Golden State Warriors,rebound,,,,,,,,,,Green,,,,,,,,,115-115,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=583
@@ -515,9 +515,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,6,2.24,Golden State Warriors,foul,,,,,,,,,,Green,,,,,,Loose ball,,,120-119,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=597
 ,,,,,,,,,,6,2.24,Golden State Warriors,substitute,,,,Landry,,Green,,,,,,,,,,,,,120-119,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=598
 ,,,,,,,,,,6,2.14,San Antonio Spurs,shot,,,,,,,,,,Diaw,2,,,made,,Jump Shot,,,120-121,16,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=599
-,,,,,,,,,,6,2.01,Golden State Warriors,turnover,,,,,,,,,,Landry,,,Bad Pass,,,,,,120-121,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=600
+,,,,,,,,,,6,2.01,Golden State Warriors,turnover,,,,,,,,,,Landry,,,Bad Pass,,Green,,,,120-121,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=600
 ,,,,,,,,,,6,1.47,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Pullup Jump Shot,,,120-123,7,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=601
-,,,,,,,,,,6,1.36,Golden State Warriors,shot,,,,,,,,,,Curry,,,,missed,,Jump Shot,,,120-123,6,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=602
+,,,,,,,,,,6,1.36,Golden State Warriors,shot,,,Green,,,,,,,Curry,,,,missed,,Jump Shot,,,120-123,6,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=602
 ,,,,,,,,,,6,1.35,Golden State Warriors,rebound,,,,,,,,,,Jack,,,,,,,,,120-123,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=603
 ,,,,,,,,,,6,1.27,San Antonio Spurs,foul,,,,,,,,,,Ginobili,,,,,,Shooting Block,,,120-123,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=604
 ,,,,,,,,,,6,1.27,Golden State Warriors,free throw,,,,,,,1,,2,Jack,1,,foul,made,,,,,121-123,,http://stats.nba.com/cvp.html?GameID=0041200231&GameEventID=605

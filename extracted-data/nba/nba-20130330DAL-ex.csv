@@ -5,7 +5,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.22,Chicago Bulls,shot,,,,,,,,,,Deng,2,,,made,,Driving Jump Shot,,,2-0,5,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=5
 ,,,,,,,,,,1,10.55,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Driving Jump Shot,,,2-0,12,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=6
 ,,,,,,,,,,1,10.54,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=7
-,,,,,,,,,,1,10.36,Chicago Bulls,shot,,,,,,,,,,Hinrich,,,,missed,,Driving Layup,,,2-0,3,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=8
+,,,,,,,,,,1,10.36,Chicago Bulls,shot,,,Brand,,,,,,,Hinrich,,,,missed,,Driving Layup,,,2-0,3,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=8
 ,,,,,,,,,,1,10.36,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=9
 ,,,,,,,,,,1,10.33,Chicago Bulls,shot,Hinrich,,,,,,,,,Boozer,2,,,made,,Pullup Jump Shot,,,4-0,17,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=10
 ,,,,,,,,,,1,10.20,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,4-0,18,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=11
@@ -23,9 +23,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.21,Chicago Bulls,free throw,,,,,,,1,,2,Boozer,,,foul,missed,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=24
 ,,,,,,,,,,1,8.21,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=25
 ,,,,,,,,,,1,8.21,Chicago Bulls,free throw,,,,,,,2,,2,Boozer,1,,foul,made,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=26
-,,,,,,,,,,1,8.04,Dallas Mavericks,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=28
+,,,,,,,,,,1,8.04,Dallas Mavericks,turnover,,,,,,,,,,James,,,Bad Pass,,Deng,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=28
 ,,,,,,,,,,1,7.58,Chicago Bulls,shot,Mohammed,,,,,,,,,Butler,2,,,made,,Slam Dunk,,,11-8,1,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=29
-,,,,,,,,,,1,7.32,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=31
+,,,,,,,,,,1,7.32,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Mohammed,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=31
 ,,,,,,,,,,1,7.11,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=32
 ,,,,,,,,,,1,7.10,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=33
 ,,,,,,,,,,1,7.09,Chicago Bulls,turnover,,,,,,,,,,Deng Out of Bounds,,,Lost Ball,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=34
@@ -34,7 +34,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.29,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,11-10,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=37
 ,,,,,,,,,,1,6.25,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Running Finger Roll Layup,,,11-10,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=38
 ,,,,,,,,,,1,6.22,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,11-10,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=39
-,,,,,,,,,,1,6.11,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Driving Layup,,,11-10,1,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=40
+,,,,,,,,,,1,6.11,Chicago Bulls,shot,,,Marion,,,,,,,Deng,,,,missed,,Driving Layup,,,11-10,1,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=40
 ,,,,,,,,,,1,6.10,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,11-10,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=41
 ,,,,,,,,,,1,6.00,Dallas Mavericks,shot,Marion,,,,,,,,,Brand,2,,,made,,Jump Shot,,,11-12,17,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=42
 ,,,,,,,,,,1,5.33,Chicago Bulls,shot,Hinrich,,,,,,,,,Deng,2,,,made,,Reverse Layup,,,13-12,1,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=43
@@ -49,7 +49,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.52,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,13-12,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=53
 ,,,,,,,,,,1,4.49,Dallas Mavericks,shot,Wright,,,,,,,,,Marion,2,,,made,,Layup,,,13-14,1,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=54
 ,,,,,,,,,,1,4.40,Dallas Mavericks,foul,,,,,,,,,,Carter,,,,,,Personal,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=55
-,,,,,,,,,,1,4.29,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,13-14,5,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=56
+,,,,,,,,,,1,4.29,Chicago Bulls,shot,,,Marion,,,,,,,Boozer,,,,missed,,Jump Shot,,,13-14,5,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=56
 ,,,,,,,,,,1,4.28,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=57
 ,,,,,,,,,,1,4.25,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Driving Layup,,,13-14,1,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=58
 ,,,,,,,,,,1,4.21,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=59
@@ -58,7 +58,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.09,Chicago Bulls,foul,,,,,,,,,,Boozer,,,,,,Loose ball,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=62
 ,,,,,,,,,,1,4.09,Chicago Bulls,substitute,,,,Robinson,,Hinrich,,,,,,,,,,,,,13-14,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=63
 ,,,,,,,,,,1,3.55,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Driving Jump Shot,,,13-16,9,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=64
-,,,,,,,,,,1,3.36,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,,,,,13-16,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=65
+,,,,,,,,,,1,3.36,Chicago Bulls,turnover,,,,,,,,,,Deng,,,Bad Pass,,Collison,,,,13-16,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=65
 ,,,,,,,,,,1,3.30,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,13-16,26,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=66
 ,,,,,,,,,,1,3.28,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,13-16,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=67
 ,,,,,,,,,,1,3.20,Dallas Mavericks,foul,,,,,,,,,,Wright,,,,,,Shooting,,,13-16,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=68
@@ -106,8 +106,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.18,Chicago Bulls,shot,Butler,,,,,,,,,Gibson,2,,,made,,Jump Shot,,,25-24,5,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=123
 ,,,,,,,,,,2,11.05,Dallas Mavericks,shot,Nowitzki,,,,,,,,,Crowder,2,,,made,,Layup,,,25-26,3,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=124
 ,,,,,,,,,,2,10.42,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Traveling,,,,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=125
-,,,,,,,,,,2,10.31,Dallas Mavericks,turnover,,,,,,,,,,Brand,,,Lost Ball,,,,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=126
-,,,,,,,,,,2,10.26,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Layup,,,25-26,2,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=127
+,,,,,,,,,,2,10.31,Dallas Mavericks,turnover,,,,,,,,,,Brand,,,Lost Ball,,Boozer,,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=126
+,,,,,,,,,,2,10.26,Chicago Bulls,shot,,,Crowder,,,,,,,Butler,,,,missed,,Layup,,,25-26,2,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=127
 ,,,,,,,,,,2,10.22,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=129
 ,,,,,,,,,,2,10.22,Chicago Bulls,shot,,,,,,,,,,Boozer,2,,,made,,Tip Shot,,,27-26,1,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=128
 ,,,,,,,,,,2,10.05,Chicago Bulls,foul,,,,,,,,,,Gibson,,,,,,Shooting,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=130
@@ -183,7 +183,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.01,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Traveling,,,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=217
 ,,,,,,,,,,3,11.43,Dallas Mavericks,shot,,,,,,,,,,James,2,,,made,,Jump Shot,,,56-55,8,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=221
 ,,,,,,,,,,3,11.17,Chicago Bulls,shot,Hinrich,,,,,,,,,Boozer,2,,,made,,Jump Shot,,,58-55,16,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=222
-,,,,,,,,,,3,11.06,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,,,,,58-55,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=223
+,,,,,,,,,,3,11.06,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,Hinrich,,,,58-55,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=223
 ,,,,,,,,,,3,11.00,Chicago Bulls,shot,,,,,,,,,,Hinrich,2,,,made,,Layup,,,60-55,2,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=224
 ,,,,,,,,,,3,10.36,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Pullup Jump Shot,,,60-55,18,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=225
 ,,,,,,,,,,3,10.34,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,60-55,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=226
@@ -192,7 +192,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.53,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,60-55,26,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=229
 ,,,,,,,,,,3,9.52,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,60-55,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=230
 ,,,,,,,,,,3,9.35,Chicago Bulls,shot,,,,,,,,,,Boozer,2,,,made,,Turnaround Fadeaway,,,62-55,15,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=231
-,,,,,,,,,,3,9.19,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,62-55,5,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=232
+,,,,,,,,,,3,9.19,Dallas Mavericks,shot,,,Mohammed,,,,,,,James,,,,missed,,Jump Shot,,,62-55,5,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=232
 ,,,,,,,,,,3,9.17,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,62-55,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=233
 ,,,,,,,,,,3,8.59,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Shooting,,,62-55,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=235
 ,,,,,,,,,,3,8.59,Chicago Bulls,free throw,,,,,,,1,,2,Butler,1,,foul,made,,,,,63-55,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=236
@@ -212,12 +212,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.56,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Jump Shot,,,68-57,17,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=255
 ,,,,,,,,,,3,7.36,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Palming,,,,,,68-57,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=256
 ,,,,,,,,,,3,7.22,Dallas Mavericks,shot,Carter,,,,,,,,,Wright,2,,,made,,Jump Shot,,,68-59,10,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=257
-,,,,,,,,,,3,7.03,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Lost Ball,,,,,,68-59,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=258
-,,,,,,,,,,3,6.51,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Jump Shot,,,68-59,20,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=259
+,,,,,,,,,,3,7.03,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Lost Ball,,Mayo,,,,68-59,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=258
+,,,,,,,,,,3,6.51,Dallas Mavericks,shot,,,Boozer,,,,,,,Nowitzki,,,,missed,,Jump Shot,,,68-59,20,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=259
 ,,,,,,,,,,3,6.49,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,68-59,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=260
 ,,,,,,,,,,3,6.47,Chicago Bulls,foul,,,,,,,,,,Butler,,,,,,Offensive Charge,,,68-59,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=261
 ,,,,,,,,,,3,6.47,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Foul,,,,,,68-59,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=262
-,,,,,,,,,,3,6.33,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Driving Layup,,,68-59,3,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=263
+,,,,,,,,,,3,6.33,Dallas Mavericks,shot,,,Mohammed,,,,,,,Carter,,,,missed,,Driving Layup,,,68-59,3,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=263
 ,,,,,,,,,,3,6.31,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,68-59,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=264
 ,,,,,,,,,,3,6.21,Chicago Bulls,shot,,,,,,,,,,Hinrich,,,,missed,,Jump Shot,,,68-59,17,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=265
 ,,,,,,,,,,3,6.19,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,68-59,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=266
@@ -243,7 +243,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.13,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,74-63,18,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=294
 ,,,,,,,,,,3,4.12,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,74-63,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=295
 ,,,,,,,,,,3,4.07,Dallas Mavericks,turnover,,,,,,,,,,Wright,,,Bad Pass,,,,,,74-63,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=296
-,,,,,,,,,,3,3.49,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,,,,,74-63,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=297
+,,,,,,,,,,3,3.49,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,Carter,,,,74-63,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=297
 ,,,,,,,,,,3,3.41,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Jump Shot,,,74-65,13,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=298
 ,,,,,,,,,,3,3.31,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Personal,,,74-65,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=299
 ,,,,,,,,,,3,3.31,Chicago Bulls,substitute,,,,Robinson,,Hinrich,,,,,,,,,,,,,74-65,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=300
@@ -252,13 +252,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.25,Chicago Bulls,free throw,,,,,,,1,,2,Deng,,,foul,missed,,,,,74-65,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=303
 ,,,,,,,,,,3,3.25,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,74-65,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=304
 ,,,,,,,,,,3,3.25,Chicago Bulls,free throw,,,,,,,2,,2,Deng,1,,foul,made,,,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=305
-,,,,,,,,,,3,3.12,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,,,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=307
+,,,,,,,,,,3,3.12,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,Robinson,,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=307
 ,,,,,,,,,,3,3.04,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,3PT Jump Shot,,,75-65,24,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=308
 ,,,,,,,,,,3,3.02,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=309
 ,,,,,,,,,,3,3.00,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,Shooting,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=310
 ,,,,,,,,,,3,3.00,Dallas Mavericks,free throw,,,,,,,1,,2,Mayo,1,,foul,made,,,,,75-66,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=311
 ,,,,,,,,,,3,3.00,Dallas Mavericks,free throw,,,,,,,2,,2,Mayo,1,,foul,made,,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=313
-,,,,,,,,,,3,2.41,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,75-67,9,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=315
+,,,,,,,,,,3,2.41,Chicago Bulls,shot,,,Wright,,,,,,,Gibson,,,,missed,,Jump Shot,,,75-67,9,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=315
 ,,,,,,,,,,3,2.39,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=316
 ,,,,,,,,,,3,2.36,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Fadeaway Jumper,,,75-67,7,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=317
 ,,,,,,,,,,3,2.35,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,75-67,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=318
@@ -279,13 +279,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.33,Dallas Mavericks,shot,,,,,,,,,,Marion,2,,,made,,Putback Layup,,,75-75,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=335
 ,,,,,,,,,,3,0.11,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,75-75,19,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=337
 ,,,,,,,,,,3,0.08,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,75-75,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=338
-,,,,,,,,,,3,0.05,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Layup,,,75-75,2,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=339
+,,,,,,,,,,3,0.05,Chicago Bulls,shot,,,Marion,,,,,,,Gibson,,,,missed,,Layup,,,75-75,2,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=339
 ,,,,,,,,,,3,0.03,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,75-75,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=340
 ,,,,,,,,,,3,0.00,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Running Jump Shot,,,75-75,28,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=341
 ,,,,,,,,,,3,0.00,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,75-75,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=342
 ,,,,,,,,,,4,11.46,Chicago Bulls,shot,Gibson,,,,,,,,,Robinson,3,,,made,,3PT Jump Shot,,,78-75,24,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=346
-,,,,,,,,,,4,11.24,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Lost Ball,,,,,,78-75,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=347
-,,,,,,,,,,4,11.18,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Layup,,,78-75,3,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=348
+,,,,,,,,,,4,11.24,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Lost Ball,,Mohammed,,,,78-75,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=347
+,,,,,,,,,,4,11.18,Chicago Bulls,shot,,,Carter,,,,,,,Butler,,,,missed,,Layup,,,78-75,3,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=348
 ,,,,,,,,,,4,11.16,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,78-75,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=349
 ,,,,,,,,,,4,11.02,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Jump Shot,,,78-75,6,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=350
 ,,,,,,,,,,4,11.01,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,78-75,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=351
@@ -320,7 +320,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.56,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Driving Jump Shot,,,86-78,6,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=383
 ,,,,,,,,,,4,7.54,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=384
 ,,,,,,,,,,4,7.46,Dallas Mavericks,shot,James,,,,,,,,,Nowitzki,3,,,made,,3PT Jump Shot,,,86-81,26,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=385
-,,,,,,,,,,4,7.23,Chicago Bulls,shot,,,,,,,,,,Mohammed,,,,missed,,Layup,,,86-81,2,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=386
+,,,,,,,,,,4,7.23,Chicago Bulls,shot,,,Nowitzki,,,,,,,Mohammed,,,,missed,,Layup,,,86-81,2,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=386
 ,,,,,,,,,,4,7.21,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,86-81,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=387
 ,,,,,,,,,,4,7.16,Chicago Bulls,foul,,,,,,,,,,Mohammed,,,,,,Personal,,,86-81,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=388
 ,,,,,,,,,,4,7.16,Chicago Bulls,substitute,,,,Boozer,,Mohammed,,,,,,,,,,,,,86-81,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=389
@@ -331,7 +331,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.37,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,88-81,24,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=394
 ,,,,,,,,,,4,6.36,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,88-81,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=395
 ,,,,,,,,,,4,6.30,Dallas Mavericks,shot,Crowder,,,,,,,,,Nowitzki,2,,,made,,Step Back Jump Shot,,,88-83,12,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=396
-,,,,,,,,,,4,6.06,Chicago Bulls,shot,,,,,,,,,,Hinrich,,,,missed,,Jump Shot,,,88-83,6,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=397
+,,,,,,,,,,4,6.06,Chicago Bulls,shot,,,Marion,,,,,,,Hinrich,,,,missed,,Jump Shot,,,88-83,6,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=397
 ,,,,,,,,,,4,6.04,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,88-83,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=398
 ,,,,,,,,,,4,6.00,Chicago Bulls,shot,Boozer,,,,,,,,,Robinson,3,,,made,,3PT Jump Shot,,,91-83,32,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=399
 ,,,,,,,,,,4,5.59,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,91-83,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=401
@@ -356,7 +356,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.33,Dallas Mavericks,free throw,,,,,,,2,,2,Carter,1,,foul,made,,,,,97-87,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=424
 ,,,,,,,,,,4,3.15,Chicago Bulls,shot,,,,,,,,,,Hinrich,,,,missed,,3PT Jump Shot,,,97-87,26,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=426
 ,,,,,,,,,,4,3.13,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,97-87,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=427
-,,,,,,,,,,4,3.09,Dallas Mavericks,shot,,,,,,,,,,Wright,,,,missed,,Layup,,,97-87,3,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=428
+,,,,,,,,,,4,3.09,Dallas Mavericks,shot,,,Butler,,,,,,,Wright,,,,missed,,Layup,,,97-87,3,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=428
 ,,,,,,,,,,4,3.08,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,97-87,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=430
 ,,,,,,,,,,4,3.06,Dallas Mavericks,shot,,,,,,,,,,Wright,2,,,made,,Putback Layup,,,97-89,2,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=429
 ,,,,,,,,,,4,3.06,Chicago Bulls,foul,,,,,,,,,,Boozer,,,,,,Shooting,,,97-89,,http://stats.nba.com/cvp.html?GameID=0021201085&GameEventID=431

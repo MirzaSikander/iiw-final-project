@@ -6,7 +6,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.03,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Hook Shot,,,0-4,5,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=6
 ,,,,,,,,,,1,11.00,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=7
 ,,,,,,,,,,1,10.56,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Personal,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=8
-,,,,,,,,,,1,10.40,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=9
+,,,,,,,,,,1,10.40,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Scola,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=9
 ,,,,,,,,,,1,10.27,Phoenix Suns,shot,Gortat,,,,,,,,,Tucker,3,,,made,,3PT Jump Shot,,,3-4,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=10
 ,,,,,,,,,,1,10.14,Los Angeles Lakers,shot,,,,,,,,,,Nash,2,,,made,,Fadeaway Jumper,,,3-6,19,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=11
 ,,,,,,,,,,1,10.03,Phoenix Suns,shot,Dudley,,,,,,,,,Gortat,2,,,made,,Slam Dunk,,,5-6,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=12
@@ -29,9 +29,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.48,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=30
 ,,,,,,,,,,1,7.35,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Hook Shot,,,7-8,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=31
 ,,,,,,,,,,1,7.34,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=32
-,,,,,,,,,,1,7.26,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=33
+,,,,,,,,,,1,7.26,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Lost Ball,,Peace,,,,7-8,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=33
 ,,,,,,,,,,1,7.21,Los Angeles Lakers,shot,Nash,,,,,,,,,Clark,2,,,made,,Driving Layup,,,7-10,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=34
-,,,,,,,,,,1,7.03,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,,,,,7-10,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=35
+,,,,,,,,,,1,7.03,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,Peace,,,,7-10,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=35
 ,,,,,,,,,,1,6.50,Los Angeles Lakers,shot,,,,,,,,,,Clark,,,,missed,,Jump Shot,,,7-10,21,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=36
 ,,,,,,,,,,1,6.49,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,7-10,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=37
 ,,,,,,,,,,1,6.43,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Traveling,,,,,,7-10,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=38
@@ -40,19 +40,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.33,Los Angeles Lakers,free throw,,,,,,,2,,2,Howard,,,foul,missed,,,,,7-11,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=42
 ,,,,,,,,,,1,6.32,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,7-11,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=44
 ,,,,,,,,,,1,6.16,Phoenix Suns,shot,Scola,,,,,,,,,Dudley,2,,,made,,Jump Shot,,,9-11,17,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=45
-,,,,,,,,,,1,5.59,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Lost Ball,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=46
+,,,,,,,,,,1,5.59,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Lost Ball,,Scola,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=46
 ,,,,,,,,,,1,5.55,Phoenix Suns,shot,Tucker,,,,,,,,,Scola,2,,,made,,Driving Dunk,,,11-11,1,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=47
 ,,,,,,,,,,1,5.39,Los Angeles Lakers,shot,Bryant,,,,,,,,,World Peace,3,,,made,,3PT Jump Shot,,,11-14,24,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=48
-,,,,,,,,,,1,5.25,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Driving Layup,,,11-14,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=49
+,,,,,,,,,,1,5.25,Phoenix Suns,shot,,,Howard,,,,,,,Dragic,,,,missed,,Driving Layup,,,11-14,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=49
 ,,,,,,,,,,1,5.22,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=50
-,,,,,,,,,,1,5.21,Phoenix Suns,turnover,,,,,,,,,,Gortat,,,Lost Ball,,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=51
+,,,,,,,,,,1,5.21,Phoenix Suns,turnover,,,,,,,,,,Gortat,,,Lost Ball,,Howard,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=51
 ,,,,,,,,,,1,5.16,Los Angeles Lakers,shot,,,,,,,,,,World Peace,2,,,made,,Driving Layup,,,11-16,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=52
 ,,,,,,,,,,1,5.10,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,11-16,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=53
 ,,,,,,,,,,1,5.10,Los Angeles Lakers,substitute,,,,Jamison,,Clark,,,,,,,,,,,,,11-16,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=55
 ,,,,,,,,,,1,4.51,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,11-16,14,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=56
 ,,,,,,,,,,1,4.49,Los Angeles Lakers,rebound,,,,,,,,,,Nash,,,,,,,,,11-16,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=57
 ,,,,,,,,,,1,4.40,Los Angeles Lakers,shot,Jamison,,,,,,,,,World Peace,2,,,made,,Jump Shot,,,11-18,16,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=58
-,,,,,,,,,,1,4.23,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Reverse Layup,,,11-18,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=59
+,,,,,,,,,,1,4.23,Phoenix Suns,shot,,,Peace,,,,,,,Gortat,,,,missed,,Reverse Layup,,,11-18,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=59
 ,,,,,,,,,,1,4.21,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,11-18,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=60
 ,,,,,,,,,,1,4.17,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Layup,,,11-18,1,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=61
 ,,,,,,,,,,1,4.14,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,11-18,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=62
@@ -91,7 +91,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.31,Los Angeles Lakers,free throw,,,,,,,1,,2,Bryant,1,,foul,made,,,,,15-24,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=99
 ,,,,,,,,,,1,1.31,Los Angeles Lakers,free throw,,,,,,,2,,2,Bryant,1,,foul,made,,,,,15-25,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=101
 ,,,,,,,,,,1,1.10,Phoenix Suns,shot,,,,,,,,,,O'Neal,2,,,made,,Turnaround Jump Shot,,,17-25,16,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=103
-,,,,,,,,,,1,0.59,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=104
+,,,,,,,,,,1,0.59,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,Morris,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=104
 ,,,,,,,,,,1,0.56,Phoenix Suns,shot,Tucker,,,,,,,,,Morris,2,,,made,,Slam Dunk,,,19-25,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=105
 ,,,,,,,,,,1,0.44,Los Angeles Lakers,shot,Bryant,,,,,,,,,Jamison,2,,,made,,Jump Shot,,,19-27,20,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=106
 ,,,,,,,,,,1,0.25,Phoenix Suns,shot,,,,,,,,,,Marshall,,,,missed,,3PT Jump Shot,,,19-27,26,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=107
@@ -107,7 +107,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.36,Phoenix Suns,shot,,,,,,,,,,O'Neal,2,,,made,,Turnaround Jump Shot,,,26-33,8,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=121
 ,,,,,,,,,,2,10.23,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Jump Shot,,,26-33,21,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=122
 ,,,,,,,,,,2,10.22,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=123
-,,,,,,,,,,2,10.11,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Lost Ball,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=124
+,,,,,,,,,,2,10.11,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Lost Ball,,Clark,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=124
 ,,,,,,,,,,2,10.11,Phoenix Suns,foul,,,,,,,,,,O'Neal,,,,,,Loose ball,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=125
 ,,,,,,,,,,2,10.11,Phoenix Suns,substitute,,,,Brown,,Tucker,,,,,,,,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=126
 ,,,,,,,,,,2,9.59,Los Angeles Lakers,shot,,,,,,,,,,Clark,,,,missed,,Driving Layup,,,26-33,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=127
@@ -125,9 +125,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.52,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=141
 ,,,,,,,,,,2,8.52,Los Angeles Lakers,substitute,,,,Howard,,World Peace,,,,,,,,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=143
 ,,,,,,,,,,2,8.33,Los Angeles Lakers,shot,Blake,,,,,,,,,Howard,2,,,made,,Alley Oop Layup,,,30-35,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=144
-,,,,,,,,,,2,8.17,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=145
+,,,,,,,,,,2,8.17,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Bad Pass,,Clark,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=145
 ,,,,,,,,,,2,8.09,Los Angeles Lakers,turnover,,,,,,,,,,Meeks,,,Traveling,,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=146
-,,,,,,,,,,2,7.54,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=147
+,,,,,,,,,,2,7.54,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,Clark,,,,30-35,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=147
 ,,,,,,,,,,2,7.47,Los Angeles Lakers,shot,,,,,,,,,,Blake,3,,,made,,3PT Jump Shot,,,30-38,26,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=148
 ,,,,,,,,,,2,7.36,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=149
 ,,,,,,,,,,2,7.36,Phoenix Suns,foul,,,,,,,,,,O'Neal,,,,,,Technical,,,30-38,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=150
@@ -179,10 +179,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.53,Los Angeles Lakers,free throw,,,,,,,1,,2,Clark,1,,foul,made,,,,,38-46,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=209
 ,,,,,,,,,,2,2.53,Los Angeles Lakers,free throw,,,,,,,2,,2,Clark,1,,foul,made,,,,,38-47,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=211
 ,,,,,,,,,,2,2.37,Phoenix Suns,shot,Dudley,,,,,,,,,Scola,2,,,made,,Jump Shot,,,40-47,10,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=213
-,,,,,,,,,,2,2.13,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,40-47,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=216
+,,,,,,,,,,2,2.13,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Scola,,,,40-47,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=216
 ,,,,,,,,,,2,2.09,Phoenix Suns,shot,Scola,,,,,,,,,Dragic,2,,,made,,Driving Layup,,,42-47,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=217
 ,,,,,,,,,,2,2.00,Los Angeles Lakers,shot,Nash,,,,,,,,,Jamison,3,,,made,,3PT Jump Shot,,,42-50,27,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=218
-,,,,,,,,,,2,1.49,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=219
+,,,,,,,,,,2,1.49,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Bryant,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=219
 ,,,,,,,,,,2,1.40,Los Angeles Lakers,shot,Bryant,,,,,,,,,Jamison,2,,,made,,Jump Shot,,,42-52,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=220
 ,,,,,,,,,,2,1.33,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=221
 ,,,,,,,,,,2,1.33,Los Angeles Lakers,substitute,,,,Howard,,Clark,,,,,,,,,,,,,42-52,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=224
@@ -195,7 +195,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.53,Los Angeles Lakers,shot,,,,,,,,,,Jamison,,,,missed,,Tip Shot,,,42-54,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=231
 ,,,,,,,,,,2,0.48,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,42-54,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=235
 ,,,,,,,,,,2,0.45,Phoenix Suns,shot,Beasley,,,,,,,,,Scola,2,,,made,,Layup,,,44-54,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=236
-,,,,,,,,,,2,0.38,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,44-54,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=237
+,,,,,,,,,,2,0.38,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Gortat,,,,44-54,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=237
 ,,,,,,,,,,2,0.32,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Floating Jump Shot,,,46-54,11,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=238
 ,,,,,,,,,,2,0.32,Los Angeles Lakers,foul,,,,,,,,,,Howard,,,,,,Shooting,,,46-54,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=239
 ,,,,,,,,,,2,0.32,Phoenix Suns,free throw,,,,,,,1,,1,Dragic,1,,foul,made,,,,,47-54,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=240
@@ -219,7 +219,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.10,Los Angeles Lakers,shot,,,,,,,,,,Nash,2,,,made,,Jump Bank Shot,,,51-60,7,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=264
 ,,,,,,,,,,3,9.56,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,51-60,16,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=265
 ,,,,,,,,,,3,9.55,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=266
-,,,,,,,,,,3,9.53,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Bad Pass,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=267
+,,,,,,,,,,3,9.53,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Bad Pass,,Scola,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=267
 ,,,,,,,,,,3,9.52,Los Angeles Lakers,foul,,,,,,,,,,World Peace,,,,,,Shooting,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=268
 ,,,,,,,,,,3,9.52,Phoenix Suns,free throw,,,,,,,1,,2,Scola,,,foul,missed,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=269
 ,,,,,,,,,,3,9.52,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=271
@@ -228,7 +228,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.35,Los Angeles Lakers,shot,,,,,,,,,,Clark,,,,missed,,3PT Jump Shot,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=274
 ,,,,,,,,,,3,9.34,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=275
 ,,,,,,,,,,3,9.34,Phoenix Suns,foul,,,,,,,,,,Gortat,,,,,,Loose ball,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=276
-,,,,,,,,,,3,9.21,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Jump Shot,,,51-60,7,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=277
+,,,,,,,,,,3,9.21,Los Angeles Lakers,shot,,,Tucker,,,,,,,World Peace,,,,missed,,Jump Shot,,,51-60,7,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=277
 ,,,,,,,,,,3,9.18,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,51-60,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=278
 ,,,,,,,,,,3,9.14,Phoenix Suns,shot,Tucker,,,,,,,,,Dragic,2,,,made,,Layup,,,53-60,1,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=279
 ,,,,,,,,,,3,8.58,Los Angeles Lakers,shot,Nash,,,,,,,,,World Peace,3,,,made,,3PT Jump Shot,,,53-63,27,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=280
@@ -243,7 +243,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.30,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,53-63,25,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=289
 ,,,,,,,,,,3,7.29,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,53-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=290
 ,,,,,,,,,,3,7.23,Phoenix Suns,shot,Dragic,,,,,,,,,Dudley,2,,,made,,Driving Layup,,,55-63,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=291
-,,,,,,,,,,3,7.02,Los Angeles Lakers,turnover,,,,,,,,,,Clark,,,Bad Pass,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=292
+,,,,,,,,,,3,7.02,Los Angeles Lakers,turnover,,,,,,,,,,Clark,,,Bad Pass,,Dudley,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=292
 ,,,,,,,,,,3,6.57,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Driving Finger Roll Layup,,,55-63,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=293
 ,,,,,,,,,,3,6.54,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=294
 ,,,,,,,,,,3,6.54,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,55-63,1,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=295
@@ -252,11 +252,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.54,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=298
 ,,,,,,,,,,3,6.54,Los Angeles Lakers,substitute,,,,Jamison,,Clark,,,,,,,,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=300
 ,,,,,,,,,,3,6.54,Phoenix Suns,substitute,,,,O'Neal,,Gortat,,,,,,,,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=301
-,,,,,,,,,,3,6.41,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=302
+,,,,,,,,,,3,6.41,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Dudley,,,,57-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=302
 ,,,,,,,,,,3,6.38,Phoenix Suns,shot,O'Neal,,,,,,,,,Tucker,2,,,made,,Layup,,,59-63,1,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=303
 ,,,,,,,,,,3,6.38,Los Angeles Lakers,foul,,,,,,,,,,Jamison,,,,,,Shooting,,,59-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=304
 ,,,,,,,,,,3,6.38,Phoenix Suns,free throw,,,,,,,1,,1,Tucker,1,,foul,made,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=305
-,,,,,,,,,,3,6.15,Los Angeles Lakers,shot,,,,,,,,,,Jamison,,,,missed,,Jump Shot,,,60-63,5,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=308
+,,,,,,,,,,3,6.15,Los Angeles Lakers,shot,,,O'Neal,,,,,,,Jamison,,,,missed,,Jump Shot,,,60-63,5,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=308
 ,,,,,,,,,,3,6.13,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=309
 ,,,,,,,,,,3,5.52,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,60-63,25,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=310
 ,,,,,,,,,,3,5.50,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=311
@@ -290,7 +290,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.31,Phoenix Suns,shot,Dragic,,,,,,,,,Beasley,2,,,made,,Jump Shot,,,62-64,7,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=343
 ,,,,,,,,,,3,3.31,Los Angeles Lakers,foul,,,,,,,,,,Meeks,,,,,,Shooting,,,62-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=344
 ,,,,,,,,,,3,3.31,Phoenix Suns,free throw,,,,,,,1,,1,Beasley,1,,foul,made,,,,,63-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=345
-,,,,,,,,,,3,3.16,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Turnaround Fadeaway Shot,,,63-64,11,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=347
+,,,,,,,,,,3,3.16,Los Angeles Lakers,shot,,,Tucker,,,,,,,Bryant,,,,missed,,Turnaround Fadeaway Shot,,,63-64,11,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=347
 ,,,,,,,,,,3,3.14,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,63-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=348
 ,,,,,,,,,,3,3.13,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Jump Shot,,,63-64,5,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=349
 ,,,,,,,,,,3,3.11,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,63-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=350
@@ -305,7 +305,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.48,Phoenix Suns,free throw,,,,,,,,,,Dragic,,,Technical,missed,,,,,65-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=362
 ,,,,,,,,,,3,2.48,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,65-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=363
 ,,,,,,,,,,3,2.31,Phoenix Suns,shot,Tucker,,,,,,,,,Beasley,2,,,made,,Layup,,,67-64,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=364
-,,,,,,,,,,3,2.17,Los Angeles Lakers,turnover,,,,,,,,,,Clark,,,Bad Pass,,,,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=365
+,,,,,,,,,,3,2.17,Los Angeles Lakers,turnover,,,,,,,,,,Clark,,,Bad Pass,,O'Neal,,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=365
 ,,,,,,,,,,3,2.13,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Traveling,,,,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=366
 ,,,,,,,,,,3,2.13,Los Angeles Lakers,substitute,,,,Blake,,Nash,,,,,,,,,,,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=367
 ,,,,,,,,,,3,2.02,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Shooting,,,67-64,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=368
@@ -314,7 +314,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.02,Los Angeles Lakers,free throw,,,,,,,2,,2,Jamison,1,,foul,made,,,,,67-65,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=371
 ,,,,,,,,,,3,1.41,Phoenix Suns,foul,,,,,,,,,,Tucker,,,,,,Offensive Charge,,,67-65,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=373
 ,,,,,,,,,,3,1.41,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Foul,,,,,,67-65,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=374
-,,,,,,,,,,3,1.28,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,,,,,67-65,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=375
+,,,,,,,,,,3,1.28,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Lost Ball,,Tucker,,,,67-65,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=375
 ,,,,,,,,,,3,1.17,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,67-65,19,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=376
 ,,,,,,,,,,3,1.16,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,67-65,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=377
 ,,,,,,,,,,3,1.08,Los Angeles Lakers,foul,,,,,,,,,,Howard,,,,,,Shooting,,,67-65,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=378
@@ -342,14 +342,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.35,Los Angeles Lakers,free throw,,,,,,,2,,2,World Peace,,,foul,missed,,,,,73-69,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=406
 ,,,,,,,,,,4,10.34,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,73-69,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=408
 ,,,,,,,,,,4,10.22,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Traveling,,,,,,73-69,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=409
-,,,,,,,,,,4,10.09,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Jump Shot,,,73-69,4,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=410
+,,,,,,,,,,4,10.09,Los Angeles Lakers,shot,,,O'Neal,,,,,,,World Peace,,,,missed,,Jump Shot,,,73-69,4,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=410
 ,,,,,,,,,,4,10.07,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,73-69,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=411
 ,,,,,,,,,,4,10.06,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Jump Shot,,,73-69,7,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=412
 ,,,,,,,,,,4,10.04,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,73-69,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=413
 ,,,,,,,,,,4,10.03,Los Angeles Lakers,shot,,,,,,,,,,World Peace,2,,,made,,Layup,,,73-71,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=414
 ,,,,,,,,,,4,9.56,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=415
 ,,,,,,,,,,4,9.56,Los Angeles Lakers,substitute,,,,Howard,,Clark,,,,,,,,,,,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=418
-,,,,,,,,,,4,9.50,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,,,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=417
+,,,,,,,,,,4,9.50,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,Peace,,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=417
 ,,,,,,,,,,4,9.48,Phoenix Suns,foul,,,,,,,,,,Beasley,,,,,,Shooting,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=419
 ,,,,,,,,,,4,9.48,Los Angeles Lakers,free throw,,,,,,,1,,2,World Peace,1,,foul,made,,,,,73-72,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=421
 ,,,,,,,,,,4,9.48,Los Angeles Lakers,free throw,,,,,,,2,,2,World Peace,1,,foul,made,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=423
@@ -360,9 +360,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.12,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=431
 ,,,,,,,,,,4,9.01,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,3PT Jump Shot,,,73-73,27,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=433
 ,,,,,,,,,,4,9.00,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=434
-,,,,,,,,,,4,8.45,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,Layup,,,73-73,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=435
+,,,,,,,,,,4,8.45,Los Angeles Lakers,shot,,,O'Neal,,,,,,,Meeks,,,,missed,,Layup,,,73-73,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=435
 ,,,,,,,,,,4,8.43,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=436
-,,,,,,,,,,4,8.42,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Layup,,,73-73,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=437
+,,,,,,,,,,4,8.42,Los Angeles Lakers,shot,,,O'Neal,,,,,,,Howard,,,,missed,,Layup,,,73-73,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=437
 ,,,,,,,,,,4,8.41,Los Angeles Lakers,rebound,,,,,,,,,,Meeks,,,,,,,,,73-73,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=438
 ,,,,,,,,,,4,8.39,Los Angeles Lakers,shot,,,,,,,,,,Meeks,2,,,made,,Layup,,,73-75,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=439
 ,,,,,,,,,,4,8.15,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Jump Shot,,,73-75,15,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=440
@@ -375,7 +375,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.31,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,75-75,19,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=449
 ,,,,,,,,,,4,7.29,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,75-75,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=450
 ,,,,,,,,,,4,7.14,Los Angeles Lakers,shot,,,,,,,,,,Blake,2,,,made,,Turnaround Fadeaway,,,75-77,17,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=451
-,,,,,,,,,,4,6.52,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Jump Shot,,,75-77,4,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=452
+,,,,,,,,,,4,6.52,Phoenix Suns,shot,,,Jamison,,,,,,,Dudley,,,,missed,,Jump Shot,,,75-77,4,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=452
 ,,,,,,,,,,4,6.49,Los Angeles Lakers,rebound,,,,,,,,,,Jamison,,,,,,,,,75-77,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=453
 ,,,,,,,,,,4,6.32,Phoenix Suns,foul,,,,,,,,,,Dudley,,,,,,Personal,,,75-77,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=454
 ,,,,,,,,,,4,6.32,Los Angeles Lakers,substitute,,,,Bryant,,Meeks,,,,,,,,,,,,,75-77,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=455
@@ -412,23 +412,23 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.39,Phoenix Suns,shot,,,,,,,,,,Scola,2,,,made,,Turnaround Bank Hook Shot,,,81-87,8,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=492
 ,,,,,,,,,,4,2.20,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,81-87,26,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=493
 ,,,,,,,,,,4,2.19,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,81-87,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=494
-,,,,,,,,,,4,2.17,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Layup,,,81-87,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=495
+,,,,,,,,,,4,2.17,Los Angeles Lakers,shot,,,O'Neal,,,,,,,World Peace,,,,missed,,Layup,,,81-87,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=495
 ,,,,,,,,,,4,2.16,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,81-87,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=496
-,,,,,,,,,,4,2.15,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Layup,,,81-87,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=497
+,,,,,,,,,,4,2.15,Los Angeles Lakers,shot,,,Beasley,,,,,,,Howard,,,,missed,,Layup,,,81-87,3,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=497
 ,,,,,,,,,,4,2.12,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,81-87,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=498
 ,,,,,,,,,,4,2.10,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Jump Shot,,,81-89,8,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=499
 ,,,,,,,,,,4,1.48,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Layup,,,81-89,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=500
 ,,,,,,,,,,4,1.47,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,81-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=501
-,,,,,,,,,,4,1.46,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Layup,,,81-89,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=502
+,,,,,,,,,,4,1.46,Phoenix Suns,shot,,,Bryant,,,,,,,O'Neal,,,,missed,,Layup,,,81-89,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=502
 ,,,,,,,,,,4,1.44,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,81-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=503
-,,,,,,,,,,4,1.44,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Hook Shot,,,81-89,4,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=504
+,,,,,,,,,,4,1.44,Phoenix Suns,shot,,,Howard,,,,,,,O'Neal,,,,missed,,Hook Shot,,,81-89,4,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=504
 ,,,,,,,,,,4,1.44,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,81-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=505
 ,,,,,,,,,,4,1.43,Phoenix Suns,shot,,,,,,,,,,Scola,2,,,made,,Layup,,,83-89,2,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=506
 ,,,,,,,,,,4,1.29,Phoenix Suns,foul,,,,,,,,,,Dragic,,,,,,Personal,,,83-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=507
 ,,,,,,,,,,4,1.29,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,83-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=508
 ,,,,,,,,,,4,1.22,Los Angeles Lakers,shot,,,,,,,,,,Nash,,,,missed,,Pullup Jump Shot,,,83-89,11,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=510
 ,,,,,,,,,,4,1.20,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,83-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=511
-,,,,,,,,,,4,1.09,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,83-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=512
+,,,,,,,,,,4,1.09,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Peace,,,,83-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=512
 ,,,,,,,,,,4,1.06,Los Angeles Lakers,foul,,,,,,,,,,World,,,,,,Peace Offensive Charge,,,83-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=513
 ,,,,,,,,,,4,1.06,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Foul,,,,,,83-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=514
 ,,,,,,,,,,4,1.02,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,83-89,,http://stats.nba.com/cvp.html?GameID=0021200773&GameEventID=515

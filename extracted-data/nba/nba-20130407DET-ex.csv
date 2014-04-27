@@ -1,5 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.37,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Hook Shot,,,,5,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=2
+,,,,,,,,,,1,11.37,Detroit Pistons,shot,,,Noah,,,,,,,Monroe,,,,missed,,Hook Shot,,,,5,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=2
 ,,,,,,,,,,1,11.35,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=3
 ,,,,,,,,,,1,11.17,Chicago Bulls,shot,Hinrich,,,,,,,,,Robinson,3,,,made,,3PT Jump Shot,,,3-0,26,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=4
 ,,,,,,,,,,1,10.58,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,3-0,21,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=5
@@ -12,7 +12,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.39,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,5-2,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=12
 ,,,,,,,,,,1,9.28,Chicago Bulls,shot,,,,,,,,,,Hinrich,,,,missed,,3PT Jump Shot,,,5-2,24,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=13
 ,,,,,,,,,,1,9.27,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,5-2,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=14
-,,,,,,,,,,1,9.19,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,,,,,5-2,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=15
+,,,,,,,,,,1,9.19,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,Hinrich,,,,5-2,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=15
 ,,,,,,,,,,1,9.12,Chicago Bulls,shot,Hinrich,,,,,,,,,Butler,2,,,made,,Layup,,,7-2,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=16
 ,,,,,,,,,,1,8.42,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,3PT Jump Shot,,,7-2,26,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=17
 ,,,,,,,,,,1,8.41,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,7-2,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=18
@@ -21,10 +21,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.28,Chicago Bulls,free throw,,,,,,,2,,2,Noah,1,,foul,made,,,,,9-2,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=22
 ,,,,,,,,,,1,8.16,Detroit Pistons,shot,,,,,,,,,,Drummond,,,,missed,,Jump Bank Shot,,,9-2,4,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=24
 ,,,,,,,,,,1,8.15,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,9-2,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=25
-,,,,,,,,,,1,8.14,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,,,,,9-2,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=26
+,,,,,,,,,,1,8.14,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,Drummond,,,,9-2,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=26
 ,,,,,,,,,,1,8.09,Detroit Pistons,shot,Monroe,,,,,,,,,Singler,3,,,made,,3PT Jump Shot,,,9-5,26,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=27
 ,,,,,,,,,,1,7.50,Chicago Bulls,shot,Boozer,,,,,,,,,Butler,3,,,made,,3PT Jump Shot,,,12-5,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=28
-,,,,,,,,,,1,7.34,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,,,,,12-5,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=29
+,,,,,,,,,,1,7.34,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,Boozer,,,,12-5,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=29
 ,,,,,,,,,,1,7.29,Chicago Bulls,shot,Boozer,,,,,,,,,Robinson,2,,,made,,Layup,,,14-5,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=30
 ,,,,,,,,,,1,7.21,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,14-5,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=31
 ,,,,,,,,,,1,7.09,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,Jump Shot,,,14-5,12,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=33
@@ -48,7 +48,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.40,Detroit Pistons,foul,,,,,,,,,,Drummond,,,,,,Personal,,,16-7,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=53
 ,,,,,,,,,,1,5.26,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,16-7,20,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=54
 ,,,,,,,,,,1,5.25,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,16-7,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=55
-,,,,,,,,,,1,5.14,Detroit Pistons,turnover,,,,,,,,,,Drummond,,,Lost Ball,,,,,,16-7,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=56
+,,,,,,,,,,1,5.14,Detroit Pistons,turnover,,,,,,,,,,Drummond,,,Lost Ball,,Boozer,,,,16-7,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=56
 ,,,,,,,,,,1,5.08,Chicago Bulls,shot,Robinson,,,,,,,,,Boozer,2,,,made,,Dunk,,,18-7,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=57
 ,,,,,,,,,,1,4.43,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,18-7,27,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=58
 ,,,,,,,,,,1,4.42,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,18-7,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=59
@@ -65,7 +65,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.02,Detroit Pistons,rebound,,,,,,,,,,Middleton,,,,,,,,,18-10,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=71
 ,,,,,,,,,,1,3.48,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Driving Layup,,,18-12,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=72
 ,,,,,,,,,,1,3.28,Chicago Bulls,shot,,,,,,,,,,Boozer,2,,,made,,Jump Shot,,,20-12,17,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=73
-,,,,,,,,,,1,3.02,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Jump Shot,,,20-12,5,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=74
+,,,,,,,,,,1,3.02,Detroit Pistons,shot,,,Mohammed,,,,,,,Monroe,,,,missed,,Jump Shot,,,20-12,5,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=74
 ,,,,,,,,,,1,3.02,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,20-12,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=75
 ,,,,,,,,,,1,3.02,Chicago Bulls,foul,,,,,,,,,,Hinrich,,,,,,Shooting,,,20-12,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=76
 ,,,,,,,,,,1,3.02,Detroit Pistons,free throw,,,,,,,1,,2,Monroe,1,,foul,made,,,,,20-13,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=77
@@ -80,18 +80,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.55,Detroit Pistons,shot,Knight,,,,,,,,,Middleton,3,,,made,,3PT Jump Shot,,,22-18,24,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=88
 ,,,,,,,,,,1,1.29,Chicago Bulls,shot,,,,,,,,,,Mohammed,,,,missed,,Hook Shot,,,22-18,6,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=89
 ,,,,,,,,,,1,1.28,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,22-18,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=90
-,,,,,,,,,,1,1.26,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Bad Pass,,,,,,22-18,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=91
+,,,,,,,,,,1,1.26,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Bad Pass,,Hinrich,,,,22-18,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=91
 ,,,,,,,,,,1,1.22,Chicago Bulls,shot,,,,,,,,,,Hinrich,2,,,made,,Layup,,,24-18,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=92
 ,,,,,,,,,,1,1.03,Detroit Pistons,shot,,,,,,,,,,Stuckey,2,,,made,,Driving Layup,,,24-20,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=93
 ,,,,,,,,,,1,1.03,Chicago Bulls,foul,,,,,,,,,,Mohammed,,,,,,Shooting,,,24-20,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=94
 ,,,,,,,,,,1,1.03,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,24-20,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=95
 ,,,,,,,,,,1,1.03,Detroit Pistons,free throw,,,,,,,1,,1,Stuckey,1,,foul,made,,,,,24-21,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=97
-,,,,,,,,,,1,0.40,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Bad Pass,,,,,,24-21,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=100
+,,,,,,,,,,1,0.40,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Bad Pass,,Middleton,,,,24-21,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=100
 ,,,,,,,,,,1,0.27,Detroit Pistons,shot,Knight,,,,,,,,,Jerebko,2,,,made,,Jump Shot,,,24-23,19,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=101
 ,,,,,,,,,,1,0.05,Chicago Bulls,shot,Hinrich,,,,,,,,,Butler,2,,,made,,Driving Layup,,,26-23,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=102
-,,,,,,,,,,1,0.01,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,Layup,,,26-23,3,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=103
+,,,,,,,,,,1,0.01,Detroit Pistons,shot,,,Mohammed,,,,,,,Stuckey,,,,missed,,Layup,,,26-23,3,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=103
 ,,,,,,,,,,1,0.00,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,26-23,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=104
-,,,,,,,,,,2,11.44,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Layup,,,26-23,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=108
+,,,,,,,,,,2,11.44,Chicago Bulls,shot,,,Villanueva,,,,,,,Butler,,,,missed,,Layup,,,26-23,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=108
 ,,,,,,,,,,2,11.44,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,26-23,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=109
 ,,,,,,,,,,2,11.26,Detroit Pistons,shot,Stuckey,,,,,,,,,Jerebko,3,,,made,,3PT Jump Shot,,,26-26,26,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=110
 ,,,,,,,,,,2,11.03,Chicago Bulls,shot,Belinelli,,,,,,,,,Mohammed,2,,,made,,Jump Shot,,,28-26,9,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=111
@@ -116,7 +116,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.43,Chicago Bulls,substitute,,,,Cook,,Mohammed,,,,,,,,,,,,,30-33,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=132
 ,,,,,,,,,,2,8.35,Detroit Pistons,shot,Bynum,,,,,,,,,Villanueva,2,,,made,,Dunk,,,30-35,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=133
 ,,,,,,,,,,2,8.07,Chicago Bulls,shot,,,,,,,,,,Robinson,2,,,made,,Jump Shot,,,32-35,12,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=134
-,,,,,,,,,,2,7.44,Detroit Pistons,shot,,,,,,,,,,Middleton,,,,missed,,Layup,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=135
+,,,,,,,,,,2,7.44,Detroit Pistons,shot,,,Butler,,,,,,,Middleton,,,,missed,,Layup,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=135
 ,,,,,,,,,,2,7.42,Detroit Pistons,rebound,,,,,,,,,,Jerebko,,,,,,,,,32-35,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=136
 ,,,,,,,,,,2,7.40,Detroit Pistons,shot,,,,,,,,,,Jerebko,2,,,made,,Layup,,,32-37,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=137
 ,,,,,,,,,,2,7.24,Detroit Pistons,foul,,,,,,,,,,Jerebko,,,,,,Shooting,,,32-37,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=138
@@ -154,12 +154,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.56,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Foul,,,,,,36-40,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=180
 ,,,,,,,,,,2,4.56,Chicago Bulls,substitute,,,,Hinrich,,Butler,,,,,,,,,,,,,36-40,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=195
 ,,,,,,,,,,2,4.45,Detroit Pistons,shot,,,,,,,,,,Bynum,2,,,made,,Driving Layup,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=181
-,,,,,,,,,,2,4.22,Chicago Bulls,turnover,,,,,,,,,,Cook,,,Bad Pass,,,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=182
+,,,,,,,,,,2,4.22,Chicago Bulls,turnover,,,,,,,,,,Cook,,,Bad Pass,,Jerebko,,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=182
 ,,,,,,,,,,2,4.22,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,Personal Take,,,36-42,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=183
 ,,,,,,,,,,2,4.05,Detroit Pistons,shot,Middleton,,,,,,,,,Singler,2,,,made,,Reverse Layup,,,36-44,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=184
 ,,,,,,,,,,2,3.48,Chicago Bulls,shot,,,,,,,,,,Cook,,,,missed,,Jump Shot,,,36-44,19,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=185
 ,,,,,,,,,,2,3.47,Detroit Pistons,rebound,,,,,,,,,,Middleton,,,,,,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=186
-,,,,,,,,,,2,3.40,Detroit Pistons,shot,,,,,,,,,,Middleton,,,,missed,,Jump Shot,,,36-44,5,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=187
+,,,,,,,,,,2,3.40,Detroit Pistons,shot,,,Cook,,,,,,,Middleton,,,,missed,,Jump Shot,,,36-44,5,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=187
 ,,,,,,,,,,2,3.38,Detroit Pistons,rebound,,,,,,,,,,Jerebko,,,,,,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=188
 ,,,,,,,,,,2,3.34,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,3PT Jump Shot,,,36-44,28,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=189
 ,,,,,,,,,,2,3.33,Chicago Bulls,rebound,,,,,,,,,,Hinrich,,,,,,,,,36-44,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=190
@@ -207,7 +207,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.27,Detroit Pistons,free throw,,,,,,,2,,2,Knight,1,,foul,made,,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=247
 ,,,,,,,,,,3,11.11,Chicago Bulls,shot,,,,,,,,,,Hinrich,,,,missed,,3PT Jump Shot,,,48-52,25,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=249
 ,,,,,,,,,,3,11.10,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=250
-,,,,,,,,,,3,11.01,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=251
+,,,,,,,,,,3,11.01,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,Hinrich,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=251
 ,,,,,,,,,,3,10.53,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,48-52,16,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=252
 ,,,,,,,,,,3,10.52,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=253
 ,,,,,,,,,,3,10.37,Detroit Pistons,shot,Knight,,,,,,,,,Stuckey,3,,,made,,3PT Jump Shot,,,48-55,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=254
@@ -244,14 +244,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.26,Chicago Bulls,substitute,,,,Belinelli,,Robinson,,,,,,,,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=287
 ,,,,,,,,,,3,7.02,Detroit Pistons,foul,,,,,,,,,,Knight,,,,,,Offensive Charge,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=288
 ,,,,,,,,,,3,7.02,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Foul,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=289
-,,,,,,,,,,3,6.51,Chicago Bulls,shot,,,,,,,,,,Hinrich,,,,missed,,Layup,,,54-63,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=301
+,,,,,,,,,,3,6.51,Chicago Bulls,shot,,,Singler,,,,,,,Hinrich,,,,missed,,Layup,,,54-63,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=301
 ,,,,,,,,,,3,6.50,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,54-63,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=290
 ,,,,,,,,,,3,6.45,Chicago Bulls,shot,Hinrich,,,,,,,,,Boozer,2,,,made,,Jump Shot,,,56-63,20,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=291
 ,,,,,,,,,,3,6.26,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,Jump Shot,,,56-63,9,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=292
 ,,,,,,,,,,3,6.25,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=293
 ,,,,,,,,,,3,6.22,Chicago Bulls,turnover,,,,,,,,,,Hinrich Out of Bounds,,,Lost Ball,,,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=294
 ,,,,,,,,,,3,6.02,Detroit Pistons,shot,,,,,,,,,,Knight,2,,,made,,Jump Shot,,,56-65,20,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=295
-,,,,,,,,,,3,5.45,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Bad Pass,,,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=296
+,,,,,,,,,,3,5.45,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Bad Pass,,Singler,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=296
 ,,,,,,,,,,3,5.34,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,56-65,19,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=297
 ,,,,,,,,,,3,5.33,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,56-65,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=298
 ,,,,,,,,,,3,5.14,Chicago Bulls,shot,Noah,,,,,,,,,Butler,3,,,made,,3PT Jump Shot,,,59-65,27,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=299
@@ -333,8 +333,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.41,Chicago Bulls,foul,,,,,,,,,,Noah,,,,,,Loose ball,,,69-81,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=386
 ,,,,,,,,,,4,7.20,Detroit Pistons,shot,Stuckey,,,,,,,,,Villanueva,2,,,made,,Floating Jump Shot,,,69-83,5,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=387
 ,,,,,,,,,,4,7.08,Chicago Bulls,shot,Belinelli,,,,,,,,,Noah,2,,,made,,Hook Bank Shot,,,71-83,6,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=388
-,,,,,,,,,,4,6.47,Detroit Pistons,turnover,,,,,,,,,,Jerebko,,,Lost Ball,,,,,,71-83,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=389
-,,,,,,,,,,4,6.43,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Lost Ball,,,,,,71-83,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=390
+,,,,,,,,,,4,6.47,Detroit Pistons,turnover,,,,,,,,,,Jerebko,,,Lost Ball,,Noah,,,,71-83,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=389
+,,,,,,,,,,4,6.43,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Lost Ball,,Middleton,,,,71-83,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=390
 ,,,,,,,,,,4,6.39,Detroit Pistons,shot,Middleton,,,,,,,,,Jerebko,2,,,made,,Dunk,,,71-85,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=391
 ,,,,,,,,,,4,6.37,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,71-85,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=392
 ,,,,,,,,,,4,6.37,Chicago Bulls,substitute,,,,Boozer,,Belinelli,,,,,,,,,,,,,71-85,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=394
@@ -350,7 +350,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.24,Detroit Pistons,rebound,,,,,,,,,,Villanueva,,,,,,,,,74-85,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=405
 ,,,,,,,,,,4,5.22,Detroit Pistons,shot,,,,,,,,,,Villanueva,2,,,made,,Putback Dunk,,,74-87,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=406
 ,,,,,,,,,,4,4.58,Chicago Bulls,shot,Noah,,,,,,,,,Boozer,2,,,made,,Dunk,,,76-87,1,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=407
-,,,,,,,,,,4,4.33,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,,,,,76-87,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=408
+,,,,,,,,,,4,4.33,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,Butler,,,,76-87,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=408
 ,,,,,,,,,,4,4.27,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,3PT Jump Shot,,,76-87,27,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=409
 ,,,,,,,,,,4,4.26,Detroit Pistons,rebound,,,,,,,,,,Jerebko,,,,,,,,,76-87,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=410
 ,,,,,,,,,,4,4.20,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,Shooting,,,76-87,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=411
@@ -365,7 +365,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.38,Detroit Pistons,rebound,,,,,,,,,,Middleton,,,,,,,,,78-89,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=421
 ,,,,,,,,,,4,3.15,Detroit Pistons,shot,,,,,,,,,,Middleton,,,,missed,,Jump Shot,,,78-89,16,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=422
 ,,,,,,,,,,4,3.14,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,78-89,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=423
-,,,,,,,,,,4,2.51,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Lost Ball,,,,,,78-89,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=424
+,,,,,,,,,,4,2.51,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Lost Ball,,Stuckey,,,,78-89,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=424
 ,,,,,,,,,,4,2.47,Detroit Pistons,shot,Monroe,,,,,,,,,Jerebko,2,,,made,,Dunk,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=425
 ,,,,,,,,,,4,2.47,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=426
 ,,,,,,,,,,4,2.47,Chicago Bulls,substitute,,,,Mohammed,,Noah,,,,,,,,,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021201150&GameEventID=428

@@ -14,7 +14,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.59,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,5-2,24,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=15
 ,,,,,,,,,,1,9.58,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,5-2,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=16
 ,,,,,,,,,,1,9.52,Houston Rockets,foul,,,,,,,,,,Motiejunas,,,,,,Personal Block,,,5-2,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=17
-,,,,,,,,,,1,9.44,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Driving Layup,,,5-2,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=18
+,,,,,,,,,,1,9.44,San Antonio Spurs,shot,,,Harden,,,,,,,Green,,,,missed,,Driving Layup,,,5-2,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=18
 ,,,,,,,,,,1,9.42,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,5-2,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=19
 ,,,,,,,,,,1,9.39,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,5-2,15,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=20
 ,,,,,,,,,,1,9.38,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,5-2,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=21
@@ -39,7 +39,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.32,San Antonio Spurs,violation,,,,,,,,,,Duncan,,,Kicked Ball,,,,,,10-8,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=43
 ,,,,,,,,,,1,7.27,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,10-8,11,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=44
 ,,,,,,,,,,1,7.27,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,10-8,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=45
-,,,,,,,,,,1,7.16,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,,,,,10-8,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=47
+,,,,,,,,,,1,7.16,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,Lin,,,,10-8,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=47
 ,,,,,,,,,,1,7.12,Houston Rockets,shot,Lin,,,,,,,,,Parsons,2,,,made,,Driving Layup,,,10-10,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=48
 ,,,,,,,,,,1,6.56,San Antonio Spurs,shot,Splitter,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,13-10,25,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=49
 ,,,,,,,,,,1,6.28,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,13-10,26,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=50
@@ -48,12 +48,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.06,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=53
 ,,,,,,,,,,1,5.55,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Running Bank Shot,,,13-10,12,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=54
 ,,,,,,,,,,1,5.53,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=55
-,,,,,,,,,,1,5.44,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=56
-,,,,,,,,,,1,5.39,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Layup,,,13-10,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=57
+,,,,,,,,,,1,5.44,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,Harden,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=56
+,,,,,,,,,,1,5.39,Houston Rockets,shot,,,Green,,,,,,,Harden,,,,missed,,Layup,,,13-10,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=57
 ,,,,,,,,,,1,5.37,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=58
 ,,,,,,,,,,1,5.29,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,13-10,25,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=59
 ,,,,,,,,,,1,5.27,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=60
-,,,,,,,,,,1,5.18,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=61
+,,,,,,,,,,1,5.18,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,Duncan,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=61
 ,,,,,,,,,,1,5.12,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=62
 ,,,,,,,,,,1,5.12,San Antonio Spurs,substitute,,,,Diaw,,Splitter,,,,,,,,,,,,,13-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=64
 ,,,,,,,,,,1,5.00,San Antonio Spurs,shot,Duncan,,,,,,,,,Parker,2,,,made,,Jump Shot,,,15-10,18,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=65
@@ -70,8 +70,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.06,San Antonio Spurs,substitute,,,,Jackson,,Leonard,,,,,,,,,,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=76
 ,,,,,,,,,,1,3.46,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,15-10,26,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=77
 ,,,,,,,,,,1,3.45,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=78
-,,,,,,,,,,1,3.42,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Lost Ball,,,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=79
-,,,,,,,,,,1,3.27,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Shot,,,15-10,10,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=80
+,,,,,,,,,,1,3.42,Houston Rockets,turnover,,,,,,,,,,Robinson,,,Lost Ball,,Colo,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=79
+,,,,,,,,,,1,3.27,San Antonio Spurs,shot,,,Asik,,,,,,,Duncan,,,,missed,,Jump Shot,,,15-10,10,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=80
 ,,,,,,,,,,1,3.25,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=81
 ,,,,,,,,,,1,3.04,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,15-10,1,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=82
 ,,,,,,,,,,1,3.03,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,15-10,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=83
@@ -120,7 +120,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.35,Houston Rockets,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,23-27,15,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=134
 ,,,,,,,,,,2,9.34,San Antonio Spurs,rebound,,,,,,,,,,Diaw,,,,,,,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=135
 ,,,,,,,,,,2,9.20,San Antonio Spurs,shot,Parker,,,,,,,,,Diaw,3,,,made,,3PT Jump Shot,,,26-27,25,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=136
-,,,,,,,,,,2,8.59,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=137
+,,,,,,,,,,2,8.59,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Bad Pass,,Diaw,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=137
 ,,,,,,,,,,2,8.58,Houston Rockets,foul,,,,,,,,,,Robinson,,,,,,Personal Take,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=138
 ,,,,,,,,,,2,8.58,Houston Rockets,substitute,,,,Motiejunas,,Robinson,,,,,,,,,,,,,26-27,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=142
 ,,,,,,,,,,2,8.50,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Running Bank Shot,,,28-27,10,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=143
@@ -134,7 +134,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.16,San Antonio Spurs,shot,Parker,,,,,,,,,Jackson,3,,,made,,3PT Jump Shot,,,34-32,25,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=152
 ,,,,,,,,,,2,7.06,San Antonio Spurs,foul,,,,,,,,,,Jackson,,,,,,Personal,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=153
 ,,,,,,,,,,2,7.06,Houston Rockets,substitute,,,,Harden,,Delfino,,,,,,,,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=154
-,,,,,,,,,,2,6.55,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,34-32,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=155
+,,,,,,,,,,2,6.55,Houston Rockets,shot,,,Parker,,,,,,,Smith,,,,missed,,Layup,,,34-32,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=155
 ,,,,,,,,,,2,6.55,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=159
 ,,,,,,,,,,2,6.55,San Antonio Spurs,substitute,,,,Green,,Ginobili,,,,,,,,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=156
 ,,,,,,,,,,2,6.49,Houston Rockets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=157
@@ -154,7 +154,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.41,San Antonio Spurs,substitute,,,,Leonard,,Jackson,,,,,,,,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=176
 ,,,,,,,,,,2,5.23,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Bank Shot,,,34-32,15,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=177
 ,,,,,,,,,,2,5.21,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=178
-,,,,,,,,,,2,5.14,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=179
+,,,,,,,,,,2,5.14,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Green,,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=179
 ,,,,,,,,,,2,5.09,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Personal,,,34-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=180
 ,,,,,,,,,,2,5.09,San Antonio Spurs,free throw,,,,,,,1,,2,Leonard,1,,foul,made,,,,,35-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=181
 ,,,,,,,,,,2,5.09,San Antonio Spurs,free throw,,,,,,,2,,2,Leonard,1,,foul,made,,,,,36-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=183
@@ -162,9 +162,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.55,San Antonio Spurs,rebound,,,,,,,,,,De Colo,,,,,,,,,36-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=186
 ,,,,,,,,,,2,4.49,San Antonio Spurs,foul,,,,,,,,,,,,,,,,,,,36-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=187
 ,,,,,,,,,,2,4.49,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Foul,,,,,,36-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=188
-,,,,,,,,,,2,4.47,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,,,,,36-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=189
+,,,,,,,,,,2,4.47,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,Colo,,,,36-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=189
 ,,,,,,,,,,2,4.42,San Antonio Spurs,shot,De Colo,,,,,,,,,Leonard,2,,,made,,Slam Dunk,,,38-32,1,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=190
-,,,,,,,,,,2,4.16,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,38-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=191
+,,,,,,,,,,2,4.16,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Green,,,,38-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=191
 ,,,,,,,,,,2,4.01,San Antonio Spurs,shot,,,,,,,,,,Duncan,2,,,made,,Turnaround Bank Shot,,,40-32,7,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=192
 ,,,,,,,,,,2,4.01,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,40-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=193
 ,,,,,,,,,,2,4.01,Houston Rockets,substitute,,,,Beverley,,Lin,,,,,,,,,,,,,40-32,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=196
@@ -189,12 +189,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.41,Houston Rockets,shot,Harden,,,,,,,,,Parsons,2,,,made,,Driving Jump Shot,,,43-38,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=222
 ,,,,,,,,,,2,2.13,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Running Jump Shot,,,43-38,6,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=223
 ,,,,,,,,,,2,2.12,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=224
-,,,,,,,,,,2,2.10,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Putback Layup,,,43-38,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=225
+,,,,,,,,,,2,2.10,San Antonio Spurs,shot,,,Asik,,,,,,,Duncan,,,,missed,,Putback Layup,,,43-38,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=225
 ,,,,,,,,,,2,2.04,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=226
-,,,,,,,,,,2,1.52,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,43-38,4,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=227
+,,,,,,,,,,2,1.52,Houston Rockets,shot,,,Green,,,,,,,Harden,,,,missed,,Jump Shot,,,43-38,4,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=227
 ,,,,,,,,,,2,1.50,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=228
 ,,,,,,,,,,2,1.39,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Offensive Goaltending,,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=232
-,,,,,,,,,,2,1.24,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,43-38,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=233
+,,,,,,,,,,2,1.24,Houston Rockets,shot,,,Ginobili,,,,,,,Asik,,,,missed,,Layup,,,43-38,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=233
 ,,,,,,,,,,2,1.22,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=234
 ,,,,,,,,,,2,1.17,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=235
 ,,,,,,,,,,2,1.17,San Antonio Spurs,substitute,,,,Parker,,De Colo,,,,,,,,,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=236
@@ -206,10 +206,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.41,San Antonio Spurs,free throw,,,,,,,3,,3,Green,1,,foul,made,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=244
 ,,,,,,,,,,2,0.28,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Step Back Jump Shot,,,46-41,25,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=246
 ,,,,,,,,,,2,0.26,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=247
-,,,,,,,,,,2,0.06,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=248
+,,,,,,,,,,2,0.06,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Bad Pass,,Delfino,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=248
 ,,,,,,,,,,2,0.02,Houston Rockets,shot,,,,,,,,,,Delfino,2,,,made,,Driving Layup,,,46-43,1,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=249
-,,,,,,,,,,2,0.01,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=250
-,,,,,,,,,,2,0.00,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=251
+,,,,,,,,,,2,0.01,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,Lin,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=250
+,,,,,,,,,,2,0.00,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,Green,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=251
 ,,,,,,,,,,2,0.00,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,3PT Running Jump Shot,,,46-43,42,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=254
 ,,,,,,,,,,2,0.00,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=255
 ,,,,,,,,,,3,11.44,Houston Rockets,shot,Harden,,,,,,,,,Motiejunas,2,,,made,,Turnaround Hook Shot,,,46-45,7,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=257
@@ -238,14 +238,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.56,San Antonio Spurs,shot,,,,,,,,,,Duncan,2,,,made,,Fadeaway Jumper,,,51-50,10,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=281
 ,,,,,,,,,,3,8.44,Houston Rockets,shot,Lin,,,,,,,,,Motiejunas,3,,,made,,3PT Jump Shot,,,51-53,25,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=282
 ,,,,,,,,,,3,8.25,San Antonio Spurs,shot,Splitter,,,,,,,,,Duncan,2,,,made,,Layup,,,53-53,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=283
-,,,,,,,,,,3,8.01,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Driving Layup,,,53-53,4,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=284
+,,,,,,,,,,3,8.01,Houston Rockets,shot,,,Duncan,,,,,,,Parsons,,,,missed,,Driving Layup,,,53-53,4,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=284
 ,,,,,,,,,,3,7.59,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,53-53,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=285
 ,,,,,,,,,,3,7.53,San Antonio Spurs,shot,Parker,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=286
 ,,,,,,,,,,3,7.41,San Antonio Spurs,foul,,,,,,,,,,Green,,,,,,Personal,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=287
 ,,,,,,,,,,3,7.34,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Running Bank Shot,,,56-53,7,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=289
 ,,,,,,,,,,3,7.33,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=291
 ,,,,,,,,,,3,7.33,Houston Rockets,shot,,,,,,,,,,Asik,2,,,made,,Tip Shot,,,56-55,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=290
-,,,,,,,,,,3,7.21,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Lost Ball,,,,,,56-55,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=292
+,,,,,,,,,,3,7.21,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Lost Ball,,Harden,,,,56-55,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=292
 ,,,,,,,,,,3,7.17,Houston Rockets,shot,,,,,,,,,,Lin,2,,,made,,Layup,,,56-57,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=293
 ,,,,,,,,,,3,7.01,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,56-57,25,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=294
 ,,,,,,,,,,3,7.00,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=295
@@ -284,14 +284,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.16,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Step Back Jump Shot,,,63-65,18,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=338
 ,,,,,,,,,,3,3.51,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Turnaround Bank Shot,,,63-65,7,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=339
 ,,,,,,,,,,3,3.49,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=340
-,,,,,,,,,,3,3.33,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,63-65,1,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=341
+,,,,,,,,,,3,3.33,Houston Rockets,shot,,,Duncan,,,,,,,Asik,,,,missed,,Layup,,,63-65,1,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=341
 ,,,,,,,,,,3,3.31,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=342
 ,,,,,,,,,,3,3.18,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Traveling,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=343
 ,,,,,,,,,,3,2.58,San Antonio Spurs,foul,,,,,,,,,,Green,,,,,,Shooting,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=344
 ,,,,,,,,,,3,2.58,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=345
 ,,,,,,,,,,3,2.58,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=349
 ,,,,,,,,,,3,2.58,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=351
-,,,,,,,,,,3,2.53,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,,,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=353
+,,,,,,,,,,3,2.53,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,Beverley,,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=353
 ,,,,,,,,,,3,2.48,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Layup,,,63-67,1,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=354
 ,,,,,,,,,,3,2.45,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,63-67,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=355
 ,,,,,,,,,,3,2.30,San Antonio Spurs,shot,,,,,,,,,,De Colo,,,,missed,,3PT Jump Shot,,,63-67,24,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=356
@@ -302,7 +302,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.50,Houston Rockets,shot,Harden,,,,,,,,,Delfino,2,,,made,,Layup,,,65-69,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=361
 ,,,,,,,,,,3,1.48,Houston Rockets,violation,,,,,,,,,,ROCKETS,,, Delay of game Violation,,,,,,65-69,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=362
 ,,,,,,,,,,3,1.28,San Antonio Spurs,shot,,,,,,,,,,Duncan,2,,,made,,Hook Shot,,,67-69,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=363
-,,,,,,,,,,3,1.13,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Driving Layup,,,67-69,5,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=364
+,,,,,,,,,,3,1.13,Houston Rockets,shot,,,Diaw,,,,,,,Parsons,,,,missed,,Driving Layup,,,67-69,5,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=364
 ,,,,,,,,,,3,1.13,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,67-69,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=365
 ,,,,,,,,,,3,1.13,San Antonio Spurs,substitute,,,,Leonard,,Green,,,,,,,,,,,,,67-69,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=366
 ,,,,,,,,,,3,1.13,Houston Rockets,substitute,,,,Smith,,Asik,,,,,,,,,,,,,67-69,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=367
@@ -337,11 +337,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.59,San Antonio Spurs,substitute,,,,Green,,Leonard,,,,,,,,,,,,,76-83,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=408
 ,,,,,,,,,,4,8.59,San Antonio Spurs,substitute,,,,Jackson,,Ginobili,,,,,,,,,,,,,76-83,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=409
 ,,,,,,,,,,4,8.59,Houston Rockets,substitute,,,,Harden,,Beverley,,,,,,,,,,,,,76-83,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=410
-,,,,,,,,,,4,8.48,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,76-83,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=411
-,,,,,,,,,,4,8.39,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Jump Shot,,,76-83,6,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=412
+,,,,,,,,,,4,8.48,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Parker,,,,76-83,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=411
+,,,,,,,,,,4,8.39,San Antonio Spurs,shot,,,Harden,,,,,,,Splitter,,,,missed,,Jump Shot,,,76-83,6,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=412
 ,,,,,,,,,,4,8.36,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,76-83,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=413
 ,,,,,,,,,,4,8.34,San Antonio Spurs,shot,Splitter,,,,,,,,,Jackson,3,,,made,,3PT Jump Shot,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=414
-,,,,,,,,,,4,8.16,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Layup,,,79-83,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=415
+,,,,,,,,,,4,8.16,Houston Rockets,shot,,,Diaw,,,,,,,Lin,,,,missed,,Layup,,,79-83,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=415
 ,,,,,,,,,,4,8.16,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=416
 ,,,,,,,,,,4,8.13,San Antonio Spurs,foul,,,,,,,,,,Splitter,,,,,,Shooting,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=417
 ,,,,,,,,,,4,8.13,Houston Rockets,free throw,,,,,,,1,,2,Smith,1,,foul,made,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=418
@@ -350,7 +350,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.55,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=423
 ,,,,,,,,,,4,7.48,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,79-85,25,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=424
 ,,,,,,,,,,4,7.47,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=425
-,,,,,,,,,,4,7.32,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Bad Pass,,,,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=426
+,,,,,,,,,,4,7.32,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Bad Pass,,Delfino,,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=426
 ,,,,,,,,,,4,7.28,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,Layup,,,79-85,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=427
 ,,,,,,,,,,4,7.27,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=429
 ,,,,,,,,,,4,7.27,Houston Rockets,shot,,,,,,,,,,Parsons,2,,,made,,Putback Layup,,,79-87,1,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=428
@@ -360,7 +360,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.52,San Antonio Spurs,shot,,,,,,,,,,Splitter,2,,,made,,Reverse Layup,,,83-87,2,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=433
 ,,,,,,,,,,4,6.26,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Jump Shot,,,83-87,22,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=434
 ,,,,,,,,,,4,6.25,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=435
-,,,,,,,,,,4,6.07,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Jump Shot,,,83-87,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=436
+,,,,,,,,,,4,6.07,San Antonio Spurs,shot,,,Lin,,,,,,,Splitter,,,,missed,,Jump Shot,,,83-87,3,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=436
 ,,,,,,,,,,4,6.04,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=437
 ,,,,,,,,,,4,5.51,San Antonio Spurs,foul,,,,,,,,,,Jackson,,,,,,Shooting,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=438
 ,,,,,,,,,,4,5.51,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=439
@@ -401,13 +401,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.39,San Antonio Spurs,substitute,,,,Green,,Jackson,,,,,,,,,,,,,91-89,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=482
 ,,,,,,,,,,4,2.24,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,3PT Jump Shot,,,91-89,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=484
 ,,,,,,,,,,4,2.22,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,91-89,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=485
-,,,,,,,,,,4,2.05,San Antonio Spurs,shot,,,,,,,,,,Duncan,,,,missed,,Jump Bank Shot,,,91-89,4,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=486
+,,,,,,,,,,4,2.05,San Antonio Spurs,shot,,,Asik,,,,,,,Duncan,,,,missed,,Jump Bank Shot,,,91-89,4,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=486
 ,,,,,,,,,,4,2.03,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,91-89,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=487
-,,,,,,,,,,4,1.57,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,91-89,6,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=488
+,,,,,,,,,,4,1.57,Houston Rockets,shot,,,Parker,,,,,,,Harden,,,,missed,,Jump Shot,,,91-89,6,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=488
 ,,,,,,,,,,4,1.55,San Antonio Spurs,rebound,,,,,,,,,,Leonard,,,,,,,,,91-89,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=489
 ,,,,,,,,,,4,1.50,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Driving Jump Shot,,,93-89,5,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=490
-,,,,,,,,,,4,1.29,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Lost Ball,,,,,,93-89,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=491
-,,,,,,,,,,4,1.24,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Layup,,,93-89,5,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=492
+,,,,,,,,,,4,1.29,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Lost Ball,,Ginobili,,,,93-89,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=491
+,,,,,,,,,,4,1.24,San Antonio Spurs,shot,,,Beverley,,,,,,,Green,,,,missed,,Layup,,,93-89,5,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=492
 ,,,,,,,,,,4,1.22,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,93-89,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=493
 ,,,,,,,,,,4,1.19,Houston Rockets,shot,Harden,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,93-92,25,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=494
 ,,,,,,,,,,4,1.12,Houston Rockets,foul,,,,,,,,,,Beverley,,,,,,Personal,,,93-92,,http://stats.nba.com/cvp.html?GameID=0021201042&GameEventID=495

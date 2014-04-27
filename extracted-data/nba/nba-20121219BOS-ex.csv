@@ -3,7 +3,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.41,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=3
 ,,,,,,,,,,1,11.30,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,,20,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=4
 ,,,,,,,,,,1,11.29,Cleveland Cavaliers,rebound,,,,,,,,,,Irving,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=5
-,,,,,,,,,,1,11.20,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=6
+,,,,,,,,,,1,11.20,Cleveland Cavaliers,shot,,,Pierce,,,,,,,Gee,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=6
 ,,,,,,,,,,1,11.19,Boston Celtics,rebound,,,,,,,,,,Collins,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=7
 ,,,,,,,,,,1,11.11,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Floating Jump Shot,,,0-2,6,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=8
 ,,,,,,,,,,1,10.44,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Running Hook Shot,,,0-2,11,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=10
@@ -35,7 +35,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.48,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=39
 ,,,,,,,,,,1,6.48,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Loose ball,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=40
 ,,,,,,,,,,1,6.48,Boston Celtics,substitute,,,,Bass,,Garnett,,,,,,,,,,,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=41
-,,,,,,,,,,1,6.32,Cleveland Cavaliers,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=43
+,,,,,,,,,,1,6.32,Cleveland Cavaliers,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Rondo,,,,8-9,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=43
 ,,,,,,,,,,1,6.28,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Driving Layup,,,8-11,1,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=44
 ,,,,,,,,,,1,6.23,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,3PT Jump Shot,,,8-11,26,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=45
 ,,,,,,,,,,1,6.20,Boston Celtics,rebound,,,,,,,,,,Collins,,,,,,,,,8-11,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=46
@@ -79,7 +79,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.12,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,19-23,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=92
 ,,,,,,,,,,1,2.12,Boston Celtics,free throw,,,,,,,2,,2,Rondo,1,,foul,made,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=93
 ,,,,,,,,,,1,1.54,Cleveland Cavaliers,shot,,,,,,,,,,Irving,2,,,made,,Pullup Jump Shot,,,21-24,9,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=95
-,,,,,,,,,,1,1.33,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=96
+,,,,,,,,,,1,1.33,Boston Celtics,turnover,,,,,,,,,,Lee,,,Bad Pass,,Gee,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=96
 ,,,,,,,,,,1,1.30,Cleveland Cavaliers,shot,,,,,,,,,,Gee,2,,,made,,Driving Dunk,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=97
 ,,,,,,,,,,1,1.16,Cleveland Cavaliers,foul,,,,,,,,,,Irving,,,,,,Personal,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=98
 ,,,,,,,,,,1,1.16,Boston Celtics,free throw,,,,,,,1,,2,Rondo,,,foul,missed,,,,,23-24,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=99
@@ -126,7 +126,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.12,Boston Celtics,shot,Terry,,,,,,,,,Garnett,2,,,made,,Turnaround Fadeaway,,,29-32,10,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=152
 ,,,,,,,,,,2,8.56,Cleveland Cavaliers,shot,Sloan,,,,,,,,,Zeller,2,,,made,,Jump Shot,,,31-32,16,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=153
 ,,,,,,,,,,2,8.43,Boston Celtics,turnover,,,,,,,,,,Garnett Out of Bounds,,,Lost Ball,,,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=154
-,,,,,,,,,,2,8.19,Cleveland Cavaliers,shot,,,,,,,,,,Jones,,,,missed,,Layup,,,31-32,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=157
+,,,,,,,,,,2,8.19,Cleveland Cavaliers,shot,,,Garnett,,,,,,,Jones,,,,missed,,Layup,,,31-32,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=157
 ,,,,,,,,,,2,8.18,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,31-32,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=158
 ,,,,,,,,,,2,7.59,Boston Celtics,shot,Terry,,,,,,,,,Lee,2,,,made,,Jump Shot,,,31-34,20,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=159
 ,,,,,,,,,,2,7.44,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,31-34,20,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=160
@@ -170,7 +170,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.25,Cleveland Cavaliers,shot,,,,,,,,,,Gee,2,,,made,,Pullup Jump Shot,,,40-48,15,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=205
 ,,,,,,,,,,2,3.15,Boston Celtics,foul,,,,,,,,,,,,,,,,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=206
 ,,,,,,,,,,2,3.15,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Foul,,,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=207
-,,,,,,,,,,2,3.00,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,40-48,1,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=208
+,,,,,,,,,,2,3.00,Cleveland Cavaliers,shot,,,Garnett,,,,,,,Thompson,,,,missed,,Layup,,,40-48,1,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=208
 ,,,,,,,,,,2,2.59,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=209
 ,,,,,,,,,,2,2.59,Boston Celtics,foul,,,,,,,,,,Collins,,,,,,Loose ball,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=210
 ,,,,,,,,,,2,2.59,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,40-48,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=211
@@ -194,7 +194,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.32,Boston Celtics,shot,Rondo,,,,,,,,,Garnett,2,,,made,,Alley Oop Layup,,,44-51,1,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=233
 ,,,,,,,,,,2,1.32,Cleveland Cavaliers,foul,,,,,,,,,,Gee,,,,,,Shooting,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=234
 ,,,,,,,,,,2,1.32,Boston Celtics,free throw,,,,,,,1,,1,Garnett,1,,foul,made,,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=235
-,,,,,,,,,,2,1.16,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=237
+,,,,,,,,,,2,1.16,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,Rondo,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=237
 ,,,,,,,,,,2,1.14,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Shooting,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=238
 ,,,,,,,,,,2,1.14,Boston Celtics,free throw,,,,,,,1,,2,Rondo,,,foul,missed,,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=239
 ,,,,,,,,,,2,1.14,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=240
@@ -208,7 +208,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,3PT Jump Shot,,,46-54,25,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=249
 ,,,,,,,,,,2,0.00,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,46-54,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=250
 ,,,,,,,,,,3,11.40,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Turnaround Fadeaway,,,46-56,5,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=254
-,,,,,,,,,,3,11.16,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,46-56,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=255
+,,,,,,,,,,3,11.16,Cleveland Cavaliers,shot,,,Garnett,,,,,,,Thompson,,,,missed,,Layup,,,46-56,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=255
 ,,,,,,,,,,3,11.13,Cleveland Cavaliers,rebound,,,,,,,,,,Irving,,,,,,,,,46-56,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=256
 ,,,,,,,,,,3,11.09,Cleveland Cavaliers,shot,Waiters,,,,,,,,,Irving,3,,,made,,3PT Jump Shot,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=257
 ,,,,,,,,,,3,10.55,Boston Celtics,shot,,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,49-59,25,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=258
@@ -225,15 +225,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.09,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Jump Shot,,,55-65,18,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=270
 ,,,,,,,,,,3,8.09,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,55-65,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=271
 ,,,,,,,,,,3,8.09,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Loose ball,,,55-65,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=272
-,,,,,,,,,,3,8.03,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,,,,,55-65,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=273
+,,,,,,,,,,3,8.03,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,Garnett,,,,55-65,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=273
 ,,,,,,,,,,3,7.58,Boston Celtics,shot,Rondo,,,,,,,,,Pierce,2,,,made,,Driving Layup,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=274
-,,,,,,,,,,3,7.40,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,,,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=275
+,,,,,,,,,,3,7.40,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,Pierce,,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=275
 ,,,,,,,,,,3,7.28,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Driving Finger Roll Layup,,,55-67,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=277
 ,,,,,,,,,,3,7.26,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=278
 ,,,,,,,,,,3,7.14,Boston Celtics,foul,,,,,,,,,,Terry,,,,,,Personal,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=279
 ,,,,,,,,,,3,7.10,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,3PT Jump Shot,,,55-67,26,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=280
 ,,,,,,,,,,3,7.09,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=281
-,,,,,,,,,,3,7.07,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=282
+,,,,,,,,,,3,7.07,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Thompson,,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=282
 ,,,,,,,,,,3,7.00,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Layup,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=283
 ,,,,,,,,,,3,6.59,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=284
 ,,,,,,,,,,3,6.59,Boston Celtics,substitute,,,,Bass,,Garnett,,,,,,,,,,,,,55-67,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=285
@@ -248,12 +248,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.58,Boston Celtics,shot,Rondo,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,57-72,25,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=294
 ,,,,,,,,,,3,5.56,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=295
 ,,,,,,,,,,3,5.56,Boston Celtics,substitute,,,,Sullinger,,Collins,,,,,,,,,,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=297
-,,,,,,,,,,3,5.43,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=298
-,,,,,,,,,,3,5.31,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Jump Shot,,,57-72,4,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=300
+,,,,,,,,,,3,5.43,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,Sullinger,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=298
+,,,,,,,,,,3,5.31,Boston Celtics,shot,,,Thompson,,,,,,,Sullinger,,,,missed,,Jump Shot,,,57-72,4,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=300
 ,,,,,,,,,,3,5.30,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=301
 ,,,,,,,,,,3,5.30,Cleveland Cavaliers,substitute,,,,Miles,,Waiters,,,,,,,,,,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=302
 ,,,,,,,,,,3,5.30,Cleveland Cavaliers,substitute,,,,Samuels,,Zeller,,,,,,,,,,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=303
-,,,,,,,,,,3,5.30,Boston Celtics,turnover,,,,,,,,,,Sullinger,,,Lost Ball,,,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=305
+,,,,,,,,,,3,5.30,Boston Celtics,turnover,,,,,,,,,,Sullinger,,,Lost Ball,,Thompson,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=305
 ,,,,,,,,,,3,5.30,Boston Celtics,jumpball,,Thompson,,,Sullinger,,,,,,,,,,,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=304
 ,,,,,,,,,,3,5.09,Cleveland Cavaliers,shot,,,,,,,,,,Samuels,,,,missed,,Jump Shot,,,57-72,21,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=307
 ,,,,,,,,,,3,5.07,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,57-72,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=308
@@ -266,7 +266,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.02,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,59-78,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=318
 ,,,,,,,,,,3,3.42,Cleveland Cavaliers,foul,,,,,,,,,,Irving,,,,,,Personal,,,59-78,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=319
 ,,,,,,,,,,3,3.42,Boston Celtics,substitute,,,,Green,,Pierce,,,,,,,,,,,,,59-78,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=320
-,,,,,,,,,,3,3.36,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,59-78,4,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=321
+,,,,,,,,,,3,3.36,Boston Celtics,shot,,,Thompson,,,,,,,Bass,,,,missed,,Jump Shot,,,59-78,4,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=321
 ,,,,,,,,,,3,3.35,Cleveland Cavaliers,rebound,,,,,,,,,,Irving,,,,,,,,,59-78,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=322
 ,,,,,,,,,,3,3.33,Boston Celtics,foul,,,,,,,,,,Sullinger,,,,,,Personal,,,59-78,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=323
 ,,,,,,,,,,3,3.33,Cleveland Cavaliers,free throw,,,,,,,1,,2,Irving,,,foul,missed,,,,,59-78,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=324
@@ -297,7 +297,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.35,Boston Celtics,turnover,,,,,,,,,,Green,,,Foul,,,,,,70-82,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=354
 ,,,,,,,,,,3,0.29,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,Jump Shot,,,70-82,14,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=355
 ,,,,,,,,,,3,0.27,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,70-82,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=356
-,,,,,,,,,,3,0.26,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,70-82,3,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=357
+,,,,,,,,,,3,0.26,Cleveland Cavaliers,shot,,,Green,,,,,,,Thompson,,,,missed,,Layup,,,70-82,3,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=357
 ,,,,,,,,,,3,0.25,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,70-82,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=358
 ,,,,,,,,,,3,0.19,Boston Celtics,turnover,,,,,,,,,,Lee Out of Bounds,,,Lost Ball,,,,,,70-82,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=359
 ,,,,,,,,,,3,0.01,Cleveland Cavaliers,shot,,,,,,,,,,Irving,2,,,made,,Running Layup,,,72-82,1,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=360
@@ -337,7 +337,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.56,Cleveland Cavaliers,substitute,,,,Irving,,Miles,,,,,,,,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=406
 ,,,,,,,,,,4,7.53,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,80-86,20,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=407
 ,,,,,,,,,,4,7.52,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=408
-,,,,,,,,,,4,7.29,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=409
+,,,,,,,,,,4,7.29,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Zeller,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=409
 ,,,,,,,,,,4,7.23,Boston Celtics,violation,,,,,,,,,,Pierce,,,Kicked Ball,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=410
 ,,,,,,,,,,4,7.23,Cleveland Cavaliers,substitute,,,,Thompson,,Walton,,,,,,,,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=411
 ,,,,,,,,,,4,7.23,Cleveland Cavaliers,substitute,,,,Gee,,Samuels,,,,,,,,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=412
@@ -350,19 +350,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.08,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,2,,,made,,Running Jump Shot,,,84-88,8,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=419
 ,,,,,,,,,,4,5.46,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Jump Shot,,,84-88,20,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=420
 ,,,,,,,,,,4,5.45,Cleveland Cavaliers,rebound,,,,,,,,,,Waiters,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=421
-,,,,,,,,,,4,5.29,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,Finger Roll Layup,,,84-88,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=422
+,,,,,,,,,,4,5.29,Cleveland Cavaliers,shot,,,Collins,,,,,,,Waiters,,,,missed,,Finger Roll Layup,,,84-88,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=422
 ,,,,,,,,,,4,5.28,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=423
 ,,,,,,,,,,4,5.28,Boston Celtics,substitute,,,,Bass,,Garnett,,,,,,,,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=426
-,,,,,,,,,,4,5.27,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=427
+,,,,,,,,,,4,5.27,Cleveland Cavaliers,turnover,,,,,,,,,,Gee,,,Bad Pass,,Terry,,,,84-88,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=427
 ,,,,,,,,,,4,5.22,Boston Celtics,shot,,,,,,,,,,Terry,2,,,made,,Layup,,,84-90,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=428
-,,,,,,,,,,4,5.01,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,,,,,84-90,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=429
+,,,,,,,,,,4,5.01,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,Collins,,,,84-90,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=429
 ,,,,,,,,,,4,4.48,Boston Celtics,shot,Pierce,,,,,,,,,Rondo,2,,,made,,Jump Shot,,,84-92,19,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=430
-,,,,,,,,,,4,4.34,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,,,,,84-92,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=431
+,,,,,,,,,,4,4.34,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Lost Ball,,Pierce,,,,84-92,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=431
 ,,,,,,,,,,4,4.30,Cleveland Cavaliers,foul,,,,,,,,,,Irving,,,,,,Shooting,,,84-92,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=432
 ,,,,,,,,,,4,4.30,Boston Celtics,free throw,,,,,,,1,,2,Pierce,1,,foul,made,,,,,84-93,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=433
 ,,,,,,,,,,4,4.30,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,84-94,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=435
 ,,,,,,,,,,4,4.30,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,84-94,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=437
-,,,,,,,,,,4,4.14,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,,,,,84-94,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=439
+,,,,,,,,,,4,4.14,Cleveland Cavaliers,turnover,,,,,,,,,,Waiters,,,Bad Pass,,Pierce,,,,84-94,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=439
 ,,,,,,,,,,4,3.59,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Turnaround Fadeaway,,,84-96,9,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=440
 ,,,,,,,,,,4,3.42,Boston Celtics,foul,,,,,,,,,,Collins,,,,,,Shooting Block,,,84-96,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=441
 ,,,,,,,,,,4,3.42,Cleveland Cavaliers,free throw,,,,,,,1,,2,Irving,,,foul,missed,,,,,84-96,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=442
@@ -379,11 +379,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.13,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,85-98,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=455
 ,,,,,,,,,,4,3.05,Cleveland Cavaliers,shot,Irving,,,,,,,,,Thompson,2,,,made,,Dunk,,,87-98,1,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=457
 ,,,,,,,,,,4,2.49,Boston Celtics,shot,Pierce,,,,,,,,,Terry,3,,,made,,3PT Jump Shot,,,87-101,24,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=458
-,,,,,,,,,,4,2.37,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,Jump Shot,,,87-101,6,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=460
+,,,,,,,,,,4,2.37,Cleveland Cavaliers,shot,,,Rondo,,,,,,,Irving,,,,missed,,Jump Shot,,,87-101,6,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=460
 ,,,,,,,,,,4,2.36,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=461
 ,,,,,,,,,,4,2.29,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,3PT Jump Shot,,,87-101,26,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=462
 ,,,,,,,,,,4,2.28,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=463
-,,,,,,,,,,4,2.17,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=464
+,,,,,,,,,,4,2.17,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Waiters,,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=464
 ,,,,,,,,,,4,2.08,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Jump Shot,,,87-101,20,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=465
 ,,,,,,,,,,4,2.07,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=466
 ,,,,,,,,,,4,1.59,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,87-101,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=467
@@ -392,7 +392,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.44,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=470
 ,,,,,,,,,,4,1.37,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,3PT Jump Shot,,,87-101,25,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=471
 ,,,,,,,,,,4,1.35,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=472
-,,,,,,,,,,4,1.15,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=473
+,,,,,,,,,,4,1.15,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Irving,,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=473
 ,,,,,,,,,,4,1.13,Boston Celtics,foul,,,,,,,,,,Garnett,,,,,,Personal Take,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=474
 ,,,,,,,,,,4,1.03,Boston Celtics,foul,,,,,,,,,,Garnett,,,,,,Shooting,,,87-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=475
 ,,,,,,,,,,4,1.03,Cleveland Cavaliers,free throw,,,,,,,1,,2,Thompson,1,,foul,made,,,,,88-101,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=476
@@ -402,5 +402,5 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.49,Boston Celtics,shot,Garnett,,,,,,,,,Terry,2,,,made,,Jump Shot,,,89-103,21,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=482
 ,,,,,,,,,,4,0.37,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,Jump Shot,,,89-103,19,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=483
 ,,,,,,,,,,4,0.36,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,89-103,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=484
-,,,,,,,,,,4,0.19,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,,,,,89-103,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=485
+,,,,,,,,,,4,0.19,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Irving,,,,89-103,,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=485
 ,,,,,,,,,,4,0.16,Cleveland Cavaliers,shot,Irving,,,,,,,,,Waiters,2,,,made,,Dunk,,,91-103,2,http://stats.nba.com/cvp.html?GameID=0021200370&GameEventID=486

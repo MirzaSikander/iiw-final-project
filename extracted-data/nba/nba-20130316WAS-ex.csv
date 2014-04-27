@@ -69,7 +69,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.42,Phoenix Suns,shot,Dragic,,,,,,,,,Morris,2,,,made,,Floating Jump Shot,,,16-19,5,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=80
 ,,,,,,,,,,1,4.30,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Jump Shot,,,16-19,7,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=81
 ,,,,,,,,,,1,4.29,Washington Wizards,rebound,,,,,,,,,,Booker,,,,,,,,,16-19,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=82
-,,,,,,,,,,1,4.18,Washington Wizards,shot,,,,,,,,,,Booker,,,,missed,,Jump Shot,,,16-19,4,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=83
+,,,,,,,,,,1,4.18,Washington Wizards,shot,,,Morris,,,,,,,Booker,,,,missed,,Jump Shot,,,16-19,4,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=83
 ,,,,,,,,,,1,4.17,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,16-19,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=84
 ,,,,,,,,,,1,4.17,Washington Wizards,foul,,,,,,,,,,Booker,,,,,,Technical,,,16-19,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=85
 ,,,,,,,,,,1,4.17,Phoenix Suns,free throw,,,,,,,,,,Dragic,1,,Technical,made,,,,,17-19,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=86
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.53,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=116
 ,,,,,,,,,,1,1.37,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Jump Shot,,,25-25,12,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=117
 ,,,,,,,,,,1,1.37,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=118
-,,,,,,,,,,1,1.31,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,25-25,3,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=119
+,,,,,,,,,,1,1.31,Phoenix Suns,shot,,,Okafor,,,,,,,Scola,,,,missed,,Jump Shot,,,25-25,3,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=119
 ,,,,,,,,,,1,1.30,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=120
 ,,,,,,,,,,1,1.23,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Personal,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=121
 ,,,,,,,,,,1,1.23,Washington Wizards,substitute,,,,Temple,,Wall,,,,,,,,,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=122
@@ -143,7 +143,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.25,Phoenix Suns,foul,,,,,,,,,,Tucker,,,,,,Shooting,,,34-36,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=172
 ,,,,,,,,,,2,9.25,Washington Wizards,free throw,,,,,,,1,,1,Webster,1,,foul,made,,,,,34-37,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=173
 ,,,,,,,,,,2,9.05,Phoenix Suns,shot,Dudley,,,,,,,,,Scola,2,,,made,,Hook Shot,,,36-37,9,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=176
-,,,,,,,,,,2,8.59,Washington Wizards,turnover,,,,,,,,,,Temple,,,Bad Pass,,,,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=177
+,,,,,,,,,,2,8.59,Washington Wizards,turnover,,,,,,,,,,Temple,,,Bad Pass,,Dudley,,,,36-37,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=177
 ,,,,,,,,,,2,8.54,Phoenix Suns,shot,Marshall,,,,,,,,,Dudley,3,,,made,,3PT Jump Shot,,,39-37,28,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=178
 ,,,,,,,,,,2,8.29,Washington Wizards,shot,Webster,,,,,,,,,Temple,3,,,made,,3PT Jump Shot,,,39-40,25,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=179
 ,,,,,,,,,,2,8.15,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,3PT Jump Shot,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=180
@@ -155,8 +155,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.29,Washington Wizards,substitute,,,,Wall,,Temple,,,,,,,,,,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=188
 ,,,,,,,,,,2,7.29,Phoenix Suns,substitute,,,,W. Johnson,,Dudley,,,,,,,,,,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=189
 ,,,,,,,,,,2,7.29,Phoenix Suns,substitute,,,,O'Neal,,Scola,,,,,,,,,,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=190
-,,,,,,,,,,2,7.24,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=191
-,,,,,,,,,,2,7.20,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=192
+,,,,,,,,,,2,7.24,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Beasley,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=191
+,,,,,,,,,,2,7.20,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Wall,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=192
 ,,,,,,,,,,2,7.13,Washington Wizards,shot,Wall,,,,,,,,,Webster,3,,,made,,3PT Jump Shot,,,39-43,24,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=193
 ,,,,,,,,,,2,6.58,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Pullup Jump Shot,,,41-43,23,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=194
 ,,,,,,,,,,2,6.44,Phoenix Suns,foul,,,,,,,,,,,,,,,,,,,41-43,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=195
@@ -172,7 +172,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.56,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,43-46,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=209
 ,,,,,,,,,,2,5.56,Phoenix Suns,free throw,,,,,,,1,,2,Beasley,1,,foul,made,,,,,44-46,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=211
 ,,,,,,,,,,2,5.56,Phoenix Suns,free throw,,,,,,,2,,2,Beasley,1,,foul,made,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=213
-,,,,,,,,,,2,5.42,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Jump Shot,,,45-46,3,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=216
+,,,,,,,,,,2,5.42,Washington Wizards,shot,,,O'Neal,,,,,,,Nene,,,,missed,,Jump Shot,,,45-46,3,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=216
 ,,,,,,,,,,2,5.40,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=217
 ,,,,,,,,,,2,5.36,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Jump Shot,,,45-46,16,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=218
 ,,,,,,,,,,2,5.35,Phoenix Suns,rebound,,,,,,,,,,W. Johnson,,,,,,,,,45-46,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=219
@@ -221,7 +221,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.08,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,57-64,11,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=275
 ,,,,,,,,,,2,1.07,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,57-64,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=276
 ,,,,,,,,,,2,0.54,Washington Wizards,shot,,,,,,,,,,Beal,2,,,made,,Fadeaway Jumper,,,57-66,17,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=277
-,,,,,,,,,,2,0.44,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Lost Ball,,,,,,57-66,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=278
+,,,,,,,,,,2,0.44,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Lost Ball,,Beal,,,,57-66,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=278
 ,,,,,,,,,,2,0.33,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,Jump Shot,,,57-66,6,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=279
 ,,,,,,,,,,2,0.32,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,57-66,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=280
 ,,,,,,,,,,2,0.27,Phoenix Suns,shot,O'Neal,,,,,,,,,Dragic,2,,,made,,Step Back Jump Shot,,,59-66,17,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=281
@@ -247,10 +247,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.53,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Jump Shot,,,63-73,9,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=307
 ,,,,,,,,,,3,8.52,Phoenix Suns,rebound,,,,,,,,,,W. Johnson,,,,,,,,,63-73,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=308
 ,,,,,,,,,,3,8.42,Phoenix Suns,shot,,,,,,,,,,W. Johnson,2,,,made,,Jump Shot,,,65-73,23,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=309
-,,,,,,,,,,3,8.25,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,Layup,,,65-73,2,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=310
+,,,,,,,,,,3,8.25,Washington Wizards,shot,,,Johnson,,,,,,,Webster,,,,missed,,Layup,,,65-73,2,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=310
 ,,,,,,,,,,3,8.25,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=311
 ,,,,,,,,,,3,8.21,Washington Wizards,shot,Temple,,,,,,,,,Nene,2,,,made,,Slam Dunk,,,65-75,1,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=312
-,,,,,,,,,,3,8.02,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Lost Ball,,,,,,65-75,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=313
+,,,,,,,,,,3,8.02,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Lost Ball,,Wall,,,,65-75,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=313
 ,,,,,,,,,,3,7.57,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Driving Slam Dunk,,,65-77,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=314
 ,,,,,,,,,,3,7.49,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,65-77,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=315
 ,,,,,,,,,,3,7.35,Phoenix Suns,shot,,,,,,,,,,W. Johnson,2,,,made,,Jump Shot,,,67-77,18,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=317
@@ -271,7 +271,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.49,Phoenix Suns,foul,,,,,,,,,,Dudley,,,,,,Shooting,,,71-87,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=334
 ,,,,,,,,,,3,5.49,Washington Wizards,substitute,,,,Booker,,Nene,,,,,,,,,,,,,71-87,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=335
 ,,,,,,,,,,3,5.49,Washington Wizards,free throw,,,,,,,1,,1,Okafor,1,,foul,made,,,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=336
-,,,,,,,,,,3,5.37,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,,,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=339
+,,,,,,,,,,3,5.37,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,Temple,,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=339
 ,,,,,,,,,,3,5.31,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,Layup,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=340
 ,,,,,,,,,,3,5.30,Washington Wizards,rebound,,,,,,,,,,Booker,,,,,,,,,71-88,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=341
 ,,,,,,,,,,3,5.28,Washington Wizards,shot,,,,,,,,,,Booker,2,,,made,,Layup,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=342
@@ -280,11 +280,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.10,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,3PT Jump Shot,,,71-90,26,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=347
 ,,,,,,,,,,3,5.09,Phoenix Suns,rebound,,,,,,,,,,W. Johnson,,,,,,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=348
 ,,,,,,,,,,3,5.03,Phoenix Suns,turnover,,,,,,,,,,Beasley Out of Bounds,,,Lost Ball,,,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=349
-,,,,,,,,,,3,4.48,Washington Wizards,turnover,,,,,,,,,,Temple,,,Bad Pass,,,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=350
-,,,,,,,,,,3,4.39,Phoenix Suns,turnover,,,,,,,,,,W. Johnson,,,Lost Ball,,,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=352
+,,,,,,,,,,3,4.48,Washington Wizards,turnover,,,,,,,,,,Temple,,,Bad Pass,,Johnson,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=350
+,,,,,,,,,,3,4.39,Phoenix Suns,turnover,,,,,,,,,,W. Johnson,,,Lost Ball,,Temple,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=352
 ,,,,,,,,,,3,4.23,Washington Wizards,shot,,,,,,,,,,Temple,,,,missed,,Jump Shot,,,71-90,15,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=353
 ,,,,,,,,,,3,4.22,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=354
-,,,,,,,,,,3,4.17,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,71-90,5,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=355
+,,,,,,,,,,3,4.17,Phoenix Suns,shot,,,Wall,,,,,,,Dragic,,,,missed,,Jump Shot,,,71-90,5,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=355
 ,,,,,,,,,,3,4.13,Phoenix Suns,rebound,,,,,,,,,,W. Johnson,,,,,,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=356
 ,,,,,,,,,,3,4.12,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Shooting,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=357
 ,,,,,,,,,,3,4.12,Phoenix Suns,free throw,,,,,,,1,,2,Beasley,1,,foul,made,,,,,72-90,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=358
@@ -328,14 +328,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.54,Washington Wizards,rebound,,,,,,,,,,Booker,,,,,,,,,79-99,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=409
 ,,,,,,,,,,3,0.41,Phoenix Suns,foul,,,,,,,,,,Dudley,,,,,,Personal,,,79-99,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=411
 ,,,,,,,,,,3,0.34,Washington Wizards,turnover,,,,,,,,,,Beal Out of Bounds,,,Lost Ball,,,,,,79-99,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=412
-,,,,,,,,,,3,0.20,Phoenix Suns,shot,,,,,,,,,,Dudley,,,,missed,,Layup,,,79-99,1,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=413
+,,,,,,,,,,3,0.20,Phoenix Suns,shot,,,Beal,,,,,,,Dudley,,,,missed,,Layup,,,79-99,1,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=413
 ,,,,,,,,,,3,0.18,Washington Wizards,rebound,,,,,,,,,,Beal,,,,,,,,,79-99,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=414
 ,,,,,,,,,,3,0.14,Washington Wizards,shot,Beal,,,,,,,,,Webster,3,,,made,,3PT Jump Shot,,,79-102,25,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=415
 ,,,,,,,,,,3,0.07,Washington Wizards,foul,,,,,,,,,,Temple,,,,,,Personal,,,79-102,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=416
 ,,,,,,,,,,3,0.07,Phoenix Suns,free throw,,,,,,,1,,2,Scola,,,foul,missed,,,,,79-102,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=417
 ,,,,,,,,,,3,0.07,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,79-102,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=418
 ,,,,,,,,,,3,0.07,Phoenix Suns,free throw,,,,,,,2,,2,Scola,1,,foul,made,,,,,80-102,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=419
-,,,,,,,,,,3,0.02,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,,,,,80-102,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=422
+,,,,,,,,,,3,0.02,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,Marshall,,,,80-102,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=422
 ,,,,,,,,,,3,0.00,Phoenix Suns,shot,Marshall,,,,,,,,,Tucker,3,,,made,,3PT Jump Shot,,,83-102,34,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=423
 ,,,,,,,,,,4,11.50,Washington Wizards,foul,,,,,,,,,,Seraphin,,,,,,Shooting,,,83-102,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=432
 ,,,,,,,,,,4,11.50,Phoenix Suns,free throw,,,,,,,1,,2,Beasley,,,foul,missed,,,,,83-102,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=433
@@ -354,7 +354,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.25,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,86-109,14,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=448
 ,,,,,,,,,,4,10.23,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,86-109,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=449
 ,,,,,,,,,,4,10.21,Phoenix Suns,shot,,,,,,,,,,Dudley,2,,,made,,Tip Shot,,,88-109,1,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=450
-,,,,,,,,,,4,10.10,Washington Wizards,turnover,,,,,,,,,,Temple,,,Bad Pass,,,,,,88-109,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=451
+,,,,,,,,,,4,10.10,Washington Wizards,turnover,,,,,,,,,,Temple,,,Bad Pass,,Tucker,,,,88-109,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=451
 ,,,,,,,,,,4,10.06,Phoenix Suns,shot,,,,,,,,,,Tucker,2,,,made,,Running Layup,,,90-109,1,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=452
 ,,,,,,,,,,4,9.46,Washington Wizards,shot,Temple,,,,,,,,,Beal,3,,,made,,3PT Jump Shot,,,90-112,26,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=453
 ,,,,,,,,,,4,9.25,Phoenix Suns,shot,,,,,,,,,,Tucker,,,,missed,,Layup,,,90-112,3,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=454
@@ -389,7 +389,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.12,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,96-116,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=488
 ,,,,,,,,,,4,5.59,Phoenix Suns,turnover,,,,,,,,,,Beasley Out of Bounds,,,Lost Ball,,,,,,96-116,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=489
 ,,,,,,,,,,4,5.59,Phoenix Suns,substitute,,,,Morris,,Beasley,,,,,,,,,,,,,96-116,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=492
-,,,,,,,,,,4,5.48,Washington Wizards,shot,,,,,,,,,,Booker,,,,missed,,Layup,,,96-116,1,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=493
+,,,,,,,,,,4,5.48,Washington Wizards,shot,,,O'Neal,,,,,,,Booker,,,,missed,,Layup,,,96-116,1,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=493
 ,,,,,,,,,,4,5.47,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,96-116,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=494
 ,,,,,,,,,,4,5.43,Phoenix Suns,shot,Morris,,,,,,,,,Dragic,2,,,made,,Layup,,,98-116,1,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=495
 ,,,,,,,,,,4,5.19,Washington Wizards,shot,Booker,,,,,,,,,Temple,3,,,made,,3PT Jump Shot,,,98-119,24,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=496
@@ -398,7 +398,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.58,Washington Wizards,rebound,,,,,,,,,,Wall,,,,,,,,,98-119,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=499
 ,,,,,,,,,,4,4.41,Washington Wizards,shot,,,,,,,,,,Martin,,,,missed,,3PT Jump Shot,,,98-119,24,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=500
 ,,,,,,,,,,4,4.40,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,98-119,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=501
-,,,,,,,,,,4,4.27,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,,,,,98-119,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=502
+,,,,,,,,,,4,4.27,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Lost Ball,,Wall,,,,98-119,,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=502
 ,,,,,,,,,,4,4.19,Washington Wizards,shot,Temple,,,,,,,,,Booker,2,,,made,,Layup,,,98-121,2,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=503
 ,,,,,,,,,,4,4.04,Phoenix Suns,shot,,,,,,,,,,O'Neal,2,,,made,,Jump Shot,,,100-121,15,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=504
 ,,,,,,,,,,4,3.48,Washington Wizards,shot,,,,,,,,,,Seraphin,2,,,made,,Jump Shot,,,100-123,14,http://stats.nba.com/cvp.html?GameID=0021200979&GameEventID=505

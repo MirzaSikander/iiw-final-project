@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.38,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=2
+,,,,,,,,,,1,11.38,Chicago Bulls,shot,,,Ilyasova,,,,,,,Noah,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=2
 ,,,,,,,,,,1,11.37,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=3
-,,,,,,,,,,1,11.37,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=4
+,,,,,,,,,,1,11.37,Chicago Bulls,shot,,,Ellis,,,,,,,Deng,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=4
 ,,,,,,,,,,1,11.37,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=5
 ,,,,,,,,,,1,11.34,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Jump Shot,,,,20,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=6
 ,,,,,,,,,,1,11.33,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=7
@@ -16,7 +16,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.16,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Jump Shot,,,2-2,20,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=17
 ,,,,,,,,,,1,10.15,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=18
 ,,,,,,,,,,1,10.08,Chicago Bulls,shot,Robinson,,,,,,,,,Deng,2,,,made,,Driving Layup,,,2-4,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=19
-,,,,,,,,,,1,9.54,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=20
+,,,,,,,,,,1,9.54,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,Boozer,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=20
 ,,,,,,,,,,1,9.47,Chicago Bulls,shot,Robinson,,,,,,,,,Hamilton,2,,,made,,Pullup Jump Shot,,,2-6,14,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=21
 ,,,,,,,,,,1,9.25,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,3PT Jump Shot,,,2-6,24,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=22
 ,,,,,,,,,,1,9.24,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=23
@@ -41,9 +41,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.15,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,5-13,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=44
 ,,,,,,,,,,1,7.06,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,3PT Jump Shot,,,5-13,24,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=45
 ,,,,,,,,,,1,7.05,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,5-13,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=46
-,,,,,,,,,,1,7.00,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Driving Layup,,,5-13,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=47
+,,,,,,,,,,1,7.00,Chicago Bulls,shot,,,Ilyasova,,,,,,,Deng,,,,missed,,Driving Layup,,,5-13,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=47
 ,,,,,,,,,,1,6.59,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,5-13,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=48
-,,,,,,,,,,1,6.56,Chicago Bulls,shot,,,,,,,,,,Hamilton,,,,missed,,Layup,,,5-13,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=49
+,,,,,,,,,,1,6.56,Chicago Bulls,shot,,,Sanders,,,,,,,Hamilton,,,,missed,,Layup,,,5-13,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=49
 ,,,,,,,,,,1,6.53,Milwaukee Bucks,rebound,,,,,,,,,,Mbah a Moute,,,,,,,,,5-13,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=50
 ,,,,,,,,,,1,6.43,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Running Layup,,,5-13,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=51
 ,,,,,,,,,,1,6.42,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,5-13,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=52
@@ -66,7 +66,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.05,Milwaukee Bucks,foul,,,,,,,,,,Ilyasova,,,,,,Personal,,,7-18,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=71
 ,,,,,,,,,,1,5.05,Milwaukee Bucks,substitute,,,,Udoh,,Sanders,,,,,,,,,,,,,7-18,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=72
 ,,,,,,,,,,1,5.00,Milwaukee Bucks,violation,,,,,,,,,,Ellis,,,Kicked Ball,,,,,,7-18,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=73
-,,,,,,,,,,1,4.52,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,,,,,7-18,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=74
+,,,,,,,,,,1,4.52,Chicago Bulls,turnover,,,,,,,,,,Noah,,,Bad Pass,,Ilyasova,,,,7-18,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=74
 ,,,,,,,,,,1,4.48,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,,,,,7-18,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=75
 ,,,,,,,,,,1,4.35,Chicago Bulls,shot,Hamilton,,,,,,,,,Robinson,3,,,made,,3PT Jump Shot,,,7-21,25,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=76
 ,,,,,,,,,,1,4.18,Chicago Bulls,foul,,,,,,,,,,Gibson,,,,,,Shooting,,,7-21,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=78
@@ -75,9 +75,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.18,Milwaukee Bucks,free throw,,,,,,,2,,2,Ilyasova,1,,foul,made,,,,,9-21,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=83
 ,,,,,,,,,,1,3.58,Chicago Bulls,shot,Hamilton,,,,,,,,,Robinson,3,,,made,,3PT Jump Shot,,,9-24,26,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=85
 ,,,,,,,,,,1,3.42,Milwaukee Bucks,shot,Udrih,,,,,,,,,Ilyasova,3,,,made,,3PT Jump Shot,,,12-24,25,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=86
-,,,,,,,,,,1,3.28,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Lost Ball,,,,,,12-24,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=87
+,,,,,,,,,,1,3.28,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Lost Ball,,Ilyasova,,,,12-24,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=87
 ,,,,,,,,,,1,3.22,Milwaukee Bucks,shot,Udrih,,,,,,,,,Ilyasova,2,,,made,,Jump Bank Shot,,,14-24,15,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=88
-,,,,,,,,,,1,3.04,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Lost Ball,,,,,,14-24,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=89
+,,,,,,,,,,1,3.04,Chicago Bulls,turnover,,,,,,,,,,Gibson,,,Lost Ball,,Udoh,,,,14-24,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=89
 ,,,,,,,,,,1,3.00,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,Layup,,,14-24,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=90
 ,,,,,,,,,,1,2.58,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,14-24,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=91
 ,,,,,,,,,,1,2.55,Milwaukee Bucks,foul,,,,,,,,,,Ilyasova,,,,,,Shooting,,,14-24,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=92
@@ -99,7 +99,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.55,Milwaukee Bucks,shot,Ellis,,,,,,,,,Udrih,2,,,made,,Jump Shot,,,16-26,21,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=111
 ,,,,,,,,,,1,1.36,Chicago Bulls,shot,,,,,,,,,,Robinson,2,,,made,,Floating Jump Shot,,,16-28,20,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=112
 ,,,,,,,,,,1,1.18,Milwaukee Bucks,shot,Udoh,,,,,,,,,Udrih,2,,,made,,Jump Shot,,,18-28,18,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=113
-,,,,,,,,,,1,1.05,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Lost Ball,,,,,,18-28,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=114
+,,,,,,,,,,1,1.05,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Lost Ball,,Ellis,,,,18-28,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=114
 ,,,,,,,,,,1,0.57,Milwaukee Bucks,shot,Ellis,,,,,,,,,Dunleavy,3,,,made,,3PT Jump Shot,,,21-28,25,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=115
 ,,,,,,,,,,1,0.48,Milwaukee Bucks,foul,,,,,,,,,,Henson,,,,,,Personal,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=116
 ,,,,,,,,,,1,0.48,Chicago Bulls,free throw,,,,,,,1,,2,Gibson,1,,foul,made,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=117
@@ -107,7 +107,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.48,Milwaukee Bucks,substitute,,,,Jennings,,Ellis,,,,,,,,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=120
 ,,,,,,,,,,1,0.48,Chicago Bulls,free throw,,,,,,,2,,2,Gibson,,,foul,missed,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=121
 ,,,,,,,,,,1,0.46,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=123
-,,,,,,,,,,1,0.39,Milwaukee Bucks,turnover,,,,,,,,,,Udrih,,,Lost Ball,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=124
+,,,,,,,,,,1,0.39,Milwaukee Bucks,turnover,,,,,,,,,,Udrih,,,Lost Ball,,Robinson,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=124
 ,,,,,,,,,,1,0.36,Chicago Bulls,shot,,,,,,,,,,Robinson,2,,,made,,Running Layup,,,21-31,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=125
 ,,,,,,,,,,1,0.31,Milwaukee Bucks,shot,,,,,,,,,,Udrih,2,,,made,,Jump Shot,,,23-31,19,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=126
 ,,,,,,,,,,1,0.12,Chicago Bulls,shot,Deng,,,,,,,,,Mohammed,2,,,made,,Reverse Layup,,,23-33,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=127
@@ -121,28 +121,28 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.29,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,24-33,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=139
 ,,,,,,,,,,2,11.18,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Layup,,,24-33,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=140
 ,,,,,,,,,,2,11.17,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,24-33,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=141
-,,,,,,,,,,2,11.05,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,24-33,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=142
+,,,,,,,,,,2,11.05,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,Jennings,,,,24-33,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=142
 ,,,,,,,,,,2,11.01,Milwaukee Bucks,shot,,,,,,,,,,Henson,2,,,made,,Running Dunk,,,26-33,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=143
 ,,,,,,,,,,2,10.43,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Layup,,,26-33,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=144
 ,,,,,,,,,,2,10.43,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=145
 ,,,,,,,,,,2,10.34,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Layup,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=146
 ,,,,,,,,,,2,10.32,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,26-33,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=147
 ,,,,,,,,,,2,10.23,Chicago Bulls,shot,Teague,,,,,,,,,Deng,2,,,made,,Floating Jump Shot,,,26-35,6,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=148
-,,,,,,,,,,2,10.09,Milwaukee Bucks,shot,,,,,,,,,,Henson,,,,missed,,Layup,,,26-35,3,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=149
+,,,,,,,,,,2,10.09,Milwaukee Bucks,shot,,,Gibson,,,,,,,Henson,,,,missed,,Layup,,,26-35,3,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=149
 ,,,,,,,,,,2,10.07,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,26-35,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=150
 ,,,,,,,,,,2,9.53,Chicago Bulls,shot,Deng,,,,,,,,,Gibson,2,,,made,,Dunk,,,26-37,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=151
 ,,,,,,,,,,2,9.33,Milwaukee Bucks,shot,,,,,,,,,,Udrih,,,,missed,,Jump Shot,,,26-37,16,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=152
 ,,,,,,,,,,2,9.31,Milwaukee Bucks,rebound,,,,,,,,,,Udrih,,,,,,,,,26-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=154
 ,,,,,,,,,,2,9.31,Milwaukee Bucks,shot,,,,,,,,,,Udrih,2,,,made,,Jump Shot,,,28-37,8,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=153
-,,,,,,,,,,2,9.11,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Driving Layup,,,28-37,3,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=155
+,,,,,,,,,,2,9.11,Chicago Bulls,shot,,,Dunleavy,,,,,,,Deng,,,,missed,,Driving Layup,,,28-37,3,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=155
 ,,,,,,,,,,2,9.09,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,28-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=156
 ,,,,,,,,,,2,9.06,Milwaukee Bucks,shot,Jennings,,,,,,,,,Udoh,2,,,made,,Layup,,,30-37,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=157
 ,,,,,,,,,,2,9.06,Chicago Bulls,foul,,,,,,,,,,Teague,,,,,,Shooting,,,30-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=158
 ,,,,,,,,,,2,9.06,Milwaukee Bucks,free throw,,,,,,,1,,1,Udoh,1,,foul,made,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=159
-,,,,,,,,,,2,8.44,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=162
+,,,,,,,,,,2,8.44,Chicago Bulls,turnover,,,,,,,,,,Teague,,,Bad Pass,,Dunleavy,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=162
 ,,,,,,,,,,2,8.37,Milwaukee Bucks,shot,,,,,,,,,,Udrih,,,,missed,,Jump Shot,,,31-37,22,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=163
 ,,,,,,,,,,2,8.36,Milwaukee Bucks,rebound,,,,,,,,,,Udoh,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=164
-,,,,,,,,,,2,8.34,Milwaukee Bucks,shot,,,,,,,,,,Udoh,,,,missed,,Layup,,,31-37,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=165
+,,,,,,,,,,2,8.34,Milwaukee Bucks,shot,,,Gibson,,,,,,,Udoh,,,,missed,,Layup,,,31-37,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=165
 ,,,,,,,,,,2,8.34,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=166
 ,,,,,,,,,,2,8.34,Chicago Bulls,substitute,,,,Boozer,,Mohammed,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=169
 ,,,,,,,,,,2,8.18,Chicago Bulls,shot,,,,,,,,,,Teague,,,,missed,,Driving Layup,,,31-37,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=171
@@ -158,7 +158,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.50,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=181
 ,,,,,,,,,,2,7.50,Milwaukee Bucks,foul,,,,,,,,,,Henson,,,,,,Loose ball,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=182
 ,,,,,,,,,,2,7.50,Milwaukee Bucks,substitute,,,,Ellis,,Udrih,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=183
-,,,,,,,,,,2,7.36,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Driving Layup,,,31-37,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=184
+,,,,,,,,,,2,7.36,Chicago Bulls,shot,,,Sanders,,,,,,,Noah,,,,missed,,Driving Layup,,,31-37,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=184
 ,,,,,,,,,,2,7.34,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=185
 ,,,,,,,,,,2,7.29,Milwaukee Bucks,shot,,,,,,,,,,Jennings,2,,,made,,Running Layup,,,33-37,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=186
 ,,,,,,,,,,2,7.03,Chicago Bulls,shot,Teague,,,,,,,,,Boozer,2,,,made,,Layup,,,33-39,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=187
@@ -204,7 +204,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.32,Chicago Bulls,shot,Boozer,,,,,,,,,Belinelli,2,,,made,,Running Layup,,,43-52,3,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=233
 ,,,,,,,,,,2,2.24,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,43-52,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=234
 ,,,,,,,,,,2,2.24,Milwaukee Bucks,substitute,,,,Dalembert,,Ilyasova,,,,,,,,,,,,,43-52,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=236
-,,,,,,,,,,2,2.05,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,,,,,43-52,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=238
+,,,,,,,,,,2,2.05,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,Belinelli,,,,43-52,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=238
 ,,,,,,,,,,2,2.03,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Bad Pass,,,,,,43-52,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=239
 ,,,,,,,,,,2,2.01,Chicago Bulls,foul,,,,,,,,,,Belinelli,,,,,,Personal,,,43-52,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=241
 ,,,,,,,,,,2,2.01,Milwaukee Bucks,free throw,,,,,,,1,,2,Ellis,1,,foul,made,,,,,44-52,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=242
@@ -217,7 +217,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.20,Chicago Bulls,shot,Belinelli,,,,,,,,,Butler,2,,,made,,Layup,,,45-55,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=252
 ,,,,,,,,,,2,1.05,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,45-55,20,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=253
 ,,,,,,,,,,2,1.04,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,45-55,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=254
-,,,,,,,,,,2,0.58,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,45-55,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=255
+,,,,,,,,,,2,0.58,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Ellis,,,,45-55,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=255
 ,,,,,,,,,,2,0.53,Milwaukee Bucks,shot,,,,,,,,,,Ellis,2,,,made,,Running Layup,,,47-55,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=256
 ,,,,,,,,,,2,0.31,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Running Layup,,,47-55,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=257
 ,,,,,,,,,,2,0.31,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,47-55,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=259
@@ -248,7 +248,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.36,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Jump Shot,,,54-57,12,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=286
 ,,,,,,,,,,3,9.35,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,54-57,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=288
 ,,,,,,,,,,3,9.35,Milwaukee Bucks,shot,,,,,,,,,,Sanders,2,,,made,,Putback Layup,,,56-57,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=287
-,,,,,,,,,,3,9.14,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Jump Shot,,,56-57,7,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=289
+,,,,,,,,,,3,9.14,Chicago Bulls,shot,,,Sanders,,,,,,,Noah,,,,missed,,Jump Shot,,,56-57,7,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=289
 ,,,,,,,,,,3,9.13,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=290
 ,,,,,,,,,,3,9.07,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,3PT Jump Shot,,,56-57,24,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=291
 ,,,,,,,,,,3,9.06,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,56-57,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=292
@@ -259,7 +259,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.40,Chicago Bulls,free throw,,,,,,,1,,1,Deng,1,,foul,made,,,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=297
 ,,,,,,,,,,3,8.26,Milwaukee Bucks,shot,,,,,,,,,,Mbah a Moute,,,,missed,,3PT Jump Shot,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=299
 ,,,,,,,,,,3,8.25,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=300
-,,,,,,,,,,3,8.14,Chicago Bulls,shot,,,,,,,,,,Hamilton,,,,missed,,Running Jump Shot,,,56-60,14,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=301
+,,,,,,,,,,3,8.14,Chicago Bulls,shot,,,Sanders,,,,,,,Hamilton,,,,missed,,Running Jump Shot,,,56-60,14,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=301
 ,,,,,,,,,,3,8.13,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=302
 ,,,,,,,,,,3,8.06,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Jump Shot,,,56-60,21,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=303
 ,,,,,,,,,,3,8.05,Milwaukee Bucks,rebound,,,,,,,,,,Mbah a Moute,,,,,,,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=304
@@ -292,7 +292,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.37,Chicago Bulls,shot,,,,,,,,,,Deng,2,,,made,,Driving Layup,,,72-66,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=334
 ,,,,,,,,,,3,4.15,Milwaukee Bucks,shot,,,,,,,,,,Henson,,,,missed,,Pullup Jump Shot,,,72-66,18,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=335
 ,,,,,,,,,,3,4.14,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=336
-,,,,,,,,,,3,4.08,Chicago Bulls,shot,,,,,,,,,,Robinson,,,,missed,,Running Layup,,,72-66,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=337
+,,,,,,,,,,3,4.08,Chicago Bulls,shot,,,Sanders,,,,,,,Robinson,,,,missed,,Running Layup,,,72-66,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=337
 ,,,,,,,,,,3,4.06,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=338
 ,,,,,,,,,,3,4.00,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,3PT Jump Shot,,,72-66,24,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=339
 ,,,,,,,,,,3,3.59,Chicago Bulls,rebound,,,,,,,,,,Noah,,,,,,,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=340
@@ -305,10 +305,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.20,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=348
 ,,,,,,,,,,3,3.18,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=349
 ,,,,,,,,,,3,3.18,Milwaukee Bucks,substitute,,,,Udoh,,Sanders,,,,,,,,,,,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=350
-,,,,,,,,,,3,3.12,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,,,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=351
+,,,,,,,,,,3,3.12,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,Robinson,,,,72-66,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=351
 ,,,,,,,,,,3,3.08,Chicago Bulls,shot,,,,,,,,,,Robinson,2,,,made,,Running Layup,,,72-68,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=352
 ,,,,,,,,,,3,2.54,Milwaukee Bucks,shot,Jennings,,,,,,,,,Dunleavy,3,,,made,,3PT Jump Shot,,,75-68,25,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=353
-,,,,,,,,,,3,2.43,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Lost Ball,,,,,,75-68,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=354
+,,,,,,,,,,3,2.43,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Lost Ball,,Ellis,,,,75-68,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=354
 ,,,,,,,,,,3,2.30,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,Shooting,,,75-68,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=355
 ,,,,,,,,,,3,2.30,Milwaukee Bucks,free throw,,,,,,,1,,2,Jennings,1,,foul,made,,,,,76-68,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=356
 ,,,,,,,,,,3,2.30,Chicago Bulls,substitute,,,,Gibson,,Noah,,,,,,,,,,,,,76-68,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=358
@@ -321,11 +321,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.48,Milwaukee Bucks,foul,,,,,,,,,,Udoh,,,,,,Personal,,,79-71,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=370
 ,,,,,,,,,,3,1.48,Chicago Bulls,free throw,,,,,,,1,,2,Boozer,1,,foul,made,,,,,79-72,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=371
 ,,,,,,,,,,3,1.48,Chicago Bulls,free throw,,,,,,,2,,2,Boozer,1,,foul,made,,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=373
-,,,,,,,,,,3,1.35,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=375
-,,,,,,,,,,3,1.19,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,79-73,4,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=376
+,,,,,,,,,,3,1.35,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,Belinelli,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=375
+,,,,,,,,,,3,1.19,Chicago Bulls,shot,,,Henson,,,,,,,Gibson,,,,missed,,Jump Shot,,,79-73,4,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=376
 ,,,,,,,,,,3,1.19,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,79-73,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=377
 ,,,,,,,,,,3,1.18,Chicago Bulls,shot,Robinson,,,,,,,,,Deng,2,,,made,,Running Reverse Layup,,,79-75,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=378
-,,,,,,,,,,3,1.02,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,,,,,79-75,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=380
+,,,,,,,,,,3,1.02,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Lost Ball,,Robinson,,,,79-75,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=380
 ,,,,,,,,,,3,0.59,Chicago Bulls,shot,Boozer,,,,,,,,,Robinson,2,,,made,,Running Layup,,,79-77,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=381
 ,,,,,,,,,,3,0.38,Milwaukee Bucks,shot,Dunleavy,,,,,,,,,Jennings,2,,,made,,Jump Shot,,,81-77,12,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=384
 ,,,,,,,,,,3,0.19,Milwaukee Bucks,foul,,,,,,,,,,Dunleavy,,,,,,Personal,,,81-77,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=385
@@ -339,12 +339,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.03,Chicago Bulls,foul,,,,,,,,,,Deng,,,,,,Personal Take,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=396
 ,,,,,,,,,,3,0.00,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,3PT Jump Shot,,,81-80,26,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=397
 ,,,,,,,,,,3,0.00,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=399
-,,,,,,,,,,4,11.48,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Lost Ball,,,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=402
-,,,,,,,,,,4,11.43,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=403
-,,,,,,,,,,4,11.36,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,81-80,4,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=404
+,,,,,,,,,,4,11.48,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Lost Ball,,Ellis,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=402
+,,,,,,,,,,4,11.43,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,Robinson,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=403
+,,,,,,,,,,4,11.36,Chicago Bulls,shot,,,Udoh,,,,,,,Boozer,,,,missed,,Jump Shot,,,81-80,4,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=404
 ,,,,,,,,,,4,11.36,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=406
 ,,,,,,,,,,4,11.36,Chicago Bulls,jumpball,,Udoh,,,Gibson,,,,,,,,,,,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=405
-,,,,,,,,,,4,11.13,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=407
+,,,,,,,,,,4,11.13,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Lost Ball,,Ellis,,,,81-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=407
 ,,,,,,,,,,4,11.03,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,2,,,made,,Jump Shot,,,83-80,13,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=408
 ,,,,,,,,,,4,10.42,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,83-80,15,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=409
 ,,,,,,,,,,4,10.41,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,83-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=411
@@ -353,7 +353,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.32,Milwaukee Bucks,shot,Dunleavy,,,,,,,,,Henson,2,,,made,,Layup,,,85-80,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=413
 ,,,,,,,,,,4,10.16,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,Jump Shot,,,85-80,17,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=414
 ,,,,,,,,,,4,10.15,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=415
-,,,,,,,,,,4,10.04,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,,,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=416
+,,,,,,,,,,4,10.04,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,Belinelli,,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=416
 ,,,,,,,,,,4,9.59,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,Running Layup,,,85-80,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=417
 ,,,,,,,,,,4,9.59,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=418
 ,,,,,,,,,,4,9.59,Chicago Bulls,foul,,,,,,,,,,Gibson,,,,,,Personal,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=419
@@ -361,7 +361,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.59,Chicago Bulls,substitute,,,,Butler,,Deng,,,,,,,,,,,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=421
 ,,,,,,,,,,4,9.37,Milwaukee Bucks,shot,,,,,,,,,,Udrih,,,,missed,,Jump Shot,,,85-80,20,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=423
 ,,,,,,,,,,4,9.36,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=424
-,,,,,,,,,,4,9.28,Chicago Bulls,shot,,,,,,,,,,Noah,,,,missed,,Layup,,,85-80,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=425
+,,,,,,,,,,4,9.28,Chicago Bulls,shot,,,Udoh,,,,,,,Noah,,,,missed,,Layup,,,85-80,1,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=425
 ,,,,,,,,,,4,9.26,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=426
 ,,,,,,,,,,4,9.17,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,3PT Jump Shot,,,85-80,25,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=428
 ,,,,,,,,,,4,9.16,Chicago Bulls,rebound,,,,,,,,,,Robinson,,,,,,,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=430
@@ -386,7 +386,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.48,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=455
 ,,,,,,,,,,4,6.48,Milwaukee Bucks,substitute,,,,Ilyasova,,Henson,,,,,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=456
 ,,,,,,,,,,4,6.31,Chicago Bulls,shot,Robinson,,,,,,,,,Butler,2,,,made,,Pullup Jump Shot,,,90-89,22,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=457
-,,,,,,,,,,4,6.10,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=458
+,,,,,,,,,,4,6.10,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,Robinson,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=458
 ,,,,,,,,,,4,5.56,Chicago Bulls,turnover,,,,,,,,,,Butler Out of Bounds,,,Lost Ball,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=459
 ,,,,,,,,,,4,5.43,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,90-89,17,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=460
 ,,,,,,,,,,4,5.42,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=461
@@ -423,20 +423,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.48,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=500
 ,,,,,,,,,,4,1.33,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,Jump Shot,,,100-96,20,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=501
 ,,,,,,,,,,4,1.32,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=502
-,,,,,,,,,,4,1.14,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Driving Layup,,,100-96,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=503
+,,,,,,,,,,4,1.14,Chicago Bulls,shot,,,Sanders,,,,,,,Boozer,,,,missed,,Driving Layup,,,100-96,2,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=503
 ,,,,,,,,,,4,1.12,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=504
 ,,,,,,,,,,4,1.09,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,3PT Jump Shot,,,100-96,24,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=505
 ,,,,,,,,,,4,1.08,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=506
 ,,,,,,,,,,4,0.57,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Traveling,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=507
 ,,,,,,,,,,4,0.57,Milwaukee Bucks,substitute,,,,Mbah a Moute,,Ellis,,,,,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=508
-,,,,,,,,,,4,0.47,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,Layup,,,100-96,3,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=509
+,,,,,,,,,,4,0.47,Chicago Bulls,shot,,,Moute,,,,,,,Belinelli,,,,missed,,Layup,,,100-96,3,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=509
 ,,,,,,,,,,4,0.47,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=510
-,,,,,,,,,,4,0.42,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,Jump Shot,,,100-96,7,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=511
+,,,,,,,,,,4,0.42,Chicago Bulls,shot,,,Sanders,,,,,,,Belinelli,,,,missed,,Jump Shot,,,100-96,7,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=511
 ,,,,,,,,,,4,0.42,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=512
 ,,,,,,,,,,4,0.42,Chicago Bulls,foul,,,,,,,,,,Belinelli,,,,,,Personal,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=513
 ,,,,,,,,,,4,0.24,Milwaukee Bucks,shot,,,,,,,,,,Jennings,2,,,made,,Jump Shot,,,102-96,14,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=514
 ,,,,,,,,,,4,0.24,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,102-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=515
-,,,,,,,,,,4,0.22,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,102-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=516
+,,,,,,,,,,4,0.22,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Sanders,,,,102-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=516
 ,,,,,,,,,,4,0.21,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,clear path,,,102-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=517
 ,,,,,,,,,,4,0.21,Milwaukee Bucks,free throw,,,,,,,,,,Jennings,,,foul,missed,,,,,102-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=519
 ,,,,,,,,,,4,0.21,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,102-96,,http://stats.nba.com/cvp.html?GameID=0021200520&GameEventID=520

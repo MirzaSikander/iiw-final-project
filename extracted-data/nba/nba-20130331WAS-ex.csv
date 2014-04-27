@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.25,Toronto Raptors,shot,Gay,,,,,,,,,Lowry,3,,,made,,3PT Jump Shot,,,5-0,26,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=14
 ,,,,,,,,,,1,10.02,Washington Wizards,shot,,,,,,,,,,Booker,,,,missed,,Jump Shot,,,5-0,10,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=15
 ,,,,,,,,,,1,10.00,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=16
-,,,,,,,,,,1,9.43,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=17
+,,,,,,,,,,1,9.43,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Okafor,,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=17
 ,,,,,,,,,,1,9.38,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Layup,,,5-0,1,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=18
 ,,,,,,,,,,1,9.35,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,5-0,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=19
 ,,,,,,,,,,1,9.25,Toronto Raptors,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,5-0,17,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=21
@@ -54,7 +54,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.35,Washington Wizards,shot,,,,,,,,,,Booker,2,,,made,,Hook Shot,,,10-10,6,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=65
 ,,,,,,,,,,1,5.22,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Jump Shot,,,10-10,22,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=66
 ,,,,,,,,,,1,5.21,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=67
-,,,,,,,,,,1,5.14,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,Layup,,,10-10,2,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=68
+,,,,,,,,,,1,5.14,Washington Wizards,shot,,,Lowry,,,,,,,Webster,,,,missed,,Layup,,,10-10,2,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=68
 ,,,,,,,,,,1,5.13,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,10-10,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=69
 ,,,,,,,,,,1,5.10,Washington Wizards,shot,,,,,,,,,,Seraphin,2,,,made,,Layup,,,10-12,2,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=70
 ,,,,,,,,,,1,4.55,Washington Wizards,violation,,,,,,,,,,Webster,,,Defensive Goaltending,,,,,,10-12,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=72
@@ -100,7 +100,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.45,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,20-22,13,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=129
 ,,,,,,,,,,1,1.42,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=130
 ,,,,,,,,,,1,1.37,Toronto Raptors,shot,,,,,,,,,,Fields,2,,,made,,Tip Shot,,,22-22,2,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=131
-,,,,,,,,,,1,1.30,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Jump Shot,,,22-22,5,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=132
+,,,,,,,,,,1,1.30,Washington Wizards,shot,,,Gray,,,,,,,Seraphin,,,,missed,,Jump Shot,,,22-22,5,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=132
 ,,,,,,,,,,1,1.29,Toronto Raptors,rebound,,,,,,,,,,Fields,,,,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=133
 ,,,,,,,,,,1,1.16,Toronto Raptors,shot,Fields,,,,,,,,,Lowry,3,,,made,,3PT Jump Shot,,,25-22,25,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=134
 ,,,,,,,,,,1,0.58,Washington Wizards,shot,Wall,,,,,,,,,Ariza,3,,,made,,3PT Jump Shot,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=135
@@ -116,7 +116,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.14,Washington Wizards,free throw,,,,,,,2,,2,Wall,1,,foul,made,,,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=147
 ,,,,,,,,,,1,0.03,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Personal Take,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=150
 ,,,,,,,,,,1,0.03,Washington Wizards,substitute,,,,Price,,Wall,,,,,,,,,,,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=151
-,,,,,,,,,,1,0.00,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,25-27,20,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=152
+,,,,,,,,,,1,0.00,Toronto Raptors,shot,,,Ariza,,,,,,,DeRozan,,,,missed,,Jump Shot,,,25-27,20,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=152
 ,,,,,,,,,,1,0.00,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=153
 ,,,,,,,,,,2,12.00,Washington Wizards,turnover,,,,,,,,,,Ariza,,,Offensive Goaltending,,,,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=158
 ,,,,,,,,,,2,11.28,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,25-27,13,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=160
@@ -127,7 +127,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.06,Washington Wizards,turnover,,,,,,,,,,Ariza,,,Bad Pass,,,,,,25-27,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=165
 ,,,,,,,,,,2,11.04,Toronto Raptors,shot,Telfair,,,,,,,,,Fields,2,,,made,,Driving Dunk,,,27-27,2,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=166
 ,,,,,,,,,,2,10.49,Washington Wizards,shot,Ariza,,,,,,,,,Price,2,,,made,,Jump Shot,,,27-29,18,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=167
-,,,,,,,,,,2,10.34,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,Jump Shot,,,27-29,4,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=168
+,,,,,,,,,,2,10.34,Toronto Raptors,shot,,,Singleton,,,,,,,Ross,,,,missed,,Jump Shot,,,27-29,4,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=168
 ,,,,,,,,,,2,10.32,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=169
 ,,,,,,,,,,2,10.15,Washington Wizards,shot,,,,,,,,,,Singleton,,,,missed,,Jump Shot,,,27-29,20,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=170
 ,,,,,,,,,,2,10.14,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=171
@@ -148,7 +148,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.17,Toronto Raptors,shot,Telfair,,,,,,,,,Valanciunas,2,,,made,,Jump Shot,,,29-33,16,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=188
 ,,,,,,,,,,2,8.58,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,Layup,,,29-33,1,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=189
 ,,,,,,,,,,2,8.57,Washington Wizards,rebound,,,,,,,,,,Vesely,,,,,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=190
-,,,,,,,,,,2,8.55,Washington Wizards,shot,,,,,,,,,,Vesely,,,,missed,,Layup,,,29-33,1,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=191
+,,,,,,,,,,2,8.55,Washington Wizards,shot,,,Gay,,,,,,,Vesely,,,,missed,,Layup,,,29-33,1,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=191
 ,,,,,,,,,,2,8.53,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=192
 ,,,,,,,,,,2,8.46,Toronto Raptors,shot,,,,,,,,,,Fields,2,,,made,,Driving Reverse Layup,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=193
 ,,,,,,,,,,2,8.46,Washington Wizards,foul,,,,,,,,,,Vesely,,,,,,Shooting,,,31-33,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=194
@@ -183,7 +183,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.55,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,37-40,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=231
 ,,,,,,,,,,2,5.55,Toronto Raptors,substitute,,,,Lowry,,Telfair,,,,,,,,,,,,,37-40,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=233
 ,,,,,,,,,,2,5.55,Toronto Raptors,substitute,,,,Johnson,,Fields,,,,,,,,,,,,,37-40,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=234
-,,,,,,,,,,2,5.42,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Lost Ball,,,,,,37-40,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=235
+,,,,,,,,,,2,5.42,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Lost Ball,,Vesely,,,,37-40,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=235
 ,,,,,,,,,,2,5.20,Washington Wizards,shot,Beal,,,,,,,,,Seraphin,2,,,made,,Turnaround Hook Shot,,,37-42,5,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=236
 ,,,,,,,,,,2,4.59,Washington Wizards,foul,,,,,,,,,,Vesely,,,,,,Shooting,,,37-42,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=237
 ,,,,,,,,,,2,4.59,Toronto Raptors,free throw,,,,,,,1,,2,Johnson,1,,foul,made,,,,,38-42,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=238
@@ -238,7 +238,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.47,Toronto Raptors,free throw,,,,,,,1,,2,Valanciunas,1,,foul,made,,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=303
 ,,,,,,,,,,2,0.47,Toronto Raptors,free throw,,,,,,,2,,2,Valanciunas,1,,foul,made,,,,,50-56,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=305
 ,,,,,,,,,,2,0.38,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Running Jump Shot,,,50-58,3,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=308
-,,,,,,,,,,2,0.29,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Jump Shot,,,50-58,3,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=309
+,,,,,,,,,,2,0.29,Toronto Raptors,shot,,,Collins,,,,,,,Lowry,,,,missed,,Jump Shot,,,50-58,3,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=309
 ,,,,,,,,,,2,0.28,Washington Wizards,rebound,,,,,,,,,,Wall,,,,,,,,,50-58,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=310
 ,,,,,,,,,,2,0.08,Washington Wizards,shot,Wall,,,,,,,,,Vesely,2,,,made,,Layup,,,50-60,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=311
 ,,,,,,,,,,2,0.00,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,3PT Jump Shot,,,50-60,30,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=312
@@ -272,7 +272,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.54,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,54-68,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=350
 ,,,,,,,,,,3,8.52,Washington Wizards,shot,,,,,,,,,,Okafor,2,,,made,,Fadeaway Jumper,,,54-70,5,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=351
 ,,,,,,,,,,3,8.42,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,54-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=353
-,,,,,,,,,,3,8.28,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,Jump Shot,,,54-70,9,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=354
+,,,,,,,,,,3,8.28,Washington Wizards,shot,,,Valanciunas,,,,,,,Webster,,,,missed,,Jump Shot,,,54-70,9,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=354
 ,,,,,,,,,,3,8.26,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,54-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=355
 ,,,,,,,,,,3,8.22,Toronto Raptors,turnover,,,,,,,,,,Lowry Out of Bounds,,,Lost Ball,,,,,,54-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=356
 ,,,,,,,,,,3,8.22,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,54-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=357
@@ -290,11 +290,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.27,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,Layup,,,55-70,2,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=373
 ,,,,,,,,,,3,7.26,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,55-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=374
 ,,,,,,,,,,3,7.24,Toronto Raptors,shot,,,,,,,,,,Johnson,2,,,made,,Layup,,,57-70,2,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=375
-,,,,,,,,,,3,7.06,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,Jump Shot,,,57-70,5,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=376
+,,,,,,,,,,3,7.06,Washington Wizards,shot,,,Valanciunas,,,,,,,Webster,,,,missed,,Jump Shot,,,57-70,5,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=376
 ,,,,,,,,,,3,7.05,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,57-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=377
 ,,,,,,,,,,3,7.03,Washington Wizards,foul,,,,,,,,,,Booker,,,,,,Personal,,,57-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=378
 ,,,,,,,,,,3,6.50,Toronto Raptors,shot,DeRozan,,,,,,,,,Lowry,3,,,made,,3PT Step Back Jump Shot,,,60-70,26,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=379
-,,,,,,,,,,3,6.38,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Lost Ball,,,,,,60-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=380
+,,,,,,,,,,3,6.38,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Lost Ball,,DeRozan,,,,60-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=380
 ,,,,,,,,,,3,6.32,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Driving Slam Dunk,,,62-70,1,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=381
 ,,,,,,,,,,3,6.32,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,62-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=383
 ,,,,,,,,,,3,6.32,Washington Wizards,substitute,,,,Beal,,Temple,,,,,,,,,,,,,62-70,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=385
@@ -308,7 +308,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.33,Washington Wizards,shot,Webster,,,,,,,,,Beal,3,,,made,,3PT Jump Shot,,,62-76,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=393
 ,,,,,,,,,,3,5.17,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,62-76,7,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=394
 ,,,,,,,,,,3,5.16,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,62-76,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=395
-,,,,,,,,,,3,5.05,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,,,,,62-76,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=396
+,,,,,,,,,,3,5.05,Washington Wizards,turnover,,,,,,,,,,Wall,,,Bad Pass,,Fields,,,,62-76,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=396
 ,,,,,,,,,,3,5.00,Toronto Raptors,shot,Fields,,,,,,,,,Lowry,2,,,made,,Layup,,,64-76,1,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=397
 ,,,,,,,,,,3,4.39,Washington Wizards,shot,Wall,,,,,,,,,Beal,3,,,made,,3PT Jump Shot,,,64-79,26,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=399
 ,,,,,,,,,,3,4.16,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,64-79,21,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=401
@@ -317,11 +317,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.59,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,64-79,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=404
 ,,,,,,,,,,3,3.58,Washington Wizards,foul,,,,,,,,,,Booker,,,,,,Personal,,,64-79,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=405
 ,,,,,,,,,,3,3.58,Washington Wizards,substitute,,,,Vesely,,Booker,,,,,,,,,,,,,64-79,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=406
-,,,,,,,,,,3,3.41,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,64-79,5,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=408
+,,,,,,,,,,3,3.41,Toronto Raptors,shot,,,Vesely,,,,,,,DeRozan,,,,missed,,Jump Shot,,,64-79,5,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=408
 ,,,,,,,,,,3,3.41,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,64-79,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=409
 ,,,,,,,,,,3,3.30,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Jump Shot,,,64-79,14,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=410
 ,,,,,,,,,,3,3.29,Washington Wizards,rebound,,,,,,,,,,Vesely,,,,,,,,,64-79,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=411
-,,,,,,,,,,3,3.24,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Jump Shot,,,64-79,13,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=412
+,,,,,,,,,,3,3.24,Washington Wizards,shot,,,Fields,,,,,,,Wall,,,,missed,,Jump Shot,,,64-79,13,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=412
 ,,,,,,,,,,3,3.22,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,64-79,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=413
 ,,,,,,,,,,3,3.21,Washington Wizards,shot,,,,,,,,,,Webster,2,,,made,,Dunk,,,64-81,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=414
 ,,,,,,,,,,3,3.21,Toronto Raptors,foul,,,,,,,,,,Valanciunas,,,,,,Shooting,,,64-81,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=415
@@ -433,9 +433,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.57,Washington Wizards,rebound,,,,,,,,,,Wall,,,,,,,,,90-102,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=552
 ,,,,,,,,,,4,2.43,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Pullup Jump Shot,,,90-104,21,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=553
 ,,,,,,,,,,4,2.42,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=554
-,,,,,,,,,,4,2.32,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=556
+,,,,,,,,,,4,2.32,Toronto Raptors,turnover,,,,,,,,,,Gay,,,Lost Ball,,Ariza,,,,90-104,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=556
 ,,,,,,,,,,4,2.12,Washington Wizards,shot,,,,,,,,,,Beal,2,,,made,,Layup,,,90-106,2,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=557
-,,,,,,,,,,4,1.55,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Jump Shot,,,90-106,22,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=558
+,,,,,,,,,,4,1.55,Toronto Raptors,shot,,,Wall,,,,,,,Lowry,,,,missed,,Jump Shot,,,90-106,22,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=558
 ,,,,,,,,,,4,1.54,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,90-106,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=559
 ,,,,,,,,,,4,1.34,Washington Wizards,shot,,,,,,,,,,Okafor,,,,missed,,Jump Shot,,,90-106,8,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=560
 ,,,,,,,,,,4,1.33,Toronto Raptors,rebound,,,,,,,,,,Gay,,,,,,,,,90-106,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=561
@@ -445,6 +445,6 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.58,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Layup,,,92-106,2,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=565
 ,,,,,,,,,,4,0.57,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,92-106,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=566
 ,,,,,,,,,,4,0.36,Washington Wizards,shot,,,,,,,,,,Wall,3,,,made,,3PT Pullup Jump Shot,,,92-109,26,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=567
-,,,,,,,,,,4,0.30,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,92-109,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=568
+,,,,,,,,,,4,0.30,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Ariza,,,,92-109,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=568
 ,,,,,,,,,,4,0.10,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,3PT Jump Shot,,,92-109,32,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=569
 ,,,,,,,,,,4,0.09,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,92-109,,http://stats.nba.com/cvp.html?GameID=0021201095&GameEventID=570

@@ -8,7 +8,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.53,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=9
 ,,,,,,,,,,1,10.51,Phoenix Suns,shot,,,,,,,,,,Scola,2,,,made,,Putback Layup,,,2-0,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=10
 ,,,,,,,,,,1,10.31,New Orleans Hornets,shot,,,,,,,,,,Vasquez,2,,,made,,Turnaround Jump Shot,,,2-2,6,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=11
-,,,,,,,,,,1,10.21,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=12
+,,,,,,,,,,1,10.21,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Vasquez,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=12
 ,,,,,,,,,,1,10.16,New Orleans Hornets,shot,Vasquez,,,,,,,,,Gordon,2,,,made,,Layup,,,2-4,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=13
 ,,,,,,,,,,1,9.57,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=14
 ,,,,,,,,,,1,9.56,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,2-4,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=15
@@ -27,9 +27,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.18,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Reverse Layup,,,7-4,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=30
 ,,,,,,,,,,1,8.17,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,7-4,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=31
 ,,,,,,,,,,1,8.07,New Orleans Hornets,shot,Vasquez,,,,,,,,,Davis,2,,,made,,Jump Shot,,,7-6,4,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=32
-,,,,,,,,,,1,7.50,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,7-6,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=33
+,,,,,,,,,,1,7.50,Phoenix Suns,shot,,,Davis,,,,,,,Scola,,,,missed,,Layup,,,7-6,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=33
 ,,,,,,,,,,1,7.49,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=34
-,,,,,,,,,,1,7.43,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,Layup,,,7-6,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=35
+,,,,,,,,,,1,7.43,New Orleans Hornets,shot,,,Gortat,,,,,,,Gordon,,,,missed,,Layup,,,7-6,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=35
 ,,,,,,,,,,1,7.42,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=37
 ,,,,,,,,,,1,7.42,New Orleans Hornets,shot,,,,,,,,,,Lopez,,,,missed,,Tip Shot,,,7-6,1,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=36
 ,,,,,,,,,,1,7.41,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=38
@@ -45,7 +45,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.47,New Orleans Hornets,foul,,,,,,,,,,Vasquez,,,,,,Personal,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=52
 ,,,,,,,,,,1,6.42,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,9-10,25,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=53
 ,,,,,,,,,,1,6.41,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=54
-,,,,,,,,,,1,6.35,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Bad Pass,,,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=55
+,,,,,,,,,,1,6.35,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Bad Pass,,Scola,,,,9-10,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=55
 ,,,,,,,,,,1,6.30,Phoenix Suns,shot,,,,,,,,,,Tucker,2,,,made,,Layup,,,11-10,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=56
 ,,,,,,,,,,1,6.15,New Orleans Hornets,shot,Lopez,,,,,,,,,Vasquez,3,,,made,,3PT Jump Shot,,,11-13,26,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=57
 ,,,,,,,,,,1,6.07,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Reverse Layup,,,13-13,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=58
@@ -80,7 +80,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.31,Phoenix Suns,free throw,,,,,,,2,,2,Dragic,1,,foul,made,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=93
 ,,,,,,,,,,1,3.17,New Orleans Hornets,shot,,,,,,,,,,Henry,,,,missed,,Jump Shot,,,25-20,16,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=96
 ,,,,,,,,,,1,3.15,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=97
-,,,,,,,,,,1,2.56,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,25-20,7,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=98
+,,,,,,,,,,1,2.56,Phoenix Suns,shot,,,Smith,,,,,,,Beasley,,,,missed,,Jump Shot,,,25-20,7,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=98
 ,,,,,,,,,,1,2.53,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=99
 ,,,,,,,,,,1,2.52,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Jump Shot,,,25-20,9,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=100
 ,,,,,,,,,,1,2.52,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=101
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.04,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,27-24,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=118
 ,,,,,,,,,,1,1.44,Phoenix Suns,turnover,,,,,,,,,,Morris Out of Bounds,,,Lost Ball,,,,,,27-24,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=119
 ,,,,,,,,,,1,1.33,New Orleans Hornets,shot,Rivers,,,,,,,,,Anderson,2,,,made,,Finger Roll Layup,,,27-26,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=121
-,,,,,,,,,,1,1.09,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,Layup,,,27-26,1,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=122
+,,,,,,,,,,1,1.09,Phoenix Suns,shot,,,Smith,,,,,,,Brown,,,,missed,,Layup,,,27-26,1,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=122
 ,,,,,,,,,,1,1.08,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=123
 ,,,,,,,,,,1,1.04,Phoenix Suns,shot,,,,,,,,,,Brown,,,,missed,,3PT Jump Shot,,,27-26,25,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=124
 ,,,,,,,,,,1,1.03,New Orleans Hornets,rebound,,,,,,,,,,Smith,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=125
@@ -126,7 +126,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.21,Phoenix Suns,shot,,,,,,,,,,Brown,2,,,made,,Driving Layup,,,33-33,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=154
 ,,,,,,,,,,2,8.58,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,33-33,21,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=155
 ,,,,,,,,,,2,8.57,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=156
-,,,,,,,,,,2,8.43,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Bad Pass,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=157
+,,,,,,,,,,2,8.43,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Bad Pass,,Henry,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=157
 ,,,,,,,,,,2,8.40,New Orleans Hornets,shot,Anderson,,,,,,,,,Henry,2,,,made,,Slam Dunk,,,33-35,1,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=158
 ,,,,,,,,,,2,8.31,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,33-35,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=159
 ,,,,,,,,,,2,8.18,Phoenix Suns,shot,Marshall,,,,,,,,,Morris,2,,,made,,Dunk,,,35-35,1,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=161
@@ -157,9 +157,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.53,Phoenix Suns,rebound,,,,,,,,,,Beasley,,,,,,,,,40-39,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=190
 ,,,,,,,,,,2,5.46,Phoenix Suns,shot,Beasley,,,,,,,,,Gortat,2,,,made,,Slam Dunk,,,42-39,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=191
 ,,,,,,,,,,2,5.25,New Orleans Hornets,shot,Anderson,,,,,,,,,Vasquez,2,,,made,,Layup,,,42-41,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=192
-,,,,,,,,,,2,5.09,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=193
+,,,,,,,,,,2,5.09,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Vasquez,,,,42-41,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=193
 ,,,,,,,,,,2,5.04,New Orleans Hornets,shot,,,,,,,,,,Vasquez,2,,,made,,Finger Roll Layup,,,42-43,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=194
-,,,,,,,,,,2,4.45,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Running Hook Shot,,,42-43,7,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=195
+,,,,,,,,,,2,4.45,Phoenix Suns,shot,,,Davis,,,,,,,Scola,,,,missed,,Running Hook Shot,,,42-43,7,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=195
 ,,,,,,,,,,2,4.44,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=196
 ,,,,,,,,,,2,4.44,New Orleans Hornets,substitute,,,,Aminu,,Henry,,,,,,,,,,,,,42-43,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=199
 ,,,,,,,,,,2,4.41,Phoenix Suns,shot,Dudley,,,,,,,,,Dragic,2,,,made,,Jump Shot,,,44-43,18,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=200
@@ -170,7 +170,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.10,Phoenix Suns,shot,,,,,,,,,,Gortat,2,,,made,,Tip Shot,,,46-43,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=204
 ,,,,,,,,,,2,3.51,New Orleans Hornets,turnover,,,,,,,,,,Anderson,,,Traveling,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=207
 ,,,,,,,,,,2,3.51,New Orleans Hornets,substitute,,,,Lopez,,Anderson,,,,,,,,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=208
-,,,,,,,,,,2,3.37,Phoenix Suns,shot,,,,,,,,,,Beasley,,,,missed,,Jump Shot,,,46-43,4,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=210
+,,,,,,,,,,2,3.37,Phoenix Suns,shot,,,Lopez,,,,,,,Beasley,,,,missed,,Jump Shot,,,46-43,4,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=210
 ,,,,,,,,,,2,3.36,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=211
 ,,,,,,,,,,2,3.32,New Orleans Hornets,shot,Vasquez,,,,,,,,,Davis,2,,,made,,Alley Oop Dunk,,,46-45,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=212
 ,,,,,,,,,,2,3.12,Phoenix Suns,shot,Dragic,,,,,,,,,Dudley,2,,,made,,Jump Shot,,,48-45,17,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=213
@@ -180,7 +180,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.40,New Orleans Hornets,timeout,,,,,,,,,,,,,,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=218
 ,,,,,,,,,,2,2.40,Phoenix Suns,substitute,,,,Tucker,,Beasley,,,,,,,,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=220
 ,,,,,,,,,,2,2.24,New Orleans Hornets,shot,Gordon,,,,,,,,,Aminu,2,,,made,,Driving Layup,,,48-49,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=221
-,,,,,,,,,,2,2.00,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=222
+,,,,,,,,,,2,2.00,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Lost Ball,,Vasquez,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=222
 ,,,,,,,,,,2,1.55,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,48-49,25,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=223
 ,,,,,,,,,,2,1.53,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=224
 ,,,,,,,,,,2,1.42,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Jump Shot,,,50-49,16,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=225
@@ -213,15 +213,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=264
 ,,,,,,,,,,3,11.43,New Orleans Hornets,shot,,,,,,,,,,Aminu,,,,missed,,Jump Shot,,,53-54,19,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=267
 ,,,,,,,,,,3,11.42,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=268
-,,,,,,,,,,3,11.29,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=269
+,,,,,,,,,,3,11.29,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Davis,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=269
 ,,,,,,,,,,3,11.18,New Orleans Hornets,shot,Vasquez,,,,,,,,,Aminu,2,,,made,,Jump Shot,,,53-56,11,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=270
-,,,,,,,,,,3,10.52,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Layup,,,53-56,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=271
+,,,,,,,,,,3,10.52,Phoenix Suns,shot,,,Lopez,,,,,,,Gortat,,,,missed,,Layup,,,53-56,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=271
 ,,,,,,,,,,3,10.50,New Orleans Hornets,rebound,,,,,,,,,,Davis,,,,,,,,,53-56,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=272
 ,,,,,,,,,,3,10.34,New Orleans Hornets,shot,Vasquez,,,,,,,,,Davis,2,,,made,,Alley Oop Dunk,,,53-58,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=273
 ,,,,,,,,,,3,10.15,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Step Back Jump Shot,,,55-58,18,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=274
 ,,,,,,,,,,3,9.51,New Orleans Hornets,foul,,,,,,,,,,Aminu,,,,,,Offensive Charge,,,55-58,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=276
 ,,,,,,,,,,3,9.51,New Orleans Hornets,turnover,,,,,,,,,,Aminu,,,Foul,,,,,,55-58,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=277
-,,,,,,,,,,3,9.40,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Layup,,,55-58,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=282
+,,,,,,,,,,3,9.40,Phoenix Suns,shot,,,Davis,,,,,,,Scola,,,,missed,,Layup,,,55-58,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=282
 ,,,,,,,,,,3,9.39,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,55-58,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=283
 ,,,,,,,,,,3,9.30,Phoenix Suns,shot,,,,,,,,,,Gortat,,,,missed,,Jump Shot,,,55-58,18,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=278
 ,,,,,,,,,,3,9.30,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,55-58,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=279
@@ -239,7 +239,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.23,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,55-60,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=295
 ,,,,,,,,,,3,8.14,New Orleans Hornets,turnover,,,,,,,,,,Davis,,,Step Out of Bounds,,,,,,55-60,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=296
 ,,,,,,,,,,3,8.04,Phoenix Suns,shot,Gortat,,,,,,,,,Dudley,2,,,made,,Jump Shot,,,57-60,18,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=297
-,,,,,,,,,,3,7.50,New Orleans Hornets,turnover,,,,,,,,,,Davis,,,Bad Pass,,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=298
+,,,,,,,,,,3,7.50,New Orleans Hornets,turnover,,,,,,,,,,Davis,,,Bad Pass,,Tucker,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=298
 ,,,,,,,,,,3,7.45,Phoenix Suns,shot,,,,,,,,,,Tucker,2,,,made,,Dunk,,,59-60,1,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=299
 ,,,,,,,,,,3,7.29,New Orleans Hornets,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,59-60,17,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=300
 ,,,,,,,,,,3,7.28,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=301
@@ -264,11 +264,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.10,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,Layup,,,61-66,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=322
 ,,,,,,,,,,3,5.08,New Orleans Hornets,rebound,,,,,,,,,,Lopez,,,,,,,,,61-66,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=324
 ,,,,,,,,,,3,5.08,New Orleans Hornets,shot,,,,,,,,,,Lopez,2,,,made,,Tip Shot,,,61-68,1,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=323
-,,,,,,,,,,3,4.49,Phoenix Suns,turnover,,,,,,,,,,Gortat,,,Bad Pass,,,,,,61-68,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=325
-,,,,,,,,,,3,4.44,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Bad Pass,,,,,,61-68,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=326
+,,,,,,,,,,3,4.49,Phoenix Suns,turnover,,,,,,,,,,Gortat,,,Bad Pass,,Gordon,,,,61-68,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=325
+,,,,,,,,,,3,4.44,New Orleans Hornets,turnover,,,,,,,,,,Gordon,,,Bad Pass,,Morris,,,,61-68,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=326
 ,,,,,,,,,,3,4.29,Phoenix Suns,shot,Dragic,,,,,,,,,Gortat,2,,,made,,Driving Layup,,,63-68,3,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=327
 ,,,,,,,,,,3,4.14,New Orleans Hornets,shot,Vasquez,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,63-71,25,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=328
-,,,,,,,,,,3,3.51,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,63-71,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=329
+,,,,,,,,,,3,3.51,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Lopez,,,,63-71,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=329
 ,,,,,,,,,,3,3.45,New Orleans Hornets,shot,,,,,,,,,,Aminu,2,,,made,,Alley Oop Dunk,,,63-73,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=330
 ,,,,,,,,,,3,3.44,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,63-73,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=332
 ,,,,,,,,,,3,3.44,Phoenix Suns,substitute,,,,Beasley,,Gortat,,,,,,,,,,,,,63-73,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=334
@@ -279,7 +279,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.22,Phoenix Suns,shot,,,,,,,,,,Tucker,2,,,made,,Putback Layup,,,65-73,2,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=339
 ,,,,,,,,,,3,3.05,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,65-73,25,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=340
 ,,,,,,,,,,3,3.03,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=341
-,,,,,,,,,,3,2.48,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=342
+,,,,,,,,,,3,2.48,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Vasquez,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=342
 ,,,,,,,,,,3,2.42,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,65-73,24,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=343
 ,,,,,,,,,,3,2.40,New Orleans Hornets,rebound,,,,,,,,,,Anderson,,,,,,,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=344
 ,,,,,,,,,,3,2.23,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,65-73,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=345
@@ -308,7 +308,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.22,New Orleans Hornets,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,71-78,16,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=376
 ,,,,,,,,,,4,11.21,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=377
 ,,,,,,,,,,4,11.00,Phoenix Suns,turnover,,,,,,,,,,O'Neal,,,Illegal Screen,,,,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=378
-,,,,,,,,,,4,10.49,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,Jump Shot,,,71-78,4,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=379
+,,,,,,,,,,4,10.49,New Orleans Hornets,shot,,,Morris,,,,,,,Roberts,,,,missed,,Jump Shot,,,71-78,4,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=379
 ,,,,,,,,,,4,10.48,New Orleans Hornets,rebound,,,,,,,,,,Smith,,,,,,,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=380
 ,,,,,,,,,,4,10.45,Phoenix Suns,foul,,,,,,,,,,Marshall,,,,,,Personal,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=381
 ,,,,,,,,,,4,10.40,New Orleans Hornets,foul,,,,,,,,,,Rivers,,,,,,Offensive Charge,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=382
@@ -329,17 +329,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.54,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=398
 ,,,,,,,,,,4,8.45,Phoenix Suns,turnover,,,,,,,,,,Morris,,,Traveling,,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=399
 ,,,,,,,,,,4,8.45,Phoenix Suns,substitute,,,,Dragic,,Beasley,,,,,,,,,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=402
-,,,,,,,,,,4,8.34,New Orleans Hornets,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=403
+,,,,,,,,,,4,8.34,New Orleans Hornets,turnover,,,,,,,,,,Smith,,,Lost Ball,,O'Neal,,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=403
 ,,,,,,,,,,4,8.21,New Orleans Hornets,foul,,,,,,,,,,Smith,,,,,,Shooting,,,73-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=404
 ,,,,,,,,,,4,8.21,Phoenix Suns,free throw,,,,,,,1,,2,O'Neal,1,,foul,made,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=405
 ,,,,,,,,,,4,8.21,Phoenix Suns,free throw,,,,,,,2,,2,O'Neal,,,foul,missed,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=407
 ,,,,,,,,,,4,8.20,New Orleans Hornets,rebound,,,,,,,,,,Smith,,,,,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=409
 ,,,,,,,,,,4,7.58,New Orleans Hornets,shot,,,,,,,,,,Smith,2,,,made,,Jump Shot,,,74-80,5,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=411
-,,,,,,,,,,4,7.39,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Bad Pass,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=412
+,,,,,,,,,,4,7.39,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Bad Pass,,Smith,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=412
 ,,,,,,,,,,4,7.32,New Orleans Hornets,shot,,,,,,,,,,Roberts,,,,missed,,3PT Jump Shot,,,74-80,25,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=413
 ,,,,,,,,,,4,7.30,Phoenix Suns,rebound,,,,,,,,,,Brown,,,,,,,,,74-80,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=414
 ,,,,,,,,,,4,7.14,Phoenix Suns,shot,Marshall,,,,,,,,,Brown,2,,,made,,Jump Shot,,,76-80,8,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=415
-,,,,,,,,,,4,6.51,New Orleans Hornets,shot,,,,,,,,,,Rivers,,,,missed,,Jump Shot,,,76-80,4,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=416
+,,,,,,,,,,4,6.51,New Orleans Hornets,shot,,,Dragic,,,,,,,Rivers,,,,missed,,Jump Shot,,,76-80,4,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=416
 ,,,,,,,,,,4,6.49,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=417
 ,,,,,,,,,,4,6.37,New Orleans Hornets,foul,,,,,,,,,,Rivers,,,,,,Personal,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=418
 ,,,,,,,,,,4,6.37,Phoenix Suns,substitute,,,,Gortat,,O'Neal,,,,,,,,,,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=419
@@ -373,7 +373,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.24,New Orleans Hornets,rebound,,,,,,,,,,Aminu,,,,,,,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=451
 ,,,,,,,,,,4,2.18,New Orleans Hornets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,80-89,27,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=452
 ,,,,,,,,,,4,2.17,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=453
-,,,,,,,,,,4,2.04,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,,,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=454
+,,,,,,,,,,4,2.04,Phoenix Suns,turnover,,,,,,,,,,Dragic,,,Bad Pass,,Aminu,,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=454
 ,,,,,,,,,,4,2.01,Phoenix Suns,foul,,,,,,,,,,Dragic,,,,,,Shooting,,,80-89,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=455
 ,,,,,,,,,,4,2.01,New Orleans Hornets,free throw,,,,,,,1,,2,Aminu,1,,foul,made,,,,,80-90,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=456
 ,,,,,,,,,,4,2.01,Phoenix Suns,substitute,,,,Scola,,Morris,,,,,,,,,,,,,80-90,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=458
@@ -388,7 +388,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.53,New Orleans Hornets,free throw,,,,,,,1,,1,Vasquez,,,foul,missed,,,,,82-93,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=472
 ,,,,,,,,,,4,0.53,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,82-93,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=473
 ,,,,,,,,,,4,0.53,Phoenix Suns,substitute,,,,Marshall,,Dragic,,,,,,,,,,,,,82-93,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=474
-,,,,,,,,,,4,0.34,New Orleans Hornets,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,82-93,24,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=476
+,,,,,,,,,,4,0.34,New Orleans Hornets,shot,,,Tucker,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,82-93,24,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=476
 ,,,,,,,,,,4,0.34,New Orleans Hornets,rebound,,,,,,,,,,,,,,,,,,,82-93,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=477
 ,,,,,,,,,,4,0.34,New Orleans Hornets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,82-93,,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=478
 ,,,,,,,,,,4,0.21,Phoenix Suns,shot,,,,,,,,,,Scola,,,,missed,,Jump Shot,,,82-93,15,http://stats.nba.com/cvp.html?GameID=0021200728&GameEventID=482

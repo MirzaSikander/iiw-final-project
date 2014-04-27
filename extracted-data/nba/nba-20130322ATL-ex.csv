@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.11,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=13
 ,,,,,,,,,,1,10.02,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,2-2,18,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=14
 ,,,,,,,,,,1,10.01,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=15
-,,,,,,,,,,1,9.58,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=16
+,,,,,,,,,,1,9.58,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,Matthews,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=16
 ,,,,,,,,,,1,9.53,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,2-2,21,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=17
 ,,,,,,,,,,1,9.51,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=18
 ,,,,,,,,,,1,9.48,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Personal,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=19
@@ -21,10 +21,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.40,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=21
 ,,,,,,,,,,1,9.22,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Hook Shot,,,2-2,5,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=22
 ,,,,,,,,,,1,9.21,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=23
-,,,,,,,,,,1,9.16,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=24
+,,,,,,,,,,1,9.16,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Hickson,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=24
 ,,,,,,,,,,1,8.56,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Turnaround Jump Shot,,,2-2,6,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=25
 ,,,,,,,,,,1,8.55,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=26
-,,,,,,,,,,1,8.49,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=27
+,,,,,,,,,,1,8.49,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Batum,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=27
 ,,,,,,,,,,1,8.43,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,2-2,24,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=28
 ,,,,,,,,,,1,8.42,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=29
 ,,,,,,,,,,1,8.41,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Layup,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=30
@@ -72,7 +72,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.13,Atlanta Hawks,substitute,,,,Harris,,Teague,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=79
 ,,,,,,,,,,1,3.13,Atlanta Hawks,substitute,,,,Johnson,,Horford,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=80
 ,,,,,,,,,,1,3.13,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=81
-,,,,,,,,,,1,3.01,Portland Trail Blazers,shot,,,,,,,,,,Leonard,,,,missed,,Running Layup,,,17-14,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=85
+,,,,,,,,,,1,3.01,Portland Trail Blazers,shot,,,Smith,,,,,,,Leonard,,,,missed,,Running Layup,,,17-14,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=85
 ,,,,,,,,,,1,2.58,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=86
 ,,,,,,,,,,1,2.53,Atlanta Hawks,shot,Harris,,,,,,,,,Johnson,2,,,made,,Running Dunk,,,17-16,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=87
 ,,,,,,,,,,1,2.33,Atlanta Hawks,foul,,,,,,,,,,Smith,,,,,,Shooting,,,17-16,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=88
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.33,Portland Trail Blazers,free throw,,,,,,,2,,2,Aldridge,1,,foul,made,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=92
 ,,,,,,,,,,1,2.18,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Traveling,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=95
 ,,,,,,,,,,1,2.18,Portland Trail Blazers,substitute,,,,Hickson,,Aldridge,,,,,,,,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=97
-,,,,,,,,,,1,2.06,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=98
+,,,,,,,,,,1,2.06,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Harris,,,,19-16,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=98
 ,,,,,,,,,,1,2.00,Atlanta Hawks,shot,Harris,,,,,,,,,Jenkins,3,,,made,,3PT Jump Shot,,,19-19,24,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=99
 ,,,,,,,,,,1,1.44,Portland Trail Blazers,shot,,,,,,,,,,Maynor,,,,missed,,Running Jump Shot,,,19-19,5,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=100
 ,,,,,,,,,,1,1.44,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=101
@@ -103,7 +103,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.11,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=120
 ,,,,,,,,,,1,0.02,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Driving Layup,,,21-24,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=121
 ,,,,,,,,,,1,0.00,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=122
-,,,,,,,,,,2,11.36,Portland Trail Blazers,shot,,,,,,,,,,Leonard,,,,missed,,Driving Layup,,,21-24,4,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=126
+,,,,,,,,,,2,11.36,Portland Trail Blazers,shot,,,Horford,,,,,,,Leonard,,,,missed,,Driving Layup,,,21-24,4,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=126
 ,,,,,,,,,,2,11.36,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,21-24,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=139
 ,,,,,,,,,,2,11.30,Atlanta Hawks,shot,Jones,,,,,,,,,Jenkins,2,,,made,,Running Layup,,,21-26,2,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=127
 ,,,,,,,,,,2,11.06,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,21-26,24,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=128
@@ -120,30 +120,30 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.04,Portland Trail Blazers,foul,,,,,,,,,,Hickson,,,,,,Shooting,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=141
 ,,,,,,,,,,2,10.04,Portland Trail Blazers,substitute,,,,Aldridge,,Hickson,,,,,,,,,,,,,25-28,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=143
 ,,,,,,,,,,2,10.04,Atlanta Hawks,free throw,,,,,,,1,,1,Horford,1,,foul,made,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=145
-,,,,,,,,,,2,9.42,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Turnaround Jump Shot,,,25-29,7,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=149
+,,,,,,,,,,2,9.42,Portland Trail Blazers,shot,,,Horford,,,,,,,Lillard,,,,missed,,Turnaround Jump Shot,,,25-29,7,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=149
 ,,,,,,,,,,2,9.40,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=150
 ,,,,,,,,,,2,9.35,Portland Trail Blazers,substitute,,,,Barton,,Lillard,,,,,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=152
-,,,,,,,,,,2,9.25,Atlanta Hawks,shot,,,,,,,,,,Johnson,,,,missed,,Driving Reverse Layup,,,25-29,2,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=153
+,,,,,,,,,,2,9.25,Atlanta Hawks,shot,,,Aldridge,,,,,,,Johnson,,,,missed,,Driving Reverse Layup,,,25-29,2,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=153
 ,,,,,,,,,,2,9.23,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=154
 ,,,,,,,,,,2,9.02,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,25-29,18,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=155
 ,,,,,,,,,,2,9.00,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=156
 ,,,,,,,,,,2,8.59,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,Putback Layup,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=157
 ,,,,,,,,,,2,8.58,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=158
-,,,,,,,,,,2,8.58,Portland Trail Blazers,shot,,,,,,,,,,Leonard,,,,missed,,Putback Layup,,,25-29,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=159
+,,,,,,,,,,2,8.58,Portland Trail Blazers,shot,,,Johnson,,,,,,,Leonard,,,,missed,,Putback Layup,,,25-29,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=159
 ,,,,,,,,,,2,8.56,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=160
 ,,,,,,,,,,2,8.51,Atlanta Hawks,shot,,,,,,,,,,Jenkins,,,,missed,,Jump Shot,,,25-29,21,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=161
 ,,,,,,,,,,2,8.49,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=162
 ,,,,,,,,,,2,8.40,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,25-29,7,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=163
 ,,,,,,,,,,2,8.39,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=164
-,,,,,,,,,,2,8.28,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Lost Ball,,,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=165
+,,,,,,,,,,2,8.28,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Lost Ball,,Jenkins,,,,25-29,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=165
 ,,,,,,,,,,2,8.23,Atlanta Hawks,shot,Jenkins,,,,,,,,,Horford,2,,,made,,Running Dunk,,,25-31,2,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=166
 ,,,,,,,,,,2,8.23,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=167
 ,,,,,,,,,,2,8.06,Atlanta Hawks,foul,,,,,,,,,,,,,,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=171
 ,,,,,,,,,,2,8.06,Portland Trail Blazers,free throw,,,,,,,,,,Matthews,1,,Technical,made,,,,,26-31,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=172
-,,,,,,,,,,2,7.58,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Driving Jump Shot,,,26-31,3,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=174
+,,,,,,,,,,2,7.58,Portland Trail Blazers,shot,,,Horford,,,,,,,Matthews,,,,missed,,Driving Jump Shot,,,26-31,3,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=174
 ,,,,,,,,,,2,7.56,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,26-31,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=176
 ,,,,,,,,,,2,7.56,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Putback Dunk,,,28-31,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=175
-,,,,,,,,,,2,7.33,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Driving Layup,,,28-31,2,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=177
+,,,,,,,,,,2,7.33,Atlanta Hawks,shot,,,Aldridge,,,,,,,Harris,,,,missed,,Driving Layup,,,28-31,2,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=177
 ,,,,,,,,,,2,7.30,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,28-31,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=178
 ,,,,,,,,,,2,7.25,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,28-31,25,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=179
 ,,,,,,,,,,2,7.23,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,28-31,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=180
@@ -155,7 +155,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.10,Atlanta Hawks,shot,,,,,,,,,,Harris,2,,,made,,Running Jump Shot,,,30-37,8,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=186
 ,,,,,,,,,,2,5.47,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,3PT Jump Shot,,,30-37,25,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=188
 ,,,,,,,,,,2,5.45,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,30-37,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=189
-,,,,,,,,,,2,5.33,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,,,,,30-37,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=190
+,,,,,,,,,,2,5.33,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,Barton,,,,30-37,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=190
 ,,,,,,,,,,2,5.28,Portland Trail Blazers,shot,,,,,,,,,,Barton,2,,,made,,Running Reverse Layup,,,32-37,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=191
 ,,,,,,,,,,2,5.19,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,32-37,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=192
 ,,,,,,,,,,2,5.19,Atlanta Hawks,substitute,,,,Stevenson,,Harris,,,,,,,,,,,,,32-37,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=194
@@ -189,13 +189,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.27,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=227
 ,,,,,,,,,,2,2.27,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,,,foul,missed,,,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=228
 ,,,,,,,,,,2,2.26,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=230
-,,,,,,,,,,2,2.08,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,,,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=232
+,,,,,,,,,,2,2.08,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Bad Pass,,Horford,,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=232
 ,,,,,,,,,,2,1.54,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,41-39,19,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=233
 ,,,,,,,,,,2,1.52,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=234
 ,,,,,,,,,,2,1.41,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,41-39,18,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=235
 ,,,,,,,,,,2,1.40,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,41-39,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=236
 ,,,,,,,,,,2,1.34,Atlanta Hawks,shot,Smith,,,,,,,,,Teague,2,,,made,,Driving Layup,,,41-41,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=237
-,,,,,,,,,,2,1.15,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=238
+,,,,,,,,,,2,1.15,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Korver,,,,41-41,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=238
 ,,,,,,,,,,2,1.09,Atlanta Hawks,shot,Korver,,,,,,,,,Smith,2,,,made,,Running Layup,,,41-43,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=239
 ,,,,,,,,,,2,0.46,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Jump Shot,,,43-43,18,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=240
 ,,,,,,,,,,2,0.38,Atlanta Hawks,shot,Horford,,,,,,,,,Smith,2,,,made,,Reverse Slam Dunk,,,43-45,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=241
@@ -207,7 +207,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=247
 ,,,,,,,,,,2,0.00,Atlanta Hawks,substitute,,,,Johnson,,Korver,,,,,,,,,,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=249
 ,,,,,,,,,,2,0.00,Atlanta Hawks,substitute,,,,Jones,,Smith,,,,,,,,,,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=250
-,,,,,,,,,,2,0.00,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=252
+,,,,,,,,,,2,0.00,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Teague,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=252
 ,,,,,,,,,,3,11.44,Portland Trail Blazers,shot,Batum,,,,,,,,,Hickson,2,,,made,,Layup,,,47-45,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=256
 ,,,,,,,,,,3,11.28,Portland Trail Blazers,foul,,,,,,,,,,Aldridge,,,,,,Personal,,,47-45,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=257
 ,,,,,,,,,,3,11.19,Atlanta Hawks,shot,Korver,,,,,,,,,Smith,2,,,made,,Layup,,,47-47,2,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=258
@@ -246,16 +246,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.25,Portland Trail Blazers,foul,,,,,,,,,,Hickson,,,,,,Loose ball,,,55-62,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=295
 ,,,,,,,,,,3,6.13,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,Jump Shot,,,55-62,21,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=296
 ,,,,,,,,,,3,6.12,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,55-62,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=297
-,,,,,,,,,,3,6.01,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,55-62,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=298
+,,,,,,,,,,3,6.01,Portland Trail Blazers,shot,,,Smith,,,,,,,Hickson,,,,missed,,Layup,,,55-62,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=298
 ,,,,,,,,,,3,6.00,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,55-62,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=299
 ,,,,,,,,,,3,5.51,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Driving Reverse Layup,,,55-62,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=302
 ,,,,,,,,,,3,5.50,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,55-62,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=303
 ,,,,,,,,,,3,5.46,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Running Layup,,,55-64,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=304
-,,,,,,,,,,3,5.34,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=305
+,,,,,,,,,,3,5.34,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Stevenson,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=305
 ,,,,,,,,,,3,5.26,Atlanta Hawks,shot,Teague,,,,,,,,,Smith,2,,,made,,Slam Dunk,,,55-66,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=306
 ,,,,,,,,,,3,5.26,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,55-66,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=307
 ,,,,,,,,,,3,5.26,Portland Trail Blazers,substitute,,,,Leonard,,Hickson,,,,,,,,,,,,,55-66,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=309
-,,,,,,,,,,3,5.09,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,55-66,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=310
+,,,,,,,,,,3,5.09,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Horford,,,,55-66,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=310
 ,,,,,,,,,,3,4.47,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Running Hook Shot,,,55-66,5,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=311
 ,,,,,,,,,,3,4.46,Portland Trail Blazers,rebound,,,,,,,,,,Leonard,,,,,,,,,55-66,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=312
 ,,,,,,,,,,3,4.33,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Driving Layup,,,57-66,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=313
@@ -275,7 +275,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.02,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,63-69,25,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=328
 ,,,,,,,,,,3,2.47,Atlanta Hawks,shot,Horford,,,,,,,,,Smith,2,,,made,,Running Slam Dunk,,,63-71,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=329
 ,,,,,,,,,,3,2.24,Portland Trail Blazers,shot,,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,66-71,26,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=330
-,,,,,,,,,,3,2.09,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Bad Pass,,,,,,66-71,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=331
+,,,,,,,,,,3,2.09,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Bad Pass,,Matthews,,,,66-71,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=331
 ,,,,,,,,,,3,2.02,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Running Layup,,,66-71,2,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=332
 ,,,,,,,,,,3,2.01,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,66-71,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=333
 ,,,,,,,,,,3,1.57,Atlanta Hawks,shot,,,,,,,,,,Jones,2,,,made,,Driving Dunk,,,66-73,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=334
@@ -304,13 +304,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.34,Portland Trail Blazers,shot,Maynor,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,76-78,27,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=362
 ,,,,,,,,,,4,10.04,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Jump Shot,,,76-78,22,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=363
 ,,,,,,,,,,4,10.02,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=364
-,,,,,,,,,,4,10.00,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=365
+,,,,,,,,,,4,10.00,Atlanta Hawks,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Batum,,,,76-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=365
 ,,,,,,,,,,4,9.54,Portland Trail Blazers,shot,Maynor,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,79-78,24,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=366
 ,,,,,,,,,,4,9.54,Atlanta Hawks,foul,,,,,,,,,,Jones,,,,,,Shooting,,,79-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=367
 ,,,,,,,,,,4,9.54,Atlanta Hawks,substitute,,,,Teague,,Jenkins,,,,,,,,,,,,,79-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=368
 ,,,,,,,,,,4,9.54,Portland Trail Blazers,substitute,,,,Matthews,,Lillard,,,,,,,,,,,,,79-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=369
 ,,,,,,,,,,4,9.54,Portland Trail Blazers,free throw,,,,,,,1,,1,Hickson,1,,foul,made,,,,,80-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=370
-,,,,,,,,,,4,9.33,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,80-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=372
+,,,,,,,,,,4,9.33,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Batum,,,,80-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=372
 ,,,,,,,,,,4,9.29,Portland Trail Blazers,shot,Batum,,,,,,,,,Hickson,2,,,made,,Running Dunk,,,82-78,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=373
 ,,,,,,,,,,4,9.28,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,82-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=375
 ,,,,,,,,,,4,9.28,Atlanta Hawks,substitute,,,,Smith,,Harris,,,,,,,,,,,,,82-78,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=376
@@ -350,7 +350,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.32,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,88-85,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=419
 ,,,,,,,,,,4,5.26,Portland Trail Blazers,shot,Maynor,,,,,,,,,Aldridge,2,,,made,,Layup,,,90-85,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=420
 ,,,,,,,,,,4,5.10,Atlanta Hawks,shot,Teague,,,,,,,,,Horford,2,,,made,,Jump Shot,,,90-87,18,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=421
-,,,,,,,,,,4,4.50,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=422
+,,,,,,,,,,4,4.50,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Bad Pass,,Teague,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=422
 ,,,,,,,,,,4,4.46,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Running Dunk,,,90-89,1,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=423
 ,,,,,,,,,,4,4.46,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=424
 ,,,,,,,,,,4,4.46,Portland Trail Blazers,substitute,,,,Hickson,,Leonard,,,,,,,,,,,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=426
@@ -358,7 +358,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.26,Atlanta Hawks,foul,,,,,,,,,,Stevenson,,,,,,Shooting,,,90-89,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=428
 ,,,,,,,,,,4,4.26,Portland Trail Blazers,free throw,,,,,,,1,,2,Matthews,1,,foul,made,,,,,91-89,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=429
 ,,,,,,,,,,4,4.26,Portland Trail Blazers,free throw,,,,,,,2,,2,Matthews,1,,foul,made,,,,,92-89,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=431
-,,,,,,,,,,4,4.11,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,92-89,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=433
+,,,,,,,,,,4,4.11,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Batum,,,,92-89,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=433
 ,,,,,,,,,,4,3.55,Portland Trail Blazers,shot,Hickson,,,,,,,,,Batum,2,,,made,,Running Layup,,,94-89,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=434
 ,,,,,,,,,,4,3.31,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,94-89,22,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=435
 ,,,,,,,,,,4,3.29,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,94-89,,http://stats.nba.com/cvp.html?GameID=0021201025&GameEventID=436

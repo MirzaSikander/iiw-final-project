@@ -28,7 +28,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.52,Philadelphia 76ers,shot,Turner,,,,,,,,,Young,2,,,made,,Layup,,,6-0,2,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=28
 ,,,,,,,,,,1,8.42,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=29
 ,,,,,,,,,,1,8.30,Philadelphia 76ers,turnover,,,,,,,,,,Ivey,,,Step Out of Bounds,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=31
-,,,,,,,,,,1,8.16,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=32
+,,,,,,,,,,1,8.16,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Young,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=32
 ,,,,,,,,,,1,8.16,Atlanta Hawks,foul,,,,,,,,,,Smith,,,,,,Personal,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=33
 ,,,,,,,,,,1,8.01,Philadelphia 76ers,shot,,,,,,,,,,Ivey,,,,missed,,3PT Jump Shot,,,6-0,25,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=34
 ,,,,,,,,,,1,8.00,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,6-0,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=35
@@ -41,7 +41,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.02,Atlanta Hawks,shot,Stevenson,,,,,,,,,Smith,2,,,made,,Layup,,,8-2,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=43
 ,,,,,,,,,,1,6.41,Philadelphia 76ers,shot,,,,,,,,,,Ivey,,,,missed,,Driving Jump Shot,,,8-2,5,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=44
 ,,,,,,,,,,1,6.39,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=45
-,,,,,,,,,,1,6.36,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=46
+,,,,,,,,,,1,6.36,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Holiday,,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=46
 ,,,,,,,,,,1,6.26,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,3PT Jump Shot,,,8-2,25,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=47
 ,,,,,,,,,,1,6.25,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,8-2,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=48
 ,,,,,,,,,,1,6.14,Atlanta Hawks,shot,Stevenson,,,,,,,,,Korver,3,,,made,,3PT Jump Shot,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=49
@@ -73,7 +73,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.55,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,14-16,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=79
 ,,,,,,,,,,1,2.43,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,3PT Jump Shot,,,14-16,24,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=80
 ,,,,,,,,,,1,2.42,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,14-16,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=81
-,,,,,,,,,,1,2.26,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,14-16,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=82
+,,,,,,,,,,1,2.26,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Teague,,,,14-16,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=82
 ,,,,,,,,,,1,2.21,Atlanta Hawks,shot,Jones,,,,,,,,,Korver,2,,,made,,Running Layup,,,14-18,2,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=83
 ,,,,,,,,,,1,2.11,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,14-18,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=84
 ,,,,,,,,,,1,2.11,Atlanta Hawks,substitute,,,,Tolliver,,Horford,,,,,,,,,,,,,14-18,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=86
@@ -98,12 +98,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.14,Atlanta Hawks,shot,,,,,,,,,,Jenkins,,,,missed,,3PT Jump Shot,,,19-24,24,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=108
 ,,,,,,,,,,1,0.13,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=110
 ,,,,,,,,,,1,0.13,Atlanta Hawks,shot,,,,,,,,,,Tolliver,2,,,made,,Putback Dunk,,,19-26,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=109
-,,,,,,,,,,1,0.00,Philadelphia 76ers,shot,,,,,,,,,,Moultrie,,,,missed,,Jump Shot,,,19-26,4,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=111
+,,,,,,,,,,1,0.00,Philadelphia 76ers,shot,,,Smith,,,,,,,Moultrie,,,,missed,,Jump Shot,,,19-26,4,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=111
 ,,,,,,,,,,1,0.00,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,19-26,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=112
 ,,,,,,,,,,2,11.42,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,19-26,19,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=116
 ,,,,,,,,,,2,11.41,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,19-26,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=117
 ,,,,,,,,,,2,11.20,Atlanta Hawks,shot,Korver,,,,,,,,,Tolliver,3,,,made,,3PT Jump Shot,,,19-29,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=118
-,,,,,,,,,,2,11.00,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Bad Pass,,,,,,19-29,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=119
+,,,,,,,,,,2,11.00,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Bad Pass,,Horford,,,,19-29,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=119
 ,,,,,,,,,,2,10.56,Atlanta Hawks,shot,Horford,,,,,,,,,Jenkins,2,,,made,,Running Layup,,,19-31,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=120
 ,,,,,,,,,,2,10.38,Philadelphia 76ers,shot,Pargo,,,,,,,,,Wilkins,3,,,made,,3PT Jump Shot,,,22-31,24,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=121
 ,,,,,,,,,,2,10.17,Atlanta Hawks,shot,Horford,,,,,,,,,Harris,2,,,made,,Driving Layup,,,22-33,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=122
@@ -119,7 +119,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.34,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Jump Shot,,,27-36,14,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=132
 ,,,,,,,,,,2,8.33,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,27-36,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=133
 ,,,,,,,,,,2,8.26,Atlanta Hawks,shot,Korver,,,,,,,,,Tolliver,2,,,made,,Layup,,,27-38,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=134
-,,,,,,,,,,2,8.09,Philadelphia 76ers,shot,,,,,,,,,,Pargo,,,,missed,,Layup,,,27-38,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=135
+,,,,,,,,,,2,8.09,Philadelphia 76ers,shot,,,Horford,,,,,,,Pargo,,,,missed,,Layup,,,27-38,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=135
 ,,,,,,,,,,2,8.06,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,27-38,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=136
 ,,,,,,,,,,2,8.03,Atlanta Hawks,shot,,,,,,,,,,Jenkins,,,,missed,,Layup,,,27-38,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=137
 ,,,,,,,,,,2,8.02,Philadelphia 76ers,rebound,,,,,,,,,,Wilkins,,,,,,,,,27-38,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=138
@@ -147,13 +147,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.04,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Jump Shot,,,30-44,17,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=163
 ,,,,,,,,,,2,6.03,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,30-44,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=164
 ,,,,,,,,,,2,5.52,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Driving Layup,,,30-46,2,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=165
-,,,,,,,,,,2,5.34,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Layup,,,30-46,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=166
+,,,,,,,,,,2,5.34,Philadelphia 76ers,shot,,,Tolliver,,,,,,,Young,,,,missed,,Layup,,,30-46,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=166
 ,,,,,,,,,,2,5.32,Philadelphia 76ers,rebound,,,,,,,,,,Jenkins,,,,,,,,,30-46,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=167
 ,,,,,,,,,,2,5.25,Philadelphia 76ers,shot,Holiday,,,,,,,,,Jenkins,2,,,made,,Jump Shot,,,32-46,17,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=168
 ,,,,,,,,,,2,4.59,Philadelphia 76ers,foul,,,,,,,,,,Hawes,,,,,,Shooting,,,32-46,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=169
 ,,,,,,,,,,2,4.59,Atlanta Hawks,free throw,,,,,,,1,,2,Tolliver,1,,foul,made,,,,,32-47,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=173
 ,,,,,,,,,,2,4.59,Atlanta Hawks,free throw,,,,,,,2,,2,Tolliver,1,,foul,made,,,,,32-48,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=175
-,,,,,,,,,,2,4.39,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Jump Shot,,,32-48,19,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=177
+,,,,,,,,,,2,4.39,Philadelphia 76ers,shot,,,Tolliver,,,,,,,Hawes,,,,missed,,Jump Shot,,,32-48,19,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=177
 ,,,,,,,,,,2,4.39,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,32-48,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=178
 ,,,,,,,,,,2,4.34,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Hook Shot,,,32-48,4,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=179
 ,,,,,,,,,,2,4.34,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,32-48,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=180
@@ -173,7 +173,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.24,Philadelphia 76ers,shot,Wright,,,,,,,,,Jenkins,2,,,made,,Jump Shot,,,36-51,22,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=197
 ,,,,,,,,,,2,3.07,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,36-51,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=198
 ,,,,,,,,,,2,2.54,Philadelphia 76ers,shot,Holiday,,,,,,,,,Young,2,,,made,,Layup,,,38-51,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=199
-,,,,,,,,,,2,2.44,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=200
+,,,,,,,,,,2,2.44,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,Jenkins,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=200
 ,,,,,,,,,,2,2.42,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Shooting,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=201
 ,,,,,,,,,,2,2.42,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=202
 ,,,,,,,,,,2,2.42,Atlanta Hawks,substitute,,,,Korver,,Stevenson,,,,,,,,,,,,,38-51,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=205
@@ -186,13 +186,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.47,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Jump Shot,,,41-54,20,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=216
 ,,,,,,,,,,2,1.46,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,41-54,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=217
 ,,,,,,,,,,2,1.27,Philadelphia 76ers,shot,Jenkins,,,,,,,,,Moultrie,2,,,made,,Hook Shot,,,43-54,6,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=218
-,,,,,,,,,,2,1.12,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=219
+,,,,,,,,,,2,1.12,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Wright,,,,43-54,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=219
 ,,,,,,,,,,2,1.07,Philadelphia 76ers,shot,Jenkins,,,,,,,,,Wright,2,,,made,,Running Layup,,,45-54,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=220
 ,,,,,,,,,,2,0.54,Atlanta Hawks,shot,Teague,,,,,,,,,Tolliver,3,,,made,,3PT Jump Shot,,,45-57,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=221
 ,,,,,,,,,,2,0.35,Atlanta Hawks,foul,,,,,,,,,,Korver,,,,,,Shooting,,,45-57,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=222
 ,,,,,,,,,,2,0.35,Philadelphia 76ers,free throw,,,,,,,1,,2,Wright,1,,foul,made,,,,,46-57,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=223
 ,,,,,,,,,,2,0.35,Philadelphia 76ers,free throw,,,,,,,2,,2,Wright,1,,foul,made,,,,,47-57,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=225
-,,,,,,,,,,2,0.26,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Turnaround Jump Shot,,,47-57,7,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=227
+,,,,,,,,,,2,0.26,Atlanta Hawks,shot,,,Holiday,,,,,,,Harris,,,,missed,,Turnaround Jump Shot,,,47-57,7,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=227
 ,,,,,,,,,,2,0.24,Atlanta Hawks,rebound,,,,,,,,,,Harris,,,,,,,,,47-57,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=228
 ,,,,,,,,,,2,0.22,Atlanta Hawks,shot,Harris,,,,,,,,,Horford,2,,,made,,Dunk,,,47-59,2,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=229
 ,,,,,,,,,,2,0.02,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,47-59,14,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=230
@@ -203,7 +203,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,47-59,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=235
 ,,,,,,,,,,3,11.40,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Driving Layup,,,47-59,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=239
 ,,,,,,,,,,3,11.39,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,47-59,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=240
-,,,,,,,,,,3,11.37,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,,,,,47-59,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=241
+,,,,,,,,,,3,11.37,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Bad Pass,,Jenkins,,,,47-59,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=241
 ,,,,,,,,,,3,11.25,Philadelphia 76ers,shot,Turner,,,,,,,,,Young,2,,,made,,Jump Shot,,,49-59,6,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=242
 ,,,,,,,,,,3,11.05,Atlanta Hawks,shot,Teague,,,,,,,,,Horford,2,,,made,,Jump Shot,,,49-61,19,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=243
 ,,,,,,,,,,3,10.39,Philadelphia 76ers,shot,Jenkins,,,,,,,,,Hawes,2,,,made,,Jump Shot,,,51-61,18,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=244
@@ -234,7 +234,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.42,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,57-66,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=274
 ,,,,,,,,,,3,7.35,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,57-66,25,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=275
 ,,,,,,,,,,3,7.33,Atlanta Hawks,rebound,,,,,,,,,,Stevenson,,,,,,,,,57-66,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=276
-,,,,,,,,,,3,7.29,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,57-66,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=277
+,,,,,,,,,,3,7.29,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Young,,,,57-66,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=277
 ,,,,,,,,,,3,7.23,Philadelphia 76ers,shot,Holiday,,,,,,,,,Wright,2,,,made,,Alley Oop Dunk,,,59-66,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=278
 ,,,,,,,,,,3,7.08,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Driving Layup,,,59-66,1,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=279
 ,,,,,,,,,,3,7.07,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,59-66,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=280
@@ -268,7 +268,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.07,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,65-77,17,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=314
 ,,,,,,,,,,3,3.06,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,65-77,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=315
 ,,,,,,,,,,3,2.51,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Driving Hook Shot,,,65-79,4,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=316
-,,,,,,,,,,3,2.30,Philadelphia 76ers,shot,,,,,,,,,,Jenkins,,,,missed,,Driving Jump Shot,,,65-79,4,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=317
+,,,,,,,,,,3,2.30,Philadelphia 76ers,shot,,,Teague,,,,,,,Jenkins,,,,missed,,Driving Jump Shot,,,65-79,4,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=317
 ,,,,,,,,,,3,2.28,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=318
 ,,,,,,,,,,3,2.25,Philadelphia 76ers,foul,,,,,,,,,,Ivey,,,,,,Shooting,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=319
 ,,,,,,,,,,3,2.25,Atlanta Hawks,free throw,,,,,,,1,,2,Teague,1,,foul,made,,,,,65-80,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=320
@@ -321,12 +321,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.50,Philadelphia 76ers,shot,Wilkins,,,,,,,,,Moultrie,2,,,made,,Jump Shot,,,78-91,18,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=384
 ,,,,,,,,,,4,9.21,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,78-91,18,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=387
 ,,,,,,,,,,4,9.19,Philadelphia 76ers,rebound,,,,,,,,,,Wilkins,,,,,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=388
-,,,,,,,,,,4,9.08,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=389
+,,,,,,,,,,4,9.08,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Harris,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=389
 ,,,,,,,,,,4,9.04,Philadelphia 76ers,foul,,,,,,,,,,Wright,,,,,,Shooting,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=390
 ,,,,,,,,,,4,9.04,Atlanta Hawks,free throw,,,,,,,1,,2,Jenkins,1,,foul,made,,,,,78-92,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=391
 ,,,,,,,,,,4,9.04,Atlanta Hawks,free throw,,,,,,,2,,2,Jenkins,1,,foul,made,,,,,78-93,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=393
 ,,,,,,,,,,4,8.46,Philadelphia 76ers,shot,Holiday,,,,,,,,,Moultrie,2,,,made,,Jump Shot,,,80-93,6,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=395
-,,,,,,,,,,4,8.24,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Driving Layup,,,80-93,3,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=396
+,,,,,,,,,,4,8.24,Atlanta Hawks,shot,,,Jenkins,,,,,,,Harris,,,,missed,,Driving Layup,,,80-93,3,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=396
 ,,,,,,,,,,4,8.24,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,80-93,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=397
 ,,,,,,,,,,4,8.24,Atlanta Hawks,substitute,,,,Teague,,Jenkins,,,,,,,,,,,,,80-93,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=400
 ,,,,,,,,,,4,8.21,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,3PT Jump Shot,,,80-93,25,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=403
@@ -334,12 +334,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.07,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,80-93,17,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=405
 ,,,,,,,,,,4,8.06,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,80-93,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=406
 ,,,,,,,,,,4,7.48,Philadelphia 76ers,turnover,,,,,,,,,,Wilkins,,,Traveling,,,,,,80-93,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=407
-,,,,,,,,,,4,7.30,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Lost Ball,,,,,,80-93,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=408
+,,,,,,,,,,4,7.30,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Lost Ball,,Wright,,,,80-93,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=408
 ,,,,,,,,,,4,7.25,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,80-93,25,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=409
 ,,,,,,,,,,4,7.24,Atlanta Hawks,rebound,,,,,,,,,,Tolliver,,,,,,,,,80-93,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=410
 ,,,,,,,,,,4,7.08,Atlanta Hawks,shot,,,,,,,,,,Horford,2,,,made,,Jump Shot,,,80-95,21,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=411
 ,,,,,,,,,,4,6.49,Philadelphia 76ers,shot,,,,,,,,,,Wilkins,2,,,made,,Turnaround Jump Shot,,,82-95,17,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=412
-,,,,,,,,,,4,6.31,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,82-95,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=413
+,,,,,,,,,,4,6.31,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Wright,,,,82-95,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=413
 ,,,,,,,,,,4,6.25,Philadelphia 76ers,shot,Jenkins,,,,,,,,,Wilkins,2,,,made,,Running Layup,,,84-95,2,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=414
 ,,,,,,,,,,4,6.06,Atlanta Hawks,shot,,,,,,,,,,Harris,2,,,made,,Driving Jump Shot,,,84-97,4,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=415
 ,,,,,,,,,,4,5.57,Atlanta Hawks,foul,,,,,,,,,,Teague,,,,,,Personal,,,84-97,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=416
@@ -365,7 +365,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.23,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,86-99,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=440
 ,,,,,,,,,,4,4.09,Philadelphia 76ers,shot,Jenkins,,,,,,,,,Wilkins,3,,,made,,3PT Jump Shot,,,89-99,24,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=441
 ,,,,,,,,,,4,3.50,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Hook Shot,,,89-101,10,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=442
-,,,,,,,,,,4,3.26,Philadelphia 76ers,turnover,,,,,,,,,,Moultrie,,,Lost Ball,,,,,,89-101,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=443
+,,,,,,,,,,4,3.26,Philadelphia 76ers,turnover,,,,,,,,,,Moultrie,,,Lost Ball,,Stevenson,,,,89-101,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=443
 ,,,,,,,,,,4,3.16,Atlanta Hawks,foul,,,,,,,,,,,,,,,,,,,89-101,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=445
 ,,,,,,,,,,4,3.16,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Foul,,,,,,89-101,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=446
 ,,,,,,,,,,4,3.16,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,89-101,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=447
@@ -380,7 +380,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.35,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,89-102,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=462
 ,,,,,,,,,,4,2.35,Philadelphia 76ers,free throw,,,,,,,2,,2,Holiday,1,,foul,made,,,,,90-102,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=463
 ,,,,,,,,,,4,2.19,Atlanta Hawks,shot,Stevenson,,,,,,,,,Teague,3,,,made,,3PT Jump Shot,,,90-105,25,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=465
-,,,,,,,,,,4,1.59,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Bad Pass,,,,,,90-105,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=466
+,,,,,,,,,,4,1.59,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Bad Pass,,Korver,,,,90-105,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=466
 ,,,,,,,,,,4,1.54,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,3PT Jump Shot,,,90-105,25,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=467
 ,,,,,,,,,,4,1.52,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,90-105,,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=468
 ,,,,,,,,,,4,1.38,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,90-105,24,http://stats.nba.com/cvp.html?GameID=0021200902&GameEventID=469

@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.46,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Jump Shot,,,,21,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=14
 ,,,,,,,,,,1,10.45,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=15
 ,,,,,,,,,,1,10.32,Los Angeles Lakers,shot,,,,,,,,,,World Peace,3,,,made,,3PT Jump Shot,,,3-0,26,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=16
-,,,,,,,,,,1,10.10,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=17
+,,,,,,,,,,1,10.10,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Bad Pass,,Bryant,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=17
 ,,,,,,,,,,1,10.00,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,3PT Jump Shot,,,3-0,25,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=18
 ,,,,,,,,,,1,9.59,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=19
 ,,,,,,,,,,1,9.49,Atlanta Hawks,turnover,,,,,,,,,,Petro Out of Bounds,,,Lost Ball,,,,,,3-0,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=20
@@ -88,7 +88,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.11,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=102
 ,,,,,,,,,,1,2.11,Atlanta Hawks,substitute,,,,Jenkins,,Jones,,,,,,,,,,,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=104
 ,,,,,,,,,,1,2.01,Atlanta Hawks,shot,Johnson,,,,,,,,,Korver,2,,,made,,Driving Jump Shot,,,19-19,3,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=106
-,,,,,,,,,,1,1.44,Los Angeles Lakers,shot,,,,,,,,,,Jamison,,,,missed,,Layup,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=107
+,,,,,,,,,,1,1.44,Los Angeles Lakers,shot,,,Korver,,,,,,,Jamison,,,,missed,,Layup,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=107
 ,,,,,,,,,,1,1.44,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=108
 ,,,,,,,,,,1,1.37,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,3PT Jump Shot,,,19-19,26,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=110
 ,,,,,,,,,,1,1.36,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=111
@@ -118,13 +118,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.31,Atlanta Hawks,shot,,,,,,,,,,Petro,,,,missed,,Tip Shot,,,23-29,1,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=139
 ,,,,,,,,,,2,10.30,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,23-29,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=141
 ,,,,,,,,,,2,10.24,Atlanta Hawks,foul,,,,,,,,,,Johnson,,,,,,Personal,,,23-29,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=142
-,,,,,,,,,,2,10.13,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,Jump Shot,,,23-29,19,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=144
+,,,,,,,,,,2,10.13,Los Angeles Lakers,shot,,,Korver,,,,,,,Meeks,,,,missed,,Jump Shot,,,23-29,19,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=144
 ,,,,,,,,,,2,10.12,Atlanta Hawks,rebound,,,,,,,,,,Jenkins,,,,,,,,,23-29,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=145
 ,,,,,,,,,,2,9.59,Atlanta Hawks,shot,Jenkins,,,,,,,,,Mack,2,,,made,,Jump Shot,,,23-31,20,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=147
 ,,,,,,,,,,2,9.46,Los Angeles Lakers,shot,,,,,,,,,,Nash,2,,,made,,Jump Shot,,,25-31,12,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=148
 ,,,,,,,,,,2,9.26,Atlanta Hawks,shot,Jenkins,,,,,,,,,Petro,2,,,made,,Layup,,,25-33,1,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=149
 ,,,,,,,,,,2,9.11,Los Angeles Lakers,shot,Nash,,,,,,,,,Clark,2,,,made,,Jump Shot,,,27-33,14,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=150
-,,,,,,,,,,2,8.59,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Lost Ball,,,,,,27-33,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=151
+,,,,,,,,,,2,8.59,Atlanta Hawks,turnover,,,,,,,,,,Jenkins,,,Lost Ball,,Howard,,,,27-33,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=151
 ,,,,,,,,,,2,8.55,Atlanta Hawks,foul,,,,,,,,,,Mack,,,,,,Shooting,,,27-33,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=152
 ,,,,,,,,,,2,8.55,Atlanta Hawks,substitute,,,,Harris,,Mack,,,,,,,,,,,,,27-33,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=154
 ,,,,,,,,,,2,8.55,Los Angeles Lakers,free throw,,,,,,,1,,2,Clark,1,,foul,made,,,,,28-33,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=156
@@ -161,7 +161,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.38,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,35-41,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=196
 ,,,,,,,,,,2,5.35,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,3PT Jump Shot,,,35-41,25,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=197
 ,,,,,,,,,,2,5.34,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,35-41,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=198
-,,,,,,,,,,2,5.20,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,,,,,35-41,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=199
+,,,,,,,,,,2,5.20,Los Angeles Lakers,turnover,,,,,,,,,,Bryant,,,Bad Pass,,Horford,,,,35-41,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=199
 ,,,,,,,,,,2,5.08,Atlanta Hawks,shot,Petro,,,,,,,,,Tolliver,2,,,made,,Layup,,,35-43,2,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=200
 ,,,,,,,,,,2,4.50,Los Angeles Lakers,shot,Nash,,,,,,,,,Howard,2,,,made,,Layup,,,37-43,1,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=201
 ,,,,,,,,,,2,4.33,Atlanta Hawks,shot,Korver,,,,,,,,,Petro,2,,,made,,Layup,,,37-45,2,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=202
@@ -248,7 +248,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.30,Atlanta Hawks,shot,,,,,,,,,,Horford,2,,,made,,Hook Shot,,,55-64,7,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=303
 ,,,,,,,,,,3,6.13,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Fadeaway Jumper,,,55-64,20,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=304
 ,,,,,,,,,,3,6.10,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=305
-,,,,,,,,,,3,6.09,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Bad Pass,,,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=306
+,,,,,,,,,,3,6.09,Atlanta Hawks,turnover,,,,,,,,,,Tolliver,,,Bad Pass,,Bryant,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=306
 ,,,,,,,,,,3,6.02,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Driving Jump Shot,,,55-64,4,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=307
 ,,,,,,,,,,3,6.01,Atlanta Hawks,rebound,,,,,,,,,,Petro,,,,,,,,,55-64,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=308
 ,,,,,,,,,,3,5.57,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Jump Shot,,,55-64,4,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=309
@@ -267,7 +267,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.04,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,57-67,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=326
 ,,,,,,,,,,3,5.04,Atlanta Hawks,foul,,,,,,,,,,Petro,,,,,,Personal,,,57-67,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=327
 ,,,,,,,,,,3,4.46,Los Angeles Lakers,shot,Nash,,,,,,,,,Bryant,2,,,made,,Fadeaway Jumper,,,59-67,13,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=328
-,,,,,,,,,,3,4.31,Atlanta Hawks,turnover,,,,,,,,,,Petro,,,Bad Pass,,,,,,59-67,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=329
+,,,,,,,,,,3,4.31,Atlanta Hawks,turnover,,,,,,,,,,Petro,,,Bad Pass,,Howard,,,,59-67,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=329
 ,,,,,,,,,,3,4.17,Atlanta Hawks,foul,,,,,,,,,,Harris,,,,,,Personal,,,59-67,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=330
 ,,,,,,,,,,3,4.17,Los Angeles Lakers,free throw,,,,,,,1,,2,Bryant,1,,foul,made,,,,,60-67,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=332
 ,,,,,,,,,,3,4.17,Atlanta Hawks,substitute,,,,Mack,,Harris,,,,,,,,,,,,,60-67,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=334
@@ -286,7 +286,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.36,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,Jump Shot,,,64-69,19,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=352
 ,,,,,,,,,,3,3.35,Los Angeles Lakers,rebound,,,,,,,,,,Bryant,,,,,,,,,64-69,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=353
 ,,,,,,,,,,3,3.28,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Jump Shot,,,66-69,18,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=354
-,,,,,,,,,,3,3.12,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Lost Ball,,,,,,66-69,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=355
+,,,,,,,,,,3,3.12,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Lost Ball,,Peace,,,,66-69,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=355
 ,,,,,,,,,,3,3.05,Los Angeles Lakers,shot,,,,,,,,,,Bryant,2,,,made,,Jump Shot,,,68-69,13,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=356
 ,,,,,,,,,,3,3.03,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=357
 ,,,,,,,,,,3,2.47,Atlanta Hawks,shot,,,,,,,,,,Horford,2,,,made,,Jump Shot,,,68-71,5,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=361
@@ -325,14 +325,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.30,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=404
 ,,,,,,,,,,4,10.30,Atlanta Hawks,substitute,,,,Harris,,Mack,,,,,,,,,,,,,79-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=407
 ,,,,,,,,,,4,10.30,Los Angeles Lakers,free throw,,,,,,,,,,Nash,1,,Technical,made,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=408
-,,,,,,,,,,4,10.13,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,Driving Layup,,,80-76,1,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=410
+,,,,,,,,,,4,10.13,Atlanta Hawks,shot,,,Howard,,,,,,,Harris,,,,missed,,Driving Layup,,,80-76,1,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=410
 ,,,,,,,,,,4,10.13,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=411
 ,,,,,,,,,,4,10.13,Atlanta Hawks,substitute,,,,Horford,,Petro,,,,,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=412
 ,,,,,,,,,,4,10.13,Los Angeles Lakers,substitute,,,,World Peace,,Jamison,,,,,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=413
 ,,,,,,,,,,4,10.05,Atlanta Hawks,turnover,,,,,,,,,,,,,Shot Clock,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=414
 ,,,,,,,,,,4,9.50,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,3PT Jump Shot,,,80-76,24,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=415
 ,,,,,,,,,,4,9.49,Atlanta Hawks,rebound,,,,,,,,,,Johnson,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=416
-,,,,,,,,,,4,9.33,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Lost Ball,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=418
+,,,,,,,,,,4,9.33,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Lost Ball,,Peace,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=418
 ,,,,,,,,,,4,9.33,Atlanta Hawks,jumpball,,World Peace,,,Horford,,,,,,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=417
 ,,,,,,,,,,4,9.14,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Jump Shot,,,80-76,25,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=419
 ,,,,,,,,,,4,9.12,Los Angeles Lakers,rebound,,,,,,,,,,Blake,,,,,,,,,80-76,,http://stats.nba.com/cvp.html?GameID=0021200960&GameEventID=420

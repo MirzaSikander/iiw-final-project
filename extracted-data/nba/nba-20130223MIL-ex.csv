@@ -1,6 +1,6 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.47,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=3
-,,,,,,,,,,1,11.43,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=4
+,,,,,,,,,,1,11.47,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,Harris,,,,,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=3
+,,,,,,,,,,1,11.43,Atlanta Hawks,turnover,,,,,,,,,,Harris,,,Lost Ball,,Ilyasova,,,,,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=4
 ,,,,,,,,,,1,11.28,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,Jump Shot,,,,8,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=5
 ,,,,,,,,,,1,11.27,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=6
 ,,,,,,,,,,1,11.13,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Layup,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=7
@@ -24,8 +24,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.40,Milwaukee Bucks,shot,,,,,,,,,,Ellis,2,,,made,,Fadeaway Jumper,,,4-6,5,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=25
 ,,,,,,,,,,1,8.31,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,3PT Jump Shot,,,4-6,26,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=26
 ,,,,,,,,,,1,8.30,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=27
-,,,,,,,,,,1,8.21,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=28
-,,,,,,,,,,1,8.15,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Lost Ball,,,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=29
+,,,,,,,,,,1,8.21,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,Teague,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=28
+,,,,,,,,,,1,8.15,Atlanta Hawks,turnover,,,,,,,,,,Horford,,,Lost Ball,,Moute,,,,4-6,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=29
 ,,,,,,,,,,1,7.57,Milwaukee Bucks,shot,Ilyasova,,,,,,,,,Sanders,2,,,made,,Jump Shot,,,4-8,14,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=30
 ,,,,,,,,,,1,7.37,Atlanta Hawks,shot,Smith,,,,,,,,,Teague,2,,,made,,Jump Shot,,,6-8,17,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=31
 ,,,,,,,,,,1,7.18,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Layup,,,6-8,2,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=32
@@ -60,7 +60,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.27,Atlanta Hawks,free throw,,,,,,,1,,2,Smith,1,,foul,made,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=64
 ,,,,,,,,,,1,5.27,Atlanta Hawks,free throw,,,,,,,2,,2,Smith,,,foul,missed,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=66
 ,,,,,,,,,,1,5.26,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=68
-,,,,,,,,,,1,5.10,Milwaukee Bucks,turnover,,,,,,,,,,Mbah a Moute,,,Bad Pass,,,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=69
+,,,,,,,,,,1,5.10,Milwaukee Bucks,turnover,,,,,,,,,,Mbah a Moute,,,Bad Pass,,Smith,,,,12-12,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=69
 ,,,,,,,,,,1,5.01,Atlanta Hawks,shot,Smith,,,,,,,,,Harris,3,,,made,,3PT Jump Shot,,,15-12,27,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=70
 ,,,,,,,,,,1,4.44,Milwaukee Bucks,shot,Redick,,,,,,,,,Henson,2,,,made,,Layup,,,15-14,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=71
 ,,,,,,,,,,1,4.44,Atlanta Hawks,foul,,,,,,,,,,Horford,,,,,,Shooting,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=72
@@ -75,7 +75,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.16,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=83
 ,,,,,,,,,,1,4.16,Milwaukee Bucks,shot,,,,,,,,,,Henson,,,,missed,,Layup,,,15-14,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=82
 ,,,,,,,,,,1,4.15,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=84
-,,,,,,,,,,1,4.10,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,15-14,3,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=85
+,,,,,,,,,,1,4.10,Atlanta Hawks,shot,,,Sanders,,,,,,,Smith,,,,missed,,Jump Shot,,,15-14,3,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=85
 ,,,,,,,,,,1,4.10,Atlanta Hawks,rebound,,,,,,,,,,,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=86
 ,,,,,,,,,,1,4.07,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,Jump Shot,,,15-14,16,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=87
 ,,,,,,,,,,1,4.04,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=88
@@ -119,10 +119,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.36,Milwaukee Bucks,free throw,,,,,,,1,,2,Henson,1,,foul,made,,,,,17-24,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=127
 ,,,,,,,,,,1,0.36,Milwaukee Bucks,free throw,,,,,,,2,,2,Henson,1,,foul,made,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=129
 ,,,,,,,,,,1,0.29,Atlanta Hawks,shot,Harris,,,,,,,,,Smith,2,,,made,,Alley Oop Layup,,,19-25,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=133
-,,,,,,,,,,1,0.10,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=134
-,,,,,,,,,,1,0.09,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=135
+,,,,,,,,,,1,0.10,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,Korver,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=134
+,,,,,,,,,,1,0.09,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,Ellis,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=135
 ,,,,,,,,,,1,0.06,Milwaukee Bucks,shot,,,,,,,,,,Ellis,2,,,made,,Layup,,,19-27,2,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=136
-,,,,,,,,,,1,0.06,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=137
+,,,,,,,,,,1,0.06,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,Dunleavy,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=137
 ,,,,,,,,,,1,0.04,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,3PT Jump Shot,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=138
 ,,,,,,,,,,1,0.00,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=139
 ,,,,,,,,,,2,11.43,Atlanta Hawks,shot,,,,,,,,,,Jenkins,,,,missed,,Layup,,,19-27,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=144
@@ -209,11 +209,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.03,Atlanta Hawks,shot,Harris,,,,,,,,,Teague,3,,,made,,3PT Jump Shot,,,47-45,26,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=236
 ,,,,,,,,,,2,2.45,Milwaukee Bucks,shot,Redick,,,,,,,,,Ilyasova,2,,,made,,Jump Bank Shot,,,47-47,16,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=237
 ,,,,,,,,,,2,2.18,Atlanta Hawks,shot,,,,,,,,,,Teague,2,,,made,,Driving Layup,,,49-47,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=238
-,,,,,,,,,,2,2.07,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Reverse Layup,,,49-47,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=239
+,,,,,,,,,,2,2.07,Milwaukee Bucks,shot,,,Smith,,,,,,,Sanders,,,,missed,,Reverse Layup,,,49-47,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=239
 ,,,,,,,,,,2,2.05,Atlanta Hawks,rebound,,,,,,,,,,Teague,,,,,,,,,49-47,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=240
 ,,,,,,,,,,2,2.00,Atlanta Hawks,shot,Teague,,,,,,,,,Jenkins,3,,,made,,3PT Jump Shot,,,52-47,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=241
 ,,,,,,,,,,2,1.45,Milwaukee Bucks,shot,Jennings,,,,,,,,,Redick,2,,,made,,Jump Shot,,,52-49,18,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=242
-,,,,,,,,,,2,1.26,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,,,,,52-49,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=243
+,,,,,,,,,,2,1.26,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Lost Ball,,Jennings,,,,52-49,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=243
 ,,,,,,,,,,2,1.26,Atlanta Hawks,foul,,,,,,,,,,Teague,,,,,,Personal,,,52-49,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=244
 ,,,,,,,,,,2,1.12,Milwaukee Bucks,shot,,,,,,,,,,Ellis,2,,,made,,Driving Layup,,,52-51,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=245
 ,,,,,,,,,,2,0.53,Atlanta Hawks,shot,,,,,,,,,,Jenkins,,,,missed,,3PT Jump Shot,,,52-51,24,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=246
@@ -229,7 +229,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.01,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,54-53,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=256
 ,,,,,,,,,,3,11.36,Atlanta Hawks,shot,,,,,,,,,,Tolliver,,,,missed,,3PT Jump Shot,,,54-53,25,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=261
 ,,,,,,,,,,3,11.35,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,54-53,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=262
-,,,,,,,,,,3,11.18,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,,,,,54-53,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=263
+,,,,,,,,,,3,11.18,Milwaukee Bucks,turnover,,,,,,,,,,Ilyasova,,,Bad Pass,,Smith,,,,54-53,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=263
 ,,,,,,,,,,3,11.13,Atlanta Hawks,shot,,,,,,,,,,Smith,2,,,made,,Dunk,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=264
 ,,,,,,,,,,3,10.51,Milwaukee Bucks,shot,Ellis,,,,,,,,,Sanders,2,,,made,,Jump Shot,,,56-55,15,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=265
 ,,,,,,,,,,3,10.28,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,56-55,4,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=266
@@ -248,7 +248,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.39,Milwaukee Bucks,shot,Ellis,,,,,,,,,Ilyasova,2,,,made,,Layup,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=279
 ,,,,,,,,,,3,8.27,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Layup,,,62-61,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=280
 ,,,,,,,,,,3,8.26,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=281
-,,,,,,,,,,3,8.19,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=282
+,,,,,,,,,,3,8.19,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,Horford,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=282
 ,,,,,,,,,,3,7.57,Atlanta Hawks,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,62-61,26,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=283
 ,,,,,,,,,,3,7.55,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,62-61,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=284
 ,,,,,,,,,,3,7.44,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,3PT Jump Shot,,,62-61,27,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=285
@@ -271,7 +271,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.56,Atlanta Hawks,free throw,,,,,,,2,,2,Teague,1,,foul,made,,,,,66-63,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=304
 ,,,,,,,,,,3,5.45,Milwaukee Bucks,foul,,,,,,,,,,,,,,,,,,,66-63,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=306
 ,,,,,,,,,,3,5.45,Milwaukee Bucks,turnover,,,,,,,,,,Mbah a Moute,,,Foul,,,,,,66-63,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=307
-,,,,,,,,,,3,5.29,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,,,,,66-63,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=308
+,,,,,,,,,,3,5.29,Atlanta Hawks,turnover,,,,,,,,,,Korver,,,Bad Pass,,Ilyasova,,,,66-63,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=308
 ,,,,,,,,,,3,5.18,Milwaukee Bucks,shot,Ellis,,,,,,,,,Jennings,2,,,made,,Driving Layup,,,66-65,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=309
 ,,,,,,,,,,3,5.02,Atlanta Hawks,shot,,,,,,,,,,Teague,,,,missed,,Jump Shot,,,66-65,16,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=310
 ,,,,,,,,,,3,5.01,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,66-65,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=311
@@ -298,7 +298,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.12,Atlanta Hawks,rebound,,,,,,,,,,Pachulia,,,,,,,,,68-70,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=336
 ,,,,,,,,,,3,2.56,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,68-70,19,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=337
 ,,,,,,,,,,3,2.55,Milwaukee Bucks,rebound,,,,,,,,,,Redick,,,,,,,,,68-70,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=338
-,,,,,,,,,,3,2.46,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,,,,,68-70,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=339
+,,,,,,,,,,3,2.46,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,Teague,,,,68-70,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=339
 ,,,,,,,,,,3,2.38,Atlanta Hawks,shot,Teague,,,,,,,,,Korver,3,,,made,,3PT Jump Shot,,,71-70,27,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=340
 ,,,,,,,,,,3,2.38,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,71-70,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=341
 ,,,,,,,,,,3,2.38,Atlanta Hawks,substitute,,,,Harris,,Teague,,,,,,,,,,,,,71-70,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=343
@@ -310,7 +310,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.28,Milwaukee Bucks,free throw,,,,,,,2,,2,Sanders,1,,foul,made,,,,,71-71,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=349
 ,,,,,,,,,,3,2.16,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,3PT Jump Shot,,,71-71,26,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=351
 ,,,,,,,,,,3,2.15,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,71-71,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=352
-,,,,,,,,,,3,2.12,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,71-71,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=353
+,,,,,,,,,,3,2.12,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,Smith,,,,71-71,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=353
 ,,,,,,,,,,3,2.01,Atlanta Hawks,shot,,,,,,,,,,Harris,2,,,made,,Running Bank Shot,,,73-71,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=354
 ,,,,,,,,,,3,1.42,Atlanta Hawks,foul,,,,,,,,,,Korver,,,,,,Shooting,,,73-71,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=355
 ,,,,,,,,,,3,1.42,Milwaukee Bucks,free throw,,,,,,,1,,2,Redick,1,,foul,made,,,,,73-72,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=356
@@ -334,10 +334,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.52,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Step Out of Bounds,,,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=381
 ,,,,,,,,,,4,11.41,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Jump Shot,,,76-80,14,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=382
 ,,,,,,,,,,4,11.40,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=383
-,,,,,,,,,,4,11.23,Milwaukee Bucks,turnover,,,,,,,,,,Henson,,,Bad Pass,,,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=384
+,,,,,,,,,,4,11.23,Milwaukee Bucks,turnover,,,,,,,,,,Henson,,,Bad Pass,,Pachulia,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=384
 ,,,,,,,,,,4,11.13,Atlanta Hawks,shot,,,,,,,,,,Jenkins,,,,missed,,Jump Shot,,,76-80,21,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=385
 ,,,,,,,,,,4,11.12,Milwaukee Bucks,rebound,,,,,,,,,,Dalembert,,,,,,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=386
-,,,,,,,,,,4,11.04,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,Jump Shot,,,76-80,16,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=387
+,,,,,,,,,,4,11.04,Milwaukee Bucks,shot,,,Korver,,,,,,,Dunleavy,,,,missed,,Jump Shot,,,76-80,16,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=387
 ,,,,,,,,,,4,11.02,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=388
 ,,,,,,,,,,4,10.50,Atlanta Hawks,shot,Horford,,,,,,,,,Jenkins,3,,,made,,3PT Jump Shot,,,79-80,24,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=389
 ,,,,,,,,,,4,10.28,Milwaukee Bucks,turnover,,,,,,,,,,Dalembert,,,Traveling,,,,,,79-80,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=390
@@ -353,7 +353,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.24,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Hook Shot,,,79-84,8,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=404
 ,,,,,,,,,,4,9.22,Milwaukee Bucks,rebound,,,,,,,,,,Dalembert,,,,,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=405
 ,,,,,,,,,,4,9.01,Milwaukee Bucks,shot,Henson,,,,,,,,,Dalembert,2,,,made,,Dunk,,,79-86,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=406
-,,,,,,,,,,4,8.46,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=407
+,,,,,,,,,,4,8.46,Atlanta Hawks,turnover,,,,,,,,,,Teague,,,Bad Pass,,Dalembert,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=407
 ,,,,,,,,,,4,8.42,Milwaukee Bucks,shot,,,,,,,,,,Dalembert,,,,missed,,Layup,,,79-86,2,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=408
 ,,,,,,,,,,4,8.39,Milwaukee Bucks,rebound,,,,,,,,,,Dalembert,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=409
 ,,,,,,,,,,4,8.38,Atlanta Hawks,foul,,,,,,,,,,Pachulia,,,,,,Flagrant,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=410
@@ -368,7 +368,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.26,Atlanta Hawks,shot,,,,,,,,,,Harris,2,,,made,,Layup,,,83-91,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=424
 ,,,,,,,,,,4,7.07,Milwaukee Bucks,shot,,,,,,,,,,Henson,,,,missed,,Jump Shot,,,83-91,3,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=425
 ,,,,,,,,,,4,7.06,Atlanta Hawks,rebound,,,,,,,,,,Horford,,,,,,,,,83-91,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=426
-,,,,,,,,,,4,7.00,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,83-91,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=427
+,,,,,,,,,,4,7.00,Atlanta Hawks,shot,,,Henson,,,,,,,Smith,,,,missed,,Layup,,,83-91,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=427
 ,,,,,,,,,,4,6.56,Milwaukee Bucks,rebound,,,,,,,,,,Dalembert,,,,,,,,,83-91,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=428
 ,,,,,,,,,,4,6.54,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,83-91,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=429
 ,,,,,,,,,,4,6.54,Milwaukee Bucks,substitute,,,,Ilyasova,,Henson,,,,,,,,,,,,,83-91,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=431
@@ -377,9 +377,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.16,Milwaukee Bucks,foul,,,,,,,,,,Dalembert,,,,,,Shooting,,,85-93,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=434
 ,,,,,,,,,,4,6.16,Milwaukee Bucks,substitute,,,,Sanders,,Dalembert,,,,,,,,,,,,,85-93,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=435
 ,,,,,,,,,,4,6.16,Atlanta Hawks,free throw,,,,,,,1,,1,Harris,1,,foul,made,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=437
-,,,,,,,,,,4,6.03,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Layup,,,86-93,2,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=439
+,,,,,,,,,,4,6.03,Milwaukee Bucks,shot,,,Horford,,,,,,,Ilyasova,,,,missed,,Layup,,,86-93,2,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=439
 ,,,,,,,,,,4,6.01,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=440
-,,,,,,,,,,4,6.00,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Layup,,,86-93,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=441
+,,,,,,,,,,4,6.00,Milwaukee Bucks,shot,,,Horford,,,,,,,Ilyasova,,,,missed,,Layup,,,86-93,1,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=441
 ,,,,,,,,,,4,5.59,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=442
 ,,,,,,,,,,4,5.52,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,86-93,16,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=443
 ,,,,,,,,,,4,5.51,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,86-93,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=444
@@ -397,7 +397,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.00,Atlanta Hawks,free throw,,,,,,,2,,2,Teague,1,,foul,made,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=457
 ,,,,,,,,,,4,3.41,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Jump Shot,,,93-98,19,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=459
 ,,,,,,,,,,4,3.40,Atlanta Hawks,rebound,,,,,,,,,,Smith,,,,,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=460
-,,,,,,,,,,4,3.36,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=461
+,,,,,,,,,,4,3.36,Atlanta Hawks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Ellis,,,,93-98,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=461
 ,,,,,,,,,,4,3.30,Milwaukee Bucks,shot,,,,,,,,,,Jennings,2,,,made,,Jump Shot,,,93-100,20,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=462
 ,,,,,,,,,,4,3.24,Atlanta Hawks,timeout,,,,,,,,,,,,,,,,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=463
 ,,,,,,,,,,4,3.09,Atlanta Hawks,shot,,,,,,,,,,Smith,,,,missed,,Hook Shot,,,93-100,5,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=465
@@ -417,7 +417,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.07,Atlanta Hawks,rebound,,,,,,,,,,Korver,,,,,,,,,101-100,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=480
 ,,,,,,,,,,4,0.59,Atlanta Hawks,shot,,,,,,,,,,Korver,,,,missed,,3PT Jump Shot,,,101-100,24,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=481
 ,,,,,,,,,,4,0.58,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,101-100,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=482
-,,,,,,,,,,4,0.34,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Lost Ball,,,,,,101-100,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=484
+,,,,,,,,,,4,0.34,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Lost Ball,,Horford,,,,101-100,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=484
 ,,,,,,,,,,4,0.15,Atlanta Hawks,shot,,,,,,,,,,Horford,,,,missed,,Layup,,,101-100,3,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=485
 ,,,,,,,,,,4,0.15,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,101-100,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=486
 ,,,,,,,,,,4,0.15,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,101-100,,http://stats.nba.com/cvp.html?GameID=0021200828&GameEventID=487

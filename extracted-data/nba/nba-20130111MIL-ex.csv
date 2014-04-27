@@ -4,7 +4,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.15,Detroit Pistons,shot,Monroe,,,,,,,,,Knight,2,,,made,,Layup,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=4
 ,,,,,,,,,,1,10.56,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,3PT Jump Shot,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=5
 ,,,,,,,,,,1,10.56,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=6
-,,,,,,,,,,1,10.55,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Bad Pass,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=7
+,,,,,,,,,,1,10.55,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Bad Pass,,Jennings,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=7
 ,,,,,,,,,,1,10.48,Milwaukee Bucks,shot,Ellis,,,,,,,,,Mbah a Moute,2,,,made,,Layup,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=8
 ,,,,,,,,,,1,10.23,Detroit Pistons,shot,Monroe,,,,,,,,,Singler,3,,,made,,3PT Jump Shot,,,5-2,26,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=9
 ,,,,,,,,,,1,10.06,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Jump Shot,,,5-2,9,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=10
@@ -56,9 +56,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.41,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Tip Shot,,,15-13,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=61
 ,,,,,,,,,,1,5.40,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,15-13,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=64
 ,,,,,,,,,,1,5.40,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,2,,,made,,Layup,,,15-15,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=63
-,,,,,,,,,,1,5.14,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Jump Shot,,,15-15,13,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=65
+,,,,,,,,,,1,5.14,Detroit Pistons,shot,,,Sanders,,,,,,,Monroe,,,,missed,,Jump Shot,,,15-15,13,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=65
 ,,,,,,,,,,1,5.12,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=66
-,,,,,,,,,,1,5.09,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Lost Ball,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=67
+,,,,,,,,,,1,5.09,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Lost Ball,,Moute,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=67
 ,,,,,,,,,,1,4.58,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Jump Shot,,,15-15,16,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=68
 ,,,,,,,,,,1,4.57,Detroit Pistons,rebound,,,,,,,,,,Maxiell,,,,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=69
 ,,,,,,,,,,1,4.52,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Layup,,,15-15,3,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=70
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.51,Milwaukee Bucks,foul,,,,,,,,,,Ilyasova,,,,,,Shooting,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=73
 ,,,,,,,,,,1,4.51,Detroit Pistons,free throw,,,,,,,1,,1,Singler,1,,foul,made,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=74
 ,,,,,,,,,,1,4.38,Milwaukee Bucks,shot,,,,,,,,,,Jennings,2,,,made,,Jump Shot,,,18-17,5,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=76
-,,,,,,,,,,1,4.27,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Layup,,,18-17,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=77
+,,,,,,,,,,1,4.27,Detroit Pistons,shot,,,Sanders,,,,,,,Monroe,,,,missed,,Layup,,,18-17,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=77
 ,,,,,,,,,,1,4.24,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,18-17,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=78
 ,,,,,,,,,,1,4.16,Milwaukee Bucks,shot,,,,,,,,,,Ellis,2,,,made,,Layup,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=79
 ,,,,,,,,,,1,4.01,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,18-19,26,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=80
@@ -84,7 +84,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.36,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=91
 ,,,,,,,,,,1,3.31,Milwaukee Bucks,violation,,,,,,,,,,Daniels,,,Kicked Ball,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=92
 ,,,,,,,,,,1,3.25,Milwaukee Bucks,substitute,,,,Udrih,,Jennings,,,,,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=93
-,,,,,,,,,,1,3.16,Detroit Pistons,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,18-19,9,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=94
+,,,,,,,,,,1,3.16,Detroit Pistons,shot,,,Moute,,,,,,,Prince,,,,missed,,Jump Shot,,,18-19,9,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=94
 ,,,,,,,,,,1,3.14,Milwaukee Bucks,rebound,,,,,,,,,,Mbah a Moute,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=95
 ,,,,,,,,,,1,2.58,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Jump Shot,,,18-19,16,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=96
 ,,,,,,,,,,1,2.56,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=97
@@ -109,7 +109,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.04,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,23-20,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=120
 ,,,,,,,,,,1,0.47,Milwaukee Bucks,shot,,,,,,,,,,Daniels,,,,missed,,3PT Jump Shot,,,23-20,25,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=121
 ,,,,,,,,,,1,0.46,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,23-20,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=122
-,,,,,,,,,,1,0.44,Milwaukee Bucks,shot,,,,,,,,,,Henson,,,,missed,,Layup,,,23-20,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=123
+,,,,,,,,,,1,0.44,Milwaukee Bucks,shot,,,Drummond,,,,,,,Henson,,,,missed,,Layup,,,23-20,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=123
 ,,,,,,,,,,1,0.42,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,23-20,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=124
 ,,,,,,,,,,1,0.29,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,3PT Jump Shot,,,23-20,24,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=125
 ,,,,,,,,,,1,0.28,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,23-20,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=126
@@ -121,11 +121,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.46,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Traveling,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=135
 ,,,,,,,,,,2,11.39,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,3PT Jump Shot,,,25-20,26,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=136
 ,,,,,,,,,,2,11.38,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=137
-,,,,,,,,,,2,11.29,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,Jump Shot,,,25-20,3,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=138
+,,,,,,,,,,2,11.29,Detroit Pistons,shot,,,Udoh,,,,,,,Stuckey,,,,missed,,Jump Shot,,,25-20,3,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=138
 ,,,,,,,,,,2,11.27,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=139
 ,,,,,,,,,,2,11.10,Milwaukee Bucks,shot,,,,,,,,,,Udrih,2,,,made,,Jump Shot,,,25-22,13,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=140
 ,,,,,,,,,,2,10.52,Detroit Pistons,shot,,,,,,,,,,Villanueva,2,,,made,,Driving Layup,,,27-22,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=141
-,,,,,,,,,,2,10.36,Milwaukee Bucks,turnover,,,,,,,,,,Udrih,,,Bad Pass,,,,,,27-22,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=142
+,,,,,,,,,,2,10.36,Milwaukee Bucks,turnover,,,,,,,,,,Udrih,,,Bad Pass,,Stuckey,,,,27-22,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=142
 ,,,,,,,,,,2,10.31,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Layup,,,27-22,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=143
 ,,,,,,,,,,2,10.30,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,27-22,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=144
 ,,,,,,,,,,2,10.29,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Backcourt,,,,,,27-22,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=145
@@ -139,17 +139,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.22,Milwaukee Bucks,shot,,,,,,,,,,Udrih,2,,,made,,Driving Layup,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=153
 ,,,,,,,,,,2,9.02,Detroit Pistons,shot,,,,,,,,,,Daye,,,,missed,,3PT Jump Shot,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=154
 ,,,,,,,,,,2,9.01,Milwaukee Bucks,rebound,,,,,,,,,,Udrih,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=155
-,,,,,,,,,,2,8.55,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=156
+,,,,,,,,,,2,8.55,Milwaukee Bucks,turnover,,,,,,,,,,Dunleavy,,,Bad Pass,,Daye,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=156
 ,,,,,,,,,,2,8.45,Detroit Pistons,shot,Daye,,,,,,,,,Villanueva,3,,,made,,3PT Jump Shot,,,30-26,25,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=157
-,,,,,,,,,,2,8.23,Milwaukee Bucks,shot,,,,,,,,,,Daniels,,,,missed,,Layup,,,30-26,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=158
+,,,,,,,,,,2,8.23,Milwaukee Bucks,shot,,,Drummond,,,,,,,Daniels,,,,missed,,Layup,,,30-26,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=158
 ,,,,,,,,,,2,8.21,Detroit Pistons,rebound,,,,,,,,,,Stuckey,,,,,,,,,30-26,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=159
-,,,,,,,,,,2,8.18,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,Layup,,,30-26,2,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=160
+,,,,,,,,,,2,8.18,Detroit Pistons,shot,,,Dunleavy,,,,,,,Stuckey,,,,missed,,Layup,,,30-26,2,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=160
 ,,,,,,,,,,2,8.18,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,30-26,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=162
 ,,,,,,,,,,2,8.18,Milwaukee Bucks,jumpball,,Stuckey,,,Dunleavy,,,,,,,,,,,,,,30-26,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=164
 ,,,,,,,,,,2,7.53,Milwaukee Bucks,shot,,,,,,,,,,Henson,2,,,made,,Fadeaway Jumper,,,30-28,14,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=166
 ,,,,,,,,,,2,7.25,Detroit Pistons,shot,,,,,,,,,,Daye,,,,missed,,3PT Jump Shot,,,30-28,25,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=168
 ,,,,,,,,,,2,7.24,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=169
-,,,,,,,,,,2,7.22,Detroit Pistons,shot,,,,,,,,,,Drummond,,,,missed,,Layup,,,30-28,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=170
+,,,,,,,,,,2,7.22,Detroit Pistons,shot,,,Udoh,,,,,,,Drummond,,,,missed,,Layup,,,30-28,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=170
 ,,,,,,,,,,2,7.20,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=171
 ,,,,,,,,,,2,7.07,Milwaukee Bucks,foul,,,,,,,,,,Henson,,,,,,Shooting,,,30-28,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=172
 ,,,,,,,,,,2,7.07,Detroit Pistons,free throw,,,,,,,1,,2,Bynum,1,,foul,made,,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=173
@@ -202,12 +202,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.46,Detroit Pistons,free throw,,,,,,,1,,2,Singler,1,,foul,made,,,,,34-42,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=225
 ,,,,,,,,,,2,2.46,Detroit Pistons,free throw,,,,,,,2,,2,Singler,1,,foul,made,,,,,35-42,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=227
 ,,,,,,,,,,2,2.35,Milwaukee Bucks,shot,Ellis,,,,,,,,,Ilyasova,2,,,made,,Layup,,,35-44,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=229
-,,,,,,,,,,2,2.15,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,,,,,35-44,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=230
+,,,,,,,,,,2,2.15,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,Ellis,,,,35-44,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=230
 ,,,,,,,,,,2,2.12,Milwaukee Bucks,shot,,,,,,,,,,Jennings,2,,,made,,Dunk,,,35-46,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=231
 ,,,,,,,,,,2,2.05,Milwaukee Bucks,foul,,,,,,,,,,Sanders,,,,,,Personal,,,35-46,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=232
 ,,,,,,,,,,2,2.05,Milwaukee Bucks,substitute,,,,Dalembert,,Sanders,,,,,,,,,,,,,35-46,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=233
 ,,,,,,,,,,2,2.05,Milwaukee Bucks,substitute,,,,Udrih,,Jennings,,,,,,,,,,,,,35-46,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=234
-,,,,,,,,,,2,1.55,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Layup,,,35-46,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=235
+,,,,,,,,,,2,1.55,Detroit Pistons,shot,,,Dalembert,,,,,,,Knight,,,,missed,,Layup,,,35-46,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=235
 ,,,,,,,,,,2,1.53,Milwaukee Bucks,rebound,,,,,,,,,,Mbah a Moute,,,,,,,,,35-46,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=236
 ,,,,,,,,,,2,1.39,Milwaukee Bucks,shot,,,,,,,,,,Mbah a Moute,,,,missed,,Jump Shot,,,35-46,16,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=237
 ,,,,,,,,,,2,1.37,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,35-46,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=238
@@ -219,8 +219,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.48,Detroit Pistons,shot,,,,,,,,,,Prince,2,,,made,,Turnaround Jump Shot,,,39-47,11,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=245
 ,,,,,,,,,,2,0.35,Milwaukee Bucks,shot,Ellis,,,,,,,,,Udrih,2,,,made,,Jump Shot,,,39-49,12,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=246
 ,,,,,,,,,,2,0.29,Detroit Pistons,shot,,,,,,,,,,Knight,2,,,made,,Layup,,,41-49,3,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=247
-,,,,,,,,,,2,0.06,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=248
-,,,,,,,,,,2,0.01,Detroit Pistons,shot,,,,,,,,,,Prince,,,,missed,,Layup,,,41-49,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=249
+,,,,,,,,,,2,0.06,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,Knight,,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=248
+,,,,,,,,,,2,0.01,Detroit Pistons,shot,,,Ilyasova,,,,,,,Prince,,,,missed,,Layup,,,41-49,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=249
 ,,,,,,,,,,2,0.01,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=250
 ,,,,,,,,,,2,0.01,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=251
 ,,,,,,,,,,2,0.01,Detroit Pistons,substitute,,,,Stuckey,,Maxiell,,,,,,,,,,,,,41-49,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=252
@@ -235,7 +235,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.57,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=266
 ,,,,,,,,,,3,10.56,Milwaukee Bucks,rebound,,,,,,,,,,Mbah a Moute,,,,,,,,,43-49,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=267
 ,,,,,,,,,,3,10.42,Milwaukee Bucks,shot,Sanders,,,,,,,,,Mbah a Moute,2,,,made,,Jump Shot,,,43-51,18,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=268
-,,,,,,,,,,3,10.19,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Hook Shot,,,43-51,6,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=269
+,,,,,,,,,,3,10.19,Detroit Pistons,shot,,,Sanders,,,,,,,Monroe,,,,missed,,Hook Shot,,,43-51,6,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=269
 ,,,,,,,,,,3,10.19,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,43-51,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=270
 ,,,,,,,,,,3,10.15,Detroit Pistons,shot,Prince,,,,,,,,,Maxiell,2,,,made,,Jump Shot,,,45-51,17,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=271
 ,,,,,,,,,,3,9.58,Milwaukee Bucks,shot,,,,,,,,,,Mbah a Moute,,,,missed,,Driving Layup,,,45-51,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=272
@@ -274,7 +274,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.08,Milwaukee Bucks,shot,,,,,,,,,,Jennings,,,,missed,,3PT Jump Shot,,,53-54,26,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=308
 ,,,,,,,,,,3,6.08,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=309
 ,,,,,,,,,,3,6.08,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=310
-,,,,,,,,,,3,6.05,Milwaukee Bucks,turnover,,,,,,,,,,Mbah a Moute,,,Bad Pass,,,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=312
+,,,,,,,,,,3,6.05,Milwaukee Bucks,turnover,,,,,,,,,,Mbah a Moute,,,Bad Pass,,Knight,,,,53-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=312
 ,,,,,,,,,,3,6.00,Detroit Pistons,shot,Knight,,,,,,,,,Maxiell,2,,,made,,Layup,,,55-54,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=313
 ,,,,,,,,,,3,5.41,Milwaukee Bucks,shot,,,,,,,,,,Mbah a Moute,,,,missed,,Jump Shot,,,55-54,6,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=314
 ,,,,,,,,,,3,5.40,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,55-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=315
@@ -285,13 +285,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.07,Milwaukee Bucks,substitute,,,,Dunleavy,,Sanders,,,,,,,,,,,,,57-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=320
 ,,,,,,,,,,3,4.51,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,57-54,17,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=321
 ,,,,,,,,,,3,4.50,Milwaukee Bucks,rebound,,,,,,,,,,Ilyasova,,,,,,,,,57-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=322
-,,,,,,,,,,3,4.39,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,,,,,57-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=323
+,,,,,,,,,,3,4.39,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Bad Pass,,Maxiell,,,,57-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=323
 ,,,,,,,,,,3,4.28,Detroit Pistons,shot,Prince,,,,,,,,,Knight,2,,,made,,Layup,,,59-54,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=324
 ,,,,,,,,,,3,4.06,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,3PT Jump Shot,,,59-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=325
 ,,,,,,,,,,3,4.05,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,59-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=326
-,,,,,,,,,,3,3.56,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Layup,,,59-54,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=327
+,,,,,,,,,,3,3.56,Detroit Pistons,shot,,,Ilyasova,,,,,,,Knight,,,,missed,,Layup,,,59-54,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=327
 ,,,,,,,,,,3,3.54,Milwaukee Bucks,rebound,,,,,,,,,,Udoh,,,,,,,,,59-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=328
-,,,,,,,,,,3,3.49,Milwaukee Bucks,shot,,,,,,,,,,Ilyasova,,,,missed,,Layup,,,59-54,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=329
+,,,,,,,,,,3,3.49,Milwaukee Bucks,shot,,,Singler,,,,,,,Ilyasova,,,,missed,,Layup,,,59-54,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=329
 ,,,,,,,,,,3,3.47,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,59-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=330
 ,,,,,,,,,,3,3.40,Detroit Pistons,shot,Knight,,,,,,,,,Monroe,2,,,made,,Layup,,,61-54,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=331
 ,,,,,,,,,,3,3.23,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,3PT Jump Shot,,,61-54,24,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=332
@@ -325,21 +325,21 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.32,Milwaukee Bucks,shot,,,,,,,,,,Henson,2,,,made,,Hook Shot,,,74-60,3,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=365
 ,,,,,,,,,,3,0.16,Detroit Pistons,shot,,,,,,,,,,Prince,,,,missed,,Jump Hook Shot,,,74-60,5,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=366
 ,,,,,,,,,,3,0.15,Milwaukee Bucks,rebound,,,,,,,,,,Henson,,,,,,,,,74-60,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=367
-,,,,,,,,,,3,0.00,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,74-60,14,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=368
+,,,,,,,,,,3,0.00,Milwaukee Bucks,shot,,,Stuckey,,,,,,,Ellis,,,,missed,,Jump Shot,,,74-60,14,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=368
 ,,,,,,,,,,3,0.00,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,74-60,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=369
 ,,,,,,,,,,4,11.49,Milwaukee Bucks,shot,Udrih,,,,,,,,,Gooden,2,,,made,,Running Dunk,,,74-62,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=373
 ,,,,,,,,,,4,11.27,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Hook Shot,,,76-62,5,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=374
 ,,,,,,,,,,4,11.08,Milwaukee Bucks,shot,,,,,,,,,,Udrih,,,,missed,,Jump Shot,,,76-62,19,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=375
 ,,,,,,,,,,4,11.07,Detroit Pistons,rebound,,,,,,,,,,Villanueva,,,,,,,,,76-62,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=376
 ,,,,,,,,,,4,10.58,Detroit Pistons,shot,,,,,,,,,,Knight,3,,,made,,3PT Jump Shot,,,79-62,26,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=377
-,,,,,,,,,,4,10.40,Milwaukee Bucks,turnover,,,,,,,,,,Gooden,,,Bad Pass,,,,,,79-62,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=378
+,,,,,,,,,,4,10.40,Milwaukee Bucks,turnover,,,,,,,,,,Gooden,,,Bad Pass,,Villanueva,,,,79-62,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=378
 ,,,,,,,,,,4,10.22,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Layup,,,81-62,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=379
 ,,,,,,,,,,4,10.06,Milwaukee Bucks,shot,,,,,,,,,,Henson,,,,missed,,Layup,,,81-62,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=380
 ,,,,,,,,,,4,10.05,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,81-62,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=381
 ,,,,,,,,,,4,9.58,Detroit Pistons,shot,Daye,,,,,,,,,Monroe,2,,,made,,Layup,,,83-62,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=382
 ,,,,,,,,,,4,9.57,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,83-62,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=383
 ,,,,,,,,,,4,9.57,Milwaukee Bucks,substitute,,,,Dalembert,,Henson,,,,,,,,,,,,,83-62,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=385
-,,,,,,,,,,4,9.44,Milwaukee Bucks,shot,,,,,,,,,,Dalembert,,,,missed,,Jump Shot,,,83-62,12,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=386
+,,,,,,,,,,4,9.44,Milwaukee Bucks,shot,,,Stuckey,,,,,,,Dalembert,,,,missed,,Jump Shot,,,83-62,12,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=386
 ,,,,,,,,,,4,9.42,Milwaukee Bucks,rebound,,,,,,,,,,Dalembert,,,,,,,,,83-62,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=387
 ,,,,,,,,,,4,9.40,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,2,,,made,,Layup,,,83-64,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=388
 ,,,,,,,,,,4,9.19,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Layup,,,83-64,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=389
@@ -354,14 +354,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.38,Milwaukee Bucks,free throw,,,,,,,2,,2,Jennings,1,,foul,made,,,,,83-66,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=399
 ,,,,,,,,,,4,8.21,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,83-66,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=401
 ,,,,,,,,,,4,8.19,Milwaukee Bucks,rebound,,,,,,,,,,Dalembert,,,,,,,,,83-66,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=402
-,,,,,,,,,,4,8.05,Milwaukee Bucks,shot,,,,,,,,,,Gooden,,,,missed,,Jump Shot,,,83-66,3,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=403
+,,,,,,,,,,4,8.05,Milwaukee Bucks,shot,,,Drummond,,,,,,,Gooden,,,,missed,,Jump Shot,,,83-66,3,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=403
 ,,,,,,,,,,4,8.02,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,83-66,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=404
 ,,,,,,,,,,4,7.54,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,3PT Jump Shot,,,83-66,26,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=405
 ,,,,,,,,,,4,7.53,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,83-66,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=406
 ,,,,,,,,,,4,7.45,Milwaukee Bucks,shot,Gooden,,,,,,,,,Udrih,2,,,made,,Layup,,,83-68,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=407
 ,,,,,,,,,,4,7.21,Detroit Pistons,shot,,,,,,,,,,Stuckey,2,,,made,,Turnaround Jump Shot,,,85-68,10,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=408
 ,,,,,,,,,,4,7.11,Milwaukee Bucks,shot,Udrih,,,,,,,,,Gooden,2,,,made,,Jump Shot,,,85-70,12,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=409
-,,,,,,,,,,4,6.44,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,85-70,5,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=410
+,,,,,,,,,,4,6.44,Detroit Pistons,shot,,,Dalembert,,,,,,,Knight,,,,missed,,Jump Shot,,,85-70,5,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=410
 ,,,,,,,,,,4,6.43,Detroit Pistons,rebound,,,,,,,,,,Stuckey,,,,,,,,,85-70,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=411
 ,,,,,,,,,,4,6.43,Milwaukee Bucks,foul,,,,,,,,,,Udrih,,,,,,Shooting,,,85-70,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=412
 ,,,,,,,,,,4,6.43,Detroit Pistons,free throw,,,,,,,1,,3,Stuckey,1,,foul,made,,,,,86-70,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=413
@@ -371,7 +371,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.43,Detroit Pistons,free throw,,,,,,,3,,3,Stuckey,1,,foul,made,,,,,87-70,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=418
 ,,,,,,,,,,4,6.24,Milwaukee Bucks,shot,,,,,,,,,,Gooden,,,,missed,,Layup,,,87-70,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=420
 ,,,,,,,,,,4,6.19,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,87-70,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=421
-,,,,,,,,,,4,6.16,Detroit Pistons,turnover,,,,,,,,,,Drummond,,,Bad Pass,,,,,,87-70,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=422
+,,,,,,,,,,4,6.16,Detroit Pistons,turnover,,,,,,,,,,Drummond,,,Bad Pass,,Jennings,,,,87-70,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=422
 ,,,,,,,,,,4,6.13,Milwaukee Bucks,shot,,,,,,,,,,Jennings,2,,,made,,Layup,,,87-72,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=423
 ,,,,,,,,,,4,6.02,Detroit Pistons,shot,,,,,,,,,,Daye,,,,missed,,3PT Jump Shot,,,87-72,26,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=424
 ,,,,,,,,,,4,6.01,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,87-72,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=425
@@ -409,7 +409,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.29,Milwaukee Bucks,foul,,,,,,,,,,Harris,,,,,,Shooting,,,96-80,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=464
 ,,,,,,,,,,4,3.29,Detroit Pistons,free throw,,,,,,,1,,2,Daye,1,,foul,made,,,,,97-80,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=465
 ,,,,,,,,,,4,3.29,Detroit Pistons,free throw,,,,,,,2,,2,Daye,1,,foul,made,,,,,98-80,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=467
-,,,,,,,,,,4,3.08,Milwaukee Bucks,turnover,,,,,,,,,,Harris,,,Lost Ball,,,,,,98-80,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=469
+,,,,,,,,,,4,3.08,Milwaukee Bucks,turnover,,,,,,,,,,Harris,,,Lost Ball,,Drummond,,,,98-80,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=469
 ,,,,,,,,,,4,2.46,Detroit Pistons,shot,Drummond,,,,,,,,,Stuckey,3,,,made,,3PT Jump Shot,,,101-80,27,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=470
 ,,,,,,,,,,4,2.36,Milwaukee Bucks,foul,,,,,,,,,,,,,,,,,,,101-80,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=471
 ,,,,,,,,,,4,2.36,Milwaukee Bucks,turnover,,,,,,,,,,Dalembert,,,Foul,,,,,,101-80,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=472
@@ -426,25 +426,25 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.46,Milwaukee Bucks,turnover,,,,,,,,,,Udrih,,,Bad Pass,,,,,,101-82,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=486
 ,,,,,,,,,,4,1.32,Detroit Pistons,shot,,,,,,,,,,English,,,,missed,,Jump Shot,,,101-82,19,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=487
 ,,,,,,,,,,4,1.31,Milwaukee Bucks,rebound,,,,,,,,,,Dalembert,,,,,,,,,101-82,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=488
-,,,,,,,,,,4,1.25,Milwaukee Bucks,shot,,,,,,,,,,Harris,,,,missed,,Layup,,,101-82,2,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=489
+,,,,,,,,,,4,1.25,Milwaukee Bucks,shot,,,Drummond,,,,,,,Harris,,,,missed,,Layup,,,101-82,2,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=489
 ,,,,,,,,,,4,1.22,Milwaukee Bucks,rebound,,,,,,,,,,Harris,,,,,,,,,101-82,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=490
-,,,,,,,,,,4,1.22,Milwaukee Bucks,shot,,,,,,,,,,Harris,,,,missed,,Layup,,,101-82,2,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=491
+,,,,,,,,,,4,1.22,Milwaukee Bucks,shot,,,Villanueva,,,,,,,Harris,,,,missed,,Layup,,,101-82,2,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=491
 ,,,,,,,,,,4,1.22,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,101-82,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=492
 ,,,,,,,,,,4,1.18,Milwaukee Bucks,shot,,,,,,,,,,Gooden,,,,missed,,3PT Jump Shot,,,101-82,26,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=493
 ,,,,,,,,,,4,1.16,Detroit Pistons,rebound,,,,,,,,,,Daye,,,,,,,,,101-82,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=494
-,,,,,,,,,,4,1.03,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Lost Ball,,,,,,101-82,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=495
+,,,,,,,,,,4,1.03,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Lost Ball,,Harris,,,,101-82,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=495
 ,,,,,,,,,,4,1.00,Milwaukee Bucks,shot,Harris,,,,,,,,,Gooden,2,,,made,,Dunk,,,101-84,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=496
-,,,,,,,,,,4,0.50,Detroit Pistons,shot,,,,,,,,,,English,,,,missed,,Layup,,,101-84,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=497
+,,,,,,,,,,4,0.50,Detroit Pistons,shot,,,Dalembert,,,,,,,English,,,,missed,,Layup,,,101-84,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=497
 ,,,,,,,,,,4,0.49,Milwaukee Bucks,rebound,,,,,,,,,,Dalembert,,,,,,,,,101-84,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=498
 ,,,,,,,,,,4,0.49,Detroit Pistons,foul,,,,,,,,,,English,,,,,,Personal,,,101-84,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=499
 ,,,,,,,,,,4,0.49,Milwaukee Bucks,free throw,,,,,,,1,,2,Dalembert,,,foul,missed,,,,,101-84,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=500
 ,,,,,,,,,,4,0.49,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,101-84,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=501
 ,,,,,,,,,,4,0.49,Milwaukee Bucks,free throw,,,,,,,2,,2,Dalembert,1,,foul,made,,,,,101-85,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=502
 ,,,,,,,,,,4,0.36,Detroit Pistons,shot,Bynum,,,,,,,,,Drummond,2,,,made,,Alley Oop Dunk,,,103-85,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=504
-,,,,,,,,,,4,0.25,Milwaukee Bucks,turnover,,,,,,,,,,Harris,,,Lost Ball,,,,,,103-85,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=505
+,,,,,,,,,,4,0.25,Milwaukee Bucks,turnover,,,,,,,,,,Harris,,,Lost Ball,,Daye,,,,103-85,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=505
 ,,,,,,,,,,4,0.21,Detroit Pistons,shot,,,,,,,,,,Drummond,,,,missed,,Dunk,,,103-85,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=506
 ,,,,,,,,,,4,0.18,Detroit Pistons,rebound,,,,,,,,,,English,,,,,,,,,103-85,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=507
-,,,,,,,,,,4,0.12,Detroit Pistons,turnover,,,,,,,,,,English,,,Bad Pass,,,,,,103-85,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=508
+,,,,,,,,,,4,0.12,Detroit Pistons,turnover,,,,,,,,,,English,,,Bad Pass,,Daniels,,,,103-85,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=508
 ,,,,,,,,,,4,0.08,Milwaukee Bucks,shot,,,,,,,,,,Gooden,,,,missed,,Layup,,,103-85,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=509
 ,,,,,,,,,,4,0.08,Milwaukee Bucks,rebound,,,,,,,,,,Dalembert,,,,,,,,,103-85,,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=511
 ,,,,,,,,,,4,0.08,Milwaukee Bucks,shot,,,,,,,,,,Dalembert,2,,,made,,Dunk,,,103-87,1,http://stats.nba.com/cvp.html?GameID=0021200537&GameEventID=510

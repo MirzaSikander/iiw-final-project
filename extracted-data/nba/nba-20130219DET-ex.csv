@@ -4,7 +4,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.27,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=4
 ,,,,,,,,,,1,11.17,Detroit Pistons,shot,,,,,,,,,,Calderon,,,,missed,,Jump Shot,,,0-2,19,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=5
 ,,,,,,,,,,1,11.16,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=6
-,,,,,,,,,,1,11.11,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=7
+,,,,,,,,,,1,11.11,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,Calderon,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=7
 ,,,,,,,,,,1,11.11,Memphis Grizzlies,foul,,,,,,,,,,Conley,,,,,,Personal,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=8
 ,,,,,,,,,,1,10.56,Detroit Pistons,shot,,,,,,,,,,Maxiell,,,,missed,,Jump Shot,,,0-2,8,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=9
 ,,,,,,,,,,1,10.55,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=10
@@ -19,7 +19,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.13,Detroit Pistons,shot,,,,,,,,,,Maxiell,,,,missed,,Jump Shot,,,2-7,11,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=19
 ,,,,,,,,,,1,9.12,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,2-7,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=20
 ,,,,,,,,,,1,9.11,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Layup,,,2-9,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=21
-,,,,,,,,,,1,8.48,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,2-9,5,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=22
+,,,,,,,,,,1,8.48,Memphis Grizzlies,shot,,,Monroe,,,,,,,Prince,,,,missed,,Jump Shot,,,2-9,5,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=22
 ,,,,,,,,,,1,8.46,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,2-9,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=23
 ,,,,,,,,,,1,8.43,Memphis Grizzlies,shot,,,,,,,,,,Prince,2,,,made,,Jump Shot,,,4-9,7,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=24
 ,,,,,,,,,,1,8.22,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Hook Shot,,,4-9,9,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=25
@@ -38,7 +38,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.15,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,8-16,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=40
 ,,,,,,,,,,1,6.15,Memphis Grizzlies,foul,,,,,,,,,,Allen,,,,,,Offensive Charge,,,8-16,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=41
 ,,,,,,,,,,1,6.15,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Foul,,,,,,8-16,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=42
-,,,,,,,,,,1,6.09,Detroit Pistons,turnover,,,,,,,,,,Calderon,,,Bad Pass,,,,,,8-16,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=43
+,,,,,,,,,,1,6.09,Detroit Pistons,turnover,,,,,,,,,,Calderon,,,Bad Pass,,Allen,,,,8-16,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=43
 ,,,,,,,,,,1,6.07,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Layup,,,10-16,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=44
 ,,,,,,,,,,1,5.50,Detroit Pistons,shot,,,,,,,,,,Calderon,2,,,made,,Pullup Jump Shot,,,10-18,19,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=45
 ,,,,,,,,,,1,5.28,Detroit Pistons,foul,,,,,,,,,,Singler,,,,,,Personal,,,10-18,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=46
@@ -53,7 +53,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.34,Detroit Pistons,shot,,,,,,,,,,Calderon,2,,,made,,Pullup Jump Shot,,,12-20,20,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=55
 ,,,,,,,,,,1,4.18,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Layup,,,12-20,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=56
 ,,,,,,,,,,1,4.17,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,12-20,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=57
-,,,,,,,,,,1,4.05,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,Layup,,,12-20,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=58
+,,,,,,,,,,1,4.05,Detroit Pistons,shot,,,Prince,,,,,,,Singler,,,,missed,,Layup,,,12-20,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=58
 ,,,,,,,,,,1,4.03,Detroit Pistons,rebound,,,,,,,,,,Maxiell,,,,,,,,,12-20,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=59
 ,,,,,,,,,,1,3.59,Detroit Pistons,shot,,,,,,,,,,Maxiell,2,,,made,,Layup,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=60
 ,,,,,,,,,,1,3.44,Memphis Grizzlies,shot,Gasol,,,,,,,,,Bayless,2,,,made,,Jump Shot,,,14-22,18,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=61
@@ -73,12 +73,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.55,Memphis Grizzlies,substitute,,,,Daye,,Prince,,,,,,,,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=75
 ,,,,,,,,,,1,1.55,Detroit Pistons,substitute,,,,Villanueva,,Maxiell,,,,,,,,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=77
 ,,,,,,,,,,1,1.55,Detroit Pistons,substitute,,,,Stuckey,,Singler,,,,,,,,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=78
-,,,,,,,,,,1,1.55,Memphis Grizzlies,turnover,,,,,,,,,,Arthur,,,Lost Ball,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=80
+,,,,,,,,,,1,1.55,Memphis Grizzlies,turnover,,,,,,,,,,Arthur,,,Lost Ball,,Monroe,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=80
 ,,,,,,,,,,1,1.55,Detroit Pistons,jumpball,,Arthur,,,Monroe,,,,,,,,,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=79
 ,,,,,,,,,,1,1.36,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,3PT Jump Shot,,,16-25,27,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=81
 ,,,,,,,,,,1,1.35,Memphis Grizzlies,rebound,,,,,,,,,,Daye,,,,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=82
 ,,,,,,,,,,1,1.26,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=83
-,,,,,,,,,,1,1.14,Detroit Pistons,turnover,,,,,,,,,,Calderon,,,Lost Ball,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=84
+,,,,,,,,,,1,1.14,Detroit Pistons,turnover,,,,,,,,,,Calderon,,,Lost Ball,,Bayless,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=84
 ,,,,,,,,,,1,1.09,Memphis Grizzlies,shot,Conley,,,,,,,,,Daye,2,,,made,,Dunk,,,18-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=85
 ,,,,,,,,,,1,0.49,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,Hook Shot,,,18-25,10,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=86
 ,,,,,,,,,,1,0.49,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,18-25,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=87
@@ -90,7 +90,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.06,Detroit Pistons,foul,,,,,,,,,,Calderon,,,,,,Personal,,,20-30,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=93
 ,,,,,,,,,,1,0.06,Detroit Pistons,substitute,,,,Bynum,,Calderon,,,,,,,,,,,,,20-30,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=94
 ,,,,,,,,,,1,0.00,Memphis Grizzlies,shot,,,,,,,,,,Conley,2,,,made,,Driving Layup,,,22-30,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=95
-,,,,,,,,,,2,11.39,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Bad Pass,,,,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=99
+,,,,,,,,,,2,11.39,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Bad Pass,,Villanueva,,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=99
 ,,,,,,,,,,2,11.28,Memphis Grizzlies,foul,,,,,,,,,,Arthur,,,,,,Shooting,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=100
 ,,,,,,,,,,2,11.28,Detroit Pistons,free throw,,,,,,,1,,2,Stuckey,1,,foul,made,,,,,22-31,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=101
 ,,,,,,,,,,2,11.28,Memphis Grizzlies,substitute,,,,Allen,,Daye,,,,,,,,,,,,,22-31,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=103
@@ -106,10 +106,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.53,Memphis Grizzlies,shot,Randolph,,,,,,,,,Allen,2,,,made,,Dunk,,,26-32,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=114
 ,,,,,,,,,,2,10.34,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,26-32,20,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=115
 ,,,,,,,,,,2,10.33,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=116
-,,,,,,,,,,2,10.25,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Jump Shot,,,26-32,7,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=117
+,,,,,,,,,,2,10.25,Memphis Grizzlies,shot,,,Villanueva,,,,,,,Arthur,,,,missed,,Jump Shot,,,26-32,7,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=117
 ,,,,,,,,,,2,10.25,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=118
 ,,,,,,,,,,2,10.25,Detroit Pistons,substitute,,,,Kravtsov,,Monroe,,,,,,,,,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=119
-,,,,,,,,,,2,10.16,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Layup,,,26-32,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=120
+,,,,,,,,,,2,10.16,Memphis Grizzlies,shot,,,Kravtsov,,,,,,,Bayless,,,,missed,,Layup,,,26-32,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=120
 ,,,,,,,,,,2,10.15,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=121
 ,,,,,,,,,,2,10.11,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Tip Shot,,,28-32,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=122
 ,,,,,,,,,,2,10.07,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,28-32,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=123
@@ -123,9 +123,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.58,Detroit Pistons,rebound,,,,,,,,,,Villanueva,,,,,,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=133
 ,,,,,,,,,,2,8.43,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,3PT Jump Shot,,,28-36,27,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=134
 ,,,,,,,,,,2,8.42,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=135
-,,,,,,,,,,2,8.36,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Layup,,,28-36,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=136
+,,,,,,,,,,2,8.36,Memphis Grizzlies,shot,,,Villanueva,,,,,,,Pondexter,,,,missed,,Layup,,,28-36,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=136
 ,,,,,,,,,,2,8.34,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=137
-,,,,,,,,,,2,8.30,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=138
+,,,,,,,,,,2,8.30,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,Bayless,,,,28-36,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=138
 ,,,,,,,,,,2,8.26,Memphis Grizzlies,shot,Bayless,,,,,,,,,Arthur,2,,,made,,Dunk,,,30-36,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=139
 ,,,,,,,,,,2,8.26,Memphis Grizzlies,violation,,,,,,,,,,Grizzlies,,, Delay of game Violation,,,,,,30-36,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=140
 ,,,,,,,,,,2,8.26,Detroit Pistons,free throw,,,,,,,,,,Bynum,1,,Technical,made,,,,,30-37,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=143
@@ -133,7 +133,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.26,Memphis Grizzlies,substitute,,,,Davis,,Randolph,,,,,,,,,,,,,30-37,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=146
 ,,,,,,,,,,2,8.08,Detroit Pistons,shot,,,,,,,,,,Singler,2,,,made,,Running Jump Shot,,,30-39,11,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=147
 ,,,,,,,,,,2,7.53,Memphis Grizzlies,shot,Gasol,,,,,,,,,Bayless,2,,,made,,Jump Shot,,,32-39,18,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=148
-,,,,,,,,,,2,7.44,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,,,,,32-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=149
+,,,,,,,,,,2,7.44,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,Pondexter,,,,32-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=149
 ,,,,,,,,,,2,7.44,Detroit Pistons,foul,,,,,,,,,,Singler,,,,,,Loose ball,,,32-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=150
 ,,,,,,,,,,2,7.44,Memphis Grizzlies,foul,,,,,,,,,,Pondexter,,,,,,Technical,,,32-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=151
 ,,,,,,,,,,2,7.44,Detroit Pistons,free throw,,,,,,,,,,Bynum,,,Technical,missed,,,,,32-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=152
@@ -142,7 +142,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.00,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,3PT Jump Shot,,,34-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=155
 ,,,,,,,,,,2,6.58,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,34-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=156
 ,,,,,,,,,,2,6.51,Memphis Grizzlies,shot,Allen,,,,,,,,,Pondexter,3,,,made,,3PT Jump Shot,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=157
-,,,,,,,,,,2,6.27,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Jump Shot,,,37-39,20,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=158
+,,,,,,,,,,2,6.27,Detroit Pistons,shot,,,Davis,,,,,,,Bynum,,,,missed,,Jump Shot,,,37-39,20,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=158
 ,,,,,,,,,,2,6.24,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=159
 ,,,,,,,,,,2,6.22,Detroit Pistons,foul,,,,,,,,,,Stuckey,,,,,,Personal,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=160
 ,,,,,,,,,,2,6.22,Detroit Pistons,foul,,,,,,,,,,Bynum,,,,,,Technical,,,37-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=161
@@ -152,7 +152,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.22,Detroit Pistons,substitute,,,,Maxiell,,Villanueva,,,,,,,,,,,,,38-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=166
 ,,,,,,,,,,2,6.22,Memphis Grizzlies,substitute,,,,Conley,,Bayless,,,,,,,,,,,,,38-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=170
 ,,,,,,,,,,2,6.22,Memphis Grizzlies,free throw,,,,,,,2,,2,Davis,1,,foul,made,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=167
-,,,,,,,,,,2,6.04,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=171
+,,,,,,,,,,2,6.04,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,Pondexter,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=171
 ,,,,,,,,,,2,6.01,Detroit Pistons,foul,,,,,,,,,,Bynum,,,,,,Personal,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=172
 ,,,,,,,,,,2,5.44,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,39-39,18,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=173
 ,,,,,,,,,,2,5.43,Detroit Pistons,rebound,,,,,,,,,,Kravtsov,,,,,,,,,39-39,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=174
@@ -179,13 +179,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.53,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,43-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=197
 ,,,,,,,,,,2,2.47,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Jump Shot,,,43-42,7,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=198
 ,,,,,,,,,,2,2.46,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,43-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=199
-,,,,,,,,,,2,2.40,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,,,,,43-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=200
+,,,,,,,,,,2,2.40,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,Pondexter,,,,43-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=200
 ,,,,,,,,,,2,2.36,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,43-42,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=201
 ,,,,,,,,,,2,2.35,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,43-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=209
 ,,,,,,,,,,2,2.34,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Tip Shot,,,43-42,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=210
 ,,,,,,,,,,2,2.33,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,43-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=202
 ,,,,,,,,,,2,2.31,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,2,,,made,,Tip Shot,,,45-42,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=203
-,,,,,,,,,,2,2.15,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,,,,,45-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=204
+,,,,,,,,,,2,2.15,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,Gasol,,,,45-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=204
 ,,,,,,,,,,2,2.08,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Layup,,,45-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=205
 ,,,,,,,,,,2,2.07,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,45-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=206
 ,,,,,,,,,,2,2.07,Memphis Grizzlies,foul,,,,,,,,,,Prince,,,,,,Loose ball,,,45-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=207
@@ -209,7 +209,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.48,Detroit Pistons,foul,,,,,,,,,,Maxiell,,,,,,Loose ball,,,49-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=230
 ,,,,,,,,,,2,0.48,Memphis Grizzlies,free throw,,,,,,,1,,2,Randolph,1,,foul,made,,,,,50-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=231
 ,,,,,,,,,,2,0.48,Memphis Grizzlies,free throw,,,,,,,2,,2,Randolph,1,,foul,made,,,,,51-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=233
-,,,,,,,,,,2,0.36,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Bad Pass,,,,,,51-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=235
+,,,,,,,,,,2,0.36,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Bad Pass,,Bayless,,,,51-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=235
 ,,,,,,,,,,2,0.35,Memphis Grizzlies,shot,,,,,,,,,,Bayless,2,,,made,,Dunk,,,53-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=236
 ,,,,,,,,,,2,0.19,Detroit Pistons,shot,,,,,,,,,,Maxiell,,,,missed,,Hook Shot,,,53-42,6,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=237
 ,,,,,,,,,,2,0.17,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,53-42,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=238
@@ -233,14 +233,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.13,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Layup,,,61-47,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=260
 ,,,,,,,,,,3,8.59,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Layup,,,61-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=261
 ,,,,,,,,,,3,8.58,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,61-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=262
-,,,,,,,,,,3,8.56,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,,,,,61-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=263
+,,,,,,,,,,3,8.56,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,Conley,,,,61-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=263
 ,,,,,,,,,,3,8.52,Memphis Grizzlies,shot,Conley,,,,,,,,,Prince,2,,,made,,Dunk,,,63-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=264
-,,,,,,,,,,3,8.28,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Lost Ball,,,,,,63-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=265
+,,,,,,,,,,3,8.28,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Lost Ball,,Gasol,,,,63-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=265
 ,,,,,,,,,,3,8.23,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Layup,,,63-47,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=266
 ,,,,,,,,,,3,8.20,Detroit Pistons,rebound,,,,,,,,,,Maxiell,,,,,,,,,63-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=267
-,,,,,,,,,,3,8.11,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Jump Shot,,,63-47,5,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=268
+,,,,,,,,,,3,8.11,Detroit Pistons,shot,,,Allen,,,,,,,Monroe,,,,missed,,Jump Shot,,,63-47,5,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=268
 ,,,,,,,,,,3,8.09,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,63-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=269
-,,,,,,,,,,3,8.08,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Lost Ball,,,,,,63-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=270
+,,,,,,,,,,3,8.08,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Lost Ball,,Prince,,,,63-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=270
 ,,,,,,,,,,3,8.03,Memphis Grizzlies,shot,Randolph,,,,,,,,,Conley,2,,,made,,Layup,,,65-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=271
 ,,,,,,,,,,3,8.02,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,65-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=272
 ,,,,,,,,,,3,8.02,Detroit Pistons,substitute,,,,Stuckey,,Singler,,,,,,,,,,,,,65-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=273
@@ -249,14 +249,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.52,Memphis Grizzlies,foul,,,,,,,,,,Gasol,,,,,,Personal,,,65-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=276
 ,,,,,,,,,,3,7.41,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,3PT Jump Shot,,,65-47,26,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=277
 ,,,,,,,,,,3,7.40,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,65-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=278
-,,,,,,,,,,3,7.34,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,65-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=279
+,,,,,,,,,,3,7.34,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,Villanueva,,,,65-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=279
 ,,,,,,,,,,3,7.32,Memphis Grizzlies,foul,,,,,,,,,,Allen,,,,,,Personal,,,65-47,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=280
 ,,,,,,,,,,3,7.17,Detroit Pistons,shot,Stuckey,,,,,,,,,Bynum,2,,,made,,Driving Layup,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=281
 ,,,,,,,,,,3,6.56,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,3PT Jump Shot,,,65-49,24,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=282
 ,,,,,,,,,,3,6.55,Detroit Pistons,rebound,,,,,,,,,,Stuckey,,,,,,,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=283
 ,,,,,,,,,,3,6.45,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Layup,,,65-49,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=284
 ,,,,,,,,,,3,6.43,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=285
-,,,,,,,,,,3,6.30,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Lost Ball,,,,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=286
+,,,,,,,,,,3,6.30,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Lost Ball,,Knight,,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=286
 ,,,,,,,,,,3,6.30,Memphis Grizzlies,foul,,,,,,,,,,Allen,,,,,,Personal,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=287
 ,,,,,,,,,,3,6.30,Memphis Grizzlies,substitute,,,,Pondexter,,Allen,,,,,,,,,,,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=288
 ,,,,,,,,,,3,6.20,Memphis Grizzlies,foul,,,,,,,,,,Gasol,,,,,,Shooting,,,65-49,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=289
@@ -282,12 +282,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.29,Memphis Grizzlies,shot,Bayless,,,,,,,,,Randolph,2,,,made,,Fadeaway Jumper,,,73-51,15,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=311
 ,,,,,,,,,,3,4.13,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Layup,,,73-51,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=313
 ,,,,,,,,,,3,4.13,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,73-51,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=314
-,,,,,,,,,,3,4.09,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,Hook Shot,,,73-51,8,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=315
+,,,,,,,,,,3,4.09,Detroit Pistons,shot,,,Davis,,,,,,,Villanueva,,,,missed,,Hook Shot,,,73-51,8,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=315
 ,,,,,,,,,,3,4.08,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,73-51,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=316
 ,,,,,,,,,,3,4.00,Memphis Grizzlies,shot,Bayless,,,,,,,,,Conley,3,,,made,,3PT Jump Shot,,,76-51,25,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=317
 ,,,,,,,,,,3,4.00,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,76-51,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=318
 ,,,,,,,,,,3,4.00,Detroit Pistons,substitute,,,,English,,Knight,,,,,,,,,,,,,76-51,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=320
-,,,,,,,,,,3,3.50,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Lost Ball,,,,,,76-51,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=321
+,,,,,,,,,,3,3.50,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Lost Ball,,Conley,,,,76-51,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=321
 ,,,,,,,,,,3,3.47,Memphis Grizzlies,shot,Conley,,,,,,,,,Davis,2,,,made,,Dunk,,,78-51,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=322
 ,,,,,,,,,,3,3.18,Detroit Pistons,shot,,,,,,,,,,Stuckey,2,,,made,,Driving Layup,,,78-53,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=324
 ,,,,,,,,,,3,2.56,Detroit Pistons,foul,,,,,,,,,,English,,,,,,Shooting,,,78-53,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=325
@@ -314,9 +314,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.13,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,84-60,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=348
 ,,,,,,,,,,3,0.02,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Jump Shot,,,84-60,19,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=349
 ,,,,,,,,,,3,0.00,Memphis Grizzlies,rebound,,,,,,,,,,Davis,,,,,,,,,84-60,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=350
-,,,,,,,,,,4,11.42,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,Jump Shot,,,84-60,7,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=354
+,,,,,,,,,,4,11.42,Detroit Pistons,shot,,,Pondexter,,,,,,,Stuckey,,,,missed,,Jump Shot,,,84-60,7,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=354
 ,,,,,,,,,,4,11.42,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,84-60,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=355
-,,,,,,,,,,4,11.36,Detroit Pistons,shot,,,,,,,,,,Calderon,,,,missed,,Jump Shot,,,84-60,19,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=356
+,,,,,,,,,,4,11.36,Detroit Pistons,shot,,,Davis,,,,,,,Calderon,,,,missed,,Jump Shot,,,84-60,19,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=356
 ,,,,,,,,,,4,11.34,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,84-60,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=357
 ,,,,,,,,,,4,11.24,Detroit Pistons,foul,,,,,,,,,,Stuckey,,,,,,Shooting,,,84-60,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=358
 ,,,,,,,,,,4,11.24,Memphis Grizzlies,free throw,,,,,,,1,,2,Davis,,,foul,missed,,,,,84-60,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=359
@@ -342,7 +342,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.54,Detroit Pistons,substitute,,,,Middleton,,Stuckey,,,,,,,,,,,,,88-64,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=381
 ,,,,,,,,,,4,8.54,Memphis Grizzlies,substitute,,,,Gasol,,Arthur,,,,,,,,,,,,,88-64,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=382
 ,,,,,,,,,,4,8.47,Memphis Grizzlies,shot,Gasol,,,,,,,,,Davis,2,,,made,,Dunk,,,90-64,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=383
-,,,,,,,,,,4,8.25,Detroit Pistons,shot,,,,,,,,,,Kravtsov,,,,missed,,Layup,,,90-64,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=384
+,,,,,,,,,,4,8.25,Detroit Pistons,shot,,,Davis,,,,,,,Kravtsov,,,,missed,,Layup,,,90-64,1,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=384
 ,,,,,,,,,,4,8.23,Memphis Grizzlies,rebound,,,,,,,,,,Daye,,,,,,,,,90-64,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=385
 ,,,,,,,,,,4,8.20,Detroit Pistons,foul,,,,,,,,,,English,,,,,,Shooting,,,90-64,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=386
 ,,,,,,,,,,4,8.20,Memphis Grizzlies,free throw,,,,,,,1,,2,Daye,,,foul,missed,,,,,90-64,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=387
@@ -354,16 +354,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.39,Detroit Pistons,rebound,,,,,,,,,,English,,,,,,,,,90-66,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=394
 ,,,,,,,,,,4,7.35,Detroit Pistons,shot,English,,,,,,,,,Jerebko,2,,,made,,Layup,,,90-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=395
 ,,,,,,,,,,4,7.03,Memphis Grizzlies,shot,Davis,,,,,,,,,Daye,2,,,made,,Jump Shot,,,92-68,20,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=396
-,,,,,,,,,,4,6.52,Detroit Pistons,turnover,,,,,,,,,,Calderon,,,Bad Pass,,,,,,92-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=397
+,,,,,,,,,,4,6.52,Detroit Pistons,turnover,,,,,,,,,,Calderon,,,Bad Pass,,Davis,,,,92-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=397
 ,,,,,,,,,,4,6.48,Memphis Grizzlies,shot,Bayless,,,,,,,,,Pondexter,2,,,made,,Layup,,,94-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=398
-,,,,,,,,,,4,6.32,Detroit Pistons,turnover,,,,,,,,,,Jerebko,,,Bad Pass,,,,,,94-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=399
+,,,,,,,,,,4,6.32,Detroit Pistons,turnover,,,,,,,,,,Jerebko,,,Bad Pass,,Daye,,,,94-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=399
 ,,,,,,,,,,4,6.29,Memphis Grizzlies,shot,Daye,,,,,,,,,Davis,2,,,made,,Dunk,,,96-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=400
 ,,,,,,,,,,4,6.29,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,96-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=401
 ,,,,,,,,,,4,6.29,Detroit Pistons,substitute,,,,Bynum,,Calderon,,,,,,,,,,,,,96-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=403
 ,,,,,,,,,,4,6.29,Memphis Grizzlies,substitute,,,,Wroten,,Pondexter,,,,,,,,,,,,,96-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=404
 ,,,,,,,,,,4,6.17,Memphis Grizzlies,foul,,,,,,,,,,Daye,,,,,,Personal,,,96-68,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=405
 ,,,,,,,,,,4,6.06,Detroit Pistons,shot,English,,,,,,,,,Jerebko,3,,,made,,3PT Jump Shot,,,96-71,27,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=406
-,,,,,,,,,,4,5.51,Memphis Grizzlies,turnover,,,,,,,,,,Wroten,,,Bad Pass,,,,,,96-71,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=407
+,,,,,,,,,,4,5.51,Memphis Grizzlies,turnover,,,,,,,,,,Wroten,,,Bad Pass,,Bynum,,,,96-71,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=407
 ,,,,,,,,,,4,5.48,Detroit Pistons,shot,,,,,,,,,,Bynum,2,,,made,,Layup,,,96-73,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=408
 ,,,,,,,,,,4,5.45,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,96-73,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=409
 ,,,,,,,,,,4,5.23,Memphis Grizzlies,shot,Daye,,,,,,,,,Davis,2,,,made,,Jump Shot,,,98-73,17,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=410
@@ -401,7 +401,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.09,Memphis Grizzlies,foul,,,,,,,,,,Leuer,,,,,,Shooting,,,104-89,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=443
 ,,,,,,,,,,4,1.09,Detroit Pistons,free throw,,,,,,,1,,1,Kravtsov,,,foul,missed,,,,,104-89,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=444
 ,,,,,,,,,,4,1.06,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,104-89,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=445
-,,,,,,,,,,4,0.50,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,,,,,104-89,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=446
+,,,,,,,,,,4,0.50,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,Bynum,,,,104-89,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=446
 ,,,,,,,,,,4,0.47,Detroit Pistons,shot,Jerebko,,,,,,,,,English,2,,,made,,Dunk,,,104-91,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=447
 ,,,,,,,,,,4,0.31,Detroit Pistons,foul,,,,,,,,,,Kravtsov,,,,,,Shooting,,,104-91,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=448
 ,,,,,,,,,,4,0.31,Memphis Grizzlies,free throw,,,,,,,1,,2,Leuer,,,foul,missed,,,,,104-91,,http://stats.nba.com/cvp.html?GameID=0021200792&GameEventID=449

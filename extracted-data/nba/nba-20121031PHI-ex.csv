@@ -16,7 +16,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.03,Denver Nuggets,rebound,,,,,,,,,,Hamilton,,,,,,,,,6-3,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=17
 ,,,,,,,,,,1,9.49,Denver Nuggets,shot,,,,,,,,,,Hamilton,,,,missed,,3PT Jump Shot,,,6-3,25,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=18
 ,,,,,,,,,,1,9.48,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,6-3,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=19
-,,,,,,,,,,1,9.33,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,,,,,6-3,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=20
+,,,,,,,,,,1,9.33,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Bad Pass,,Lawson,,,,6-3,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=20
 ,,,,,,,,,,1,9.24,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,6-3,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=21
 ,,,,,,,,,,1,9.23,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,6-3,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=22
 ,,,,,,,,,,1,9.23,Philadelphia 76ers,foul,,,,,,,,,,Turner,,,,,,Personal,,,6-3,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=23
@@ -25,7 +25,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.04,Philadelphia 76ers,shot,Richardson,,,,,,,,,Holiday,2,,,made,,Layup,,,6-5,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=27
 ,,,,,,,,,,1,9.04,Denver Nuggets,foul,,,,,,,,,,Lawson,,,,,,Shooting,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=28
 ,,,,,,,,,,1,9.04,Philadelphia 76ers,free throw,,,,,,,1,,1,Holiday,1,,foul,made,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=30
-,,,,,,,,,,1,8.45,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=33
+,,,,,,,,,,1,8.45,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Richardson,,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=33
 ,,,,,,,,,,1,8.39,Philadelphia 76ers,shot,,,,,,,,,,Richardson,3,,,made,,3PT Pullup Jump Shot,,,6-9,25,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=34
 ,,,,,,,,,,1,8.20,Denver Nuggets,shot,,,,,,,,,,Hamilton,,,,missed,,Jump Shot,,,6-9,17,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=35
 ,,,,,,,,,,1,8.19,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,6-9,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=36
@@ -34,7 +34,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.12,Philadelphia 76ers,free throw,,,,,,,1,,1,Holiday,1,,foul,made,,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=39
 ,,,,,,,,,,1,8.12,Denver Nuggets,substitute,,,,Miller,,Lawson,,,,,,,,,,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=40
 ,,,,,,,,,,1,8.04,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Traveling,,,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=42
-,,,,,,,,,,1,7.53,Philadelphia 76ers,turnover,,,,,,,,,,Allen,,,Lost Ball,,,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=43
+,,,,,,,,,,1,7.53,Philadelphia 76ers,turnover,,,,,,,,,,Allen,,,Lost Ball,,Iguodala,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=43
 ,,,,,,,,,,1,7.50,Denver Nuggets,shot,,,,,,,,,,Iguodala,2,,,made,,Driving Slam Dunk,,,8-12,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=44
 ,,,,,,,,,,1,7.40,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,3PT Jump Shot,,,8-12,25,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=45
 ,,,,,,,,,,1,7.40,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=46
@@ -43,9 +43,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.19,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=49
 ,,,,,,,,,,1,7.19,Denver Nuggets,free throw,,,,,,,2,,2,Koufos,,,foul,missed,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=50
 ,,,,,,,,,,1,7.18,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=52
-,,,,,,,,,,1,6.59,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Layup,,,8-12,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=53
+,,,,,,,,,,1,6.59,Philadelphia 76ers,shot,,,Iguodala,,,,,,,Holiday,,,,missed,,Layup,,,8-12,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=53
 ,,,,,,,,,,1,6.57,Denver Nuggets,rebound,,,,,,,,,,Hamilton,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=54
-,,,,,,,,,,1,6.54,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Bad Pass,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=55
+,,,,,,,,,,1,6.54,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Bad Pass,,Holiday,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=55
 ,,,,,,,,,,1,6.49,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,8-12,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=56
 ,,,,,,,,,,1,6.46,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,8-12,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=57
 ,,,,,,,,,,1,6.33,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Jump Shot,,,8-12,4,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=58
@@ -64,9 +64,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.37,Philadelphia 76ers,shot,,,,,,,,,,Young,2,,,made,,Layup,,,12-14,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=71
 ,,,,,,,,,,1,5.18,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,Jump Shot,,,12-14,16,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=73
 ,,,,,,,,,,1,5.15,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=75
-,,,,,,,,,,1,5.15,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Layup,,,12-14,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=74
+,,,,,,,,,,1,5.15,Denver Nuggets,shot,,,Allen,,,,,,,Faried,,,,missed,,Layup,,,12-14,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=74
 ,,,,,,,,,,1,5.13,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=76
-,,,,,,,,,,1,5.12,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Jump Shot,,,12-14,4,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=77
+,,,,,,,,,,1,5.12,Denver Nuggets,shot,,,Richardson,,,,,,,Faried,,,,missed,,Jump Shot,,,12-14,4,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=77
 ,,,,,,,,,,1,5.09,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=78
 ,,,,,,,,,,1,5.03,Denver Nuggets,foul,,,,,,,,,,,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=79
 ,,,,,,,,,,1,5.03,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Foul,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=80
@@ -80,8 +80,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.37,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=88
 ,,,,,,,,,,1,4.29,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,12-14,24,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=89
 ,,,,,,,,,,1,4.27,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=90
-,,,,,,,,,,1,4.20,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=91
-,,,,,,,,,,1,4.13,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=92
+,,,,,,,,,,1,4.20,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Bad Pass,,Faried,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=91
+,,,,,,,,,,1,4.13,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,Holiday,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=92
 ,,,,,,,,,,1,4.07,Philadelphia 76ers,shot,Holiday,,,,,,,,,Richardson,3,,,made,,3PT Jump Shot,,,12-17,24,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=93
 ,,,,,,,,,,1,3.41,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,3PT Jump Shot,,,12-17,25,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=94
 ,,,,,,,,,,1,3.39,Philadelphia 76ers,rebound,,,,,,,,,,Richardson,,,,,,,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=95
@@ -90,7 +90,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.35,Denver Nuggets,substitute,,,,Chandler,,Faried,,,,,,,,,,,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=98
 ,,,,,,,,,,1,3.19,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Turnaround Jump Shot,,,12-17,14,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=99
 ,,,,,,,,,,1,3.17,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=100
-,,,,,,,,,,1,3.08,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=101
+,,,,,,,,,,1,3.08,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Hawes,,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=101
 ,,,,,,,,,,1,3.02,Philadelphia 76ers,shot,,,,,,,,,,Wright,3,,,made,,3PT Jump Shot,,,12-20,26,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=102
 ,,,,,,,,,,1,2.54,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,12-20,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=103
 ,,,,,,,,,,1,2.54,Philadelphia 76ers,substitute,,,,Young,,Young,,,,,,,,,,,,,12-20,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=105
@@ -99,7 +99,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.26,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,14-20,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=109
 ,,,,,,,,,,1,2.14,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Jump Shot,,,14-20,14,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=110
 ,,,,,,,,,,1,2.13,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,14-20,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=111
-,,,,,,,,,,1,2.09,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Jump Shot,,,14-20,7,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=118
+,,,,,,,,,,1,2.09,Denver Nuggets,shot,,,Wright,,,,,,,McGee,,,,missed,,Jump Shot,,,14-20,7,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=118
 ,,,,,,,,,,1,2.09,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,14-20,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=126
 ,,,,,,,,,,1,2.09,Denver Nuggets,shot,,,,,,,,,,Iguodala,2,,,made,,Dunk,,,16-20,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=112
 ,,,,,,,,,,1,2.09,Philadelphia 76ers,foul,,,,,,,,,,Hawes,,,,,,Shooting,,,16-20,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=113
@@ -123,18 +123,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.30,Denver Nuggets,substitute,,,,Lawson,,Iguodala,,,,,,,,,,,,,20-25,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=139
 ,,,,,,,,,,1,0.14,Denver Nuggets,shot,,,,,,,,,,Miller,2,,,made,,Driving Layup,,,22-25,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=140
 ,,,,,,,,,,1,0.04,Denver Nuggets,foul,,,,,,,,,,Miller,,,,,,Personal,,,22-25,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=141
-,,,,,,,,,,1,0.01,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,22-25,25,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=143
+,,,,,,,,,,1,0.01,Philadelphia 76ers,shot,,,McGee,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,22-25,25,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=143
 ,,,,,,,,,,1,0.00,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,22-25,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=144
 ,,,,,,,,,,2,11.47,Philadelphia 76ers,shot,,,,,,,,,,Hawes,2,,,made,,Pullup Jump Shot,,,22-27,13,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=149
 ,,,,,,,,,,2,11.33,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Dunk,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=150
 ,,,,,,,,,,2,11.30,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=151
-,,,,,,,,,,2,11.19,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Layup,,,22-27,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=152
+,,,,,,,,,,2,11.19,Philadelphia 76ers,shot,,,McGee,,,,,,,Young,,,,missed,,Layup,,,22-27,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=152
 ,,,,,,,,,,2,11.16,Philadelphia 76ers,rebound,,,,,,,,,,Richardson,,,,,,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=153
 ,,,,,,,,,,2,11.14,Philadelphia 76ers,shot,,,,,,,,,,Richardson,,,,missed,,Jump Shot,,,22-27,14,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=154
 ,,,,,,,,,,2,11.13,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=155
 ,,,,,,,,,,2,11.00,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Layup,,,22-27,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=156
 ,,,,,,,,,,2,10.59,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=157
-,,,,,,,,,,2,10.55,Philadelphia 76ers,turnover,,,,,,,,,,Wayns,,,Lost Ball,,,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=158
+,,,,,,,,,,2,10.55,Philadelphia 76ers,turnover,,,,,,,,,,Wayns,,,Lost Ball,,Brewer,,,,22-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=158
 ,,,,,,,,,,2,10.53,Denver Nuggets,shot,,,,,,,,,,Brewer,2,,,made,,Slam Dunk,,,24-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=159
 ,,,,,,,,,,2,10.33,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,3PT Jump Shot,,,24-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=160
 ,,,,,,,,,,2,10.31,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,24-27,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=161
@@ -148,7 +148,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.53,Denver Nuggets,shot,Lawson,,,,,,,,,Chandler,2,,,made,,Reverse Layup,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=174
 ,,,,,,,,,,2,9.37,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,26-29,27,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=175
 ,,,,,,,,,,2,9.35,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=176
-,,,,,,,,,,2,9.29,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,26-29,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=177
+,,,,,,,,,,2,9.29,Denver Nuggets,shot,,,Richardson,,,,,,,Miller,,,,missed,,Layup,,,26-29,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=177
 ,,,,,,,,,,2,9.29,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=178
 ,,,,,,,,,,2,9.29,Philadelphia 76ers,substitute,,,,Holiday,,Wayns,,,,,,,,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=179
 ,,,,,,,,,,2,9.29,Philadelphia 76ers,violation,,,,,,,,,,76ERS,,, Delay of game Violation,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=180
@@ -162,13 +162,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.53,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=188
 ,,,,,,,,,,2,8.41,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,26-29,13,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=189
 ,,,,,,,,,,2,8.39,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=190
-,,,,,,,,,,2,8.20,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=191
+,,,,,,,,,,2,8.20,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Young,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=191
 ,,,,,,,,,,2,8.18,Denver Nuggets,foul,,,,,,,,,,Brewer,,,,,,Personal,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=192
 ,,,,,,,,,,2,8.18,Denver Nuggets,substitute,,,,Faried,,Chandler,,,,,,,,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=194
 ,,,,,,,,,,2,8.18,Philadelphia 76ers,substitute,,,,Young,,Richardson,,,,,,,,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=196
 ,,,,,,,,,,2,8.04,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,26-29,18,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=198
 ,,,,,,,,,,2,8.03,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=199
-,,,,,,,,,,2,7.50,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,26-29,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=200
+,,,,,,,,,,2,7.50,Denver Nuggets,shot,,,Young,,,,,,,Lawson,,,,missed,,Layup,,,26-29,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=200
 ,,,,,,,,,,2,7.48,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,26-29,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=201
 ,,,,,,,,,,2,7.44,Denver Nuggets,shot,Lawson,,,,,,,,,Miller,2,,,made,,Driving Layup,,,28-29,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=202
 ,,,,,,,,,,2,7.23,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,28-29,24,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=203
@@ -190,11 +190,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.29,Denver Nuggets,free throw,,,,,,,1,,2,Koufos,1,,foul,made,,,,,29-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=221
 ,,,,,,,,,,2,6.29,Philadelphia 76ers,violation,,,,,,,,,,Holiday,,,Lane,,,,,,29-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=242
 ,,,,,,,,,,2,6.29,Denver Nuggets,free throw,,,,,,,2,,2,Koufos,1,,foul,made,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=225
-,,,,,,,,,,2,6.11,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=230
+,,,,,,,,,,2,6.11,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,Miller,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=230
 ,,,,,,,,,,2,6.09,Philadelphia 76ers,foul,,,,,,,,,,Turner,,,,,,Personal,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=229
 ,,,,,,,,,,2,6.09,Philadelphia 76ers,substitute,,,,Hawes,,Allen,,,,,,,,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=234
 ,,,,,,,,,,2,6.09,Philadelphia 76ers,substitute,,,,Richardson,,Turner,,,,,,,,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=235
-,,,,,,,,,,2,5.58,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=236
+,,,,,,,,,,2,5.58,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,Young,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=236
 ,,,,,,,,,,2,5.54,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Layup,,,30-31,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=237
 ,,,,,,,,,,2,5.52,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=238
 ,,,,,,,,,,2,5.29,Denver Nuggets,turnover,,,,,,,,,,,,,Shot Clock,,,,,,30-31,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=239
@@ -210,10 +210,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.16,Denver Nuggets,free throw,,,,,,,1,,2,Iguodala,1,,foul,made,,,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=252
 ,,,,,,,,,,2,4.16,Denver Nuggets,free throw,,,,,,,2,,2,Iguodala,,,foul,missed,,,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=254
 ,,,,,,,,,,2,4.15,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=256
-,,,,,,,,,,2,4.02,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Layup,,,31-34,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=257
+,,,,,,,,,,2,4.02,Philadelphia 76ers,shot,,,Koufos,,,,,,,Holiday,,,,missed,,Layup,,,31-34,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=257
 ,,,,,,,,,,2,4.00,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=258
 ,,,,,,,,,,2,4.00,Philadelphia 76ers,turnover,,,,,,,,,,Hawes Poss,,,Lost Ball,,,,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=259
-,,,,,,,,,,2,3.39,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,,,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=260
+,,,,,,,,,,2,3.39,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,Richardson,,,,31-34,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=260
 ,,,,,,,,,,2,3.24,Philadelphia 76ers,shot,,,,,,,,,,Young,2,,,made,,Running Hook Shot,,,31-36,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=261
 ,,,,,,,,,,2,3.07,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,31-36,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=262
 ,,,,,,,,,,2,3.05,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,31-36,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=263
@@ -239,7 +239,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.08,Philadelphia 76ers,free throw,,,,,,,1,,2,Holiday,,,foul,missed,,,,,38-40,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=284
 ,,,,,,,,,,2,1.08,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,38-40,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=285
 ,,,,,,,,,,2,1.08,Philadelphia 76ers,free throw,,,,,,,2,,2,Holiday,1,,foul,made,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=286
-,,,,,,,,,,2,0.52,Denver Nuggets,turnover,,,,,,,,,,McGee,,,Lost Ball,,,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=288
+,,,,,,,,,,2,0.52,Denver Nuggets,turnover,,,,,,,,,,McGee,,,Lost Ball,,Hawes,,,,38-41,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=288
 ,,,,,,,,,,2,0.44,Philadelphia 76ers,shot,Holiday,,,,,,,,,Hawes,3,,,made,,3PT Jump Shot,,,38-44,25,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=289
 ,,,,,,,,,,2,0.22,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,Layup,,,38-44,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=290
 ,,,,,,,,,,2,0.20,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,38-44,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=291
@@ -270,9 +270,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.22,Denver Nuggets,shot,Lawson,,,,,,,,,Hamilton,2,,,made,,Driving Layup,,,42-50,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=324
 ,,,,,,,,,,3,9.06,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,42-50,16,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=326
 ,,,,,,,,,,3,9.04,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=327
-,,,,,,,,,,3,8.57,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=328
+,,,,,,,,,,3,8.57,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,Lawson,,,,42-50,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=328
 ,,,,,,,,,,3,8.52,Denver Nuggets,shot,Lawson,,,,,,,,,Iguodala,2,,,made,,Dunk,,,44-50,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=329
-,,,,,,,,,,3,8.24,Philadelphia 76ers,shot,,,,,,,,,,Richardson,,,,missed,,3PT Jump Shot,,,44-50,25,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=330
+,,,,,,,,,,3,8.24,Philadelphia 76ers,shot,,,McGee,,,,,,,Richardson,,,,missed,,3PT Jump Shot,,,44-50,25,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=330
 ,,,,,,,,,,3,8.23,Philadelphia 76ers,rebound,,,,,,,,,,Allen,,,,,,,,,44-50,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=331
 ,,,,,,,,,,3,8.23,Denver Nuggets,foul,,,,,,,,,,Chandler,,,,,,Shooting,,,44-50,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=332
 ,,,,,,,,,,3,8.23,Philadelphia 76ers,free throw,,,,,,,1,,2,Allen,1,,foul,made,,,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=333
@@ -318,8 +318,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.03,Denver Nuggets,free throw,,,,,,,2,,2,Chandler,1,,foul,made,,,,,50-59,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=375
 ,,,,,,,,,,3,3.54,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,50-59,15,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=376
 ,,,,,,,,,,3,3.52,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,50-59,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=377
-,,,,,,,,,,3,3.42,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,50-59,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=378
-,,,,,,,,,,3,3.37,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,,,,,50-59,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=379
+,,,,,,,,,,3,3.42,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,Iguodala,,,,50-59,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=378
+,,,,,,,,,,3,3.37,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,Wright,,,,50-59,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=379
 ,,,,,,,,,,3,3.14,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,50-59,7,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=380
 ,,,,,,,,,,3,3.13,Denver Nuggets,rebound,,,,,,,,,,Chandler,,,,,,,,,50-59,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=381
 ,,,,,,,,,,3,3.06,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,50-59,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=382
@@ -345,7 +345,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.24,Philadelphia 76ers,substitute,,,,Turner,,Holiday,,,,,,,,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=408
 ,,,,,,,,,,3,1.07,Denver Nuggets,shot,,,,,,,,,,Chandler,,,,missed,,Jump Shot,,,52-63,17,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=409
 ,,,,,,,,,,3,1.04,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=410
-,,,,,,,,,,3,1.03,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,52-63,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=411
+,,,,,,,,,,3,1.03,Denver Nuggets,shot,,,Hawes,,,,,,,Miller,,,,missed,,Layup,,,52-63,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=411
 ,,,,,,,,,,3,1.03,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=412
 ,,,,,,,,,,3,1.01,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,3PT Jump Shot,,,52-63,24,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=413
 ,,,,,,,,,,3,0.59,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=414
@@ -353,12 +353,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.50,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=416
 ,,,,,,,,,,3,0.43,Denver Nuggets,turnover,,,,,,,,,,McGee,,,Traveling,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=418
 ,,,,,,,,,,3,0.31,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Traveling,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=421
-,,,,,,,,,,3,0.09,Denver Nuggets,shot,,,,,,,,,,Chandler,,,,missed,,Layup,,,52-63,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=422
+,,,,,,,,,,3,0.09,Denver Nuggets,shot,,,Hawes,,,,,,,Chandler,,,,missed,,Layup,,,52-63,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=422
 ,,,,,,,,,,3,0.07,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,52-63,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=423
 ,,,,,,,,,,3,0.05,Philadelphia 76ers,shot,Young,,,,,,,,,Young,2,,,made,,Slam Dunk,,,52-65,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=424
-,,,,,,,,,,3,0.01,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,52-65,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=425
+,,,,,,,,,,3,0.01,Denver Nuggets,shot,,,Hawes,,,,,,,Lawson,,,,missed,,Layup,,,52-65,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=425
 ,,,,,,,,,,3,0.00,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,52-65,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=426
-,,,,,,,,,,4,11.38,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,52-65,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=431
+,,,,,,,,,,4,11.38,Denver Nuggets,shot,,,Richardson,,,,,,,Miller,,,,missed,,Layup,,,52-65,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=431
 ,,,,,,,,,,4,11.38,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,52-65,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=432
 ,,,,,,,,,,4,11.34,Denver Nuggets,shot,Miller,,,,,,,,,Lawson,2,,,made,,Jump Shot,,,54-65,17,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=433
 ,,,,,,,,,,4,11.14,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,54-65,6,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=434
@@ -378,7 +378,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.49,Philadelphia 76ers,substitute,,,,Holiday,,Turner,,,,,,,,,,,,,54-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=449
 ,,,,,,,,,,4,9.28,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,54-68,19,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=451
 ,,,,,,,,,,4,9.26,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,54-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=452
-,,,,,,,,,,4,9.23,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Lost Ball,,,,,,54-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=453
+,,,,,,,,,,4,9.23,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Lost Ball,,Richardson,,,,54-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=453
 ,,,,,,,,,,4,9.19,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Layup,,,54-68,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=454
 ,,,,,,,,,,4,9.17,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,54-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=455
 ,,,,,,,,,,4,9.12,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,3PT Jump Shot,,,54-68,24,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=456
@@ -391,7 +391,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.06,Denver Nuggets,foul,,,,,,,,,,Brewer,,,,,,Personal,,,57-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=463
 ,,,,,,,,,,4,7.54,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,57-68,24,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=464
 ,,,,,,,,,,4,7.52,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,57-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=465
-,,,,,,,,,,4,7.46,Philadelphia 76ers,turnover,,,,,,,,,,Wright Poss,,,Lost Ball,,,,,,57-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=466
+,,,,,,,,,,4,7.46,Philadelphia 76ers,turnover,,,,,,,,,,Wright Poss,,,Lost Ball,,Miller,,,,57-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=466
 ,,,,,,,,,,4,7.42,Denver Nuggets,shot,Miller,,,,,,,,,Lawson,2,,,made,,Jump Shot,,,59-68,4,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=468
 ,,,,,,,,,,4,7.27,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,59-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=469
 ,,,,,,,,,,4,7.26,Denver Nuggets,rebound,,,,,,,,,,Miller,,,,,,,,,59-68,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=476
@@ -405,7 +405,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.39,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=482
 ,,,,,,,,,,4,6.27,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,61-69,18,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=483
 ,,,,,,,,,,4,6.25,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=484
-,,,,,,,,,,4,6.21,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=485
+,,,,,,,,,,4,6.21,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Lost Ball,,Wright,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=485
 ,,,,,,,,,,4,6.15,Philadelphia 76ers,shot,,,,,,,,,,Young,2,,,made,,Jump Shot,,,61-71,19,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=486
 ,,,,,,,,,,4,5.56,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Pullup Jump Shot,,,63-71,19,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=488
 ,,,,,,,,,,4,5.43,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,63-71,17,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=489
@@ -415,7 +415,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.33,Denver Nuggets,shot,Lawson,,,,,,,,,Fournier,3,,,made,,3PT Jump Shot,,,66-71,24,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=493
 ,,,,,,,,,,4,5.30,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,66-71,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=494
 ,,,,,,,,,,4,5.30,Denver Nuggets,substitute,,,,Iguodala,,Brewer,,,,,,,,,,,,,66-71,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=497
-,,,,,,,,,,4,5.10,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,,,,,66-71,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=498
+,,,,,,,,,,4,5.10,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Lost Ball,,Koufos,,,,66-71,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=498
 ,,,,,,,,,,4,5.07,Denver Nuggets,shot,Fournier,,,,,,,,,Lawson,2,,,made,,Layup,,,68-71,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=499
 ,,,,,,,,,,4,4.53,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,68-71,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=500
 ,,,,,,,,,,4,4.53,Philadelphia 76ers,substitute,,,,Turner,,Young,,,,,,,,,,,,,68-71,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=501
@@ -424,7 +424,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.19,Philadelphia 76ers,shot,Hawes,,,,,,,,,Holiday,2,,,made,,Running Bank Shot,,,70-73,13,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=504
 ,,,,,,,,,,4,4.19,Denver Nuggets,foul,,,,,,,,,,Koufos,,,,,,Shooting,,,70-73,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=505
 ,,,,,,,,,,4,4.19,Philadelphia 76ers,free throw,,,,,,,1,,1,Holiday,1,,foul,made,,,,,70-74,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=506
-,,,,,,,,,,4,4.09,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,70-74,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=507
+,,,,,,,,,,4,4.09,Denver Nuggets,shot,,,Hawes,,,,,,,Lawson,,,,missed,,Layup,,,70-74,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=507
 ,,,,,,,,,,4,4.07,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,70-74,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=508
 ,,,,,,,,,,4,4.04,Denver Nuggets,foul,,,,,,,,,,Fournier,,,,,,Personal,,,70-74,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=509
 ,,,,,,,,,,4,4.04,Philadelphia 76ers,free throw,,,,,,,1,,2,Hawes,1,,foul,made,,,,,70-75,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=510
@@ -439,11 +439,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.22,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=523
 ,,,,,,,,,,4,3.02,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,3PT Jump Shot,,,71-78,26,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=524
 ,,,,,,,,,,4,3.00,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=525
-,,,,,,,,,,4,2.55,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=526
+,,,,,,,,,,4,2.55,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Richardson,,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=526
 ,,,,,,,,,,4,2.50,Philadelphia 76ers,shot,,,,,,,,,,Richardson,2,,,made,,Finger Roll Layup,,,71-80,2,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=527
 ,,,,,,,,,,4,2.33,Denver Nuggets,shot,,,,,,,,,,Iguodala,2,,,made,,Reverse Layup,,,73-80,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=528
 ,,,,,,,,,,4,2.16,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Step Back Jump Shot,,,73-82,20,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=529
-,,,,,,,,,,4,1.56,Denver Nuggets,shot,,,,,,,,,,Fournier,,,,missed,,Jump Shot,,,73-82,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=530
+,,,,,,,,,,4,1.56,Denver Nuggets,shot,,,Hawes,,,,,,,Fournier,,,,missed,,Jump Shot,,,73-82,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=530
 ,,,,,,,,,,4,1.54,Philadelphia 76ers,rebound,,,,,,,,,,Young,,,,,,,,,73-82,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=531
 ,,,,,,,,,,4,1.30,Philadelphia 76ers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,73-82,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=532
 ,,,,,,,,,,4,1.24,Denver Nuggets,shot,,,,,,,,,,Miller,2,,,made,,Driving Layup,,,75-82,1,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=533
@@ -452,7 +452,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.53,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,75-82,19,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=536
 ,,,,,,,,,,4,0.53,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,75-82,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=537
 ,,,,,,,,,,4,0.53,Philadelphia 76ers,substitute,,,,Wright,,Turner,,,,,,,,,,,,,75-82,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=538
-,,,,,,,,,,4,0.49,Denver Nuggets,turnover,,,,,,,,,,Fournier,,,Lost Ball,,,,,,75-82,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=539
+,,,,,,,,,,4,0.49,Denver Nuggets,turnover,,,,,,,,,,Fournier,,,Lost Ball,,Young,,,,75-82,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=539
 ,,,,,,,,,,4,0.28,Philadelphia 76ers,shot,Hawes,,,,,,,,,Wright,2,,,made,,Jump Hook Shot,,,75-84,9,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=540
 ,,,,,,,,,,4,0.28,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=541
 ,,,,,,,,,,4,0.22,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,75-84,3,http://stats.nba.com/cvp.html?GameID=0021200005&GameEventID=543

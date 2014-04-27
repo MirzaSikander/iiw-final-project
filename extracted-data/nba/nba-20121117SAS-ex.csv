@@ -20,7 +20,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.55,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=23
 ,,,,,,,,,,1,9.54,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Jump Shot,,,5-4,6,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=24
 ,,,,,,,,,,1,9.52,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=25
-,,,,,,,,,,1,9.45,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=26
+,,,,,,,,,,1,9.45,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,Blair,,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=26
 ,,,,,,,,,,1,9.37,Denver Nuggets,foul,,,,,,,,,,Koufos,,,,,,Shooting,,,5-4,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=27
 ,,,,,,,,,,1,9.37,San Antonio Spurs,free throw,,,,,,,1,,2,Blair,1,,foul,made,,,,,5-5,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=28
 ,,,,,,,,,,1,9.37,San Antonio Spurs,free throw,,,,,,,2,,2,Blair,1,,foul,made,,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=30
@@ -32,8 +32,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.52,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=37
 ,,,,,,,,,,1,8.46,Denver Nuggets,shot,,,,,,,,,,Koufos,,,,missed,,Layup,,,5-6,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=38
 ,,,,,,,,,,1,8.45,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=39
-,,,,,,,,,,1,8.40,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Bad Pass,,,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=40
-,,,,,,,,,,1,8.26,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Layup,,,5-6,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=41
+,,,,,,,,,,1,8.40,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Bad Pass,,Faried,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=40
+,,,,,,,,,,1,8.26,Denver Nuggets,shot,,,Duncan,,,,,,,Faried,,,,missed,,Layup,,,5-6,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=41
 ,,,,,,,,,,1,8.26,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=43
 ,,,,,,,,,,1,8.26,San Antonio Spurs,jumpball,,Faried,,,Duncan,,,,,,,,,,,,,,5-6,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=42
 ,,,,,,,,,,1,8.08,San Antonio Spurs,shot,Duncan,,,,,,,,,Jackson,3,,,made,,3PT Jump Shot,,,5-9,26,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=44
@@ -47,7 +47,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.30,Denver Nuggets,foul,,,,,,,,,,McGee,,,,,,Offensive Charge,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=54
 ,,,,,,,,,,1,7.30,Denver Nuggets,turnover,,,,,,,,,,McGee,,,Foul,,,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=55
 ,,,,,,,,,,1,7.20,San Antonio Spurs,turnover,,,,,,,,,,Green Out of Bounds,,,Lost Ball,,,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=57
-,,,,,,,,,,1,7.06,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=58
+,,,,,,,,,,1,7.06,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Green,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=58
 ,,,,,,,,,,1,7.03,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Bad Pass,,,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=59
 ,,,,,,,,,,1,7.03,San Antonio Spurs,substitute,,,,Ginobili,,Green,,,,,,,,,,,,,5-10,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=60
 ,,,,,,,,,,1,6.51,Denver Nuggets,shot,,,,,,,,,,Gallinari,2,,,made,,Driving Layup,,,7-10,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=61
@@ -55,7 +55,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.31,San Antonio Spurs,shot,Ginobili,,,,,,,,,Blair,2,,,made,,Layup,,,7-12,3,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=62
 ,,,,,,,,,,1,6.19,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,7-12,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=64
 ,,,,,,,,,,1,6.19,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,7-12,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=65
-,,,,,,,,,,1,6.10,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,,,,,7-12,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=67
+,,,,,,,,,,1,6.10,San Antonio Spurs,turnover,,,,,,,,,,Parker,,,Lost Ball,,Lawson,,,,7-12,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=67
 ,,,,,,,,,,1,6.05,Denver Nuggets,shot,McGee,,,,,,,,,Lawson,2,,,made,,Layup,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=68
 ,,,,,,,,,,1,5.46,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Layup,,,9-12,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=69
 ,,,,,,,,,,1,5.45,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,9-12,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=71
@@ -63,7 +63,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.28,Denver Nuggets,shot,Gallinari,,,,,,,,,McGee,2,,,made,,Jump Shot,,,11-14,15,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=72
 ,,,,,,,,,,1,5.08,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,11-14,26,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=73
 ,,,,,,,,,,1,5.07,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=74
-,,,,,,,,,,1,4.51,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Lost Ball,,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=75
+,,,,,,,,,,1,4.51,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Lost Ball,,Blair,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=75
 ,,,,,,,,,,1,4.50,Denver Nuggets,foul,,,,,,,,,,Lawson,,,,,,Personal,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=76
 ,,,,,,,,,,1,4.50,San Antonio Spurs,substitute,,,,Green,,Jackson,,,,,,,,,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=77
 ,,,,,,,,,,1,4.50,San Antonio Spurs,substitute,,,,Diaw,,Blair,,,,,,,,,,,,,11-14,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=78
@@ -73,7 +73,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.07,San Antonio Spurs,shot,,,,,,,,,,Diaw,,,,missed,,Jump Shot,,,13-16,15,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=82
 ,,,,,,,,,,1,4.05,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,13-16,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=84
 ,,,,,,,,,,1,4.05,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Jump Shot,,,13-18,8,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=83
-,,,,,,,,,,1,3.49,Denver Nuggets,shot,,,,,,,,,,Koufos,,,,missed,,Layup,,,13-18,3,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=85
+,,,,,,,,,,1,3.49,Denver Nuggets,shot,,,Duncan,,,,,,,Koufos,,,,missed,,Layup,,,13-18,3,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=85
 ,,,,,,,,,,1,3.48,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,13-18,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=86
 ,,,,,,,,,,1,3.32,San Antonio Spurs,shot,Diaw,,,,,,,,,Duncan,2,,,made,,Jump Shot,,,13-20,16,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=87
 ,,,,,,,,,,1,3.14,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,13-20,17,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=88
@@ -84,7 +84,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.11,Denver Nuggets,substitute,,,,Brewer,,Iguodala,,,,,,,,,,,,,13-20,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=93
 ,,,,,,,,,,1,3.11,Denver Nuggets,substitute,,,,Mozgov,,McGee,,,,,,,,,,,,,13-20,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=94
 ,,,,,,,,,,1,3.11,San Antonio Spurs,free throw,,,,,,,2,,2,Duncan,1,,foul,made,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=95
-,,,,,,,,,,1,2.54,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=97
+,,,,,,,,,,1,2.54,Denver Nuggets,turnover,,,,,,,,,,Brewer,,,Bad Pass,,Duncan,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=97
 ,,,,,,,,,,1,2.49,Denver Nuggets,foul,,,,,,,,,,Mozgov,,,,,,Personal,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=98
 ,,,,,,,,,,1,2.49,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=99
 ,,,,,,,,,,1,2.49,San Antonio Spurs,substitute,,,,Splitter,,Duncan,,,,,,,,,,,,,13-21,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=101
@@ -96,9 +96,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.14,San Antonio Spurs,shot,Diaw,,,,,,,,,Ginobili,3,,,made,,3PT Jump Shot,,,13-26,24,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=110
 ,,,,,,,,,,1,1.51,Denver Nuggets,shot,,,,,,,,,,Miller,2,,,made,,Turnaround Fadeaway,,,15-26,15,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=111
 ,,,,,,,,,,1,1.36,San Antonio Spurs,shot,Parker,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,15-29,26,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=112
-,,,,,,,,,,1,1.25,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,15-29,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=113
+,,,,,,,,,,1,1.25,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Parker,,,,15-29,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=113
 ,,,,,,,,,,1,1.14,San Antonio Spurs,shot,Parker,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,15-32,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=114
-,,,,,,,,,,1,0.52,Denver Nuggets,turnover,,,,,,,,,,Mozgov,,,Lost Ball,,,,,,15-32,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=115
+,,,,,,,,,,1,0.52,Denver Nuggets,turnover,,,,,,,,,,Mozgov,,,Lost Ball,,Ginobili,,,,15-32,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=115
 ,,,,,,,,,,1,0.45,Denver Nuggets,foul,,,,,,,,,,Mozgov,,,,,,Shooting,,,15-32,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=116
 ,,,,,,,,,,1,0.45,San Antonio Spurs,free throw,,,,,,,1,,2,Ginobili,,,foul,missed,,,,,15-32,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=117
 ,,,,,,,,,,1,0.45,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,15-32,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=118
@@ -114,8 +114,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.00,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,15-33,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=129
 ,,,,,,,,,,2,11.41,San Antonio Spurs,shot,Splitter,,,,,,,,,Ginobili,3,,,made,,3PT Jump Shot,,,15-36,25,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=133
 ,,,,,,,,,,2,11.27,Denver Nuggets,turnover,,,,,,,,,,Gallinari Out of Bounds,,,Lost Ball,,,,,,15-36,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=134
-,,,,,,,,,,2,11.12,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Bad Pass,,,,,,15-36,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=135
-,,,,,,,,,,2,11.09,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,,,,,15-36,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=136
+,,,,,,,,,,2,11.12,San Antonio Spurs,turnover,,,,,,,,,,Diaw,,,Bad Pass,,Gallinari,,,,15-36,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=135
+,,,,,,,,,,2,11.09,Denver Nuggets,turnover,,,,,,,,,,Gallinari,,,Bad Pass,,Green,,,,15-36,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=136
 ,,,,,,,,,,2,11.05,San Antonio Spurs,shot,,,,,,,,,,Green,2,,,made,,Layup,,,15-38,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=137
 ,,,,,,,,,,2,10.57,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Jump Shot,,,15-38,15,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=138
 ,,,,,,,,,,2,10.56,Denver Nuggets,rebound,,,,,,,,,,Mozgov,,,,,,,,,15-38,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=140
@@ -128,7 +128,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.22,Denver Nuggets,substitute,,,,Iguodala,,Hamilton,,,,,,,,,,,,,18-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=147
 ,,,,,,,,,,2,10.22,San Antonio Spurs,substitute,,,,Jackson,,Green,,,,,,,,,,,,,18-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=148
 ,,,,,,,,,,2,10.22,Denver Nuggets,free throw,,,,,,,2,,2,Miller,1,,foul,made,,,,,19-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=149
-,,,,,,,,,,2,10.02,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,,,,,19-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=151
+,,,,,,,,,,2,10.02,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,McGee,,,,19-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=151
 ,,,,,,,,,,2,9.52,Denver Nuggets,shot,,,,,,,,,,Gallinari,2,,,made,,Floating Jump Shot,,,21-41,9,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=152
 ,,,,,,,,,,2,9.45,San Antonio Spurs,substitute,,,,De Colo,,Ginobili,,,,,,,,,,,,,21-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=154
 ,,,,,,,,,,2,9.29,San Antonio Spurs,shot,,,,,,,,,,De Colo,,,,missed,,3PT Jump Shot,,,21-41,25,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=155
@@ -136,13 +136,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.17,San Antonio Spurs,foul,,,,,,,,,,Mills,,,,,,Personal,,,21-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=157
 ,,,,,,,,,,2,9.08,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Running Hook Shot,,,21-41,8,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=158
 ,,,,,,,,,,2,9.07,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,21-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=159
-,,,,,,,,,,2,8.52,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Bad Pass,,,,,,21-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=160
+,,,,,,,,,,2,8.52,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Bad Pass,,Miller,,,,21-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=160
 ,,,,,,,,,,2,8.47,Denver Nuggets,shot,Miller,,,,,,,,,Gallinari,2,,,made,,Dunk,,,23-41,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=161
 ,,,,,,,,,,2,8.47,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,23-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=162
 ,,,,,,,,,,2,8.26,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,23-41,25,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=164
 ,,,,,,,,,,2,8.26,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,23-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=165
 ,,,,,,,,,,2,8.26,San Antonio Spurs,foul,,,,,,,,,,De Colo,,,,,,Personal,,,23-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=166
-,,,,,,,,,,2,8.06,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Layup,,,23-41,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=167
+,,,,,,,,,,2,8.06,Denver Nuggets,shot,,,Splitter,,,,,,,McGee,,,,missed,,Layup,,,23-41,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=167
 ,,,,,,,,,,2,8.04,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,23-41,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=168
 ,,,,,,,,,,2,7.58,Denver Nuggets,shot,Iguodala,,,,,,,,,Brewer,3,,,made,,3PT Jump Shot,,,26-41,25,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=169
 ,,,,,,,,,,2,7.45,San Antonio Spurs,shot,Splitter,,,,,,,,,Diaw,2,,,made,,Layup,,,26-43,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=170
@@ -157,14 +157,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.44,San Antonio Spurs,shot,,,,,,,,,,Mills,,,,missed,,Pullup Jump Shot,,,28-43,14,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=180
 ,,,,,,,,,,2,6.42,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,28-43,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=181
 ,,,,,,,,,,2,6.40,San Antonio Spurs,shot,,,,,,,,,,Jackson,2,,,made,,Layup,,,28-45,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=182
-,,,,,,,,,,2,6.20,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Layup,,,28-45,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=183
+,,,,,,,,,,2,6.20,Denver Nuggets,shot,,,Duncan,,,,,,,Lawson,,,,missed,,Layup,,,28-45,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=183
 ,,,,,,,,,,2,6.18,San Antonio Spurs,rebound,,,,,,,,,,Mills,,,,,,,,,28-45,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=184
 ,,,,,,,,,,2,6.11,San Antonio Spurs,shot,,,,,,,,,,Mills,,,,missed,,Jump Shot,,,28-45,22,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=185
 ,,,,,,,,,,2,6.10,Denver Nuggets,rebound,,,,,,,,,,Brewer,,,,,,,,,28-45,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=186
 ,,,,,,,,,,2,6.05,Denver Nuggets,shot,Brewer,,,,,,,,,Gallinari,2,,,made,,Jump Shot,,,30-45,16,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=187
 ,,,,,,,,,,2,5.48,San Antonio Spurs,shot,Jackson,,,,,,,,,Duncan,2,,,made,,Layup,,,30-47,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=188
 ,,,,,,,,,,2,5.35,Denver Nuggets,shot,Iguodala,,,,,,,,,Faried,2,,,made,,Layup,,,32-47,3,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=189
-,,,,,,,,,,2,5.24,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,,,,,32-47,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=190
+,,,,,,,,,,2,5.24,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,Lawson,,,,32-47,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=190
 ,,,,,,,,,,2,5.19,Denver Nuggets,shot,Lawson,,,,,,,,,Iguodala,2,,,made,,Dunk,,,34-47,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=191
 ,,,,,,,,,,2,5.16,San Antonio Spurs,timeout,,,,,,,,,,,,,,,,,,,34-47,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=192
 ,,,,,,,,,,2,5.16,San Antonio Spurs,substitute,,,,Parker,,Mills,,,,,,,,,,,,,34-47,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=194
@@ -172,7 +172,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.16,Denver Nuggets,substitute,,,,Koufos,,Brewer,,,,,,,,,,,,,34-47,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=196
 ,,,,,,,,,,2,5.16,San Antonio Spurs,substitute,,,,Ginobili,,De Colo,,,,,,,,,,,,,34-47,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=197
 ,,,,,,,,,,2,4.56,San Antonio Spurs,shot,Blair,,,,,,,,,Parker,2,,,made,,Layup,,,34-49,3,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=198
-,,,,,,,,,,2,4.37,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,34-49,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=199
+,,,,,,,,,,2,4.37,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Jackson,,,,34-49,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=199
 ,,,,,,,,,,2,4.27,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,3PT Jump Shot,,,34-49,24,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=200
 ,,,,,,,,,,2,4.26,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,34-49,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=201
 ,,,,,,,,,,2,4.18,San Antonio Spurs,foul,,,,,,,,,,Duncan,,,,,,Shooting,,,34-49,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=202
@@ -205,7 +205,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.05,San Antonio Spurs,free throw,,,,,,,1,,2,Duncan,1,,foul,made,,,,,36-52,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=237
 ,,,,,,,,,,2,2.05,Denver Nuggets,substitute,,,,McGee,,Koufos,,,,,,,,,,,,,36-52,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=239
 ,,,,,,,,,,2,2.05,San Antonio Spurs,free throw,,,,,,,2,,2,Duncan,1,,foul,made,,,,,36-53,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=240
-,,,,,,,,,,2,1.45,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,36-53,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=242
+,,,,,,,,,,2,1.45,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Parker,,,,36-53,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=242
 ,,,,,,,,,,2,1.42,Denver Nuggets,foul,,,,,,,,,,Brewer,,,,,,Personal,,,36-53,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=243
 ,,,,,,,,,,2,1.36,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Layup,,,36-53,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=244
 ,,,,,,,,,,2,1.35,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,36-53,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=245
@@ -264,17 +264,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.42,Denver Nuggets,shot,Brewer,,,,,,,,,McGee,2,,,made,,Running Dunk,,,48-78,4,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=311
 ,,,,,,,,,,3,6.27,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,Jump Shot,,,48-78,16,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=312
 ,,,,,,,,,,3,6.26,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,48-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=313
-,,,,,,,,,,3,6.16,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,Layup,,,48-78,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=314
+,,,,,,,,,,3,6.16,Denver Nuggets,shot,,,Blair,,,,,,,Gallinari,,,,missed,,Layup,,,48-78,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=314
 ,,,,,,,,,,3,6.13,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,48-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=315
 ,,,,,,,,,,3,6.08,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,Layup,,,48-78,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=316
 ,,,,,,,,,,3,6.07,Denver Nuggets,rebound,,,,,,,,,,Gallinari,,,,,,,,,48-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=317
-,,,,,,,,,,3,6.02,Denver Nuggets,shot,,,,,,,,,,Brewer,,,,missed,,Layup,,,48-78,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=318
+,,,,,,,,,,3,6.02,Denver Nuggets,shot,,,Green,,,,,,,Brewer,,,,missed,,Layup,,,48-78,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=318
 ,,,,,,,,,,3,6.02,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,48-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=319
 ,,,,,,,,,,3,6.02,San Antonio Spurs,substitute,,,,Diaw,,Duncan,,,,,,,,,,,,,48-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=320
 ,,,,,,,,,,3,6.02,San Antonio Spurs,substitute,,,,Ginobili,,Jackson,,,,,,,,,,,,,48-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=321
 ,,,,,,,,,,3,5.49,Denver Nuggets,shot,,,,,,,,,,Gallinari,2,,,made,,Jump Shot,,,50-78,4,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=322
 ,,,,,,,,,,3,5.35,Denver Nuggets,foul,,,,,,,,,,Brewer,,,,,,Personal,,,50-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=323
-,,,,,,,,,,3,5.27,San Antonio Spurs,turnover,,,,,,,,,,Blair,,,Lost Ball,,,,,,50-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=324
+,,,,,,,,,,3,5.27,San Antonio Spurs,turnover,,,,,,,,,,Blair,,,Lost Ball,,Brewer,,,,50-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=324
 ,,,,,,,,,,3,5.24,San Antonio Spurs,foul,,,,,,,,,,Ginobili,,,,,,Shooting,,,50-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=325
 ,,,,,,,,,,3,5.24,Denver Nuggets,free throw,,,,,,,1,,2,Iguodala,1,,foul,made,,,,,51-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=326
 ,,,,,,,,,,3,5.24,Denver Nuggets,free throw,,,,,,,2,,2,Iguodala,1,,foul,made,,,,,52-78,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=328
@@ -293,7 +293,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.02,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,55-80,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=344
 ,,,,,,,,,,3,3.55,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,3PT Jump Shot,,,55-80,25,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=345
 ,,,,,,,,,,3,3.54,San Antonio Spurs,rebound,,,,,,,,,,Parker,,,,,,,,,55-80,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=346
-,,,,,,,,,,3,3.36,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Layup,,,55-80,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=347
+,,,,,,,,,,3,3.36,San Antonio Spurs,shot,,,McGee,,,,,,,Green,,,,missed,,Layup,,,55-80,2,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=347
 ,,,,,,,,,,3,3.34,San Antonio Spurs,rebound,,,,,,,,,,Green,,,,,,,,,55-80,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=348
 ,,,,,,,,,,3,3.31,San Antonio Spurs,shot,,,,,,,,,,Green,2,,,made,,Jump Shot,,,55-82,8,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=349
 ,,,,,,,,,,3,3.20,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,3PT Jump Shot,,,55-82,25,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=350
@@ -340,7 +340,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.29,San Antonio Spurs,foul,,,,,,,,,,Splitter,,,,,,Shooting,,,68-90,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=398
 ,,,,,,,,,,4,11.29,Denver Nuggets,free throw,,,,,,,1,,2,Brewer,1,,foul,made,,,,,69-90,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=399
 ,,,,,,,,,,4,11.29,Denver Nuggets,free throw,,,,,,,2,,2,Brewer,1,,foul,made,,,,,70-90,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=401
-,,,,,,,,,,4,11.16,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,,,,,70-90,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=403
+,,,,,,,,,,4,11.16,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Bad Pass,,Faried,,,,70-90,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=403
 ,,,,,,,,,,4,11.11,San Antonio Spurs,foul,,,,,,,,,,De Colo,,,,,,Shooting,,,70-90,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=404
 ,,,,,,,,,,4,11.11,Denver Nuggets,free throw,,,,,,,1,,2,Faried,1,,foul,made,,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=405
 ,,,,,,,,,,4,11.11,Denver Nuggets,free throw,,,,,,,2,,2,Faried,1,,foul,made,,,,,72-90,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=407
@@ -371,7 +371,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.33,San Antonio Spurs,turnover,,,,,,,,,,Jackson,,,Foul,,,,,,77-99,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=439
 ,,,,,,,,,,4,8.16,Denver Nuggets,shot,,,,,,,,,,Brewer,2,,,made,,Jump Shot,,,79-99,17,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=440
 ,,,,,,,,,,4,8.00,San Antonio Spurs,shot,,,,,,,,,,Splitter,2,,,made,,Layup,,,79-101,3,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=441
-,,,,,,,,,,4,7.44,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,79-101,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=442
+,,,,,,,,,,4,7.44,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Jackson,,,,79-101,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=442
 ,,,,,,,,,,4,7.39,Denver Nuggets,foul,,,,,,,,,,McGee,,,,,,Shooting,,,79-101,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=443
 ,,,,,,,,,,4,7.39,San Antonio Spurs,free throw,,,,,,,1,,2,Splitter,1,,foul,made,,,,,79-102,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=444
 ,,,,,,,,,,4,7.39,San Antonio Spurs,substitute,,,,Green,,Mills,,,,,,,,,,,,,79-102,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=446
@@ -384,11 +384,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.07,San Antonio Spurs,shot,,,,,,,,,,Splitter,2,,,made,,Putback Dunk,,,82-104,1,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=453
 ,,,,,,,,,,4,6.57,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Driving Jump Shot,,,82-104,6,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=455
 ,,,,,,,,,,4,6.56,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,82-104,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=456
-,,,,,,,,,,4,6.46,San Antonio Spurs,shot,,,,,,,,,,Splitter,,,,missed,,Jump Shot,,,82-104,4,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=457
+,,,,,,,,,,4,6.46,San Antonio Spurs,shot,,,McGee,,,,,,,Splitter,,,,missed,,Jump Shot,,,82-104,4,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=457
 ,,,,,,,,,,4,6.46,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,82-104,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=458
 ,,,,,,,,,,4,6.46,San Antonio Spurs,foul,,,,,,,,,,Splitter,,,,,,Loose ball,,,82-104,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=459
 ,,,,,,,,,,4,6.46,Denver Nuggets,substitute,,,,Mozgov,,McGee,,,,,,,,,,,,,82-104,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=460
-,,,,,,,,,,4,6.31,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,,,,,82-104,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=461
+,,,,,,,,,,4,6.31,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,Colo,,,,82-104,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=461
 ,,,,,,,,,,4,6.20,San Antonio Spurs,shot,Bonner,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,82-107,24,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=462
 ,,,,,,,,,,4,6.08,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,82-107,19,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=463
 ,,,,,,,,,,4,6.07,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,82-107,,http://stats.nba.com/cvp.html?GameID=0021200137&GameEventID=464

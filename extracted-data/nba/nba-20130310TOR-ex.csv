@@ -8,7 +8,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.06,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=10
 ,,,,,,,,,,1,10.54,Cleveland Cavaliers,shot,,,,,,,,,,Gee,,,,missed,,3PT Jump Shot,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=11
 ,,,,,,,,,,1,10.52,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=12
-,,,,,,,,,,1,10.48,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Lost Ball,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=13
+,,,,,,,,,,1,10.48,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Lost Ball,,Lowry,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=13
 ,,,,,,,,,,1,10.47,Cleveland Cavaliers,foul,,,,,,,,,,Irving,,,,,,Personal,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=14
 ,,,,,,,,,,1,10.37,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,2-0,19,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=15
 ,,,,,,,,,,1,10.36,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,2-0,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=16
@@ -34,7 +34,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.52,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,9-9,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=39
 ,,,,,,,,,,1,7.49,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,3PT Jump Shot,,,9-9,25,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=40
 ,,,,,,,,,,1,7.48,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,9-9,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=41
-,,,,,,,,,,1,7.42,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,9-9,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=42
+,,,,,,,,,,1,7.42,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Gee,,,,9-9,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=42
 ,,,,,,,,,,1,7.39,Cleveland Cavaliers,shot,,,,,,,,,,Gee,2,,,made,,Dunk,,,11-9,1,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=43
 ,,,,,,,,,,1,7.32,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,11-9,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=44
 ,,,,,,,,,,1,7.23,Cleveland Cavaliers,shot,Irving,,,,,,,,,Thompson,2,,,made,,Driving Dunk,,,13-9,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=46
@@ -53,7 +53,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.45,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,15-12,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=62
 ,,,,,,,,,,1,5.31,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,15-12,6,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=63
 ,,,,,,,,,,1,5.30,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,15-12,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=64
-,,,,,,,,,,1,5.28,Cleveland Cavaliers,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,15-12,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=65
+,,,,,,,,,,1,5.28,Cleveland Cavaliers,turnover,,,,,,,,,,Thompson,,,Bad Pass,,DeRozan,,,,15-12,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=65
 ,,,,,,,,,,1,5.19,Toronto Raptors,shot,DeRozan,,,,,,,,,Ross,3,,,made,,3PT Jump Shot,,,15-15,24,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=66
 ,,,,,,,,,,1,4.58,Cleveland Cavaliers,shot,Zeller,,,,,,,,,Livingston,2,,,made,,Running Dunk,,,17-15,1,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=67
 ,,,,,,,,,,1,4.39,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,17-15,20,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=68
@@ -62,7 +62,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.17,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=71
 ,,,,,,,,,,1,4.17,Cleveland Cavaliers,substitute,,,,Speights,,Zeller,,,,,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=73
 ,,,,,,,,,,1,4.17,Cleveland Cavaliers,substitute,,,,Ellington,,Waiters,,,,,,,,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=74
-,,,,,,,,,,1,3.59,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=75
+,,,,,,,,,,1,3.59,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Gee,,,,19-15,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=75
 ,,,,,,,,,,1,3.46,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,2,,,made,,Jump Hook Shot,,,21-15,15,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=76
 ,,,,,,,,,,1,3.22,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,21-15,25,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=77
 ,,,,,,,,,,1,3.21,Cleveland Cavaliers,rebound,,,,,,,,,,Gee,,,,,,,,,21-15,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=78
@@ -93,7 +93,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.14,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,2,,,made,,Turnaround Jump Shot,,,25-19,18,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=108
 ,,,,,,,,,,1,0.48,Toronto Raptors,shot,,,,,,,,,,Fields,,,,missed,,Pullup Jump Shot,,,25-19,15,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=109
 ,,,,,,,,,,1,0.47,Cleveland Cavaliers,rebound,,,,,,,,,,Speights,,,,,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=110
-,,,,,,,,,,1,0.36,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Lost Ball,,,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=111
+,,,,,,,,,,1,0.36,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Lost Ball,,III,,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=111
 ,,,,,,,,,,1,0.33,Cleveland Cavaliers,foul,,,,,,,,,,Miles,,,,,,Shooting,,,25-19,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=112
 ,,,,,,,,,,1,0.33,Toronto Raptors,free throw,,,,,,,1,,2,Lucas III,1,,foul,made,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=113
 ,,,,,,,,,,1,0.33,Toronto Raptors,free throw,,,,,,,2,,2,Lucas III,,,foul,missed,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=115
@@ -105,7 +105,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.47,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,2,,,made,,Turnaround Jump Shot,,,29-20,16,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=126
 ,,,,,,,,,,2,11.47,Toronto Raptors,foul,,,,,,,,,,Lucas III,,,,,,Shooting,,,29-20,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=127
 ,,,,,,,,,,2,11.47,Cleveland Cavaliers,free throw,,,,,,,1,,1,Ellington,1,,foul,made,,,,,30-20,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=128
-,,,,,,,,,,2,11.26,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Layup,,,30-20,3,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=130
+,,,,,,,,,,2,11.26,Toronto Raptors,shot,,,Speights,,,,,,,Johnson,,,,missed,,Layup,,,30-20,3,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=130
 ,,,,,,,,,,2,11.23,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,30-20,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=131
 ,,,,,,,,,,2,11.23,Toronto Raptors,violation,,,,,,,,,,Lucas III,,,Kicked Ball,,,,,,30-20,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=132
 ,,,,,,,,,,2,11.12,Cleveland Cavaliers,shot,Ellington,,,,,,,,,Miles,3,,,made,,3PT Jump Shot,,,33-20,25,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=133
@@ -113,7 +113,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.45,Cleveland Cavaliers,shot,,,,,,,,,,Walton,,,,missed,,3PT Jump Shot,,,33-22,25,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=136
 ,,,,,,,,,,2,10.45,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=137
 ,,,,,,,,,,2,10.45,Cleveland Cavaliers,foul,,,,,,,,,,Speights,,,,,,Loose ball,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=138
-,,,,,,,,,,2,10.29,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Lost Ball,,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=139
+,,,,,,,,,,2,10.29,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Lost Ball,,Ellington,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=139
 ,,,,,,,,,,2,10.24,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,2,,,made,,Driving Slam Dunk,,,35-22,1,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=140
 ,,,,,,,,,,2,10.17,Toronto Raptors,shot,Lucas III,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,35-25,25,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=141
 ,,,,,,,,,,2,9.59,Toronto Raptors,foul,,,,,,,,,,Fields,,,,,,Shooting,,,35-25,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=144
@@ -133,7 +133,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.43,Toronto Raptors,shot,,,,,,,,,,Lucas III,2,,,made,,Driving Layup,,,36-27,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=161
 ,,,,,,,,,,2,8.25,Cleveland Cavaliers,shot,,,,,,,,,,Irving,,,,missed,,3PT Jump Shot,,,36-27,24,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=162
 ,,,,,,,,,,2,8.24,Toronto Raptors,rebound,,,,,,,,,,Lucas III,,,,,,,,,36-27,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=163
-,,,,,,,,,,2,8.16,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,36-27,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=164
+,,,,,,,,,,2,8.16,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,Speights,,,,36-27,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=164
 ,,,,,,,,,,2,8.13,Cleveland Cavaliers,foul,,,,,,,,,,Miles,,,,,,Offensive Charge,,,36-27,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=165
 ,,,,,,,,,,2,8.13,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Foul,,,,,,36-27,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=166
 ,,,,,,,,,,2,8.13,Toronto Raptors,substitute,,,,Telfair,,Lucas III,,,,,,,,,,,,,36-27,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=170
@@ -145,7 +145,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.12,Cleveland Cavaliers,substitute,,,,Zeller,,Ellington,,,,,,,,,,,,,36-29,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=177
 ,,,,,,,,,,2,7.12,Cleveland Cavaliers,substitute,,,,Waiters,,Speights,,,,,,,,,,,,,36-29,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=178
 ,,,,,,,,,,2,7.12,Toronto Raptors,substitute,,,,Ross,,Fields,,,,,,,,,,,,,36-29,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=179
-,,,,,,,,,,2,7.00,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,,,,,36-29,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=180
+,,,,,,,,,,2,7.00,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Bad Pass,,Ross,,,,36-29,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=180
 ,,,,,,,,,,2,6.54,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,Driving Finger Roll Layup,,,36-29,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=181
 ,,,,,,,,,,2,6.53,Cleveland Cavaliers,rebound,,,,,,,,,,Waiters,,,,,,,,,36-29,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=182
 ,,,,,,,,,,2,6.45,Cleveland Cavaliers,shot,Walton,,,,,,,,,Miles,3,,,made,,3PT Jump Shot,,,39-29,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=183
@@ -153,7 +153,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.31,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,39-29,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=185
 ,,,,,,,,,,2,6.29,Toronto Raptors,shot,,,,,,,,,,Johnson,2,,,made,,Jump Hook Shot,,,39-31,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=186
 ,,,,,,,,,,2,6.18,Cleveland Cavaliers,shot,Zeller,,,,,,,,,Miles,3,,,made,,3PT Jump Shot,,,42-31,24,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=187
-,,,,,,,,,,2,5.56,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Layup,,,42-31,3,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=188
+,,,,,,,,,,2,5.56,Toronto Raptors,shot,,,Zeller,,,,,,,Johnson,,,,missed,,Layup,,,42-31,3,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=188
 ,,,,,,,,,,2,5.56,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,42-31,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=189
 ,,,,,,,,,,2,5.56,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,42-31,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=190
 ,,,,,,,,,,2,5.56,Cleveland Cavaliers,substitute,,,,Thompson,,Walton,,,,,,,,,,,,,42-31,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=192
@@ -209,7 +209,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.24,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Shooting,,,55-42,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=253
 ,,,,,,,,,,2,0.24,Toronto Raptors,free throw,,,,,,,1,,2,DeRozan,1,,foul,made,,,,,55-43,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=254
 ,,,,,,,,,,2,0.24,Toronto Raptors,free throw,,,,,,,2,,2,DeRozan,1,,foul,made,,,,,55-44,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=256
-,,,,,,,,,,2,0.13,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,,,,,55-44,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=258
+,,,,,,,,,,2,0.13,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Lost Ball,,Lowry,,,,55-44,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=258
 ,,,,,,,,,,2,0.09,Toronto Raptors,shot,DeRozan,,,,,,,,,Lowry,2,,,made,,Driving Layup,,,55-46,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=259
 ,,,,,,,,,,2,0.05,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Personal,,,55-46,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=260
 ,,,,,,,,,,2,0.00,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,Fadeaway Jumper,,,55-46,21,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=261
@@ -235,7 +235,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.47,Toronto Raptors,shot,DeRozan,,,,,,,,,Ross,3,,,made,,3PT Jump Shot,,,57-49,25,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=286
 ,,,,,,,,,,3,9.39,Cleveland Cavaliers,shot,Irving,,,,,,,,,Zeller,2,,,made,,Layup,,,59-49,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=287
 ,,,,,,,,,,3,9.20,Toronto Raptors,shot,DeRozan,,,,,,,,,Ross,3,,,made,,3PT Jump Shot,,,59-52,24,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=288
-,,,,,,,,,,3,9.16,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,,,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=289
+,,,,,,,,,,3,9.16,Cleveland Cavaliers,turnover,,,,,,,,,,Irving,,,Bad Pass,,Lowry,,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=289
 ,,,,,,,,,,3,9.07,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Personal,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=290
 ,,,,,,,,,,3,8.57,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Personal Block,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=291
 ,,,,,,,,,,3,8.48,Toronto Raptors,foul,,,,,,,,,,Johnson,,,,,,Offensive Charge,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=292
@@ -249,7 +249,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.15,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Personal,,,60-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=301
 ,,,,,,,,,,3,8.04,Cleveland Cavaliers,shot,,,,,,,,,,Waiters,,,,missed,,Step Back Jump Shot,,,60-52,16,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=302
 ,,,,,,,,,,3,8.03,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,60-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=303
-,,,,,,,,,,3,7.56,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,60-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=304
+,,,,,,,,,,3,7.56,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,Irving,,,,60-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=304
 ,,,,,,,,,,3,7.52,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Shooting Block,,,60-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=305
 ,,,,,,,,,,3,7.52,Cleveland Cavaliers,free throw,,,,,,,1,,2,Waiters,1,,foul,made,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=306
 ,,,,,,,,,,3,7.52,Toronto Raptors,foul,,,,,,,,,,Lowry,,,,,,Technical,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=309
@@ -258,7 +258,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.52,Cleveland Cavaliers,free throw,,,,,,,2,,2,Waiters,,,foul,missed,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=312
 ,,,,,,,,,,3,7.51,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=314
 ,,,,,,,,,,3,7.38,Toronto Raptors,shot,Lowry,,,,,,,,,Valanciunas,2,,,made,,Running Layup,,,61-54,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=316
-,,,,,,,,,,3,7.27,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Slam Dunk,,,61-54,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=317
+,,,,,,,,,,3,7.27,Cleveland Cavaliers,shot,,,Johnson,,,,,,,Thompson,,,,missed,,Slam Dunk,,,61-54,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=317
 ,,,,,,,,,,3,7.26,Cleveland Cavaliers,rebound,,,,,,,,,,Thompson,,,,,,,,,61-54,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=318
 ,,,,,,,,,,3,7.23,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,2,,,made,,Slam Dunk,,,63-54,1,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=319
 ,,,,,,,,,,3,7.17,Cleveland Cavaliers,foul,,,,,,,,,,Zeller,,,,,,Shooting Block,,,63-54,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=320
@@ -292,7 +292,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.06,Cleveland Cavaliers,shot,,,,,,,,,,Speights,2,,,made,,Fadeaway Jumper,,,69-64,11,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=357
 ,,,,,,,,,,3,3.45,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Jump Hook Shot,,,69-64,6,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=358
 ,,,,,,,,,,3,3.44,Cleveland Cavaliers,rebound,,,,,,,,,,Ellington,,,,,,,,,69-64,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=359
-,,,,,,,,,,3,3.32,Cleveland Cavaliers,shot,,,,,,,,,,Thompson,,,,missed,,Jump Hook Shot,,,69-64,11,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=360
+,,,,,,,,,,3,3.32,Cleveland Cavaliers,shot,,,Johnson,,,,,,,Thompson,,,,missed,,Jump Hook Shot,,,69-64,11,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=360
 ,,,,,,,,,,3,3.30,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,69-64,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=361
 ,,,,,,,,,,3,3.24,Toronto Raptors,shot,Lowry,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,69-67,25,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=362
 ,,,,,,,,,,3,3.05,Cleveland Cavaliers,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,69-67,14,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=364
@@ -322,7 +322,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.03,Cleveland Cavaliers,substitute,,,,Livingston,,Irving,,,,,,,,,,,,,73-70,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=402
 ,,,,,,,,,,3,2.03,Toronto Raptors,free throw,,,,,,,2,,2,Fields,,,foul,missed,,,,,73-70,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=403
 ,,,,,,,,,,3,2.03,Cleveland Cavaliers,rebound,,,,,,,,,,Speights,,,,,,,,,73-70,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=405
-,,,,,,,,,,3,1.41,Cleveland Cavaliers,shot,,,,,,,,,,Speights,,,,missed,,Driving Layup,,,73-70,4,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=407
+,,,,,,,,,,3,1.41,Cleveland Cavaliers,shot,,,Valanciunas,,,,,,,Speights,,,,missed,,Driving Layup,,,73-70,4,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=407
 ,,,,,,,,,,3,1.39,Cleveland Cavaliers,rebound,,,,,,,,,,Walton,,,,,,,,,73-70,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=408
 ,,,,,,,,,,3,1.37,Cleveland Cavaliers,shot,,,,,,,,,,Walton,,,,missed,,Fadeaway Jumper,,,73-70,17,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=409
 ,,,,,,,,,,3,1.36,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,73-70,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=410
@@ -346,7 +346,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.06,Cleveland Cavaliers,foul,,,,,,,,,,Walton,,,,,,Shooting,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=436
 ,,,,,,,,,,3,0.06,Toronto Raptors,free throw,,,,,,,1,,2,Valanciunas,1,,foul,made,,,,,74-78,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=437
 ,,,,,,,,,,3,0.06,Toronto Raptors,free throw,,,,,,,2,,2,Valanciunas,1,,foul,made,,,,,74-79,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=439
-,,,,,,,,,,3,0.02,Cleveland Cavaliers,shot,,,,,,,,,,Speights,,,,missed,,Driving Layup,,,74-79,3,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=441
+,,,,,,,,,,3,0.02,Cleveland Cavaliers,shot,,,Valanciunas,,,,,,,Speights,,,,missed,,Driving Layup,,,74-79,3,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=441
 ,,,,,,,,,,3,0.02,Cleveland Cavaliers,rebound,,,,,,,,,,Livingston,,,,,,,,,74-79,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=442
 ,,,,,,,,,,3,0.00,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,,,,missed,,Tip Shot,,,74-79,1,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=443
 ,,,,,,,,,,3,0.00,Toronto Raptors,rebound,,,,,,,,,,Anderson,,,,,,,,,74-79,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=444
@@ -363,11 +363,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.06,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller Out of Bounds,,,Lost Ball,,,,,,78-80,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=464
 ,,,,,,,,,,4,9.46,Toronto Raptors,shot,,,,,,,,,,Telfair,,,,missed,,3PT Jump Shot,,,78-80,25,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=465
 ,,,,,,,,,,4,9.45,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,78-80,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=466
-,,,,,,,,,,4,9.37,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Bad Pass,,,,,,78-80,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=467
+,,,,,,,,,,4,9.37,Cleveland Cavaliers,turnover,,,,,,,,,,Zeller,,,Bad Pass,,Johnson,,,,78-80,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=467
 ,,,,,,,,,,4,9.22,Toronto Raptors,shot,Johnson,,,,,,,,,Anderson,2,,,made,,Driving Layup,,,78-82,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=468
 ,,,,,,,,,,4,9.07,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,Jump Shot,,,78-82,20,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=469
 ,,,,,,,,,,4,9.06,Cleveland Cavaliers,rebound,,,,,,,,,,Zeller,,,,,,,,,78-82,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=470
-,,,,,,,,,,4,9.05,Cleveland Cavaliers,shot,,,,,,,,,,Zeller,,,,missed,,Layup,,,78-82,3,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=471
+,,,,,,,,,,4,9.05,Cleveland Cavaliers,shot,,,Johnson,,,,,,,Zeller,,,,missed,,Layup,,,78-82,3,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=471
 ,,,,,,,,,,4,9.05,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,78-82,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=472
 ,,,,,,,,,,4,8.57,Cleveland Cavaliers,shot,,,,,,,,,,Livingston,,,,missed,,Driving Bank Shot,,,78-82,6,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=473
 ,,,,,,,,,,4,8.56,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,78-82,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=474
@@ -376,7 +376,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.38,Cleveland Cavaliers,shot,,,,,,,,,,Ellington,,,,missed,,3PT Jump Shot,,,78-82,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=477
 ,,,,,,,,,,4,8.37,Toronto Raptors,rebound,,,,,,,,,,Anderson,,,,,,,,,78-82,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=478
 ,,,,,,,,,,4,8.22,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Turnaround Fadeaway,,,78-84,15,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=479
-,,,,,,,,,,4,8.13,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Lost Ball,,,,,,78-84,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=480
+,,,,,,,,,,4,8.13,Cleveland Cavaliers,turnover,,,,,,,,,,Miles,,,Lost Ball,,Anderson,,,,78-84,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=480
 ,,,,,,,,,,4,8.07,Toronto Raptors,shot,Anderson,,,,,,,,,Fields,2,,,made,,Driving Layup,,,78-86,2,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=481
 ,,,,,,,,,,4,8.05,Cleveland Cavaliers,timeout,,,,,,,,,,,,,,,,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=482
 ,,,,,,,,,,4,8.05,Cleveland Cavaliers,substitute,,,,Waiters,,Ellington,,,,,,,,,,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=484
@@ -392,7 +392,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.46,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Jump Shot,,,80-86,12,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=496
 ,,,,,,,,,,4,6.45,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=497
 ,,,,,,,,,,4,6.45,Toronto Raptors,foul,,,,,,,,,,Johnson,,,,,,Loose ball,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=498
-,,,,,,,,,,4,6.28,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Lost Ball,,,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=499
+,,,,,,,,,,4,6.28,Cleveland Cavaliers,turnover,,,,,,,,,,Walton,,,Lost Ball,,Fields,,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=499
 ,,,,,,,,,,4,6.15,Cleveland Cavaliers,foul,,,,,,,,,,Livingston,,,,,,Shooting,,,80-86,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=500
 ,,,,,,,,,,4,6.15,Toronto Raptors,free throw,,,,,,,1,,2,DeRozan,1,,foul,made,,,,,80-87,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=501
 ,,,,,,,,,,4,6.15,Toronto Raptors,substitute,,,,Lowry,,Telfair,,,,,,,,,,,,,80-87,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=503
@@ -411,7 +411,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.27,Cleveland Cavaliers,rebound,,,,,,,,,,,,,,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=523
 ,,,,,,,,,,4,5.27,Cleveland Cavaliers,free throw,,,,,,,2,,2,Thompson,1,,foul,made,,,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=524
 ,,,,,,,,,,4,5.19,Cleveland Cavaliers,foul,,,,,,,,,,Livingston,,,,,,Personal,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=526
-,,,,,,,,,,4,5.08,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=527
+,,,,,,,,,,4,5.08,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,Miles,,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=527
 ,,,,,,,,,,4,4.56,Toronto Raptors,foul,,,,,,,,,,Valanciunas,,,,,,Shooting,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=528
 ,,,,,,,,,,4,4.56,Cleveland Cavaliers,free throw,,,,,,,1,,2,Waiters,1,,foul,made,,,,,84-90,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=529
 ,,,,,,,,,,4,4.56,Cleveland Cavaliers,free throw,,,,,,,2,,2,Waiters,1,,foul,made,,,,,85-90,,http://stats.nba.com/cvp.html?GameID=0021200936&GameEventID=531

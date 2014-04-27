@@ -2,8 +2,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.42,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=2
 ,,,,,,,,,,1,11.25,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Turnaround Hook Shot,,,,13,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=3
 ,,,,,,,,,,1,11.23,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=4
-,,,,,,,,,,1,11.12,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=5
-,,,,,,,,,,1,11.10,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=6
+,,,,,,,,,,1,11.12,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,Vucevic,,,,,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=5
+,,,,,,,,,,1,11.10,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Bad Pass,,Conley,,,,,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=6
 ,,,,,,,,,,1,11.05,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,,21,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=7
 ,,,,,,,,,,1,11.04,Orlando Magic,rebound,,,,,,,,,,Moore,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=8
 ,,,,,,,,,,1,10.55,Orlando Magic,shot,Moore,,,,,,,,,Afflalo,2,,,made,,Jump Shot,,,2-0,20,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=9
@@ -22,7 +22,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.37,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,7-2,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=23
 ,,,,,,,,,,1,8.26,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Jump Shot,,,7-2,18,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=24
 ,,,,,,,,,,1,8.25,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,7-2,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=25
-,,,,,,,,,,1,8.23,Orlando Magic,turnover,,,,,,,,,,Harkless,,,Bad Pass,,,,,,7-2,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=26
+,,,,,,,,,,1,8.23,Orlando Magic,turnover,,,,,,,,,,Harkless,,,Bad Pass,,Prince,,,,7-2,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=26
 ,,,,,,,,,,1,8.04,Memphis Grizzlies,shot,,,,,,,,,,Gasol,2,,,made,,Turnaround Hook Shot,,,7-4,11,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=28
 ,,,,,,,,,,1,7.34,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,3PT Jump Shot,,,7-4,28,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=29
 ,,,,,,,,,,1,7.34,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,7-4,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=30
@@ -41,8 +41,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.09,Orlando Magic,foul,,,,,,,,,,Nicholson,,,,,,Personal,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=43
 ,,,,,,,,,,1,4.59,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,12-11,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=44
 ,,,,,,,,,,1,4.58,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=45
-,,,,,,,,,,1,4.43,Orlando Magic,turnover,,,,,,,,,,Moore,,,Bad Pass,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=46
-,,,,,,,,,,1,4.39,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,12-11,2,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=47
+,,,,,,,,,,1,4.43,Orlando Magic,turnover,,,,,,,,,,Moore,,,Bad Pass,,Allen,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=46
+,,,,,,,,,,1,4.39,Memphis Grizzlies,shot,,,Moore,,,,,,,Allen,,,,missed,,Layup,,,12-11,2,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=47
 ,,,,,,,,,,1,4.39,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=48
 ,,,,,,,,,,1,4.33,Memphis Grizzlies,shot,Conley,,,,,,,,,Gasol,2,,,made,,Turnaround Jump Shot,,,12-13,12,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=49
 ,,,,,,,,,,1,4.24,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=50
@@ -56,13 +56,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.17,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,14-15,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=60
 ,,,,,,,,,,1,3.17,Orlando Magic,shot,,,,,,,,,,Vucevic,,,,missed,,Tip Shot,,,14-15,2,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=59
 ,,,,,,,,,,1,3.14,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,14-15,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=61
-,,,,,,,,,,1,3.02,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,,,,,14-15,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=62
+,,,,,,,,,,1,3.02,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,Nicholson,,,,14-15,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=62
 ,,,,,,,,,,1,2.53,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Jump Shot,,,14-15,21,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=63
 ,,,,,,,,,,1,2.51,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,14-15,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=64
 ,,,,,,,,,,1,2.41,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Turnaround Jump Shot,,,14-15,12,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=65
 ,,,,,,,,,,1,2.39,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,14-15,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=66
 ,,,,,,,,,,1,2.21,Orlando Magic,shot,Moore,,,,,,,,,Harkless,3,,,made,,3PT Jump Shot,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=67
-,,,,,,,,,,1,1.56,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=68
+,,,,,,,,,,1,1.56,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,Moore,,,,17-15,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=68
 ,,,,,,,,,,1,1.51,Orlando Magic,shot,,,,,,,,,,Harkless,2,,,made,,Driving Layup,,,19-15,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=69
 ,,,,,,,,,,1,1.36,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Jump Shot,,,19-17,20,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=70
 ,,,,,,,,,,1,1.13,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,Reverse Layup,,,19-17,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=71
@@ -91,13 +91,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.50,Orlando Magic,free throw,,,,,,,2,,2,Jones,1,,foul,made,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=101
 ,,,,,,,,,,2,10.38,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,3PT Jump Shot,,,25-24,25,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=103
 ,,,,,,,,,,2,10.37,Orlando Magic,rebound,,,,,,,,,,O'Quinn,,,,,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=104
-,,,,,,,,,,2,10.31,Orlando Magic,turnover,,,,,,,,,,Moore,,,Bad Pass,,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=105
+,,,,,,,,,,2,10.31,Orlando Magic,turnover,,,,,,,,,,Moore,,,Bad Pass,,Bayless,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=105
 ,,,,,,,,,,2,10.26,Orlando Magic,foul,,,,,,,,,,O'Quinn,,,,,,Shooting,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=106
 ,,,,,,,,,,2,10.26,Memphis Grizzlies,free throw,,,,,,,1,,2,Arthur,,,foul,missed,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=107
 ,,,,,,,,,,2,10.26,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=108
 ,,,,,,,,,,2,10.26,Orlando Magic,substitute,,,,Nicholson,,O'Quinn,,,,,,,,,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=110
 ,,,,,,,,,,2,10.26,Memphis Grizzlies,free throw,,,,,,,2,,2,Arthur,1,,foul,made,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=111
-,,,,,,,,,,2,10.20,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Layup,,,25-25,2,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=113
+,,,,,,,,,,2,10.20,Orlando Magic,shot,,,Davis,,,,,,,Harkless,,,,missed,,Layup,,,25-25,2,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=113
 ,,,,,,,,,,2,10.18,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,25-25,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=114
 ,,,,,,,,,,2,10.13,Memphis Grizzlies,shot,Conley,,,,,,,,,Bayless,2,,,made,,Jump Shot,,,25-27,22,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=115
 ,,,,,,,,,,2,9.46,Orlando Magic,shot,,,,,,,,,,Nicholson,2,,,made,,Turnaround Hook Shot,,,27-27,6,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=116
@@ -115,7 +115,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.37,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Turnaround Fadeaway Shot,,,32-29,12,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=129
 ,,,,,,,,,,2,7.35,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,32-29,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=131
 ,,,,,,,,,,2,7.35,Orlando Magic,shot,,,,,,,,,,Harkless,2,,,made,,Tip Shot,,,34-29,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=130
-,,,,,,,,,,2,7.11,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Driving Layup,,,34-29,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=132
+,,,,,,,,,,2,7.11,Memphis Grizzlies,shot,,,Jones,,,,,,,Pondexter,,,,missed,,Driving Layup,,,34-29,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=132
 ,,,,,,,,,,2,7.07,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=133
 ,,,,,,,,,,2,7.07,Memphis Grizzlies,foul,,,,,,,,,,Bayless,,,,,,Personal,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=134
 ,,,,,,,,,,2,7.07,Orlando Magic,substitute,,,,Vucevic,,Nicholson,,,,,,,,,,,,,34-29,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=135
@@ -141,7 +141,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.49,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=157
 ,,,,,,,,,,2,4.49,Memphis Grizzlies,substitute,,,,Daye,,Bayless,,,,,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=160
 ,,,,,,,,,,2,4.49,Orlando Magic,substitute,,,,Afflalo,,Moore,,,,,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=161
-,,,,,,,,,,2,4.39,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Jump Shot,,,36-33,10,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=162
+,,,,,,,,,,2,4.39,Orlando Magic,shot,,,Daye,,,,,,,Harkless,,,,missed,,Jump Shot,,,36-33,10,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=162
 ,,,,,,,,,,2,4.37,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=163
 ,,,,,,,,,,2,4.25,Memphis Grizzlies,shot,,,,,,,,,,Daye,,,,missed,,3PT Jump Shot,,,36-33,25,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=164
 ,,,,,,,,,,2,4.24,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,36-33,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=165
@@ -153,7 +153,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.52,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=171
 ,,,,,,,,,,2,3.47,Memphis Grizzlies,foul,,,,,,,,,,Conley,,,,,,Personal,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=172
 ,,,,,,,,,,2,3.47,Memphis Grizzlies,substitute,,,,Allen,,Pondexter,,,,,,,,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=173
-,,,,,,,,,,2,3.38,Orlando Magic,turnover,,,,,,,,,,Jones,,,Lost Ball,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=174
+,,,,,,,,,,2,3.38,Orlando Magic,turnover,,,,,,,,,,Jones,,,Lost Ball,,Allen,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=174
 ,,,,,,,,,,2,3.31,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,36-35,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=175
 ,,,,,,,,,,2,3.08,Orlando Magic,shot,,,,,,,,,,Afflalo,2,,,made,,Fadeaway Jumper,,,38-35,12,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=176
 ,,,,,,,,,,2,2.48,Memphis Grizzlies,shot,Conley,,,,,,,,,Gasol,2,,,made,,Jump Shot,,,38-37,14,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=177
@@ -162,7 +162,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.31,Memphis Grizzlies,substitute,,,,Prince,,Daye,,,,,,,,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=181
 ,,,,,,,,,,2,2.19,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,38-37,5,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=183
 ,,,,,,,,,,2,2.14,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=185
-,,,,,,,,,,2,2.14,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,38-37,2,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=184
+,,,,,,,,,,2,2.14,Memphis Grizzlies,shot,,,Nicholson,,,,,,,Allen,,,,missed,,Layup,,,38-37,2,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=184
 ,,,,,,,,,,2,2.12,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=187
 ,,,,,,,,,,2,2.12,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,38-37,3,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=186
 ,,,,,,,,,,2,2.09,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,38-37,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=188
@@ -200,13 +200,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.46,Memphis Grizzlies,free throw,,,,,,,1,,2,Allen,,,foul,missed,,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=225
 ,,,,,,,,,,3,9.46,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,39-46,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=226
 ,,,,,,,,,,3,9.46,Memphis Grizzlies,free throw,,,,,,,2,,2,Allen,1,,foul,made,,,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=227
-,,,,,,,,,,3,9.30,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Running Jump Shot,,,39-47,4,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=229
+,,,,,,,,,,3,9.30,Orlando Magic,shot,,,Randolph,,,,,,,Nicholson,,,,missed,,Running Jump Shot,,,39-47,4,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=229
 ,,,,,,,,,,3,9.27,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,39-47,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=230
 ,,,,,,,,,,3,9.18,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Driving Layup,,,39-49,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=231
 ,,,,,,,,,,3,9.18,Orlando Magic,foul,,,,,,,,,,Vucevic,,,,,,Shooting,,,39-49,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=232
 ,,,,,,,,,,3,9.18,Memphis Grizzlies,free throw,,,,,,,1,,1,Randolph,1,,foul,made,,,,,39-50,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=233
-,,,,,,,,,,3,9.00,Orlando Magic,turnover,,,,,,,,,,Nicholson,,,Lost Ball,,,,,,39-50,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=235
-,,,,,,,,,,3,8.54,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Lost Ball,,,,,,39-50,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=236
+,,,,,,,,,,3,9.00,Orlando Magic,turnover,,,,,,,,,,Nicholson,,,Lost Ball,,Conley,,,,39-50,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=235
+,,,,,,,,,,3,8.54,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Lost Ball,,Harkless,,,,39-50,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=236
 ,,,,,,,,,,3,8.33,Orlando Magic,shot,,,,,,,,,,Harkless,2,,,made,,Pullup Bank Shot,,,41-50,6,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=237
 ,,,,,,,,,,3,8.10,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Pullup Jump Shot,,,41-50,6,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=238
 ,,,,,,,,,,3,8.08,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,41-50,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=239
@@ -227,7 +227,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.36,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,41-51,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=256
 ,,,,,,,,,,3,7.22,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,3PT Jump Shot,,,41-51,26,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=258
 ,,,,,,,,,,3,7.21,Orlando Magic,rebound,,,,,,,,,,Moore,,,,,,,,,41-51,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=259
-,,,,,,,,,,3,7.08,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Jump Shot,,,41-51,7,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=260
+,,,,,,,,,,3,7.08,Orlando Magic,shot,,,Allen,,,,,,,Afflalo,,,,missed,,Jump Shot,,,41-51,7,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=260
 ,,,,,,,,,,3,7.07,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,41-51,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=261
 ,,,,,,,,,,3,6.48,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,3PT Jump Shot,,,41-51,26,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=262
 ,,,,,,,,,,3,6.47,Orlando Magic,rebound,,,,,,,,,,Jones,,,,,,,,,41-51,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=263
@@ -237,13 +237,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.26,Memphis Grizzlies,shot,Conley,,,,,,,,,Gasol,2,,,made,,Jump Shot,,,41-53,15,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=267
 ,,,,,,,,,,3,6.16,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,41-53,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=268
 ,,,,,,,,,,3,6.16,Memphis Grizzlies,substitute,,,,Bayless,,Conley,,,,,,,,,,,,,41-53,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=270
-,,,,,,,,,,3,6.04,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,3PT Jump Shot,,,41-53,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=272
+,,,,,,,,,,3,6.04,Orlando Magic,shot,,,Allen,,,,,,,Afflalo,,,,missed,,3PT Jump Shot,,,41-53,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=272
 ,,,,,,,,,,3,6.03,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,41-53,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=273
 ,,,,,,,,,,3,5.51,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,3 Second Violation,,,,,,41-53,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=274
 ,,,,,,,,,,3,5.31,Orlando Magic,shot,Moore,,,,,,,,,Afflalo,3,,,made,,3PT Jump Shot,,,44-53,24,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=275
-,,,,,,,,,,3,5.09,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,44-53,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=276
+,,,,,,,,,,3,5.09,Memphis Grizzlies,shot,,,Afflalo,,,,,,,Allen,,,,missed,,Layup,,,44-53,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=276
 ,,,,,,,,,,3,5.07,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,44-53,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=278
-,,,,,,,,,,3,5.07,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,44-53,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=277
+,,,,,,,,,,3,5.07,Memphis Grizzlies,shot,,,Afflalo,,,,,,,Allen,,,,missed,,Layup,,,44-53,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=277
 ,,,,,,,,,,3,5.04,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,44-53,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=279
 ,,,,,,,,,,3,4.58,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,Jump Bank Shot,,,44-53,11,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=280
 ,,,,,,,,,,3,4.55,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,44-53,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=281
@@ -252,7 +252,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.31,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,44-55,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=284
 ,,,,,,,,,,3,4.28,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Reverse Layup,,,44-55,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=285
 ,,,,,,,,,,3,4.25,Orlando Magic,rebound,,,,,,,,,,O'Quinn,,,,,,,,,44-55,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=286
-,,,,,,,,,,3,4.23,Orlando Magic,turnover,,,,,,,,,,O'Quinn,,,Bad Pass,,,,,,44-55,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=287
+,,,,,,,,,,3,4.23,Orlando Magic,turnover,,,,,,,,,,O'Quinn,,,Bad Pass,,Prince,,,,44-55,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=287
 ,,,,,,,,,,3,4.13,Orlando Magic,foul,,,,,,,,,,Jones,,,,,,Shooting,,,44-55,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=288
 ,,,,,,,,,,3,4.13,Memphis Grizzlies,free throw,,,,,,,1,,2,Randolph,1,,foul,made,,,,,44-56,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=289
 ,,,,,,,,,,3,4.13,Memphis Grizzlies,substitute,,,,Wroten,,Prince,,,,,,,,,,,,,44-56,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=290
@@ -263,7 +263,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.04,Memphis Grizzlies,substitute,,,,Davis,,Randolph,,,,,,,,,,,,,44-57,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=295
 ,,,,,,,,,,3,4.04,Orlando Magic,substitute,,,,Nicholson,,Afflalo,,,,,,,,,,,,,44-57,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=298
 ,,,,,,,,,,3,4.04,Orlando Magic,free throw,,,,,,,2,,2,Moore,1,,foul,made,,,,,45-57,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=299
-,,,,,,,,,,3,3.53,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Jump Shot,,,45-57,20,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=300
+,,,,,,,,,,3,3.53,Memphis Grizzlies,shot,,,Moore,,,,,,,Bayless,,,,missed,,Jump Shot,,,45-57,20,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=300
 ,,,,,,,,,,3,3.51,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,45-57,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=301
 ,,,,,,,,,,3,3.48,Memphis Grizzlies,shot,Gasol,,,,,,,,,Davis,2,,,made,,Dunk,,,45-59,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=302
 ,,,,,,,,,,3,3.22,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,Running Jump Shot,,,45-59,8,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=303
@@ -297,7 +297,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.00,Memphis Grizzlies,shot,Bayless,,,,,,,,,Pondexter,3,,,made,,3PT Jump Shot,,,53-67,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=335
 ,,,,,,,,,,4,11.48,Memphis Grizzlies,shot,Wroten,,,,,,,,,Davis,2,,,made,,Dunk,,,53-69,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=339
 ,,,,,,,,,,4,11.31,Orlando Magic,shot,Afflalo,,,,,,,,,Nicholson,2,,,made,,Jump Shot,,,55-69,19,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=340
-,,,,,,,,,,4,11.15,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Dunk,,,55-69,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=341
+,,,,,,,,,,4,11.15,Memphis Grizzlies,shot,,,Nicholson,,,,,,,Arthur,,,,missed,,Dunk,,,55-69,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=341
 ,,,,,,,,,,4,11.14,Orlando Magic,rebound,,,,,,,,,,Jones,,,,,,,,,55-69,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=342
 ,,,,,,,,,,4,11.13,Memphis Grizzlies,foul,,,,,,,,,,Wroten,,,,,,Personal,,,55-69,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=343
 ,,,,,,,,,,4,11.13,Orlando Magic,substitute,,,,Vucevic,,Nicholson,,,,,,,,,,,,,55-69,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=344
@@ -319,7 +319,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.05,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,3PT Jump Shot,,,61-69,25,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=361
 ,,,,,,,,,,4,9.04,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=362
 ,,,,,,,,,,4,9.03,Orlando Magic,substitute,,,,Harkless,,Afflalo,,,,,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=364
-,,,,,,,,,,4,9.01,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,61-69,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=365
+,,,,,,,,,,4,9.01,Memphis Grizzlies,shot,,,Harkless,,,,,,,Randolph,,,,missed,,Layup,,,61-69,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=365
 ,,,,,,,,,,4,9.00,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=366
 ,,,,,,,,,,4,8.47,Orlando Magic,shot,,,,,,,,,,O'Quinn,,,,missed,,Jump Shot,,,61-69,18,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=367
 ,,,,,,,,,,4,8.46,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,61-69,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=368
@@ -340,7 +340,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.21,Memphis Grizzlies,substitute,,,,Allen,,Bayless,,,,,,,,,,,,,63-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=387
 ,,,,,,,,,,4,7.11,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Driving Layup,,,63-72,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=388
 ,,,,,,,,,,4,7.09,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,63-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=390
-,,,,,,,,,,4,7.09,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Layup,,,63-72,2,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=389
+,,,,,,,,,,4,7.09,Orlando Magic,shot,,,Davis,,,,,,,Harkless,,,,missed,,Layup,,,63-72,2,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=389
 ,,,,,,,,,,4,7.08,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,63-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=391
 ,,,,,,,,,,4,7.08,Orlando Magic,foul,,,,,,,,,,Harkless,,,,,,Personal,,,63-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=392
 ,,,,,,,,,,4,6.56,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,63-72,15,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=393
@@ -353,10 +353,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.50,Memphis Grizzlies,substitute,,,,Gasol,,Pondexter,,,,,,,,,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=400
 ,,,,,,,,,,4,5.39,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Hook Shot,,,67-72,10,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=401
 ,,,,,,,,,,4,5.37,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=402
-,,,,,,,,,,4,5.24,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=403
+,,,,,,,,,,4,5.24,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,Moore,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=403
 ,,,,,,,,,,4,5.20,Orlando Magic,shot,Moore,,,,,,,,,Harkless,2,,,made,,Slam Dunk,,,69-72,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=404
 ,,,,,,,,,,4,5.19,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,69-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=405
-,,,,,,,,,,4,5.06,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,69-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=407
+,,,,,,,,,,4,5.06,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Afflalo,,,,69-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=407
 ,,,,,,,,,,4,5.00,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,Jump Shot,,,69-72,21,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=408
 ,,,,,,,,,,4,4.58,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,69-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=409
 ,,,,,,,,,,4,4.45,Orlando Magic,foul,,,,,,,,,,Nicholson,,,,,,Personal,,,69-72,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=410
@@ -366,7 +366,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.35,Memphis Grizzlies,free throw,,,,,,,2,,2,Gasol,1,,foul,made,,,,,69-74,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=415
 ,,,,,,,,,,4,4.22,Orlando Magic,shot,Moore,,,,,,,,,Harkless,2,,,made,,Layup,,,71-74,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=417
 ,,,,,,,,,,4,4.04,Memphis Grizzlies,shot,Gasol,,,,,,,,,Prince,2,,,made,,Jump Shot,,,71-76,19,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=418
-,,,,,,,,,,4,3.42,Orlando Magic,turnover,,,,,,,,,,Harkless,,,Lost Ball,,,,,,71-76,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=419
+,,,,,,,,,,4,3.42,Orlando Magic,turnover,,,,,,,,,,Harkless,,,Lost Ball,,Gasol,,,,71-76,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=419
 ,,,,,,,,,,4,3.38,Memphis Grizzlies,shot,Conley,,,,,,,,,Randolph,2,,,made,,Layup,,,71-78,1,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=420
 ,,,,,,,,,,4,3.34,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,71-78,,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=421
 ,,,,,,,,,,4,3.16,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,Pullup Jump Shot,,,71-78,20,http://stats.nba.com/cvp.html?GameID=0021200817&GameEventID=424

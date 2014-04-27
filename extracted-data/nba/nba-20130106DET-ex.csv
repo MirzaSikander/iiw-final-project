@@ -19,7 +19,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.35,Detroit Pistons,violation,,,,,,,,,,Singler,,,Kicked Ball,,,,,,4-12,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=19
 ,,,,,,,,,,1,8.25,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,4-12,17,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=20
 ,,,,,,,,,,1,8.24,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,4-12,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=21
-,,,,,,,,,,1,8.19,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,,,,,4-12,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=22
+,,,,,,,,,,1,8.19,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,Thomas,,,,4-12,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=22
 ,,,,,,,,,,1,8.15,Detroit Pistons,foul,,,,,,,,,,Singler,,,,,,Shooting,,,4-12,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=23
 ,,,,,,,,,,1,8.15,Charlotte Bobcats,free throw,,,,,,,1,,2,Kidd-Gilchrist,1,,foul,made,,,,,5-12,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=24
 ,,,,,,,,,,1,8.15,Charlotte Bobcats,free throw,,,,,,,2,,2,Kidd-Gilchrist,1,,foul,made,,,,,6-12,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=26
@@ -40,7 +40,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.35,Detroit Pistons,foul,,,,,,,,,,Monroe,,,,,,Shooting,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=42
 ,,,,,,,,,,1,5.35,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=43
 ,,,,,,,,,,1,5.35,Charlotte Bobcats,free throw,,,,,,,1,,1,Thomas,1,,foul,made,,,,,13-16,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=45
-,,,,,,,,,,1,5.14,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Lost Ball,,,,,,13-16,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=47
+,,,,,,,,,,1,5.14,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Lost Ball,,Walker,,,,13-16,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=47
 ,,,,,,,,,,1,5.10,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Driving Layup,,,15-16,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=48
 ,,,,,,,,,,1,4.51,Detroit Pistons,shot,Monroe,,,,,,,,,Singler,2,,,made,,Jump Shot,,,15-18,18,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=49
 ,,,,,,,,,,1,4.26,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,15-18,16,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=50
@@ -49,9 +49,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.15,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,15-18,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=53
 ,,,,,,,,,,1,4.02,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,15-18,5,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=54
 ,,,,,,,,,,1,4.01,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,15-18,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=55
-,,,,,,,,,,1,4.00,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Layup,,,15-18,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=56
+,,,,,,,,,,1,4.00,Charlotte Bobcats,shot,,,Maxiell,,,,,,,Biyombo,,,,missed,,Layup,,,15-18,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=56
 ,,,,,,,,,,1,3.58,Charlotte Bobcats,rebound,,,,,,,,,,Thomas,,,,,,,,,15-18,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=57
-,,,,,,,,,,1,3.51,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,15-18,4,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=58
+,,,,,,,,,,1,3.51,Charlotte Bobcats,shot,,,Knight,,,,,,,Walker,,,,missed,,Jump Shot,,,15-18,4,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=58
 ,,,,,,,,,,1,3.49,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,15-18,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=59
 ,,,,,,,,,,1,3.49,Charlotte Bobcats,foul,,,,,,,,,,Taylor,,,,,,Shooting,,,15-18,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=60
 ,,,,,,,,,,1,3.49,Detroit Pistons,free throw,,,,,,,1,,2,Prince,1,,foul,made,,,,,15-19,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=61
@@ -83,12 +83,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.48,Charlotte Bobcats,free throw,,,,,,,2,,2,Adrien,,,foul,missed,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=91
 ,,,,,,,,,,1,1.47,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,19-24,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=93
 ,,,,,,,,,,1,1.29,Detroit Pistons,shot,Prince,,,,,,,,,Stuckey,3,,,made,,3PT Jump Shot,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=94
-,,,,,,,,,,1,1.13,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Lost Ball,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=95
+,,,,,,,,,,1,1.13,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Lost Ball,,Stuckey,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=95
 ,,,,,,,,,,1,1.12,Charlotte Bobcats,foul,,,,,,,,,,Sessions,,,,,,clear path,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=96
 ,,,,,,,,,,1,1.12,Detroit Pistons,free throw,,,,,,,,,,Knight,,,foul,missed,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=98
 ,,,,,,,,,,1,1.12,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=99
 ,,,,,,,,,,1,1.12,Detroit Pistons,free throw,,,,,,,,,,Knight,1,,foul,made,,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=100
-,,,,,,,,,,1,1.02,Detroit Pistons,turnover,,,,,,,,,,Drummond,,,Lost Ball,,,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=102
+,,,,,,,,,,1,1.02,Detroit Pistons,turnover,,,,,,,,,,Drummond,,,Lost Ball,,Sessions,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=102
 ,,,,,,,,,,1,0.56,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,19-28,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=103
 ,,,,,,,,,,1,0.56,Charlotte Bobcats,rebound,,,,,,,,,,Adrien,,,,,,,,,19-28,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=104
 ,,,,,,,,,,1,0.56,Charlotte Bobcats,shot,,,,,,,,,,Adrien,2,,,made,,Layup,,,21-28,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=105
@@ -102,13 +102,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.03,Detroit Pistons,turnover,,,,,,,,,,Prince Out of Bounds,,,Lost Ball,,,,,,21-30,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=113
 ,,,,,,,,,,1,0.01,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,3PT Jump Shot,,,21-30,29,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=114
 ,,,,,,,,,,1,0.00,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,21-30,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=115
-,,,,,,,,,,2,11.41,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Lost Ball,,,,,,21-30,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=119
+,,,,,,,,,,2,11.41,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Lost Ball,,Haywood,,,,21-30,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=119
 ,,,,,,,,,,2,11.38,Detroit Pistons,foul,,,,,,,,,,Bynum,,,,,,Shooting,,,21-30,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=120
 ,,,,,,,,,,2,11.38,Charlotte Bobcats,free throw,,,,,,,1,,2,Sessions,1,,foul,made,,,,,22-30,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=121
 ,,,,,,,,,,2,11.38,Charlotte Bobcats,free throw,,,,,,,2,,2,Sessions,1,,foul,made,,,,,23-30,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=122
 ,,,,,,,,,,2,11.21,Detroit Pistons,shot,Stuckey,,,,,,,,,Bynum,3,,,made,,3PT Jump Shot,,,23-33,25,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=124
 ,,,,,,,,,,2,11.04,Charlotte Bobcats,shot,,,,,,,,,,Gordon,2,,,made,,Reverse Layup,,,25-33,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=125
-,,,,,,,,,,2,10.55,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Lost Ball,,,,,,25-33,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=126
+,,,,,,,,,,2,10.55,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Lost Ball,,Adrien,,,,25-33,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=126
 ,,,,,,,,,,2,10.47,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,25-33,24,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=127
 ,,,,,,,,,,2,10.46,Charlotte Bobcats,rebound,,,,,,,,,,Adrien,,,,,,,,,25-33,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=128
 ,,,,,,,,,,2,10.40,Charlotte Bobcats,shot,Adrien,,,,,,,,,Gordon,2,,,made,,Jump Bank Shot,,,27-33,11,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=129
@@ -125,7 +125,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.28,Detroit Pistons,substitute,,,,Daye,,Monroe,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=141
 ,,,,,,,,,,2,9.22,Detroit Pistons,shot,Bynum,,,,,,,,,Drummond,2,,,made,,Alley Oop Dunk,,,31-39,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=142
 ,,,,,,,,,,2,8.58,Charlotte Bobcats,shot,,,,,,,,,,Gordon,3,,,made,,3PT Jump Shot,,,34-39,25,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=143
-,,,,,,,,,,2,8.46,Detroit Pistons,turnover,,,,,,,,,,Villanueva,,,Bad Pass,,,,,,34-39,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=144
+,,,,,,,,,,2,8.46,Detroit Pistons,turnover,,,,,,,,,,Villanueva,,,Bad Pass,,Henderson,,,,34-39,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=144
 ,,,,,,,,,,2,8.41,Charlotte Bobcats,shot,,,,,,,,,,Henderson,2,,,made,,Dunk,,,36-39,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=145
 ,,,,,,,,,,2,8.26,Detroit Pistons,shot,,,,,,,,,,Daye,,,,missed,,3PT Jump Shot,,,36-39,24,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=146
 ,,,,,,,,,,2,8.25,Charlotte Bobcats,rebound,,,,,,,,,,Gordon,,,,,,,,,36-39,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=147
@@ -200,14 +200,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.09,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,55-60,19,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=231
 ,,,,,,,,,,2,1.08,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,55-60,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=232
 ,,,,,,,,,,2,0.52,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Driving Layup,,,57-60,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=233
-,,,,,,,,,,2,0.31,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Layup,,,57-60,3,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=234
+,,,,,,,,,,2,0.31,Detroit Pistons,shot,,,Kidd-Gilchrist,,,,,,,Monroe,,,,missed,,Layup,,,57-60,3,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=234
 ,,,,,,,,,,2,0.31,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=236
 ,,,,,,,,,,2,0.31,Detroit Pistons,jumpball,,Kidd-Gilchrist,,,Monroe,,,,,,,,,,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=235
 ,,,,,,,,,,2,0.25,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Driving Layup,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=237
 ,,,,,,,,,,2,0.08,Charlotte Bobcats,foul,,,,,,,,,,Walker,,,,,,Personal,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=238
 ,,,,,,,,,,2,0.01,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,3PT Jump Shot,,,59-60,27,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=239
 ,,,,,,,,,,2,0.00,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=240
-,,,,,,,,,,3,11.42,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,,,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=244
+,,,,,,,,,,3,11.42,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,Walker,,,,59-60,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=244
 ,,,,,,,,,,3,11.37,Charlotte Bobcats,shot,Walker,,,,,,,,,Taylor,2,,,made,,Dunk,,,61-60,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=245
 ,,,,,,,,,,3,11.19,Charlotte Bobcats,foul,,,,,,,,,,Taylor,,,,,,Personal,,,61-60,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=246
 ,,,,,,,,,,3,11.06,Detroit Pistons,shot,,,,,,,,,,Prince,2,,,made,,Hook Shot,,,61-62,6,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=247
@@ -221,9 +221,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.00,Detroit Pistons,shot,Prince,,,,,,,,,Monroe,2,,,made,,Driving Layup,,,63-64,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=255
 ,,,,,,,,,,3,10.00,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,63-64,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=256
 ,,,,,,,,,,3,10.00,Detroit Pistons,free throw,,,,,,,1,,1,Monroe,1,,foul,made,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=257
-,,,,,,,,,,3,9.40,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,63-65,4,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=259
+,,,,,,,,,,3,9.40,Charlotte Bobcats,shot,,,Singler,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,63-65,4,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=259
 ,,,,,,,,,,3,9.39,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=267
-,,,,,,,,,,3,9.38,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,63-65,2,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=278
+,,,,,,,,,,3,9.38,Charlotte Bobcats,shot,,,Maxiell,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,63-65,2,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=278
 ,,,,,,,,,,3,9.37,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=260
 ,,,,,,,,,,3,9.33,Detroit Pistons,foul,,,,,,,,,,Knight,,,,,,Offensive Charge,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=261
 ,,,,,,,,,,3,9.33,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Foul,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=262
@@ -235,9 +235,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.48,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=269
 ,,,,,,,,,,3,8.28,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,63-65,19,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=270
 ,,,,,,,,,,3,8.27,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=271
-,,,,,,,,,,3,8.24,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Jump Shot,,,63-65,5,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=272
+,,,,,,,,,,3,8.24,Charlotte Bobcats,shot,,,Monroe,,,,,,,Walker,,,,missed,,Jump Shot,,,63-65,5,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=272
 ,,,,,,,,,,3,8.23,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=273
-,,,,,,,,,,3,8.22,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Layup,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=274
+,,,,,,,,,,3,8.22,Charlotte Bobcats,shot,,,Maxiell,,,,,,,Biyombo,,,,missed,,Layup,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=274
 ,,,,,,,,,,3,8.18,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=275
 ,,,,,,,,,,3,8.13,Detroit Pistons,foul,,,,,,,,,,Maxiell,,,,,,Offensive Charge,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=276
 ,,,,,,,,,,3,8.13,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Foul,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=277
@@ -248,7 +248,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.46,Detroit Pistons,free throw,,,,,,,1,,2,Knight,,,foul,missed,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=283
 ,,,,,,,,,,3,7.46,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,63-65,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=284
 ,,,,,,,,,,3,7.46,Detroit Pistons,free throw,,,,,,,2,,2,Knight,1,,foul,made,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=285
-,,,,,,,,,,3,7.23,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,63-66,15,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=287
+,,,,,,,,,,3,7.23,Charlotte Bobcats,shot,,,Prince,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,63-66,15,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=287
 ,,,,,,,,,,3,7.21,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=288
 ,,,,,,,,,,3,7.19,Detroit Pistons,foul,,,,,,,,,,Singler,,,,,,Offensive Charge,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=289
 ,,,,,,,,,,3,7.19,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Foul,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=290
@@ -257,7 +257,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.09,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=293
 ,,,,,,,,,,3,6.58,Charlotte Bobcats,violation,,,,,,,,,,Thomas,,,Defensive Goaltending,,,,,,63-66,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=295
 ,,,,,,,,,,3,6.58,Detroit Pistons,shot,,,,,,,,,,Knight,2,,,made,,Driving Layup,,,63-68,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=294
-,,,,,,,,,,3,6.49,Charlotte Bobcats,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,63-68,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=296
+,,,,,,,,,,3,6.49,Charlotte Bobcats,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Prince,,,,63-68,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=296
 ,,,,,,,,,,3,6.46,Detroit Pistons,shot,Prince,,,,,,,,,Knight,2,,,made,,Layup,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=297
 ,,,,,,,,,,3,6.45,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=298
 ,,,,,,,,,,3,6.45,Charlotte Bobcats,substitute,,,,Adrien,,Taylor,,,,,,,,,,,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=299
@@ -300,7 +300,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.46,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,73-79,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=343
 ,,,,,,,,,,3,2.46,Charlotte Bobcats,substitute,,,,Haywood,,Biyombo,,,,,,,,,,,,,73-79,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=344
 ,,,,,,,,,,3,2.37,Charlotte Bobcats,shot,Gordon,,,,,,,,,Sessions,3,,,made,,3PT Jump Shot,,,76-79,26,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=345
-,,,,,,,,,,3,2.13,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Bad Pass,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=346
+,,,,,,,,,,3,2.13,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Bad Pass,,Sessions,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=346
 ,,,,,,,,,,3,1.59,Detroit Pistons,foul,,,,,,,,,,Knight,,,,,,Personal,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=347
 ,,,,,,,,,,3,1.50,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,76-79,15,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=348
 ,,,,,,,,,,3,1.49,Charlotte Bobcats,rebound,,,,,,,,,,Haywood,,,,,,,,,76-79,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=349
@@ -323,11 +323,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.44,Charlotte Bobcats,shot,,,,,,,,,,Sessions,2,,,made,,Floating Jump Shot,,,81-82,9,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=371
 ,,,,,,,,,,4,11.22,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Reverse Layup,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=372
 ,,,,,,,,,,4,11.06,Charlotte Bobcats,turnover,,,,,,,,,,Gordon,,,Traveling,,,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=373
-,,,,,,,,,,4,10.48,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Lost Ball,,,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=374
+,,,,,,,,,,4,10.48,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Lost Ball,,Haywood,,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=374
 ,,,,,,,,,,4,10.45,Detroit Pistons,foul,,,,,,,,,,Singler,,,,,,Shooting,,,81-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=375
 ,,,,,,,,,,4,10.45,Charlotte Bobcats,free throw,,,,,,,1,,2,Henderson,1,,foul,made,,,,,82-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=376
 ,,,,,,,,,,4,10.45,Charlotte Bobcats,free throw,,,,,,,2,,2,Henderson,1,,foul,made,,,,,83-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=378
-,,,,,,,,,,4,10.26,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,Jump Shot,,,83-84,20,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=394
+,,,,,,,,,,4,10.26,Detroit Pistons,shot,,,Henderson,,,,,,,Singler,,,,missed,,Jump Shot,,,83-84,20,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=394
 ,,,,,,,,,,4,10.26,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,83-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=395
 ,,,,,,,,,,4,10.22,Charlotte Bobcats,foul,,,,,,,,,,Thomas,,,,,,Personal,,,83-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=380
 ,,,,,,,,,,4,10.22,Detroit Pistons,substitute,,,,Villanueva,,Monroe,,,,,,,,,,,,,83-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=381
@@ -337,17 +337,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.00,Detroit Pistons,substitute,,,,Daye,,Singler,,,,,,,,,,,,,83-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=385
 ,,,,,,,,,,4,9.52,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,83-84,6,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=386
 ,,,,,,,,,,4,9.50,Detroit Pistons,rebound,,,,,,,,,,Daye,,,,,,,,,83-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=387
-,,,,,,,,,,4,9.32,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,,,,,83-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=388
+,,,,,,,,,,4,9.32,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,Gordon,,,,83-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=388
 ,,,,,,,,,,4,9.21,Charlotte Bobcats,shot,,,,,,,,,,Sessions,2,,,made,,Driving Layup,,,85-84,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=389
 ,,,,,,,,,,4,9.04,Detroit Pistons,shot,Bynum,,,,,,,,,Drummond,2,,,made,,Alley Oop Dunk,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=390
-,,,,,,,,,,4,8.46,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,,,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=391
+,,,,,,,,,,4,8.46,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,Stuckey,,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=391
 ,,,,,,,,,,4,8.43,Charlotte Bobcats,foul,,,,,,,,,,Sessions,,,,,,Personal,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=392
 ,,,,,,,,,,4,8.34,Charlotte Bobcats,foul,,,,,,,,,,Henderson,,,,,,Personal,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=396
-,,,,,,,,,,4,8.24,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Jump Shot,,,85-86,4,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=397
+,,,,,,,,,,4,8.24,Detroit Pistons,shot,,,Haywood,,,,,,,Bynum,,,,missed,,Jump Shot,,,85-86,4,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=397
 ,,,,,,,,,,4,8.22,Charlotte Bobcats,rebound,,,,,,,,,,Sessions,,,,,,,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=398
 ,,,,,,,,,,4,8.17,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,3PT Jump Shot,,,85-86,26,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=399
 ,,,,,,,,,,4,8.15,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=400
-,,,,,,,,,,4,7.57,Detroit Pistons,turnover,,,,,,,,,,Daye,,,Lost Ball,,,,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=401
+,,,,,,,,,,4,7.57,Detroit Pistons,turnover,,,,,,,,,,Daye,,,Lost Ball,,Henderson,,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=401
 ,,,,,,,,,,4,7.46,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Jump Shot,,,85-86,12,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=402
 ,,,,,,,,,,4,7.44,Detroit Pistons,rebound,,,,,,,,,,Villanueva,,,,,,,,,85-86,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=403
 ,,,,,,,,,,4,7.40,Detroit Pistons,shot,Bynum,,,,,,,,,Drummond,2,,,made,,Alley Oop Dunk,,,85-88,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=404
@@ -366,7 +366,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.43,Detroit Pistons,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,87-88,17,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=418
 ,,,,,,,,,,4,5.42,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,87-88,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=419
 ,,,,,,,,,,4,5.39,Detroit Pistons,shot,,,,,,,,,,Drummond,2,,,made,,Layup,,,87-90,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=420
-,,,,,,,,,,4,5.19,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Layup,,,87-90,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=421
+,,,,,,,,,,4,5.19,Charlotte Bobcats,shot,,,Drummond,,,,,,,Thomas,,,,missed,,Layup,,,87-90,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=421
 ,,,,,,,,,,4,5.19,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,87-90,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=422
 ,,,,,,,,,,4,5.19,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,87-90,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=423
 ,,,,,,,,,,4,5.19,Charlotte Bobcats,substitute,,,,Kidd-Gilchrist,,Henderson,,,,,,,,,,,,,87-90,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=425
@@ -380,10 +380,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.44,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=435
 ,,,,,,,,,,4,4.44,Detroit Pistons,free throw,,,,,,,1,,1,Stuckey,,,foul,missed,,,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=436
 ,,,,,,,,,,4,4.44,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=437
-,,,,,,,,,,4,4.18,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,,,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=438
+,,,,,,,,,,4,4.18,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,Bynum,,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=438
 ,,,,,,,,,,4,4.03,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,3PT Jump Shot,,,89-92,26,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=439
 ,,,,,,,,,,4,4.02,Charlotte Bobcats,rebound,,,,,,,,,,Walker,,,,,,,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=440
-,,,,,,,,,,4,3.52,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,89-92,5,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=441
+,,,,,,,,,,4,3.52,Charlotte Bobcats,shot,,,Villanueva,,,,,,,Thomas,,,,missed,,Jump Shot,,,89-92,5,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=441
 ,,,,,,,,,,4,3.52,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,89-92,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=442
 ,,,,,,,,,,4,3.44,Charlotte Bobcats,shot,,,,,,,,,,Gordon,3,,,made,,3PT Jump Shot,,,92-92,26,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=443
 ,,,,,,,,,,4,3.20,Detroit Pistons,shot,,,,,,,,,,Prince,,,,missed,,Hook Shot,,,92-92,6,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=444
@@ -416,7 +416,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.28,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,94-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=475
 ,,,,,,,,,,4,0.28,Charlotte Bobcats,substitute,,,,Sessions,,Biyombo,,,,,,,,,,,,,94-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=477
 ,,,,,,,,,,4,0.28,Detroit Pistons,substitute,,,,Bynum,,Monroe,,,,,,,,,,,,,94-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=478
-,,,,,,,,,,4,0.20,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Layup,,,94-96,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=479
+,,,,,,,,,,4,0.20,Charlotte Bobcats,shot,,,Drummond,,,,,,,Walker,,,,missed,,Layup,,,94-96,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=479
 ,,,,,,,,,,4,0.18,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,94-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=480
 ,,,,,,,,,,4,0.07,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Driving Layup,,,96-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=481
 ,,,,,,,,,,4,0.07,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,96-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=482
@@ -435,11 +435,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,4.45,Charlotte Bobcats,shot,Gordon,,,,,,,,,Thomas,2,,,made,,Jump Shot,,,98-96,18,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=499
 ,,,,,,,,,,5,4.29,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Layup,,,98-96,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=500
 ,,,,,,,,,,5,4.28,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,98-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=501
-,,,,,,,,,,5,4.25,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,,,,,98-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=502
+,,,,,,,,,,5,4.25,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,Gordon,,,,98-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=502
 ,,,,,,,,,,5,4.06,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,3PT Jump Shot,,,98-96,27,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=503
 ,,,,,,,,,,5,4.05,Charlotte Bobcats,rebound,,,,,,,,,,Thomas,,,,,,,,,98-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=504
 ,,,,,,,,,,5,3.50,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Driving Layup,,,100-96,1,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=505
-,,,,,,,,,,5,3.32,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Jump Shot,,,100-96,3,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=506
+,,,,,,,,,,5,3.32,Detroit Pistons,shot,,,Thomas,,,,,,,Monroe,,,,missed,,Jump Shot,,,100-96,3,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=506
 ,,,,,,,,,,5,3.29,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=507
 ,,,,,,,,,,5,3.22,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,3PT Jump Shot,,,100-96,26,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=508
 ,,,,,,,,,,5,3.21,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=509
@@ -448,7 +448,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,2.58,Charlotte Bobcats,turnover,,,,,,,,,,,,,Shot Clock,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=512
 ,,,,,,,,,,5,2.43,Detroit Pistons,turnover,,,,,,,,,,Prince Out of Bounds,,,Lost Ball,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=513
 ,,,,,,,,,,5,2.43,Detroit Pistons,substitute,,,,Stuckey,,Bynum,,,,,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=514
-,,,,,,,,,,5,2.24,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,100-96,10,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=515
+,,,,,,,,,,5,2.24,Charlotte Bobcats,shot,,,Drummond,,,,,,,Thomas,,,,missed,,Jump Shot,,,100-96,10,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=515
 ,,,,,,,,,,5,2.22,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=516
 ,,,,,,,,,,5,2.06,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,100-96,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=517
 ,,,,,,,,,,5,2.06,Detroit Pistons,free throw,,,,,,,1,,2,Monroe,1,,foul,made,,,,,100-97,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=518
@@ -457,7 +457,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,2.06,Charlotte Bobcats,substitute,,,,Sessions,,Biyombo,,,,,,,,,,,,,100-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=523
 ,,,,,,,,,,5,2.06,Detroit Pistons,substitute,,,,Bynum,,Monroe,,,,,,,,,,,,,100-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=527
 ,,,,,,,,,,5,1.52,Charlotte Bobcats,shot,Walker,,,,,,,,,Thomas,2,,,made,,Jump Shot,,,102-98,17,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=524
-,,,,,,,,,,5,1.29,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,,,,,102-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=525
+,,,,,,,,,,5,1.29,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,Gordon,,,,102-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=525
 ,,,,,,,,,,5,1.13,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Reverse Layup,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=526
 ,,,,,,,,,,5,1.13,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=528
 ,,,,,,,,,,5,1.13,Charlotte Bobcats,substitute,,,,Biyombo,,Gordon,,,,,,,,,,,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=529
@@ -475,7 +475,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,0.46,Detroit Pistons,substitute,,,,Bynum,,Villanueva,,,,,,,,,,,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=542
 ,,,,,,,,,,5,0.39,Detroit Pistons,foul,,,,,,,,,,Prince,,,,,,Personal,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=543
 ,,,,,,,,,,5,0.37,Charlotte Bobcats,substitute,,,,Biyombo,,Gordon,,,,,,,,,,,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=545
-,,,,,,,,,,5,0.37,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Lost Ball,,,,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=547
+,,,,,,,,,,5,0.37,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Lost Ball,,Stuckey,,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=547
 ,,,,,,,,,,5,0.37,Detroit Pistons,jumpball,,Sessions,,,Stuckey,,,,,,,,,,,,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=546
 ,,,,,,,,,,5,0.35,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=548
 ,,,,,,,,,,5,0.35,Charlotte Bobcats,substitute,,,,Taylor,,Sessions,,,,,,,,,,,,,104-98,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=550
@@ -491,5 +491,5 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,0.15,Detroit Pistons,foul,,,,,,,,,,Prince,,,,,,Personal,,,106-101,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=564
 ,,,,,,,,,,5,0.15,Charlotte Bobcats,free throw,,,,,,,1,,2,Thomas,1,,foul,made,,,,,107-101,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=565
 ,,,,,,,,,,5,0.15,Charlotte Bobcats,free throw,,,,,,,2,,2,Thomas,1,,foul,made,,,,,108-101,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=567
-,,,,,,,,,,5,0.08,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,108-101,28,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=569
+,,,,,,,,,,5,0.08,Detroit Pistons,shot,,,Walker,,,,,,,Knight,,,,missed,,3PT Jump Shot,,,108-101,28,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=569
 ,,,,,,,,,,5,0.06,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,108-101,,http://stats.nba.com/cvp.html?GameID=0021200501&GameEventID=570

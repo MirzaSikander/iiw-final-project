@@ -1,8 +1,8 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.37,Utah Jazz,shot,,,,,,,,,,Tinsley,2,,,made,,Pullup Jump Shot,,,2-0,16,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=2
 ,,,,,,,,,,1,11.23,Sacramento Kings,shot,Evans,,,,,,,,,Thomas,3,,,made,,3PT Jump Shot,,,2-3,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=3
-,,,,,,,,,,1,10.59,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=4
-,,,,,,,,,,1,10.54,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,2-3,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=5
+,,,,,,,,,,1,10.59,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,Evans,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=4
+,,,,,,,,,,1,10.54,Sacramento Kings,shot,,,Williams,,,,,,,Evans,,,,missed,,Layup,,,2-3,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=5
 ,,,,,,,,,,1,10.52,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=6
 ,,,,,,,,,,1,10.34,Utah Jazz,shot,Foye,,,,,,,,,Millsap,2,,,made,,Jump Shot,,,4-3,17,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=7
 ,,,,,,,,,,1,10.15,Sacramento Kings,shot,Evans,,,,,,,,,Thompson,2,,,made,,Jump Shot,,,4-5,17,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=8
@@ -18,14 +18,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.14,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Driving Layup,,,8-14,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=19
 ,,,,,,,,,,1,7.53,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Jump Shot,,,10-14,15,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=20
 ,,,,,,,,,,1,7.48,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Personal,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=21
-,,,,,,,,,,1,7.35,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,10-14,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=22
+,,,,,,,,,,1,7.35,Sacramento Kings,shot,,,Jefferson,,,,,,,Thompson,,,,missed,,Layup,,,10-14,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=22
 ,,,,,,,,,,1,7.33,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,10-14,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=23
 ,,,,,,,,,,1,7.28,Sacramento Kings,shot,Evans,,,,,,,,,Salmons,3,,,made,,3PT Jump Shot,,,10-17,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=24
 ,,,,,,,,,,1,7.16,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Layup,,,10-17,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=25
 ,,,,,,,,,,1,7.15,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=26
 ,,,,,,,,,,1,7.02,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,3PT Jump Shot,,,10-17,26,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=27
 ,,,,,,,,,,1,7.01,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=28
-,,,,,,,,,,1,6.45,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=29
+,,,,,,,,,,1,6.45,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Cousins,,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=29
 ,,,,,,,,,,1,6.43,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Shooting Block,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=30
 ,,,,,,,,,,1,6.43,Sacramento Kings,free throw,,,,,,,1,,2,Cousins,,,foul,missed,,,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=31
 ,,,,,,,,,,1,6.43,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,10-17,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=32
@@ -43,7 +43,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.10,Sacramento Kings,shot,Cousins,,,,,,,,,Thompson,2,,,made,,Fadeaway Jumper,,,18-22,10,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=48
 ,,,,,,,,,,1,4.54,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Personal,,,18-22,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=49
 ,,,,,,,,,,1,4.42,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Traveling,,,,,,18-22,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=50
-,,,,,,,,,,1,4.30,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Driving Layup,,,18-22,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=51
+,,,,,,,,,,1,4.30,Sacramento Kings,shot,,,Millsap,,,,,,,Evans,,,,missed,,Driving Layup,,,18-22,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=51
 ,,,,,,,,,,1,4.28,Utah Jazz,rebound,,,,,,,,,,Foye,,,,,,,,,18-22,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=52
 ,,,,,,,,,,1,4.21,Utah Jazz,turnover,,,,,,,,,,Favors,,,Traveling,,,,,,18-22,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=53
 ,,,,,,,,,,1,4.21,Utah Jazz,substitute,,,,Burks,,Foye,,,,,,,,,,,,,18-22,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=54
@@ -54,11 +54,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.40,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=60
 ,,,,,,,,,,1,3.36,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,20-22,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=61
 ,,,,,,,,,,1,3.35,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=62
-,,,,,,,,,,1,3.19,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=63
+,,,,,,,,,,1,3.19,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Lost Ball,,Cousins,,,,20-22,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=63
 ,,,,,,,,,,1,3.09,Sacramento Kings,shot,Thomas,,,,,,,,,Cousins,2,,,made,,Jump Shot,,,20-24,7,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=64
 ,,,,,,,,,,1,2.46,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,20-24,6,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=65
 ,,,,,,,,,,1,2.44,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=66
-,,,,,,,,,,1,2.38,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,20-24,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=67
+,,,,,,,,,,1,2.38,Sacramento Kings,shot,,,Favors,,,,,,,Thomas,,,,missed,,Jump Shot,,,20-24,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=67
 ,,,,,,,,,,1,2.37,Sacramento Kings,rebound,,,,,,,,,,Salmons,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=68
 ,,,,,,,,,,1,2.34,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,20-24,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=69
 ,,,,,,,,,,1,2.33,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=70
@@ -67,7 +67,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.26,Utah Jazz,substitute,,,,Kanter,,Millsap,,,,,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=75
 ,,,,,,,,,,1,2.26,Sacramento Kings,substitute,,,,Fredette,,Salmons,,,,,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=76
 ,,,,,,,,,,1,2.26,Sacramento Kings,substitute,,,,Thornton,,Thomas,,,,,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=77
-,,,,,,,,,,1,2.18,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Bad Pass,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=78
+,,,,,,,,,,1,2.18,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Bad Pass,,Thompson,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=78
 ,,,,,,,,,,1,2.15,Sacramento Kings,turnover,,,,,,,,,,Cousins Out of Bounds,,,Lost Ball,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=79
 ,,,,,,,,,,1,2.07,Utah Jazz,shot,Watson,,,,,,,,,Burks,2,,,made,,Driving Reverse Layup,,,22-24,1,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=80
 ,,,,,,,,,,1,1.50,Sacramento Kings,shot,Cousins,,,,,,,,,Thornton,2,,,made,,Jump Shot,,,22-26,17,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=81
@@ -88,7 +88,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.00,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,3PT Jump Shot,,,29-31,26,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=98
 ,,,,,,,,,,1,0.00,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,29-31,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=100
 ,,,,,,,,,,2,11.42,Sacramento Kings,shot,Fredette,,,,,,,,,Thornton,2,,,made,,Jump Shot,,,29-33,20,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=103
-,,,,,,,,,,2,11.25,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Layup,,,29-33,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=104
+,,,,,,,,,,2,11.25,Utah Jazz,shot,,,Thompson,,,,,,,Favors,,,,missed,,Layup,,,29-33,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=104
 ,,,,,,,,,,2,11.23,Sacramento Kings,rebound,,,,,,,,,,Garcia,,,,,,,,,29-33,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=105
 ,,,,,,,,,,2,11.11,Sacramento Kings,shot,,,,,,,,,,Thornton,2,,,made,,Fadeaway Jumper,,,29-35,13,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=106
 ,,,,,,,,,,2,11.02,Utah Jazz,shot,Watson,,,,,,,,,Favors,2,,,made,,Jump Bank Shot,,,31-35,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=107
@@ -103,8 +103,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.50,Sacramento Kings,substitute,,,,Robinson,,Thompson,,,,,,,,,,,,,31-37,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=116
 ,,,,,,,,,,2,9.36,Utah Jazz,shot,Favors,,,,,,,,,Watson,2,,,made,,Jump Shot,,,33-37,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=117
 ,,,,,,,,,,2,9.23,Sacramento Kings,shot,,,,,,,,,,Garcia,2,,,made,,Fadeaway Jumper,,,33-39,16,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=119
-,,,,,,,,,,2,9.02,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Bad Pass,,,,,,33-39,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=121
-,,,,,,,,,,2,8.58,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Jump Shot,,,33-39,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=123
+,,,,,,,,,,2,9.02,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Bad Pass,,Fredette,,,,33-39,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=121
+,,,,,,,,,,2,8.58,Sacramento Kings,shot,,,Kanter,,,,,,,Fredette,,,,missed,,Jump Shot,,,33-39,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=123
 ,,,,,,,,,,2,8.56,Sacramento Kings,rebound,,,,,,,,,,Fredette,,,,,,,,,33-39,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=124
 ,,,,,,,,,,2,8.55,Sacramento Kings,shot,Fredette,,,,,,,,,Thornton,2,,,made,,Layup,,,33-41,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=125
 ,,,,,,,,,,2,8.31,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Dunk,,,33-41,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=126
@@ -113,12 +113,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.20,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=129
 ,,,,,,,,,,2,8.20,Utah Jazz,substitute,,,,Tinsley,,Watson,,,,,,,,,,,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=131
 ,,,,,,,,,,2,8.20,Utah Jazz,substitute,,,,Jefferson,,Kanter,,,,,,,,,,,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=132
-,,,,,,,,,,2,7.56,Utah Jazz,shot,,,,,,,,,,Favors,,,,missed,,Jump Shot,,,33-44,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=134
+,,,,,,,,,,2,7.56,Utah Jazz,shot,,,Hayes,,,,,,,Favors,,,,missed,,Jump Shot,,,33-44,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=134
 ,,,,,,,,,,2,7.55,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=135
 ,,,,,,,,,,2,7.51,Sacramento Kings,shot,Hayes,,,,,,,,,Fredette,2,,,made,,Jump Bank Shot,,,33-46,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=136
 ,,,,,,,,,,2,7.37,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,Jump Shot,,,33-46,8,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=137
 ,,,,,,,,,,2,7.36,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,33-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=138
-,,,,,,,,,,2,7.32,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Bad Pass,,,,,,33-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=139
+,,,,,,,,,,2,7.32,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Bad Pass,,Tinsley,,,,33-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=139
 ,,,,,,,,,,2,7.27,Sacramento Kings,foul,,,,,,,,,,Hayes,,,,,,Shooting,,,33-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=140
 ,,,,,,,,,,2,7.27,Utah Jazz,free throw,,,,,,,1,,2,Carroll,1,,foul,made,,,,,34-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=141
 ,,,,,,,,,,2,7.27,Utah Jazz,substitute,,,,Foye,,Favors,,,,,,,,,,,,,34-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=143
@@ -132,7 +132,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.48,Utah Jazz,free throw,,,,,,,,,,Foye,1,,Technical,made,,,,,38-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=152
 ,,,,,,,,,,2,6.24,Sacramento Kings,shot,,,,,,,,,,Garcia,,,,missed,,Jump Shot,,,38-46,19,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=155
 ,,,,,,,,,,2,6.24,Utah Jazz,rebound,,,,,,,,,,Foye,,,,,,,,,38-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=156
-,,,,,,,,,,2,6.19,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,Layup,,,38-46,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=157
+,,,,,,,,,,2,6.19,Utah Jazz,shot,,,Garcia,,,,,,,Foye,,,,missed,,Layup,,,38-46,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=157
 ,,,,,,,,,,2,6.17,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,38-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=158
 ,,,,,,,,,,2,6.16,Sacramento Kings,substitute,,,,Thomas,,Fredette,,,,,,,,,,,,,38-46,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=159
 ,,,,,,,,,,2,6.05,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,38-46,22,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=160
@@ -160,9 +160,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.28,Sacramento Kings,free throw,,,,,,,,,,Thomas,1,,Technical,made,,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=183
 ,,,,,,,,,,2,3.28,Sacramento Kings,substitute,,,,Salmons,,Thornton,,,,,,,,,,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=185
 ,,,,,,,,,,2,3.28,Sacramento Kings,violation,,,,,,,,,,KINGS,,, Delay of game Violation,,,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=186
-,,,,,,,,,,2,3.16,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=187
+,,,,,,,,,,2,3.16,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Tinsley,,,,46-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=187
 ,,,,,,,,,,2,3.12,Utah Jazz,shot,Tinsley,,,,,,,,,Carroll,2,,,made,,Dunk,,,48-49,1,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=188
-,,,,,,,,,,2,2.59,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=189
+,,,,,,,,,,2,2.59,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Foye,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=189
 ,,,,,,,,,,2,2.58,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Personal,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=190
 ,,,,,,,,,,2,2.42,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Shooting,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=195
 ,,,,,,,,,,2,2.42,Utah Jazz,free throw,,,,,,,1,,2,Jefferson,1,,foul,made,,,,,49-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=196
@@ -170,7 +170,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.42,Utah Jazz,free throw,,,,,,,2,,2,Jefferson,1,,foul,made,,,,,50-49,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=199
 ,,,,,,,,,,2,2.24,Sacramento Kings,shot,Salmons,,,,,,,,,Thompson,2,,,made,,Running Jump Shot,,,50-51,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=201
 ,,,,,,,,,,2,2.19,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,50-51,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=202
-,,,,,,,,,,2,2.10,Sacramento Kings,shot,,,,,,,,,,Hayes,,,,missed,,Jump Shot,,,50-51,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=204
+,,,,,,,,,,2,2.10,Sacramento Kings,shot,,,Tinsley,,,,,,,Hayes,,,,missed,,Jump Shot,,,50-51,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=204
 ,,,,,,,,,,2,2.09,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,50-51,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=205
 ,,,,,,,,,,2,2.06,Sacramento Kings,shot,Hayes,,,,,,,,,Thomas,3,,,made,,3PT Jump Shot,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=206
 ,,,,,,,,,,2,1.41,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,3PT Jump Shot,,,50-54,26,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=207
@@ -185,7 +185,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.55,Utah Jazz,foul,,,,,,,,,,Millsap,,,,,,Offensive Charge,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=218
 ,,,,,,,,,,2,0.55,Utah Jazz,turnover,,,,,,,,,,Millsap,,,Foul,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=219
 ,,,,,,,,,,2,0.55,Utah Jazz,substitute,,,,Favors,,Millsap,,,,,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=220
-,,,,,,,,,,2,0.44,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=221
+,,,,,,,,,,2,0.44,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Tinsley,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=221
 ,,,,,,,,,,2,0.39,Utah Jazz,shot,Carroll,,,,,,,,,Foye,2,,,made,,Layup,,,54-56,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=222
 ,,,,,,,,,,2,0.33,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Personal,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=223
 ,,,,,,,,,,2,0.33,Sacramento Kings,free throw,,,,,,,1,,2,Evans,1,,foul,made,,,,,54-57,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=224
@@ -193,7 +193,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.17,Utah Jazz,shot,,,,,,,,,,Foye,,,,missed,,3PT Jump Shot,,,54-58,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=228
 ,,,,,,,,,,2,0.16,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=229
 ,,,,,,,,,,2,0.12,Sacramento Kings,shot,Salmons,,,,,,,,,Evans,2,,,made,,Dunk,,,54-60,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=230
-,,,,,,,,,,2,0.02,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Lost Ball,,,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=231
+,,,,,,,,,,2,0.02,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Lost Ball,,Thomas,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=231
 ,,,,,,,,,,2,0.00,Sacramento Kings,shot,Salmons,,,,,,,,,Thomas,2,,,made,,Driving Layup,,,54-62,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=232
 ,,,,,,,,,,3,11.44,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,Running Hook Shot,,,54-62,4,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=240
 ,,,,,,,,,,3,11.44,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=241
@@ -231,10 +231,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.49,Utah Jazz,rebound,,,,,,,,,,Williams,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=277
 ,,,,,,,,,,3,8.38,Utah Jazz,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,56-67,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=278
 ,,,,,,,,,,3,8.38,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=279
-,,,,,,,,,,3,8.35,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=280
+,,,,,,,,,,3,8.35,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Tinsley,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=280
 ,,,,,,,,,,3,8.28,Utah Jazz,shot,Tinsley,,,,,,,,,Jefferson,2,,,made,,Jump Shot,,,58-67,19,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=281
 ,,,,,,,,,,3,8.11,Sacramento Kings,shot,Cousins,,,,,,,,,Thompson,2,,,made,,Dunk,,,58-69,1,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=282
-,,,,,,,,,,3,7.57,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,,,,,58-69,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=283
+,,,,,,,,,,3,7.57,Utah Jazz,turnover,,,,,,,,,,Williams,,,Bad Pass,,Thomas,,,,58-69,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=283
 ,,,,,,,,,,3,7.51,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,58-69,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=284
 ,,,,,,,,,,3,7.50,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,58-69,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=286
 ,,,,,,,,,,3,7.50,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Tip Shot,,,58-69,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=285
@@ -245,7 +245,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.35,Utah Jazz,substitute,,,,Favors,,Carroll,,,,,,,,,,,,,58-72,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=292
 ,,,,,,,,,,3,7.33,Utah Jazz,turnover,,,,,,,,,,Williams,,,Step Out of Bounds,,,,,,58-72,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=295
 ,,,,,,,,,,3,7.21,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,58-72,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=296
-,,,,,,,,,,3,7.00,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,,,,,58-72,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=297
+,,,,,,,,,,3,7.00,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Lost Ball,,Cousins,,,,58-72,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=297
 ,,,,,,,,,,3,6.53,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,58-72,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=298
 ,,,,,,,,,,3,6.53,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,58-72,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=299
 ,,,,,,,,,,3,6.53,Utah Jazz,foul,,,,,,,,,,Jefferson,,,,,,Shooting,,,58-72,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=301
@@ -267,11 +267,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.47,Sacramento Kings,free throw,,,,,,,2,,2,Cousins,1,,foul,made,,,,,58-77,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=321
 ,,,,,,,,,,3,5.33,Utah Jazz,shot,,,,,,,,,,Kanter,,,,missed,,Jump Hook Shot,,,58-77,9,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=323
 ,,,,,,,,,,3,5.32,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,58-77,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=324
-,,,,,,,,,,3,5.23,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,58-77,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=325
+,,,,,,,,,,3,5.23,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Favors,,,,58-77,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=325
 ,,,,,,,,,,3,5.18,Utah Jazz,shot,Burks,,,,,,,,,Carroll,2,,,made,,Layup,,,60-77,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=326
 ,,,,,,,,,,3,4.59,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,60-77,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=327
 ,,,,,,,,,,3,4.58,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,60-77,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=328
-,,,,,,,,,,3,4.54,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,60-77,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=329
+,,,,,,,,,,3,4.54,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Watson,,,,60-77,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=329
 ,,,,,,,,,,3,4.49,Utah Jazz,shot,Carroll,,,,,,,,,Burks,2,,,made,,Dunk,,,62-77,1,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=330
 ,,,,,,,,,,3,4.29,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Reverse Layup,,,62-77,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=331
 ,,,,,,,,,,3,4.28,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,62-77,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=333
@@ -328,14 +328,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.37,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,78-87,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=398
 ,,,,,,,,,,4,10.37,Sacramento Kings,substitute,,,,Thomas,,Fredette,,,,,,,,,,,,,78-87,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=399
 ,,,,,,,,,,4,10.37,Sacramento Kings,free throw,,,,,,,2,,2,Hayes,1,,foul,made,,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=400
-,,,,,,,,,,4,10.24,Utah Jazz,turnover,,,,,,,,,,Burks,,,Bad Pass,,,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=402
+,,,,,,,,,,4,10.24,Utah Jazz,turnover,,,,,,,,,,Burks,,,Bad Pass,,Evans,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=402
 ,,,,,,,,,,4,10.06,Utah Jazz,violation,,,,,,,,,,Carroll,,,Kicked Ball,,,,,,78-88,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=403
 ,,,,,,,,,,4,10.01,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Fadeaway Jumper,,,78-90,14,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=404
 ,,,,,,,,,,4,10.01,Utah Jazz,foul,,,,,,,,,,Watson,,,,,,Shooting,,,78-90,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=405
 ,,,,,,,,,,4,10.01,Sacramento Kings,substitute,,,,Garcia,,Evans,,,,,,,,,,,,,78-90,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=406
 ,,,,,,,,,,4,10.01,Sacramento Kings,free throw,,,,,,,1,,1,Thomas,1,,foul,made,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=407
 ,,,,,,,,,,4,9.51,Sacramento Kings,foul,,,,,,,,,,Hayes,,,,,,Personal,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=409
-,,,,,,,,,,4,9.42,Utah Jazz,turnover,,,,,,,,,,Favors,,,Lost Ball,,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=410
+,,,,,,,,,,4,9.42,Utah Jazz,turnover,,,,,,,,,,Favors,,,Lost Ball,,Hayes,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=410
 ,,,,,,,,,,4,9.39,Sacramento Kings,shot,Thornton,,,,,,,,,Thompson,2,,,made,,Slam Dunk,,,78-93,1,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=411
 ,,,,,,,,,,4,9.39,Utah Jazz,foul,,,,,,,,,,Favors,,,,,,Shooting,,,78-93,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=412
 ,,,,,,,,,,4,9.39,Sacramento Kings,free throw,,,,,,,1,,1,Thompson,,,foul,missed,,,,,78-93,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=413
@@ -361,7 +361,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.41,Utah Jazz,free throw,,,,,,,1,,1,Burks,1,,foul,made,,,,,83-99,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=440
 ,,,,,,,,,,4,7.26,Sacramento Kings,shot,,,,,,,,,,Garcia,,,,missed,,Jump Shot,,,83-99,21,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=442
 ,,,,,,,,,,4,7.26,Utah Jazz,rebound,,,,,,,,,,Burks,,,,,,,,,83-99,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=443
-,,,,,,,,,,4,7.18,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,Driving Layup,,,83-99,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=444
+,,,,,,,,,,4,7.18,Utah Jazz,shot,,,Garcia,,,,,,,Burks,,,,missed,,Driving Layup,,,83-99,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=444
 ,,,,,,,,,,4,7.16,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,83-99,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=445
 ,,,,,,,,,,4,7.16,Sacramento Kings,shot,Thomas,,,,,,,,,Thornton,2,,,made,,Layup,,,83-101,1,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=446
 ,,,,,,,,,,4,7.16,Utah Jazz,foul,,,,,,,,,,Watson,,,,,,Shooting,,,83-101,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=447
@@ -381,7 +381,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.14,Sacramento Kings,foul,,,,,,,,,,,,,,,,,,,87-105,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=468
 ,,,,,,,,,,4,6.14,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Foul,,,,,,87-105,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=469
 ,,,,,,,,,,4,5.57,Utah Jazz,shot,,,,,,,,,,Foye,2,,,made,,Jump Shot,,,89-105,16,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=470
-,,,,,,,,,,4,5.46,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Layup,,,89-105,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=471
+,,,,,,,,,,4,5.46,Sacramento Kings,shot,,,Burks,,,,,,,Thomas,,,,missed,,Layup,,,89-105,2,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=471
 ,,,,,,,,,,4,5.46,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,89-105,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=472
 ,,,,,,,,,,4,5.46,Sacramento Kings,turnover,,,,,,,,,,Garcia,,,Bad Pass,,,,,,89-105,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=477
 ,,,,,,,,,,4,5.22,Utah Jazz,shot,Kanter,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,92-105,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=478
@@ -389,10 +389,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.04,Sacramento Kings,free throw,,,,,,,1,,2,Thornton,,,foul,missed,,,,,92-105,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=480
 ,,,,,,,,,,4,5.04,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,92-105,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=481
 ,,,,,,,,,,4,5.04,Sacramento Kings,free throw,,,,,,,2,,2,Thornton,1,,foul,made,,,,,92-106,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=482
-,,,,,,,,,,4,4.38,Utah Jazz,shot,,,,,,,,,,Carroll,,,,missed,,3PT Jump Shot,,,92-106,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=484
+,,,,,,,,,,4,4.38,Utah Jazz,shot,,,Garcia,,,,,,,Carroll,,,,missed,,3PT Jump Shot,,,92-106,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=484
 ,,,,,,,,,,4,4.37,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,92-106,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=485
 ,,,,,,,,,,4,4.30,Sacramento Kings,shot,,,,,,,,,,Thornton,3,,,made,,3PT Jump Shot,,,92-109,24,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=486
-,,,,,,,,,,4,4.14,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Bad Pass,,,,,,92-109,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=487
+,,,,,,,,,,4,4.14,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Bad Pass,,Thomas,,,,92-109,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=487
 ,,,,,,,,,,4,4.03,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,92-109,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=488
 ,,,,,,,,,,4,4.03,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,92-109,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=489
 ,,,,,,,,,,4,4.00,Sacramento Kings,foul,,,,,,,,,,Robinson,,,,,,Personal,,,92-109,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=490
@@ -403,7 +403,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.41,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,94-109,8,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=497
 ,,,,,,,,,,4,3.39,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,94-109,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=498
 ,,,,,,,,,,4,3.23,Sacramento Kings,shot,,,,,,,,,,Thornton,3,,,made,,3PT Jump Shot,,,94-112,25,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=499
-,,,,,,,,,,4,3.06,Utah Jazz,shot,,,,,,,,,,Carroll,,,,missed,,Jump Shot,,,94-112,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=500
+,,,,,,,,,,4,3.06,Utah Jazz,shot,,,Garcia,,,,,,,Carroll,,,,missed,,Jump Shot,,,94-112,5,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=500
 ,,,,,,,,,,4,3.04,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,94-112,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=501
 ,,,,,,,,,,4,2.53,Sacramento Kings,foul,,,,,,,,,,,,,,,,,,,94-112,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=503
 ,,,,,,,,,,4,2.53,Sacramento Kings,turnover,,,,,,,,,,Robinson,,,Foul,,,,,,94-112,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=504
@@ -431,7 +431,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.17,Utah Jazz,free throw,,,,,,,1,,2,Carroll,1,,foul,made,,,,,100-114,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=538
 ,,,,,,,,,,4,1.17,Utah Jazz,free throw,,,,,,,2,,2,Carroll,,,foul,missed,,,,,100-114,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=540
 ,,,,,,,,,,4,1.15,Sacramento Kings,rebound,,,,,,,,,,Garcia,,,,,,,,,100-114,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=542
-,,,,,,,,,,4,0.55,Sacramento Kings,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,100-114,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=543
+,,,,,,,,,,4,0.55,Sacramento Kings,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Evans,,,,100-114,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=543
 ,,,,,,,,,,4,0.50,Utah Jazz,shot,Carroll,,,,,,,,,Kanter,2,,,made,,Layup,,,102-114,3,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=544
 ,,,,,,,,,,4,0.50,Sacramento Kings,foul,,,,,,,,,,Thornton,,,,,,Shooting,,,102-114,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=545
 ,,,,,,,,,,4,0.50,Utah Jazz,free throw,,,,,,,1,,1,Kanter,1,,foul,made,,,,,103-114,,http://stats.nba.com/cvp.html?GameID=0021200751&GameEventID=546

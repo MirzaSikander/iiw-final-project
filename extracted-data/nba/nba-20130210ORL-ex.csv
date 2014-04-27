@@ -35,8 +35,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.56,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=39
 ,,,,,,,,,,1,6.44,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,10-6,25,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=40
 ,,,,,,,,,,1,6.43,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=41
-,,,,,,,,,,1,6.40,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=42
-,,,,,,,,,,1,6.33,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Layup,,,10-6,2,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=43
+,,,,,,,,,,1,6.40,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Nicholson,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=42
+,,,,,,,,,,1,6.33,Orlando Magic,shot,,,Aldridge,,,,,,,Harkless,,,,missed,,Layup,,,10-6,2,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=43
 ,,,,,,,,,,1,6.30,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=44
 ,,,,,,,,,,1,6.28,Portland Trail Blazers,shot,Matthews,,,,,,,,,Aldridge,2,,,made,,Layup,,,12-6,2,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=45
 ,,,,,,,,,,1,6.28,Orlando Magic,foul,,,,,,,,,,Vucevic,,,,,,Shooting,,,12-6,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=46
@@ -60,7 +60,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.16,Orlando Magic,shot,,,,,,,,,,Vucevic,,,,missed,,Jump Shot,,,17-10,16,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=66
 ,,,,,,,,,,1,4.15,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,17-10,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=67
 ,,,,,,,,,,1,4.02,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Turnaround Jump Shot,,,19-10,7,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=68
-,,,,,,,,,,1,3.46,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,,,,,19-10,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=69
+,,,,,,,,,,1,3.46,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,Lillard,,,,19-10,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=69
 ,,,,,,,,,,1,3.41,Portland Trail Blazers,shot,Lillard,,,,,,,,,Leonard,2,,,made,,Layup,,,21-10,1,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=70
 ,,,,,,,,,,1,3.31,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,Jump Shot,,,21-10,11,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=71
 ,,,,,,,,,,1,3.31,Orlando Magic,rebound,,,,,,,,,,O'Quinn,,,,,,,,,21-10,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=73
@@ -117,7 +117,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.26,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Traveling,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=133
 ,,,,,,,,,,2,9.26,Portland Trail Blazers,substitute,,,,Lillard,,Aldridge,,,,,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=134
 ,,,,,,,,,,2,9.26,Portland Trail Blazers,substitute,,,,Babbitt,,Smith,,,,,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=135
-,,,,,,,,,,2,9.13,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=137
+,,,,,,,,,,2,9.13,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Redick,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=137
 ,,,,,,,,,,2,9.09,Portland Trail Blazers,foul,,,,,,,,,,Babbitt,,,,,,Shooting,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=139
 ,,,,,,,,,,2,9.09,Orlando Magic,free throw,,,,,,,1,,2,Ayon,,,foul,missed,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=141
 ,,,,,,,,,,2,9.09,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,28-29,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=143
@@ -139,15 +139,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.55,Portland Trail Blazers,free throw,,,,,,,2,,2,Lillard,1,,foul,made,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=163
 ,,,,,,,,,,2,7.36,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Hook Shot,,,33-31,9,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=165
 ,,,,,,,,,,2,7.35,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=166
-,,,,,,,,,,2,7.29,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=167
-,,,,,,,,,,2,7.24,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,33-31,2,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=168
+,,,,,,,,,,2,7.29,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,Barton,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=167
+,,,,,,,,,,2,7.24,Portland Trail Blazers,shot,,,Ayon,,,,,,,Lillard,,,,missed,,Layup,,,33-31,2,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=168
 ,,,,,,,,,,2,7.21,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=169
 ,,,,,,,,,,2,7.11,Orlando Magic,shot,Afflalo,,,,,,,,,Ayon,2,,,made,,Jump Shot,,,33-33,17,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=170
 ,,,,,,,,,,2,7.01,Portland Trail Blazers,shot,Lillard,,,,,,,,,Barton,2,,,made,,Reverse Layup,,,35-33,2,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=171
 ,,,,,,,,,,2,6.41,Portland Trail Blazers,foul,,,,,,,,,,Babbitt,,,,,,Shooting,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=172
 ,,,,,,,,,,2,6.41,Orlando Magic,free throw,,,,,,,1,,2,Nicholson,1,,foul,made,,,,,35-34,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=173
 ,,,,,,,,,,2,6.41,Orlando Magic,free throw,,,,,,,2,,2,Nicholson,1,,foul,made,,,,,35-35,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=175
-,,,,,,,,,,2,6.31,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,35-35,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=177
+,,,,,,,,,,2,6.31,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Afflalo,,,,35-35,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=177
 ,,,,,,,,,,2,6.24,Portland Trail Blazers,foul,,,,,,,,,,Babbitt,,,,,,Shooting,,,35-35,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=178
 ,,,,,,,,,,2,6.24,Orlando Magic,free throw,,,,,,,1,,2,Nicholson,1,,foul,made,,,,,35-36,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=179
 ,,,,,,,,,,2,6.24,Orlando Magic,free throw,,,,,,,2,,2,Nicholson,1,,foul,made,,,,,35-37,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=181
@@ -219,11 +219,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.24,Orlando Magic,violation,,,,,,,,,,Harkless,,,Kicked Ball,,,,,,49-58,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=264
 ,,,,,,,,,,3,11.20,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,49-58,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=265
 ,,,,,,,,,,3,11.07,Orlando Magic,turnover,,,,,,,,,,Nicholson,,,Illegal Screen,,,,,,49-58,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=266
-,,,,,,,,,,3,10.53,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Driving Layup,,,49-58,2,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=267
+,,,,,,,,,,3,10.53,Portland Trail Blazers,shot,,,Nicholson,,,,,,,Lillard,,,,missed,,Driving Layup,,,49-58,2,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=267
 ,,,,,,,,,,3,10.51,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,49-58,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=268
 ,,,,,,,,,,3,10.41,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,3PT Pullup Jump Shot,,,49-58,25,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=269
 ,,,,,,,,,,3,10.40,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,49-58,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=270
-,,,,,,,,,,3,10.37,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Lost Ball,,,,,,49-58,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=271
+,,,,,,,,,,3,10.37,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Lost Ball,,Matthews,,,,49-58,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=271
 ,,,,,,,,,,3,10.26,Portland Trail Blazers,shot,Batum,,,,,,,,,Aldridge,2,,,made,,Jump Shot,,,51-58,20,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=272
 ,,,,,,,,,,3,10.16,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Shooting,,,51-58,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=273
 ,,,,,,,,,,3,10.16,Orlando Magic,free throw,,,,,,,1,,2,Afflalo,1,,foul,made,,,,,51-59,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=275
@@ -242,7 +242,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.31,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=290
 ,,,,,,,,,,3,8.20,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,Jump Shot,,,51-64,19,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=291
 ,,,,,,,,,,3,8.19,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=292
-,,,,,,,,,,3,8.14,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,Layup,,,51-64,1,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=293
+,,,,,,,,,,3,8.14,Orlando Magic,shot,,,Batum,,,,,,,Nelson,,,,missed,,Layup,,,51-64,1,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=293
 ,,,,,,,,,,3,8.11,Portland Trail Blazers,rebound,,,,,,,,,,Lillard,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=294
 ,,,,,,,,,,3,8.08,Portland Trail Blazers,turnover,,,,,,,,,,Batum Poss,,,Lost Ball,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=295
 ,,,,,,,,,,3,7.56,Orlando Magic,shot,,,,,,,,,,Nicholson,,,,missed,,Jump Shot,,,51-64,20,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=296
@@ -297,7 +297,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.15,Orlando Magic,rebound,,,,,,,,,,Nelson,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=353
 ,,,,,,,,,,3,1.08,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Floating Jump Shot,,,70-77,10,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=354
 ,,,,,,,,,,3,1.06,Portland Trail Blazers,rebound,,,,,,,,,,Freeland,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=355
-,,,,,,,,,,3,1.00,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,70-77,13,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=359
+,,,,,,,,,,3,1.00,Portland Trail Blazers,shot,,,O'Quinn,,,,,,,Lillard,,,,missed,,Jump Shot,,,70-77,13,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=359
 ,,,,,,,,,,3,0.56,Orlando Magic,rebound,,,,,,,,,,Ayon,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=356
 ,,,,,,,,,,3,0.53,Orlando Magic,shot,Afflalo,,,,,,,,,Redick,2,,,made,,Reverse Layup,,,70-79,1,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=357
 ,,,,,,,,,,3,0.32,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,70-79,25,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=358
@@ -317,13 +317,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.17,Orlando Magic,shot,Ayon,,,,,,,,,O'Quinn,2,,,made,,Slam Dunk,,,77-83,1,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=381
 ,,,,,,,,,,4,9.55,Portland Trail Blazers,shot,Lillard,,,,,,,,,Freeland,2,,,made,,Hook Shot,,,79-83,7,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=382
 ,,,,,,,,,,4,9.38,Orlando Magic,shot,,,,,,,,,,Moore,2,,,made,,Running Jump Shot,,,79-85,6,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=383
-,,,,,,,,,,4,9.17,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Bad Pass,,,,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=384
+,,,,,,,,,,4,9.17,Portland Trail Blazers,turnover,,,,,,,,,,Claver,,,Bad Pass,,O'Quinn,,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=384
 ,,,,,,,,,,4,9.15,Portland Trail Blazers,foul,,,,,,,,,,Claver,,,,,,Shooting,,,79-85,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=385
 ,,,,,,,,,,4,9.15,Orlando Magic,free throw,,,,,,,1,,2,Afflalo,1,,foul,made,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=386
 ,,,,,,,,,,4,9.15,Orlando Magic,substitute,,,,Vucevic,,O'Quinn,,,,,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=388
 ,,,,,,,,,,4,9.15,Orlando Magic,free throw,,,,,,,2,,2,Afflalo,,,foul,missed,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=389
 ,,,,,,,,,,4,9.14,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=391
-,,,,,,,,,,4,9.07,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Jump Shot,,,79-86,13,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=392
+,,,,,,,,,,4,9.07,Orlando Magic,shot,,,Lillard,,,,,,,Afflalo,,,,missed,,Jump Shot,,,79-86,13,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=392
 ,,,,,,,,,,4,9.04,Portland Trail Blazers,rebound,,,,,,,,,,Freeland,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=393
 ,,,,,,,,,,4,8.59,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,79-86,25,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=394
 ,,,,,,,,,,4,8.57,Orlando Magic,rebound,,,,,,,,,,Ayon,,,,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=395
@@ -340,7 +340,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.13,Portland Trail Blazers,rebound,,,,,,,,,,Babbitt,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=408
 ,,,,,,,,,,4,8.07,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,81-88,25,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=409
 ,,,,,,,,,,4,8.06,Orlando Magic,rebound,,,,,,,,,,Ayon,,,,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=410
-,,,,,,,,,,4,7.52,Orlando Magic,turnover,,,,,,,,,,Redick,,,Bad Pass,,,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=411
+,,,,,,,,,,4,7.52,Orlando Magic,turnover,,,,,,,,,,Redick,,,Bad Pass,,Freeland,,,,81-88,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=411
 ,,,,,,,,,,4,7.45,Portland Trail Blazers,shot,Freeland,,,,,,,,,Claver,2,,,made,,Dunk,,,83-88,1,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=412
 ,,,,,,,,,,4,7.28,Orlando Magic,shot,,,,,,,,,,Redick,2,,,made,,Jump Shot,,,83-90,21,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=413
 ,,,,,,,,,,4,7.17,Portland Trail Blazers,turnover,,,,,,,,,,Freeland,,,Traveling,,,,,,83-90,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=414
@@ -368,7 +368,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.29,Orlando Magic,foul,,,,,,,,,,Ayon,,,,,,Loose ball,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=438
 ,,,,,,,,,,4,5.29,Portland Trail Blazers,substitute,,,,Lillard,,Smith,,,,,,,,,,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=439
 ,,,,,,,,,,4,5.29,Orlando Magic,substitute,,,,Nicholson,,Vucevic,,,,,,,,,,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=440
-,,,,,,,,,,4,5.24,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=441
+,,,,,,,,,,4,5.24,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Ayon,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=441
 ,,,,,,,,,,4,5.17,Orlando Magic,shot,,,,,,,,,,Redick,,,,missed,,3PT Jump Shot,,,86-94,26,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=442
 ,,,,,,,,,,4,5.15,Orlando Magic,rebound,,,,,,,,,,Nicholson,,,,,,,,,86-94,,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=443
 ,,,,,,,,,,4,5.10,Orlando Magic,shot,,,,,,,,,,Nelson,2,,,made,,Driving Layup,,,86-96,4,http://stats.nba.com/cvp.html?GameID=0021200756&GameEventID=444

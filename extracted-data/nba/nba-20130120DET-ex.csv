@@ -1,9 +1,9 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.44,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=2
+,,,,,,,,,,1,11.44,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,Rondo,,,,,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=2
 ,,,,,,,,,,1,11.37,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Jump Shot,,,,4,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=3
 ,,,,,,,,,,1,11.37,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=4
 ,,,,,,,,,,1,11.37,Boston Celtics,foul,,,,,,,,,,Bass,,,,,,Loose ball,,,,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=5
-,,,,,,,,,,1,11.28,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=6
+,,,,,,,,,,1,11.28,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Bad Pass,,Rondo,,,,,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=6
 ,,,,,,,,,,1,11.20,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,,24,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=7
 ,,,,,,,,,,1,11.18,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=8
 ,,,,,,,,,,1,11.13,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,,18,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=9
@@ -11,12 +11,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.03,Detroit Pistons,shot,Knight,,,,,,,,,Monroe,2,,,made,,Reverse Layup,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=11
 ,,,,,,,,,,1,10.48,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,0-2,13,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=12
 ,,,,,,,,,,1,10.47,Detroit Pistons,rebound,,,,,,,,,,Maxiell,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=13
-,,,,,,,,,,1,10.41,Detroit Pistons,shot,,,,,,,,,,Prince,,,,missed,,Layup,,,0-2,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=14
+,,,,,,,,,,1,10.41,Detroit Pistons,shot,,,Pierce,,,,,,,Prince,,,,missed,,Layup,,,0-2,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=14
 ,,,,,,,,,,1,10.39,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=15
 ,,,,,,,,,,1,10.27,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Personal,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=17
 ,,,,,,,,,,1,10.13,Detroit Pistons,shot,,,,,,,,,,Maxiell,,,,missed,,Jump Shot,,,0-2,21,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=18
 ,,,,,,,,,,1,10.12,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=19
-,,,,,,,,,,1,9.58,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,0-2,10,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=20
+,,,,,,,,,,1,9.58,Boston Celtics,shot,,,Maxiell,,,,,,,Bass,,,,missed,,Jump Shot,,,0-2,10,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=20
 ,,,,,,,,,,1,9.56,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=21
 ,,,,,,,,,,1,9.50,Detroit Pistons,shot,Monroe,,,,,,,,,Singler,3,,,made,,3PT Jump Shot,,,0-5,26,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=22
 ,,,,,,,,,,1,9.31,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,0-5,10,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=23
@@ -36,7 +36,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.17,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,2-9,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=37
 ,,,,,,,,,,1,8.08,Detroit Pistons,shot,Singler,,,,,,,,,Prince,2,,,made,,Layup,,,2-11,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=39
 ,,,,,,,,,,1,7.57,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=40
-,,,,,,,,,,1,7.39,Boston Celtics,turnover,,,,,,,,,,Rondo Poss,,,Lost Ball,,,,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=41
+,,,,,,,,,,1,7.39,Boston Celtics,turnover,,,,,,,,,,Rondo Poss,,,Lost Ball,,Singler,,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=41
 ,,,,,,,,,,1,7.36,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Shooting,,,2-11,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=42
 ,,,,,,,,,,1,7.36,Detroit Pistons,free throw,,,,,,,1,,2,Knight,1,,foul,made,,,,,2-12,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=43
 ,,,,,,,,,,1,7.36,Detroit Pistons,free throw,,,,,,,2,,2,Knight,1,,foul,made,,,,,2-13,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=45
@@ -47,7 +47,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.31,Boston Celtics,substitute,,,,Collins,,Garnett,,,,,,,,,,,,,4-13,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=52
 ,,,,,,,,,,1,6.25,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,Jump Shot,,,4-13,15,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=53
 ,,,,,,,,,,1,6.24,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,4-13,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=54
-,,,,,,,,,,1,6.17,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,Reverse Layup,,,4-13,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=55
+,,,,,,,,,,1,6.17,Boston Celtics,shot,,,Singler,,,,,,,Bradley,,,,missed,,Reverse Layup,,,4-13,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=55
 ,,,,,,,,,,1,6.15,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,4-13,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=56
 ,,,,,,,,,,1,6.09,Detroit Pistons,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,4-13,17,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=57
 ,,,,,,,,,,1,6.09,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,4-13,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=58
@@ -70,8 +70,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.37,Detroit Pistons,shot,Stuckey,,,,,,,,,Monroe,2,,,made,,Hook Shot,,,5-17,6,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=77
 ,,,,,,,,,,1,4.21,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Jump Shot,,,5-17,20,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=78
 ,,,,,,,,,,1,4.19,Detroit Pistons,rebound,,,,,,,,,,Stuckey,,,,,,,,,5-17,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=79
-,,,,,,,,,,1,3.58,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Lost Ball,,,,,,5-17,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=80
-,,,,,,,,,,1,3.52,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,5-17,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=81
+,,,,,,,,,,1,3.58,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Lost Ball,,Collins,,,,5-17,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=80
+,,,,,,,,,,1,3.52,Boston Celtics,shot,,,Maxiell,,,,,,,Lee,,,,missed,,Layup,,,5-17,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=81
 ,,,,,,,,,,1,3.49,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,5-17,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=82
 ,,,,,,,,,,1,3.49,Boston Celtics,foul,,,,,,,,,,Sullinger,,,,,,Personal,,,5-17,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=83
 ,,,,,,,,,,1,3.49,Detroit Pistons,free throw,,,,,,,1,,2,Knight,,,foul,missed,,,,,5-17,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=84
@@ -129,10 +129,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.38,Boston Celtics,substitute,,,,Rondo,,Sullinger,,,,,,,,,,,,,18-36,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=152
 ,,,,,,,,,,2,9.38,Boston Celtics,substitute,,,,Pierce,,Terry,,,,,,,,,,,,,18-36,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=153
 ,,,,,,,,,,2,9.27,Boston Celtics,shot,Rondo,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,20-36,5,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=154
-,,,,,,,,,,2,9.10,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,,,,,20-36,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=155
+,,,,,,,,,,2,9.10,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,Pierce,,,,20-36,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=155
 ,,,,,,,,,,2,9.07,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Dunk,,,22-36,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=156
 ,,,,,,,,,,2,8.57,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Personal,,,22-36,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=157
-,,,,,,,,,,2,8.45,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Jump Shot,,,22-36,18,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=158
+,,,,,,,,,,2,8.45,Detroit Pistons,shot,,,Garnett,,,,,,,Bynum,,,,missed,,Jump Shot,,,22-36,18,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=158
 ,,,,,,,,,,2,8.44,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,22-36,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=159
 ,,,,,,,,,,2,8.37,Boston Celtics,shot,Green,,,,,,,,,Lee,3,,,made,,3PT Jump Shot,,,25-36,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=160
 ,,,,,,,,,,2,8.20,Detroit Pistons,turnover,,,,,,,,,,Villanueva,,,Double Dribble,,,,,,25-36,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=161
@@ -149,7 +149,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.07,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,28-38,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=173
 ,,,,,,,,,,2,6.58,Detroit Pistons,shot,,,,,,,,,,Bynum,2,,,made,,Floating Jump Shot,,,28-40,9,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=174
 ,,,,,,,,,,2,6.47,Boston Celtics,shot,Rondo,,,,,,,,,Lee,2,,,made,,Reverse Layup,,,30-40,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=175
-,,,,,,,,,,2,6.29,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,,,,,30-40,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=176
+,,,,,,,,,,2,6.29,Detroit Pistons,turnover,,,,,,,,,,Bynum,,,Bad Pass,,Rondo,,,,30-40,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=176
 ,,,,,,,,,,2,6.24,Boston Celtics,shot,Rondo,,,,,,,,,Green,2,,,made,,Layup,,,32-40,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=177
 ,,,,,,,,,,2,6.24,Detroit Pistons,foul,,,,,,,,,,Daye,,,,,,Shooting,,,32-40,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=178
 ,,,,,,,,,,2,6.24,Detroit Pistons,substitute,,,,Singler,,Stuckey,,,,,,,,,,,,,32-40,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=179
@@ -189,7 +189,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.27,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=218
 ,,,,,,,,,,2,3.13,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,38-45,4,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=219
 ,,,,,,,,,,2,3.12,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=220
-,,,,,,,,,,2,3.11,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=221
+,,,,,,,,,,2,3.11,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,Green,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=221
 ,,,,,,,,,,2,3.09,Boston Celtics,shot,,,,,,,,,,Lee,2,,,made,,Floating Jump Shot,,,40-45,7,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=222
 ,,,,,,,,,,2,3.09,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=223
 ,,,,,,,,,,2,3.00,Boston Celtics,foul,,,,,,,,,,Garnett,,,,,,Shooting,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=225
@@ -200,7 +200,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.19,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,42-47,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=232
 ,,,,,,,,,,2,2.11,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,42-47,5,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=233
 ,,,,,,,,,,2,2.10,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,42-47,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=234
-,,,,,,,,,,2,2.08,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Lost Ball,,,,,,42-47,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=235
+,,,,,,,,,,2,2.08,Detroit Pistons,turnover,,,,,,,,,,Prince,,,Lost Ball,,Garnett,,,,42-47,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=235
 ,,,,,,,,,,2,2.04,Boston Celtics,shot,Rondo,,,,,,,,,Garnett,2,,,made,,Dunk,,,44-47,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=236
 ,,,,,,,,,,2,1.43,Boston Celtics,foul,,,,,,,,,,Green,,,,,,Personal,,,44-47,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=237
 ,,,,,,,,,,2,1.30,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Jump Bank Shot,,,44-47,5,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=240
@@ -218,11 +218,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.39,Detroit Pistons,shot,,,,,,,,,,Knight,2,,,made,,Jump Shot,,,48-50,14,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=255
 ,,,,,,,,,,2,0.39,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=256
 ,,,,,,,,,,2,0.39,Boston Celtics,substitute,,,,Rondo,,Bradley,,,,,,,,,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=262
-,,,,,,,,,,2,0.24,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=258
+,,,,,,,,,,2,0.24,Boston Celtics,turnover,,,,,,,,,,Bass,,,Lost Ball,,Monroe,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=258
 ,,,,,,,,,,2,0.20,Detroit Pistons,shot,Singler,,,,,,,,,Knight,2,,,made,,Layup,,,48-52,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=259
 ,,,,,,,,,,2,0.01,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Jump Shot,,,48-52,20,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=260
 ,,,,,,,,,,2,0.00,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=261
-,,,,,,,,,,3,11.47,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Jump Shot,,,48-52,4,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=266
+,,,,,,,,,,3,11.47,Boston Celtics,shot,,,Maxiell,,,,,,,Garnett,,,,missed,,Jump Shot,,,48-52,4,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=266
 ,,,,,,,,,,3,11.47,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=267
 ,,,,,,,,,,3,11.47,Detroit Pistons,foul,,,,,,,,,,Singler,,,,,,Shooting,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=268
 ,,,,,,,,,,3,11.47,Boston Celtics,free throw,,,,,,,1,,2,Garnett,1,,foul,made,,,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=269
@@ -248,7 +248,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.56,Detroit Pistons,jumpball,,Garnett,,,Monroe,,,,,,,,,,,,,,52-55,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=291
 ,,,,,,,,,,3,9.50,Boston Celtics,shot,,,,,,,,,,Bradley,2,,,made,,Layup,,,54-55,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=293
 ,,,,,,,,,,3,9.34,Boston Celtics,foul,,,,,,,,,,Garnett,,,,,,Personal,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=294
-,,,,,,,,,,3,9.25,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=295
+,,,,,,,,,,3,9.25,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,Bradley,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=295
 ,,,,,,,,,,3,9.19,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,54-55,24,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=296
 ,,,,,,,,,,3,9.18,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,54-55,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=297
 ,,,,,,,,,,3,9.00,Detroit Pistons,shot,Singler,,,,,,,,,Knight,3,,,made,,3PT Jump Shot,,,54-58,26,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=298
@@ -256,22 +256,22 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.45,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Foul,,,,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=300
 ,,,,,,,,,,3,8.26,Detroit Pistons,shot,Maxiell,,,,,,,,,Prince,3,,,made,,3PT Jump Shot,,,54-61,28,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=301
 ,,,,,,,,,,3,8.24,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,54-61,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=302
-,,,,,,,,,,3,8.07,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,54-61,3,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=304
+,,,,,,,,,,3,8.07,Boston Celtics,shot,,,Maxiell,,,,,,,Pierce,,,,missed,,Jump Shot,,,54-61,3,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=304
 ,,,,,,,,,,3,8.06,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,54-61,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=305
 ,,,,,,,,,,3,7.57,Boston Celtics,shot,,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,56-61,20,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=306
-,,,,,,,,,,3,7.33,Detroit Pistons,shot,,,,,,,,,,Monroe,,,,missed,,Layup,,,56-61,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=307
+,,,,,,,,,,3,7.33,Detroit Pistons,shot,,,Garnett,,,,,,,Monroe,,,,missed,,Layup,,,56-61,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=307
 ,,,,,,,,,,3,7.31,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,56-61,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=308
 ,,,,,,,,,,3,7.29,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Layup,,,56-63,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=309
-,,,,,,,,,,3,7.22,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=310
-,,,,,,,,,,3,7.07,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Bad Pass,,,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=311
-,,,,,,,,,,3,7.00,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=312
+,,,,,,,,,,3,7.22,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Knight,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=310
+,,,,,,,,,,3,7.07,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Bad Pass,,Garnett,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=311
+,,,,,,,,,,3,7.00,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Singler,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=312
 ,,,,,,,,,,3,6.58,Detroit Pistons,foul,,,,,,,,,,Singler,,,,,,Offensive Charge,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=313
 ,,,,,,,,,,3,6.58,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Foul,,,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=314
 ,,,,,,,,,,3,6.58,Boston Celtics,substitute,,,,Sullinger,,Garnett,,,,,,,,,,,,,56-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=315
 ,,,,,,,,,,3,6.46,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Floating Jump Shot,,,58-63,7,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=316
 ,,,,,,,,,,3,6.32,Boston Celtics,foul,,,,,,,,,,Bradley,,,,,,Personal,,,58-63,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=317
 ,,,,,,,,,,3,6.28,Detroit Pistons,shot,Knight,,,,,,,,,Prince,2,,,made,,Dunk,,,58-65,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=318
-,,,,,,,,,,3,6.07,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=319
+,,,,,,,,,,3,6.07,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Maxiell,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=319
 ,,,,,,,,,,3,6.02,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,Layup,,,58-65,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=320
 ,,,,,,,,,,3,6.00,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,58-65,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=321
 ,,,,,,,,,,3,5.59,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Putback Dunk,,,58-67,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=322
@@ -304,18 +304,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.10,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,60-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=352
 ,,,,,,,,,,3,4.10,Boston Celtics,substitute,,,,Terry,,Collins,,,,,,,,,,,,,60-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=354
 ,,,,,,,,,,3,4.10,Boston Celtics,free throw,,,,,,,2,,2,Green,1,,foul,made,,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=355
-,,,,,,,,,,3,3.58,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=357
+,,,,,,,,,,3,3.58,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,Lee,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=357
 ,,,,,,,,,,3,3.51,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,3PT Jump Shot,,,61-70,27,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=358
 ,,,,,,,,,,3,3.50,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=359
 ,,,,,,,,,,3,3.48,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=360
-,,,,,,,,,,3,3.40,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=361
-,,,,,,,,,,3,3.35,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Reverse Layup,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=362
+,,,,,,,,,,3,3.40,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Singler,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=361
+,,,,,,,,,,3,3.35,Detroit Pistons,shot,,,Green,,,,,,,Knight,,,,missed,,Reverse Layup,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=362
 ,,,,,,,,,,3,3.31,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,61-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=363
 ,,,,,,,,,,3,3.17,Boston Celtics,shot,,,,,,,,,,Lee,2,,,made,,Driving Layup,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=364
 ,,,,,,,,,,3,3.16,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=365
 ,,,,,,,,,,3,3.16,Detroit Pistons,substitute,,,,Drummond,,Maxiell,,,,,,,,,,,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=367
 ,,,,,,,,,,3,3.16,Detroit Pistons,substitute,,,,Bynum,,Knight,,,,,,,,,,,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=368
-,,,,,,,,,,3,3.08,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,,,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=369
+,,,,,,,,,,3,3.08,Detroit Pistons,turnover,,,,,,,,,,Singler,,,Bad Pass,,Lee,,,,63-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=369
 ,,,,,,,,,,3,3.00,Boston Celtics,shot,,,,,,,,,,Terry,3,,,made,,3PT Jump Shot,,,66-70,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=370
 ,,,,,,,,,,3,2.38,Detroit Pistons,shot,Monroe,,,,,,,,,Drummond,2,,,made,,Alley Oop Dunk,,,66-72,2,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=371
 ,,,,,,,,,,3,2.15,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Jump Shot,,,66-72,9,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=372
@@ -327,7 +327,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.04,Detroit Pistons,free throw,,,,,,,1,,2,Bynum,1,,foul,made,,,,,68-73,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=378
 ,,,,,,,,,,3,2.04,Detroit Pistons,substitute,,,,Stuckey,,Singler,,,,,,,,,,,,,68-73,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=380
 ,,,,,,,,,,3,2.04,Detroit Pistons,free throw,,,,,,,2,,2,Bynum,1,,foul,made,,,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=381
-,,,,,,,,,,3,1.48,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Jump Shot,,,68-74,8,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=383
+,,,,,,,,,,3,1.48,Boston Celtics,shot,,,Drummond,,,,,,,Rondo,,,,missed,,Jump Shot,,,68-74,8,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=383
 ,,,,,,,,,,3,1.47,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=384
 ,,,,,,,,,,3,1.42,Boston Celtics,foul,,,,,,,,,,Sullinger,,,,,,Shooting,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=385
 ,,,,,,,,,,3,1.42,Detroit Pistons,free throw,,,,,,,1,,2,Drummond,,,foul,missed,,,,,68-74,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=386
@@ -381,13 +381,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.50,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,3PT Jump Shot,,,73-87,26,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=446
 ,,,,,,,,,,4,8.49,Detroit Pistons,rebound,,,,,,,,,,Bynum,,,,,,,,,73-87,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=447
 ,,,,,,,,,,4,8.39,Detroit Pistons,shot,Bynum,,,,,,,,,Drummond,2,,,made,,Alley Oop Dunk,,,73-89,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=448
-,,,,,,,,,,4,8.21,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,73-89,26,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=449
+,,,,,,,,,,4,8.21,Boston Celtics,shot,,,Stuckey,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,73-89,26,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=449
 ,,,,,,,,,,4,8.18,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=450
 ,,,,,,,,,,4,8.03,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,3PT Jump Shot,,,73-89,24,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=451
 ,,,,,,,,,,4,8.02,Boston Celtics,rebound,,,,,,,,,,Barbosa,,,,,,,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=452
 ,,,,,,,,,,4,8.00,Detroit Pistons,foul,,,,,,,,,,Bynum,,,,,,Personal,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=453
 ,,,,,,,,,,4,8.00,Detroit Pistons,substitute,,,,Maxiell,,Monroe,,,,,,,,,,,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=456
-,,,,,,,,,,4,7.43,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=457
+,,,,,,,,,,4,7.43,Boston Celtics,turnover,,,,,,,,,,Green,,,Bad Pass,,Stuckey,,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=457
 ,,,,,,,,,,4,7.37,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,3PT Jump Shot,,,73-89,27,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=458
 ,,,,,,,,,,4,7.36,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,73-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=459
 ,,,,,,,,,,4,7.14,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Jump Shot,,,73-89,18,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=460
@@ -397,7 +397,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.50,Boston Celtics,substitute,,,,Bradley,,Green,,,,,,,,,,,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=464
 ,,,,,,,,,,4,6.42,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Jump Shot,,,75-89,12,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=465
 ,,,,,,,,,,4,6.41,Boston Celtics,rebound,,,,,,,,,,Barbosa,,,,,,,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=466
-,,,,,,,,,,4,6.35,Boston Celtics,turnover,,,,,,,,,,Barbosa,,,Bad Pass,,,,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=467
+,,,,,,,,,,4,6.35,Boston Celtics,turnover,,,,,,,,,,Barbosa,,,Bad Pass,,Drummond,,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=467
 ,,,,,,,,,,4,6.35,Boston Celtics,foul,,,,,,,,,,Pierce,,,,,,Loose ball,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=468
 ,,,,,,,,,,4,6.18,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,3PT Jump Shot,,,75-89,24,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=469
 ,,,,,,,,,,4,6.17,Detroit Pistons,rebound,,,,,,,,,,Drummond,,,,,,,,,75-89,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=470
@@ -425,7 +425,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.04,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Jump Shot,,,79-91,4,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=495
 ,,,,,,,,,,4,4.04,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=496
 ,,,,,,,,,,4,4.04,Detroit Pistons,foul,,,,,,,,,,Bynum,,,,,,Loose ball,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=497
-,,,,,,,,,,4,3.57,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=498
+,,,,,,,,,,4,3.57,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Lost Ball,,Bynum,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=498
 ,,,,,,,,,,4,3.56,Boston Celtics,foul,,,,,,,,,,Rondo,,,,,,Shooting,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=499
 ,,,,,,,,,,4,3.56,Detroit Pistons,free throw,,,,,,,1,,2,Bynum,,,foul,missed,,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=500
 ,,,,,,,,,,4,3.56,Detroit Pistons,rebound,,,,,,,,,,,,,,,,,,,79-91,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=501
@@ -457,7 +457,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.14,Detroit Pistons,shot,Prince,,,,,,,,,Singler,3,,,made,,3PT Jump Shot,,,84-99,24,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=536
 ,,,,,,,,,,4,2.04,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Layup,,,84-99,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=537
 ,,,,,,,,,,4,2.02,Detroit Pistons,rebound,,,,,,,,,,Knight,,,,,,,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=538
-,,,,,,,,,,4,1.49,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Bad Pass,,,,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=539
+,,,,,,,,,,4,1.49,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Bad Pass,,Pierce,,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=539
 ,,,,,,,,,,4,1.36,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,3PT Jump Shot,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=540
 ,,,,,,,,,,4,1.35,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=541
 ,,,,,,,,,,4,1.30,Detroit Pistons,shot,Knight,,,,,,,,,Prince,2,,,made,,Dunk,,,84-101,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=542
@@ -471,5 +471,5 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.49,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,84-101,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=550
 ,,,,,,,,,,4,0.48,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Layup,,,84-103,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=551
 ,,,,,,,,,,4,0.42,Boston Celtics,shot,Lee,,,,,,,,,Sullinger,2,,,made,,Layup,,,86-103,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=552
-,,,,,,,,,,4,0.24,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,,,,,86-103,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=553
+,,,,,,,,,,4,0.24,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Lost Ball,,Lee,,,,86-103,,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=553
 ,,,,,,,,,,4,0.21,Boston Celtics,shot,,,,,,,,,,Lee,2,,,made,,Layup,,,88-103,1,http://stats.nba.com/cvp.html?GameID=0021200603&GameEventID=554

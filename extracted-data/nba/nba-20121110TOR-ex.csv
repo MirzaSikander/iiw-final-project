@@ -60,7 +60,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.14,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Hook Shot,,,12-18,8,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=71
 ,,,,,,,,,,1,4.13,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,12-18,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=72
 ,,,,,,,,,,1,4.13,Toronto Raptors,foul,,,,,,,,,,Johnson,,,,,,Loose ball,,,12-18,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=73
-,,,,,,,,,,1,4.01,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,,,,,12-18,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=74
+,,,,,,,,,,1,4.01,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Lost Ball,,Bargnani,,,,12-18,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=74
 ,,,,,,,,,,1,3.48,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Turnaround Fadeaway,,,12-20,5,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=75
 ,,,,,,,,,,1,3.27,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Turnaround Jump Shot,,,12-20,13,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=76
 ,,,,,,,,,,1,3.24,Toronto Raptors,rebound,,,,,,,,,,Calderon,,,,,,,,,12-20,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=77
@@ -79,16 +79,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.10,Philadelphia 76ers,foul,,,,,,,,,,Hawes,,,,,,Offensive Charge,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=91
 ,,,,,,,,,,1,2.10,Philadelphia 76ers,turnover,,,,,,,,,,Hawes,,,Foul,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=92
 ,,,,,,,,,,1,2.10,Philadelphia 76ers,substitute,,,,Ivey,,Holiday,,,,,,,,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=93
-,,,,,,,,,,1,1.53,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Layup,,,12-22,3,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=95
+,,,,,,,,,,1,1.53,Toronto Raptors,shot,,,Hawes,,,,,,,Bargnani,,,,missed,,Layup,,,12-22,3,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=95
 ,,,,,,,,,,1,1.51,Toronto Raptors,rebound,,,,,,,,,,Calderon,,,,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=96
 ,,,,,,,,,,1,1.48,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,12-22,6,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=97
 ,,,,,,,,,,1,1.46,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=98
 ,,,,,,,,,,1,1.46,Toronto Raptors,turnover,,,,,,,,,,,,,Shot Clock,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=99
 ,,,,,,,,,,1,1.46,Toronto Raptors,substitute,,,,Lucas III,,Calderon,,,,,,,,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=100
 ,,,,,,,,,,1,1.46,Toronto Raptors,substitute,,,,Davis,,Bargnani,,,,,,,,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=101
-,,,,,,,,,,1,1.35,Philadelphia 76ers,shot,,,,,,,,,,Turner,,,,missed,,Layup,,,12-22,1,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=102
+,,,,,,,,,,1,1.35,Philadelphia 76ers,shot,,,Johnson,,,,,,,Turner,,,,missed,,Layup,,,12-22,1,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=102
 ,,,,,,,,,,1,1.32,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=103
-,,,,,,,,,,1,1.30,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=104
+,,,,,,,,,,1,1.30,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Ivey,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=104
 ,,,,,,,,,,1,1.28,Toronto Raptors,violation,,,,,,,,,,Davis,,,Defensive Goaltending,,,,,,12-22,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=106
 ,,,,,,,,,,1,1.28,Philadelphia 76ers,shot,,,,,,,,,,Ivey,2,,,made,,Driving Layup,,,14-22,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=105
 ,,,,,,,,,,1,1.07,Toronto Raptors,shot,,,,,,,,,,Lucas III,,,,missed,,Pullup Jump Shot,,,14-22,20,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=108
@@ -134,7 +134,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.37,Toronto Raptors,shot,McGuire,,,,,,,,,Lucas III,3,,,made,,3PT Jump Shot,,,25-29,24,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=158
 ,,,,,,,,,,2,9.22,Philadelphia 76ers,shot,Hawes,,,,,,,,,Young,2,,,made,,Jump Shot,,,27-29,21,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=159
 ,,,,,,,,,,2,9.07,Philadelphia 76ers,foul,,,,,,,,,,Ivey,,,,,,Personal,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=160
-,,,,,,,,,,2,8.57,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=161
+,,,,,,,,,,2,8.57,Toronto Raptors,turnover,,,,,,,,,,Johnson,,,Bad Pass,,Ivey,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=161
 ,,,,,,,,,,2,8.51,Toronto Raptors,violation,,,,,,,,,,Kleiza,,,Defensive Goaltending,,,,,,27-29,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=163
 ,,,,,,,,,,2,8.51,Philadelphia 76ers,shot,Ivey,,,,,,,,,Wilkins,2,,,made,,Driving Layup,,,29-29,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=162
 ,,,,,,,,,,2,8.33,Toronto Raptors,shot,,,,,,,,,,Lucas III,,,,missed,,Jump Shot,,,29-29,15,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=164
@@ -170,7 +170,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.21,Toronto Raptors,foul,,,,,,,,,,Valanciunas,,,,,,Shooting,,,40-31,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=203
 ,,,,,,,,,,2,5.21,Philadelphia 76ers,substitute,,,,Allen,,Hawes,,,,,,,,,,,,,40-31,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=205
 ,,,,,,,,,,2,5.21,Philadelphia 76ers,free throw,,,,,,,1,,1,Holiday,1,,foul,made,,,,,41-31,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=206
-,,,,,,,,,,2,5.14,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,,,,,41-31,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=208
+,,,,,,,,,,2,5.14,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,Young,,,,41-31,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=208
 ,,,,,,,,,,2,5.09,Philadelphia 76ers,shot,,,,,,,,,,Young,2,,,made,,Driving Dunk,,,43-31,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=209
 ,,,,,,,,,,2,4.51,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,43-31,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=210
 ,,,,,,,,,,2,4.50,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,43-31,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=211
@@ -222,11 +222,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.06,Toronto Raptors,shot,Anderson,,,,,,,,,Valanciunas,2,,,made,,Jump Shot,,,52-35,15,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=268
 ,,,,,,,,,,3,10.44,Philadelphia 76ers,shot,Young,,,,,,,,,Wright,3,,,made,,3PT Jump Shot,,,55-35,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=269
 ,,,,,,,,,,3,10.22,Toronto Raptors,shot,Bargnani,,,,,,,,,Calderon,3,,,made,,3PT Jump Shot,,,55-38,24,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=270
-,,,,,,,,,,3,10.04,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Foul,,,,,,55-38,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=271
+,,,,,,,,,,3,10.04,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Foul,,Bargnani,,,,55-38,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=271
 ,,,,,,,,,,3,9.52,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,Jump Shot,,,55-38,21,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=273
 ,,,,,,,,,,3,9.51,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,55-38,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=274
 ,,,,,,,,,,3,9.36,Philadelphia 76ers,shot,Turner,,,,,,,,,Young,2,,,made,,Dunk,,,57-38,1,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=275
-,,,,,,,,,,3,9.17,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Bad Pass,,,,,,57-38,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=277
+,,,,,,,,,,3,9.17,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Bad Pass,,Wright,,,,57-38,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=277
 ,,,,,,,,,,3,9.12,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Personal Block,,,57-38,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=278
 ,,,,,,,,,,3,9.07,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,Jump Shot,,,57-38,15,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=279
 ,,,,,,,,,,3,9.06,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,57-38,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=280
@@ -241,7 +241,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.54,Toronto Raptors,rebound,,,,,,,,,,Anderson,,,,,,,,,57-42,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=291
 ,,,,,,,,,,3,7.49,Toronto Raptors,shot,Calderon,,,,,,,,,Valanciunas,2,,,made,,Dunk,,,57-44,1,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=292
 ,,,,,,,,,,3,7.47,Philadelphia 76ers,timeout,,,,,,,,,,,,,,,,,,,57-44,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=293
-,,,,,,,,,,3,7.24,Philadelphia 76ers,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,57-44,6,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=296
+,,,,,,,,,,3,7.24,Philadelphia 76ers,shot,,,Valanciunas,,,,,,,Allen,,,,missed,,Jump Shot,,,57-44,6,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=296
 ,,,,,,,,,,3,7.24,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,57-44,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=297
 ,,,,,,,,,,3,7.11,Toronto Raptors,shot,Calderon,,,,,,,,,Bargnani,3,,,made,,3PT Jump Shot,,,57-47,25,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=298
 ,,,,,,,,,,3,6.43,Philadelphia 76ers,shot,,,,,,,,,,Young,2,,,made,,Layup,,,59-47,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=299
@@ -256,12 +256,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.31,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=310
 ,,,,,,,,,,3,5.18,Philadelphia 76ers,shot,,,,,,,,,,Wright,,,,missed,,3PT Jump Shot,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=311
 ,,,,,,,,,,3,5.17,Toronto Raptors,rebound,,,,,,,,,,Bargnani,,,,,,,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=312
-,,,,,,,,,,3,5.08,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,,,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=313
+,,,,,,,,,,3,5.08,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Lost Ball,,Holiday,,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=313
 ,,,,,,,,,,3,5.00,Philadelphia 76ers,shot,Holiday,,,,,,,,,Turner,2,,,made,,Driving Layup,,,61-49,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=314
 ,,,,,,,,,,3,4.41,Toronto Raptors,shot,Bargnani,,,,,,,,,Calderon,3,,,made,,3PT Jump Shot,,,61-52,25,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=315
 ,,,,,,,,,,3,4.18,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Jump Shot,,,61-52,17,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=317
 ,,,,,,,,,,3,4.17,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=318
-,,,,,,,,,,3,4.07,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Bad Pass,,,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=319
+,,,,,,,,,,3,4.07,Toronto Raptors,turnover,,,,,,,,,,Anderson,,,Bad Pass,,Turner,,,,61-52,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=319
 ,,,,,,,,,,3,4.04,Philadelphia 76ers,shot,Turner,,,,,,,,,Wright,2,,,made,,Driving Layup,,,63-52,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=320
 ,,,,,,,,,,3,4.04,Toronto Raptors,foul,,,,,,,,,,Calderon,,,,,,Shooting,,,63-52,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=321
 ,,,,,,,,,,3,4.04,Philadelphia 76ers,substitute,,,,Young,,Allen,,,,,,,,,,,,,63-52,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=322
@@ -285,13 +285,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.48,Philadelphia 76ers,shot,,,,,,,,,,Wilkins,,,,missed,,Jump Shot,,,67-57,15,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=351
 ,,,,,,,,,,3,1.46,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,67-57,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=352
 ,,,,,,,,,,3,1.23,Toronto Raptors,shot,Johnson,,,,,,,,,DeRozan,3,,,made,,3PT Jump Shot,,,67-60,25,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=353
-,,,,,,,,,,3,1.03,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Fadeaway Jumper,,,67-60,16,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=354
+,,,,,,,,,,3,1.03,Philadelphia 76ers,shot,,,Calderon,,,,,,,Holiday,,,,missed,,Fadeaway Jumper,,,67-60,16,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=354
 ,,,,,,,,,,3,1.01,Philadelphia 76ers,rebound,,,,,,,,,,Hawes,,,,,,,,,67-60,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=355
-,,,,,,,,,,3,1.00,Philadelphia 76ers,shot,,,,,,,,,,Hawes,,,,missed,,Layup,,,67-60,3,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=361
+,,,,,,,,,,3,1.00,Philadelphia 76ers,shot,,,Johnson,,,,,,,Hawes,,,,missed,,Layup,,,67-60,3,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=361
 ,,,,,,,,,,3,1.00,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,67-60,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=367
 ,,,,,,,,,,3,0.58,Philadelphia 76ers,shot,,,,,,,,,,Holiday,,,,missed,,Layup,,,67-60,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=356
 ,,,,,,,,,,3,0.57,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,67-60,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=357
-,,,,,,,,,,3,0.52,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Lost Ball,,,,,,67-60,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=358
+,,,,,,,,,,3,0.52,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Lost Ball,,Holiday,,,,67-60,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=358
 ,,,,,,,,,,3,0.48,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Running Jump Shot,,,69-60,6,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=359
 ,,,,,,,,,,3,0.40,Philadelphia 76ers,foul,,,,,,,,,,Young,,,,,,Personal,,,69-60,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=360
 ,,,,,,,,,,3,0.26,Toronto Raptors,shot,,,,,,,,,,Anderson,,,,missed,,Driving Hook Shot,,,69-60,3,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=363
@@ -324,7 +324,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.00,Philadelphia 76ers,shot,Ivey,,,,,,,,,Wright,3,,,made,,3PT Jump Shot,,,75-63,27,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=404
 ,,,,,,,,,,4,9.31,Toronto Raptors,shot,,,,,,,,,,McGuire,,,,missed,,Turnaround Jump Shot,,,75-63,13,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=405
 ,,,,,,,,,,4,9.30,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,75-63,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=406
-,,,,,,,,,,4,9.20,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,,,,,75-63,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=407
+,,,,,,,,,,4,9.20,Philadelphia 76ers,turnover,,,,,,,,,,Young,,,Bad Pass,,III,,,,75-63,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=407
 ,,,,,,,,,,4,9.04,Toronto Raptors,shot,,,,,,,,,,Bargnani,2,,,made,,Jump Shot,,,75-65,18,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=408
 ,,,,,,,,,,4,9.04,Philadelphia 76ers,foul,,,,,,,,,,Wright,,,,,,Shooting,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=409
 ,,,,,,,,,,4,9.04,Toronto Raptors,free throw,,,,,,,1,,1,Bargnani,,,foul,missed,,,,,75-65,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=410
@@ -336,7 +336,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.17,Philadelphia 76ers,shot,,,,,,,,,,Ivey,2,,,made,,Running Jump Shot,,,77-65,10,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=419
 ,,,,,,,,,,4,8.01,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,77-65,14,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=420
 ,,,,,,,,,,4,7.59,Philadelphia 76ers,rebound,,,,,,,,,,Wright,,,,,,,,,77-65,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=421
-,,,,,,,,,,4,7.42,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Lost Ball,,,,,,77-65,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=423
+,,,,,,,,,,4,7.42,Philadelphia 76ers,turnover,,,,,,,,,,Wright,,,Lost Ball,,DeRozan,,,,77-65,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=423
 ,,,,,,,,,,4,7.29,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Driving Finger Roll Layup,,,77-67,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=424
 ,,,,,,,,,,4,7.13,Toronto Raptors,foul,,,,,,,,,,Johnson,,,,,,Shooting,,,77-67,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=425
 ,,,,,,,,,,4,7.13,Philadelphia 76ers,free throw,,,,,,,1,,2,Young,1,,foul,made,,,,,78-67,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=426
@@ -358,14 +358,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.19,Philadelphia 76ers,shot,,,,,,,,,,Young,,,,missed,,Fadeaway Jumper,,,81-67,18,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=447
 ,,,,,,,,,,4,5.18,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,81-67,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=448
 ,,,,,,,,,,4,5.07,Toronto Raptors,shot,,,,,,,,,,Bargnani,2,,,made,,Driving Layup,,,81-69,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=449
-,,,,,,,,,,4,4.44,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,,,,,81-69,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=450
-,,,,,,,,,,4,4.35,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,81-69,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=451
+,,,,,,,,,,4,4.44,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Lost Ball,,Ross,,,,81-69,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=450
+,,,,,,,,,,4,4.35,Toronto Raptors,shot,,,Young,,,,,,,DeRozan,,,,missed,,Layup,,,81-69,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=451
 ,,,,,,,,,,4,4.33,Philadelphia 76ers,rebound,,,,,,,,,,Holiday,,,,,,,,,81-69,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=452
 ,,,,,,,,,,4,4.30,Philadelphia 76ers,turnover,,,,,,,,,,Turner,,,Traveling,,,,,,81-69,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=453
 ,,,,,,,,,,4,4.19,Toronto Raptors,shot,,,,,,,,,,Bargnani,,,,missed,,3PT Jump Shot,,,81-69,25,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=455
 ,,,,,,,,,,4,4.18,Philadelphia 76ers,rebound,,,,,,,,,,Turner,,,,,,,,,81-69,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=456
 ,,,,,,,,,,4,3.55,Philadelphia 76ers,shot,,,,,,,,,,Holiday,2,,,made,,Driving Jump Shot,,,83-69,3,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=457
-,,,,,,,,,,4,3.46,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Running Layup,,,83-69,3,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=458
+,,,,,,,,,,4,3.46,Toronto Raptors,shot,,,Turner,,,,,,,DeRozan,,,,missed,,Running Layup,,,83-69,3,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=458
 ,,,,,,,,,,4,3.46,Philadelphia 76ers,rebound,,,,,,,,,,,,,,,,,,,83-69,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=463
 ,,,,,,,,,,4,3.46,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Technical,,,83-69,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=459
 ,,,,,,,,,,4,3.46,Philadelphia 76ers,free throw,,,,,,,,,,Turner,1,,Technical,made,,,,,84-69,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=460
@@ -393,11 +393,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.17,Toronto Raptors,foul,,,,,,,,,,DeRozan,,,,,,Personal Take,,,88-77,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=495
 ,,,,,,,,,,4,1.17,Philadelphia 76ers,free throw,,,,,,,1,,2,Turner,1,,foul,made,,,,,89-77,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=496
 ,,,,,,,,,,4,1.17,Philadelphia 76ers,free throw,,,,,,,2,,2,Turner,1,,foul,made,,,,,90-77,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=498
-,,,,,,,,,,4,1.07,Toronto Raptors,shot,,,,,,,,,,Lucas III,,,,missed,,Driving Layup,,,90-77,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=500
+,,,,,,,,,,4,1.07,Toronto Raptors,shot,,,Holiday,,,,,,,Lucas III,,,,missed,,Driving Layup,,,90-77,2,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=500
 ,,,,,,,,,,4,1.07,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,90-77,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=501
 ,,,,,,,,,,4,1.05,Toronto Raptors,shot,Ross,,,,,,,,,Calderon,3,,,made,,3PT Jump Shot,,,90-80,26,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=502
-,,,,,,,,,,4,0.44,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,,,,,90-80,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=503
-,,,,,,,,,,4,0.39,Toronto Raptors,turnover,,,,,,,,,,Ross,,,Lost Ball,,,,,,90-80,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=504
+,,,,,,,,,,4,0.44,Philadelphia 76ers,turnover,,,,,,,,,,Holiday,,,Bad Pass,,Bargnani,,,,90-80,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=503
+,,,,,,,,,,4,0.39,Toronto Raptors,turnover,,,,,,,,,,Ross,,,Lost Ball,,Ivey,,,,90-80,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=504
 ,,,,,,,,,,4,0.36,Philadelphia 76ers,shot,,,,,,,,,,Ivey,2,,,made,,Driving Layup,,,92-80,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=505
 ,,,,,,,,,,4,0.36,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,92-80,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=506
 ,,,,,,,,,,4,0.36,Philadelphia 76ers,substitute,,,,Wilkins,,Ivey,,,,,,,,,,,,,92-80,,http://stats.nba.com/cvp.html?GameID=0021200081&GameEventID=508

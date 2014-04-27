@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.40,Houston Rockets,shot,,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,0-3,24,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=2
 ,,,,,,,,,,1,11.23,Boston Celtics,shot,Pierce,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,2-3,20,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=3
-,,,,,,,,,,1,11.17,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,2-3,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=4
+,,,,,,,,,,1,11.17,Houston Rockets,shot,,,Garnett,,,,,,,Asik,,,,missed,,Layup,,,2-3,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=4
 ,,,,,,,,,,1,11.17,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=6
 ,,,,,,,,,,1,11.17,Houston Rockets,turnover,,,,,,,,,,Parsons,,,Illegal Assist,,,,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=5
 ,,,,,,,,,,1,11.02,Boston Celtics,shot,,,,,,,,,,Garnett,,,,missed,,Layup,,,2-3,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=7
@@ -49,7 +49,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.57,Houston Rockets,shot,Lin,,,,,,,,,Asik,2,,,made,,Slam Dunk,,,4-15,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=56
 ,,,,,,,,,,1,6.53,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,4-15,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=57
 ,,,,,,,,,,1,6.53,Boston Celtics,substitute,,,,Sullinger,,Bass,,,,,,,,,,,,,4-15,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=59
-,,,,,,,,,,1,6.39,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,,,,,4-15,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=60
+,,,,,,,,,,1,6.39,Boston Celtics,turnover,,,,,,,,,,Pierce,,,Bad Pass,,Harden,,,,4-15,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=60
 ,,,,,,,,,,1,6.20,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Pullup Jump Shot,,,4-17,21,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=61
 ,,,,,,,,,,1,6.08,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Driving Layup,,,6-17,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=62
 ,,,,,,,,,,1,5.55,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Running Jump Shot,,,6-17,8,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=63
@@ -57,7 +57,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.54,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Tip Shot,,,6-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=64
 ,,,,,,,,,,1,5.52,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,6-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=66
 ,,,,,,,,,,1,5.46,Boston Celtics,shot,Rondo,,,,,,,,,Lee,2,,,made,,Layup,,,8-17,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=67
-,,,,,,,,,,1,5.33,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,,,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=68
+,,,,,,,,,,1,5.33,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,Rondo,,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=68
 ,,,,,,,,,,1,5.28,Houston Rockets,foul,,,,,,,,,,Asik,,,,,,Shooting,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=69
 ,,,,,,,,,,1,5.28,Boston Celtics,free throw,,,,,,,1,,2,Lee,,,foul,missed,,,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=70
 ,,,,,,,,,,1,5.28,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=71
@@ -66,7 +66,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.28,Boston Celtics,free throw,,,,,,,2,,2,Lee,1,,foul,made,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=75
 ,,,,,,,,,,1,5.12,Houston Rockets,shot,,,,,,,,,,Patterson,,,,missed,,Layup,,,9-17,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=77
 ,,,,,,,,,,1,5.11,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=78
-,,,,,,,,,,1,5.06,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Lost Ball,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=79
+,,,,,,,,,,1,5.06,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Lost Ball,,Douglas,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=79
 ,,,,,,,,,,1,5.01,Houston Rockets,turnover,,,,,,,,,,Parsons Out of Bounds,,,Lost Ball,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=80
 ,,,,,,,,,,1,4.45,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Turnaround Fadeaway Shot,,,9-17,10,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=81
 ,,,,,,,,,,1,4.43,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=82
@@ -83,7 +83,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.30,Houston Rockets,shot,Parsons,,,,,,,,,Patterson,2,,,made,,Slam Dunk,,,11-21,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=93
 ,,,,,,,,,,1,3.13,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Driving Layup,,,11-21,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=94
 ,,,,,,,,,,1,3.11,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=95
-,,,,,,,,,,1,3.10,Houston Rockets,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=96
+,,,,,,,,,,1,3.10,Houston Rockets,turnover,,,,,,,,,,Smith,,,Lost Ball,,Rondo,,,,11-21,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=96
 ,,,,,,,,,,1,3.07,Boston Celtics,shot,Rondo,,,,,,,,,Wilcox,2,,,made,,Reverse Dunk,,,13-21,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=97
 ,,,,,,,,,,1,2.45,Houston Rockets,shot,Parsons,,,,,,,,,Smith,2,,,made,,Jump Shot,,,13-23,20,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=98
 ,,,,,,,,,,1,2.31,Houston Rockets,foul,,,,,,,,,,Patterson,,,,,,Shooting,,,13-23,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=99
@@ -97,8 +97,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.31,Boston Celtics,free throw,,,,,,,1,,2,Sullinger,1,,foul,made,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=108
 ,,,,,,,,,,1,2.31,Boston Celtics,free throw,,,,,,,2,,2,Sullinger,,,foul,missed,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=110
 ,,,,,,,,,,1,2.31,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=112
-,,,,,,,,,,1,2.18,Houston Rockets,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=113
-,,,,,,,,,,1,2.11,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Layup,,,14-23,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=114
+,,,,,,,,,,1,2.18,Houston Rockets,turnover,,,,,,,,,,Smith,,,Lost Ball,,Green,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=113
+,,,,,,,,,,1,2.11,Boston Celtics,shot,,,Smith,,,,,,,Green,,,,missed,,Layup,,,14-23,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=114
 ,,,,,,,,,,1,2.09,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=115
 ,,,,,,,,,,1,2.00,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,3PT Jump Shot,,,14-23,24,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=116
 ,,,,,,,,,,1,1.59,Boston Celtics,rebound,,,,,,,,,,Barbosa,,,,,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=117
@@ -110,7 +110,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.47,Boston Celtics,shot,,,,,,,,,,Terry,3,,,made,,3PT Jump Shot,,,19-25,25,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=124
 ,,,,,,,,,,1,0.38,Houston Rockets,shot,,,,,,,,,,Douglas,,,,missed,,Pullup Jump Shot,,,19-25,16,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=125
 ,,,,,,,,,,1,0.36,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=126
-,,,,,,,,,,1,0.22,Boston Celtics,turnover,,,,,,,,,,Green,,,Lost Ball,,,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=127
+,,,,,,,,,,1,0.22,Boston Celtics,turnover,,,,,,,,,,Green,,,Lost Ball,,Harden,,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=127
 ,,,,,,,,,,1,0.19,Boston Celtics,foul,,,,,,,,,,Terry,,,,,,Shooting,,,19-25,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=128
 ,,,,,,,,,,1,0.19,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,19-26,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=129
 ,,,,,,,,,,1,0.19,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=131
@@ -123,16 +123,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.30,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=144
 ,,,,,,,,,,2,11.20,Boston Celtics,shot,,,,,,,,,,Barbosa,,,,missed,,Driving Jump Shot,,,21-27,5,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=145
 ,,,,,,,,,,2,11.18,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=146
-,,,,,,,,,,2,11.16,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Layup,,,21-27,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=147
+,,,,,,,,,,2,11.16,Boston Celtics,shot,,,Smith,,,,,,,Green,,,,missed,,Layup,,,21-27,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=147
 ,,,,,,,,,,2,11.15,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=148
-,,,,,,,,,,2,10.57,Houston Rockets,turnover,,,,,,,,,,Morris,,,Bad Pass,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=149
+,,,,,,,,,,2,10.57,Houston Rockets,turnover,,,,,,,,,,Morris,,,Bad Pass,,Pierce,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=149
 ,,,,,,,,,,2,10.51,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Driving Layup,,,21-27,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=150
 ,,,,,,,,,,2,10.49,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=151
 ,,,,,,,,,,2,10.41,Houston Rockets,shot,Lin,,,,,,,,,Smith,2,,,made,,Jump Hook Shot,,,21-29,5,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=152
 ,,,,,,,,,,2,10.27,Houston Rockets,foul,,,,,,,,,,Smith,,,,,,Personal,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=153
 ,,,,,,,,,,2,10.27,Boston Celtics,substitute,,,,Rondo,,Barbosa,,,,,,,,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=154
 ,,,,,,,,,,2,10.24,Houston Rockets,foul,,,,,,,,,,Delfino,,,,,,Personal,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=155
-,,,,,,,,,,2,10.13,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Fadeaway Jumper,,,21-29,11,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=156
+,,,,,,,,,,2,10.13,Boston Celtics,shot,,,Lin,,,,,,,Pierce,,,,missed,,Fadeaway Jumper,,,21-29,11,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=156
 ,,,,,,,,,,2,10.11,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=157
 ,,,,,,,,,,2,10.06,Houston Rockets,shot,,,,,,,,,,Douglas,,,,missed,,Driving Layup,,,21-29,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=158
 ,,,,,,,,,,2,10.05,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,21-29,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=159
@@ -142,17 +142,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.01,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,23-29,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=164
 ,,,,,,,,,,2,9.48,Houston Rockets,shot,Lin,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,23-32,26,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=166
 ,,,,,,,,,,2,9.32,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Driving Layup,,,25-32,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=167
-,,,,,,,,,,2,9.25,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=168
+,,,,,,,,,,2,9.25,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Green,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=168
 ,,,,,,,,,,2,9.18,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,25-32,24,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=169
 ,,,,,,,,,,2,9.17,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=170
 ,,,,,,,,,,2,9.11,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,25-32,26,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=171
 ,,,,,,,,,,2,9.09,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=172
-,,,,,,,,,,2,9.01,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=173
+,,,,,,,,,,2,9.01,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,Pierce,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=173
 ,,,,,,,,,,2,8.55,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Running Jump Shot,,,25-32,9,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=174
 ,,,,,,,,,,2,8.52,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=176
 ,,,,,,,,,,2,8.52,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Tip Shot,,,25-32,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=175
 ,,,,,,,,,,2,8.50,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=177
-,,,,,,,,,,2,8.34,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=178
+,,,,,,,,,,2,8.34,Houston Rockets,turnover,,,,,,,,,,Lin,,,Lost Ball,,Garnett,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=178
 ,,,,,,,,,,2,8.26,Houston Rockets,foul,,,,,,,,,,Asik,,,,,,Personal,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=179
 ,,,,,,,,,,2,8.26,Houston Rockets,substitute,,,,Harden,,Douglas,,,,,,,,,,,,,25-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=182
 ,,,,,,,,,,2,8.26,Boston Celtics,free throw,,,,,,,1,,2,Garnett,1,,foul,made,,,,,26-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=183
@@ -161,7 +161,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.03,Boston Celtics,rebound,,,,,,,,,,Rondo,,,,,,,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=188
 ,,,,,,,,,,2,7.48,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,27-32,22,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=190
 ,,,,,,,,,,2,7.46,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=191
-,,,,,,,,,,2,7.37,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=192
+,,,,,,,,,,2,7.37,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Rondo,,,,27-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=192
 ,,,,,,,,,,2,7.31,Boston Celtics,shot,Rondo,,,,,,,,,Green,2,,,made,,Slam Dunk,,,29-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=193
 ,,,,,,,,,,2,7.06,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,Driving Layup,,,29-32,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=194
 ,,,,,,,,,,2,7.04,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,29-32,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=195
@@ -185,9 +185,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.23,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,36-34,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=214
 ,,,,,,,,,,2,4.23,Houston Rockets,substitute,,,,Smith,,Asik,,,,,,,,,,,,,36-34,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=215
 ,,,,,,,,,,2,4.23,Boston Celtics,substitute,,,,Lee,,Terry,,,,,,,,,,,,,36-34,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=216
-,,,,,,,,,,2,4.14,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,36-34,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=217
+,,,,,,,,,,2,4.14,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Pierce,,,,36-34,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=217
 ,,,,,,,,,,2,4.10,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Driving Layup,,,38-34,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=218
-,,,,,,,,,,2,3.57,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Layup,,,38-34,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=219
+,,,,,,,,,,2,3.57,Houston Rockets,shot,,,Lee,,,,,,,Harden,,,,missed,,Layup,,,38-34,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=219
 ,,,,,,,,,,2,3.55,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,38-34,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=220
 ,,,,,,,,,,2,3.35,Boston Celtics,shot,Rondo,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,41-34,25,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=221
 ,,,,,,,,,,2,3.14,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,41-34,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=222
@@ -196,11 +196,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.12,Houston Rockets,free throw,,,,,,,1,,2,Smith,,,foul,missed,,,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=225
 ,,,,,,,,,,2,3.12,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,41-34,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=226
 ,,,,,,,,,,2,3.12,Houston Rockets,free throw,,,,,,,2,,2,Smith,1,,foul,made,,,,,41-35,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=227
-,,,,,,,,,,2,2.59,Boston Celtics,shot,,,,,,,,,,Rondo,,,,missed,,Layup,,,41-35,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=229
+,,,,,,,,,,2,2.59,Boston Celtics,shot,,,Lin,,,,,,,Rondo,,,,missed,,Layup,,,41-35,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=229
 ,,,,,,,,,,2,2.57,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,41-35,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=230
 ,,,,,,,,,,2,2.50,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,41-35,25,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=231
 ,,,,,,,,,,2,2.49,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,41-35,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=232
-,,,,,,,,,,2,2.42,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,41-35,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=233
+,,,,,,,,,,2,2.42,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Lin,,,,41-35,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=233
 ,,,,,,,,,,2,2.36,Houston Rockets,shot,,,,,,,,,,Parsons,2,,,made,,Layup,,,41-37,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=234
 ,,,,,,,,,,2,2.26,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,41-37,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=235
 ,,,,,,,,,,2,2.26,Boston Celtics,substitute,,,,Garnett,,Bass,,,,,,,,,,,,,41-37,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=239
@@ -209,7 +209,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.20,Boston Celtics,free throw,,,,,,,1,,2,Pierce,,,foul,missed,,,,,41-37,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=242
 ,,,,,,,,,,2,2.20,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,41-37,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=243
 ,,,,,,,,,,2,2.20,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,42-37,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=244
-,,,,,,,,,,2,2.08,Houston Rockets,turnover,,,,,,,,,,Patterson,,,Bad Pass,,,,,,42-37,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=246
+,,,,,,,,,,2,2.08,Houston Rockets,turnover,,,,,,,,,,Patterson,,,Bad Pass,,Lee,,,,42-37,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=246
 ,,,,,,,,,,2,1.50,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Turnaround Jump Shot,,,42-37,13,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=247
 ,,,,,,,,,,2,1.48,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,42-37,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=248
 ,,,,,,,,,,2,1.33,Boston Celtics,foul,,,,,,,,,,Lee,,,,,,Personal,,,42-37,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=249
@@ -245,19 +245,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.28,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Driving Layup,,,47-52,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=288
 ,,,,,,,,,,3,9.27,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,47-52,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=289
 ,,,,,,,,,,3,9.05,Boston Celtics,shot,Bass,,,,,,,,,Garnett,2,,,made,,Jump Shot,,,49-52,19,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=290
-,,,,,,,,,,3,8.57,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,49-52,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=291
+,,,,,,,,,,3,8.57,Houston Rockets,shot,,,Bass,,,,,,,Asik,,,,missed,,Layup,,,49-52,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=291
 ,,,,,,,,,,3,8.56,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=292
 ,,,,,,,,,,3,8.49,Houston Rockets,foul,,,,,,,,,,Lin,,,,,,Personal,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=293
-,,,,,,,,,,3,8.44,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=294
+,,,,,,,,,,3,8.44,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Parsons,,,,49-52,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=294
 ,,,,,,,,,,3,8.23,Houston Rockets,shot,Harden,,,,,,,,,Lin,3,,,made,,3PT Jump Shot,,,49-55,26,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=295
 ,,,,,,,,,,3,7.55,Boston Celtics,shot,Rondo,,,,,,,,,Lee,3,,,made,,3PT Jump Shot,,,52-55,25,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=296
 ,,,,,,,,,,3,7.30,Houston Rockets,shot,,,,,,,,,,Parsons,2,,,made,,Jump Shot,,,52-57,14,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=297
-,,,,,,,,,,3,7.14,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Layup,,,52-57,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=298
+,,,,,,,,,,3,7.14,Boston Celtics,shot,,,Asik,,,,,,,Bass,,,,missed,,Layup,,,52-57,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=298
 ,,,,,,,,,,3,7.12,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,52-57,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=299
 ,,,,,,,,,,3,7.09,Houston Rockets,shot,Parsons,,,,,,,,,Harden,2,,,made,,Dunk,,,52-59,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=300
 ,,,,,,,,,,3,6.44,Boston Celtics,shot,Pierce,,,,,,,,,Rondo,2,,,made,,Jump Shot,,,54-59,18,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=301
-,,,,,,,,,,3,6.33,Houston Rockets,turnover,,,,,,,,,,Patterson,,,Bad Pass,,,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=302
-,,,,,,,,,,3,6.30,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=303
+,,,,,,,,,,3,6.33,Houston Rockets,turnover,,,,,,,,,,Patterson,,,Bad Pass,,Rondo,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=302
+,,,,,,,,,,3,6.30,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Harden,,,,54-59,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=303
 ,,,,,,,,,,3,6.25,Houston Rockets,shot,Harden,,,,,,,,,Asik,2,,,made,,Dunk,,,54-61,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=304
 ,,,,,,,,,,3,6.00,Boston Celtics,foul,,,,,,,,,,,,,,,,,,,54-61,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=305
 ,,,,,,,,,,3,6.00,Boston Celtics,turnover,,,,,,,,,,Garnett,,,Foul,,,,,,54-61,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=306
@@ -302,13 +302,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.46,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,62-68,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=353
 ,,,,,,,,,,3,2.46,Houston Rockets,free throw,,,,,,,2,,2,Harden,1,,foul,made,,,,,62-69,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=354
 ,,,,,,,,,,3,2.27,Boston Celtics,shot,,,,,,,,,,Pierce,2,,,made,,Driving Layup,,,64-69,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=356
-,,,,,,,,,,3,2.00,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Jump Shot,,,64-69,20,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=357
+,,,,,,,,,,3,2.00,Houston Rockets,shot,,,Rondo,,,,,,,Harden,,,,missed,,Jump Shot,,,64-69,20,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=357
 ,,,,,,,,,,3,2.00,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,64-69,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=358
 ,,,,,,,,,,3,1.56,Houston Rockets,shot,,,,,,,,,,Douglas,3,,,made,,3PT Jump Shot,,,64-72,25,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=359
 ,,,,,,,,,,3,1.40,Boston Celtics,shot,,,,,,,,,,Rondo,2,,,made,,Jump Shot,,,66-72,21,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=360
 ,,,,,,,,,,3,1.26,Houston Rockets,shot,,,,,,,,,,Morris,,,,missed,,Jump Shot,,,66-72,18,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=361
 ,,,,,,,,,,3,1.25,Boston Celtics,rebound,,,,,,,,,,Pierce,,,,,,,,,66-72,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=362
-,,,,,,,,,,3,1.07,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Layup,,,66-72,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=363
+,,,,,,,,,,3,1.07,Boston Celtics,shot,,,Douglas,,,,,,,Sullinger,,,,missed,,Layup,,,66-72,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=363
 ,,,,,,,,,,3,1.06,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,66-72,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=364
 ,,,,,,,,,,3,0.52,Houston Rockets,shot,Harden,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,66-75,26,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=365
 ,,,,,,,,,,3,0.42,Houston Rockets,foul,,,,,,,,,,Douglas,,,,,,Shooting,,,66-75,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=366
@@ -319,7 +319,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.04,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Layup,,,68-75,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=373
 ,,,,,,,,,,3,0.04,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,68-75,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=375
 ,,,,,,,,,,3,0.04,Boston Celtics,shot,,,,,,,,,,Sullinger,2,,,made,,Putback Dunk,,,70-75,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=374
-,,,,,,,,,,3,0.01,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Lost Ball,,,,,,70-75,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=376
+,,,,,,,,,,3,0.01,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Lost Ball,,Terry,,,,70-75,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=376
 ,,,,,,,,,,3,0.00,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Running Jump Shot,,,70-75,52,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=377
 ,,,,,,,,,,3,0.00,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,70-75,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=378
 ,,,,,,,,,,4,11.43,Houston Rockets,shot,Parsons,,,,,,,,,Smith,2,,,made,,Slam Dunk,,,70-77,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=382
@@ -328,7 +328,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.11,Boston Celtics,rebound,,,,,,,,,,Lee,,,,,,,,,70-77,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=385
 ,,,,,,,,,,4,10.58,Boston Celtics,shot,Sullinger,,,,,,,,,Green,2,,,made,,Pullup Jump Shot,,,72-77,22,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=386
 ,,,,,,,,,,4,10.40,Houston Rockets,shot,Delfino,,,,,,,,,Smith,2,,,made,,Layup,,,72-79,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=387
-,,,,,,,,,,4,10.04,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Jump Shot,,,72-79,21,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=388
+,,,,,,,,,,4,10.04,Boston Celtics,shot,,,Smith,,,,,,,Pierce,,,,missed,,Jump Shot,,,72-79,21,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=388
 ,,,,,,,,,,4,10.03,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,72-79,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=389
 ,,,,,,,,,,4,9.59,Houston Rockets,shot,Parsons,,,,,,,,,Douglas,2,,,made,,Layup,,,72-81,1,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=390
 ,,,,,,,,,,4,9.38,Houston Rockets,foul,,,,,,,,,,Parsons,,,,,,Shooting,,,72-81,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=391
@@ -336,7 +336,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.38,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,72-81,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=393
 ,,,,,,,,,,4,9.38,Boston Celtics,substitute,,,,Garnett,,Sullinger,,,,,,,,,,,,,72-81,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=394
 ,,,,,,,,,,4,9.38,Boston Celtics,free throw,,,,,,,2,,2,Pierce,1,,foul,made,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=395
-,,,,,,,,,,4,9.24,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=397
+,,,,,,,,,,4,9.24,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,Terry,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=397
 ,,,,,,,,,,4,9.06,Boston Celtics,shot,Garnett,,,,,,,,,Terry,3,,,made,,3PT Jump Shot,,,76-81,26,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=398
 ,,,,,,,,,,4,8.54,Boston Celtics,foul,,,,,,,,,,Garnett,,,,,,Shooting,,,76-81,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=399
 ,,,,,,,,,,4,8.54,Houston Rockets,free throw,,,,,,,1,,2,Smith,1,,foul,made,,,,,76-82,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=402
@@ -348,7 +348,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.01,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,3PT Jump Shot,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=411
 ,,,,,,,,,,4,7.59,Houston Rockets,rebound,,,,,,,,,,Morris,,,,,,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=412
 ,,,,,,,,,,4,7.52,Boston Celtics,violation,,,,,,,,,,Garnett,,,Kicked Ball,,,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=413
-,,,,,,,,,,4,7.44,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=414
+,,,,,,,,,,4,7.44,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,Lee,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=414
 ,,,,,,,,,,4,7.24,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,3PT Pullup Jump Shot,,,78-86,26,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=416
 ,,,,,,,,,,4,7.22,Boston Celtics,rebound,,,,,,,,,,Garnett,,,,,,,,,78-86,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=417
 ,,,,,,,,,,4,7.16,Boston Celtics,shot,,,,,,,,,,Terry,,,,missed,,Driving Layup,,,78-86,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=418
@@ -367,7 +367,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.48,Boston Celtics,substitute,,,,Bass,,Wilcox,,,,,,,,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=434
 ,,,,,,,,,,4,5.29,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,Pullup Jump Shot,,,80-88,19,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=435
 ,,,,,,,,,,4,5.27,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=436
-,,,,,,,,,,4,5.23,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=437
+,,,,,,,,,,4,5.23,Houston Rockets,turnover,,,,,,,,,,Delfino,,,Bad Pass,,Terry,,,,80-88,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=437
 ,,,,,,,,,,4,5.09,Boston Celtics,shot,,,,,,,,,,Pierce,3,,,made,,3PT Jump Shot,,,83-88,25,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=438
 ,,,,,,,,,,4,4.43,Houston Rockets,shot,,,,,,,,,,Harden,3,,,made,,3PT Pullup Jump Shot,,,83-91,28,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=439
 ,,,,,,,,,,4,4.23,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Step Back Jump Shot,,,83-91,17,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=440
@@ -384,7 +384,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.14,Boston Celtics,substitute,,,,Green,,Garnett,,,,,,,,,,,,,85-93,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=451
 ,,,,,,,,,,4,3.04,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,85-93,27,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=452
 ,,,,,,,,,,4,3.03,Boston Celtics,rebound,,,,,,,,,,Green,,,,,,,,,85-93,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=453
-,,,,,,,,,,4,2.59,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,,,,,85-93,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=454
+,,,,,,,,,,4,2.59,Boston Celtics,turnover,,,,,,,,,,Rondo,,,Bad Pass,,Parsons,,,,85-93,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=454
 ,,,,,,,,,,4,2.53,Houston Rockets,shot,Parsons,,,,,,,,,Douglas,3,,,made,,3PT Jump Shot,,,85-96,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=455
 ,,,,,,,,,,4,2.52,Boston Celtics,timeout,,,,,,,,,,,,,,,,,,,85-96,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=456
 ,,,,,,,,,,4,2.43,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,3PT Jump Shot,,,85-96,25,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=461
@@ -398,11 +398,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.24,Houston Rockets,free throw,,,,,,,1,,1,Douglas,1,,foul,made,,,,,85-99,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=471
 ,,,,,,,,,,4,2.12,Boston Celtics,shot,,,,,,,,,,Lee,,,,missed,,Layup,,,85-99,3,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=473
 ,,,,,,,,,,4,2.11,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,85-99,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=474
-,,,,,,,,,,4,2.09,Boston Celtics,shot,,,,,,,,,,Sullinger,,,,missed,,Layup,,,85-99,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=475
+,,,,,,,,,,4,2.09,Boston Celtics,shot,,,Asik,,,,,,,Sullinger,,,,missed,,Layup,,,85-99,2,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=475
 ,,,,,,,,,,4,2.08,Boston Celtics,rebound,,,,,,,,,,Sullinger,,,,,,,,,85-99,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=476
 ,,,,,,,,,,4,2.00,Boston Celtics,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,85-99,24,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=477
 ,,,,,,,,,,4,1.59,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,85-99,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=478
-,,,,,,,,,,4,1.36,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,85-99,26,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=479
+,,,,,,,,,,4,1.36,Houston Rockets,shot,,,Sullinger,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,85-99,26,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=479
 ,,,,,,,,,,4,1.34,Boston Celtics,rebound,,,,,,,,,,Bass,,,,,,,,,85-99,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=480
 ,,,,,,,,,,4,1.25,Boston Celtics,shot,,,,,,,,,,Bass,,,,missed,,Jump Shot,,,85-99,17,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=481
 ,,,,,,,,,,4,1.24,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,85-99,,http://stats.nba.com/cvp.html?GameID=0021200332&GameEventID=482

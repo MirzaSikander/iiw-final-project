@@ -4,7 +4,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.15,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=4
 ,,,,,,,,,,1,11.03,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,0-2,8,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=5
 ,,,,,,,,,,1,11.02,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=6
-,,,,,,,,,,1,10.53,Minnesota Timberwolves,turnover,,,,,,,,,,Pekovic,,,Lost Ball,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=7
+,,,,,,,,,,1,10.53,Minnesota Timberwolves,turnover,,,,,,,,,,Pekovic,,,Lost Ball,,Evans,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=7
 ,,,,,,,,,,1,10.45,Sacramento Kings,shot,,,,,,,,,,Brooks,,,,missed,,3PT Jump Shot,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=8
 ,,,,,,,,,,1,10.44,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=9
 ,,,,,,,,,,1,10.37,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Kirilenko,2,,,made,,Layup,,,2-2,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=10
@@ -13,7 +13,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.23,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,4-5,13,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=13
 ,,,,,,,,,,1,9.23,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=14
 ,,,,,,,,,,1,9.15,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Personal,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=15
-,,,,,,,,,,1,9.02,Minnesota Timberwolves,turnover,,,,,,,,,,Pekovic,,,Lost Ball,,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=16
+,,,,,,,,,,1,9.02,Minnesota Timberwolves,turnover,,,,,,,,,,Pekovic,,,Lost Ball,,Cousins,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=16
 ,,,,,,,,,,1,8.57,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,4-5,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=17
 ,,,,,,,,,,1,8.55,Sacramento Kings,rebound,,,,,,,,,,Brooks,,,,,,,,,4-5,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=18
 ,,,,,,,,,,1,8.53,Sacramento Kings,shot,Brooks,,,,,,,,,Salmons,3,,,made,,3PT Jump Shot,,,4-8,25,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=19
@@ -28,7 +28,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.13,Minnesota Timberwolves,shot,Pekovic,,,,,,,,,Lee,2,,,made,,Jump Shot,,,8-13,21,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=28
 ,,,,,,,,,,1,6.59,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,8-13,17,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=29
 ,,,,,,,,,,1,6.58,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=30
-,,,,,,,,,,1,6.53,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=31
+,,,,,,,,,,1,6.53,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,Evans,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=31
 ,,,,,,,,,,1,6.47,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,8-13,6,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=32
 ,,,,,,,,,,1,6.46,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=34
 ,,,,,,,,,,1,6.45,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Tip Shot,,,8-13,4,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=37
@@ -47,10 +47,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.56,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=50
 ,,,,,,,,,,1,4.50,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Pekovic,2,,,made,,Layup,,,16-19,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=51
 ,,,,,,,,,,1,4.26,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Driving Layup,,,16-21,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=53
-,,,,,,,,,,1,4.14,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Jump Shot,,,16-21,4,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=54
+,,,,,,,,,,1,4.14,Minnesota Timberwolves,shot,,,Evans,,,,,,,Pekovic,,,,missed,,Jump Shot,,,16-21,4,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=54
 ,,,,,,,,,,1,4.14,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=55
-,,,,,,,,,,1,4.12,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Lost Ball,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=57
-,,,,,,,,,,1,4.09,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=58
+,,,,,,,,,,1,4.12,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Lost Ball,,Thompson,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=57
+,,,,,,,,,,1,4.09,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Lee,,,,16-21,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=58
 ,,,,,,,,,,1,3.54,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,2,,,made,,Running Jump Shot,,,18-21,8,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=59
 ,,,,,,,,,,1,3.30,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,18-21,26,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=60
 ,,,,,,,,,,1,3.30,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,18-21,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=61
@@ -64,7 +64,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.33,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=70
 ,,,,,,,,,,1,2.30,Minnesota Timberwolves,foul,,,,,,,,,,Kirilenko,,,,,,Personal,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=71
 ,,,,,,,,,,1,2.30,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=72
-,,,,,,,,,,1,2.19,Sacramento Kings,turnover,,,,,,,,,,Salmons,,,Lost Ball,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=75
+,,,,,,,,,,1,2.19,Sacramento Kings,turnover,,,,,,,,,,Salmons,,,Lost Ball,,Love,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=75
 ,,,,,,,,,,1,2.02,Minnesota Timberwolves,turnover,,,,,,,,,,Lee,,,Traveling,,,,,,20-24,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=76
 ,,,,,,,,,,1,1.42,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Driving Layup,,,20-26,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=77
 ,,,,,,,,,,1,1.29,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,3PT Jump Shot,,,20-26,25,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=78
@@ -72,10 +72,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.27,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Personal,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=80
 ,,,,,,,,,,1,1.27,Minnesota Timberwolves,substitute,,,,Shved,,Ridnour,,,,,,,,,,,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=82
 ,,,,,,,,,,1,1.27,Minnesota Timberwolves,substitute,,,,Barea,,Lee,,,,,,,,,,,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=81
-,,,,,,,,,,1,1.12,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,20-26,6,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=83
+,,,,,,,,,,1,1.12,Sacramento Kings,shot,,,Pekovic,,,,,,,Thompson,,,,missed,,Jump Shot,,,20-26,6,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=83
 ,,,,,,,,,,1,1.11,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,20-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=84
 ,,,,,,,,,,1,1.01,Minnesota Timberwolves,shot,Shved,,,,,,,,,Love,3,,,made,,3PT Jump Shot,,,23-26,25,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=85
-,,,,,,,,,,1,0.46,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,23-26,12,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=86
+,,,,,,,,,,1,0.46,Sacramento Kings,shot,,,Kirilenko,,,,,,,Cousins,,,,missed,,Jump Shot,,,23-26,12,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=86
 ,,,,,,,,,,1,0.45,Minnesota Timberwolves,rebound,,,,,,,,,,Barea,,,,,,,,,23-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=87
 ,,,,,,,,,,1,0.42,Minnesota Timberwolves,shot,Barea,,,,,,,,,Kirilenko,2,,,made,,Layup,,,25-26,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=88
 ,,,,,,,,,,1,0.22,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,25-26,21,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=89
@@ -88,8 +88,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.42,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=99
 ,,,,,,,,,,2,11.22,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,27-26,18,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=100
 ,,,,,,,,,,2,11.22,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=101
-,,,,,,,,,,2,11.17,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=102
-,,,,,,,,,,2,11.11,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=103
+,,,,,,,,,,2,11.17,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Bad Pass,,Johnson,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=102
+,,,,,,,,,,2,11.11,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Shved,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=103
 ,,,,,,,,,,2,11.04,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,3PT Jump Shot,,,27-26,25,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=104
 ,,,,,,,,,,2,11.03,Sacramento Kings,rebound,,,,,,,,,,Johnson,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=105
 ,,,,,,,,,,2,10.53,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,27-26,19,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=107
@@ -100,7 +100,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.35,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=112
 ,,,,,,,,,,2,10.23,Sacramento Kings,shot,,,,,,,,,,Hayes,,,,missed,,Jump Shot,,,27-26,8,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=113
 ,,,,,,,,,,2,10.23,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=114
-,,,,,,,,,,2,10.13,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,Jump Shot,,,27-26,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=115
+,,,,,,,,,,2,10.13,Minnesota Timberwolves,shot,,,Johnson,,,,,,,Kirilenko,,,,missed,,Jump Shot,,,27-26,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=115
 ,,,,,,,,,,2,10.11,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=116
 ,,,,,,,,,,2,10.05,Sacramento Kings,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,27-26,12,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=117
 ,,,,,,,,,,2,10.04,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=118
@@ -113,7 +113,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.11,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,2,,,made,,Layup,,,31-26,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=128
 ,,,,,,,,,,2,8.48,Sacramento Kings,shot,,,,,,,,,,Hayes,,,,missed,,Jump Hook Shot,,,31-26,4,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=129
 ,,,,,,,,,,2,8.48,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,31-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=130
-,,,,,,,,,,2,8.46,Sacramento Kings,shot,,,,,,,,,,Hayes,,,,missed,,Layup,,,31-26,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=131
+,,,,,,,,,,2,8.46,Sacramento Kings,shot,,,Howard,,,,,,,Hayes,,,,missed,,Layup,,,31-26,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=131
 ,,,,,,,,,,2,8.46,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,31-26,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=132
 ,,,,,,,,,,2,8.40,Sacramento Kings,shot,,,,,,,,,,Johnson,2,,,made,,Layup,,,31-28,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=133
 ,,,,,,,,,,2,8.20,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,2,,,made,,Jump Hook Shot,,,33-28,4,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=134
@@ -141,7 +141,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.05,Sacramento Kings,substitute,,,,Cousins,,Hayes,,,,,,,,,,,,,37-33,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=163
 ,,,,,,,,,,2,6.05,Sacramento Kings,substitute,,,,Evans,,Johnson,,,,,,,,,,,,,37-33,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=164
 ,,,,,,,,,,2,6.05,Minnesota Timberwolves,free throw,,,,,,,2,,2,Pekovic,1,,foul,made,,,,,38-33,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=165
-,,,,,,,,,,2,5.51,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,,,,,38-33,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=167
+,,,,,,,,,,2,5.51,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Lost Ball,,Cunningham,,,,38-33,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=167
 ,,,,,,,,,,2,5.45,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Layup,,,38-33,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=168
 ,,,,,,,,,,2,5.44,Minnesota Timberwolves,rebound,,,,,,,,,,Barea,,,,,,,,,38-33,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=170
 ,,,,,,,,,,2,5.44,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,2,,,made,,Layup,,,40-33,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=169
@@ -149,7 +149,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.27,Sacramento Kings,substitute,,,,Thompson,,Robinson,,,,,,,,,,,,,40-33,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=172
 ,,,,,,,,,,2,5.13,Minnesota Timberwolves,shot,,,,,,,,,,Barea,2,,,made,,Driving Layup,,,42-33,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=173
 ,,,,,,,,,,2,5.00,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Driving Reverse Layup,,,42-35,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=174
-,,,,,,,,,,2,4.42,Minnesota Timberwolves,shot,,,,,,,,,,Howard,,,,missed,,Jump Shot,,,42-35,15,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=175
+,,,,,,,,,,2,4.42,Minnesota Timberwolves,shot,,,Evans,,,,,,,Howard,,,,missed,,Jump Shot,,,42-35,15,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=175
 ,,,,,,,,,,2,4.40,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,42-35,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=176
 ,,,,,,,,,,2,4.36,Sacramento Kings,shot,,,,,,,,,,Thornton,2,,,made,,Driving Layup,,,42-37,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=177
 ,,,,,,,,,,2,4.17,Minnesota Timberwolves,shot,Barea,,,,,,,,,Shved,2,,,made,,Reverse Layup,,,44-37,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=178
@@ -171,12 +171,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.29,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=199
 ,,,,,,,,,,2,2.28,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=200
 ,,,,,,,,,,2,2.17,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Pekovic,2,,,made,,Layup,,,48-41,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=201
-,,,,,,,,,,2,1.55,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,48-41,14,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=202
+,,,,,,,,,,2,1.55,Sacramento Kings,shot,,,Kirilenko,,,,,,,Cousins,,,,missed,,Jump Shot,,,48-41,14,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=202
 ,,,,,,,,,,2,1.54,Minnesota Timberwolves,rebound,,,,,,,,,,Shved,,,,,,,,,48-41,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=203
 ,,,,,,,,,,2,1.49,Minnesota Timberwolves,foul,,,,,,,,,,Kirilenko,,,,,,Offensive Charge,,,48-41,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=204
 ,,,,,,,,,,2,1.49,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Foul,,,,,,48-41,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=205
 ,,,,,,,,,,2,1.26,Sacramento Kings,shot,Evans,,,,,,,,,Thompson,2,,,made,,Jump Bank Shot,,,48-43,5,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=206
-,,,,,,,,,,2,1.11,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=207
+,,,,,,,,,,2,1.11,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,Thornton,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=207
 ,,,,,,,,,,2,1.07,Sacramento Kings,shot,Thornton,,,,,,,,,Evans,2,,,made,,Driving Layup,,,48-45,1,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=208
 ,,,,,,,,,,2,0.49,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,3PT Jump Shot,,,48-45,25,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=209
 ,,,,,,,,,,2,0.48,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,48-45,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=210
@@ -208,22 +208,22 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.57,Sacramento Kings,turnover,,,,,,,,,,Cousins Offensive,,,Foul,,,,,,57-51,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=243
 ,,,,,,,,,,3,8.57,Sacramento Kings,substitute,,,,Hayes,,Cousins,,,,,,,,,,,,,57-51,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=241
 ,,,,,,,,,,3,8.53,Sacramento Kings,jumpball,,Pekovic,,,Thompson,,,,,,,,,,,,,,57-51,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=242
-,,,,,,,,,,3,8.37,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,Jump Shot,,,57-51,7,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=244
+,,,,,,,,,,3,8.37,Minnesota Timberwolves,shot,,,Thompson,,,,,,,Ridnour,,,,missed,,Jump Shot,,,57-51,7,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=244
 ,,,,,,,,,,3,8.37,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,57-51,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=245
 ,,,,,,,,,,3,8.33,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Love,2,,,made,,Layup,,,59-51,1,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=246
-,,,,,,,,,,3,8.11,Sacramento Kings,shot,,,,,,,,,,Brooks,,,,missed,,Jump Shot,,,59-51,16,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=247
+,,,,,,,,,,3,8.11,Sacramento Kings,shot,,,Ridnour,,,,,,,Brooks,,,,missed,,Jump Shot,,,59-51,16,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=247
 ,,,,,,,,,,3,8.10,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,59-51,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=248
 ,,,,,,,,,,3,7.59,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,Jump Shot,,,59-51,18,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=249
 ,,,,,,,,,,3,7.58,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,59-51,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=250
 ,,,,,,,,,,3,7.52,Minnesota Timberwolves,foul,,,,,,,,,,Pekovic,,,,,,Shooting,,,59-51,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=251
 ,,,,,,,,,,3,7.52,Sacramento Kings,free throw,,,,,,,1,,2,Brooks,1,,foul,made,,,,,59-52,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=252
 ,,,,,,,,,,3,7.52,Sacramento Kings,free throw,,,,,,,2,,2,Brooks,1,,foul,made,,,,,59-53,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=254
-,,,,,,,,,,3,7.36,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,,,,missed,,Jump Shot,,,59-53,4,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=256
+,,,,,,,,,,3,7.36,Minnesota Timberwolves,shot,,,Thompson,,,,,,,Pekovic,,,,missed,,Jump Shot,,,59-53,4,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=256
 ,,,,,,,,,,3,7.35,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,59-53,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=257
 ,,,,,,,,,,3,7.31,Minnesota Timberwolves,shot,Pekovic,,,,,,,,,Lee,3,,,made,,3PT Jump Shot,,,62-53,24,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=258
 ,,,,,,,,,,3,7.11,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Running Jump Shot,,,62-53,5,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=259
 ,,,,,,,,,,3,7.10,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=260
-,,,,,,,,,,3,6.51,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,Driving Layup,,,62-53,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=270
+,,,,,,,,,,3,6.51,Minnesota Timberwolves,shot,,,Thompson,,,,,,,Kirilenko,,,,missed,,Driving Layup,,,62-53,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=270
 ,,,,,,,,,,3,6.49,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=275
 ,,,,,,,,,,3,6.47,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,Layup,,,62-53,3,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=263
 ,,,,,,,,,,3,6.47,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,62-53,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=264
@@ -261,7 +261,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.15,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,2,,,made,,Jump Bank Shot,,,69-56,5,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=311
 ,,,,,,,,,,3,3.02,Sacramento Kings,shot,Brooks,,,,,,,,,Hayes,2,,,made,,Jump Shot,,,69-58,6,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=312
 ,,,,,,,,,,3,2.45,Minnesota Timberwolves,shot,Pekovic,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,71-58,21,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=313
-,,,,,,,,,,3,2.27,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,71-58,7,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=314
+,,,,,,,,,,3,2.27,Sacramento Kings,shot,,,Lee,,,,,,,Thornton,,,,missed,,Jump Shot,,,71-58,7,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=314
 ,,,,,,,,,,3,2.25,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,71-58,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=315
 ,,,,,,,,,,3,2.21,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,71-58,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=316
 ,,,,,,,,,,3,2.21,Sacramento Kings,substitute,,,,Robinson,,Thompson,,,,,,,,,,,,,71-58,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=318
@@ -280,7 +280,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.33,Minnesota Timberwolves,substitute,,,,Barea,,Ridnour,,,,,,,,,,,,,72-62,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=334
 ,,,,,,,,,,3,1.33,Minnesota Timberwolves,substitute,,,,Shved,,Lee,,,,,,,,,,,,,72-62,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=335
 ,,,,,,,,,,3,1.33,Minnesota Timberwolves,free throw,,,,,,,2,,2,Kirilenko,1,,foul,made,,,,,73-62,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=336
-,,,,,,,,,,3,1.20,Sacramento Kings,shot,,,,,,,,,,Robinson,,,,missed,,Jump Shot,,,73-62,5,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=338
+,,,,,,,,,,3,1.20,Sacramento Kings,shot,,,Love,,,,,,,Robinson,,,,missed,,Jump Shot,,,73-62,5,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=338
 ,,,,,,,,,,3,1.18,Minnesota Timberwolves,rebound,,,,,,,,,,Barea,,,,,,,,,73-62,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=339
 ,,,,,,,,,,3,1.13,Minnesota Timberwolves,shot,,,,,,,,,,Love,,,,missed,,3PT Jump Shot,,,73-62,25,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=340
 ,,,,,,,,,,3,1.13,Sacramento Kings,rebound,,,,,,,,,,Hayes,,,,,,,,,73-62,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=341
@@ -289,7 +289,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.08,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,73-62,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=344
 ,,,,,,,,,,3,1.08,Sacramento Kings,substitute,,,,Evans,,Salmons,,,,,,,,,,,,,73-62,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=345
 ,,,,,,,,,,3,1.08,Sacramento Kings,free throw,,,,,,,2,,2,Thomas,1,,foul,made,,,,,73-63,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=346
-,,,,,,,,,,3,0.54,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,73-63,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=348
+,,,,,,,,,,3,0.54,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,Thornton,,,,73-63,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=348
 ,,,,,,,,,,3,0.35,Sacramento Kings,shot,,,,,,,,,,Evans,2,,,made,,Driving Layup,,,73-65,4,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=349
 ,,,,,,,,,,3,0.24,Sacramento Kings,foul,,,,,,,,,,Evans,,,,,,Personal,,,73-65,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=350
 ,,,,,,,,,,3,0.24,Minnesota Timberwolves,free throw,,,,,,,1,,2,Kirilenko,1,,foul,made,,,,,74-65,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=351
@@ -323,10 +323,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.58,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,81-74,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=386
 ,,,,,,,,,,4,8.39,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,3PT Jump Shot,,,81-74,24,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=387
 ,,,,,,,,,,4,8.36,Sacramento Kings,rebound,,,,,,,,,,Robinson,,,,,,,,,81-74,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=388
-,,,,,,,,,,4,8.29,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,,,,,81-74,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=389
+,,,,,,,,,,4,8.29,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Bad Pass,,Cunningham,,,,81-74,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=389
 ,,,,,,,,,,4,8.26,Minnesota Timberwolves,shot,Barea,,,,,,,,,Love,2,,,made,,Dunk,,,83-74,1,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=390
-,,,,,,,,,,4,7.59,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,83-74,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=391
-,,,,,,,,,,4,7.54,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Bad Pass,,,,,,83-74,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=392
+,,,,,,,,,,4,7.59,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Love,,,,83-74,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=391
+,,,,,,,,,,4,7.54,Minnesota Timberwolves,turnover,,,,,,,,,,Love,,,Bad Pass,,Thomas,,,,83-74,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=392
 ,,,,,,,,,,4,7.50,Sacramento Kings,shot,Thomas,,,,,,,,,Thornton,2,,,made,,Layup,,,83-76,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=393
 ,,,,,,,,,,4,7.37,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Jump Shot,,,83-76,25,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=394
 ,,,,,,,,,,4,7.36,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,83-76,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=395
@@ -339,7 +339,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.03,Sacramento Kings,substitute,,,,Salmons,,Thornton,,,,,,,,,,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=402
 ,,,,,,,,,,4,7.03,Sacramento Kings,substitute,,,,Cousins,,Robinson,,,,,,,,,,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=403
 ,,,,,,,,,,4,7.03,Minnesota Timberwolves,substitute,,,,Pekovic,,Love,,,,,,,,,,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=431
-,,,,,,,,,,4,6.49,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=404
+,,,,,,,,,,4,6.49,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,Salmons,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=404
 ,,,,,,,,,,4,6.46,Sacramento Kings,shot,Salmons,,,,,,,,,Evans,2,,,made,,Slam Dunk,,,85-78,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=405
 ,,,,,,,,,,4,6.25,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,3PT Jump Shot,,,85-78,26,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=406
 ,,,,,,,,,,4,6.25,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=407
@@ -354,7 +354,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.58,Minnesota Timberwolves,substitute,,,,Love,,Cunningham,,,,,,,,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=416
 ,,,,,,,,,,4,5.58,Sacramento Kings,free throw,,,,,,,2,,2,Hayes,,,foul,missed,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=417
 ,,,,,,,,,,4,5.55,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=419
-,,,,,,,,,,4,5.37,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=420
+,,,,,,,,,,4,5.37,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,Cousins,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=420
 ,,,,,,,,,,4,5.21,Sacramento Kings,shot,Evans,,,,,,,,,Cousins,2,,,made,,Jump Shot,,,85-80,13,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=421
 ,,,,,,,,,,4,5.06,Sacramento Kings,foul,,,,,,,,,,Salmons,,,,,,Shooting,,,85-80,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=422
 ,,,,,,,,,,4,5.06,Minnesota Timberwolves,free throw,,,,,,,1,,2,Pekovic,1,,foul,made,,,,,86-80,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=423
@@ -368,7 +368,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.13,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,88-82,15,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=434
 ,,,,,,,,,,4,3.56,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,88-82,18,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=435
 ,,,,,,,,,,4,3.55,Minnesota Timberwolves,rebound,,,,,,,,,,Love,,,,,,,,,88-82,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=436
-,,,,,,,,,,4,3.39,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Lost Ball,,,,,,88-82,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=437
+,,,,,,,,,,4,3.39,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Lost Ball,,Thomas,,,,88-82,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=437
 ,,,,,,,,,,4,3.37,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Driving Layup,,,88-84,2,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=438
 ,,,,,,,,,,4,3.37,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Shooting,,,88-84,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=439
 ,,,,,,,,,,4,3.37,Sacramento Kings,free throw,,,,,,,1,,1,Thomas,1,,foul,made,,,,,88-85,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=440
@@ -382,7 +382,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.19,Minnesota Timberwolves,rebound,,,,,,,,,,Pekovic,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=453
 ,,,,,,,,,,4,1.59,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,Jump Shot,,,90-87,11,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=454
 ,,,,,,,,,,4,1.58,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=455
-,,,,,,,,,,4,1.44,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=456
+,,,,,,,,,,4,1.44,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,Shved,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=456
 ,,,,,,,,,,4,1.33,Sacramento Kings,foul,,,,,,,,,,Hayes,,,,,,Shooting,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=457
 ,,,,,,,,,,4,1.33,Minnesota Timberwolves,free throw,,,,,,,1,,2,Pekovic,,,foul,missed,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=458
 ,,,,,,,,,,4,1.33,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,90-87,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=459
@@ -393,7 +393,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.20,Sacramento Kings,substitute,,,,Hayes,,Thomas,,,,,,,,,,,,,91-88,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=466
 ,,,,,,,,,,4,1.20,Sacramento Kings,free throw,,,,,,,2,,2,Cousins,1,,foul,made,,,,,91-89,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=467
 ,,,,,,,,,,4,1.01,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Pekovic,2,,,made,,Layup,,,93-89,4,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=469
-,,,,,,,,,,4,0.50,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Hook Shot,,,93-89,5,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=470
+,,,,,,,,,,4,0.50,Sacramento Kings,shot,,,Kirilenko,,,,,,,Cousins,,,,missed,,Jump Hook Shot,,,93-89,5,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=470
 ,,,,,,,,,,4,0.49,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,93-89,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=471
 ,,,,,,,,,,4,0.42,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,93-89,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=472
 ,,,,,,,,,,4,0.26,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Love,2,,,made,,Jump Shot,,,95-89,15,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=475
@@ -406,4 +406,4 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.12,Sacramento Kings,substitute,,,,Brooks,,Evans,,,,,,,,,,,,,97-89,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=485
 ,,,,,,,,,,4,0.12,Sacramento Kings,substitute,,,,Thomas,,Hayes,,,,,,,,,,,,,97-89,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=486
 ,,,,,,,,,,4,0.12,Minnesota Timberwolves,substitute,,,,Cunningham,,Pekovic,,,,,,,,,,,,,97-89,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=487
-,,,,,,,,,,4,0.05,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Bad Pass,,,,,,97-89,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=489
+,,,,,,,,,,4,0.05,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Bad Pass,,Ridnour,,,,97-89,,http://stats.nba.com/cvp.html?GameID=0021200207&GameEventID=489

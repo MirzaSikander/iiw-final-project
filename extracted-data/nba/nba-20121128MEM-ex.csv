@@ -17,13 +17,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.28,Toronto Raptors,shot,,,,,,,,,,Kleiza,,,,missed,,Turnaround Jump Shot,,,8-11,17,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=17
 ,,,,,,,,,,1,8.26,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,8-11,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=18
 ,,,,,,,,,,1,8.11,Memphis Grizzlies,shot,Randolph,,,,,,,,,Gasol,2,,,made,,Running Dunk,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=19
-,,,,,,,,,,1,7.47,Toronto Raptors,shot,,,,,,,,,,Valanciunas,,,,missed,,Jump Shot,,,8-13,18,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=20
+,,,,,,,,,,1,7.47,Toronto Raptors,shot,,,Gasol,,,,,,,Valanciunas,,,,missed,,Jump Shot,,,8-13,18,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=20
 ,,,,,,,,,,1,7.46,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=21
-,,,,,,,,,,1,7.33,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,8-13,3,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=22
+,,,,,,,,,,1,7.33,Memphis Grizzlies,shot,,,Valanciunas,,,,,,,Randolph,,,,missed,,Layup,,,8-13,3,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=22
 ,,,,,,,,,,1,7.30,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=24
 ,,,,,,,,,,1,7.30,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,8-13,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=23
 ,,,,,,,,,,1,7.29,Toronto Raptors,rebound,,,,,,,,,,Lowry,,,,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=25
-,,,,,,,,,,1,7.25,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=26
+,,,,,,,,,,1,7.25,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Gay,,,,8-13,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=26
 ,,,,,,,,,,1,7.19,Memphis Grizzlies,shot,,,,,,,,,,Gay,2,,,made,,Layup,,,8-15,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=27
 ,,,,,,,,,,1,7.14,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=30
 ,,,,,,,,,,1,6.57,Memphis Grizzlies,foul,,,,,,,,,,Randolph,,,,,,Shooting,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=31
@@ -45,7 +45,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.11,Toronto Raptors,shot,,,,,,,,,,DeRozan,2,,,made,,Running Jump Shot,,,12-19,8,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=51
 ,,,,,,,,,,1,4.58,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Pullup Jump Shot,,,12-19,7,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=52
 ,,,,,,,,,,1,4.55,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,12-19,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=53
-,,,,,,,,,,1,4.54,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,,,,,12-19,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=54
+,,,,,,,,,,1,4.54,Toronto Raptors,turnover,,,,,,,,,,DeRozan,,,Bad Pass,,Conley,,,,12-19,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=54
 ,,,,,,,,,,1,4.50,Memphis Grizzlies,foul,,,,,,,,,,Gasol,,,,,,Offensive Charge,,,12-19,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=55
 ,,,,,,,,,,1,4.50,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Foul,,,,,,12-19,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=56
 ,,,,,,,,,,1,4.50,Memphis Grizzlies,substitute,,,,Bayless,,Conley,,,,,,,,,,,,,12-19,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=57
@@ -68,7 +68,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.50,Memphis Grizzlies,substitute,,,,Speights,,Allen,,,,,,,,,,,,,21-19,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=76
 ,,,,,,,,,,1,2.50,Toronto Raptors,substitute,,,,Ross,,Kleiza,,,,,,,,,,,,,21-19,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=77
 ,,,,,,,,,,1,2.34,Memphis Grizzlies,shot,Pondexter,,,,,,,,,Gay,3,,,made,,3PT Jump Shot,,,21-22,24,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=78
-,,,,,,,,,,1,2.20,Toronto Raptors,shot,,,,,,,,,,Valanciunas,,,,missed,,Layup,,,21-22,2,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=79
+,,,,,,,,,,1,2.20,Toronto Raptors,shot,,,Pondexter,,,,,,,Valanciunas,,,,missed,,Layup,,,21-22,2,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=79
 ,,,,,,,,,,1,2.18,Memphis Grizzlies,rebound,,,,,,,,,,Gay,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=80
 ,,,,,,,,,,1,2.09,Memphis Grizzlies,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,21-22,7,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=81
 ,,,,,,,,,,1,2.08,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,21-22,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=82
@@ -83,9 +83,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.46,Toronto Raptors,substitute,,,,Calderon,,Lowry,,,,,,,,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=92
 ,,,,,,,,,,1,1.46,Memphis Grizzlies,substitute,,,,Conley,,Bayless,,,,,,,,,,,,,22-22,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=93
 ,,,,,,,,,,1,1.46,Toronto Raptors,free throw,,,,,,,2,,2,DeRozan,1,,foul,made,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=94
-,,,,,,,,,,1,1.24,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Layup,,,23-22,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=96
+,,,,,,,,,,1,1.24,Memphis Grizzlies,shot,,,Valanciunas,,,,,,,Pondexter,,,,missed,,Layup,,,23-22,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=96
 ,,,,,,,,,,1,1.19,Toronto Raptors,rebound,,,,,,,,,,Valanciunas,,,,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=97
-,,,,,,,,,,1,1.15,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,23-22,24,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=98
+,,,,,,,,,,1,1.15,Toronto Raptors,shot,,,Conley,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,23-22,24,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=98
 ,,,,,,,,,,1,1.14,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=99
 ,,,,,,,,,,1,1.03,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Dunk,,,23-22,3,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=100
 ,,,,,,,,,,1,1.01,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,23-22,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=101
@@ -103,7 +103,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.08,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=117
 ,,,,,,,,,,2,10.50,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,29-27,22,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=119
 ,,,,,,,,,,2,10.49,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=120
-,,,,,,,,,,2,10.34,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Lost Ball,,,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=122
+,,,,,,,,,,2,10.34,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Lost Ball,,Randolph,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=122
 ,,,,,,,,,,2,10.29,Memphis Grizzlies,shot,,,,,,,,,,Ellington,,,,missed,,Jump Shot,,,29-27,4,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=123
 ,,,,,,,,,,2,10.27,Toronto Raptors,rebound,,,,,,,,,,Calderon,,,,,,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=124
 ,,,,,,,,,,2,10.22,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,29-27,15,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=125
@@ -141,7 +141,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.06,Memphis Grizzlies,shot,Speights,,,,,,,,,Randolph,2,,,made,,Step Back Jump Shot,,,35-38,14,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=160
 ,,,,,,,,,,2,5.48,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,35-38,24,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=161
 ,,,,,,,,,,2,5.46,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,35-38,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=162
-,,,,,,,,,,2,5.44,Memphis Grizzlies,turnover,,,,,,,,,,Speights,,,Bad Pass,,,,,,35-38,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=163
+,,,,,,,,,,2,5.44,Memphis Grizzlies,turnover,,,,,,,,,,Speights,,,Bad Pass,,Ross,,,,35-38,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=163
 ,,,,,,,,,,2,5.36,Toronto Raptors,shot,,,,,,,,,,Kleiza,2,,,made,,Reverse Layup,,,37-38,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=164
 ,,,,,,,,,,2,5.29,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,37-38,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=166
 ,,,,,,,,,,2,5.29,Toronto Raptors,substitute,,,,Lowry,,Calderon,,,,,,,,,,,,,37-38,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=167
@@ -218,10 +218,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.32,Toronto Raptors,foul,,,,,,,,,,Kleiza,,,,,,Personal,,,47-48,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=258
 ,,,,,,,,,,3,11.24,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,3PT Jump Shot,,,47-48,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=259
 ,,,,,,,,,,3,11.23,Toronto Raptors,rebound,,,,,,,,,,DeRozan,,,,,,,,,47-48,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=260
-,,,,,,,,,,3,11.15,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Running Layup,,,47-48,3,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=261
+,,,,,,,,,,3,11.15,Toronto Raptors,shot,,,Conley,,,,,,,Lowry,,,,missed,,Running Layup,,,47-48,3,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=261
 ,,,,,,,,,,3,11.13,Memphis Grizzlies,rebound,,,,,,,,,,Conley,,,,,,,,,47-48,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=262
 ,,,,,,,,,,3,10.57,Memphis Grizzlies,shot,Randolph,,,,,,,,,Gasol,2,,,made,,Turnaround Fadeaway,,,47-50,8,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=263
-,,,,,,,,,,3,10.43,Toronto Raptors,turnover,,,,,,,,,,Davis,,,Bad Pass,,,,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=264
+,,,,,,,,,,3,10.43,Toronto Raptors,turnover,,,,,,,,,,Davis,,,Bad Pass,,Allen,,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=264
 ,,,,,,,,,,3,10.33,Toronto Raptors,foul,,,,,,,,,,Valanciunas,,,,,,Personal,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=266
 ,,,,,,,,,,3,10.31,Toronto Raptors,foul,,,,,,,,,,Davis,,,,,,Personal,,,47-50,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=267
 ,,,,,,,,,,3,10.22,Memphis Grizzlies,shot,Gasol,,,,,,,,,Randolph,2,,,made,,Turnaround Jump Shot,,,47-52,5,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=268
@@ -234,7 +234,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.38,Memphis Grizzlies,free throw,,,,,,,1,,2,Randolph,,,foul,missed,,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=276
 ,,,,,,,,,,3,9.38,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,48-52,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=277
 ,,,,,,,,,,3,9.38,Memphis Grizzlies,free throw,,,,,,,2,,2,Randolph,1,,foul,made,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=278
-,,,,,,,,,,3,9.19,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=280
+,,,,,,,,,,3,9.19,Toronto Raptors,turnover,,,,,,,,,,Lowry,,,Bad Pass,,Allen,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=280
 ,,,,,,,,,,3,9.16,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Layup,,,48-55,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=281
 ,,,,,,,,,,3,9.10,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,48-55,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=282
 ,,,,,,,,,,3,8.49,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Jump Shot,,,48-55,21,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=284
@@ -261,14 +261,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.03,Toronto Raptors,substitute,,,,Ross,,Kleiza,,,,,,,,,,,,,51-63,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=311
 ,,,,,,,,,,3,6.03,Toronto Raptors,substitute,,,,Johnson,,Valanciunas,,,,,,,,,,,,,51-63,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=312
 ,,,,,,,,,,3,6.03,Memphis Grizzlies,free throw,,,,,,,2,,2,Gasol,1,,foul,made,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=313
-,,,,,,,,,,3,5.43,Toronto Raptors,turnover,,,,,,,,,,Davis,,,Lost Ball,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=315
+,,,,,,,,,,3,5.43,Toronto Raptors,turnover,,,,,,,,,,Davis,,,Lost Ball,,Gay,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=315
 ,,,,,,,,,,3,5.36,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Layup,,,51-64,2,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=316
 ,,,,,,,,,,3,5.35,Memphis Grizzlies,rebound,,,,,,,,,,Gay,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=317
-,,,,,,,,,,3,5.34,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Layup,,,51-64,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=318
+,,,,,,,,,,3,5.34,Memphis Grizzlies,shot,,,Davis,,,,,,,Gay,,,,missed,,Layup,,,51-64,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=318
 ,,,,,,,,,,3,5.32,Toronto Raptors,rebound,,,,,,,,,,Davis,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=319
 ,,,,,,,,,,3,5.25,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,Running Layup,,,51-64,2,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=320
 ,,,,,,,,,,3,5.22,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=321
-,,,,,,,,,,3,5.21,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=322
+,,,,,,,,,,3,5.21,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,Ross,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=322
 ,,,,,,,,,,3,5.16,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,3PT Jump Shot,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=323
 ,,,,,,,,,,3,5.14,Toronto Raptors,rebound,,,,,,,,,,Davis,,,,,,,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=324
 ,,,,,,,,,,3,5.14,Memphis Grizzlies,foul,,,,,,,,,,Randolph,,,,,,Shooting,,,51-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=325
@@ -281,22 +281,22 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.46,Toronto Raptors,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,53-64,14,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=334
 ,,,,,,,,,,3,4.45,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,53-64,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=335
 ,,,,,,,,,,3,4.32,Memphis Grizzlies,shot,Gasol,,,,,,,,,Speights,2,,,made,,Slam Dunk,,,53-66,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=336
-,,,,,,,,,,3,4.20,Toronto Raptors,turnover,,,,,,,,,,Ross,,,Lost Ball,,,,,,53-66,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=337
+,,,,,,,,,,3,4.20,Toronto Raptors,turnover,,,,,,,,,,Ross,,,Lost Ball,,Conley,,,,53-66,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=337
 ,,,,,,,,,,3,4.20,Toronto Raptors,foul,,,,,,,,,,Ross,,,,,,Personal Take,,,53-66,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=338
 ,,,,,,,,,,3,4.20,Memphis Grizzlies,free throw,,,,,,,1,,2,Conley,1,,foul,made,,,,,53-67,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=339
 ,,,,,,,,,,3,4.20,Memphis Grizzlies,substitute,,,,Pondexter,,Gay,,,,,,,,,,,,,53-67,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=341
 ,,,,,,,,,,3,4.20,Memphis Grizzlies,free throw,,,,,,,2,,2,Conley,1,,foul,made,,,,,53-68,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=342
-,,,,,,,,,,3,4.02,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Jump Shot,,,53-68,10,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=344
+,,,,,,,,,,3,4.02,Toronto Raptors,shot,,,Allen,,,,,,,DeRozan,,,,missed,,Jump Shot,,,53-68,10,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=344
 ,,,,,,,,,,3,4.01,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,53-68,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=345
 ,,,,,,,,,,3,3.58,Memphis Grizzlies,shot,Conley,,,,,,,,,Allen,2,,,made,,Dunk,,,53-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=346
 ,,,,,,,,,,3,3.49,Toronto Raptors,timeout,,,,,,,,,,,,,,,,,,,53-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=347
 ,,,,,,,,,,3,3.49,Toronto Raptors,substitute,,,,Lucas III,,DeRozan,,,,,,,,,,,,,53-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=349
 ,,,,,,,,,,3,3.37,Toronto Raptors,shot,Ross,,,,,,,,,Calderon,3,,,made,,3PT Jump Shot,,,56-70,26,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=350
-,,,,,,,,,,3,3.21,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Bad Pass,,,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=351
+,,,,,,,,,,3,3.21,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Bad Pass,,Gray,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=351
 ,,,,,,,,,,3,3.10,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,56-70,26,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=352
 ,,,,,,,,,,3,3.09,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=353
-,,,,,,,,,,3,3.04,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=354
-,,,,,,,,,,3,2.59,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=355
+,,,,,,,,,,3,3.04,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Bad Pass,,Ross,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=354
+,,,,,,,,,,3,2.59,Toronto Raptors,turnover,,,,,,,,,,Calderon,,,Bad Pass,,Allen,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=355
 ,,,,,,,,,,3,2.54,Toronto Raptors,violation,,,,,,,,,,Davis,,,Defensive Goaltending,,,,,,56-70,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=358
 ,,,,,,,,,,3,2.54,Memphis Grizzlies,shot,Allen,,,,,,,,,Pondexter,2,,,made,,Layup,,,56-72,3,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=356
 ,,,,,,,,,,3,2.43,Toronto Raptors,shot,,,,,,,,,,Lucas III,,,,missed,,Jump Shot,,,56-72,21,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=359
@@ -323,7 +323,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.31,Toronto Raptors,foul,,,,,,,,,,Davis,,,,,,Shooting,,,61-79,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=382
 ,,,,,,,,,,3,0.31,Memphis Grizzlies,free throw,,,,,,,1,,1,Pondexter,,,foul,missed,,,,,61-79,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=383
 ,,,,,,,,,,3,0.30,Toronto Raptors,rebound,,,,,,,,,,Gray,,,,,,,,,61-79,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=385
-,,,,,,,,,,3,0.20,Toronto Raptors,turnover,,,,,,,,,,Davis,,,Lost Ball,,,,,,61-79,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=386
+,,,,,,,,,,3,0.20,Toronto Raptors,turnover,,,,,,,,,,Davis,,,Lost Ball,,Speights,,,,61-79,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=386
 ,,,,,,,,,,3,0.15,Memphis Grizzlies,shot,,,,,,,,,,Ellington,2,,,made,,Layup,,,61-81,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=387
 ,,,,,,,,,,3,0.01,Memphis Grizzlies,foul,,,,,,,,,,Randolph,,,,,,Personal,,,61-81,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=388
 ,,,,,,,,,,4,11.47,Memphis Grizzlies,shot,,,,,,,,,,Ellington,,,,missed,,Pullup Jump Shot,,,61-81,18,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=392
@@ -341,7 +341,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.37,Memphis Grizzlies,free throw,,,,,,,2,,2,Speights,1,,foul,made,,,,,63-84,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=404
 ,,,,,,,,,,4,10.23,Toronto Raptors,shot,,,,,,,,,,Johnson,,,,missed,,Running Jump Shot,,,63-84,11,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=406
 ,,,,,,,,,,4,10.22,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,63-84,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=407
-,,,,,,,,,,4,10.10,Memphis Grizzlies,shot,,,,,,,,,,Speights,,,,missed,,Turnaround Jump Shot,,,63-84,3,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=408
+,,,,,,,,,,4,10.10,Memphis Grizzlies,shot,,,Valanciunas,,,,,,,Speights,,,,missed,,Turnaround Jump Shot,,,63-84,3,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=408
 ,,,,,,,,,,4,10.09,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,63-84,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=409
 ,,,,,,,,,,4,10.08,Memphis Grizzlies,turnover,,,,,,,,,,Speights,,,Step Out of Bounds,,,,,,63-84,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=410
 ,,,,,,,,,,4,9.44,Memphis Grizzlies,foul,,,,,,,,,,Bayless,,,,,,Shooting,,,63-84,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=411
@@ -358,7 +358,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.49,Toronto Raptors,foul,,,,,,,,,,Johnson,,,,,,Shooting,,,66-84,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=425
 ,,,,,,,,,,4,8.49,Memphis Grizzlies,free throw,,,,,,,1,,2,Speights,1,,foul,made,,,,,66-85,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=429
 ,,,,,,,,,,4,8.49,Memphis Grizzlies,free throw,,,,,,,2,,2,Speights,1,,foul,made,,,,,66-86,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=431
-,,,,,,,,,,4,8.36,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,,,,,66-86,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=433
+,,,,,,,,,,4,8.36,Toronto Raptors,turnover,,,,,,,,,,Valanciunas,,,Lost Ball,,Bayless,,,,66-86,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=433
 ,,,,,,,,,,4,8.31,Memphis Grizzlies,shot,Bayless,,,,,,,,,Ellington,2,,,made,,Layup,,,66-88,1,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=434
 ,,,,,,,,,,4,8.04,Toronto Raptors,shot,,,,,,,,,,Ross,,,,missed,,3PT Jump Shot,,,66-88,27,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=435
 ,,,,,,,,,,4,8.04,Toronto Raptors,rebound,,,,,,,,,,,,,,,,,,,66-88,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=436
@@ -379,10 +379,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.33,Toronto Raptors,shot,,,,,,,,,,Valanciunas,,,,missed,,Running Jump Shot,,,71-90,3,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=451
 ,,,,,,,,,,4,6.31,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,71-90,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=453
 ,,,,,,,,,,4,6.24,Memphis Grizzlies,shot,Conley,,,,,,,,,Gay,3,,,made,,3PT Jump Shot,,,71-93,26,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=454
-,,,,,,,,,,4,6.17,Toronto Raptors,shot,,,,,,,,,,DeRozan,,,,missed,,Layup,,,71-93,2,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=456
+,,,,,,,,,,4,6.17,Toronto Raptors,shot,,,Gay,,,,,,,DeRozan,,,,missed,,Layup,,,71-93,2,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=456
 ,,,,,,,,,,4,6.15,Toronto Raptors,rebound,,,,,,,,,,Johnson,,,,,,,,,71-93,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=457
 ,,,,,,,,,,4,6.07,Toronto Raptors,shot,Valanciunas,,,,,,,,,DeRozan,3,,,made,,3PT Jump Shot,,,74-93,26,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=460
-,,,,,,,,,,4,5.53,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,74-93,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=462
+,,,,,,,,,,4,5.53,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,DeRozan,,,,74-93,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=462
 ,,,,,,,,,,4,5.48,Toronto Raptors,shot,,,,,,,,,,Lowry,,,,missed,,3PT Step Back Jump Shot,,,74-93,28,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=464
 ,,,,,,,,,,4,5.46,Toronto Raptors,rebound,,,,,,,,,,Ross,,,,,,,,,74-93,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=466
 ,,,,,,,,,,4,5.45,Toronto Raptors,foul,,,,,,,,,,Ross,,,,,,Offensive Charge,,,74-93,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=467
@@ -437,11 +437,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.18,Toronto Raptors,shot,,,,,,,,,,Lucas III,2,,,made,,Running Bank Shot,,,80-103,9,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=523
 ,,,,,,,,,,4,1.03,Memphis Grizzlies,shot,,,,,,,,,,Selby,,,,missed,,Jump Shot,,,80-103,18,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=524
 ,,,,,,,,,,4,1.02,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=525
-,,,,,,,,,,4,0.57,Memphis Grizzlies,shot,,,,,,,,,,Selby,,,,missed,,Driving Jump Shot,,,80-103,7,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=526
+,,,,,,,,,,4,0.57,Memphis Grizzlies,shot,,,McGuire,,,,,,,Selby,,,,missed,,Driving Jump Shot,,,80-103,7,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=526
 ,,,,,,,,,,4,0.54,Toronto Raptors,rebound,,,,,,,,,,Gray,,,,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=527
 ,,,,,,,,,,4,0.50,Toronto Raptors,shot,,,,,,,,,,Lucas III,,,,missed,,3PT Jump Shot,,,80-103,26,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=528
 ,,,,,,,,,,4,0.48,Toronto Raptors,rebound,,,,,,,,,,McGuire,,,,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=529
-,,,,,,,,,,4,0.46,Toronto Raptors,shot,,,,,,,,,,McGuire,,,,missed,,Jump Shot,,,80-103,4,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=530
+,,,,,,,,,,4,0.46,Toronto Raptors,shot,,,Speights,,,,,,,McGuire,,,,missed,,Jump Shot,,,80-103,4,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=530
 ,,,,,,,,,,4,0.44,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=531
 ,,,,,,,,,,4,0.21,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,3PT Jump Shot,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=532
 ,,,,,,,,,,4,0.20,Toronto Raptors,rebound,,,,,,,,,,McGuire,,,,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021200216&GameEventID=533

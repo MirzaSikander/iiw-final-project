@@ -8,7 +8,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.46,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=8
 ,,,,,,,,,,1,10.32,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,0-2,17,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=9
 ,,,,,,,,,,1,10.31,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=10
-,,,,,,,,,,1,10.26,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=11
+,,,,,,,,,,1,10.26,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Daniels,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=11
 ,,,,,,,,,,1,10.19,Milwaukee Bucks,shot,,,,,,,,,,Dalembert,2,,,made,,Jump Shot,,,0-4,5,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=12
 ,,,,,,,,,,1,10.04,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Jump Shot,,,0-4,15,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=13
 ,,,,,,,,,,1,10.03,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=14
@@ -26,7 +26,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.22,Portland Trail Blazers,shot,,,,,,,,,,Hickson,2,,,made,,Layup,,,7-6,2,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=27
 ,,,,,,,,,,1,8.07,Milwaukee Bucks,shot,,,,,,,,,,Sanders,,,,missed,,Hook Shot,,,7-6,5,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=28
 ,,,,,,,,,,1,8.06,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=29
-,,,,,,,,,,1,7.50,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Jump Shot,,,7-6,20,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=30
+,,,,,,,,,,1,7.50,Portland Trail Blazers,shot,,,Ellis,,,,,,,Matthews,,,,missed,,Jump Shot,,,7-6,20,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=30
 ,,,,,,,,,,1,7.49,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,7-6,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=31
 ,,,,,,,,,,1,7.46,Portland Trail Blazers,shot,Batum,,,,,,,,,Matthews,2,,,made,,Layup,,,9-6,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=32
 ,,,,,,,,,,1,7.26,Milwaukee Bucks,shot,,,,,,,,,,Daniels,2,,,made,,Layup,,,9-8,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=33
@@ -42,7 +42,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.28,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,12-14,18,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=44
 ,,,,,,,,,,1,5.27,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=45
 ,,,,,,,,,,1,5.07,Milwaukee Bucks,shot,Daniels,,,,,,,,,Jennings,3,,,made,,3PT Jump Shot,,,12-17,26,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=46
-,,,,,,,,,,1,4.47,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=47
+,,,,,,,,,,1,4.47,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Ellis,,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=47
 ,,,,,,,,,,1,4.44,Portland Trail Blazers,foul,,,,,,,,,,Lillard,,,,,,Shooting,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=48
 ,,,,,,,,,,1,4.44,Milwaukee Bucks,free throw,,,,,,,1,,2,Ellis,,,foul,missed,,,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=49
 ,,,,,,,,,,1,4.44,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,12-17,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=50
@@ -68,7 +68,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.45,Milwaukee Bucks,rebound,,,,,,,,,,Jennings,,,,,,,,,18-23,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=72
 ,,,,,,,,,,1,1.42,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,18-23,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=73
 ,,,,,,,,,,1,1.42,Milwaukee Bucks,substitute,,,,Redick,,Jennings,,,,,,,,,,,,,18-23,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=74
-,,,,,,,,,,1,1.25,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,Jump Shot,,,18-23,20,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=75
+,,,,,,,,,,1,1.25,Portland Trail Blazers,shot,,,Dunleavy,,,,,,,Batum,,,,missed,,Jump Shot,,,18-23,20,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=75
 ,,,,,,,,,,1,1.23,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,18-23,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=76
 ,,,,,,,,,,1,1.16,Milwaukee Bucks,shot,,,,,,,,,,Ellis,2,,,made,,Layup,,,18-25,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=77
 ,,,,,,,,,,1,0.52,Portland Trail Blazers,shot,,,,,,,,,,Maynor,,,,missed,,Jump Shot,,,18-25,4,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=79
@@ -98,13 +98,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.06,Milwaukee Bucks,shot,Ellis,,,,,,,,,Dunleavy,3,,,made,,3PT Jump Shot,,,23-35,24,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=114
 ,,,,,,,,,,2,10.02,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=115
 ,,,,,,,,,,2,10.02,Portland Trail Blazers,substitute,,,,Matthews,,Batum,,,,,,,,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=117
-,,,,,,,,,,2,10.01,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=118
+,,,,,,,,,,2,10.01,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,Ayon,,,,23-35,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=118
 ,,,,,,,,,,2,9.57,Milwaukee Bucks,shot,Ayon,,,,,,,,,Ellis,2,,,made,,Layup,,,23-37,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=119
 ,,,,,,,,,,2,9.35,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=120
 ,,,,,,,,,,2,9.28,Portland Trail Blazers,foul,,,,,,,,,,Leonard,,,,,,Personal,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=121
 ,,,,,,,,,,2,9.17,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,23-37,6,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=122
 ,,,,,,,,,,2,9.16,Milwaukee Bucks,rebound,,,,,,,,,,Udoh,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=123
-,,,,,,,,,,2,9.16,Milwaukee Bucks,shot,,,,,,,,,,Udoh,,,,missed,,Layup,,,23-37,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=124
+,,,,,,,,,,2,9.16,Milwaukee Bucks,shot,,,Leonard,,,,,,,Udoh,,,,missed,,Layup,,,23-37,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=124
 ,,,,,,,,,,2,9.16,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=125
 ,,,,,,,,,,2,9.12,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,23-37,15,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=126
 ,,,,,,,,,,2,9.11,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=127
@@ -116,7 +116,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.51,Portland Trail Blazers,substitute,,,,Barton,,Lillard,,,,,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=133
 ,,,,,,,,,,2,8.38,Milwaukee Bucks,shot,,,,,,,,,,Redick,,,,missed,,Jump Shot,,,23-37,4,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=134
 ,,,,,,,,,,2,8.37,Portland Trail Blazers,rebound,,,,,,,,,,Freeland,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=135
-,,,,,,,,,,2,8.32,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,Jump Shot,,,23-37,3,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=136
+,,,,,,,,,,2,8.32,Portland Trail Blazers,shot,,,Udoh,,,,,,,Barton,,,,missed,,Jump Shot,,,23-37,3,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=136
 ,,,,,,,,,,2,8.31,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,23-37,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=137
 ,,,,,,,,,,2,8.23,Milwaukee Bucks,shot,Ellis,,,,,,,,,Udoh,2,,,made,,Layup,,,23-39,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=138
 ,,,,,,,,,,2,7.59,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Hook Shot,,,23-39,4,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=139
@@ -182,16 +182,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.16,Portland Trail Blazers,shot,Lillard,,,,,,,,,Aldridge,2,,,made,,Jump Shot,,,31-51,14,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=210
 ,,,,,,,,,,2,1.56,Milwaukee Bucks,shot,,,,,,,,,,Redick,,,,missed,,3PT Jump Shot,,,31-51,27,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=211
 ,,,,,,,,,,2,1.54,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,31-51,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=212
-,,,,,,,,,,2,1.45,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,,,,,31-51,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=213
+,,,,,,,,,,2,1.45,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,Sanders,,,,31-51,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=213
 ,,,,,,,,,,2,1.41,Milwaukee Bucks,shot,Dalembert,,,,,,,,,Jennings,2,,,made,,Layup,,,31-53,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=214
 ,,,,,,,,,,2,1.17,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,31-53,6,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=215
 ,,,,,,,,,,2,1.13,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,31-53,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=216
 ,,,,,,,,,,2,1.11,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Jump Shot,,,31-53,14,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=217
 ,,,,,,,,,,2,1.08,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,31-53,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=218
-,,,,,,,,,,2,1.05,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,31-53,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=219
+,,,,,,,,,,2,1.05,Portland Trail Blazers,shot,,,Sanders,,,,,,,Hickson,,,,missed,,Layup,,,31-53,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=219
 ,,,,,,,,,,2,1.03,Milwaukee Bucks,rebound,,,,,,,,,,Ellis,,,,,,,,,31-53,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=220
-,,,,,,,,,,2,1.00,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,31-53,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=221
-,,,,,,,,,,2,0.45,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Jump Shot,,,31-53,4,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=222
+,,,,,,,,,,2,1.00,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,Batum,,,,31-53,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=221
+,,,,,,,,,,2,0.45,Portland Trail Blazers,shot,,,Ellis,,,,,,,Matthews,,,,missed,,Jump Shot,,,31-53,4,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=222
 ,,,,,,,,,,2,0.45,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,31-53,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=223
 ,,,,,,,,,,2,0.35,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,31-53,26,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=224
 ,,,,,,,,,,2,0.34,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,31-53,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=225
@@ -234,7 +234,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.53,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,43-64,26,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=267
 ,,,,,,,,,,3,6.52,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,43-64,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=268
 ,,,,,,,,,,3,6.51,Portland Trail Blazers,shot,,,,,,,,,,Hickson,2,,,made,,Layup,,,45-64,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=269
-,,,,,,,,,,3,6.25,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,45-64,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=270
+,,,,,,,,,,3,6.25,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,Batum,,,,45-64,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=270
 ,,,,,,,,,,3,6.22,Portland Trail Blazers,shot,,,,,,,,,,Batum,2,,,made,,Dunk,,,47-64,2,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=271
 ,,,,,,,,,,3,6.01,Portland Trail Blazers,foul,,,,,,,,,,Batum,,,,,,Shooting,,,47-64,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=272
 ,,,,,,,,,,3,6.01,Milwaukee Bucks,free throw,,,,,,,1,,2,Ellis,,,foul,missed,,,,,47-64,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=273
@@ -244,7 +244,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.42,Portland Trail Blazers,shot,Hickson,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,50-65,26,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=278
 ,,,,,,,,,,3,5.29,Milwaukee Bucks,shot,,,,,,,,,,Dalembert,,,,missed,,Hook Shot,,,50-65,7,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=279
 ,,,,,,,,,,3,5.29,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,50-65,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=280
-,,,,,,,,,,3,5.10,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Jump Shot,,,50-65,17,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=281
+,,,,,,,,,,3,5.10,Portland Trail Blazers,shot,,,Ellis,,,,,,,Matthews,,,,missed,,Jump Shot,,,50-65,17,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=281
 ,,,,,,,,,,3,5.10,Milwaukee Bucks,rebound,,,,,,,,,,,,,,,,,,,50-65,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=282
 ,,,,,,,,,,3,5.10,Milwaukee Bucks,substitute,,,,Udoh,,Dalembert,,,,,,,,,,,,,50-65,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=283
 ,,,,,,,,,,3,4.52,Milwaukee Bucks,shot,,,,,,,,,,Ellis,,,,missed,,Jump Shot,,,50-65,8,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=284
@@ -259,7 +259,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.00,Portland Trail Blazers,free throw,,,,,,,1,,2,Lillard,1,,foul,made,,,,,51-65,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=294
 ,,,,,,,,,,3,4.00,Milwaukee Bucks,substitute,,,,Dunleavy,,Daniels,,,,,,,,,,,,,51-65,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=296
 ,,,,,,,,,,3,4.00,Portland Trail Blazers,free throw,,,,,,,2,,2,Lillard,1,,foul,made,,,,,52-65,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=297
-,,,,,,,,,,3,3.37,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,52-65,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=299
+,,,,,,,,,,3,3.37,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,Aldridge,,,,52-65,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=299
 ,,,,,,,,,,3,3.27,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Layup,,,52-65,3,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=300
 ,,,,,,,,,,3,3.25,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,52-65,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=301
 ,,,,,,,,,,3,3.23,Portland Trail Blazers,shot,Hickson,,,,,,,,,Aldridge,2,,,made,,Jump Shot,,,54-65,19,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=302
@@ -268,10 +268,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.47,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,54-67,18,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=305
 ,,,,,,,,,,3,2.46,Milwaukee Bucks,rebound,,,,,,,,,,Dunleavy,,,,,,,,,54-67,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=306
 ,,,,,,,,,,3,2.27,Milwaukee Bucks,shot,Dunleavy,,,,,,,,,Ellis,2,,,made,,Jump Shot,,,54-69,14,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=307
-,,,,,,,,,,3,2.06,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Layup,,,54-69,2,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=308
+,,,,,,,,,,3,2.06,Portland Trail Blazers,shot,,,Sanders,,,,,,,Matthews,,,,missed,,Layup,,,54-69,2,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=308
 ,,,,,,,,,,3,2.06,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,54-69,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=309
 ,,,,,,,,,,3,2.06,Portland Trail Blazers,substitute,,,,Babbitt,,Hickson,,,,,,,,,,,,,54-69,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=310
-,,,,,,,,,,3,2.03,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,Jump Shot,,,54-69,17,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=311
+,,,,,,,,,,3,2.03,Portland Trail Blazers,shot,,,Jennings,,,,,,,Lillard,,,,missed,,Jump Shot,,,54-69,17,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=311
 ,,,,,,,,,,3,2.00,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,54-69,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=312
 ,,,,,,,,,,3,1.58,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Layup,,,54-69,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=313
 ,,,,,,,,,,3,1.57,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,54-69,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=314
@@ -286,7 +286,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.09,Portland Trail Blazers,shot,,,,,,,,,,Babbitt,,,,missed,,3PT Jump Shot,,,54-70,25,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=325
 ,,,,,,,,,,3,1.07,Milwaukee Bucks,rebound,,,,,,,,,,Sanders,,,,,,,,,54-70,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=326
 ,,,,,,,,,,3,0.59,Milwaukee Bucks,shot,Sanders,,,,,,,,,Jennings,2,,,made,,Pullup Jump Shot,,,54-72,7,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=327
-,,,,,,,,,,3,0.43,Portland Trail Blazers,turnover,,,,,,,,,,Babbitt,,,Bad Pass,,,,,,54-72,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=328
+,,,,,,,,,,3,0.43,Portland Trail Blazers,turnover,,,,,,,,,,Babbitt,,,Bad Pass,,Ellis,,,,54-72,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=328
 ,,,,,,,,,,3,0.41,Milwaukee Bucks,shot,Ellis,,,,,,,,,Jennings,2,,,made,,Layup,,,54-74,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=329
 ,,,,,,,,,,3,0.27,Portland Trail Blazers,shot,Babbitt,,,,,,,,,Matthews,2,,,made,,Layup,,,56-74,2,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=330
 ,,,,,,,,,,3,0.27,Milwaukee Bucks,foul,,,,,,,,,,Udoh,,,,,,Shooting,,,56-74,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=331
@@ -313,10 +313,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.14,Milwaukee Bucks,turnover,,,,,,,,,,Udoh,,,3 Second Violation,,,,,,62-79,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=358
 ,,,,,,,,,,4,9.56,Portland Trail Blazers,shot,Matthews,,,,,,,,,Babbitt,3,,,made,,3PT Jump Shot,,,65-79,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=359
 ,,,,,,,,,,4,9.33,Milwaukee Bucks,shot,Ellis,,,,,,,,,Redick,2,,,made,,Jump Shot,,,65-81,20,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=360
-,,,,,,,,,,4,9.22,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,,,,,65-81,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=361
+,,,,,,,,,,4,9.22,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Bad Pass,,Dunleavy,,,,65-81,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=361
 ,,,,,,,,,,4,9.03,Milwaukee Bucks,shot,,,,,,,,,,Sanders,2,,,made,,Jump Shot,,,65-83,5,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=362
 ,,,,,,,,,,4,8.48,Portland Trail Blazers,shot,Batum,,,,,,,,,Aldridge,2,,,made,,Layup,,,67-83,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=363
-,,,,,,,,,,4,8.34,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,,,,,67-83,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=364
+,,,,,,,,,,4,8.34,Milwaukee Bucks,turnover,,,,,,,,,,Redick,,,Bad Pass,,Matthews,,,,67-83,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=364
 ,,,,,,,,,,4,8.34,Milwaukee Bucks,foul,,,,,,,,,,Redick,,,,,,Personal,,,67-83,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=365
 ,,,,,,,,,,4,8.34,Milwaukee Bucks,substitute,,,,Jennings,,Udoh,,,,,,,,,,,,,67-83,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=368
 ,,,,,,,,,,4,8.19,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Layup,,,69-83,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=369
@@ -333,7 +333,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.18,Portland Trail Blazers,foul,,,,,,,,,,Hickson,,,,,,Loose ball,,,70-86,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=382
 ,,,,,,,,,,4,7.05,Milwaukee Bucks,shot,,,,,,,,,,Dunleavy,,,,missed,,3PT Jump Shot,,,70-86,24,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=384
 ,,,,,,,,,,4,7.04,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,70-86,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=385
-,,,,,,,,,,4,6.57,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,70-86,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=387
+,,,,,,,,,,4,6.57,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,Ellis,,,,70-86,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=387
 ,,,,,,,,,,4,6.49,Milwaukee Bucks,shot,Redick,,,,,,,,,Ellis,3,,,made,,3PT Jump Shot,,,70-89,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=388
 ,,,,,,,,,,4,6.49,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,70-89,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=389
 ,,,,,,,,,,4,6.49,Portland Trail Blazers,substitute,,,,Babbitt,,Hickson,,,,,,,,,,,,,70-89,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=391
@@ -348,7 +348,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.03,Portland Trail Blazers,rebound,,,,,,,,,,Babbitt,,,,,,,,,78-91,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=400
 ,,,,,,,,,,4,4.56,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,81-91,24,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=401
 ,,,,,,,,,,4,4.56,Milwaukee Bucks,timeout,,,,,,,,,,,,,,,,,,,81-91,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=402
-,,,,,,,,,,4,4.45,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,,,,,81-91,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=404
+,,,,,,,,,,4,4.45,Milwaukee Bucks,turnover,,,,,,,,,,Ellis,,,Lost Ball,,Matthews,,,,81-91,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=404
 ,,,,,,,,,,4,4.40,Portland Trail Blazers,shot,,,,,,,,,,Matthews,2,,,made,,Dunk,,,83-91,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=405
 ,,,,,,,,,,4,4.13,Milwaukee Bucks,shot,Dunleavy,,,,,,,,,Jennings,3,,,made,,3PT Jump Shot,,,83-94,25,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=406
 ,,,,,,,,,,4,3.59,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Layup,,,83-94,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=407
@@ -369,9 +369,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.00,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,2,,,made,,Dunk,,,90-98,1,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=423
 ,,,,,,,,,,4,1.45,Milwaukee Bucks,shot,Redick,,,,,,,,,Dunleavy,2,,,made,,Jump Shot,,,90-100,18,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=424
 ,,,,,,,,,,4,1.33,Portland Trail Blazers,shot,Aldridge,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,93-100,26,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=425
-,,,,,,,,,,4,1.13,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=426
+,,,,,,,,,,4,1.13,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Bad Pass,,Lillard,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=426
 ,,,,,,,,,,4,1.09,Milwaukee Bucks,foul,,,,,,,,,,Ellis,,,,,,Personal,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=427
-,,,,,,,,,,4,0.56,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=428
+,,,,,,,,,,4,0.56,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,Sanders,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=428
 ,,,,,,,,,,4,0.52,Portland Trail Blazers,foul,,,,,,,,,,Lillard,,,,,,Personal Take,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=429
 ,,,,,,,,,,4,0.48,Milwaukee Bucks,foul,,,,,,,,,,,,,,,,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=430
 ,,,,,,,,,,4,0.48,Milwaukee Bucks,turnover,,,,,,,,,,Jennings,,,Foul,,,,,,93-100,,http://stats.nba.com/cvp.html?GameID=0021201005&GameEventID=431

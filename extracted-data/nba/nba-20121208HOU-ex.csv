@@ -10,12 +10,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.39,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=12
 ,,,,,,,,,,1,10.26,Houston Rockets,turnover,,,,,,,,,,Asik,,,3 Second Violation,,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=13
 ,,,,,,,,,,1,10.10,Houston Rockets,foul,,,,,,,,,,Patterson,,,,,,Personal,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=14
-,,,,,,,,,,1,10.06,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=16
-,,,,,,,,,,1,10.02,Houston Rockets,turnover,,,,,,,,,,Patterson,,,Bad Pass,,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=17
+,,,,,,,,,,1,10.06,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,Parsons,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=16
+,,,,,,,,,,1,10.02,Houston Rockets,turnover,,,,,,,,,,Patterson,,,Bad Pass,,Jones,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=17
 ,,,,,,,,,,1,9.56,Dallas Mavericks,shot,,,,,,,,,,Jones,2,,,made,,Driving Finger Roll Layup,,,6-3,3,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=18
 ,,,,,,,,,,1,9.37,Houston Rockets,shot,Parsons,,,,,,,,,Lin,3,,,made,,3PT Jump Shot,,,6-6,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=19
 ,,,,,,,,,,1,9.11,Dallas Mavericks,shot,Fisher,,,,,,,,,Wright,2,,,made,,Jump Shot,,,8-6,5,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=20
-,,,,,,,,,,1,8.59,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Driving Jump Shot,,,8-6,6,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=21
+,,,,,,,,,,1,8.59,Houston Rockets,shot,,,Wright,,,,,,,Parsons,,,,missed,,Driving Jump Shot,,,8-6,6,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=21
 ,,,,,,,,,,1,8.59,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=22
 ,,,,,,,,,,1,8.50,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Jump Shot,,,8-6,13,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=23
 ,,,,,,,,,,1,8.49,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,8-6,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=24
@@ -53,7 +53,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.39,Dallas Mavericks,shot,Fisher,,,,,,,,,Mayo,2,,,made,,Driving Layup,,,21-8,1,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=61
 ,,,,,,,,,,1,5.31,Houston Rockets,shot,,,,,,,,,,Douglas,,,,missed,,Floating Jump Shot,,,21-8,10,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=62
 ,,,,,,,,,,1,5.27,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=63
-,,,,,,,,,,1,5.25,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=90
+,,,,,,,,,,1,5.25,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,Douglas,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=90
 ,,,,,,,,,,1,5.18,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,21-8,25,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=64
 ,,,,,,,,,,1,5.17,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,21-8,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=65
 ,,,,,,,,,,1,5.11,Dallas Mavericks,shot,,,,,,,,,,Mayo,3,,,made,,3PT Pullup Jump Shot,,,24-8,24,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=66
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.12,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Personal,,,32-15,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=97
 ,,,,,,,,,,1,3.05,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Driving Layup,,,32-15,2,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=98
 ,,,,,,,,,,1,3.04,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,32-15,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=99
-,,,,,,,,,,1,2.59,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Lost Ball,,,,,,32-15,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=100
+,,,,,,,,,,1,2.59,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Lost Ball,,Harden,,,,32-15,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=100
 ,,,,,,,,,,1,2.56,Dallas Mavericks,foul,,,,,,,,,,Brand,,,,,,Shooting,,,32-15,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=101
 ,,,,,,,,,,1,2.56,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,32-15,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=103
 ,,,,,,,,,,1,2.56,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,32-16,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=106
@@ -113,7 +113,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.45,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,39-24,26,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=141
 ,,,,,,,,,,2,11.44,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=142
 ,,,,,,,,,,2,11.44,Dallas Mavericks,foul,,,,,,,,,,James,,,,,,Loose ball,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=143
-,,,,,,,,,,2,11.36,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=144
+,,,,,,,,,,2,11.36,Houston Rockets,turnover,,,,,,,,,,Douglas,,,Bad Pass,,Crowder,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=144
 ,,,,,,,,,,2,11.34,Houston Rockets,violation,,,,,,,,,,Aldrich,,,Defensive Goaltending,,,,,,39-24,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=146
 ,,,,,,,,,,2,11.34,Dallas Mavericks,shot,Crowder,,,,,,,,,Collison,2,,,made,,Layup,,,41-24,2,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=145
 ,,,,,,,,,,2,11.24,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Jump Shot,,,41-24,20,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=147
@@ -135,7 +135,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.01,Houston Rockets,free throw,,,,,,,1,,2,Parsons,1,,foul,made,,,,,43-30,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=164
 ,,,,,,,,,,2,10.01,Dallas Mavericks,substitute,,,,Fisher,,Collison,,,,,,,,,,,,,43-30,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=166
 ,,,,,,,,,,2,10.01,Houston Rockets,free throw,,,,,,,2,,2,Parsons,1,,foul,made,,,,,43-31,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=167
-,,,,,,,,,,2,9.47,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,,,,,43-31,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=169
+,,,,,,,,,,2,9.47,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,Aldrich,,,,43-31,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=169
 ,,,,,,,,,,2,9.40,Houston Rockets,shot,Douglas,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,43-34,25,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=170
 ,,,,,,,,,,2,9.39,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,43-34,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=171
 ,,,,,,,,,,2,9.39,Dallas Mavericks,substitute,,,,Mayo,,Brand,,,,,,,,,,,,,43-34,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=175
@@ -181,7 +181,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.36,Dallas Mavericks,shot,Carter,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,54-52,18,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=221
 ,,,,,,,,,,2,4.14,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,54-52,24,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=222
 ,,,,,,,,,,2,4.13,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,54-52,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=223
-,,,,,,,,,,2,4.09,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,54-52,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=224
+,,,,,,,,,,2,4.09,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Harden,,,,54-52,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=224
 ,,,,,,,,,,2,4.08,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Personal,,,54-52,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=225
 ,,,,,,,,,,2,4.08,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,54-53,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=226
 ,,,,,,,,,,2,4.08,Dallas Mavericks,substitute,,,,Brand,,Kaman,,,,,,,,,,,,,54-53,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=228
@@ -206,7 +206,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.03,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=250
 ,,,,,,,,,,2,2.40,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=251
 ,,,,,,,,,,2,2.39,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=252
-,,,,,,,,,,2,2.19,Dallas Mavericks,turnover,,,,,,,,,,Fisher,,,Bad Pass,,,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=259
+,,,,,,,,,,2,2.19,Dallas Mavericks,turnover,,,,,,,,,,Fisher,,,Bad Pass,,Parsons,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=259
 ,,,,,,,,,,2,2.10,Houston Rockets,shot,Harden,,,,,,,,,Parsons,2,,,made,,Driving Reverse Layup,,,54-58,2,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=260
 ,,,,,,,,,,2,1.58,Houston Rockets,foul,,,,,,,,,,Douglas,,,,,,Personal,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=261
 ,,,,,,,,,,2,1.46,Dallas Mavericks,shot,,,,,,,,,,Mayo,3,,,made,,3PT Fadeaway Jumper,,,57-58,26,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=262
@@ -225,7 +225,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.08,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=280
 ,,,,,,,,,,2,0.05,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,Layup,,,62-64,5,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=281
 ,,,,,,,,,,2,0.04,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=282
-,,,,,,,,,,2,0.02,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=283
+,,,,,,,,,,2,0.02,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,Collison,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=283
 ,,,,,,,,,,2,0.02,Houston Rockets,foul,,,,,,,,,,Harden,,,,,,Personal,,,62-64,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=284
 ,,,,,,,,,,2,0.02,Dallas Mavericks,free throw,,,,,,,1,,2,Crowder,,,foul,missed,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=285
 ,,,,,,,,,,2,0.02,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,62-64,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=286
@@ -257,7 +257,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.25,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=318
 ,,,,,,,,,,3,9.25,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=319
 ,,,,,,,,,,3,9.16,Houston Rockets,turnover,,,,,,,,,,Lin,,,Discontinue Dribble,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=320
-,,,,,,,,,,3,9.04,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=321
+,,,,,,,,,,3,9.04,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,Lin,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=321
 ,,,,,,,,,,3,8.54,Houston Rockets,shot,Patterson,,,,,,,,,Lin,3,,,made,,3PT Jump Shot,,,67-74,24,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=322
 ,,,,,,,,,,3,8.37,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,67-74,16,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=323
 ,,,,,,,,,,3,8.36,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=324
@@ -269,14 +269,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.44,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Step Back Jump Shot,,,69-76,21,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=333
 ,,,,,,,,,,3,7.42,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,69-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=334
 ,,,,,,,,,,3,7.40,Dallas Mavericks,shot,,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,71-76,3,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=335
-,,,,,,,,,,3,7.26,Houston Rockets,turnover,,,,,,,,,,Patterson,,,Bad Pass,,,,,,71-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=336
+,,,,,,,,,,3,7.26,Houston Rockets,turnover,,,,,,,,,,Patterson,,,Bad Pass,,Mayo,,,,71-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=336
 ,,,,,,,,,,3,7.22,Dallas Mavericks,shot,Mayo,,,,,,,,,Jones,2,,,made,,Running Slam Dunk,,,73-76,1,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=337
 ,,,,,,,,,,3,7.07,Houston Rockets,turnover,,,,,,,,,,Asik Out of Bounds,,,Lost Ball,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=338
-,,,,,,,,,,3,6.55,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Layup,,,73-76,4,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=339
+,,,,,,,,,,3,6.55,Dallas Mavericks,shot,,,Harden,,,,,,,Kaman,,,,missed,,Layup,,,73-76,4,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=339
 ,,,,,,,,,,3,6.54,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=346
 ,,,,,,,,,,3,6.53,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Layup,,,73-76,4,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=347
 ,,,,,,,,,,3,6.51,Houston Rockets,rebound,,,,,,,,,,Patterson,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=340
-,,,,,,,,,,3,6.43,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=341
+,,,,,,,,,,3,6.43,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Mayo,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=341
 ,,,,,,,,,,3,6.38,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,73-76,24,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=342
 ,,,,,,,,,,3,6.36,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=343
 ,,,,,,,,,,3,6.31,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=344
@@ -316,7 +316,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.43,Dallas Mavericks,substitute,,,,James,,Wright,,,,,,,,,,,,,77-82,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=382
 ,,,,,,,,,,3,2.43,Dallas Mavericks,substitute,,,,Jones,,Brand,,,,,,,,,,,,,77-82,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=383
 ,,,,,,,,,,3,2.43,Houston Rockets,substitute,,,,Harden,,Parsons,,,,,,,,,,,,,77-82,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=384
-,,,,,,,,,,3,2.21,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,,,,,77-82,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=385
+,,,,,,,,,,3,2.21,Houston Rockets,turnover,,,,,,,,,,Harden,,,Lost Ball,,Crowder,,,,77-82,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=385
 ,,,,,,,,,,3,2.18,Houston Rockets,foul,,,,,,,,,,Douglas,,,,,,Shooting,,,77-82,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=386
 ,,,,,,,,,,3,2.18,Dallas Mavericks,free throw,,,,,,,1,,2,Collison,1,,foul,made,,,,,78-82,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=387
 ,,,,,,,,,,3,2.18,Dallas Mavericks,free throw,,,,,,,2,,2,Collison,1,,foul,made,,,,,79-82,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=389
@@ -325,7 +325,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.47,Dallas Mavericks,foul,,,,,,,,,,Crowder,,,,,,Shooting,,,79-82,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=395
 ,,,,,,,,,,3,1.47,Houston Rockets,free throw,,,,,,,1,,2,Douglas,1,,foul,made,,,,,79-83,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=396
 ,,,,,,,,,,3,1.47,Houston Rockets,free throw,,,,,,,2,,2,Douglas,1,,foul,made,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=398
-,,,,,,,,,,3,1.35,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=400
+,,,,,,,,,,3,1.35,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,Lin,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=400
 ,,,,,,,,,,3,1.29,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Personal,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=401
 ,,,,,,,,,,3,1.29,Houston Rockets,free throw,,,,,,,1,,2,Harden,,,foul,missed,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=402
 ,,,,,,,,,,3,1.29,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=403
@@ -350,7 +350,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.15,Dallas Mavericks,shot,Jones,,,,,,,,,Crowder,3,,,made,,3PT Jump Shot,,,84-89,25,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=426
 ,,,,,,,,,,3,0.00,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,3PT Jump Shot,,,84-89,24,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=427
 ,,,,,,,,,,3,0.00,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,84-89,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=428
-,,,,,,,,,,4,11.44,Dallas Mavericks,shot,,,,,,,,,,James,,,,missed,,Layup,,,84-89,4,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=432
+,,,,,,,,,,4,11.44,Dallas Mavericks,shot,,,Aldrich,,,,,,,James,,,,missed,,Layup,,,84-89,4,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=432
 ,,,,,,,,,,4,11.42,Houston Rockets,rebound,,,,,,,,,,Aldrich,,,,,,,,,84-89,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=433
 ,,,,,,,,,,4,11.24,Dallas Mavericks,foul,,,,,,,,,,James,,,,,,Shooting,,,84-89,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=435
 ,,,,,,,,,,4,11.24,Houston Rockets,free throw,,,,,,,1,,2,Parsons,1,,foul,made,,,,,84-90,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=436
@@ -363,7 +363,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.52,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=445
 ,,,,,,,,,,4,10.52,Dallas Mavericks,free throw,,,,,,,2,,2,Crowder,,,foul,missed,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=446
 ,,,,,,,,,,4,10.51,Dallas Mavericks,rebound,,,,,,,,,,James,,,,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=448
-,,,,,,,,,,4,10.41,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,Driving Layup,,,84-91,4,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=449
+,,,,,,,,,,4,10.41,Dallas Mavericks,shot,,,Aldrich,,,,,,,Crowder,,,,missed,,Driving Layup,,,84-91,4,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=449
 ,,,,,,,,,,4,10.40,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=450
 ,,,,,,,,,,4,10.27,Houston Rockets,shot,,,,,,,,,,Douglas,,,,missed,,3PT Jump Shot,,,84-91,24,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=451
 ,,,,,,,,,,4,10.26,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,84-91,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=452
@@ -379,7 +379,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.41,Dallas Mavericks,substitute,,,,Wright,,James,,,,,,,,,,,,,85-93,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=464
 ,,,,,,,,,,4,9.25,Houston Rockets,shot,Harden,,,,,,,,,Parsons,3,,,made,,3PT Jump Shot,,,85-96,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=465
 ,,,,,,,,,,4,9.09,Dallas Mavericks,shot,Collison,,,,,,,,,Wright,2,,,made,,Hook Shot,,,87-96,7,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=466
-,,,,,,,,,,4,8.56,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,87-96,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=467
+,,,,,,,,,,4,8.56,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Collison,,,,87-96,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=467
 ,,,,,,,,,,4,8.52,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Driving Layup,,,87-96,3,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=468
 ,,,,,,,,,,4,8.51,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,87-96,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=470
 ,,,,,,,,,,4,8.51,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Tip Shot,,,87-96,1,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=469
@@ -450,12 +450,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.14,Houston Rockets,free throw,,,,,,,1,,1,Harden,1,,foul,made,,,,,107-104,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=555
 ,,,,,,,,,,4,1.50,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Floating Jump Shot,,,107-104,12,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=557
 ,,,,,,,,,,4,1.48,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,107-104,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=558
-,,,,,,,,,,4,1.37,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,Layup,,,107-104,3,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=559
+,,,,,,,,,,4,1.37,Houston Rockets,shot,,,Wright,,,,,,,Parsons,,,,missed,,Layup,,,107-104,3,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=559
 ,,,,,,,,,,4,1.35,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,107-104,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=560
 ,,,,,,,,,,4,1.17,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Pullup Jump Shot,,,109-104,19,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=561
 ,,,,,,,,,,4,1.01,Houston Rockets,shot,Harden,,,,,,,,,Douglas,3,,,made,,3PT Jump Shot,,,109-107,25,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=562
 ,,,,,,,,,,4,0.56,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,109-107,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=563
-,,,,,,,,,,4,0.40,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Reverse Layup,,,109-107,3,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=567
+,,,,,,,,,,4,0.40,Dallas Mavericks,shot,,,Patterson,,,,,,,Collison,,,,missed,,Reverse Layup,,,109-107,3,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=567
 ,,,,,,,,,,4,0.40,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,109-107,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=568
 ,,,,,,,,,,4,0.38,Dallas Mavericks,shot,Fisher,,,,,,,,,Mayo,3,,,made,,3PT Jump Shot,,,112-107,25,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=569
 ,,,,,,,,,,4,0.38,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,112-107,,http://stats.nba.com/cvp.html?GameID=0021200290&GameEventID=570

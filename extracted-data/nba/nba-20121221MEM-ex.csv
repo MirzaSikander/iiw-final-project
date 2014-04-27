@@ -6,7 +6,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.49,Memphis Grizzlies,rebound,,,,,,,,,,Gay,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=7
 ,,,,,,,,,,1,10.27,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,3PT Jump Shot,,,0-2,26,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=8
 ,,,,,,,,,,1,10.25,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=9
-,,,,,,,,,,1,10.17,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=10
+,,,,,,,,,,1,10.17,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,Gay,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=10
 ,,,,,,,,,,1,10.16,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Shooting,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=11
 ,,,,,,,,,,1,10.16,Memphis Grizzlies,free throw,,,,,,,1,,2,Gay,1,,foul,made,,,,,0-3,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=12
 ,,,,,,,,,,1,10.16,Memphis Grizzlies,free throw,,,,,,,2,,2,Gay,1,,foul,made,,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=14
@@ -20,16 +20,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.36,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=24
 ,,,,,,,,,,1,9.32,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Reverse Layup,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=25
 ,,,,,,,,,,1,9.28,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=26
-,,,,,,,,,,1,9.19,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Running Jump Shot,,,0-6,15,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=29
+,,,,,,,,,,1,9.19,Dallas Mavericks,shot,,,Gasol,,,,,,,Marion,,,,missed,,Running Jump Shot,,,0-6,15,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=29
 ,,,,,,,,,,1,9.18,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,0-6,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=30
 ,,,,,,,,,,1,9.10,Dallas Mavericks,shot,Jones,,,,,,,,,Marion,2,,,made,,Jump Shot,,,2-6,7,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=31
 ,,,,,,,,,,1,8.46,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,3PT Jump Shot,,,2-6,26,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=32
 ,,,,,,,,,,1,8.45,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,2-6,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=33
 ,,,,,,,,,,1,8.28,Memphis Grizzlies,shot,,,,,,,,,,Gay,2,,,made,,Layup,,,2-8,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=34
-,,,,,,,,,,1,8.17,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=35
+,,,,,,,,,,1,8.17,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Conley,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=35
 ,,,,,,,,,,1,8.11,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,2-8,18,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=36
 ,,,,,,,,,,1,8.08,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=37
-,,,,,,,,,,1,8.00,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=38
+,,,,,,,,,,1,8.00,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Bad Pass,,Gasol,,,,2-8,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=38
 ,,,,,,,,,,1,7.54,Memphis Grizzlies,shot,Conley,,,,,,,,,Gay,2,,,made,,Alley Oop Dunk,,,2-10,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=39
 ,,,,,,,,,,1,7.35,Dallas Mavericks,shot,Jones,,,,,,,,,Kaman,2,,,made,,Layup,,,4-10,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=40
 ,,,,,,,,,,1,7.10,Memphis Grizzlies,shot,Randolph,,,,,,,,,Allen,2,,,made,,Layup,,,4-12,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=41
@@ -41,22 +41,22 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.36,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,4-14,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=47
 ,,,,,,,,,,1,6.36,Dallas Mavericks,substitute,,,,Wright,,Jones,,,,,,,,,,,,,4-14,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=50
 ,,,,,,,,,,1,6.36,Dallas Mavericks,substitute,,,,Carter,,Kaman,,,,,,,,,,,,,4-14,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=51
-,,,,,,,,,,1,6.14,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,4-14,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=52
+,,,,,,,,,,1,6.14,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Gay,,,,4-14,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=52
 ,,,,,,,,,,1,6.11,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Shooting,,,4-14,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=53
 ,,,,,,,,,,1,6.11,Dallas Mavericks,substitute,,,,Jones,,Collison,,,,,,,,,,,,,4-14,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=54
 ,,,,,,,,,,1,6.11,Memphis Grizzlies,free throw,,,,,,,1,,2,Gay,1,,foul,made,,,,,4-15,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=55
 ,,,,,,,,,,1,6.11,Memphis Grizzlies,free throw,,,,,,,2,,2,Gay,1,,foul,made,,,,,4-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=57
 ,,,,,,,,,,1,5.59,Dallas Mavericks,shot,Mayo,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,7-16,25,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=59
-,,,,,,,,,,1,5.33,Memphis Grizzlies,shot,,,,,,,,,,Gasol,,,,missed,,Jump Shot,,,7-16,4,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=60
+,,,,,,,,,,1,5.33,Memphis Grizzlies,shot,,,Wright,,,,,,,Gasol,,,,missed,,Jump Shot,,,7-16,4,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=60
 ,,,,,,,,,,1,5.32,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,7-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=61
 ,,,,,,,,,,1,5.32,Memphis Grizzlies,turnover,,,,,,,,,,,,,Shot Clock,,,,,,7-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=62
 ,,,,,,,,,,1,5.20,Dallas Mavericks,shot,,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,10-16,26,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=63
-,,,,,,,,,,1,4.58,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,10-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=64
+,,,,,,,,,,1,4.58,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,Carter,,,,10-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=64
 ,,,,,,,,,,1,4.53,Dallas Mavericks,shot,Jones,,,,,,,,,Marion,2,,,made,,Slam Dunk,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=65
 ,,,,,,,,,,1,4.50,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=66
 ,,,,,,,,,,1,4.50,Dallas Mavericks,substitute,,,,Crowder,,Marion,,,,,,,,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=68
 ,,,,,,,,,,1,4.39,Memphis Grizzlies,turnover,,,,,,,,,,Randolph Poss,,,Lost Ball,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=70
-,,,,,,,,,,1,4.28,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=71
+,,,,,,,,,,1,4.28,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,Conley,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=71
 ,,,,,,,,,,1,4.23,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Jump Shot,,,12-16,6,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=72
 ,,,,,,,,,,1,4.21,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=74
 ,,,,,,,,,,1,4.21,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Tip Shot,,,12-16,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=73
@@ -89,13 +89,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.58,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,14-21,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=103
 ,,,,,,,,,,1,1.56,Dallas Mavericks,foul,,,,,,,,,,Crowder,,,,,,Loose ball,,,14-21,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=104
 ,,,,,,,,,,1,1.45,Memphis Grizzlies,shot,Gasol,,,,,,,,,Arthur,2,,,made,,Jump Shot,,,14-23,20,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=105
-,,,,,,,,,,1,1.24,Dallas Mavericks,turnover,,,,,,,,,,Mayo Poss,,,Lost Ball,,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=136
+,,,,,,,,,,1,1.24,Dallas Mavericks,turnover,,,,,,,,,,Mayo Poss,,,Lost Ball,,Gay,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=136
 ,,,,,,,,,,1,1.21,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Layup,,,14-23,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=108
 ,,,,,,,,,,1,1.17,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,14-23,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=110
 ,,,,,,,,,,1,1.17,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Jump Shot,,,14-25,5,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=109
 ,,,,,,,,,,1,1.07,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,Layup,,,14-25,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=111
 ,,,,,,,,,,1,1.05,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,14-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=112
-,,,,,,,,,,1,1.03,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Bad Pass,,,,,,14-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=113
+,,,,,,,,,,1,1.03,Dallas Mavericks,turnover,,,,,,,,,,Crowder,,,Bad Pass,,Conley,,,,14-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=113
 ,,,,,,,,,,1,1.01,Memphis Grizzlies,turnover,,,,,,,,,,Allen Poss,,,Lost Ball,,,,,,14-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=114
 ,,,,,,,,,,1,1.01,Memphis Grizzlies,substitute,,,,Bayless,,Conley,,,,,,,,,,,,,14-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=115
 ,,,,,,,,,,1,1.01,Memphis Grizzlies,substitute,,,,Pondexter,,Gay,,,,,,,,,,,,,14-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=116
@@ -117,9 +117,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.29,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=139
 ,,,,,,,,,,2,11.15,Memphis Grizzlies,turnover,,,,,,,,,,Ellington,,,Backcourt,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=140
 ,,,,,,,,,,2,11.15,Dallas Mavericks,substitute,,,,Marion,,Wright,,,,,,,,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=141
-,,,,,,,,,,2,11.01,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,17-25,4,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=143
+,,,,,,,,,,2,11.01,Dallas Mavericks,shot,,,Gasol,,,,,,,Jones,,,,missed,,Jump Shot,,,17-25,4,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=143
 ,,,,,,,,,,2,11.00,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=145
-,,,,,,,,,,2,11.00,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Layup,,,17-25,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=144
+,,,,,,,,,,2,11.00,Dallas Mavericks,shot,,,Gasol,,,,,,,Kaman,,,,missed,,Layup,,,17-25,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=144
 ,,,,,,,,,,2,11.00,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=146
 ,,,,,,,,,,2,10.54,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,17-25,26,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=147
 ,,,,,,,,,,2,10.52,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=148
@@ -128,7 +128,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.27,Memphis Grizzlies,foul,,,,,,,,,,Gasol,,,,,,Personal,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=151
 ,,,,,,,,,,2,10.14,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Turnaround Bank Shot,,,17-25,7,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=152
 ,,,,,,,,,,2,10.11,Memphis Grizzlies,rebound,,,,,,,,,,Bayless,,,,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=153
-,,,,,,,,,,2,10.01,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Bad Pass,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=154
+,,,,,,,,,,2,10.01,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Bad Pass,,Carter,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=154
 ,,,,,,,,,,2,9.55,Dallas Mavericks,shot,,,,,,,,,,Crowder,,,,missed,,Layup,,,17-25,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=155
 ,,,,,,,,,,2,9.54,Memphis Grizzlies,rebound,,,,,,,,,,Arthur,,,,,,,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=156
 ,,,,,,,,,,2,9.54,Dallas Mavericks,foul,,,,,,,,,,Crowder,,,,,,Personal,,,17-25,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=157
@@ -141,7 +141,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.05,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=164
 ,,,,,,,,,,2,8.56,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Running Layup,,,17-27,3,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=165
 ,,,,,,,,,,2,8.53,Memphis Grizzlies,rebound,,,,,,,,,,Arthur,,,,,,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=166
-,,,,,,,,,,2,8.52,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Layup,,,17-27,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=167
+,,,,,,,,,,2,8.52,Memphis Grizzlies,shot,,,Marion,,,,,,,Pondexter,,,,missed,,Layup,,,17-27,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=167
 ,,,,,,,,,,2,8.52,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=168
 ,,,,,,,,,,2,8.52,Memphis Grizzlies,foul,,,,,,,,,,Pondexter,,,,,,Technical,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=169
 ,,,,,,,,,,2,8.52,Dallas Mavericks,substitute,,,,Jones,,Carter,,,,,,,,,,,,,17-27,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=171
@@ -163,15 +163,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.35,Dallas Mavericks,shot,Collison,,,,,,,,,Jones,3,,,made,,3PT Jump Shot,,,25-31,25,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=189
 ,,,,,,,,,,2,6.19,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,25-31,21,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=190
 ,,,,,,,,,,2,6.17,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=191
-,,,,,,,,,,2,6.07,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=192
+,,,,,,,,,,2,6.07,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Pondexter,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=192
 ,,,,,,,,,,2,5.59,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,3PT Jump Shot,,,25-31,25,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=193
 ,,,,,,,,,,2,5.57,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=194
 ,,,,,,,,,,2,5.45,Memphis Grizzlies,turnover,,,,,,,,,,Pondexter,,,Step Out of Bounds,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=195
 ,,,,,,,,,,2,5.45,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=196
 ,,,,,,,,,,2,5.45,Memphis Grizzlies,substitute,,,,Conley,,Bayless,,,,,,,,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=198
-,,,,,,,,,,2,5.31,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=200
+,,,,,,,,,,2,5.31,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Conley,,,,25-31,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=200
 ,,,,,,,,,,2,5.26,Memphis Grizzlies,shot,Conley,,,,,,,,,Pondexter,2,,,made,,Slam Dunk,,,25-33,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=201
-,,,,,,,,,,2,5.12,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Lost Ball,,,,,,25-33,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=202
+,,,,,,,,,,2,5.12,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Lost Ball,,Arthur,,,,25-33,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=202
 ,,,,,,,,,,2,5.08,Memphis Grizzlies,shot,Conley,,,,,,,,,Gay,2,,,made,,Slam Dunk,,,25-35,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=203
 ,,,,,,,,,,2,5.07,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,25-35,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=204
 ,,,,,,,,,,2,5.07,Dallas Mavericks,substitute,,,,Mayo,,Kaman,,,,,,,,,,,,,25-35,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=206
@@ -209,7 +209,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.34,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,3PT Jump Shot,,,32-38,26,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=241
 ,,,,,,,,,,2,1.33,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,32-38,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=242
 ,,,,,,,,,,2,1.23,Dallas Mavericks,shot,Jones,,,,,,,,,Wright,2,,,made,,Layup,,,34-38,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=243
-,,,,,,,,,,2,1.06,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Layup,,,34-38,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=244
+,,,,,,,,,,2,1.06,Memphis Grizzlies,shot,,,Wright,,,,,,,Conley,,,,missed,,Layup,,,34-38,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=244
 ,,,,,,,,,,2,1.03,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,34-38,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=245
 ,,,,,,,,,,2,0.55,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Layup,,,34-38,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=246
 ,,,,,,,,,,2,0.54,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,34-38,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=247
@@ -257,23 +257,23 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.09,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,49-54,12,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=302
 ,,,,,,,,,,3,8.08,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=303
 ,,,,,,,,,,3,7.48,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Personal,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=304
-,,,,,,,,,,3,7.35,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Layup,,,49-54,3,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=305
+,,,,,,,,,,3,7.35,Memphis Grizzlies,shot,,,Marion,,,,,,,Allen,,,,missed,,Layup,,,49-54,3,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=305
 ,,,,,,,,,,3,7.33,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=306
 ,,,,,,,,,,3,7.30,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=307
 ,,,,,,,,,,3,7.12,Memphis Grizzlies,foul,,,,,,,,,,Gasol,,,,,,Offensive Charge,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=308
 ,,,,,,,,,,3,7.12,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Foul,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=309
 ,,,,,,,,,,3,7.12,Memphis Grizzlies,substitute,,,,Speights,,Gasol,,,,,,,,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=310
-,,,,,,,,,,3,6.55,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=311
+,,,,,,,,,,3,6.55,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,Allen,,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=311
 ,,,,,,,,,,3,6.52,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Shooting,,,49-54,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=312
 ,,,,,,,,,,3,6.52,Memphis Grizzlies,free throw,,,,,,,1,,2,Gay,1,,foul,made,,,,,49-55,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=313
 ,,,,,,,,,,3,6.52,Memphis Grizzlies,free throw,,,,,,,2,,2,Gay,1,,foul,made,,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=315
 ,,,,,,,,,,3,6.38,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Running Jump Shot,,,49-56,11,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=317
 ,,,,,,,,,,3,6.35,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=318
-,,,,,,,,,,3,6.19,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=319
+,,,,,,,,,,3,6.19,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Bad Pass,,Jones,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=319
 ,,,,,,,,,,3,6.19,Memphis Grizzlies,foul,,,,,,,,,,Allen,,,,,,Personal Take,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=321
 ,,,,,,,,,,3,6.19,Dallas Mavericks,substitute,,,,Wright,,Kaman,,,,,,,,,,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=322
 ,,,,,,,,,,3,6.19,Dallas Mavericks,substitute,,,,Carter,,Jones,,,,,,,,,,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=323
-,,,,,,,,,,3,6.08,Dallas Mavericks,turnover,,,,,,,,,,Wright,,,Bad Pass,,,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=325
+,,,,,,,,,,3,6.08,Dallas Mavericks,turnover,,,,,,,,,,Wright,,,Bad Pass,,Allen,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=325
 ,,,,,,,,,,3,6.02,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Shooting,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=326
 ,,,,,,,,,,3,6.02,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,49-56,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=327
 ,,,,,,,,,,3,6.02,Memphis Grizzlies,free throw,,,,,,,1,,2,Conley,1,,foul,made,,,,,49-57,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=331
@@ -281,7 +281,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.40,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Running Bank Shot,,,49-58,15,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=335
 ,,,,,,,,,,3,5.37,Memphis Grizzlies,rebound,,,,,,,,,,Gay,,,,,,,,,49-58,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=336
 ,,,,,,,,,,3,5.17,Memphis Grizzlies,shot,,,,,,,,,,Gay,3,,,made,,3PT Jump Shot,,,49-61,25,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=337
-,,,,,,,,,,3,5.07,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,,,,,49-61,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=338
+,,,,,,,,,,3,5.07,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,Allen,,,,49-61,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=338
 ,,,,,,,,,,3,5.03,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Layup,,,49-63,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=339
 ,,,,,,,,,,3,4.54,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Jump Shot,,,49-63,21,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=340
 ,,,,,,,,,,3,4.51,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,49-63,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=341
@@ -324,7 +324,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.38,Dallas Mavericks,shot,Jones,,,,,,,,,Carter,3,,,made,,3PT Jump Shot,,,55-69,25,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=384
 ,,,,,,,,,,3,0.27,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Layup,,,55-69,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=385
 ,,,,,,,,,,3,0.25,Memphis Grizzlies,rebound,,,,,,,,,,Arthur,,,,,,,,,55-69,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=386
-,,,,,,,,,,3,0.23,Memphis Grizzlies,turnover,,,,,,,,,,Arthur,,,Lost Ball,,,,,,55-69,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=387
+,,,,,,,,,,3,0.23,Memphis Grizzlies,turnover,,,,,,,,,,Arthur,,,Lost Ball,,Crowder,,,,55-69,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=387
 ,,,,,,,,,,3,0.05,Dallas Mavericks,shot,Beaubois,,,,,,,,,Wright,2,,,made,,Jump Shot,,,57-69,13,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=388
 ,,,,,,,,,,3,0.00,Memphis Grizzlies,shot,,,,,,,,,,Speights,,,,missed,,3PT Jump Shot,,,57-69,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=389
 ,,,,,,,,,,3,0.00,Dallas Mavericks,rebound,,,,,,,,,,Crowder,,,,,,,,,57-69,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=390
@@ -371,7 +371,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.52,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,71-76,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=442
 ,,,,,,,,,,4,6.33,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,71-76,26,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=443
 ,,,,,,,,,,4,6.31,Memphis Grizzlies,rebound,,,,,,,,,,Gay,,,,,,,,,71-76,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=444
-,,,,,,,,,,4,6.22,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,71-76,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=445
+,,,,,,,,,,4,6.22,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,Carter,,,,71-76,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=445
 ,,,,,,,,,,4,6.15,Dallas Mavericks,shot,Jones,,,,,,,,,Marion,2,,,made,,Layup,,,73-76,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=446
 ,,,,,,,,,,4,6.15,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=447
 ,,,,,,,,,,4,6.15,Memphis Grizzlies,substitute,,,,Allen,,Arthur,,,,,,,,,,,,,73-76,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=450
@@ -392,13 +392,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.02,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,73-81,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=467
 ,,,,,,,,,,4,5.02,Memphis Grizzlies,free throw,,,,,,,1,,1,Randolph,1,,foul,made,,,,,73-82,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=470
 ,,,,,,,,,,4,4.57,Memphis Grizzlies,foul,,,,,,,,,,Conley,,,,,,Personal,,,73-82,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=472
-,,,,,,,,,,4,4.42,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,,,,,73-82,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=473
+,,,,,,,,,,4,4.42,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,Randolph,,,,73-82,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=473
 ,,,,,,,,,,4,4.37,Memphis Grizzlies,shot,Conley,,,,,,,,,Gay,2,,,made,,Slam Dunk,,,73-84,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=474
 ,,,,,,,,,,4,4.22,Dallas Mavericks,shot,Mayo,,,,,,,,,Wright,2,,,made,,Reverse Layup,,,75-84,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=475
-,,,,,,,,,,4,3.55,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Layup,,,75-84,3,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=476
+,,,,,,,,,,4,3.55,Memphis Grizzlies,shot,,,Mayo,,,,,,,Gay,,,,missed,,Layup,,,75-84,3,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=476
 ,,,,,,,,,,4,3.55,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=478
 ,,,,,,,,,,4,3.55,Memphis Grizzlies,jumpball,,Mayo,,,Gay,,,,,,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=477
-,,,,,,,,,,4,3.40,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,75-84,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=479
+,,,,,,,,,,4,3.40,Memphis Grizzlies,shot,,,Marion,,,,,,,Randolph,,,,missed,,Layup,,,75-84,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=479
 ,,,,,,,,,,4,3.39,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=481
 ,,,,,,,,,,4,3.39,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,75-84,1,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=480
 ,,,,,,,,,,4,3.39,Dallas Mavericks,rebound,,,,,,,,,,Wright,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=482
@@ -406,12 +406,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.22,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,75-84,18,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=485
 ,,,,,,,,,,4,3.20,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,75-84,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=486
 ,,,,,,,,,,4,3.11,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Running Jump Shot,,,77-84,8,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=487
-,,,,,,,,,,4,2.46,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=488
+,,,,,,,,,,4,2.46,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,Mayo,,,,77-84,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=488
 ,,,,,,,,,,4,2.40,Dallas Mavericks,shot,Jones,,,,,,,,,Marion,2,,,made,,Layup,,,79-84,2,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=489
 ,,,,,,,,,,4,2.40,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=490
 ,,,,,,,,,,4,2.40,Dallas Mavericks,substitute,,,,Jones,,Wright,,,,,,,,,,,,,79-84,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=492
 ,,,,,,,,,,4,2.24,Memphis Grizzlies,shot,,,,,,,,,,Allen,2,,,made,,Jump Shot,,,79-86,21,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=493
-,,,,,,,,,,4,2.04,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=494
+,,,,,,,,,,4,2.04,Dallas Mavericks,turnover,,,,,,,,,,Jones,,,Bad Pass,,Gay,,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=494
 ,,,,,,,,,,4,1.58,Dallas Mavericks,foul,,,,,,,,,,Carter,,,,,,Shooting,,,79-86,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=495
 ,,,,,,,,,,4,1.58,Memphis Grizzlies,free throw,,,,,,,1,,2,Conley,1,,foul,made,,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=496
 ,,,,,,,,,,4,1.58,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,79-87,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=498
@@ -428,7 +428,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.41,Memphis Grizzlies,substitute,,,,Pondexter,,Randolph,,,,,,,,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=513
 ,,,,,,,,,,4,0.34,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,82-90,26,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=515
 ,,,,,,,,,,4,0.33,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=516
-,,,,,,,,,,4,0.29,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Lost Ball,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=517
+,,,,,,,,,,4,0.29,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Lost Ball,,Jones,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=517
 ,,,,,,,,,,4,0.19,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,82-90,25,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=518
 ,,,,,,,,,,4,0.18,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=519
 ,,,,,,,,,,4,0.18,Dallas Mavericks,foul,,,,,,,,,,Carter,,,,,,Personal,,,82-90,,http://stats.nba.com/cvp.html?GameID=0021200386&GameEventID=520

@@ -1,7 +1,7 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.43,New York Knicks,shot,Thomas,,,,,,,,,Shumpert,2,,,made,,Driving Layup,,,2-0,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=2
 ,,,,,,,,,,1,11.30,Portland Trail Blazers,shot,Batum,,,,,,,,,Hickson,2,,,made,,Alley Oop Dunk,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=3
-,,,,,,,,,,1,11.10,New York Knicks,shot,,,,,,,,,,Copeland,,,,missed,,Layup,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=4
+,,,,,,,,,,1,11.10,New York Knicks,shot,,,Batum,,,,,,,Copeland,,,,missed,,Layup,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=4
 ,,,,,,,,,,1,11.08,New York Knicks,rebound,,,,,,,,,,Thomas,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=5
 ,,,,,,,,,,1,11.06,New York Knicks,shot,Thomas,,,,,,,,,Martin,2,,,made,,Jump Shot,,,4-2,18,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=6
 ,,,,,,,,,,1,10.58,Portland Trail Blazers,shot,,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,4-5,26,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=7
@@ -18,7 +18,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.13,New York Knicks,free throw,,,,,,,1,,2,Copeland,,,foul,missed,,,,,9-7,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=19
 ,,,,,,,,,,1,9.13,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,9-7,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=20
 ,,,,,,,,,,1,9.13,New York Knicks,free throw,,,,,,,2,,2,Copeland,1,,foul,made,,,,,10-7,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=21
-,,,,,,,,,,1,8.56,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,10-7,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=23
+,,,,,,,,,,1,8.56,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Felton,,,,10-7,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=23
 ,,,,,,,,,,1,8.37,New York Knicks,shot,,,,,,,,,,Copeland,2,,,made,,Step Back Jump Shot,,,12-7,18,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=24
 ,,,,,,,,,,1,8.22,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,3PT Jump Shot,,,12-7,26,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=25
 ,,,,,,,,,,1,8.19,New York Knicks,rebound,,,,,,,,,,Felton,,,,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=26
@@ -103,7 +103,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.36,Portland Trail Blazers,substitute,,,,Hickson,,Batum,,,,,,,,,,,,,34-26,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=118
 ,,,,,,,,,,2,10.18,Portland Trail Blazers,shot,,,,,,,,,,Barton,,,,missed,,3PT Jump Shot,,,34-26,26,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=119
 ,,,,,,,,,,2,10.17,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,34-26,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=120
-,,,,,,,,,,2,10.13,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Lost Ball,,,,,,34-26,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=121
+,,,,,,,,,,2,10.13,Portland Trail Blazers,turnover,,,,,,,,,,Maynor,,,Lost Ball,,Prigioni,,,,34-26,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=121
 ,,,,,,,,,,2,10.09,New York Knicks,shot,,,,,,,,,,Prigioni,2,,,made,,Layup,,,36-26,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=122
 ,,,,,,,,,,2,9.54,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,Jump Shot,,,36-26,21,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=123
 ,,,,,,,,,,2,9.53,New York Knicks,rebound,,,,,,,,,,Camby,,,,,,,,,36-26,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=124
@@ -122,7 +122,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.38,Portland Trail Blazers,free throw,,,,,,,1,,2,Matthews,1,,foul,made,,,,,41-29,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=137
 ,,,,,,,,,,2,7.38,New York Knicks,substitute,,,,Thomas,,Novak,,,,,,,,,,,,,41-29,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=139
 ,,,,,,,,,,2,7.38,Portland Trail Blazers,free throw,,,,,,,2,,2,Matthews,1,,foul,made,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=140
-,,,,,,,,,,2,7.35,New York Knicks,turnover,,,,,,,,,,Kidd,,,Lost Ball,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=142
+,,,,,,,,,,2,7.35,New York Knicks,turnover,,,,,,,,,,Kidd,,,Lost Ball,,Maynor,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=142
 ,,,,,,,,,,2,7.35,Portland Trail Blazers,foul,,,,,,,,,,,,,,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=143
 ,,,,,,,,,,2,7.35,Portland Trail Blazers,turnover,,,,,,,,,,Barton,,,Foul,,,,,,41-30,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=144
 ,,,,,,,,,,2,7.25,New York Knicks,shot,,,,,,,,,,Prigioni,,,,missed,,Layup,,,41-30,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=145
@@ -149,10 +149,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.12,New York Knicks,turnover,,,,,,,,,,Smith,,,Foul,,,,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=173
 ,,,,,,,,,,2,4.12,New York Knicks,substitute,,,,Shumpert,,Smith,,,,,,,,,,,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=174
 ,,,,,,,,,,2,4.12,Portland Trail Blazers,substitute,,,,Batum,,Barton,,,,,,,,,,,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=175
-,,,,,,,,,,2,3.57,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=176
+,,,,,,,,,,2,3.57,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,Martin,,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=176
 ,,,,,,,,,,2,3.43,New York Knicks,shot,Kidd,,,,,,,,,Martin,2,,,made,,Dunk,,,48-38,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=177
 ,,,,,,,,,,2,3.42,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,48-38,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=178
-,,,,,,,,,,2,3.24,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Jump Shot,,,48-38,8,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=180
+,,,,,,,,,,2,3.24,Portland Trail Blazers,shot,,,Martin,,,,,,,Hickson,,,,missed,,Jump Shot,,,48-38,8,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=180
 ,,,,,,,,,,2,3.20,New York Knicks,rebound,,,,,,,,,,Shumpert,,,,,,,,,48-38,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=181
 ,,,,,,,,,,2,3.11,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Jump Shot,,,48-38,20,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=182
 ,,,,,,,,,,2,3.09,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,48-38,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=183
@@ -160,7 +160,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.50,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,48-38,24,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=188
 ,,,,,,,,,,2,2.48,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,48-38,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=189
 ,,,,,,,,,,2,2.47,Portland Trail Blazers,shot,,,,,,,,,,Hickson,2,,,made,,Jump Shot,,,48-40,7,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=190
-,,,,,,,,,,2,2.25,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,,,,,48-40,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=191
+,,,,,,,,,,2,2.25,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,Aldridge,,,,48-40,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=191
 ,,,,,,,,,,2,2.21,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,2,,,made,,Layup,,,48-42,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=192
 ,,,,,,,,,,2,1.59,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,48-42,25,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=193
 ,,,,,,,,,,2,1.58,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,48-42,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=194
@@ -174,10 +174,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.05,Portland Trail Blazers,substitute,,,,Maynor,,Matthews,,,,,,,,,,,,,48-46,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=202
 ,,,,,,,,,,2,1.05,New York Knicks,substitute,,,,Smith,,Felton,,,,,,,,,,,,,48-46,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=203
 ,,,,,,,,,,2,1.05,Portland Trail Blazers,free throw,,,,,,,1,,1,Hickson,1,,foul,made,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=204
-,,,,,,,,,,2,0.46,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,Reverse Layup,,,48-47,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=206
+,,,,,,,,,,2,0.46,New York Knicks,shot,,,Aldridge,,,,,,,Shumpert,,,,missed,,Reverse Layup,,,48-47,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=206
 ,,,,,,,,,,2,0.44,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=207
 ,,,,,,,,,,2,0.35,Portland Trail Blazers,shot,Lillard,,,,,,,,,Aldridge,2,,,made,,Layup,,,48-49,2,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=208
-,,,,,,,,,,2,0.19,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=209
+,,,,,,,,,,2,0.19,New York Knicks,turnover,,,,,,,,,,Smith,,,Bad Pass,,Lillard,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=209
 ,,,,,,,,,,2,0.14,Portland Trail Blazers,shot,,,,,,,,,,Lillard,2,,,made,,Reverse Layup,,,48-51,3,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=210
 ,,,,,,,,,,2,0.04,Portland Trail Blazers,foul,,,,,,,,,,Aldridge,,,,,,Personal,,,48-51,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=211
 ,,,,,,,,,,2,0.04,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,48-51,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=212
@@ -185,7 +185,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.04,Portland Trail Blazers,substitute,,,,Matthews,,Hickson,,,,,,,,,,,,,48-51,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=216
 ,,,,,,,,,,3,11.38,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,48-51,20,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=220
 ,,,,,,,,,,3,11.37,New York Knicks,rebound,,,,,,,,,,Shumpert,,,,,,,,,48-51,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=221
-,,,,,,,,,,3,11.31,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,Jump Shot,,,48-51,7,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=222
+,,,,,,,,,,3,11.31,New York Knicks,shot,,,Aldridge,,,,,,,Shumpert,,,,missed,,Jump Shot,,,48-51,7,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=222
 ,,,,,,,,,,3,11.28,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,48-51,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=223
 ,,,,,,,,,,3,11.23,Portland Trail Blazers,shot,Matthews,,,,,,,,,Hickson,2,,,made,,Alley Oop Layup,,,48-53,2,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=224
 ,,,,,,,,,,3,11.05,New York Knicks,shot,Felton,,,,,,,,,Thomas,2,,,made,,Jump Shot,,,50-53,17,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=225
@@ -193,16 +193,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.44,Portland Trail Blazers,shot,,,,,,,,,,Batum,,,,missed,,Jump Shot,,,50-53,19,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=227
 ,,,,,,,,,,3,10.43,New York Knicks,rebound,,,,,,,,,,Thomas,,,,,,,,,50-53,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=228
 ,,,,,,,,,,3,10.19,New York Knicks,shot,,,,,,,,,,Felton,2,,,made,,Layup,,,52-53,2,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=229
-,,,,,,,,,,3,10.04,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,,,,,52-53,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=230
+,,,,,,,,,,3,10.04,Portland Trail Blazers,turnover,,,,,,,,,,Aldridge,,,Lost Ball,,Copeland,,,,52-53,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=230
 ,,,,,,,,,,3,9.50,New York Knicks,turnover,,,,,,,,,,Copeland Out of Bounds,,,Lost Ball,,,,,,52-53,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=231
-,,,,,,,,,,3,9.35,Portland Trail Blazers,shot,,,,,,,,,,Hickson,,,,missed,,Layup,,,52-53,3,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=232
+,,,,,,,,,,3,9.35,Portland Trail Blazers,shot,,,Thomas,,,,,,,Hickson,,,,missed,,Layup,,,52-53,3,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=232
 ,,,,,,,,,,3,9.31,New York Knicks,rebound,,,,,,,,,,Thomas,,,,,,,,,52-53,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=233
 ,,,,,,,,,,3,9.25,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,3PT Jump Shot,,,52-53,25,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=234
 ,,,,,,,,,,3,9.22,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,52-53,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=235
 ,,,,,,,,,,3,9.12,Portland Trail Blazers,shot,Aldridge,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,52-56,25,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=236
 ,,,,,,,,,,3,8.43,New York Knicks,shot,,,,,,,,,,Copeland,,,,missed,,3PT Jump Shot,,,52-56,25,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=237
 ,,,,,,,,,,3,8.42,New York Knicks,rebound,,,,,,,,,,Martin,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=238
-,,,,,,,,,,3,8.39,New York Knicks,shot,,,,,,,,,,Copeland,,,,missed,,Layup,,,52-56,3,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=258
+,,,,,,,,,,3,8.39,New York Knicks,shot,,,Aldridge,,,,,,,Copeland,,,,missed,,Layup,,,52-56,3,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=258
 ,,,,,,,,,,3,8.39,New York Knicks,rebound,,,,,,,,,,,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=265
 ,,,,,,,,,,3,8.39,New York Knicks,substitute,,,,Smith,,Copeland,,,,,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=240
 ,,,,,,,,,,3,8.28,New York Knicks,shot,,,,,,,,,,Shumpert,,,,missed,,Jump Shot,,,52-56,4,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=241
@@ -224,7 +224,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.29,Portland Trail Blazers,free throw,,,,,,,2,,2,Aldridge,1,,foul,made,,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=260
 ,,,,,,,,,,3,7.18,New York Knicks,shot,,,,,,,,,,Martin,,,,missed,,Alley Oop Dunk,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=262
 ,,,,,,,,,,3,7.13,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=264
-,,,,,,,,,,3,7.13,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=282
+,,,,,,,,,,3,7.13,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Felton,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=282
 ,,,,,,,,,,3,7.02,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Layup,,,54-60,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=267
 ,,,,,,,,,,3,7.02,New York Knicks,rebound,,,,,,,,,,Felton,,,,,,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=291
 ,,,,,,,,,,3,7.02,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Layup,,,54-60,2,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=268
@@ -243,12 +243,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.20,New York Knicks,foul,,,,,,,,,,Smith,,,,,,Shooting,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=284
 ,,,,,,,,,,3,6.20,Portland Trail Blazers,free throw,,,,,,,1,,1,Hickson,,,foul,missed,,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=285
 ,,,,,,,,,,3,6.18,New York Knicks,rebound,,,,,,,,,,Camby,,,,,,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=287
-,,,,,,,,,,3,6.05,New York Knicks,turnover,,,,,,,,,,Shumpert,,,Bad Pass,,,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=288
+,,,,,,,,,,3,6.05,New York Knicks,turnover,,,,,,,,,,Shumpert,,,Bad Pass,,Batum,,,,54-62,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=288
 ,,,,,,,,,,3,6.00,Portland Trail Blazers,shot,Batum,,,,,,,,,Lillard,2,,,made,,Layup,,,54-64,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=289
 ,,,,,,,,,,3,6.00,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,54-64,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=290
 ,,,,,,,,,,3,6.00,New York Knicks,substitute,,,,Kidd,,Shumpert,,,,,,,,,,,,,54-64,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=293
 ,,,,,,,,,,3,5.46,New York Knicks,shot,Camby,,,,,,,,,Martin,2,,,made,,Dunk,,,56-64,2,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=295
-,,,,,,,,,,3,5.33,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=296
+,,,,,,,,,,3,5.33,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Kidd,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=296
 ,,,,,,,,,,3,5.22,New York Knicks,shot,,,,,,,,,,Smith,,,,missed,,Jump Shot,,,56-64,18,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=297
 ,,,,,,,,,,3,5.20,New York Knicks,rebound,,,,,,,,,,Camby,,,,,,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=298
 ,,,,,,,,,,3,5.12,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Jump Shot,,,56-64,5,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=299
@@ -256,7 +256,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.08,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,56-64,25,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=301
 ,,,,,,,,,,3,5.05,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,56-64,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=302
 ,,,,,,,,,,3,4.54,Portland Trail Blazers,shot,Lillard,,,,,,,,,Matthews,3,,,made,,3PT Jump Shot,,,56-67,25,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=303
-,,,,,,,,,,3,4.38,New York Knicks,shot,,,,,,,,,,Felton,,,,missed,,Jump Shot,,,56-67,4,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=304
+,,,,,,,,,,3,4.38,New York Knicks,shot,,,Aldridge,,,,,,,Felton,,,,missed,,Jump Shot,,,56-67,4,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=304
 ,,,,,,,,,,3,4.36,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=305
 ,,,,,,,,,,3,4.30,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,56-67,19,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=306
 ,,,,,,,,,,3,4.29,Portland Trail Blazers,rebound,,,,,,,,,,Hickson,,,,,,,,,56-67,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=307
@@ -293,7 +293,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.20,New York Knicks,shot,,,,,,,,,,Novak,,,,missed,,3PT Jump Shot,,,60-73,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=346
 ,,,,,,,,,,3,2.19,New York Knicks,rebound,,,,,,,,,,Prigioni,,,,,,,,,60-73,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=347
 ,,,,,,,,,,3,2.04,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Layup,,,62-73,4,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=348
-,,,,,,,,,,3,1.45,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,,,,,62-73,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=349
+,,,,,,,,,,3,1.45,Portland Trail Blazers,turnover,,,,,,,,,,Batum,,,Bad Pass,,Prigioni,,,,62-73,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=349
 ,,,,,,,,,,3,1.37,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,3PT Jump Shot,,,62-73,26,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=350
 ,,,,,,,,,,3,1.36,Portland Trail Blazers,rebound,,,,,,,,,,Batum,,,,,,,,,62-73,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=351
 ,,,,,,,,,,3,1.20,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,62-73,26,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=352
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.01,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,62-78,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=370
 ,,,,,,,,,,3,0.00,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,62-78,63,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=371
 ,,,,,,,,,,3,0.00,Portland Trail Blazers,rebound,,,,,,,,,,,,,,,,,,,62-78,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=372
-,,,,,,,,,,4,11.38,New York Knicks,shot,,,,,,,,,,Copeland,,,,missed,,Jump Shot,,,62-78,5,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=376
+,,,,,,,,,,4,11.38,New York Knicks,shot,,,Aldridge,,,,,,,Copeland,,,,missed,,Jump Shot,,,62-78,5,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=376
 ,,,,,,,,,,4,11.36,Portland Trail Blazers,rebound,,,,,,,,,,Barton,,,,,,,,,62-78,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=377
 ,,,,,,,,,,4,11.30,Portland Trail Blazers,shot,,,,,,,,,,Maynor,,,,missed,,Running Jump Shot,,,62-78,7,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=378
 ,,,,,,,,,,4,11.27,New York Knicks,rebound,,,,,,,,,,Camby,,,,,,,,,62-78,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=379
@@ -337,19 +337,19 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.19,New York Knicks,substitute,,,,Martin,,Camby,,,,,,,,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=396
 ,,,,,,,,,,4,9.17,Portland Trail Blazers,timeout,,,,,,,,,,,,,,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=397
 ,,,,,,,,,,4,9.17,Portland Trail Blazers,substitute,,,,Batum,,Barton,,,,,,,,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=399
-,,,,,,,,,,4,9.08,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=400
-,,,,,,,,,,4,8.52,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=401
+,,,,,,,,,,4,9.08,Portland Trail Blazers,turnover,,,,,,,,,,Lillard,,,Lost Ball,,Prigioni,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=400
+,,,,,,,,,,4,8.52,New York Knicks,turnover,,,,,,,,,,Smith,,,Lost Ball,,Matthews,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=401
 ,,,,,,,,,,4,8.40,Portland Trail Blazers,shot,,,,,,,,,,Aldridge,,,,missed,,Jump Shot,,,73-80,20,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=402
 ,,,,,,,,,,4,8.39,New York Knicks,rebound,,,,,,,,,,Martin,,,,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=403
 ,,,,,,,,,,4,8.17,New York Knicks,shot,,,,,,,,,,Kidd,,,,missed,,Jump Shot,,,73-80,5,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=404
 ,,,,,,,,,,4,8.16,New York Knicks,rebound,,,,,,,,,,Prigioni,,,,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=405
 ,,,,,,,,,,4,8.12,New York Knicks,shot,,,,,,,,,,Copeland,,,,missed,,3PT Jump Shot,,,73-80,25,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=406
 ,,,,,,,,,,4,8.11,Portland Trail Blazers,rebound,,,,,,,,,,Matthews,,,,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=407
-,,,,,,,,,,4,7.59,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=408
+,,,,,,,,,,4,7.59,Portland Trail Blazers,turnover,,,,,,,,,,Hickson,,,Bad Pass,,Prigioni,,,,73-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=408
 ,,,,,,,,,,4,7.54,New York Knicks,shot,Prigioni,,,,,,,,,Smith,3,,,made,,3PT Jump Shot,,,76-80,25,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=409
 ,,,,,,,,,,4,7.33,Portland Trail Blazers,shot,,,,,,,,,,Lillard,,,,missed,,3PT Jump Shot,,,76-80,26,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=410
 ,,,,,,,,,,4,7.32,New York Knicks,rebound,,,,,,,,,,Prigioni,,,,,,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=411
-,,,,,,,,,,4,7.13,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=412
+,,,,,,,,,,4,7.13,New York Knicks,turnover,,,,,,,,,,Prigioni,,,Bad Pass,,Lillard,,,,76-80,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=412
 ,,,,,,,,,,4,7.09,Portland Trail Blazers,shot,Batum,,,,,,,,,Aldridge,2,,,made,,Layup,,,76-82,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=413
 ,,,,,,,,,,4,6.48,New York Knicks,foul,,,,,,,,,,,,,,,,,,,76-82,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=414
 ,,,,,,,,,,4,6.48,New York Knicks,turnover,,,,,,,,,,Copeland,,,Foul,,,,,,76-82,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=415
@@ -370,7 +370,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.54,Portland Trail Blazers,rebound,,,,,,,,,,Aldridge,,,,,,,,,78-89,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=434
 ,,,,,,,,,,4,4.51,Portland Trail Blazers,shot,,,,,,,,,,Batum,3,,,made,,3PT Jump Shot,,,78-92,25,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=435
 ,,,,,,,,,,4,4.50,New York Knicks,timeout,,,,,,,,,,,,,,,,,,,78-92,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=436
-,,,,,,,,,,4,4.30,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,,,,,78-92,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=438
+,,,,,,,,,,4,4.30,New York Knicks,turnover,,,,,,,,,,Kidd,,,Bad Pass,,Batum,,,,78-92,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=438
 ,,,,,,,,,,4,4.24,Portland Trail Blazers,shot,Batum,,,,,,,,,Lillard,3,,,made,,3PT Jump Shot,,,78-95,26,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=439
 ,,,,,,,,,,4,4.06,New York Knicks,shot,,,,,,,,,,Smith,2,,,made,,Running Jump Shot,,,80-95,5,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=440
 ,,,,,,,,,,4,3.58,Portland Trail Blazers,foul,,,,,,,,,,,,,,,,,,,80-95,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=441
@@ -388,8 +388,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.40,New York Knicks,shot,Smith,,,,,,,,,Thomas,2,,,made,,Jump Shot,,,84-99,19,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=455
 ,,,,,,,,,,4,2.14,Portland Trail Blazers,shot,,,,,,,,,,Matthews,,,,missed,,3PT Jump Shot,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=456
 ,,,,,,,,,,4,2.13,New York Knicks,rebound,,,,,,,,,,Copeland,,,,,,,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=457
-,,,,,,,,,,4,2.06,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,,,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=458
-,,,,,,,,,,4,1.59,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,,,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=459
+,,,,,,,,,,4,2.06,New York Knicks,turnover,,,,,,,,,,Felton,,,Bad Pass,,Matthews,,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=458
+,,,,,,,,,,4,1.59,Portland Trail Blazers,turnover,,,,,,,,,,Matthews,,,Bad Pass,,Felton,,,,84-99,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=459
 ,,,,,,,,,,4,1.57,New York Knicks,shot,,,,,,,,,,Felton,2,,,made,,Driving Layup,,,86-99,1,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=460
 ,,,,,,,,,,4,1.57,Portland Trail Blazers,foul,,,,,,,,,,Matthews,,,,,,Shooting,,,86-99,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=461
 ,,,,,,,,,,4,1.57,New York Knicks,free throw,,,,,,,1,,1,Felton,1,,foul,made,,,,,87-99,,http://stats.nba.com/cvp.html?GameID=0021200968&GameEventID=462

@@ -4,7 +4,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.07,Phoenix Suns,shot,,,,,,,,,,Gortat,2,,,made,,Turnaround Jump Shot,,,4-2,7,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=4
 ,,,,,,,,,,1,10.52,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,4-2,3,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=5
 ,,,,,,,,,,1,10.50,Phoenix Suns,rebound,,,,,,,,,,Dragic,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=6
-,,,,,,,,,,1,10.44,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Bad Pass,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=7
+,,,,,,,,,,1,10.44,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Bad Pass,,Conley,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=7
 ,,,,,,,,,,1,10.26,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,4-2,5,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=8
 ,,,,,,,,,,1,10.25,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=9
 ,,,,,,,,,,1,10.13,Phoenix Suns,shot,,,,,,,,,,Scola,2,,,made,,Turnaround Jump Shot,,,6-2,5,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=10
@@ -22,14 +22,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,8.33,Phoenix Suns,free throw,,,,,,,1,,2,Scola,,,foul,missed,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=24
 ,,,,,,,,,,1,8.33,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,8-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=25
 ,,,,,,,,,,1,8.33,Phoenix Suns,free throw,,,,,,,2,,2,Scola,1,,foul,made,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=26
-,,,,,,,,,,1,8.18,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Bad Pass,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=28
-,,,,,,,,,,1,8.14,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=29
+,,,,,,,,,,1,8.18,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Bad Pass,,Dragic,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=28
+,,,,,,,,,,1,8.14,Phoenix Suns,turnover,,,,,,,,,,Dudley,,,Bad Pass,,Conley,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=29
 ,,,,,,,,,,1,8.13,Phoenix Suns,foul,,,,,,,,,,Dudley,,,,,,Personal,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=30
-,,,,,,,,,,1,7.57,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=31
+,,,,,,,,,,1,7.57,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,Tucker,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=31
 ,,,,,,,,,,1,7.42,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,3PT Jump Shot,,,9-8,26,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=32
 ,,,,,,,,,,1,7.41,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,9-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=33
 ,,,,,,,,,,1,7.33,Phoenix Suns,shot,,,,,,,,,,Scola,2,,,made,,Turnaround Jump Shot,,,11-8,9,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=34
-,,,,,,,,,,1,7.13,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=35
+,,,,,,,,,,1,7.13,Memphis Grizzlies,turnover,,,,,,,,,,Randolph,,,Bad Pass,,Tucker,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=35
 ,,,,,,,,,,1,7.10,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,,,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=36
 ,,,,,,,,,,1,6.52,Phoenix Suns,foul,,,,,,,,,,Gortat,,,,,,Loose ball,,,11-8,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=37
 ,,,,,,,,,,1,6.44,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,11-8,20,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=38
@@ -76,7 +76,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.06,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Jump Shot,,,23-19,20,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=87
 ,,,,,,,,,,1,3.04,Memphis Grizzlies,rebound,,,,,,,,,,Arthur,,,,,,,,,23-19,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=88
 ,,,,,,,,,,1,3.04,Memphis Grizzlies,shot,Bayless,,,,,,,,,Prince,2,,,made,,Layup,,,23-21,2,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=93
-,,,,,,,,,,1,2.47,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Lost Ball,,,,,,23-21,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=90
+,,,,,,,,,,1,2.47,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Lost Ball,,Prince,,,,23-21,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=90
 ,,,,,,,,,,1,2.36,Memphis Grizzlies,shot,Prince,,,,,,,,,Bayless,2,,,made,,Slam Dunk,,,23-23,1,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=91
 ,,,,,,,,,,1,2.32,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=92
 ,,,,,,,,,,1,2.32,Memphis Grizzlies,substitute,,,,Gasol,,Randolph,,,,,,,,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=95
@@ -95,8 +95,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.25,Phoenix Suns,turnover,,,,,,,,,,Brown Out of Bounds,,,Lost Ball,,,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=108
 ,,,,,,,,,,1,0.25,Memphis Grizzlies,substitute,,,,Allen,,Conley,,,,,,,,,,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=109
 ,,,,,,,,,,1,0.25,Memphis Grizzlies,substitute,,,,Daye,,Prince,,,,,,,,,,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=111
-,,,,,,,,,,1,0.02,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=112
-,,,,,,,,,,2,11.47,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=118
+,,,,,,,,,,1,0.02,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,Morris,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=112
+,,,,,,,,,,2,11.47,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,O'Neal,,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=118
 ,,,,,,,,,,2,11.31,Memphis Grizzlies,foul,,,,,,,,,,Daye,,,,,,Shooting,,,27-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=119
 ,,,,,,,,,,2,11.31,Phoenix Suns,free throw,,,,,,,1,,2,Beasley,1,,foul,made,,,,,28-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=120
 ,,,,,,,,,,2,11.31,Phoenix Suns,free throw,,,,,,,2,,2,Beasley,1,,foul,made,,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=122
@@ -153,7 +153,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.52,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,Step Back Jump Shot,,,39-36,13,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=181
 ,,,,,,,,,,2,5.48,Phoenix Suns,rebound,,,,,,,,,,Tucker,,,,,,,,,39-36,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=182
 ,,,,,,,,,,2,5.47,Phoenix Suns,turnover,,,,,,,,,,Tucker,,,Palming,,,,,,39-36,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=183
-,,,,,,,,,,2,5.35,Memphis Grizzlies,shot,,,,,,,,,,Davis,,,,missed,,Dunk,,,39-36,3,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=184
+,,,,,,,,,,2,5.35,Memphis Grizzlies,shot,,,Morris,,,,,,,Davis,,,,missed,,Dunk,,,39-36,3,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=184
 ,,,,,,,,,,2,5.33,Phoenix Suns,rebound,,,,,,,,,,Gortat,,,,,,,,,39-36,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=185
 ,,,,,,,,,,2,5.22,Phoenix Suns,shot,Morris,,,,,,,,,Tucker,2,,,made,,Layup,,,41-36,1,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=186
 ,,,,,,,,,,2,5.07,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Jump Shot,,,41-36,22,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=187
@@ -193,7 +193,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.58,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=223
 ,,,,,,,,,,2,0.57,Memphis Grizzlies,shot,,,,,,,,,,Prince,,,,missed,,Jump Shot,,,48-49,15,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=224
 ,,,,,,,,,,2,0.55,Phoenix Suns,rebound,,,,,,,,,,Scola,,,,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=225
-,,,,,,,,,,2,0.42,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=226
+,,,,,,,,,,2,0.42,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,Prince,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=226
 ,,,,,,,,,,2,0.40,Phoenix Suns,foul,,,,,,,,,,Scola,,,,,,Shooting,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=227
 ,,,,,,,,,,2,0.40,Memphis Grizzlies,free throw,,,,,,,1,,2,Prince,1,,foul,made,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=228
 ,,,,,,,,,,2,0.40,Memphis Grizzlies,free throw,,,,,,,2,,2,Prince,,,foul,missed,,,,,48-50,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=230
@@ -211,7 +211,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.09,Phoenix Suns,rebound,,,,,,,,,,Dudley,,,,,,,,,50-52,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=246
 ,,,,,,,,,,3,11.03,Phoenix Suns,shot,,,,,,,,,,Dragic,,,,missed,,Pullup Jump Shot,,,50-52,9,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=247
 ,,,,,,,,,,3,11.03,Phoenix Suns,rebound,,,,,,,,,,,,,,,,,,,50-52,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=248
-,,,,,,,,,,3,10.48,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,,,,,50-52,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=249
+,,,,,,,,,,3,10.48,Phoenix Suns,turnover,,,,,,,,,,Scola,,,Bad Pass,,Allen,,,,50-52,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=249
 ,,,,,,,,,,3,10.38,Memphis Grizzlies,shot,,,,,,,,,,Gasol,2,,,made,,Turnaround Fadeaway,,,50-54,9,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=250
 ,,,,,,,,,,3,10.31,Phoenix Suns,timeout,,,,,,,,,,,,,,,,,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=251
 ,,,,,,,,,,3,10.22,Memphis Grizzlies,foul,,,,,,,,,,Gasol,,,,,,Personal,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=253
@@ -294,8 +294,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.17,Memphis Grizzlies,shot,,,,,,,,,,Randolph,2,,,made,,Running Jump Shot,,,61-65,7,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=342
 ,,,,,,,,,,3,2.02,Memphis Grizzlies,foul,,,,,,,,,,Randolph,,,,,,Personal,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=343
 ,,,,,,,,,,3,2.02,Memphis Grizzlies,substitute,,,,Johnson,,Conley,,,,,,,,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=344
-,,,,,,,,,,3,1.51,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=345
-,,,,,,,,,,3,1.46,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Bad Pass,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=346
+,,,,,,,,,,3,1.51,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Prince,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=345
+,,,,,,,,,,3,1.46,Memphis Grizzlies,turnover,,,,,,,,,,Prince,,,Bad Pass,,Brown,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=346
 ,,,,,,,,,,3,1.43,Phoenix Suns,shot,,,,,,,,,,Marshall,,,,missed,,3PT Jump Shot,,,61-65,28,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=347
 ,,,,,,,,,,3,1.43,Phoenix Suns,rebound,,,,,,,,,,O'Neal,,,,,,,,,61-65,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=348
 ,,,,,,,,,,3,1.32,Phoenix Suns,shot,,,,,,,,,,Beasley,2,,,made,,Jump Shot,,,63-65,18,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=350
@@ -307,7 +307,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.01,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,3PT Jump Shot,,,65-69,24,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=356
 ,,,,,,,,,,3,0.00,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,65-69,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=357
 ,,,,,,,,,,3,0.00,Memphis Grizzlies,shot,,,,,,,,,,Prince,2,,,made,,Layup,,,65-71,2,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=358
-,,,,,,,,,,4,11.41,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,,,,,65-71,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=364
+,,,,,,,,,,4,11.41,Phoenix Suns,turnover,,,,,,,,,,Beasley,,,Lost Ball,,Bayless,,,,65-71,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=364
 ,,,,,,,,,,4,11.26,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,Jump Shot,,,65-71,21,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=365
 ,,,,,,,,,,4,11.25,Phoenix Suns,rebound,,,,,,,,,,Morris,,,,,,,,,65-71,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=366
 ,,,,,,,,,,4,11.10,Phoenix Suns,shot,,,,,,,,,,O'Neal,,,,missed,,Jump Shot,,,65-71,18,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=367
@@ -325,7 +325,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.01,Phoenix Suns,shot,Beasley,,,,,,,,,O'Neal,2,,,made,,Driving Layup,,,70-73,2,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=381
 ,,,,,,,,,,4,9.39,Memphis Grizzlies,shot,,,,,,,,,,Bayless,2,,,made,,Running Jump Shot,,,70-75,10,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=382
 ,,,,,,,,,,4,9.17,Phoenix Suns,shot,,,,,,,,,,O'Neal,2,,,made,,Turnaround Bank Shot,,,72-75,7,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=383
-,,,,,,,,,,4,9.01,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Lost Ball,,,,,,72-75,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=384
+,,,,,,,,,,4,9.01,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Lost Ball,,Brown,,,,72-75,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=384
 ,,,,,,,,,,4,8.59,Phoenix Suns,turnover,,,,,,,,,,Brown,,,Traveling,,,,,,72-75,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=385
 ,,,,,,,,,,4,8.48,Phoenix Suns,foul,,,,,,,,,,Morris,,,,,,Shooting,,,72-75,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=390
 ,,,,,,,,,,4,8.48,Memphis Grizzlies,free throw,,,,,,,1,,2,Gasol,1,,foul,made,,,,,72-76,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=391
@@ -344,13 +344,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.27,Memphis Grizzlies,substitute,,,,Randolph,,Gasol,,,,,,,,,,,,,73-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=407
 ,,,,,,,,,,4,7.27,Phoenix Suns,substitute,,,,Tucker,,Beasley,,,,,,,,,,,,,73-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=408
 ,,,,,,,,,,4,7.27,Phoenix Suns,free throw,,,,,,,2,,2,O'Neal,1,,foul,made,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=409
-,,,,,,,,,,4,7.08,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=411
+,,,,,,,,,,4,7.08,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,Dragic,,,,74-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=411
 ,,,,,,,,,,4,7.07,Phoenix Suns,shot,,,,,,,,,,Dragic,2,,,made,,Layup,,,76-77,3,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=412
 ,,,,,,,,,,4,7.07,Memphis Grizzlies,foul,,,,,,,,,,Bayless,,,,,,Shooting,,,76-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=413
 ,,,,,,,,,,4,7.07,Memphis Grizzlies,substitute,,,,Conley,,Bayless,,,,,,,,,,,,,76-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=414
 ,,,,,,,,,,4,7.07,Memphis Grizzlies,substitute,,,,Prince,,Daye,,,,,,,,,,,,,76-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=415
 ,,,,,,,,,,4,7.07,Phoenix Suns,free throw,,,,,,,1,,1,Dragic,1,,foul,made,,,,,77-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=416
-,,,,,,,,,,4,6.45,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Lost Ball,,,,,,77-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=418
+,,,,,,,,,,4,6.45,Memphis Grizzlies,turnover,,,,,,,,,,Allen,,,Lost Ball,,O'Neal,,,,77-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=418
 ,,,,,,,,,,4,6.27,Phoenix Suns,shot,,,,,,,,,,Morris,,,,missed,,3PT Jump Shot,,,77-77,26,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=419
 ,,,,,,,,,,4,6.26,Memphis Grizzlies,rebound,,,,,,,,,,Prince,,,,,,,,,77-77,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=420
 ,,,,,,,,,,4,6.10,Memphis Grizzlies,shot,Conley,,,,,,,,,Randolph,2,,,made,,Jump Shot,,,77-79,20,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=421
@@ -370,7 +370,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.43,Phoenix Suns,free throw,,,,,,,1,,1,Dragic,1,,foul,made,,,,,86-82,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=436
 ,,,,,,,,,,4,4.32,Memphis Grizzlies,shot,,,,,,,,,,Bayless,2,,,made,,Pullup Jump Shot,,,86-84,20,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=438
 ,,,,,,,,,,4,4.21,Phoenix Suns,turnover,,,,,,,,,,Marshall,,,Bad Pass,,,,,,86-84,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=439
-,,,,,,,,,,4,4.07,Memphis Grizzlies,shot,,,,,,,,,,Arthur,,,,missed,,Jump Shot,,,86-84,8,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=440
+,,,,,,,,,,4,4.07,Memphis Grizzlies,shot,,,O'Neal,,,,,,,Arthur,,,,missed,,Jump Shot,,,86-84,8,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=440
 ,,,,,,,,,,4,4.05,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,86-84,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=441
 ,,,,,,,,,,4,4.05,Phoenix Suns,foul,,,,,,,,,,Gortat,,,,,,Shooting,,,86-84,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=442
 ,,,,,,,,,,4,4.05,Memphis Grizzlies,free throw,,,,,,,1,,2,Randolph,1,,foul,made,,,,,86-85,,http://stats.nba.com/cvp.html?GameID=0021200717&GameEventID=443

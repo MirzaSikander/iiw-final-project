@@ -43,7 +43,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.15,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,7-9,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=58
 ,,,,,,,,,,1,7.04,Memphis Grizzlies,shot,Conley,,,,,,,,,Gasol,2,,,made,,Jump Shot,,,7-11,18,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=59
 ,,,,,,,,,,1,6.44,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Jump Shot,,,9-11,20,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=60
-,,,,,,,,,,1,6.29,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,9-11,6,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=61
+,,,,,,,,,,1,6.29,Memphis Grizzlies,shot,,,Koufos,,,,,,,Gay,,,,missed,,Jump Shot,,,9-11,6,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=61
 ,,,,,,,,,,1,6.29,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=62
 ,,,,,,,,,,1,6.23,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,9-11,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=63
 ,,,,,,,,,,1,6.10,Denver Nuggets,shot,Lawson,,,,,,,,,Koufos,2,,,made,,Jump Shot,,,11-11,10,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=64
@@ -66,7 +66,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.37,Denver Nuggets,shot,Miller,,,,,,,,,Koufos,2,,,made,,Reverse Layup,,,17-14,2,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=83
 ,,,,,,,,,,1,3.25,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Driving Layup,,,17-14,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=84
 ,,,,,,,,,,1,3.22,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=85
-,,,,,,,,,,1,3.20,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=86
+,,,,,,,,,,1,3.20,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Gasol,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=86
 ,,,,,,,,,,1,3.13,Memphis Grizzlies,shot,Gasol,,,,,,,,,Conley,3,,,made,,3PT Jump Shot,,,17-17,24,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=87
 ,,,,,,,,,,1,3.06,Denver Nuggets,shot,,,,,,,,,,Lawson,2,,,made,,Layup,,,19-17,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=88
 ,,,,,,,,,,1,2.49,Memphis Grizzlies,shot,,,,,,,,,,Gay,,,,missed,,Jump Shot,,,19-17,12,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=89
@@ -81,7 +81,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.04,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,21-19,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=100
 ,,,,,,,,,,1,2.04,Memphis Grizzlies,free throw,,,,,,,2,,2,Gay,1,,foul,made,,,,,21-20,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=101
 ,,,,,,,,,,1,1.55,Denver Nuggets,shot,Miller,,,,,,,,,McGee,2,,,made,,Alley Oop Dunk,,,23-20,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=103
-,,,,,,,,,,1,1.29,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,23-20,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=104
+,,,,,,,,,,1,1.29,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Brewer,,,,23-20,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=104
 ,,,,,,,,,,1,1.11,Memphis Grizzlies,foul,,,,,,,,,,Gay,,,,,,Shooting,,,23-20,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=106
 ,,,,,,,,,,1,1.11,Denver Nuggets,free throw,,,,,,,1,,2,Brewer,1,,foul,made,,,,,24-20,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=107
 ,,,,,,,,,,1,1.11,Memphis Grizzlies,substitute,,,,Ellington,,Gay,,,,,,,,,,,,,24-20,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=109
@@ -91,15 +91,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.58,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,3PT Jump Shot,,,25-20,25,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=114
 ,,,,,,,,,,1,0.57,Memphis Grizzlies,rebound,,,,,,,,,,Gasol,,,,,,,,,25-20,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=115
 ,,,,,,,,,,1,0.54,Memphis Grizzlies,shot,,,,,,,,,,Gasol,2,,,made,,Layup,,,25-22,2,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=116
-,,,,,,,,,,1,0.48,Denver Nuggets,shot,,,,,,,,,,McGee,,,,missed,,Jump Shot,,,25-22,3,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=117
+,,,,,,,,,,1,0.48,Denver Nuggets,shot,,,Gasol,,,,,,,McGee,,,,missed,,Jump Shot,,,25-22,3,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=117
 ,,,,,,,,,,1,0.47,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,25-22,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=118
 ,,,,,,,,,,1,0.45,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,2,,,made,,Layup,,,25-24,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=119
-,,,,,,,,,,1,0.33,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=120
+,,,,,,,,,,1,0.33,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,Gasol,,,,25-24,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=120
 ,,,,,,,,,,1,0.29,Memphis Grizzlies,shot,Gasol,,,,,,,,,Speights,2,,,made,,Layup,,,25-26,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=121
 ,,,,,,,,,,1,0.08,Memphis Grizzlies,foul,,,,,,,,,,Pondexter,,,,,,Shooting,,,25-26,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=122
 ,,,,,,,,,,1,0.08,Denver Nuggets,free throw,,,,,,,1,,2,Miller,1,,foul,made,,,,,26-26,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=123
 ,,,,,,,,,,1,0.08,Denver Nuggets,free throw,,,,,,,2,,2,Miller,1,,foul,made,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=125
-,,,,,,,,,,1,0.02,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=127
+,,,,,,,,,,1,0.02,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Lost Ball,,Lawson,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=127
 ,,,,,,,,,,1,0.00,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Jump Shot,,,27-26,22,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=128
 ,,,,,,,,,,1,0.00,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,27-26,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=130
 ,,,,,,,,,,2,11.45,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,3PT Jump Shot,,,27-26,25,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=133
@@ -124,9 +124,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.39,Denver Nuggets,substitute,,,,Gallinari,,Mozgov,,,,,,,,,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=152
 ,,,,,,,,,,2,9.39,Denver Nuggets,free throw,,,,,,,2,,2,Brewer,,,foul,missed,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=153
 ,,,,,,,,,,2,9.38,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=155
-,,,,,,,,,,2,9.22,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Jump Shot,,,31-30,12,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=156
+,,,,,,,,,,2,9.22,Memphis Grizzlies,shot,,,McGee,,,,,,,Randolph,,,,missed,,Jump Shot,,,31-30,12,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=156
 ,,,,,,,,,,2,9.21,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=157
-,,,,,,,,,,2,9.05,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=158
+,,,,,,,,,,2,9.05,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,Pondexter,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=158
 ,,,,,,,,,,2,8.57,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,Layup,,,31-30,2,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=159
 ,,,,,,,,,,2,8.55,Memphis Grizzlies,rebound,,,,,,,,,,Pondexter,,,,,,,,,31-30,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=161
 ,,,,,,,,,,2,8.55,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,2,,,made,,Tip Shot,,,31-32,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=160
@@ -156,7 +156,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.27,Memphis Grizzlies,shot,Allen,,,,,,,,,Randolph,2,,,made,,Layup,,,36-36,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=189
 ,,,,,,,,,,2,6.16,Denver Nuggets,shot,Gallinari,,,,,,,,,Hamilton,3,,,made,,3PT Jump Shot,,,39-36,25,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=190
 ,,,,,,,,,,2,5.51,Memphis Grizzlies,shot,Gay,,,,,,,,,Randolph,2,,,made,,Turnaround Jump Shot,,,39-38,4,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=191
-,,,,,,,,,,2,5.36,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,,,,,39-38,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=192
+,,,,,,,,,,2,5.36,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Lost Ball,,Pondexter,,,,39-38,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=192
 ,,,,,,,,,,2,5.18,Memphis Grizzlies,shot,,,,,,,,,,Bayless,2,,,made,,Running Jump Shot,,,39-40,5,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=193
 ,,,,,,,,,,2,5.13,Denver Nuggets,foul,,,,,,,,,,,,,,,,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=194
 ,,,,,,,,,,2,5.13,Denver Nuggets,turnover,,,,,,,,,,Faried,,,Foul,,,,,,39-40,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=195
@@ -175,7 +175,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.09,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,43-45,20,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=209
 ,,,,,,,,,,2,3.08,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,43-45,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=210
 ,,,,,,,,,,2,2.55,Denver Nuggets,shot,Koufos,,,,,,,,,Gallinari,2,,,made,,Layup,,,45-45,2,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=211
-,,,,,,,,,,2,2.41,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=212
+,,,,,,,,,,2,2.41,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,Lawson,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=212
 ,,,,,,,,,,2,2.37,Memphis Grizzlies,foul,,,,,,,,,,Gay,,,,,,Shooting,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=213
 ,,,,,,,,,,2,2.37,Denver Nuggets,timeout,,,,,,,,,,,,,,,,,,,45-45,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=215
 ,,,,,,,,,,2,2.37,Denver Nuggets,free throw,,,,,,,1,,2,Gallinari,1,,foul,made,,,,,46-45,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=219
@@ -196,7 +196,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.36,Denver Nuggets,shot,Iguodala,,,,,,,,,Lawson,3,,,made,,3PT Jump Shot,,,52-47,24,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=239
 ,,,,,,,,,,2,0.24,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Driving Layup,,,52-47,2,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=240
 ,,,,,,,,,,2,0.23,Denver Nuggets,rebound,,,,,,,,,,Lawson,,,,,,,,,52-47,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=241
-,,,,,,,,,,2,0.20,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,,,,,52-47,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=242
+,,,,,,,,,,2,0.20,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Bad Pass,,Bayless,,,,52-47,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=242
 ,,,,,,,,,,2,0.15,Memphis Grizzlies,shot,Conley,,,,,,,,,Bayless,2,,,made,,Layup,,,52-49,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=243
 ,,,,,,,,,,3,11.39,Memphis Grizzlies,shot,Randolph,,,,,,,,,Allen,2,,,made,,Jump Shot,,,52-51,22,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=247
 ,,,,,,,,,,3,11.13,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,3PT Jump Shot,,,52-51,24,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=248
@@ -206,7 +206,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.43,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=252
 ,,,,,,,,,,3,10.40,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Layup,,,54-51,2,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=253
 ,,,,,,,,,,3,10.39,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=254
-,,,,,,,,,,3,10.36,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=255
+,,,,,,,,,,3,10.36,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,Allen,,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=255
 ,,,,,,,,,,3,10.36,Denver Nuggets,foul,,,,,,,,,,Lawson,,,,,,Personal,,,54-51,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=256
 ,,,,,,,,,,3,10.25,Memphis Grizzlies,shot,,,,,,,,,,Gay,2,,,made,,Jump Shot,,,54-53,21,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=257
 ,,,,,,,,,,3,9.58,Denver Nuggets,shot,,,,,,,,,,Koufos,2,,,made,,Running Hook Shot,,,56-53,5,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=258
@@ -214,11 +214,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.45,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=260
 ,,,,,,,,,,3,9.28,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Jump Shot,,,56-53,17,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=261
 ,,,,,,,,,,3,9.28,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=262
-,,,,,,,,,,3,9.19,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=263
-,,,,,,,,,,3,9.15,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=264
+,,,,,,,,,,3,9.19,Memphis Grizzlies,turnover,,,,,,,,,,Conley,,,Lost Ball,,Lawson,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=263
+,,,,,,,,,,3,9.15,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Allen,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=264
 ,,,,,,,,,,3,9.07,Memphis Grizzlies,shot,,,,,,,,,,Allen,,,,missed,,Jump Shot,,,56-53,23,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=265
 ,,,,,,,,,,3,9.06,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=266
-,,,,,,,,,,3,8.57,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=267
+,,,,,,,,,,3,8.57,Denver Nuggets,turnover,,,,,,,,,,Lawson,,,Lost Ball,,Conley,,,,56-53,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=267
 ,,,,,,,,,,3,8.52,Memphis Grizzlies,shot,Conley,,,,,,,,,Gay,2,,,made,,Alley Oop Dunk,,,56-55,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=268
 ,,,,,,,,,,3,8.30,Denver Nuggets,shot,,,,,,,,,,Gallinari,,,,missed,,3PT Jump Shot,,,56-55,24,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=269
 ,,,,,,,,,,3,8.30,Denver Nuggets,rebound,,,,,,,,,,Koufos,,,,,,,,,56-55,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=270
@@ -261,8 +261,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.34,Memphis Grizzlies,substitute,,,,Bayless,,Gay,,,,,,,,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=312
 ,,,,,,,,,,3,3.27,Denver Nuggets,shot,,,,,,,,,,Iguodala,,,,missed,,Jump Shot,,,60-63,22,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=313
 ,,,,,,,,,,3,3.26,Memphis Grizzlies,rebound,,,,,,,,,,,,,,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=314
-,,,,,,,,,,3,3.12,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=315
-,,,,,,,,,,3,3.02,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=316
+,,,,,,,,,,3,3.12,Memphis Grizzlies,turnover,,,,,,,,,,Gasol,,,Bad Pass,,Miller,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=315
+,,,,,,,,,,3,3.02,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Lost Ball,,Bayless,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=316
 ,,,,,,,,,,3,2.47,Memphis Grizzlies,shot,Randolph,,,,,,,,,Gasol,2,,,made,,Fadeaway Jumper,,,60-65,9,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=317
 ,,,,,,,,,,3,2.27,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,3PT Jump Shot,,,60-65,24,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=318
 ,,,,,,,,,,3,2.27,Denver Nuggets,rebound,,,,,,,,,,McGee,,,,,,,,,60-65,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=319
@@ -276,7 +276,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.43,Denver Nuggets,shot,Koufos,,,,,,,,,McGee,2,,,made,,Turnaround Jump Shot,,,64-67,6,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=330
 ,,,,,,,,,,3,1.24,Memphis Grizzlies,shot,,,,,,,,,,Speights,,,,missed,,Jump Shot,,,64-67,7,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=331
 ,,,,,,,,,,3,1.22,Denver Nuggets,rebound,,,,,,,,,,Hamilton,,,,,,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=332
-,,,,,,,,,,3,1.14,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Lost Ball,,,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=333
+,,,,,,,,,,3,1.14,Denver Nuggets,turnover,,,,,,,,,,Koufos,,,Lost Ball,,Conley,,,,64-67,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=333
 ,,,,,,,,,,3,1.06,Memphis Grizzlies,shot,Conley,,,,,,,,,Bayless,3,,,made,,3PT Jump Shot,,,64-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=334
 ,,,,,,,,,,3,0.47,Denver Nuggets,shot,Miller,,,,,,,,,McGee,2,,,made,,Jump Shot,,,66-70,16,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=335
 ,,,,,,,,,,3,0.28,Memphis Grizzlies,shot,,,,,,,,,,Bayless,,,,missed,,3PT Jump Shot,,,66-70,25,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=336
@@ -309,15 +309,15 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.27,Memphis Grizzlies,foul,,,,,,,,,,Speights,,,,,,Shooting,,,71-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=368
 ,,,,,,,,,,4,10.27,Denver Nuggets,free throw,,,,,,,1,,2,Faried,1,,foul,made,,,,,72-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=369
 ,,,,,,,,,,4,10.27,Denver Nuggets,free throw,,,,,,,2,,2,Faried,1,,foul,made,,,,,73-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=371
-,,,,,,,,,,4,10.14,Memphis Grizzlies,turnover,,,,,,,,,,Ellington,,,Lost Ball,,,,,,73-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=373
+,,,,,,,,,,4,10.14,Memphis Grizzlies,turnover,,,,,,,,,,Ellington,,,Lost Ball,,Miller,,,,73-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=373
 ,,,,,,,,,,4,10.10,Denver Nuggets,shot,Miller,,,,,,,,,Brewer,2,,,made,,Dunk,,,75-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=374
 ,,,,,,,,,,4,10.10,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=375
 ,,,,,,,,,,4,10.10,Denver Nuggets,substitute,,,,Gallinari,,McGee,,,,,,,,,,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=377
 ,,,,,,,,,,4,10.10,Memphis Grizzlies,substitute,,,,Gay,,Ellington,,,,,,,,,,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=378
-,,,,,,,,,,4,9.54,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Lost Ball,,,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=379
+,,,,,,,,,,4,9.54,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Lost Ball,,Brewer,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=379
 ,,,,,,,,,,4,9.38,Denver Nuggets,shot,,,,,,,,,,Hamilton,,,,missed,,Jump Shot,,,75-70,7,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=381
 ,,,,,,,,,,4,9.37,Denver Nuggets,rebound,,,,,,,,,,Hamilton,,,,,,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=382
-,,,,,,,,,,4,9.31,Denver Nuggets,shot,,,,,,,,,,Faried,,,,missed,,Layup,,,75-70,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=383
+,,,,,,,,,,4,9.31,Denver Nuggets,shot,,,Speights,,,,,,,Faried,,,,missed,,Layup,,,75-70,1,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=383
 ,,,,,,,,,,4,9.28,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,75-70,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=385
 ,,,,,,,,,,4,9.28,Denver Nuggets,shot,,,,,,,,,,Faried,2,,,made,,Turnaround Jump Shot,,,77-70,4,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=384
 ,,,,,,,,,,4,9.12,Memphis Grizzlies,shot,Bayless,,,,,,,,,Speights,2,,,made,,Jump Shot,,,77-72,14,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=386
@@ -327,7 +327,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.47,Denver Nuggets,rebound,,,,,,,,,,Faried,,,,,,,,,77-72,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=390
 ,,,,,,,,,,4,8.34,Denver Nuggets,shot,Miller,,,,,,,,,Faried,2,,,made,,Layup,,,79-72,3,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=391
 ,,,,,,,,,,4,8.16,Memphis Grizzlies,shot,Bayless,,,,,,,,,Speights,2,,,made,,Jump Shot,,,79-74,19,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=392
-,,,,,,,,,,4,7.52,Denver Nuggets,shot,,,,,,,,,,Miller,,,,missed,,Layup,,,79-74,3,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=393
+,,,,,,,,,,4,7.52,Denver Nuggets,shot,,,Speights,,,,,,,Miller,,,,missed,,Layup,,,79-74,3,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=393
 ,,,,,,,,,,4,7.50,Memphis Grizzlies,rebound,,,,,,,,,,Speights,,,,,,,,,79-74,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=394
 ,,,,,,,,,,4,7.42,Memphis Grizzlies,shot,,,,,,,,,,Pondexter,,,,missed,,3PT Jump Shot,,,79-74,24,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=395
 ,,,,,,,,,,4,7.41,Memphis Grizzlies,rebound,,,,,,,,,,Gay,,,,,,,,,79-74,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=396
@@ -347,7 +347,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.00,Memphis Grizzlies,substitute,,,,Gasol,,Speights,,,,,,,,,,,,,80-78,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=414
 ,,,,,,,,,,4,7.00,Denver Nuggets,free throw,,,,,,,2,,2,Gallinari,1,,foul,made,,,,,81-78,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=415
 ,,,,,,,,,,4,6.40,Memphis Grizzlies,shot,,,,,,,,,,Conley,3,,,made,,3PT Jump Shot,,,81-81,24,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=417
-,,,,,,,,,,4,6.16,Denver Nuggets,shot,,,,,,,,,,Lawson,,,,missed,,Running Jump Shot,,,81-81,4,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=418
+,,,,,,,,,,4,6.16,Denver Nuggets,shot,,,Gay,,,,,,,Lawson,,,,missed,,Running Jump Shot,,,81-81,4,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=418
 ,,,,,,,,,,4,6.14,Memphis Grizzlies,rebound,,,,,,,,,,Allen,,,,,,,,,81-81,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=419
 ,,,,,,,,,,4,6.05,Denver Nuggets,foul,,,,,,,,,,Brewer,,,,,,Shooting,,,81-81,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=420
 ,,,,,,,,,,4,6.05,Memphis Grizzlies,free throw,,,,,,,1,,2,Allen,1,,foul,made,,,,,81-82,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=421
@@ -374,7 +374,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.03,Denver Nuggets,free throw,,,,,,,1,,2,Faried,,,foul,missed,,,,,86-87,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=448
 ,,,,,,,,,,4,4.03,Denver Nuggets,rebound,,,,,,,,,,,,,,,,,,,86-87,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=449
 ,,,,,,,,,,4,4.03,Denver Nuggets,free throw,,,,,,,2,,2,Faried,1,,foul,made,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=450
-,,,,,,,,,,4,3.51,Memphis Grizzlies,shot,,,,,,,,,,Conley,,,,missed,,Jump Shot,,,87-87,3,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=452
+,,,,,,,,,,4,3.51,Memphis Grizzlies,shot,,,Gallinari,,,,,,,Conley,,,,missed,,Jump Shot,,,87-87,3,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=452
 ,,,,,,,,,,4,3.49,Denver Nuggets,rebound,,,,,,,,,,Iguodala,,,,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=453
 ,,,,,,,,,,4,3.35,Denver Nuggets,turnover,,,,,,,,,,Iguodala,,,Bad Pass,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=454
 ,,,,,,,,,,4,3.35,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=456
@@ -390,7 +390,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.50,Denver Nuggets,free throw,,,,,,,1,,2,McGee,1,,foul,made,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=468
 ,,,,,,,,,,4,2.50,Denver Nuggets,free throw,,,,,,,2,,2,McGee,,,foul,missed,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=469
 ,,,,,,,,,,4,2.48,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=471
-,,,,,,,,,,4,2.33,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=472
+,,,,,,,,,,4,2.33,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,Miller,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=472
 ,,,,,,,,,,4,2.29,Denver Nuggets,turnover,,,,,,,,,,Miller,,,Bad Pass,,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=473
 ,,,,,,,,,,4,2.15,Memphis Grizzlies,shot,,,,,,,,,,Randolph,,,,missed,,Turnaround Jump Shot,,,88-90,3,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=474
 ,,,,,,,,,,4,2.14,Memphis Grizzlies,rebound,,,,,,,,,,Randolph,,,,,,,,,88-90,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=476
@@ -416,7 +416,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.46,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,93-92,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=498
 ,,,,,,,,,,4,0.46,Memphis Grizzlies,substitute,,,,Bayless,,Allen,,,,,,,,,,,,,93-92,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=500
 ,,,,,,,,,,4,0.46,Denver Nuggets,substitute,,,,Faried,,Miller,,,,,,,,,,,,,93-92,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=501
-,,,,,,,,,,4,0.32,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,,,,,93-92,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=502
+,,,,,,,,,,4,0.32,Memphis Grizzlies,turnover,,,,,,,,,,Gay,,,Bad Pass,,Gallinari,,,,93-92,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=502
 ,,,,,,,,,,4,0.12,Denver Nuggets,shot,Lawson,,,,,,,,,Gallinari,3,,,made,,3PT Jump Shot,,,96-92,24,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=503
 ,,,,,,,,,,4,0.12,Memphis Grizzlies,timeout,,,,,,,,,,,,,,,,,,,96-92,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=504
 ,,,,,,,,,,4,0.09,Memphis Grizzlies,turnover,,,,,,,,,,Bayless,,,Bad Pass,,,,,,96-92,,http://stats.nba.com/cvp.html?GameID=0021200150&GameEventID=507

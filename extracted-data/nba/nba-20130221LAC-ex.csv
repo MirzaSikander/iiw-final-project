@@ -27,7 +27,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.05,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,15-13,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=33
 ,,,,,,,,,,1,6.54,San Antonio Spurs,foul,,,,,,,,,,Splitter,,,,,,Personal,,,15-13,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=35
 ,,,,,,,,,,1,6.49,Los Angeles Clippers,shot,,,,,,,,,,Jordan,2,,,made,,Jump Shot,,,15-15,3,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=36
-,,,,,,,,,,1,6.26,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=37
+,,,,,,,,,,1,6.26,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Bad Pass,,Paul,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=37
 ,,,,,,,,,,1,6.22,Los Angeles Clippers,turnover,,,,,,,,,,Butler,,,Traveling,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=38
 ,,,,,,,,,,1,6.22,San Antonio Spurs,substitute,,,,Ginobili,,Green,,,,,,,,,,,,,15-15,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=39
 ,,,,,,,,,,1,6.07,San Antonio Spurs,shot,Splitter,,,,,,,,,Parker,2,,,made,,Jump Shot,,,17-15,21,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=41
@@ -67,16 +67,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.35,San Antonio Spurs,shot,Diaw,,,,,,,,,Bonner,3,,,made,,3PT Jump Shot,,,34-21,26,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=80
 ,,,,,,,,,,1,1.19,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,34-21,21,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=81
 ,,,,,,,,,,1,1.18,San Antonio Spurs,rebound,,,,,,,,,,Ginobili,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=82
-,,,,,,,,,,1,1.05,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,Jump Shot,,,34-21,4,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=83
+,,,,,,,,,,1,1.05,San Antonio Spurs,shot,,,Barnes,,,,,,,Ginobili,,,,missed,,Jump Shot,,,34-21,4,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=83
 ,,,,,,,,,,1,1.03,San Antonio Spurs,rebound,,,,,,,,,,Ginobili,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=84
 ,,,,,,,,,,1,1.00,San Antonio Spurs,shot,,,,,,,,,,Ginobili,,,,missed,,Jump Shot,,,34-21,11,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=85
 ,,,,,,,,,,1,0.59,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=86
-,,,,,,,,,,1,0.52,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=87
+,,,,,,,,,,1,0.52,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,Parker,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=87
 ,,,,,,,,,,1,0.38,Los Angeles Clippers,foul,,,,,,,,,,Griffin,,,,,,Personal,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=88
 ,,,,,,,,,,1,0.38,San Antonio Spurs,substitute,,,,Green,,Neal,,,,,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=89
 ,,,,,,,,,,1,0.38,San Antonio Spurs,substitute,,,,De Colo,,Parker,,,,,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=90
-,,,,,,,,,,1,0.29,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Lost Ball,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=91
-,,,,,,,,,,1,0.20,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Layup,,,34-21,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=92
+,,,,,,,,,,1,0.29,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Lost Ball,,Crawford,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=91
+,,,,,,,,,,1,0.20,Los Angeles Clippers,shot,,,Diaw,,,,,,,Griffin,,,,missed,,Layup,,,34-21,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=92
 ,,,,,,,,,,1,0.18,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=93
 ,,,,,,,,,,1,0.05,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Jump Shot,,,34-21,11,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=94
 ,,,,,,,,,,1,0.05,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,34-21,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=95
@@ -104,7 +104,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.28,Los Angeles Clippers,foul,,,,,,,,,,Odom,,,,,,Personal,,,43-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=121
 ,,,,,,,,,,2,8.28,San Antonio Spurs,substitute,,,,Splitter,,Diaw,,,,,,,,,,,,,43-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=124
 ,,,,,,,,,,2,8.11,San Antonio Spurs,shot,Bonner,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,46-30,27,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=125
-,,,,,,,,,,2,7.50,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Lost Ball,,,,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=127
+,,,,,,,,,,2,7.50,Los Angeles Clippers,turnover,,,,,,,,,,Barnes,,,Lost Ball,,Jackson,,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=127
 ,,,,,,,,,,2,7.42,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,3PT Jump Shot,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=128
 ,,,,,,,,,,2,7.41,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=129
 ,,,,,,,,,,2,7.34,Los Angeles Clippers,shot,,,,,,,,,,Odom,,,,missed,,Layup,,,46-30,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=130
@@ -113,7 +113,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,7.30,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=134
 ,,,,,,,,,,2,7.30,Los Angeles Clippers,shot,,,,,,,,,,Barnes,,,,missed,,Tip Shot,,,46-30,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=133
 ,,,,,,,,,,2,7.29,San Antonio Spurs,rebound,,,,,,,,,,Bonner,,,,,,,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=135
-,,,,,,,,,,2,7.25,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Lost Ball,,,,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=136
+,,,,,,,,,,2,7.25,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Lost Ball,,Crawford,,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=136
 ,,,,,,,,,,2,7.24,San Antonio Spurs,foul,,,,,,,,,,Bonner,,,,,,Personal,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=137
 ,,,,,,,,,,2,7.16,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,,,,missed,,Layup,,,46-30,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=138
 ,,,,,,,,,,2,7.15,Los Angeles Clippers,rebound,,,,,,,,,,Crawford,,,,,,,,,46-30,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=139
@@ -171,7 +171,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.37,San Antonio Spurs,turnover,,,,,,,,,,Splitter,,,Traveling,,,,,,57-41,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=202
 ,,,,,,,,,,2,1.31,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,Jump Shot,,,57-41,10,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=203
 ,,,,,,,,,,2,1.27,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,57-41,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=205
-,,,,,,,,,,2,1.27,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Tip Shot,,,57-41,3,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=204
+,,,,,,,,,,2,1.27,Los Angeles Clippers,shot,,,Splitter,,,,,,,Griffin,,,,missed,,Tip Shot,,,57-41,3,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=204
 ,,,,,,,,,,2,1.26,Los Angeles Clippers,rebound,,,,,,,,,,Paul,,,,,,,,,57-41,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=206
 ,,,,,,,,,,2,1.17,Los Angeles Clippers,shot,,,,,,,,,,Paul,,,,missed,,3PT Jump Shot,,,57-41,27,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=207
 ,,,,,,,,,,2,1.16,Los Angeles Clippers,rebound,,,,,,,,,,,,,,,,,,,57-41,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=208
@@ -187,11 +187,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.34,San Antonio Spurs,shot,,,,,,,,,,Parker,,,,missed,,3PT Jump Shot,,,58-43,26,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=224
 ,,,,,,,,,,2,0.33,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,58-43,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=225
 ,,,,,,,,,,2,0.33,San Antonio Spurs,turnover,,,,,,,,,,,,,Shot Clock,,,,,,58-43,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=226
-,,,,,,,,,,2,0.26,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Layup,,,58-43,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=227
+,,,,,,,,,,2,0.26,Los Angeles Clippers,shot,,,Green,,,,,,,Griffin,,,,missed,,Layup,,,58-43,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=227
 ,,,,,,,,,,2,0.25,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,58-43,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=229
 ,,,,,,,,,,2,0.25,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Tip Shot,,,58-43,2,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=228
 ,,,,,,,,,,2,0.23,Los Angeles Clippers,rebound,,,,,,,,,,Butler,,,,,,,,,58-43,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=230
-,,,,,,,,,,2,0.02,Los Angeles Clippers,shot,,,,,,,,,,Griffin,,,,missed,,Layup,,,58-43,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=231
+,,,,,,,,,,2,0.02,Los Angeles Clippers,shot,,,Splitter,,,,,,,Griffin,,,,missed,,Layup,,,58-43,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=231
 ,,,,,,,,,,2,0.01,San Antonio Spurs,rebound,,,,,,,,,,Splitter,,,,,,,,,58-43,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=232
 ,,,,,,,,,,3,11.36,Los Angeles Clippers,turnover,,,,,,,,,,,,,Shot Clock,,,,,,58-43,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=238
 ,,,,,,,,,,3,11.22,San Antonio Spurs,shot,,,,,,,,,,Parker,2,,,made,,Jump Shot,,,60-43,18,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=239
@@ -222,7 +222,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.45,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Foul,,,,,,67-47,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=269
 ,,,,,,,,,,3,8.20,San Antonio Spurs,shot,,,,,,,,,,Green,,,,missed,,Jump Shot,,,67-47,19,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=270
 ,,,,,,,,,,3,8.19,Los Angeles Clippers,rebound,,,,,,,,,,Griffin,,,,,,,,,67-47,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=271
-,,,,,,,,,,3,8.11,Los Angeles Clippers,shot,,,,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,67-47,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=272
+,,,,,,,,,,3,8.11,Los Angeles Clippers,shot,,,Green,,,,,,,Butler,,,,missed,,3PT Jump Shot,,,67-47,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=272
 ,,,,,,,,,,3,8.09,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,67-47,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=273
 ,,,,,,,,,,3,7.54,San Antonio Spurs,turnover,,,,,,,,,,Duncan,,,Bad Pass,,,,,,67-47,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=274
 ,,,,,,,,,,3,7.46,San Antonio Spurs,foul,,,,,,,,,,Parker,,,,,,Personal,,,67-47,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=275
@@ -239,7 +239,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.31,San Antonio Spurs,rebound,,,,,,,,,,,,,,,,,,,69-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=291
 ,,,,,,,,,,3,7.31,San Antonio Spurs,free throw,,,,,,,2,,2,Duncan,,,foul,missed,,,,,69-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=292
 ,,,,,,,,,,3,7.30,Los Angeles Clippers,rebound,,,,,,,,,,Jordan,,,,,,,,,69-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=294
-,,,,,,,,,,3,7.28,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Lost Ball,,,,,,69-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=295
+,,,,,,,,,,3,7.28,Los Angeles Clippers,turnover,,,,,,,,,,Jordan,,,Lost Ball,,Green,,,,69-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=295
 ,,,,,,,,,,3,7.14,Los Angeles Clippers,foul,,,,,,,,,,Paul,,,,,,Shooting,,,69-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=297
 ,,,,,,,,,,3,7.14,San Antonio Spurs,free throw,,,,,,,1,,2,Parker,1,,foul,made,,,,,70-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=298
 ,,,,,,,,,,3,7.14,San Antonio Spurs,free throw,,,,,,,2,,2,Parker,1,,foul,made,,,,,71-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=301
@@ -252,7 +252,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.12,San Antonio Spurs,rebound,,,,,,,,,,Duncan,,,,,,,,,73-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=309
 ,,,,,,,,,,3,6.07,San Antonio Spurs,foul,,,,,,,,,,,,,,,,,,,73-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=310
 ,,,,,,,,,,3,6.07,San Antonio Spurs,turnover,,,,,,,,,,Green,,,Foul,,,,,,73-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=311
-,,,,,,,,,,3,5.54,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,,,,,73-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=312
+,,,,,,,,,,3,5.54,Los Angeles Clippers,turnover,,,,,,,,,,Griffin,,,Bad Pass,,Green,,,,73-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=312
 ,,,,,,,,,,3,5.39,Los Angeles Clippers,foul,,,,,,,,,,Butler,,,,,,Shooting,,,73-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=313
 ,,,,,,,,,,3,5.39,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,73-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=314
 ,,,,,,,,,,3,5.39,Los Angeles Clippers,substitute,,,,Crawford,,Billups,,,,,,,,,,,,,73-49,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=316
@@ -318,9 +318,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.37,San Antonio Spurs,foul,,,,,,,,,,Green,,,,,,Shooting,,,92-58,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=394
 ,,,,,,,,,,3,0.37,Los Angeles Clippers,free throw,,,,,,,1,,2,Crawford,1,,foul,made,,,,,92-59,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=395
 ,,,,,,,,,,3,0.37,Los Angeles Clippers,free throw,,,,,,,2,,2,Crawford,1,,foul,made,,,,,92-60,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=397
-,,,,,,,,,,3,0.29,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Lost Ball,,,,,,92-60,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=399
+,,,,,,,,,,3,0.29,San Antonio Spurs,turnover,,,,,,,,,,Ginobili,,,Lost Ball,,Odom,,,,92-60,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=399
 ,,,,,,,,,,3,0.26,Los Angeles Clippers,shot,,,,,,,,,,Barnes,2,,,made,,Driving Dunk,,,92-62,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=400
-,,,,,,,,,,3,0.04,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,,,,,92-62,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=401
+,,,,,,,,,,3,0.04,San Antonio Spurs,turnover,,,,,,,,,,De Colo,,,Bad Pass,,Crawford,,,,92-62,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=401
 ,,,,,,,,,,3,0.02,Los Angeles Clippers,shot,Crawford,,,,,,,,,Barnes,2,,,made,,Driving Dunk,,,92-64,2,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=402
 ,,,,,,,,,,3,0.01,San Antonio Spurs,turnover,,,,,,,,,,Ginobili Poss,,,Lost Ball,,,,,,92-64,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=403
 ,,,,,,,,,,4,11.44,San Antonio Spurs,shot,Ginobili,,,,,,,,,Jackson,2,,,made,,Jump Shot,,,94-64,22,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=407
@@ -358,7 +358,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.27,Los Angeles Clippers,shot,Crawford,,,,,,,,,Green,3,,,made,,3PT Jump Shot,,,103-75,24,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=444
 ,,,,,,,,,,4,8.06,San Antonio Spurs,shot,,,,,,,,,,Jackson,,,,missed,,Jump Shot,,,103-75,14,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=445
 ,,,,,,,,,,4,8.04,Los Angeles Clippers,rebound,,,,,,,,,,Odom,,,,,,,,,103-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=446
-,,,,,,,,,,4,8.00,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,,,,,103-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=447
+,,,,,,,,,,4,8.00,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Bad Pass,,Mills,,,,103-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=447
 ,,,,,,,,,,4,7.42,San Antonio Spurs,shot,Jackson,,,,,,,,,Mills,2,,,made,,Finger Roll Layup,,,105-75,2,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=448
 ,,,,,,,,,,4,7.38,Los Angeles Clippers,timeout,,,,,,,,,,,,,,,,,,,105-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=449
 ,,,,,,,,,,4,7.38,San Antonio Spurs,substitute,,,,Baynes,,Bonner,,,,,,,,,,,,,105-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=452
@@ -370,7 +370,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.55,San Antonio Spurs,rebound,,,,,,,,,,Jackson,,,,,,,,,105-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=458
 ,,,,,,,,,,4,6.40,San Antonio Spurs,shot,,,,,,,,,,Blair,,,,missed,,Jump Shot,,,105-75,19,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=459
 ,,,,,,,,,,4,6.38,Los Angeles Clippers,rebound,,,,,,,,,,Barnes,,,,,,,,,105-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=460
-,,,,,,,,,,4,6.29,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Lost Ball,,,,,,105-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=461
+,,,,,,,,,,4,6.29,Los Angeles Clippers,turnover,,,,,,,,,,Odom,,,Lost Ball,,Jackson,,,,105-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=461
 ,,,,,,,,,,4,6.11,San Antonio Spurs,shot,,,,,,,,,,De Colo,,,,missed,,Jump Shot,,,105-75,17,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=462
 ,,,,,,,,,,4,6.10,Los Angeles Clippers,rebound,,,,,,,,,,Bledsoe,,,,,,,,,105-75,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=463
 ,,,,,,,,,,4,6.05,Los Angeles Clippers,shot,Crawford,,,,,,,,,Barnes,2,,,made,,Dunk,,,105-77,2,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=464
@@ -387,7 +387,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.24,Los Angeles Clippers,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,107-77,20,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=477
 ,,,,,,,,,,4,4.23,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,107-77,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=478
 ,,,,,,,,,,4,4.12,San Antonio Spurs,shot,Blair,,,,,,,,,Baynes,2,,,made,,Dunk,,,109-77,1,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=479
-,,,,,,,,,,4,3.47,Los Angeles Clippers,shot,,,,,,,,,,Hollins,,,,missed,,Reverse Dunk,,,109-77,3,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=480
+,,,,,,,,,,4,3.47,Los Angeles Clippers,shot,,,Baynes,,,,,,,Hollins,,,,missed,,Reverse Dunk,,,109-77,3,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=480
 ,,,,,,,,,,4,3.46,San Antonio Spurs,rebound,,,,,,,,,,Blair,,,,,,,,,109-77,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=481
 ,,,,,,,,,,4,3.38,San Antonio Spurs,shot,,,,,,,,,,Jackson,2,,,made,,Driving Layup,,,111-77,2,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=482
 ,,,,,,,,,,4,3.18,Los Angeles Clippers,shot,,,,,,,,,,Bledsoe,2,,,made,,Driving Dunk,,,111-79,2,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=483
@@ -415,4 +415,4 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.43,Los Angeles Clippers,shot,Bledsoe,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,116-90,27,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=508
 ,,,,,,,,,,4,0.23,San Antonio Spurs,shot,,,,,,,,,,Baynes,,,,missed,,Hook Shot,,,116-90,9,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=509
 ,,,,,,,,,,4,0.20,Los Angeles Clippers,rebound,,,,,,,,,,Hollins,,,,,,,,,116-90,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=510
-,,,,,,,,,,4,0.14,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,,,,,116-90,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=511
+,,,,,,,,,,4,0.14,Los Angeles Clippers,turnover,,,,,,,,,,Bledsoe,,,Lost Ball,,Jackson,,,,116-90,,http://stats.nba.com/cvp.html?GameID=0021200810&GameEventID=511

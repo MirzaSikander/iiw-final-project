@@ -2,7 +2,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.42,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Jump Shot,,,2-0,7,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=2
 ,,,,,,,,,,1,11.23,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Running Jump Shot,,,2-2,10,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=3
 ,,,,,,,,,,1,11.12,Dallas Mavericks,shot,Mayo,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,4-2,14,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=4
-,,,,,,,,,,1,11.03,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Hook Shot,,,4-2,4,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=5
+,,,,,,,,,,1,11.03,Miami Heat,shot,,,Kaman,,,,,,,Wade,,,,missed,,Hook Shot,,,4-2,4,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=5
 ,,,,,,,,,,1,11.02,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=6
 ,,,,,,,,,,1,10.50,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Jump Shot,,,4-2,17,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=7
 ,,,,,,,,,,1,10.49,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=8
@@ -13,11 +13,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.44,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,6-5,25,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=13
 ,,,,,,,,,,1,9.43,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=14
 ,,,,,,,,,,1,9.24,Dallas Mavericks,foul,,,,,,,,,,Collison,,,,,,Personal,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=15
-,,,,,,,,,,1,9.17,Miami Heat,shot,,,,,,,,,,Haslem,,,,missed,,Hook Shot,,,6-5,4,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=16
+,,,,,,,,,,1,9.17,Miami Heat,shot,,,Kaman,,,,,,,Haslem,,,,missed,,Hook Shot,,,6-5,4,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=16
 ,,,,,,,,,,1,9.16,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=17
 ,,,,,,,,,,1,8.58,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Hook Shot,,,6-5,6,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=18
 ,,,,,,,,,,1,8.57,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=19
-,,,,,,,,,,1,8.48,Miami Heat,turnover,,,,,,,,,,Haslem,,,Bad Pass,,,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=20
+,,,,,,,,,,1,8.48,Miami Heat,turnover,,,,,,,,,,Haslem,,,Bad Pass,,Collison,,,,6-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=20
 ,,,,,,,,,,1,8.42,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Driving Layup,,,8-5,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=21
 ,,,,,,,,,,1,8.31,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,8-5,25,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=22
 ,,,,,,,,,,1,8.30,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,8-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=23
@@ -35,14 +35,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.45,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Shot,,,13-5,19,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=37
 ,,,,,,,,,,1,7.44,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,13-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=38
 ,,,,,,,,,,1,7.39,Miami Heat,violation,,,,,,,,,,Battier,,,Kicked Ball,,,,,,13-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=39
-,,,,,,,,,,1,7.32,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,13-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=40
+,,,,,,,,,,1,7.32,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Battier,,,,13-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=40
 ,,,,,,,,,,1,7.26,Dallas Mavericks,foul,,,,,,,,,,Carter,,,,,,Shooting,,,13-5,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=41
 ,,,,,,,,,,1,7.26,Miami Heat,free throw,,,,,,,1,,2,Wade,1,,foul,made,,,,,13-6,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=42
 ,,,,,,,,,,1,7.26,Miami Heat,free throw,,,,,,,2,,2,Wade,1,,foul,made,,,,,13-7,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=44
 ,,,,,,,,,,1,7.10,Dallas Mavericks,shot,Collison,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,15-7,14,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=46
 ,,,,,,,,,,1,6.55,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,15-7,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=47
 ,,,,,,,,,,1,6.54,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=48
-,,,,,,,,,,1,6.46,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=49
+,,,,,,,,,,1,6.46,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,James,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=49
 ,,,,,,,,,,1,6.30,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Floating Jump Shot,,,15-7,9,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=50
 ,,,,,,,,,,1,6.29,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,15-7,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=51
 ,,,,,,,,,,1,6.26,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Jump Shot,,,17-7,9,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=52
@@ -67,9 +67,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.38,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,18-13,25,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=77
 ,,,,,,,,,,1,4.37,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,18-13,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=78
 ,,,,,,,,,,1,4.33,Miami Heat,shot,,,,,,,,,,Chalmers,2,,,made,,Layup,,,18-15,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=79
-,,,,,,,,,,1,4.18,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Reverse Layup,,,18-15,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=80
+,,,,,,,,,,1,4.18,Dallas Mavericks,shot,,,Bosh,,,,,,,Kaman,,,,missed,,Reverse Layup,,,18-15,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=80
 ,,,,,,,,,,1,4.17,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=81
-,,,,,,,,,,1,4.16,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Layup,,,18-15,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=82
+,,,,,,,,,,1,4.16,Dallas Mavericks,shot,,,Battier,,,,,,,Marion,,,,missed,,Layup,,,18-15,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=82
 ,,,,,,,,,,1,4.15,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=83
 ,,,,,,,,,,1,4.14,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Layup,,,18-15,3,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=106
 ,,,,,,,,,,1,4.12,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,18-15,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=117
@@ -87,7 +87,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.16,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Jump Shot,,,22-18,19,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=97
 ,,,,,,,,,,1,3.02,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Hook Shot,,,22-18,3,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=98
 ,,,,,,,,,,1,3.01,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,22-18,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=99
-,,,,,,,,,,1,2.55,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Driving Layup,,,22-18,3,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=100
+,,,,,,,,,,1,2.55,Dallas Mavericks,shot,,,Battier,,,,,,,Collison,,,,missed,,Driving Layup,,,22-18,3,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=100
 ,,,,,,,,,,1,2.54,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,22-18,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=101
 ,,,,,,,,,,1,2.54,Dallas Mavericks,substitute,,,,Brand,,Kaman,,,,,,,,,,,,,22-18,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=102
 ,,,,,,,,,,1,2.54,Dallas Mavericks,substitute,,,,Beaubois,,Collison,,,,,,,,,,,,,22-18,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=103
@@ -112,7 +112,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.50,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Bank Shot,,,30-20,11,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=130
 ,,,,,,,,,,1,0.32,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Fadeaway Jumper,,,30-20,16,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=132
 ,,,,,,,,,,1,0.31,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,30-20,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=133
-,,,,,,,,,,1,0.22,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Jump Shot,,,30-20,5,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=135
+,,,,,,,,,,1,0.22,Miami Heat,shot,,,Beaubois,,,,,,,Cole,,,,missed,,Jump Shot,,,30-20,5,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=135
 ,,,,,,,,,,1,0.22,Miami Heat,jumpball,,Beaubois,,,Cole,,,,,,,,,,,,,,30-20,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=136
 ,,,,,,,,,,1,0.20,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,30-20,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=144
 ,,,,,,,,,,1,0.10,Dallas Mavericks,foul,,,,,,,,,,Nowitzki,,,,,,Shooting,,,30-20,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=138
@@ -148,9 +148,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.20,Miami Heat,rebound,,,,,,,,,,Miller,,,,,,,,,35-26,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=178
 ,,,,,,,,,,2,9.17,Miami Heat,shot,,,,,,,,,,Cole,2,,,made,,Driving Layup,,,35-28,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=179
 ,,,,,,,,,,2,9.17,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,35-28,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=180
-,,,,,,,,,,2,9.03,Dallas Mavericks,shot,,,,,,,,,,Marion,,,,missed,,Jump Shot,,,35-28,6,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=184
+,,,,,,,,,,2,9.03,Dallas Mavericks,shot,,,Bosh,,,,,,,Marion,,,,missed,,Jump Shot,,,35-28,6,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=184
 ,,,,,,,,,,2,9.02,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,35-28,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=185
-,,,,,,,,,,2,8.53,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,,,,,35-28,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=186
+,,,,,,,,,,2,8.53,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,Mayo,,,,35-28,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=186
 ,,,,,,,,,,2,8.42,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,35-28,25,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=187
 ,,,,,,,,,,2,8.41,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,35-28,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=188
 ,,,,,,,,,,2,8.37,Dallas Mavericks,shot,Marion,,,,,,,,,Mayo,3,,,made,,3PT Jump Shot,,,38-28,26,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=189
@@ -203,18 +203,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.21,Dallas Mavericks,shot,Mayo,,,,,,,,,Nowitzki,2,,,made,,Jump Shot,,,46-38,16,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=247
 ,,,,,,,,,,2,4.05,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,46-38,24,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=248
 ,,,,,,,,,,2,4.04,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=249
-,,,,,,,,,,2,3.49,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,,,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=250
+,,,,,,,,,,2,3.49,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Bad Pass,,Haslem,,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=250
 ,,,,,,,,,,2,3.39,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,46-38,24,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=251
 ,,,,,,,,,,2,3.38,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=252
 ,,,,,,,,,,2,3.38,Dallas Mavericks,foul,,,,,,,,,,Nowitzki,,,,,,Technical,,,46-38,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=253
 ,,,,,,,,,,2,3.38,Miami Heat,free throw,,,,,,,,,,James,1,,Technical,made,,,,,46-39,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=254
-,,,,,,,,,,2,3.18,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Jump Shot,,,46-39,18,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=256
+,,,,,,,,,,2,3.18,Dallas Mavericks,shot,,,Wade,,,,,,,Mayo,,,,missed,,Jump Shot,,,46-39,18,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=256
 ,,,,,,,,,,2,3.17,Miami Heat,rebound,,,,,,,,,,Wade,,,,,,,,,46-39,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=257
 ,,,,,,,,,,2,3.03,Miami Heat,shot,,,,,,,,,,Wade,,,,missed,,Driving Layup,,,46-39,2,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=259
 ,,,,,,,,,,2,3.02,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,46-39,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=260
-,,,,,,,,,,2,2.55,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,46-39,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=261
+,,,,,,,,,,2,2.55,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Chalmers,,,,46-39,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=261
 ,,,,,,,,,,2,2.50,Miami Heat,shot,,,,,,,,,,Chalmers,2,,,made,,Driving Layup,,,46-41,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=262
-,,,,,,,,,,2,2.42,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=263
+,,,,,,,,,,2,2.42,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,James,,,,46-41,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=263
 ,,,,,,,,,,2,2.38,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Driving Layup,,,46-43,2,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=264
 ,,,,,,,,,,2,2.38,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Shooting,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=265
 ,,,,,,,,,,2,2.38,Dallas Mavericks,substitute,,,,Carter,,Jones,,,,,,,,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=268
@@ -232,7 +232,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.03,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,48-46,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=282
 ,,,,,,,,,,2,1.03,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,48-46,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=284
 ,,,,,,,,,,2,1.03,Miami Heat,jumpball,,Kaman,,,James,,,,,,,,,,,,,,48-46,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=283
-,,,,,,,,,,2,0.53,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,Layup,,,48-46,2,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=285
+,,,,,,,,,,2,0.53,Dallas Mavericks,shot,,,James,,,,,,,Nowitzki,,,,missed,,Layup,,,48-46,2,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=285
 ,,,,,,,,,,2,0.49,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,48-46,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=286
 ,,,,,,,,,,2,0.41,Dallas Mavericks,foul,,,,,,,,,,Nowitzki,,,,,,Personal,,,48-46,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=287
 ,,,,,,,,,,2,0.41,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=288
@@ -248,8 +248,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.42,Miami Heat,shot,James,,,,,,,,,Bosh,2,,,made,,Driving Layup,,,52-52,3,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=306
 ,,,,,,,,,,3,11.21,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,52-52,25,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=307
 ,,,,,,,,,,3,11.20,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=308
-,,,,,,,,,,3,11.06,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=309
-,,,,,,,,,,3,10.42,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,52-52,27,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=310
+,,,,,,,,,,3,11.06,Miami Heat,turnover,,,,,,,,,,Wade,,,Lost Ball,,Marion,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=309
+,,,,,,,,,,3,10.42,Dallas Mavericks,shot,,,Bosh,,,,,,,Mayo,,,,missed,,3PT Jump Shot,,,52-52,27,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=310
 ,,,,,,,,,,3,10.41,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,52-52,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=311
 ,,,,,,,,,,3,10.37,Miami Heat,shot,James,,,,,,,,,Bosh,2,,,made,,Alley Oop Layup,,,52-54,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=312
 ,,,,,,,,,,3,10.21,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,3PT Jump Shot,,,52-54,25,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=313
@@ -259,13 +259,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.15,Miami Heat,free throw,,,,,,,2,,2,Chalmers,1,,foul,made,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=320
 ,,,,,,,,,,3,10.02,Dallas Mavericks,shot,,,,,,,,,,Kaman,2,,,made,,Layup,,,54-56,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=322
 ,,,,,,,,,,3,9.47,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=323
-,,,,,,,,,,3,9.30,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Lost Ball,,,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=325
+,,,,,,,,,,3,9.30,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Lost Ball,,Chalmers,,,,54-56,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=325
 ,,,,,,,,,,3,9.25,Miami Heat,shot,Chalmers,,,,,,,,,James,2,,,made,,Dunk,,,54-58,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=326
 ,,,,,,,,,,3,9.25,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=327
 ,,,,,,,,,,3,9.04,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Running Hook Shot,,,54-58,6,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=331
 ,,,,,,,,,,3,9.03,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,54-58,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=332
 ,,,,,,,,,,3,8.53,Miami Heat,shot,Chalmers,,,,,,,,,Haslem,2,,,made,,Jump Shot,,,54-60,17,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=333
-,,,,,,,,,,3,8.44,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=334
+,,,,,,,,,,3,8.44,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Haslem,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=334
 ,,,,,,,,,,3,8.42,Dallas Mavericks,foul,,,,,,,,,,Marion,,,,,,Personal,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=335
 ,,,,,,,,,,3,8.32,Dallas Mavericks,violation,,,,,,,,,,Kaman,,,Kicked Ball,,,,,,54-60,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=336
 ,,,,,,,,,,3,8.17,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,54-60,25,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=337
@@ -273,14 +273,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.10,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Fadeaway Jumper,,,56-60,15,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=339
 ,,,,,,,,,,3,8.10,Miami Heat,foul,,,,,,,,,,Bosh,,,,,,Shooting,,,56-60,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=340
 ,,,,,,,,,,3,8.10,Dallas Mavericks,free throw,,,,,,,1,,1,Carter,1,,foul,made,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=341
-,,,,,,,,,,3,7.48,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,Jump Shot,,,57-60,9,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=343
+,,,,,,,,,,3,7.48,Miami Heat,shot,,,Carter,,,,,,,Chalmers,,,,missed,,Jump Shot,,,57-60,9,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=343
 ,,,,,,,,,,3,7.47,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,57-60,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=344
 ,,,,,,,,,,3,7.38,Dallas Mavericks,shot,,,,,,,,,,Carter,2,,,made,,Driving Layup,,,59-60,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=345
 ,,,,,,,,,,3,7.21,Miami Heat,shot,Wade,,,,,,,,,Haslem,2,,,made,,Jump Shot,,,59-62,15,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=346
 ,,,,,,,,,,3,7.04,Dallas Mavericks,shot,,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,61-62,17,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=347
 ,,,,,,,,,,3,6.42,Miami Heat,shot,,,,,,,,,,Bosh,,,,missed,,Layup,,,61-62,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=349
 ,,,,,,,,,,3,6.41,Dallas Mavericks,rebound,,,,,,,,,,Carter,,,,,,,,,61-62,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=350
-,,,,,,,,,,3,6.34,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Lost Ball,,,,,,61-62,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=351
+,,,,,,,,,,3,6.34,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Lost Ball,,Chalmers,,,,61-62,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=351
 ,,,,,,,,,,3,6.28,Miami Heat,shot,Chalmers,,,,,,,,,James,2,,,made,,Driving Layup,,,61-64,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=352
 ,,,,,,,,,,3,6.27,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,61-64,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=353
 ,,,,,,,,,,3,6.27,Dallas Mavericks,substitute,,,,Jones,,Carter,,,,,,,,,,,,,61-64,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=355
@@ -297,7 +297,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.38,Miami Heat,shot,James,,,,,,,,,Chalmers,3,,,made,,3PT Jump Shot,,,67-71,24,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=369
 ,,,,,,,,,,3,4.18,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,2,,,made,,Jump Shot,,,69-71,16,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=370
 ,,,,,,,,,,3,4.02,Miami Heat,shot,,,,,,,,,,Wade,3,,,made,,3PT Jump Shot,,,69-74,25,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=371
-,,,,,,,,,,3,3.47,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,69-74,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=372
+,,,,,,,,,,3,3.47,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Haslem,,,,69-74,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=372
 ,,,,,,,,,,3,3.36,Miami Heat,shot,James,,,,,,,,,Bosh,2,,,made,,Jump Shot,,,69-76,20,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=373
 ,,,,,,,,,,3,3.36,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,69-76,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=374
 ,,,,,,,,,,3,3.36,Dallas Mavericks,substitute,,,,Carter,,Mayo,,,,,,,,,,,,,69-76,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=376
@@ -318,7 +318,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.49,Miami Heat,substitute,,,,Cole,,Wade,,,,,,,,,,,,,77-78,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=393
 ,,,,,,,,,,3,1.32,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,77-78,26,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=394
 ,,,,,,,,,,3,1.31,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,77-78,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=395
-,,,,,,,,,,3,1.20,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,77-78,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=396
+,,,,,,,,,,3,1.20,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Jones,,,,77-78,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=396
 ,,,,,,,,,,3,1.15,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,Driving Layup,,,77-78,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=397
 ,,,,,,,,,,3,1.14,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,77-78,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=398
 ,,,,,,,,,,3,1.04,Dallas Mavericks,foul,,,,,,,,,,Brand,,,,,,Personal,,,77-78,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=399
@@ -331,7 +331,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.13,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=408
 ,,,,,,,,,,3,0.02,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Driving Layup,,,79-81,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=409
 ,,,,,,,,,,3,0.01,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=410
-,,,,,,,,,,3,0.01,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=411
+,,,,,,,,,,3,0.01,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Jones,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=411
 ,,,,,,,,,,3,0.00,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,3PT Jump Shot,,,79-81,32,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=412
 ,,,,,,,,,,3,0.00,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,79-81,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=413
 ,,,,,,,,,,4,11.43,Dallas Mavericks,shot,,,,,,,,,,Nowitzki,,,,missed,,3PT Jump Shot,,,79-81,25,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=417
@@ -369,7 +369,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.42,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Running Hook Shot,,,83-87,4,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=454
 ,,,,,,,,,,4,7.41,Dallas Mavericks,rebound,,,,,,,,,,Kaman,,,,,,,,,83-87,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=455
 ,,,,,,,,,,4,7.39,Dallas Mavericks,shot,,,,,,,,,,Kaman,2,,,made,,Tip Shot,,,85-87,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=456
-,,,,,,,,,,4,7.15,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Driving Layup,,,85-87,3,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=457
+,,,,,,,,,,4,7.15,Miami Heat,shot,,,Kaman,,,,,,,Cole,,,,missed,,Driving Layup,,,85-87,3,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=457
 ,,,,,,,,,,4,7.14,Dallas Mavericks,rebound,,,,,,,,,,Marion,,,,,,,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=458
 ,,,,,,,,,,4,6.46,Dallas Mavericks,shot,Kaman,,,,,,,,,Mayo,3,,,made,,3PT Jump Shot,,,88-87,29,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=459
 ,,,,,,,,,,4,6.46,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,88-87,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=460
@@ -393,10 +393,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.51,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Jump Shot,,,92-91,8,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=483
 ,,,,,,,,,,4,4.50,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,92-91,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=484
 ,,,,,,,,,,4,4.49,Dallas Mavericks,shot,,,,,,,,,,Brand,2,,,made,,Tip Shot,,,94-91,2,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=485
-,,,,,,,,,,4,4.35,Miami Heat,turnover,,,,,,,,,,Haslem,,,Lost Ball,,,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=486
-,,,,,,,,,,4,4.30,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Layup,,,94-91,2,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=487
+,,,,,,,,,,4,4.35,Miami Heat,turnover,,,,,,,,,,Haslem,,,Lost Ball,,Mayo,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=486
+,,,,,,,,,,4,4.30,Dallas Mavericks,shot,,,Wade,,,,,,,Collison,,,,missed,,Layup,,,94-91,2,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=487
 ,,,,,,,,,,4,4.29,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=488
-,,,,,,,,,,4,4.22,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=489
+,,,,,,,,,,4,4.22,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Carter,,,,94-91,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=489
 ,,,,,,,,,,4,4.09,Dallas Mavericks,shot,Collison,,,,,,,,,Mayo,3,,,made,,3PT Jump Shot,,,97-91,24,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=490
 ,,,,,,,,,,4,4.09,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,97-91,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=491
 ,,,,,,,,,,4,4.09,Miami Heat,substitute,,,,Bosh,,Haslem,,,,,,,,,,,,,97-91,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=494
@@ -429,7 +429,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.13,Dallas Mavericks,free throw,,,,,,,2,,2,Nowitzki,1,,foul,made,,,,,101-98,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=527
 ,,,,,,,,,,4,1.05,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Driving Layup,,,101-98,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=529
 ,,,,,,,,,,4,1.04,Dallas Mavericks,rebound,,,,,,,,,,Nowitzki,,,,,,,,,101-98,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=530
-,,,,,,,,,,4,0.46,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,,,,,101-98,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=531
+,,,,,,,,,,4,0.46,Dallas Mavericks,turnover,,,,,,,,,,Nowitzki,,,Lost Ball,,James,,,,101-98,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=531
 ,,,,,,,,,,4,0.41,Miami Heat,shot,Wade,,,,,,,,,Allen,2,,,made,,Layup,,,101-100,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=532
 ,,,,,,,,,,4,0.41,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,101-100,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=533
 ,,,,,,,,,,4,0.41,Miami Heat,substitute,,,,Battier,,Chalmers,,,,,,,,,,,,,101-100,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=536
@@ -448,7 +448,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,4.09,Dallas Mavericks,substitute,,,,Nowitzki,,Kaman,,,,,,,,,,,,,103-106,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=555
 ,,,,,,,,,,5,3.44,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Jump Bank Shot,,,103-108,17,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=556
 ,,,,,,,,,,5,3.36,Miami Heat,violation,,,,,,,,,,James,,,Kicked Ball,,,,,,103-108,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=557
-,,,,,,,,,,5,3.24,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,,,,,103-108,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=558
+,,,,,,,,,,5,3.24,Dallas Mavericks,turnover,,,,,,,,,,Carter,,,Bad Pass,,Wade,,,,103-108,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=558
 ,,,,,,,,,,5,3.21,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Dunk,,,103-110,1,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=559
 ,,,,,,,,,,5,3.21,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,103-110,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=560
 ,,,,,,,,,,5,3.04,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Shooting,,,103-110,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=564
@@ -474,7 +474,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,5,0.48,Dallas Mavericks,foul,,,,,,,,,,Nowitzki,,,,,,Shooting,,,109-117,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=594
 ,,,,,,,,,,5,0.48,Miami Heat,free throw,,,,,,,1,,1,James,1,,foul,made,,,,,109-118,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=595
 ,,,,,,,,,,5,0.48,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,109-118,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=597
-,,,,,,,,,,5,0.39,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,109-118,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=601
+,,,,,,,,,,5,0.39,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Wade,,,,109-118,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=601
 ,,,,,,,,,,5,0.31,Dallas Mavericks,foul,,,,,,,,,,Mayo,,,,,,Personal,,,109-118,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=602
 ,,,,,,,,,,5,0.31,Miami Heat,free throw,,,,,,,1,,2,Wade,1,,foul,made,,,,,109-119,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=603
 ,,,,,,,,,,5,0.31,Dallas Mavericks,substitute,,,,Douglas-Roberts,,Carter,,,,,,,,,,,,,109-119,,http://stats.nba.com/cvp.html?GameID=0021200469&GameEventID=608

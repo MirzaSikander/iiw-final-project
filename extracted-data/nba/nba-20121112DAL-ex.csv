@@ -15,7 +15,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.02,Dallas Mavericks,rebound,,,,,,,,,,Collison,,,,,,,,,3-3,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=18
 ,,,,,,,,,,1,9.49,Dallas Mavericks,shot,,,,,,,,,,Wright,,,,missed,,Running Jump Shot,,,3-3,5,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=19
 ,,,,,,,,,,1,9.48,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,3-3,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=20
-,,,,,,,,,,1,9.34,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Turnaround Hook Shot,,,3-3,6,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=21
+,,,,,,,,,,1,9.34,Minnesota Timberwolves,shot,,,Wright,,,,,,,Williams,,,,missed,,Turnaround Hook Shot,,,3-3,6,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=21
 ,,,,,,,,,,1,9.32,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,3-3,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=22
 ,,,,,,,,,,1,9.27,Dallas Mavericks,shot,Collison,,,,,,,,,Mayo,2,,,made,,Driving Jump Shot,,,3-5,4,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=23
 ,,,,,,,,,,1,9.07,Minnesota Timberwolves,shot,,,,,,,,,,Pekovic,2,,,made,,Turnaround Hook Shot,,,5-5,8,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=25
@@ -32,11 +32,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.55,Dallas Mavericks,shot,Collison,,,,,,,,,Brand,2,,,made,,Jump Shot,,,9-7,15,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=36
 ,,,,,,,,,,1,7.29,Minnesota Timberwolves,shot,Pekovic,,,,,,,,,Kirilenko,3,,,made,,3PT Jump Shot,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=37
 ,,,,,,,,,,1,7.08,Dallas Mavericks,shot,Brand,,,,,,,,,Mayo,2,,,made,,Jump Shot,,,12-9,18,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=38
-,,,,,,,,,,1,6.53,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,12-9,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=39
+,,,,,,,,,,1,6.53,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,Wright,,,,12-9,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=39
 ,,,,,,,,,,1,6.47,Dallas Mavericks,shot,Mayo,,,,,,,,,Wright,2,,,made,,Jump Bank Shot,,,12-11,2,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=40
-,,,,,,,,,,1,6.31,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,Layup,,,12-11,3,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=41
+,,,,,,,,,,1,6.31,Minnesota Timberwolves,shot,,,Crowder,,,,,,,Kirilenko,,,,missed,,Layup,,,12-11,3,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=41
 ,,,,,,,,,,1,6.29,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=42
-,,,,,,,,,,1,6.26,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Layup,,,12-11,1,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=43
+,,,,,,,,,,1,6.26,Dallas Mavericks,shot,,,Williams,,,,,,,Mayo,,,,missed,,Layup,,,12-11,1,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=43
 ,,,,,,,,,,1,6.24,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=44
 ,,,,,,,,,,1,6.24,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Putback Layup,,,12-11,1,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=45
 ,,,,,,,,,,1,6.24,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=46
@@ -52,7 +52,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.38,Minnesota Timberwolves,substitute,,,,Cunningham,,Lee,,,,,,,,,,,,,16-11,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=69
 ,,,,,,,,,,1,5.24,Dallas Mavericks,shot,,,,,,,,,,Collison,2,,,made,,Running Jump Shot,,,16-13,13,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=56
 ,,,,,,,,,,1,5.06,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,2,,,made,,Jump Shot,,,18-13,23,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=57
-,,,,,,,,,,1,4.53,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,,,,,18-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=58
+,,,,,,,,,,1,4.53,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Lost Ball,,Ridnour,,,,18-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=58
 ,,,,,,,,,,1,4.49,Minnesota Timberwolves,foul,,,,,,,,,,Williams,,,,,,Offensive Charge,,,18-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=59
 ,,,,,,,,,,1,4.49,Minnesota Timberwolves,turnover,,,,,,,,,,Williams,,,Foul,,,,,,18-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=60
 ,,,,,,,,,,1,4.49,Dallas Mavericks,substitute,,,,Murphy,,Brand,,,,,,,,,,,,,18-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=61
@@ -60,7 +60,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.34,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Jump Shot,,,18-13,17,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=62
 ,,,,,,,,,,1,4.33,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,18-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=63
 ,,,,,,,,,,1,4.22,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Cunningham,2,,,made,,Jump Shot,,,20-13,5,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=64
-,,,,,,,,,,1,4.13,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Layup,,,20-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=65
+,,,,,,,,,,1,4.13,Dallas Mavericks,shot,,,Shved,,,,,,,Mayo,,,,missed,,Layup,,,20-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=65
 ,,,,,,,,,,1,4.09,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,20-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=66
 ,,,,,,,,,,1,3.56,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,20-13,16,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=71
 ,,,,,,,,,,1,3.54,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,20-13,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=72
@@ -109,11 +109,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.45,Dallas Mavericks,shot,,,,,,,,,,Jones,,,,missed,,Tip Shot,,,25-17,1,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=132
 ,,,,,,,,,,2,11.43,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=134
 ,,,,,,,,,,2,11.30,Dallas Mavericks,foul,,,,,,,,,,Kaman,,,,,,Personal,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=135
-,,,,,,,,,,2,11.20,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,,,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=137
+,,,,,,,,,,2,11.20,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,Beaubois,,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=137
 ,,,,,,,,,,2,11.12,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,25-17,18,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=138
 ,,,,,,,,,,2,11.11,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,25-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=139
 ,,,,,,,,,,2,10.58,Minnesota Timberwolves,shot,Pekovic,,,,,,,,,Cunningham,2,,,made,,Jump Shot,,,27-17,15,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=140
-,,,,,,,,,,2,10.38,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,,,,,27-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=141
+,,,,,,,,,,2,10.38,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,Ridnour,,,,27-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=141
 ,,,,,,,,,,2,10.34,Minnesota Timberwolves,shot,Cunningham,,,,,,,,,Shved,2,,,made,,Running Dunk,,,29-17,1,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=142
 ,,,,,,,,,,2,10.33,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,29-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=143
 ,,,,,,,,,,2,10.33,Dallas Mavericks,substitute,,,,Collison,,Carter,,,,,,,,,,,,,29-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=144
@@ -124,7 +124,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.03,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,3PT Jump Shot,,,29-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=149
 ,,,,,,,,,,2,10.02,Dallas Mavericks,rebound,,,,,,,,,,Murphy,,,,,,,,,29-17,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=150
 ,,,,,,,,,,2,9.48,Dallas Mavericks,shot,,,,,,,,,,Kaman,2,,,made,,Driving Hook Shot,,,29-19,6,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=151
-,,,,,,,,,,2,9.24,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Lost Ball,,,,,,29-19,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=152
+,,,,,,,,,,2,9.24,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Lost Ball,,Collison,,,,29-19,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=152
 ,,,,,,,,,,2,9.20,Minnesota Timberwolves,foul,,,,,,,,,,Stiemsma,,,,,,Shooting,,,29-19,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=153
 ,,,,,,,,,,2,9.20,Dallas Mavericks,free throw,,,,,,,1,,2,Collison,1,,foul,made,,,,,29-20,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=154
 ,,,,,,,,,,2,9.20,Dallas Mavericks,substitute,,,,James,,Kaman,,,,,,,,,,,,,29-20,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=156
@@ -163,7 +163,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.35,Minnesota Timberwolves,substitute,,,,Amundson,,Stiemsma,,,,,,,,,,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=195
 ,,,,,,,,,,2,5.35,Minnesota Timberwolves,substitute,,,,Kirilenko,,Lee,,,,,,,,,,,,,31-28,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=196
 ,,,,,,,,,,2,5.35,Minnesota Timberwolves,free throw,,,,,,,2,,2,Conroy,1,,foul,made,,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=197
-,,,,,,,,,,2,5.12,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Jump Shot,,,32-28,18,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=199
+,,,,,,,,,,2,5.12,Dallas Mavericks,shot,,,Shved,,,,,,,Mayo,,,,missed,,Jump Shot,,,32-28,18,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=199
 ,,,,,,,,,,2,5.10,Minnesota Timberwolves,rebound,,,,,,,,,,Shved,,,,,,,,,32-28,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=200
 ,,,,,,,,,,2,5.05,Minnesota Timberwolves,shot,Shved,,,,,,,,,Kirilenko,2,,,made,,Driving Finger Roll Layup,,,34-28,2,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=201
 ,,,,,,,,,,2,4.50,Minnesota Timberwolves,foul,,,,,,,,,,Cunningham,,,,,,Shooting,,,34-28,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=202
@@ -180,7 +180,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.05,Dallas Mavericks,foul,,,,,,,,,,Brand,,,,,,Shooting,,,38-30,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=215
 ,,,,,,,,,,2,4.05,Minnesota Timberwolves,free throw,,,,,,,1,,1,Pekovic,1,,foul,made,,,,,39-30,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=216
 ,,,,,,,,,,2,3.51,Minnesota Timberwolves,foul,,,,,,,,,,Pekovic,,,,,,Personal,,,39-30,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=218
-,,,,,,,,,,2,3.44,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Jump Shot,,,39-30,16,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=220
+,,,,,,,,,,2,3.44,Dallas Mavericks,shot,,,Kirilenko,,,,,,,Kaman,,,,missed,,Jump Shot,,,39-30,16,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=220
 ,,,,,,,,,,2,3.43,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,39-30,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=221
 ,,,,,,,,,,2,3.36,Dallas Mavericks,turnover,,,,,,,,,,,,,Shot Clock,,,,,,39-30,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=223
 ,,,,,,,,,,2,3.22,Dallas Mavericks,foul,,,,,,,,,,Kaman,,,,,,Shooting,,,39-30,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=224
@@ -199,12 +199,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.00,Dallas Mavericks,shot,Beaubois,,,,,,,,,Jones,3,,,made,,3PT Jump Shot,,,43-35,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=245
 ,,,,,,,,,,2,1.41,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,Alley Oop Dunk,,,43-35,2,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=246
 ,,,,,,,,,,2,1.40,Dallas Mavericks,rebound,,,,,,,,,,Brand,,,,,,,,,43-35,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=247
-,,,,,,,,,,2,1.26,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,,,,,43-35,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=248
-,,,,,,,,,,2,1.05,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Lost Ball,,,,,,43-35,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=249
+,,,,,,,,,,2,1.26,Dallas Mavericks,turnover,,,,,,,,,,Kaman,,,Lost Ball,,Kirilenko,,,,43-35,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=248
+,,,,,,,,,,2,1.05,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Lost Ball,,Beaubois,,,,43-35,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=249
 ,,,,,,,,,,2,1.00,Dallas Mavericks,shot,Beaubois,,,,,,,,,Brand,2,,,made,,Finger Roll Layup,,,43-37,1,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=250
 ,,,,,,,,,,2,0.35,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,Fadeaway Jumper,,,43-37,21,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=251
 ,,,,,,,,,,2,0.34,Dallas Mavericks,rebound,,,,,,,,,,Beaubois,,,,,,,,,43-37,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=252
-,,,,,,,,,,2,0.28,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,,,,,43-37,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=253
+,,,,,,,,,,2,0.28,Dallas Mavericks,turnover,,,,,,,,,,Beaubois,,,Bad Pass,,Ridnour,,,,43-37,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=253
 ,,,,,,,,,,2,0.22,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,Pullup Jump Shot,,,43-37,15,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=254
 ,,,,,,,,,,2,0.21,Dallas Mavericks,rebound,,,,,,,,,,Beaubois,,,,,,,,,43-37,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=255
 ,,,,,,,,,,2,0.01,Dallas Mavericks,shot,Beaubois,,,,,,,,,Kaman,2,,,made,,Jump Shot,,,43-39,16,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=256
@@ -241,13 +241,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.45,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=297
 ,,,,,,,,,,3,7.37,Dallas Mavericks,foul,,,,,,,,,,Crowder,,,,,,Personal,,,53-47,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=298
 ,,,,,,,,,,3,7.27,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,55-47,18,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=299
-,,,,,,,,,,3,7.12,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,,,,,55-47,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=300
+,,,,,,,,,,3,7.12,Dallas Mavericks,turnover,,,,,,,,,,Collison,,,Bad Pass,,Ridnour,,,,55-47,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=300
 ,,,,,,,,,,3,7.07,Minnesota Timberwolves,shot,Pekovic,,,,,,,,,Lee,2,,,made,,Finger Roll Layup,,,57-47,2,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=301
 ,,,,,,,,,,3,7.05,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,57-47,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=302
 ,,,,,,,,,,3,7.05,Dallas Mavericks,substitute,,,,James,,Brand,,,,,,,,,,,,,57-47,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=304
 ,,,,,,,,,,3,6.50,Dallas Mavericks,shot,,,,,,,,,,Kaman,2,,,made,,Turnaround Hook Shot,,,57-49,5,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=306
 ,,,,,,,,,,3,6.26,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Cunningham,2,,,made,,Jump Shot,,,59-49,17,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=307
-,,,,,,,,,,3,6.13,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,,,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=308
+,,,,,,,,,,3,6.13,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Bad Pass,,Pekovic,,,,59-49,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=308
 ,,,,,,,,,,3,6.04,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Pekovic,2,,,made,,Finger Roll Layup,,,61-49,1,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=309
 ,,,,,,,,,,3,5.42,Dallas Mavericks,shot,Collison,,,,,,,,,Kaman,2,,,made,,Jump Bank Shot,,,61-51,17,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=310
 ,,,,,,,,,,3,5.25,Dallas Mavericks,substitute,,,,Carter,,Crowder,,,,,,,,,,,,,61-51,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=312
@@ -267,11 +267,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.07,Minnesota Timberwolves,free throw,,,,,,,2,,2,Pekovic,,,foul,missed,,,,,62-51,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=328
 ,,,,,,,,,,3,4.06,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,62-51,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=330
 ,,,,,,,,,,3,3.52,Minnesota Timberwolves,shot,Shved,,,,,,,,,Kirilenko,2,,,made,,Running Slam Dunk,,,64-51,1,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=331
-,,,,,,,,,,3,3.26,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Fadeaway Jumper,,,64-51,14,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=332
+,,,,,,,,,,3,3.26,Dallas Mavericks,shot,,,Shved,,,,,,,Collison,,,,missed,,Fadeaway Jumper,,,64-51,14,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=332
 ,,,,,,,,,,3,3.25,Dallas Mavericks,rebound,,,,,,,,,,,,,,,,,,,64-51,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=333
 ,,,,,,,,,,3,3.25,Dallas Mavericks,turnover,,,,,,,,,,,,,Shot Clock,,,,,,64-51,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=334
 ,,,,,,,,,,3,3.25,Dallas Mavericks,substitute,,,,Beaubois,,Collison,,,,,,,,,,,,,64-51,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=335
-,,,,,,,,,,3,3.07,Minnesota Timberwolves,turnover,,,,,,,,,,Cunningham,,,Lost Ball,,,,,,64-51,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=336
+,,,,,,,,,,3,3.07,Minnesota Timberwolves,turnover,,,,,,,,,,Cunningham,,,Lost Ball,,Carter,,,,64-51,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=336
 ,,,,,,,,,,3,2.58,Dallas Mavericks,shot,,,,,,,,,,Mayo,,,,missed,,Pullup Jump Shot,,,64-51,13,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=337
 ,,,,,,,,,,3,2.57,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,64-51,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=338
 ,,,,,,,,,,3,2.50,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,Pullup Jump Shot,,,64-51,21,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=339
@@ -322,13 +322,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.38,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,69-60,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=397
 ,,,,,,,,,,4,9.22,Minnesota Timberwolves,foul,,,,,,,,,,,,,,,,,,,69-60,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=398
 ,,,,,,,,,,4,9.22,Minnesota Timberwolves,turnover,,,,,,,,,,Amundson,,,Foul,,,,,,69-60,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=399
-,,,,,,,,,,4,9.22,Dallas Mavericks,shot,,,,,,,,,,Carter,,,,missed,,Jump Shot,,,69-60,4,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=404
+,,,,,,,,,,4,9.22,Dallas Mavericks,shot,,,Williams,,,,,,,Carter,,,,missed,,Jump Shot,,,69-60,4,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=404
 ,,,,,,,,,,4,9.22,Dallas Mavericks,rebound,,,,,,,,,,James,,,,,,,,,69-60,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=405
 ,,,,,,,,,,4,9.09,Dallas Mavericks,shot,,,,,,,,,,James,2,,,made,,Layup,,,69-62,2,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=400
 ,,,,,,,,,,4,9.08,Dallas Mavericks,foul,,,,,,,,,,,,,,,,,,,69-62,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=401
 ,,,,,,,,,,4,9.08,Minnesota Timberwolves,free throw,,,,,,,,,,Shved,1,,Technical,made,,,,,70-62,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=402
 ,,,,,,,,,,4,8.49,Minnesota Timberwolves,turnover,,,,,,,,,,Williams,,,Traveling,,,,,,70-62,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=406
-,,,,,,,,,,4,8.29,Dallas Mavericks,turnover,,,,,,,,,,James,,,Lost Ball,,,,,,70-62,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=411
+,,,,,,,,,,4,8.29,Dallas Mavericks,turnover,,,,,,,,,,James,,,Lost Ball,,Kirilenko,,,,70-62,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=411
 ,,,,,,,,,,4,8.26,Dallas Mavericks,foul,,,,,,,,,,Jones,,,,,,Shooting,,,70-62,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=412
 ,,,,,,,,,,4,8.26,Minnesota Timberwolves,free throw,,,,,,,1,,2,Williams,1,,foul,made,,,,,71-62,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=413
 ,,,,,,,,,,4,8.26,Dallas Mavericks,substitute,,,,Collison,,Beaubois,,,,,,,,,,,,,71-62,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=415
@@ -376,7 +376,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.21,Minnesota Timberwolves,shot,,,,,,,,,,Shved,3,,,made,,3PT Step Back Jump Shot,,,82-70,24,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=477
 ,,,,,,,,,,4,4.03,Dallas Mavericks,shot,,,,,,,,,,Kaman,,,,missed,,Turnaround Bank Hook Shot,,,82-70,8,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=478
 ,,,,,,,,,,4,4.02,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,82-70,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=479
-,,,,,,,,,,4,3.46,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,,,,,82-70,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=480
+,,,,,,,,,,4,3.46,Minnesota Timberwolves,turnover,,,,,,,,,,Ridnour,,,Bad Pass,,Carter,,,,82-70,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=480
 ,,,,,,,,,,4,3.46,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Personal,,,82-70,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=481
 ,,,,,,,,,,4,3.36,Minnesota Timberwolves,foul,,,,,,,,,,Amundson,,,,,,Shooting,,,82-70,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=482
 ,,,,,,,,,,4,3.36,Dallas Mavericks,free throw,,,,,,,1,,2,Collison,1,,foul,made,,,,,82-71,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=483
@@ -390,7 +390,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.09,Dallas Mavericks,free throw,,,,,,,,,,Collison,1,,Technical,made,,,,,85-74,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=494
 ,,,,,,,,,,4,3.03,Minnesota Timberwolves,timeout,,,,,,,,,,,,,,,,,,,85-74,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=497
 ,,,,,,,,,,4,3.03,Dallas Mavericks,substitute,,,,Murphy,,Kaman,,,,,,,,,,,,,85-74,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=498
-,,,,,,,,,,4,2.54,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,,,,,85-74,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=500
+,,,,,,,,,,4,2.54,Minnesota Timberwolves,turnover,,,,,,,,,,Shved,,,Bad Pass,,Collison,,,,85-74,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=500
 ,,,,,,,,,,4,2.52,Minnesota Timberwolves,foul,,,,,,,,,,Ridnour,,,,,,Shooting,,,85-74,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=501
 ,,,,,,,,,,4,2.52,Dallas Mavericks,free throw,,,,,,,1,,2,Collison,1,,foul,made,,,,,85-75,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=502
 ,,,,,,,,,,4,2.52,Minnesota Timberwolves,substitute,,,,Williams,,Amundson,,,,,,,,,,,,,85-75,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=504
@@ -401,7 +401,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.27,Dallas Mavericks,rebound,,,,,,,,,,Murphy,,,,,,,,,85-76,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=510
 ,,,,,,,,,,4,2.16,Dallas Mavericks,shot,,,,,,,,,,Mayo,2,,,made,,Driving Jump Shot,,,85-78,7,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=511
 ,,,,,,,,,,4,1.54,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=512
-,,,,,,,,,,4,1.45,Dallas Mavericks,shot,,,,,,,,,,Collison,,,,missed,,Driving Dunk,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=513
+,,,,,,,,,,4,1.45,Dallas Mavericks,shot,,,Kirilenko,,,,,,,Collison,,,,missed,,Driving Dunk,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=513
 ,,,,,,,,,,4,1.44,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=514
 ,,,,,,,,,,4,1.33,Minnesota Timberwolves,turnover,,,,,,,,,,Williams Out of Bounds,,,Lost Ball,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=515
 ,,,,,,,,,,4,1.33,Dallas Mavericks,timeout,,,,,,,,,,,,,,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=516
@@ -411,7 +411,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.23,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=521
 ,,,,,,,,,,4,1.01,Minnesota Timberwolves,shot,,,,,,,,,,Shved,,,,missed,,Jump Shot,,,85-78,22,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=522
 ,,,,,,,,,,4,0.59,Dallas Mavericks,rebound,,,,,,,,,,Mayo,,,,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=523
-,,,,,,,,,,4,0.56,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=524
+,,,,,,,,,,4,0.56,Dallas Mavericks,turnover,,,,,,,,,,Mayo,,,Lost Ball,,Lee,,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=524
 ,,,,,,,,,,4,0.56,Dallas Mavericks,foul,,,,,,,,,,Beaubois,,,,,,Personal,,,85-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=525
 ,,,,,,,,,,4,0.56,Minnesota Timberwolves,free throw,,,,,,,1,,2,Ridnour,1,,foul,made,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=526
 ,,,,,,,,,,4,0.56,Minnesota Timberwolves,free throw,,,,,,,2,,2,Ridnour,,,foul,missed,,,,,86-78,,http://stats.nba.com/cvp.html?GameID=0021200100&GameEventID=528

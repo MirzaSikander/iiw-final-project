@@ -6,7 +6,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.49,Miami Heat,shot,,,,,,,,,,James,,,,missed,,3PT Jump Shot,,,0-2,26,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=9
 ,,,,,,,,,,1,11.46,Washington Wizards,rebound,,,,,,,,,,Crawford,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=10
 ,,,,,,,,,,1,11.31,Miami Heat,jumpball,,Okafor,,,Haslem,,,,,,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=11
-,,,,,,,,,,1,11.22,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=12
+,,,,,,,,,,1,11.22,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Bosh,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=12
 ,,,,,,,,,,1,11.09,Miami Heat,shot,,,,,,,,,,Bosh,2,,,made,,Fadeaway Jumper,,,0-4,12,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=13
 ,,,,,,,,,,1,10.50,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,0-4,26,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=14
 ,,,,,,,,,,1,10.49,Miami Heat,rebound,,,,,,,,,,Haslem,,,,,,,,,0-4,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=15
@@ -81,16 +81,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.01,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,7-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=93
 ,,,,,,,,,,1,2.49,Miami Heat,shot,,,,,,,,,,Battier,,,,missed,,3PT Jump Shot,,,7-23,26,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=94
 ,,,,,,,,,,1,2.48,Washington Wizards,rebound,,,,,,,,,,Livingston,,,,,,,,,7-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=95
-,,,,,,,,,,1,2.39,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,Jump Shot,,,7-23,7,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=96
+,,,,,,,,,,1,2.39,Washington Wizards,shot,,,Battier,,,,,,,Beal,,,,missed,,Jump Shot,,,7-23,7,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=96
 ,,,,,,,,,,1,2.38,Miami Heat,rebound,,,,,,,,,,Anthony,,,,,,,,,7-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=97
-,,,,,,,,,,1,2.27,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,7-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=98
+,,,,,,,,,,1,2.27,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Singleton,,,,7-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=98
 ,,,,,,,,,,1,2.22,Washington Wizards,shot,,,,,,,,,,Webster,2,,,made,,Running Dunk,,,9-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=99
 ,,,,,,,,,,1,2.16,Miami Heat,timeout,,,,,,,,,,,,,,,,,,,9-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=100
 ,,,,,,,,,,1,2.16,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,9-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=135
 ,,,,,,,,,,1,2.16,Washington Wizards,substitute,,,,Martin,,Beal,,,,,,,,,,,,,9-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=101
 ,,,,,,,,,,1,2.16,Miami Heat,substitute,,,,Allen,,Wade,,,,,,,,,,,,,9-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=102
 ,,,,,,,,,,1,2.16,Miami Heat,substitute,,,,Cole,,Chalmers,,,,,,,,,,,,,9-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=103
-,,,,,,,,,,1,2.07,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,,,,,9-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=104
+,,,,,,,,,,1,2.07,Miami Heat,turnover,,,,,,,,,,James,,,Bad Pass,,Singleton,,,,9-23,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=104
 ,,,,,,,,,,1,2.04,Washington Wizards,shot,,,,,,,,,,Singleton,2,,,made,,Running Dunk,,,11-23,1,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=105
 ,,,,,,,,,,1,1.40,Miami Heat,shot,Cole,,,,,,,,,Battier,3,,,made,,3PT Jump Shot,,,11-26,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=106
 ,,,,,,,,,,1,1.16,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,Jump Shot,,,11-26,16,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=108
@@ -108,12 +108,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.08,Washington Wizards,substitute,,,,Crawford,,Webster,,,,,,,,,,,,,14-26,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=121
 ,,,,,,,,,,1,0.02,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Jump Bank Shot,,,14-26,7,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=122
 ,,,,,,,,,,1,0.01,Washington Wizards,rebound,,,,,,,,,,Singleton,,,,,,,,,14-26,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=123
-,,,,,,,,,,2,11.42,Washington Wizards,turnover,,,,,,,,,,Martin,,,Bad Pass,,,,,,14-26,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=127
+,,,,,,,,,,2,11.42,Washington Wizards,turnover,,,,,,,,,,Martin,,,Bad Pass,,Cole,,,,14-26,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=127
 ,,,,,,,,,,2,11.38,Miami Heat,shot,,,,,,,,,,Cole,,,,missed,,Running Jump Shot,,,14-26,4,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=128
 ,,,,,,,,,,2,11.37,Washington Wizards,rebound,,,,,,,,,,Martin,,,,,,,,,14-26,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=129
 ,,,,,,,,,,2,11.32,Miami Heat,foul,,,,,,,,,,Allen,,,,,,Personal,,,14-26,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=130
 ,,,,,,,,,,2,11.21,Washington Wizards,shot,Crawford,,,,,,,,,Vesely,2,,,made,,Dunk,,,16-26,1,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=131
-,,,,,,,,,,2,11.05,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,,,,,16-26,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=132
+,,,,,,,,,,2,11.05,Miami Heat,turnover,,,,,,,,,,Cole,,,Bad Pass,,Crawford,,,,16-26,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=132
 ,,,,,,,,,,2,10.53,Washington Wizards,shot,Vesely,,,,,,,,,Martin,3,,,made,,3PT Jump Shot,,,19-26,25,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=133
 ,,,,,,,,,,2,10.32,Miami Heat,shot,,,,,,,,,,Cole,2,,,made,,Turnaround Bank Shot,,,19-28,9,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=134
 ,,,,,,,,,,2,10.16,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Jump Shot,,,19-28,14,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=136
@@ -168,7 +168,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.18,Miami Heat,shot,Wade,,,,,,,,,Chalmers,2,,,made,,Driving Layup,,,26-35,4,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=193
 ,,,,,,,,,,2,5.00,Washington Wizards,shot,Crawford,,,,,,,,,Okafor,2,,,made,,Dunk,,,28-35,1,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=194
 ,,,,,,,,,,2,4.34,Miami Heat,shot,,,,,,,,,,Wade,2,,,made,,Driving Layup,,,28-37,1,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=196
-,,,,,,,,,,2,4.15,Washington Wizards,turnover,,,,,,,,,,Beal,,,Lost Ball,,,,,,28-37,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=197
+,,,,,,,,,,2,4.15,Washington Wizards,turnover,,,,,,,,,,Beal,,,Lost Ball,,Wade,,,,28-37,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=197
 ,,,,,,,,,,2,4.11,Miami Heat,shot,Wade,,,,,,,,,James,2,,,made,,Dunk,,,28-39,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=198
 ,,,,,,,,,,2,3.47,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,28-39,21,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=199
 ,,,,,,,,,,2,3.46,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,28-39,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=200
@@ -225,8 +225,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.24,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,36-52,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=266
 ,,,,,,,,,,3,10.16,Miami Heat,shot,,,,,,,,,,Chalmers,,,,missed,,3PT Jump Shot,,,36-52,24,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=267
 ,,,,,,,,,,3,10.15,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,36-52,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=268
-,,,,,,,,,,3,10.12,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,,,,,36-52,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=269
-,,,,,,,,,,3,10.07,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,36-52,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=270
+,,,,,,,,,,3,10.12,Miami Heat,turnover,,,,,,,,,,Bosh,,,Lost Ball,,Crawford,,,,36-52,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=269
+,,,,,,,,,,3,10.07,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Haslem,,,,36-52,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=270
 ,,,,,,,,,,3,10.03,Miami Heat,shot,James,,,,,,,,,Bosh,2,,,made,,Layup,,,36-54,2,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=271
 ,,,,,,,,,,3,9.37,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,Pullup Jump Shot,,,36-54,12,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=272
 ,,,,,,,,,,3,9.34,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,36-54,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=273
@@ -236,7 +236,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.08,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,36-54,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=277
 ,,,,,,,,,,3,9.03,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,36-54,25,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=278
 ,,,,,,,,,,3,9.01,Miami Heat,rebound,,,,,,,,,,Bosh,,,,,,,,,36-54,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=279
-,,,,,,,,,,3,8.58,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,,,,,36-54,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=280
+,,,,,,,,,,3,8.58,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Bad Pass,,Beal,,,,36-54,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=280
 ,,,,,,,,,,3,8.53,Miami Heat,violation,,,,,,,,,,Bosh,,,Defensive Goaltending,,,,,,36-54,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=282
 ,,,,,,,,,,3,8.53,Washington Wizards,shot,,,,,,,,,,Beal,2,,,made,,Driving Layup,,,38-54,1,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=281
 ,,,,,,,,,,3,8.28,Miami Heat,shot,Wade,,,,,,,,,Chalmers,3,,,made,,3PT Jump Shot,,,38-57,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=283
@@ -258,16 +258,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.49,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,40-62,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=302
 ,,,,,,,,,,3,5.49,Washington Wizards,substitute,,,,Seraphin,,Okafor,,,,,,,,,,,,,40-62,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=304
 ,,,,,,,,,,3,5.49,Miami Heat,free throw,,,,,,,2,,2,James,1,,foul,made,,,,,40-63,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=305
-,,,,,,,,,,3,5.38,Washington Wizards,turnover,,,,,,,,,,Singleton,,,Bad Pass,,,,,,40-63,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=307
+,,,,,,,,,,3,5.38,Washington Wizards,turnover,,,,,,,,,,Singleton,,,Bad Pass,,Haslem,,,,40-63,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=307
 ,,,,,,,,,,3,5.25,Miami Heat,shot,Wade,,,,,,,,,Haslem,2,,,made,,Jump Shot,,,40-65,18,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=308
-,,,,,,,,,,3,5.14,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,,,,,40-65,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=309
+,,,,,,,,,,3,5.14,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Bad Pass,,Wade,,,,40-65,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=309
 ,,,,,,,,,,3,5.05,Washington Wizards,foul,,,,,,,,,,Singleton,,,,,,Personal,,,40-65,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=310
 ,,,,,,,,,,3,5.05,Washington Wizards,substitute,,,,Livingston,,Crawford,,,,,,,,,,,,,40-65,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=311
 ,,,,,,,,,,3,5.05,Washington Wizards,substitute,,,,Vesely,,Singleton,,,,,,,,,,,,,40-65,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=312
 ,,,,,,,,,,3,4.51,Washington Wizards,foul,,,,,,,,,,Vesely,,,,,,Shooting,,,40-65,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=313
 ,,,,,,,,,,3,4.51,Miami Heat,free throw,,,,,,,1,,2,James,1,,foul,made,,,,,40-66,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=314
 ,,,,,,,,,,3,4.51,Miami Heat,free throw,,,,,,,2,,2,James,1,,foul,made,,,,,40-67,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=316
-,,,,,,,,,,3,4.41,Washington Wizards,turnover,,,,,,,,,,Vesely,,,Bad Pass,,,,,,40-67,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=318
+,,,,,,,,,,3,4.41,Washington Wizards,turnover,,,,,,,,,,Vesely,,,Bad Pass,,James,,,,40-67,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=318
 ,,,,,,,,,,3,4.36,Miami Heat,shot,Wade,,,,,,,,,James,2,,,made,,Running Layup,,,40-69,1,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=319
 ,,,,,,,,,,3,4.35,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,40-69,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=320
 ,,,,,,,,,,3,4.22,Washington Wizards,turnover,,,,,,,,,,Livingston,,,Bad Pass,,,,,,40-69,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=324
@@ -298,10 +298,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.41,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Jump Shot,,,46-73,16,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=352
 ,,,,,,,,,,3,1.40,Miami Heat,rebound,,,,,,,,,,James,,,,,,,,,46-73,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=353
 ,,,,,,,,,,3,1.29,Miami Heat,shot,,,,,,,,,,James,2,,,made,,Pullup Jump Shot,,,46-75,17,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=354
-,,,,,,,,,,3,1.25,Washington Wizards,turnover,,,,,,,,,,Livingston,,,Lost Ball,,,,,,46-75,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=357
+,,,,,,,,,,3,1.25,Washington Wizards,turnover,,,,,,,,,,Livingston,,,Lost Ball,,Cole,,,,46-75,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=357
 ,,,,,,,,,,3,1.25,Miami Heat,jumpball,,Beal,,,Cole,,,,,,,,,,,,,,46-75,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=356
 ,,,,,,,,,,3,1.20,Miami Heat,shot,Allen,,,,,,,,,James,2,,,made,,Layup,,,46-77,1,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=358
-,,,,,,,,,,3,1.07,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,,,,,46-77,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=359
+,,,,,,,,,,3,1.07,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,Allen,,,,46-77,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=359
 ,,,,,,,,,,3,0.44,Miami Heat,shot,,,,,,,,,,James,,,,missed,,Turnaround Jump Shot,,,46-77,13,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=360
 ,,,,,,,,,,3,0.43,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,46-77,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=361
 ,,,,,,,,,,3,0.32,Washington Wizards,shot,,,,,,,,,,Martin,,,,missed,,3PT Jump Shot,,,46-77,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=362
@@ -320,7 +320,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.27,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,49-81,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=378
 ,,,,,,,,,,4,10.27,Miami Heat,foul,,,,,,,,,,Anthony,,,,,,Loose ball,,,49-81,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=379
 ,,,,,,,,,,4,10.06,Washington Wizards,shot,,,,,,,,,,Martin,2,,,made,,Jump Shot,,,51-81,9,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=380
-,,,,,,,,,,4,9.52,Miami Heat,turnover,,,,,,,,,,Cole,,,Lost Ball,,,,,,51-81,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=381
+,,,,,,,,,,4,9.52,Miami Heat,turnover,,,,,,,,,,Cole,,,Lost Ball,,Crawford,,,,51-81,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=381
 ,,,,,,,,,,4,9.46,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,3PT Jump Shot,,,51-81,25,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=382
 ,,,,,,,,,,4,9.45,Miami Heat,rebound,,,,,,,,,,Allen,,,,,,,,,51-81,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=383
 ,,,,,,,,,,4,9.37,Washington Wizards,foul,,,,,,,,,,Vesely,,,,,,Shooting,,,51-81,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=384
@@ -329,7 +329,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.36,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,51-82,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=389
 ,,,,,,,,,,4,9.17,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,Turnaround Jump Shot,,,51-82,18,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=390
 ,,,,,,,,,,4,9.16,Miami Heat,rebound,,,,,,,,,,Miller,,,,,,,,,51-82,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=391
-,,,,,,,,,,4,9.03,Miami Heat,turnover,,,,,,,,,,Battier,,,Bad Pass,,,,,,51-82,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=392
+,,,,,,,,,,4,9.03,Miami Heat,turnover,,,,,,,,,,Battier,,,Bad Pass,,Livingston,,,,51-82,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=392
 ,,,,,,,,,,4,8.50,Washington Wizards,shot,,,,,,,,,,Seraphin,,,,missed,,Jump Shot,,,51-82,9,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=393
 ,,,,,,,,,,4,8.49,Washington Wizards,rebound,,,,,,,,,,Livingston,,,,,,,,,51-82,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=394
 ,,,,,,,,,,4,8.49,Miami Heat,foul,,,,,,,,,,Battier,,,,,,Personal,,,51-82,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=395
@@ -385,13 +385,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.29,Miami Heat,turnover,,,,,,,,,,Chalmers,,,Step Out of Bounds,,,,,,70-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=464
 ,,,,,,,,,,4,1.29,Washington Wizards,substitute,,,,Webster,,Beal,,,,,,,,,,,,,70-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=465
 ,,,,,,,,,,4,1.18,Washington Wizards,turnover,,,,,,,,,,Webster,,,Double Dribble,,,,,,70-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=466
-,,,,,,,,,,4,0.59,Miami Heat,turnover,,,,,,,,,,Jones,,,Bad Pass,,,,,,70-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=467
+,,,,,,,,,,4,0.59,Miami Heat,turnover,,,,,,,,,,Jones,,,Bad Pass,,Webster,,,,70-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=467
 ,,,,,,,,,,4,0.57,Miami Heat,foul,,,,,,,,,,Cole,,,,,,Personal,,,70-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=468
 ,,,,,,,,,,4,0.57,Washington Wizards,free throw,,,,,,,1,,2,Webster,1,,foul,made,,,,,71-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=469
 ,,,,,,,,,,4,0.57,Washington Wizards,free throw,,,,,,,2,,2,Webster,1,,foul,made,,,,,72-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=473
 ,,,,,,,,,,4,0.39,Miami Heat,shot,,,,,,,,,,Lewis,,,,missed,,3PT Step Back Jump Shot,,,72-100,26,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=475
 ,,,,,,,,,,4,0.38,Washington Wizards,rebound,,,,,,,,,,Martin,,,,,,,,,72-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=476
-,,,,,,,,,,4,0.35,Washington Wizards,shot,,,,,,,,,,Martin,,,,missed,,Driving Layup,,,72-100,1,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=477
+,,,,,,,,,,4,0.35,Washington Wizards,shot,,,Lewis,,,,,,,Martin,,,,missed,,Driving Layup,,,72-100,1,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=477
 ,,,,,,,,,,4,0.34,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,72-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=478
 ,,,,,,,,,,4,0.27,Washington Wizards,shot,,,,,,,,,,Livingston,,,,missed,,Jump Shot,,,72-100,11,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=479
 ,,,,,,,,,,4,0.26,Miami Heat,rebound,,,,,,,,,,Chalmers,,,,,,,,,72-100,,http://stats.nba.com/cvp.html?GameID=0021200339&GameEventID=480

@@ -1,5 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.39,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Layup,,,,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=2
+,,,,,,,,,,1,11.39,Charlotte Bobcats,shot,,,Hibbert,,,,,,,Biyombo,,,,missed,,Layup,,,,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=2
 ,,,,,,,,,,1,11.36,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=3
 ,,,,,,,,,,1,11.32,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,2,,,made,,Jump Shot,,,0-2,17,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=4
 ,,,,,,,,,,1,11.14,Indiana Pacers,shot,West,,,,,,,,,Hibbert,2,,,made,,Hook Shot,,,2-2,5,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=5
@@ -7,7 +7,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.46,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=7
 ,,,,,,,,,,1,10.42,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Personal,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=8
 ,,,,,,,,,,1,10.26,Indiana Pacers,shot,Stephenson,,,,,,,,,West,2,,,made,,Layup,,,4-2,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=9
-,,,,,,,,,,1,10.20,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,4-2,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=10
+,,,,,,,,,,1,10.20,Charlotte Bobcats,shot,,,Hibbert,,,,,,,Kidd-Gilchrist,,,,missed,,Layup,,,4-2,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=10
 ,,,,,,,,,,1,10.18,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=11
 ,,,,,,,,,,1,10.09,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Jump Shot,,,4-2,14,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=12
 ,,,,,,,,,,1,10.07,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,4-2,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=13
@@ -16,14 +16,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.04,Charlotte Bobcats,free throw,,,,,,,2,,2,Henderson,,,foul,missed,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=17
 ,,,,,,,,,,1,10.03,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,4-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=19
 ,,,,,,,,,,1,9.45,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Layup,,,6-3,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=20
-,,,,,,,,,,1,9.36,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,,,,,6-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=21
+,,,,,,,,,,1,9.36,Charlotte Bobcats,turnover,,,,,,,,,,Walker,,,Lost Ball,,Hill,,,,6-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=21
 ,,,,,,,,,,1,9.31,Indiana Pacers,shot,Hill,,,,,,,,,George,2,,,made,,Layup,,,8-3,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=22
 ,,,,,,,,,,1,9.30,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,8-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=23
 ,,,,,,,,,,1,9.16,Charlotte Bobcats,shot,,,,,,,,,,Warrick,,,,missed,,Jump Shot,,,8-3,19,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=25
 ,,,,,,,,,,1,9.14,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,8-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=26
 ,,,,,,,,,,1,8.59,Indiana Pacers,shot,Stephenson,,,,,,,,,Hibbert,2,,,made,,Hook Shot,,,10-3,6,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=27
-,,,,,,,,,,1,8.45,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Bad Pass,,,,,,10-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=28
-,,,,,,,,,,1,8.41,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,,,,,10-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=29
+,,,,,,,,,,1,8.45,Charlotte Bobcats,turnover,,,,,,,,,,Henderson,,,Bad Pass,,Stephenson,,,,10-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=28
+,,,,,,,,,,1,8.41,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,Walker,,,,10-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=29
 ,,,,,,,,,,1,8.28,Charlotte Bobcats,shot,,,,,,,,,,Biyombo,,,,missed,,Hook Shot,,,10-3,4,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=30
 ,,,,,,,,,,1,8.26,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,10-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=31
 ,,,,,,,,,,1,8.19,Charlotte Bobcats,substitute,,,,Haywood,,Biyombo,,,,,,,,,,,,,10-3,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=33
@@ -70,13 +70,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.16,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,22-11,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=80
 ,,,,,,,,,,1,4.09,Indiana Pacers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,22-11,26,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=81
 ,,,,,,,,,,1,4.07,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,22-11,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=82
-,,,,,,,,,,1,4.06,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Layup,,,22-11,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=83
+,,,,,,,,,,1,4.06,Indiana Pacers,shot,,,Haywood,,,,,,,Hibbert,,,,missed,,Layup,,,22-11,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=83
 ,,,,,,,,,,1,4.04,Charlotte Bobcats,rebound,,,,,,,,,,Adrien,,,,,,,,,22-11,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=84
 ,,,,,,,,,,1,3.54,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Driving Layup,,,22-11,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=85
 ,,,,,,,,,,1,3.53,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,22-11,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=86
 ,,,,,,,,,,1,3.46,Indiana Pacers,shot,Green,,,,,,,,,Hill,3,,,made,,3PT Jump Shot,,,25-11,25,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=87
 ,,,,,,,,,,1,3.22,Charlotte Bobcats,shot,Gordon,,,,,,,,,Walker,3,,,made,,3PT Jump Shot,,,25-14,25,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=88
-,,,,,,,,,,1,3.04,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=89
+,,,,,,,,,,1,3.04,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Bad Pass,,Walker,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=89
 ,,,,,,,,,,1,3.02,Indiana Pacers,foul,,,,,,,,,,Hill,,,,,,Personal,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=90
 ,,,,,,,,,,1,3.02,Charlotte Bobcats,substitute,,,,Sessions,,Walker,,,,,,,,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=91
 ,,,,,,,,,,1,2.52,Charlotte Bobcats,shot,,,,,,,,,,Haywood,,,,missed,,Turnaround Jump Shot,,,25-14,5,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=92
@@ -84,13 +84,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.43,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=94
 ,,,,,,,,,,1,2.34,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,25-14,25,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=98
 ,,,,,,,,,,1,2.33,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=99
-,,,,,,,,,,1,2.24,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=100
+,,,,,,,,,,1,2.24,Charlotte Bobcats,turnover,,,,,,,,,,Sessions,,,Bad Pass,,George,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=100
 ,,,,,,,,,,1,2.24,Charlotte Bobcats,foul,,,,,,,,,,Gordon,,,,,,clear path,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=101
 ,,,,,,,,,,1,2.24,Indiana Pacers,free throw,,,,,,,,,,George,,,foul,missed,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=103
 ,,,,,,,,,,1,2.24,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=104
 ,,,,,,,,,,1,2.24,Indiana Pacers,free throw,,,,,,,,,,George,,,foul,missed,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=105
 ,,,,,,,,,,1,2.24,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=106
-,,,,,,,,,,1,2.07,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=107
+,,,,,,,,,,1,2.07,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,Taylor,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=107
 ,,,,,,,,,,1,2.06,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Personal,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=108
 ,,,,,,,,,,1,2.06,Indiana Pacers,substitute,,,,Mahinmi,,Hill,,,,,,,,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=109
 ,,,,,,,,,,1,2.06,Indiana Pacers,substitute,,,,Augustin,,Hibbert,,,,,,,,,,,,,25-14,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=110
@@ -98,7 +98,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.42,Indiana Pacers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,25-16,25,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=112
 ,,,,,,,,,,1,1.42,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,25-16,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=113
 ,,,,,,,,,,1,1.27,Indiana Pacers,foul,,,,,,,,,,Green,,,,,,Personal,,,25-16,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=114
-,,,,,,,,,,1,1.16,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,25-16,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=115
+,,,,,,,,,,1,1.16,Charlotte Bobcats,shot,,,Mahinmi,,,,,,,Sessions,,,,missed,,Layup,,,25-16,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=115
 ,,,,,,,,,,1,1.14,Charlotte Bobcats,rebound,,,,,,,,,,Adrien,,,,,,,,,25-16,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=116
 ,,,,,,,,,,1,1.11,Charlotte Bobcats,shot,,,,,,,,,,Adrien,2,,,made,,Jump Shot,,,25-18,5,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=117
 ,,,,,,,,,,1,0.50,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,25-18,17,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=118
@@ -115,7 +115,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.43,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=134
 ,,,,,,,,,,2,11.34,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Jump Shot,,,27-20,20,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=135
 ,,,,,,,,,,2,11.33,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=136
-,,,,,,,,,,2,11.27,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Lost Ball,,,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=137
+,,,,,,,,,,2,11.27,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist,,,Lost Ball,,Stephenson,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=137
 ,,,,,,,,,,2,11.26,Charlotte Bobcats,foul,,,,,,,,,,Taylor,,,,,,Personal,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=138
 ,,,,,,,,,,2,11.26,Charlotte Bobcats,substitute,,,,Diop,,Haywood,,,,,,,,,,,,,27-20,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=139
 ,,,,,,,,,,2,11.02,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,Driving Reverse Layup,,,27-20,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=140
@@ -141,11 +141,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.52,Indiana Pacers,free throw,,,,,,,2,,2,Hansbrough,1,,foul,made,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=167
 ,,,,,,,,,,2,9.32,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,3PT Jump Shot,,,33-22,26,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=169
 ,,,,,,,,,,2,9.31,Indiana Pacers,rebound,,,,,,,,,,Augustin,,,,,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=170
-,,,,,,,,,,2,9.28,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=171
+,,,,,,,,,,2,9.28,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,Sessions,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=171
 ,,,,,,,,,,2,9.12,Charlotte Bobcats,turnover,,,,,,,,,,Kidd-Gilchrist Out of Bounds,,,Lost Ball,,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=172
 ,,,,,,,,,,2,8.57,Indiana Pacers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,33-22,25,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=173
 ,,,,,,,,,,2,8.55,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=174
-,,,,,,,,,,2,8.52,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=175
+,,,,,,,,,,2,8.52,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,Diop,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=175
 ,,,,,,,,,,2,8.45,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Fadeaway Jumper,,,33-22,6,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=176
 ,,,,,,,,,,2,8.43,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=177
 ,,,,,,,,,,2,8.38,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Traveling,,,,,,33-22,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=178
@@ -154,7 +154,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.25,Charlotte Bobcats,shot,Henderson,,,,,,,,,Warrick,2,,,made,,Jump Shot,,,33-24,16,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=184
 ,,,,,,,,,,2,8.14,Indiana Pacers,foul,,,,,,,,,,,,,,,,,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=185
 ,,,,,,,,,,2,8.14,Indiana Pacers,turnover,,,,,,,,,,Mahinmi,,,Foul,,,,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=186
-,,,,,,,,,,2,7.54,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,33-24,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=189
+,,,,,,,,,,2,7.54,Charlotte Bobcats,shot,,,Mahinmi,,,,,,,Sessions,,,,missed,,Layup,,,33-24,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=189
 ,,,,,,,,,,2,7.52,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=190
 ,,,,,,,,,,2,7.48,Indiana Pacers,foul,,,,,,,,,,Hansbrough,,,,,,Loose ball,,,33-24,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=191
 ,,,,,,,,,,2,7.38,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Jump Shot,,,33-26,15,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=192
@@ -172,7 +172,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.29,Indiana Pacers,shot,Stephenson,,,,,,,,,Augustin,3,,,made,,3PT Jump Shot,,,36-28,26,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=204
 ,,,,,,,,,,2,6.23,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,36-28,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=205
 ,,,,,,,,,,2,6.23,Charlotte Bobcats,substitute,,,,Gordon,,Walker,,,,,,,,,,,,,36-28,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=208
-,,,,,,,,,,2,6.05,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Driving Layup,,,36-28,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=209
+,,,,,,,,,,2,6.05,Charlotte Bobcats,shot,,,Mahinmi,,,,,,,Henderson,,,,missed,,Driving Layup,,,36-28,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=209
 ,,,,,,,,,,2,6.04,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,36-28,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=210
 ,,,,,,,,,,2,5.49,Indiana Pacers,shot,,,,,,,,,,West,2,,,made,,Layup,,,38-28,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=211
 ,,,,,,,,,,2,5.34,Indiana Pacers,foul,,,,,,,,,,,,,,,,,,,38-28,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=212
@@ -184,20 +184,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.26,Charlotte Bobcats,shot,,,,,,,,,,Henderson,,,,missed,,Jump Shot,,,38-29,16,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=219
 ,,,,,,,,,,2,5.24,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,38-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=220
 ,,,,,,,,,,2,5.20,Indiana Pacers,shot,George,,,,,,,,,Stephenson,2,,,made,,Layup,,,40-29,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=221
-,,,,,,,,,,2,5.05,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Driving Jump Shot,,,40-29,5,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=222
+,,,,,,,,,,2,5.05,Charlotte Bobcats,shot,,,Hibbert,,,,,,,Gordon,,,,missed,,Driving Jump Shot,,,40-29,5,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=222
 ,,,,,,,,,,2,5.02,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,40-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=223
 ,,,,,,,,,,2,5.00,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Running Jump Shot,,,42-29,6,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=224
 ,,,,,,,,,,2,5.00,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,42-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=225
 ,,,,,,,,,,2,5.00,Charlotte Bobcats,substitute,,,,Kidd-Gilchrist,,Henderson,,,,,,,,,,,,,42-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=226
 ,,,,,,,,,,2,4.42,Charlotte Bobcats,shot,,,,,,,,,,Gordon,,,,missed,,Jump Shot,,,42-29,19,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=228
 ,,,,,,,,,,2,4.41,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,42-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=229
-,,,,,,,,,,2,4.36,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Layup,,,42-29,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=230
+,,,,,,,,,,2,4.36,Indiana Pacers,shot,,,Kidd-Gilchrist,,,,,,,George,,,,missed,,Layup,,,42-29,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=230
 ,,,,,,,,,,2,4.32,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,42-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=232
 ,,,,,,,,,,2,4.32,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Putback Layup,,,44-29,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=231
 ,,,,,,,,,,2,4.23,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Personal,,,44-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=233
 ,,,,,,,,,,2,4.14,Charlotte Bobcats,shot,,,,,,,,,,Kidd-Gilchrist,,,,missed,,Jump Shot,,,44-29,18,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=235
 ,,,,,,,,,,2,4.13,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,44-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=236
-,,,,,,,,,,2,4.05,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Fadeaway Jumper,,,44-29,10,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=237
+,,,,,,,,,,2,4.05,Indiana Pacers,shot,,,Biyombo,,,,,,,West,,,,missed,,Fadeaway Jumper,,,44-29,10,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=237
 ,,,,,,,,,,2,4.01,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,44-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=238
 ,,,,,,,,,,2,3.50,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,44-29,26,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=239
 ,,,,,,,,,,2,3.49,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,44-29,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=240
@@ -215,7 +215,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.02,Charlotte Bobcats,free throw,,,,,,,1,,2,Sessions,1,,foul,made,,,,,48-32,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=253
 ,,,,,,,,,,2,2.02,Charlotte Bobcats,substitute,,,,Taylor,,Gordon,,,,,,,,,,,,,48-32,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=255
 ,,,,,,,,,,2,2.02,Charlotte Bobcats,free throw,,,,,,,2,,2,Sessions,1,,foul,made,,,,,48-33,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=256
-,,,,,,,,,,2,1.44,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,,,,,48-33,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=258
+,,,,,,,,,,2,1.44,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,Kidd-Gilchrist,,,,48-33,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=258
 ,,,,,,,,,,2,1.38,Charlotte Bobcats,shot,Kidd-Gilchrist,,,,,,,,,Sessions,2,,,made,,Driving Layup,,,48-35,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=259
 ,,,,,,,,,,2,1.21,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,3PT Jump Shot,,,48-35,26,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=260
 ,,,,,,,,,,2,1.20,Charlotte Bobcats,rebound,,,,,,,,,,Biyombo,,,,,,,,,48-35,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=261
@@ -237,7 +237,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.38,Indiana Pacers,shot,Stephenson,,,,,,,,,George,3,,,made,,3PT Jump Shot,,,53-40,26,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=285
 ,,,,,,,,,,3,11.13,Charlotte Bobcats,shot,Warrick,,,,,,,,,Walker,2,,,made,,Jump Shot,,,53-42,19,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=286
 ,,,,,,,,,,3,10.45,Indiana Pacers,shot,Hill,,,,,,,,,George,3,,,made,,3PT Jump Shot,,,56-42,26,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=287
-,,,,,,,,,,3,10.22,Charlotte Bobcats,shot,,,,,,,,,,Walker,,,,missed,,Layup,,,56-42,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=288
+,,,,,,,,,,3,10.22,Charlotte Bobcats,shot,,,Hibbert,,,,,,,Walker,,,,missed,,Layup,,,56-42,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=288
 ,,,,,,,,,,3,10.20,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,56-42,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=289
 ,,,,,,,,,,3,10.11,Indiana Pacers,shot,West,,,,,,,,,Hill,2,,,made,,Driving Reverse Layup,,,58-42,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=290
 ,,,,,,,,,,3,10.04,Charlotte Bobcats,timeout,,,,,,,,,,,,,,,,,,,58-42,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=291
@@ -255,7 +255,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.44,Indiana Pacers,turnover,,,,,,,,,,West,,,Bad Pass,,,,,,60-42,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=304
 ,,,,,,,,,,3,8.29,Charlotte Bobcats,shot,,,,,,,,,,Henderson,2,,,made,,Pullup Jump Shot,,,60-44,19,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=305
 ,,,,,,,,,,3,8.09,Charlotte Bobcats,foul,,,,,,,,,,Walker,,,,,,Personal,,,60-44,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=306
-,,,,,,,,,,3,7.58,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Dunk,,,60-44,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=307
+,,,,,,,,,,3,7.58,Indiana Pacers,shot,,,Biyombo,,,,,,,Hibbert,,,,missed,,Dunk,,,60-44,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=307
 ,,,,,,,,,,3,7.56,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,60-44,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=309
 ,,,,,,,,,,3,7.56,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Reverse Layup,,,62-44,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=308
 ,,,,,,,,,,3,7.56,Charlotte Bobcats,foul,,,,,,,,,,Biyombo,,,,,,Shooting,,,62-44,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=310
@@ -272,7 +272,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.50,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Layup,,,65-46,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=324
 ,,,,,,,,,,3,6.49,Charlotte Bobcats,rebound,,,,,,,,,,Warrick,,,,,,,,,65-46,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=325
 ,,,,,,,,,,3,6.48,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Personal,,,65-46,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=326
-,,,,,,,,,,3,6.33,Charlotte Bobcats,turnover,,,,,,,,,,Warrick,,,Bad Pass,,,,,,65-46,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=328
+,,,,,,,,,,3,6.33,Charlotte Bobcats,turnover,,,,,,,,,,Warrick,,,Bad Pass,,George,,,,65-46,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=328
 ,,,,,,,,,,3,6.27,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,65-46,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=329
 ,,,,,,,,,,3,6.24,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,65-46,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=330
 ,,,,,,,,,,3,6.21,Charlotte Bobcats,substitute,,,,Adrien,,Warrick,,,,,,,,,,,,,65-46,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=332
@@ -290,7 +290,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.51,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,67-48,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=344
 ,,,,,,,,,,3,4.51,Charlotte Bobcats,foul,,,,,,,,,,Adrien,,,,,,Loose ball,,,67-48,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=345
 ,,,,,,,,,,3,4.51,Charlotte Bobcats,substitute,,,,Haywood,,Biyombo,,,,,,,,,,,,,67-48,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=346
-,,,,,,,,,,3,4.39,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,67-48,6,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=347
+,,,,,,,,,,3,4.39,Indiana Pacers,shot,,,Haywood,,,,,,,Hibbert,,,,missed,,Jump Shot,,,67-48,6,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=347
 ,,,,,,,,,,3,4.37,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,67-48,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=348
 ,,,,,,,,,,3,4.32,Indiana Pacers,shot,Hibbert,,,,,,,,,West,2,,,made,,Fadeaway Jumper,,,69-48,9,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=349
 ,,,,,,,,,,3,4.20,Charlotte Bobcats,shot,,,,,,,,,,Walker,2,,,made,,Floating Jump Shot,,,69-50,6,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=350
@@ -315,7 +315,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.04,Indiana Pacers,free throw,,,,,,,2,,2,West,1,,foul,made,,,,,75-52,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=376
 ,,,,,,,,,,3,2.53,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,75-52,18,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=378
 ,,,,,,,,,,3,2.52,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,75-52,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=379
-,,,,,,,,,,3,2.42,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,75-52,6,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=380
+,,,,,,,,,,3,2.42,Indiana Pacers,shot,,,Gordon,,,,,,,Hibbert,,,,missed,,Jump Shot,,,75-52,6,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=380
 ,,,,,,,,,,3,2.41,Charlotte Bobcats,rebound,,,,,,,,,,Taylor,,,,,,,,,75-52,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=381
 ,,,,,,,,,,3,2.24,Charlotte Bobcats,shot,,,,,,,,,,Haywood,2,,,made,,Hook Shot,,,75-54,8,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=382
 ,,,,,,,,,,3,2.06,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Step Back Jump Shot,,,75-54,12,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=383
@@ -339,12 +339,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.36,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Jump Shot,,,80-57,18,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=408
 ,,,,,,,,,,3,0.34,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,80-57,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=409
 ,,,,,,,,,,3,0.18,Indiana Pacers,shot,,,,,,,,,,Hill,3,,,made,,3PT Jump Shot,,,83-57,25,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=410
-,,,,,,,,,,3,0.01,Charlotte Bobcats,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,83-57,17,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=411
+,,,,,,,,,,3,0.01,Charlotte Bobcats,shot,,,Green,,,,,,,Thomas,,,,missed,,Jump Shot,,,83-57,17,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=411
 ,,,,,,,,,,3,0.00,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,83-57,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=412
 ,,,,,,,,,,4,11.43,Indiana Pacers,foul,,,,,,,,,,Mahinmi,,,,,,Shooting,,,83-57,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=416
 ,,,,,,,,,,4,11.43,Charlotte Bobcats,free throw,,,,,,,1,,2,Henderson,1,,foul,made,,,,,83-58,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=417
 ,,,,,,,,,,4,11.43,Charlotte Bobcats,free throw,,,,,,,2,,2,Henderson,1,,foul,made,,,,,83-59,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=419
-,,,,,,,,,,4,11.26,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,,,,,83-59,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=421
+,,,,,,,,,,4,11.26,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,Walker,,,,83-59,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=421
 ,,,,,,,,,,4,11.21,Indiana Pacers,foul,,,,,,,,,,Mahinmi,,,,,,Personal,,,83-59,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=422
 ,,,,,,,,,,4,11.21,Charlotte Bobcats,free throw,,,,,,,1,,2,Henderson,1,,foul,made,,,,,83-60,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=423
 ,,,,,,,,,,4,11.21,Charlotte Bobcats,free throw,,,,,,,2,,2,Henderson,1,,foul,made,,,,,83-61,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=425
@@ -376,7 +376,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.44,Charlotte Bobcats,rebound,,,,,,,,,,,,,,,,,,,86-62,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=460
 ,,,,,,,,,,4,8.44,Charlotte Bobcats,free throw,,,,,,,2,,2,Kidd-Gilchrist,1,,foul,made,,,,,86-63,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=461
 ,,,,,,,,,,4,8.21,Indiana Pacers,shot,Green,,,,,,,,,Johnson,2,,,made,,Layup,,,88-63,1,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=463
-,,,,,,,,,,4,7.57,Charlotte Bobcats,shot,,,,,,,,,,Sessions,,,,missed,,Layup,,,88-63,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=464
+,,,,,,,,,,4,7.57,Charlotte Bobcats,shot,,,Hansbrough,,,,,,,Sessions,,,,missed,,Layup,,,88-63,2,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=464
 ,,,,,,,,,,4,7.55,Indiana Pacers,rebound,,,,,,,,,,Augustin,,,,,,,,,88-63,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=465
 ,,,,,,,,,,4,7.48,Indiana Pacers,foul,,,,,,,,,,,,,,,,,,,88-63,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=466
 ,,,,,,,,,,4,7.48,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Foul,,,,,,88-63,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=467
@@ -449,7 +449,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.34,Charlotte Bobcats,rebound,,,,,,,,,,Kidd-Gilchrist,,,,,,,,,100-74,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=547
 ,,,,,,,,,,4,1.22,Charlotte Bobcats,shot,,,,,,,,,,Adrien,,,,missed,,Hook Shot,,,100-74,6,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=548
 ,,,,,,,,,,4,1.21,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,100-74,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=549
-,,,,,,,,,,4,1.00,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,,,,,100-74,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=550
+,,,,,,,,,,4,1.00,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,Williams,,,,100-74,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=550
 ,,,,,,,,,,4,0.55,Charlotte Bobcats,shot,,,,,,,,,,Williams,2,,,made,,Driving Layup,,,100-76,,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=551
 ,,,,,,,,,,4,0.44,Indiana Pacers,shot,Johnson,,,,,,,,,Hansbrough,3,,,made,,3PT Jump Shot,,,103-76,25,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=552
 ,,,,,,,,,,4,0.31,Charlotte Bobcats,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,103-76,26,http://stats.nba.com/cvp.html?GameID=0021200565&GameEventID=553

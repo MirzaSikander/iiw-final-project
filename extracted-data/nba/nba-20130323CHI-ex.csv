@@ -1,5 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.45,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Bad Pass,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=3
+,,,,,,,,,,1,11.45,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Bad Pass,,George,,,,,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=3
 ,,,,,,,,,,1,11.30,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Turnaround Jump Shot,,,,5,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=4
 ,,,,,,,,,,1,11.29,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=5
 ,,,,,,,,,,1,11.20,Chicago Bulls,shot,Mohammed,,,,,,,,,Deng,2,,,made,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=6
@@ -45,7 +45,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.56,Chicago Bulls,shot,Hinrich,,,,,,,,,Mohammed,2,,,made,,Jump Shot,,,13-10,10,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=50
 ,,,,,,,,,,1,4.38,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Jump Shot,,,15-10,19,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=51
 ,,,,,,,,,,1,4.20,Chicago Bulls,shot,Mohammed,,,,,,,,,Deng,2,,,made,,Running Layup,,,15-12,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=53
-,,,,,,,,,,1,4.09,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,,,,,15-12,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=54
+,,,,,,,,,,1,4.09,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,Boozer,,,,15-12,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=54
 ,,,,,,,,,,1,4.03,Chicago Bulls,shot,,,,,,,,,,Hinrich,2,,,made,,Running Jump Shot,,,15-14,20,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=55
 ,,,,,,,,,,1,3.48,Chicago Bulls,foul,,,,,,,,,,Boozer,,,,,,Personal,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=56
 ,,,,,,,,,,1,3.48,Chicago Bulls,substitute,,,,Gibson,,Boozer,,,,,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=57
@@ -55,20 +55,20 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.47,Chicago Bulls,substitute,,,,Robinson,,Hinrich,,,,,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=62
 ,,,,,,,,,,1,3.32,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Hook Shot,,,15-14,9,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=63
 ,,,,,,,,,,1,3.30,Chicago Bulls,rebound,,,,,,,,,,,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=64
-,,,,,,,,,,1,3.08,Chicago Bulls,shot,,,,,,,,,,Butler,,,,missed,,Running Jump Shot,,,15-14,10,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=65
+,,,,,,,,,,1,3.08,Chicago Bulls,shot,,,Hill,,,,,,,Butler,,,,missed,,Running Jump Shot,,,15-14,10,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=65
 ,,,,,,,,,,1,3.06,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=66
-,,,,,,,,,,1,3.00,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Jump Shot,,,15-14,7,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=67
+,,,,,,,,,,1,3.00,Indiana Pacers,shot,,,Butler,,,,,,,George,,,,missed,,Jump Shot,,,15-14,7,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=67
 ,,,,,,,,,,1,2.58,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,15-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=68
 ,,,,,,,,,,1,2.56,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Jump Shot,,,17-14,16,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=69
 ,,,,,,,,,,1,2.56,Chicago Bulls,foul,,,,,,,,,,Deng,,,,,,Shooting,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=70
 ,,,,,,,,,,1,2.56,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=71
 ,,,,,,,,,,1,2.56,Chicago Bulls,substitute,,,,Cook,,Deng,,,,,,,,,,,,,17-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=73
 ,,,,,,,,,,1,2.56,Indiana Pacers,free throw,,,,,,,1,,1,George,1,,foul,made,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=74
-,,,,,,,,,,1,2.40,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Bad Pass,,,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=77
+,,,,,,,,,,1,2.40,Chicago Bulls,turnover,,,,,,,,,,Butler,,,Bad Pass,,George,,,,18-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=77
 ,,,,,,,,,,1,2.21,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Jump Shot,,,20-14,13,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=78
 ,,,,,,,,,,1,2.05,Indiana Pacers,foul,,,,,,,,,,Hill,,,,,,Personal,,,20-14,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=79
 ,,,,,,,,,,1,1.56,Chicago Bulls,shot,Robinson,,,,,,,,,Mohammed,2,,,made,,Jump Shot,,,20-16,18,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=81
-,,,,,,,,,,1,1.43,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Lost Ball,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=82
+,,,,,,,,,,1,1.43,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Lost Ball,,Robinson,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=82
 ,,,,,,,,,,1,1.29,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,20-16,15,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=83
 ,,,,,,,,,,1,1.28,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=84
 ,,,,,,,,,,1,1.20,Chicago Bulls,foul,,,,,,,,,,Gibson,,,,,,Personal,,,20-16,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=85
@@ -104,7 +104,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.41,Indiana Pacers,substitute,,,,Green,,Johnson,,,,,,,,,,,,,27-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=123
 ,,,,,,,,,,2,9.30,Indiana Pacers,shot,,,,,,,,,,Pendergraph,,,,missed,,Jump Shot,,,27-21,18,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=124
 ,,,,,,,,,,2,9.29,Chicago Bulls,rebound,,,,,,,,,,Butler,,,,,,,,,27-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=125
-,,,,,,,,,,2,9.13,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Bad Pass,,,,,,27-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=126
+,,,,,,,,,,2,9.13,Chicago Bulls,turnover,,,,,,,,,,Boozer,,,Bad Pass,,Green,,,,27-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=126
 ,,,,,,,,,,2,9.09,Indiana Pacers,shot,,,,,,,,,,Green,,,,missed,,Running Layup,,,27-21,1,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=127
 ,,,,,,,,,,2,9.08,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,27-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=129
 ,,,,,,,,,,2,9.08,Indiana Pacers,shot,,,,,,,,,,Mahinmi,2,,,made,,Putback Dunk,,,29-21,1,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=128
@@ -116,7 +116,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.27,Chicago Bulls,substitute,,,,Deng,,Cook,,,,,,,,,,,,,29-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=138
 ,,,,,,,,,,2,8.27,Indiana Pacers,free throw,,,,,,,1,,2,Mahinmi,1,,foul,made,,,,,30-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=139
 ,,,,,,,,,,2,8.27,Indiana Pacers,free throw,,,,,,,2,,2,Mahinmi,1,,foul,made,,,,,31-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=141
-,,,,,,,,,,2,8.05,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,31-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=143
+,,,,,,,,,,2,8.05,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Green,,,,31-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=143
 ,,,,,,,,,,2,7.55,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,3PT Jump Shot,,,31-21,25,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=145
 ,,,,,,,,,,2,7.54,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,31-21,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=146
 ,,,,,,,,,,2,7.43,Chicago Bulls,shot,Boozer,,,,,,,,,Butler,3,,,made,,3PT Jump Shot,,,31-24,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=147
@@ -150,14 +150,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.09,Indiana Pacers,foul,,,,,,,,,,,,,,,,,,,35-34,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=181
 ,,,,,,,,,,2,4.09,Indiana Pacers,turnover,,,,,,,,,,Hibbert,,,Foul,,,,,,35-34,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=182
 ,,,,,,,,,,2,4.02,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Personal,,,35-34,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=183
-,,,,,,,,,,2,3.47,Chicago Bulls,shot,,,,,,,,,,Belinelli,,,,missed,,Jump Shot,,,35-34,7,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=184
+,,,,,,,,,,2,3.47,Chicago Bulls,shot,,,Stephenson,,,,,,,Belinelli,,,,missed,,Jump Shot,,,35-34,7,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=184
 ,,,,,,,,,,2,3.45,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,35-34,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=185
 ,,,,,,,,,,2,3.43,Indiana Pacers,shot,Hansbrough,,,,,,,,,George,2,,,made,,Running Slam Dunk,,,37-34,1,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=186
-,,,,,,,,,,2,3.22,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Layup,,,37-34,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=188
+,,,,,,,,,,2,3.22,Chicago Bulls,shot,,,Hibbert,,,,,,,Gibson,,,,missed,,Layup,,,37-34,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=188
 ,,,,,,,,,,2,3.20,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,37-34,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=189
 ,,,,,,,,,,2,3.19,Chicago Bulls,shot,,,,,,,,,,Boozer,2,,,made,,Putback Layup,,,37-36,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=190
 ,,,,,,,,,,2,3.06,Indiana Pacers,shot,Hansbrough,,,,,,,,,George,2,,,made,,Jump Shot,,,39-36,23,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=191
-,,,,,,,,,,2,2.52,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Lost Ball,,,,,,39-36,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=192
+,,,,,,,,,,2,2.52,Chicago Bulls,turnover,,,,,,,,,,Belinelli,,,Lost Ball,,Stephenson,,,,39-36,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=192
 ,,,,,,,,,,2,2.48,Indiana Pacers,shot,Stephenson,,,,,,,,,Hansbrough,2,,,made,,Running Slam Dunk,,,41-36,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=193
 ,,,,,,,,,,2,2.48,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,41-36,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=194
 ,,,,,,,,,,2,2.38,Chicago Bulls,shot,,,,,,,,,,Robinson,2,,,made,,Jump Shot,,,41-38,17,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=196
@@ -175,7 +175,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.17,Chicago Bulls,shot,,,,,,,,,,Boozer,,,,missed,,Jump Shot,,,41-38,7,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=208
 ,,,,,,,,,,2,1.16,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,41-38,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=209
 ,,,,,,,,,,2,1.09,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Jump Shot,,,43-38,16,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=210
-,,,,,,,,,,2,0.50,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=211
+,,,,,,,,,,2,0.50,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Bad Pass,,Stephenson,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=211
 ,,,,,,,,,,2,0.49,Chicago Bulls,foul,,,,,,,,,,Belinelli,,,,,,Personal,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=212
 ,,,,,,,,,,2,0.49,Indiana Pacers,free throw,,,,,,,1,,2,Stephenson,,,foul,missed,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=216
 ,,,,,,,,,,2,0.49,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,43-38,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=217
@@ -206,7 +206,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.05,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Jump Shot,,,46-43,14,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=251
 ,,,,,,,,,,3,10.04,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,46-43,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=253
 ,,,,,,,,,,3,10.04,Indiana Pacers,shot,,,,,,,,,,Hibbert,2,,,made,,Tip Shot,,,48-43,3,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=252
-,,,,,,,,,,3,9.52,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Bad Pass,,,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=254
+,,,,,,,,,,3,9.52,Chicago Bulls,turnover,,,,,,,,,,Hinrich,,,Bad Pass,,George,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=254
 ,,,,,,,,,,3,9.49,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Running Dunk,,,50-43,1,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=255
 ,,,,,,,,,,3,9.26,Chicago Bulls,shot,,,,,,,,,,Boozer,2,,,made,,Layup,,,50-45,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=257
 ,,,,,,,,,,3,9.14,Chicago Bulls,foul,,,,,,,,,,Boozer,,,,,,Personal,,,50-45,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=258
@@ -219,7 +219,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.28,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Traveling,,,,,,52-45,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=265
 ,,,,,,,,,,3,8.17,Chicago Bulls,shot,,,,,,,,,,Deng,2,,,made,,Driving Layup,,,52-47,1,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=266
 ,,,,,,,,,,3,8.13,Chicago Bulls,foul,,,,,,,,,,Hinrich,,,,,,Personal Block,,,52-47,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=267
-,,,,,,,,,,3,8.07,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,,,,,52-47,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=269
+,,,,,,,,,,3,8.07,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,Belinelli,,,,52-47,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=269
 ,,,,,,,,,,3,8.04,Indiana Pacers,foul,,,,,,,,,,Hill,,,,,,Shooting,,,52-47,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=270
 ,,,,,,,,,,3,8.04,Chicago Bulls,free throw,,,,,,,1,,2,Belinelli,1,,foul,made,,,,,52-48,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=271
 ,,,,,,,,,,3,8.04,Chicago Bulls,free throw,,,,,,,2,,2,Belinelli,1,,foul,made,,,,,52-49,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=273
@@ -231,7 +231,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.09,Indiana Pacers,free throw,,,,,,,2,,2,Hansbrough,,,foul,missed,,,,,55-51,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=281
 ,,,,,,,,,,3,7.07,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,55-51,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=283
 ,,,,,,,,,,3,6.57,Chicago Bulls,shot,Hinrich,,,,,,,,,Gibson,2,,,made,,Pullup Jump Shot,,,55-53,12,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=284
-,,,,,,,,,,3,6.42,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,55-53,4,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=286
+,,,,,,,,,,3,6.42,Indiana Pacers,shot,,,Gibson,,,,,,,Hibbert,,,,missed,,Jump Shot,,,55-53,4,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=286
 ,,,,,,,,,,3,6.40,Chicago Bulls,rebound,,,,,,,,,,Deng,,,,,,,,,55-53,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=287
 ,,,,,,,,,,3,6.37,Chicago Bulls,shot,,,,,,,,,,Deng,,,,missed,,Running Jump Shot,,,55-53,9,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=288
 ,,,,,,,,,,3,6.35,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,55-53,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=289
@@ -244,7 +244,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.45,Indiana Pacers,free throw,,,,,,,1,,2,George,1,,foul,made,,,,,58-55,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=297
 ,,,,,,,,,,3,5.45,Indiana Pacers,free throw,,,,,,,2,,2,George,1,,foul,made,,,,,59-55,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=299
 ,,,,,,,,,,3,5.36,Indiana Pacers,violation,,,,,,,,,,Hill,,,Kicked Ball,,,,,,59-55,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=301
-,,,,,,,,,,3,5.24,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,59-55,7,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=302
+,,,,,,,,,,3,5.24,Chicago Bulls,shot,,,Hibbert,,,,,,,Gibson,,,,missed,,Jump Shot,,,59-55,7,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=302
 ,,,,,,,,,,3,5.23,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,59-55,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=303
 ,,,,,,,,,,3,5.08,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,59-55,11,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=304
 ,,,,,,,,,,3,5.07,Chicago Bulls,rebound,,,,,,,,,,Belinelli,,,,,,,,,59-55,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=305
@@ -293,9 +293,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.05,Indiana Pacers,violation,,,,,,,,,,Hibbert,,,Kicked Ball,,,,,,66-66,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=358
 ,,,,,,,,,,3,0.51,Chicago Bulls,shot,,,,,,,,,,Cook,,,,missed,,Jump Shot,,,66-66,19,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=359
 ,,,,,,,,,,3,0.50,Indiana Pacers,rebound,,,,,,,,,,Augustin,,,,,,,,,66-66,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=360
-,,,,,,,,,,3,0.44,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,Layup,,,66-66,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=361
+,,,,,,,,,,3,0.44,Indiana Pacers,shot,,,Robinson,,,,,,,Augustin,,,,missed,,Layup,,,66-66,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=361
 ,,,,,,,,,,3,0.43,Chicago Bulls,rebound,,,,,,,,,,Cook,,,,,,,,,66-66,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=362
-,,,,,,,,,,3,0.28,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Lost Ball,,,,,,66-66,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=363
+,,,,,,,,,,3,0.28,Chicago Bulls,turnover,,,,,,,,,,Robinson,,,Lost Ball,,Augustin,,,,66-66,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=363
 ,,,,,,,,,,3,0.27,Chicago Bulls,foul,,,,,,,,,,Robinson,,,,,,Flagrant,,,66-66,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=364
 ,,,,,,,,,,3,0.27,Chicago Bulls,ejection,,,,,,,,,,Robinson,,,First Flagrant Type 2,,,,,,66-66,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=367
 ,,,,,,,,,,3,0.27,Chicago Bulls,substitute,,,,Teague,,Robinson,,,,,,,,,,,,,66-66,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=368
@@ -308,7 +308,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.00,Chicago Bulls,shot,,,,,,,,,,Cook,2,,,made,,Driving Layup,,,67-68,1,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=376
 ,,,,,,,,,,4,11.48,Chicago Bulls,shot,,,,,,,,,,Cook,,,,missed,,Jump Shot,,,67-68,22,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=383
 ,,,,,,,,,,4,11.46,Indiana Pacers,rebound,,,,,,,,,,Pendergraph,,,,,,,,,67-68,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=384
-,,,,,,,,,,4,11.31,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,Jump Shot,,,67-68,17,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=385
+,,,,,,,,,,4,11.31,Indiana Pacers,shot,,,Mohammed,,,,,,,Augustin,,,,missed,,Jump Shot,,,67-68,17,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=385
 ,,,,,,,,,,4,11.30,Chicago Bulls,rebound,,,,,,,,,,Cook,,,,,,,,,67-68,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=386
 ,,,,,,,,,,4,11.11,Chicago Bulls,shot,,,,,,,,,,Gibson,,,,missed,,Jump Shot,,,67-68,17,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=387
 ,,,,,,,,,,4,11.10,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,67-68,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=388
@@ -318,7 +318,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.22,Indiana Pacers,substitute,,,,Hill,,Augustin,,,,,,,,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=395
 ,,,,,,,,,,4,10.15,Indiana Pacers,shot,,,,,,,,,,Mahinmi,,,,missed,,Jump Shot,,,67-71,20,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=396
 ,,,,,,,,,,4,10.14,Chicago Bulls,rebound,,,,,,,,,,Gibson,,,,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=397
-,,,,,,,,,,4,9.52,Chicago Bulls,shot,,,,,,,,,,Cook,,,,missed,,Layup,,,67-71,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=399
+,,,,,,,,,,4,9.52,Chicago Bulls,shot,,,Mahinmi,,,,,,,Cook,,,,missed,,Layup,,,67-71,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=399
 ,,,,,,,,,,4,9.48,Chicago Bulls,rebound,,,,,,,,,,Mohammed,,,,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=402
 ,,,,,,,,,,4,9.48,Chicago Bulls,shot,,,,,,,,,,Mohammed,,,,missed,,Putback Layup,,,67-71,1,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=401
 ,,,,,,,,,,4,9.46,Indiana Pacers,rebound,,,,,,,,,,Pendergraph,,,,,,,,,67-71,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=403
@@ -331,7 +331,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.22,Chicago Bulls,free throw,,,,,,,2,,2,Mohammed,1,,foul,made,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=410
 ,,,,,,,,,,4,9.12,Chicago Bulls,foul,,,,,,,,,,Mohammed,,,,,,Personal,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=415
 ,,,,,,,,,,4,9.12,Chicago Bulls,substitute,,,,Deng,,Mohammed,,,,,,,,,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=416
-,,,,,,,,,,4,9.05,Indiana Pacers,shot,,,,,,,,,,Green,,,,missed,,Dunk,,,67-72,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=417
+,,,,,,,,,,4,9.05,Indiana Pacers,shot,,,Gibson,,,,,,,Green,,,,missed,,Dunk,,,67-72,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=417
 ,,,,,,,,,,4,9.03,Chicago Bulls,rebound,,,,,,,,,,Butler,,,,,,,,,67-72,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=418
 ,,,,,,,,,,4,8.52,Chicago Bulls,shot,Cook,,,,,,,,,Gibson,2,,,made,,Slam Dunk,,,67-74,2,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=419
 ,,,,,,,,,,4,8.50,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,67-74,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=420
@@ -376,7 +376,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.06,Chicago Bulls,rebound,,,,,,,,,,Boozer,,,,,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=467
 ,,,,,,,,,,4,4.01,Chicago Bulls,shot,,,,,,,,,,Cook,,,,missed,,3PT Jump Shot,,,74-81,25,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=468
 ,,,,,,,,,,4,4.00,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=469
-,,,,,,,,,,4,3.56,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=470
+,,,,,,,,,,4,3.56,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,Cook,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=470
 ,,,,,,,,,,4,3.50,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Personal,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=471
 ,,,,,,,,,,4,3.50,Chicago Bulls,timeout,,,,,,,,,,,,,,,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=472
 ,,,,,,,,,,4,3.50,Chicago Bulls,substitute,,,,Belinelli,,Cook,,,,,,,,,,,,,74-81,,http://stats.nba.com/cvp.html?GameID=0021201035&GameEventID=473

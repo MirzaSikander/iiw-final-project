@@ -4,8 +4,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,11.29,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=4
 ,,,,,,,,,,1,11.19,Minnesota Timberwolves,shot,Stiemsma,,,,,,,,,Kirilenko,2,,,made,,Jump Shot,,,2-2,18,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=5
 ,,,,,,,,,,1,11.00,Minnesota Timberwolves,foul,,,,,,,,,,Kirilenko,,,,,,Personal,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=6
-,,,,,,,,,,1,10.54,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=7
-,,,,,,,,,,1,10.43,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=8
+,,,,,,,,,,1,10.54,Washington Wizards,turnover,,,,,,,,,,Beal,,,Bad Pass,,Stiemsma,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=7
+,,,,,,,,,,1,10.43,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,Okafor,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=8
 ,,,,,,,,,,1,10.26,Washington Wizards,shot,Wall,,,,,,,,,Okafor,2,,,made,,Slam Dunk,,,2-4,1,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=9
 ,,,,,,,,,,1,10.04,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Kirilenko,2,,,made,,Jump Shot,,,4-4,21,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=10
 ,,,,,,,,,,1,9.51,Minnesota Timberwolves,foul,,,,,,,,,,Rubio,,,,,,Shooting,,,4-4,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=11
@@ -37,12 +37,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.04,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,7-14,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=44
 ,,,,,,,,,,1,7.00,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,Layup,,,7-14,3,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=45
 ,,,,,,,,,,1,6.56,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,7-14,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=46
-,,,,,,,,,,1,6.54,Washington Wizards,turnover,,,,,,,,,,Wall,,,Lost Ball,,,,,,7-14,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=47
+,,,,,,,,,,1,6.54,Washington Wizards,turnover,,,,,,,,,,Wall,,,Lost Ball,,Rubio,,,,7-14,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=47
 ,,,,,,,,,,1,6.43,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,2,,,made,,Floating Jump Shot,,,9-14,12,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=48
 ,,,,,,,,,,1,6.17,Washington Wizards,shot,Nene,,,,,,,,,Webster,3,,,made,,3PT Jump Shot,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=50
 ,,,,,,,,,,1,6.07,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,9-17,21,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=51
 ,,,,,,,,,,1,6.05,Minnesota Timberwolves,rebound,,,,,,,,,,Rubio,,,,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=52
-,,,,,,,,,,1,6.00,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=53
+,,,,,,,,,,1,6.00,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,Okafor,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=53
 ,,,,,,,,,,1,5.54,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,Jump Shot,,,9-17,4,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=54
 ,,,,,,,,,,1,5.52,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,9-17,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=55
 ,,,,,,,,,,1,5.45,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Layup,,,9-17,1,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=56
@@ -64,7 +64,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,4.03,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Jump Shot,,,12-21,16,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=75
 ,,,,,,,,,,1,4.02,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,12-21,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=76
 ,,,,,,,,,,1,3.55,Washington Wizards,shot,Webster,,,,,,,,,Vesely,2,,,made,,Alley Oop Dunk,,,12-23,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=77
-,,,,,,,,,,1,3.39,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,12-23,6,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=78
+,,,,,,,,,,1,3.39,Minnesota Timberwolves,shot,,,Beal,,,,,,,Williams,,,,missed,,Jump Shot,,,12-23,6,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=78
 ,,,,,,,,,,1,3.39,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,12-23,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=79
 ,,,,,,,,,,1,3.39,Washington Wizards,substitute,,,,Seraphin,,Okafor,,,,,,,,,,,,,12-23,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=80
 ,,,,,,,,,,1,3.37,Minnesota Timberwolves,shot,Kirilenko,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,14-23,20,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=81
@@ -74,7 +74,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.50,Washington Wizards,shot,,,,,,,,,,Beal,2,,,made,,Driving Layup,,,14-25,1,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=86
 ,,,,,,,,,,1,2.31,Minnesota Timberwolves,shot,Barea,,,,,,,,,Cunningham,2,,,made,,Jump Shot,,,16-25,15,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=87
 ,,,,,,,,,,1,2.17,Washington Wizards,shot,Vesely,,,,,,,,,Seraphin,2,,,made,,Jump Shot,,,16-27,16,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=88
-,,,,,,,,,,1,2.05,Minnesota Timberwolves,shot,,,,,,,,,,Cunningham,,,,missed,,Layup,,,16-27,3,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=89
+,,,,,,,,,,1,2.05,Minnesota Timberwolves,shot,,,Beal,,,,,,,Cunningham,,,,missed,,Layup,,,16-27,3,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=89
 ,,,,,,,,,,1,2.03,Minnesota Timberwolves,rebound,,,,,,,,,,Barea,,,,,,,,,16-27,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=90
 ,,,,,,,,,,1,1.57,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,3PT Jump Shot,,,16-27,25,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=91
 ,,,,,,,,,,1,1.56,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,16-27,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=92
@@ -129,28 +129,28 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.41,Minnesota Timberwolves,foul,,,,,,,,,,Gelabale,,,,,,Personal,,,32-40,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=156
 ,,,,,,,,,,2,8.26,Washington Wizards,shot,,,,,,,,,,Crawford,3,,,made,,3PT Jump Shot,,,32-43,26,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=157
 ,,,,,,,,,,2,8.16,Washington Wizards,foul,,,,,,,,,,Vesely,,,,,,Personal,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=158
-,,,,,,,,,,2,8.14,Minnesota Timberwolves,turnover,,,,,,,,,,Johnson,,,Lost Ball,,,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=159
-,,,,,,,,,,2,8.02,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Lost Ball,,,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=160
+,,,,,,,,,,2,8.14,Minnesota Timberwolves,turnover,,,,,,,,,,Johnson,,,Lost Ball,,Crawford,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=159
+,,,,,,,,,,2,8.02,Washington Wizards,turnover,,,,,,,,,,Seraphin,,,Lost Ball,,Gelabale,,,,32-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=160
 ,,,,,,,,,,2,7.52,Minnesota Timberwolves,shot,Barea,,,,,,,,,Gelabale,2,,,made,,Jump Shot,,,34-43,13,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=161
 ,,,,,,,,,,2,7.36,Washington Wizards,turnover,,,,,,,,,,Crawford,,,Step Out of Bounds,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=162
 ,,,,,,,,,,2,7.36,Washington Wizards,substitute,,,,Nene,,Seraphin,,,,,,,,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=163
 ,,,,,,,,,,2,7.36,Washington Wizards,substitute,,,,Wall,,Price,,,,,,,,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=164
 ,,,,,,,,,,2,7.26,Minnesota Timberwolves,substitute,,,,Stiemsma,,Cunningham,,,,,,,,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=166
 ,,,,,,,,,,2,7.26,Minnesota Timberwolves,substitute,,,,Rubio,,Gelabale,,,,,,,,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=167
-,,,,,,,,,,2,7.13,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,Jump Shot,,,34-43,18,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=168
+,,,,,,,,,,2,7.13,Minnesota Timberwolves,shot,,,Wall,,,,,,,Rubio,,,,missed,,Jump Shot,,,34-43,18,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=168
 ,,,,,,,,,,2,7.11,Minnesota Timberwolves,rebound,,,,,,,,,,Rubio,,,,,,,,,34-43,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=169
 ,,,,,,,,,,2,7.08,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Johnson,2,,,made,,Dunk,,,36-43,1,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=170
 ,,,,,,,,,,2,6.51,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Driving Layup,,,36-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=171
 ,,,,,,,,,,2,6.36,Minnesota Timberwolves,shot,,,,,,,,,,Barea,,,,missed,,Jump Shot,,,36-45,15,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=172
 ,,,,,,,,,,2,6.35,Washington Wizards,rebound,,,,,,,,,,Vesely,,,,,,,,,36-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=173
-,,,,,,,,,,2,6.28,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,Jump Shot,,,36-45,5,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=174
+,,,,,,,,,,2,6.28,Washington Wizards,shot,,,Kirilenko,,,,,,,Ariza,,,,missed,,Jump Shot,,,36-45,5,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=174
 ,,,,,,,,,,2,6.26,Minnesota Timberwolves,rebound,,,,,,,,,,Kirilenko,,,,,,,,,36-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=175
 ,,,,,,,,,,2,6.25,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Barea,2,,,made,,Layup,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=176
 ,,,,,,,,,,2,6.25,Washington Wizards,foul,,,,,,,,,,Vesely,,,,,,Shooting,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=177
 ,,,,,,,,,,2,6.25,Washington Wizards,substitute,,,,Okafor,,Vesely,,,,,,,,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=178
 ,,,,,,,,,,2,6.25,Minnesota Timberwolves,free throw,,,,,,,1,,1,Barea,,,foul,missed,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=179
 ,,,,,,,,,,2,6.24,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=181
-,,,,,,,,,,2,6.14,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Bad Pass,,,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=183
+,,,,,,,,,,2,6.14,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Bad Pass,,Johnson,,,,38-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=183
 ,,,,,,,,,,2,6.09,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Barea,2,,,made,,Layup,,,40-45,2,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=184
 ,,,,,,,,,,2,5.55,Washington Wizards,shot,,,,,,,,,,Nene,,,,missed,,Jump Shot,,,40-45,8,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=186
 ,,,,,,,,,,2,5.54,Minnesota Timberwolves,rebound,,,,,,,,,,Rubio,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=187
@@ -172,7 +172,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.51,Washington Wizards,rebound,,,,,,,,,,Wall,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=206
 ,,,,,,,,,,2,4.37,Washington Wizards,shot,,,,,,,,,,Ariza,,,,missed,,3PT Jump Shot,,,40-45,24,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=207
 ,,,,,,,,,,2,4.34,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=208
-,,,,,,,,,,2,4.32,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=209
+,,,,,,,,,,2,4.32,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,Ridnour,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=209
 ,,,,,,,,,,2,4.29,Washington Wizards,foul,,,,,,,,,,Nene,,,,,,Personal,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=210
 ,,,,,,,,,,2,4.29,Minnesota Timberwolves,free throw,,,,,,,1,,2,Johnson,,,foul,missed,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=211
 ,,,,,,,,,,2,4.29,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,40-45,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=212
@@ -195,9 +195,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,3.15,Washington Wizards,shot,Wall,,,,,,,,,Beal,3,,,made,,3PT Jump Shot,,,42-53,24,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=237
 ,,,,,,,,,,2,3.15,Minnesota Timberwolves,foul,,,,,,,,,,Cunningham,,,,,,Technical,,,42-53,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=238
 ,,,,,,,,,,2,3.15,Washington Wizards,free throw,,,,,,,,,,Beal,1,,Technical,made,,,,,42-54,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=239
-,,,,,,,,,,2,3.04,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,Jump Shot,,,42-54,8,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=242
+,,,,,,,,,,2,3.04,Minnesota Timberwolves,shot,,,Beal,,,,,,,Ridnour,,,,missed,,Jump Shot,,,42-54,8,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=242
 ,,,,,,,,,,2,3.03,Minnesota Timberwolves,rebound,,,,,,,,,,Ridnour,,,,,,,,,42-54,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=243
-,,,,,,,,,,2,3.00,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,Layup,,,42-54,3,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=244
+,,,,,,,,,,2,3.00,Minnesota Timberwolves,shot,,,Okafor,,,,,,,Ridnour,,,,missed,,Layup,,,42-54,3,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=244
 ,,,,,,,,,,2,2.59,Washington Wizards,rebound,,,,,,,,,,Webster,,,,,,,,,42-54,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=245
 ,,,,,,,,,,2,2.54,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,3PT Jump Shot,,,42-54,24,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=246
 ,,,,,,,,,,2,2.54,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,42-54,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=247
@@ -242,12 +242,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.45,Washington Wizards,foul,,,,,,,,,,Okafor,,,,,,Personal,,,46-64,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=298
 ,,,,,,,,,,3,10.35,Minnesota Timberwolves,shot,Rubio,,,,,,,,,Kirilenko,3,,,made,,3PT Jump Shot,,,49-64,27,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=299
 ,,,,,,,,,,3,10.15,Washington Wizards,shot,,,,,,,,,,Nene,2,,,made,,Jump Shot,,,49-66,19,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=300
-,,,,,,,,,,3,10.03,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Lost Ball,,,,,,49-66,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=301
+,,,,,,,,,,3,10.03,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Lost Ball,,Webster,,,,49-66,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=301
 ,,,,,,,,,,3,10.03,Minnesota Timberwolves,foul,,,,,,,,,,Kirilenko,,,,,,Personal,,,49-66,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=302
 ,,,,,,,,,,3,9.40,Washington Wizards,shot,Okafor,,,,,,,,,Wall,2,,,made,,Jump Shot,,,49-68,20,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=303
 ,,,,,,,,,,3,9.30,Minnesota Timberwolves,shot,Stiemsma,,,,,,,,,Kirilenko,2,,,made,,Dunk,,,51-68,1,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=304
-,,,,,,,,,,3,9.09,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,,,,,51-68,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=306
-,,,,,,,,,,3,9.05,Minnesota Timberwolves,shot,,,,,,,,,,Ridnour,,,,missed,,Jump Shot,,,51-68,4,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=307
+,,,,,,,,,,3,9.09,Washington Wizards,turnover,,,,,,,,,,Nene,,,Bad Pass,,Ridnour,,,,51-68,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=306
+,,,,,,,,,,3,9.05,Minnesota Timberwolves,shot,,,Beal,,,,,,,Ridnour,,,,missed,,Jump Shot,,,51-68,4,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=307
 ,,,,,,,,,,3,9.02,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,51-68,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=308
 ,,,,,,,,,,3,8.54,Washington Wizards,shot,Nene,,,,,,,,,Beal,2,,,made,,Jump Shot,,,51-70,22,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=309
 ,,,,,,,,,,3,8.33,Minnesota Timberwolves,shot,Ridnour,,,,,,,,,Williams,2,,,made,,Layup,,,53-70,3,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=310
@@ -276,10 +276,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.59,Washington Wizards,shot,Wall,,,,,,,,,Nene,2,,,made,,Layup,,,58-76,1,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=336
 ,,,,,,,,,,3,5.37,Minnesota Timberwolves,shot,,,,,,,,,,Kirilenko,,,,missed,,3PT Jump Shot,,,58-76,24,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=337
 ,,,,,,,,,,3,5.36,Washington Wizards,rebound,,,,,,,,,,Okafor,,,,,,,,,58-76,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=338
-,,,,,,,,,,3,5.33,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Bad Pass,,,,,,58-76,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=339
+,,,,,,,,,,3,5.33,Washington Wizards,turnover,,,,,,,,,,Okafor,,,Bad Pass,,Stiemsma,,,,58-76,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=339
 ,,,,,,,,,,3,5.29,Minnesota Timberwolves,shot,Stiemsma,,,,,,,,,Ridnour,2,,,made,,Jump Shot,,,60-76,12,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=340
 ,,,,,,,,,,3,5.15,Washington Wizards,shot,Wall,,,,,,,,,Webster,3,,,made,,3PT Jump Shot,,,60-79,24,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=341
-,,,,,,,,,,3,5.01,Minnesota Timberwolves,shot,,,,,,,,,,Stiemsma,,,,missed,,Jump Shot,,,60-79,5,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=342
+,,,,,,,,,,3,5.01,Minnesota Timberwolves,shot,,,Wall,,,,,,,Stiemsma,,,,missed,,Jump Shot,,,60-79,5,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=342
 ,,,,,,,,,,3,5.00,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,60-79,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=343
 ,,,,,,,,,,3,4.54,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Shooting,,,60-79,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=344
 ,,,,,,,,,,3,4.54,Washington Wizards,timeout,,,,,,,,,,,,,,,,,,,60-79,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=345
@@ -311,7 +311,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.41,Minnesota Timberwolves,free throw,,,,,,,2,,2,Kirilenko,1,,foul,made,,,,,68-87,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=380
 ,,,,,,,,,,3,2.25,Minnesota Timberwolves,foul,,,,,,,,,,Cunningham,,,,,,Personal,,,68-87,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=383
 ,,,,,,,,,,3,2.18,Washington Wizards,shot,,,,,,,,,,Price,2,,,made,,Turnaround Jump Shot,,,68-89,17,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=384
-,,,,,,,,,,3,2.01,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,,,,,68-89,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=385
+,,,,,,,,,,3,2.01,Minnesota Timberwolves,turnover,,,,,,,,,,Kirilenko,,,Bad Pass,,Price,,,,68-89,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=385
 ,,,,,,,,,,3,1.53,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,3PT Jump Shot,,,68-89,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=386
 ,,,,,,,,,,3,1.50,Washington Wizards,rebound,,,,,,,,,,Seraphin,,,,,,,,,68-89,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=387
 ,,,,,,,,,,3,1.45,Washington Wizards,shot,,,,,,,,,,Beal,,,,missed,,3PT Jump Shot,,,68-89,25,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=388
@@ -351,7 +351,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,10.34,Minnesota Timberwolves,rebound,,,,,,,,,,,,,,,,,,,75-95,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=435
 ,,,,,,,,,,4,10.34,Minnesota Timberwolves,free throw,,,,,,,2,,2,Johnson,1,,foul,made,,,,,76-95,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=436
 ,,,,,,,,,,4,10.20,Washington Wizards,shot,,,,,,,,,,Seraphin,2,,,made,,Jump Hook Shot,,,76-97,10,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=439
-,,,,,,,,,,4,10.07,Minnesota Timberwolves,turnover,,,,,,,,,,Gelabale,,,Lost Ball,,,,,,76-97,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=440
+,,,,,,,,,,4,10.07,Minnesota Timberwolves,turnover,,,,,,,,,,Gelabale,,,Lost Ball,,Ariza,,,,76-97,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=440
 ,,,,,,,,,,4,10.01,Washington Wizards,shot,Booker,,,,,,,,,Ariza,2,,,made,,Dunk,,,76-99,1,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=441
 ,,,,,,,,,,4,9.47,Minnesota Timberwolves,shot,,,,,,,,,,Barea,2,,,made,,Fadeaway Jumper,,,78-99,16,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=442
 ,,,,,,,,,,4,9.34,Washington Wizards,foul,,,,,,,,,,,,,,,,,,,78-99,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=443
@@ -368,7 +368,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,9.02,Washington Wizards,rebound,,,,,,,,,,,,,,,,,,,78-99,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=456
 ,,,,,,,,,,4,9.02,Washington Wizards,free throw,,,,,,,2,,2,Booker,,,foul,missed,,,,,78-99,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=457
 ,,,,,,,,,,4,9.01,Minnesota Timberwolves,rebound,,,,,,,,,,Johnson,,,,,,,,,78-99,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=459
-,,,,,,,,,,4,8.50,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Lost Ball,,,,,,78-99,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=460
+,,,,,,,,,,4,8.50,Minnesota Timberwolves,turnover,,,,,,,,,,Barea,,,Lost Ball,,Seraphin,,,,78-99,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=460
 ,,,,,,,,,,4,8.43,Washington Wizards,shot,,,,,,,,,,Booker,,,,missed,,Layup,,,78-99,2,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=461
 ,,,,,,,,,,4,8.42,Minnesota Timberwolves,rebound,,,,,,,,,,Gelabale,,,,,,,,,78-99,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=462
 ,,,,,,,,,,4,8.34,Minnesota Timberwolves,shot,Cunningham,,,,,,,,,Barea,3,,,made,,3PT Jump Shot,,,81-99,25,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=463
@@ -395,7 +395,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.37,Washington Wizards,rebound,,,,,,,,,,Price,,,,,,,,,81-103,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=488
 ,,,,,,,,,,4,6.28,Washington Wizards,shot,,,,,,,,,,Crawford,,,,missed,,Jump Shot,,,81-103,17,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=489
 ,,,,,,,,,,4,6.27,Minnesota Timberwolves,rebound,,,,,,,,,,Gelabale,,,,,,,,,81-103,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=490
-,,,,,,,,,,4,6.11,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,,,,,81-103,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=491
+,,,,,,,,,,4,6.11,Minnesota Timberwolves,turnover,,,,,,,,,,Rubio,,,Bad Pass,,Ariza,,,,81-103,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=491
 ,,,,,,,,,,4,5.47,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,3PT Jump Shot,,,81-103,26,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=492
 ,,,,,,,,,,4,5.46,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,81-103,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=493
 ,,,,,,,,,,4,5.36,Minnesota Timberwolves,shot,Williams,,,,,,,,,Cunningham,2,,,made,,Dunk,,,83-103,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=494
@@ -403,17 +403,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,5.17,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,83-103,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=496
 ,,,,,,,,,,4,5.08,Minnesota Timberwolves,shot,,,,,,,,,,Gelabale,2,,,made,,Jump Shot,,,85-103,14,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=497
 ,,,,,,,,,,4,4.56,Washington Wizards,shot,Ariza,,,,,,,,,Price,2,,,made,,Layup,,,85-105,3,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=498
-,,,,,,,,,,4,4.35,Minnesota Timberwolves,shot,,,,,,,,,,Williams,,,,missed,,Jump Shot,,,85-105,5,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=499
+,,,,,,,,,,4,4.35,Minnesota Timberwolves,shot,,,Ariza,,,,,,,Williams,,,,missed,,Jump Shot,,,85-105,5,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=499
 ,,,,,,,,,,4,4.34,Minnesota Timberwolves,rebound,,,,,,,,,,Williams,,,,,,,,,85-105,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=500
 ,,,,,,,,,,4,4.32,Minnesota Timberwolves,shot,,,,,,,,,,Williams,2,,,made,,Jump Shot,,,87-105,3,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=501
-,,,,,,,,,,4,4.16,Washington Wizards,shot,,,,,,,,,,Price,,,,missed,,Jump Shot,,,87-105,13,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=502
+,,,,,,,,,,4,4.16,Washington Wizards,shot,,,Johnson,,,,,,,Price,,,,missed,,Jump Shot,,,87-105,13,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=502
 ,,,,,,,,,,4,4.14,Minnesota Timberwolves,rebound,,,,,,,,,,Gelabale,,,,,,,,,87-105,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=503
 ,,,,,,,,,,4,4.10,Minnesota Timberwolves,shot,,,,,,,,,,Gelabale,2,,,made,,Layup,,,89-105,1,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=504
 ,,,,,,,,,,4,3.53,Washington Wizards,shot,,,,,,,,,,Crawford,2,,,made,,Fadeaway Jumper,,,89-107,20,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=506
 ,,,,,,,,,,4,3.24,Minnesota Timberwolves,shot,,,,,,,,,,Rubio,,,,missed,,3PT Jump Shot,,,89-107,27,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=508
 ,,,,,,,,,,4,3.23,Minnesota Timberwolves,rebound,,,,,,,,,,Cunningham,,,,,,,,,89-107,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=509
 ,,,,,,,,,,4,3.17,Minnesota Timberwolves,shot,Cunningham,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,92-107,25,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=510
-,,,,,,,,,,4,3.07,Washington Wizards,turnover,,,,,,,,,,Ariza,,,Bad Pass,,,,,,92-107,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=511
+,,,,,,,,,,4,3.07,Washington Wizards,turnover,,,,,,,,,,Ariza,,,Bad Pass,,Williams,,,,92-107,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=511
 ,,,,,,,,,,4,3.05,Washington Wizards,foul,,,,,,,,,,Ariza,,,,,,Personal,,,92-107,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=512
 ,,,,,,,,,,4,3.05,Minnesota Timberwolves,substitute,,,,Ridnour,,Rubio,,,,,,,,,,,,,92-107,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=513
 ,,,,,,,,,,4,3.05,Minnesota Timberwolves,substitute,,,,Amundson,,Cunningham,,,,,,,,,,,,,92-107,,http://stats.nba.com/cvp.html?GameID=0021200632&GameEventID=514

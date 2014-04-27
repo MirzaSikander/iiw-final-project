@@ -10,7 +10,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,10.45,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Layup,,,2-2,1,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=10
 ,,,,,,,,,,1,10.30,Orlando Magic,shot,,,,,,,,,,Harris,,,,missed,,Jump Shot,,,2-2,9,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=12
 ,,,,,,,,,,1,10.28,Orlando Magic,rebound,,,,,,,,,,Harris,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=13
-,,,,,,,,,,1,10.20,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Jump Shot,,,2-2,5,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=14
+,,,,,,,,,,1,10.20,Orlando Magic,shot,,,Hibbert,,,,,,,Harkless,,,,missed,,Jump Shot,,,2-2,5,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=14
 ,,,,,,,,,,1,10.18,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=15
 ,,,,,,,,,,1,10.15,Orlando Magic,shot,,,,,,,,,,Harris,,,,missed,,3PT Jump Shot,,,2-2,24,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=16
 ,,,,,,,,,,1,10.13,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,2-2,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=17
@@ -30,7 +30,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.56,Orlando Magic,foul,,,,,,,,,,Vucevic,,,,,,Personal,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=31
 ,,,,,,,,,,1,7.47,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,3PT Jump Shot,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=32
 ,,,,,,,,,,1,7.46,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=33
-,,,,,,,,,,1,7.37,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,Jump Shot,,,8-4,14,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=34
+,,,,,,,,,,1,7.37,Orlando Magic,shot,,,Stephenson,,,,,,,Nelson,,,,missed,,Jump Shot,,,8-4,14,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=34
 ,,,,,,,,,,1,7.37,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=35
 ,,,,,,,,,,1,7.25,Orlando Magic,shot,,,,,,,,,,Vucevic,,,,missed,,Jump Shot,,,8-4,17,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=36
 ,,,,,,,,,,1,7.23,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,8-4,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=37
@@ -46,9 +46,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.49,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=47
 ,,,,,,,,,,1,5.37,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=48
 ,,,,,,,,,,1,5.36,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=49
-,,,,,,,,,,1,5.27,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Jump Shot,,,10-6,4,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=50
+,,,,,,,,,,1,5.27,Indiana Pacers,shot,,,Harkless,,,,,,,George,,,,missed,,Jump Shot,,,10-6,4,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=50
 ,,,,,,,,,,1,5.25,Orlando Magic,rebound,,,,,,,,,,Harris,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=51
-,,,,,,,,,,1,5.24,Orlando Magic,turnover,,,,,,,,,,Harris,,,Lost Ball,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=52
+,,,,,,,,,,1,5.24,Orlando Magic,turnover,,,,,,,,,,Harris,,,Lost Ball,,Hansbrough,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=52
 ,,,,,,,,,,1,5.24,Orlando Magic,foul,,,,,,,,,,Nelson,,,,,,Shooting,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=53
 ,,,,,,,,,,1,5.24,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,10-6,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=54
 ,,,,,,,,,,1,5.24,Indiana Pacers,free throw,,,,,,,1,,2,Hansbrough,1,,foul,made,,,,,10-7,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=56
@@ -58,7 +58,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,5.07,Indiana Pacers,foul,,,,,,,,,,Hibbert,,,,,,Shooting,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=62
 ,,,,,,,,,,1,5.07,Orlando Magic,free throw,,,,,,,1,,1,Vucevic,,,foul,missed,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=63
 ,,,,,,,,,,1,5.06,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=65
-,,,,,,,,,,1,4.51,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=66
+,,,,,,,,,,1,4.51,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,Harkless,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=66
 ,,,,,,,,,,1,4.41,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Jump Shot,,,12-7,8,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=67
 ,,,,,,,,,,1,4.40,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,12-7,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=68
 ,,,,,,,,,,1,4.28,Orlando Magic,shot,,,,,,,,,,Vucevic,,,,missed,,Jump Shot,,,12-7,15,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=69
@@ -88,7 +88,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.51,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=96
 ,,,,,,,,,,1,2.38,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,3PT Jump Shot,,,12-14,24,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=98
 ,,,,,,,,,,1,2.36,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=99
-,,,,,,,,,,1,2.17,Indiana Pacers,turnover,,,,,,,,,,Pendergraph,,,Bad Pass,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=100
+,,,,,,,,,,1,2.17,Indiana Pacers,turnover,,,,,,,,,,Pendergraph,,,Bad Pass,,Harkless,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=100
 ,,,,,,,,,,1,2.07,Orlando Magic,shot,,,,,,,,,,Harris,,,,missed,,Jump Shot,,,12-14,11,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=101
 ,,,,,,,,,,1,2.06,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,12-14,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=102
 ,,,,,,,,,,1,1.58,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Floating Jump Shot,,,12-16,3,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=103
@@ -96,7 +96,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,1.31,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=105
 ,,,,,,,,,,1,1.20,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,12-16,26,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=106
 ,,,,,,,,,,1,1.19,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=107
-,,,,,,,,,,1,1.14,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=108
+,,,,,,,,,,1,1.14,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,Pendergraph,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=108
 ,,,,,,,,,,1,1.00,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=109
 ,,,,,,,,,,1,1.00,Orlando Magic,substitute,,,,Moore,,Afflalo,,,,,,,,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=110
 ,,,,,,,,,,1,1.00,Indiana Pacers,substitute,,,,Augustin,,Hill,,,,,,,,,,,,,12-16,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=111
@@ -115,13 +115,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.38,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Jump Shot,,,16-25,16,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=127
 ,,,,,,,,,,2,10.18,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Jump Shot,,,16-25,21,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=128
 ,,,,,,,,,,2,10.16,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=129
-,,,,,,,,,,2,10.02,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Lost Ball,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=130
+,,,,,,,,,,2,10.02,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Lost Ball,,Moore,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=130
 ,,,,,,,,,,2,9.54,Indiana Pacers,violation,,,,,,,,,,Augustin,,,Kicked Ball,,,,,,16-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=132
 ,,,,,,,,,,2,9.49,Orlando Magic,shot,Udrih,,,,,,,,,Nicholson,2,,,made,,Slam Dunk,,,18-25,2,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=133
 ,,,,,,,,,,2,9.34,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,3PT Jump Shot,,,18-25,25,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=134
 ,,,,,,,,,,2,9.33,Orlando Magic,rebound,,,,,,,,,,O'Quinn,,,,,,,,,18-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=135
 ,,,,,,,,,,2,9.19,Orlando Magic,shot,,,,,,,,,,Moore,2,,,made,,Pullup Jump Shot,,,20-25,19,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=136
-,,,,,,,,,,2,9.16,Indiana Pacers,turnover,,,,,,,,,,Pendergraph,,,Bad Pass,,,,,,20-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=137
+,,,,,,,,,,2,9.16,Indiana Pacers,turnover,,,,,,,,,,Pendergraph,,,Bad Pass,,Harkless,,,,20-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=137
 ,,,,,,,,,,2,9.16,Indiana Pacers,foul,,,,,,,,,,Pendergraph,,,,,,Shooting,,,20-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=138
 ,,,,,,,,,,2,9.16,Orlando Magic,free throw,,,,,,,1,,2,Harkless,1,,foul,made,,,,,21-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=139
 ,,,,,,,,,,2,9.16,Indiana Pacers,substitute,,,,Stephenson,,Johnson,,,,,,,,,,,,,21-25,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=141
@@ -162,7 +162,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.56,Orlando Magic,foul,,,,,,,,,,Harris,,,,,,Shooting,,,21-30,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=184
 ,,,,,,,,,,2,5.56,Indiana Pacers,free throw,,,,,,,1,,2,Mahinmi,1,,foul,made,,,,,21-31,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=185
 ,,,,,,,,,,2,5.56,Indiana Pacers,free throw,,,,,,,2,,2,Mahinmi,1,,foul,made,,,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=187
-,,,,,,,,,,2,5.45,Orlando Magic,shot,,,,,,,,,,Harris,,,,missed,,Jump Shot,,,21-32,6,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=189
+,,,,,,,,,,2,5.45,Orlando Magic,shot,,,Mahinmi,,,,,,,Harris,,,,missed,,Jump Shot,,,21-32,6,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=189
 ,,,,,,,,,,2,5.43,Indiana Pacers,rebound,,,,,,,,,,Green,,,,,,,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=190
 ,,,,,,,,,,2,5.39,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Traveling,,,,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=191
 ,,,,,,,,,,2,5.23,Orlando Magic,foul,,,,,,,,,,Nelson,,,,,,Offensive Charge,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=192
@@ -179,7 +179,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.58,Orlando Magic,free throw,,,,,,,2,,2,Harris,,,foul,missed,,,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=203
 ,,,,,,,,,,2,4.57,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=205
 ,,,,,,,,,,2,4.48,Orlando Magic,foul,,,,,,,,,,Harris,,,,,,Personal,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=206
-,,,,,,,,,,2,4.40,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,21-32,6,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=207
+,,,,,,,,,,2,4.40,Indiana Pacers,shot,,,Harris,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,21-32,6,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=207
 ,,,,,,,,,,2,4.38,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,21-32,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=208
 ,,,,,,,,,,2,4.26,Orlando Magic,shot,,,,,,,,,,Harris,2,,,made,,Jump Shot,,,23-32,4,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=209
 ,,,,,,,,,,2,4.08,Indiana Pacers,shot,,,,,,,,,,Green,2,,,made,,Turnaround Fadeaway,,,23-34,15,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=210
@@ -234,17 +234,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,11.47,Orlando Magic,foul,,,,,,,,,,Harkless,,,,,,Personal,,,29-42,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=270
 ,,,,,,,,,,3,11.37,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Jump Shot,,,29-42,21,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=271
 ,,,,,,,,,,3,11.35,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,29-42,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=272
-,,,,,,,,,,3,11.19,Orlando Magic,shot,,,,,,,,,,Vucevic,,,,missed,,Layup,,,29-42,3,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=273
+,,,,,,,,,,3,11.19,Orlando Magic,shot,,,Hansbrough,,,,,,,Vucevic,,,,missed,,Layup,,,29-42,3,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=273
 ,,,,,,,,,,3,11.18,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,29-42,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=274
-,,,,,,,,,,3,11.07,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,,,,,29-42,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=275
-,,,,,,,,,,3,11.03,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Layup,,,29-42,3,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=276
+,,,,,,,,,,3,11.07,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Lost Ball,,Harkless,,,,29-42,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=275
+,,,,,,,,,,3,11.03,Orlando Magic,shot,,,George,,,,,,,Afflalo,,,,missed,,Layup,,,29-42,3,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=276
 ,,,,,,,,,,3,11.03,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,29-42,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=277
 ,,,,,,,,,,3,11.00,Orlando Magic,shot,Harris,,,,,,,,,Vucevic,2,,,made,,Jump Shot,,,31-42,17,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=278
 ,,,,,,,,,,3,10.45,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,31-42,16,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=279
 ,,,,,,,,,,3,10.43,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,31-42,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=280
 ,,,,,,,,,,3,10.28,Indiana Pacers,shot,George,,,,,,,,,Hibbert,2,,,made,,Slam Dunk,,,31-44,1,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=281
 ,,,,,,,,,,3,10.01,Orlando Magic,shot,Harris,,,,,,,,,Nelson,3,,,made,,3PT Jump Shot,,,34-44,25,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=282
-,,,,,,,,,,3,9.40,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Layup,,,34-44,1,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=283
+,,,,,,,,,,3,9.40,Indiana Pacers,shot,,,Afflalo,,,,,,,Hansbrough,,,,missed,,Layup,,,34-44,1,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=283
 ,,,,,,,,,,3,9.32,Indiana Pacers,rebound,,,,,,,,,,Hill,,,,,,,,,34-44,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=284
 ,,,,,,,,,,3,9.17,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Jump Shot,,,34-44,6,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=285
 ,,,,,,,,,,3,9.16,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,34-44,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=286
@@ -274,7 +274,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.16,Indiana Pacers,free throw,,,,,,,1,,1,Hibbert,1,,foul,made,,,,,38-52,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=313
 ,,,,,,,,,,3,6.56,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,3PT Jump Shot,,,38-52,25,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=316
 ,,,,,,,,,,3,6.55,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,38-52,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=317
-,,,,,,,,,,3,6.49,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,,,,,38-52,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=318
+,,,,,,,,,,3,6.49,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,Vucevic,,,,38-52,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=318
 ,,,,,,,,,,3,6.42,Indiana Pacers,foul,,,,,,,,,,George,,,,,,Personal,,,38-52,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=319
 ,,,,,,,,,,3,6.42,Orlando Magic,substitute,,,,O'Quinn,,Vucevic,,,,,,,,,,,,,38-52,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=320
 ,,,,,,,,,,3,6.33,Indiana Pacers,foul,,,,,,,,,,Hansbrough,,,,,,Personal,,,38-52,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=321
@@ -302,8 +302,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.47,Indiana Pacers,free throw,,,,,,,,,,George,1,,Technical,made,,,,,44-60,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=360
 ,,,,,,,,,,3,4.33,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,Jump Shot,,,44-60,16,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=362
 ,,,,,,,,,,3,4.31,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,44-60,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=363
-,,,,,,,,,,3,4.20,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,,,,,44-60,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=364
-,,,,,,,,,,3,4.18,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Lost Ball,,,,,,44-60,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=365
+,,,,,,,,,,3,4.20,Indiana Pacers,turnover,,,,,,,,,,George,,,Bad Pass,,O'Quinn,,,,44-60,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=364
+,,,,,,,,,,3,4.18,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Lost Ball,,Stephenson,,,,44-60,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=365
 ,,,,,,,,,,3,4.18,Orlando Magic,foul,,,,,,,,,,Afflalo,,,,,,Personal Take,,,44-60,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=366
 ,,,,,,,,,,3,4.18,Indiana Pacers,free throw,,,,,,,1,,2,Stephenson,1,,foul,made,,,,,44-61,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=367
 ,,,,,,,,,,3,4.18,Indiana Pacers,substitute,,,,Augustin,,Hill,,,,,,,,,,,,,44-61,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=369
@@ -320,9 +320,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.49,Orlando Magic,substitute,,,,Nicholson,,Harris,,,,,,,,,,,,,47-62,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=382
 ,,,,,,,,,,3,3.49,Orlando Magic,free throw,,,,,,,2,,2,O'Quinn,1,,foul,made,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=383
 ,,,,,,,,,,3,3.45,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=385
-,,,,,,,,,,3,3.29,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Layup,,,48-62,2,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=387
+,,,,,,,,,,3,3.29,Indiana Pacers,shot,,,Nicholson,,,,,,,Hansbrough,,,,missed,,Layup,,,48-62,2,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=387
 ,,,,,,,,,,3,3.27,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=388
-,,,,,,,,,,3,3.27,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Layup,,,48-62,2,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=389
+,,,,,,,,,,3,3.27,Indiana Pacers,shot,,,Nicholson,,,,,,,Hansbrough,,,,missed,,Layup,,,48-62,2,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=389
 ,,,,,,,,,,3,3.27,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=390
 ,,,,,,,,,,3,3.27,Orlando Magic,foul,,,,,,,,,,Nicholson,,,,,,Shooting,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=391
 ,,,,,,,,,,3,3.27,Indiana Pacers,free throw,,,,,,,1,,2,Mahinmi,,,foul,missed,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=392
@@ -343,7 +343,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.55,Orlando Magic,shot,Nicholson,,,,,,,,,Udrih,2,,,made,,Running Bank Shot,,,52-67,5,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=411
 ,,,,,,,,,,3,1.40,Indiana Pacers,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,52-67,25,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=412
 ,,,,,,,,,,3,1.38,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,52-67,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=413
-,,,,,,,,,,3,1.26,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,Layup,,,52-67,1,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=414
+,,,,,,,,,,3,1.26,Orlando Magic,shot,,,Johnson,,,,,,,Nelson,,,,missed,,Layup,,,52-67,1,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=414
 ,,,,,,,,,,3,1.25,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,52-67,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=415
 ,,,,,,,,,,3,1.11,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Turnaround Fadeaway Shot,,,52-67,14,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=416
 ,,,,,,,,,,3,1.10,Orlando Magic,rebound,,,,,,,,,,Udrih,,,,,,,,,52-67,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=417
@@ -368,7 +368,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.13,Orlando Magic,shot,,,,,,,,,,Harkless,,,,missed,,3PT Jump Shot,,,55-71,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=443
 ,,,,,,,,,,4,11.12,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,55-71,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=444
 ,,,,,,,,,,4,11.05,Indiana Pacers,shot,,,,,,,,,,Johnson,2,,,made,,Pullup Jump Shot,,,55-73,20,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=445
-,,,,,,,,,,4,10.51,Orlando Magic,turnover,,,,,,,,,,Udrih,,,Lost Ball,,,,,,55-73,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=446
+,,,,,,,,,,4,10.51,Orlando Magic,turnover,,,,,,,,,,Udrih,,,Lost Ball,,Pendergraph,,,,55-73,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=446
 ,,,,,,,,,,4,10.44,Indiana Pacers,shot,Johnson,,,,,,,,,Hill,3,,,made,,3PT Jump Shot,,,55-76,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=447
 ,,,,,,,,,,4,10.43,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,55-76,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=448
 ,,,,,,,,,,4,10.43,Orlando Magic,substitute,,,,Afflalo,,Nicholson,,,,,,,,,,,,,55-76,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=450
@@ -387,7 +387,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.41,Indiana Pacers,rebound,,,,,,,,,,Green,,,,,,,,,57-78,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=463
 ,,,,,,,,,,4,8.23,Indiana Pacers,shot,,,,,,,,,,Green,2,,,made,,Floating Jump Shot,,,57-80,8,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=464
 ,,,,,,,,,,4,8.10,Orlando Magic,shot,,,,,,,,,,Moore,2,,,made,,Floating Jump Shot,,,59-80,9,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=465
-,,,,,,,,,,4,7.52,Indiana Pacers,shot,,,,,,,,,,Pendergraph,,,,missed,,Jump Shot,,,59-80,8,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=466
+,,,,,,,,,,4,7.52,Indiana Pacers,shot,,,Harris,,,,,,,Pendergraph,,,,missed,,Jump Shot,,,59-80,8,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=466
 ,,,,,,,,,,4,7.52,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,59-80,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=467
 ,,,,,,,,,,4,7.52,Orlando Magic,substitute,,,,Nelson,,Harkless,,,,,,,,,,,,,59-80,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=468
 ,,,,,,,,,,4,7.45,Indiana Pacers,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,59-80,25,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=469
@@ -430,7 +430,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.03,Orlando Magic,free throw,,,,,,,1,,1,Jones,1,,foul,made,,,,,67-89,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=510
 ,,,,,,,,,,4,3.48,Indiana Pacers,shot,,,,,,,,,,Green,,,,missed,,3PT Jump Shot,,,67-89,25,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=512
 ,,,,,,,,,,4,3.46,Indiana Pacers,rebound,,,,,,,,,,Pendergraph,,,,,,,,,67-89,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=513
-,,,,,,,,,,4,3.43,Indiana Pacers,shot,,,,,,,,,,Pendergraph,,,,missed,,Layup,,,67-89,1,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=514
+,,,,,,,,,,4,3.43,Indiana Pacers,shot,,,O'Quinn,,,,,,,Pendergraph,,,,missed,,Layup,,,67-89,1,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=514
 ,,,,,,,,,,4,3.41,Indiana Pacers,rebound,,,,,,,,,,Plumlee,,,,,,,,,67-89,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=515
 ,,,,,,,,,,4,3.37,Orlando Magic,foul,,,,,,,,,,O'Quinn,,,,,,Shooting,,,67-89,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=516
 ,,,,,,,,,,4,3.37,Indiana Pacers,free throw,,,,,,,1,,2,Plumlee,,,foul,missed,,,,,67-89,,http://stats.nba.com/cvp.html?GameID=0021201004&GameEventID=517

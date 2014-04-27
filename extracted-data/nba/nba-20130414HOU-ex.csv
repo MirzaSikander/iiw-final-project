@@ -1,6 +1,6 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
 ,,,,,,,,,,1,11.44,Houston Rockets,shot,,,,,,,,,,Smith,2,,,made,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=2
-,,,,,,,,,,1,11.31,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Bad Pass,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=3
+,,,,,,,,,,1,11.31,Sacramento Kings,turnover,,,,,,,,,,Thompson,,,Bad Pass,,Parsons,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=3
 ,,,,,,,,,,1,11.22,Houston Rockets,turnover,,,,,,,,,,Lin Out of Bounds,,,Lost Ball,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=4
 ,,,,,,,,,,1,11.06,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,0-2,17,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=5
 ,,,,,,,,,,1,11.05,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=6
@@ -30,18 +30,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.18,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=33
 ,,,,,,,,,,1,7.12,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,12-11,7,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=34
 ,,,,,,,,,,1,7.11,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=35
-,,,,,,,,,,1,7.05,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Running Jump Shot,,,12-11,8,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=36
+,,,,,,,,,,1,7.05,Houston Rockets,shot,,,Evans,,,,,,,Lin,,,,missed,,Running Jump Shot,,,12-11,8,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=36
 ,,,,,,,,,,1,7.03,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=37
 ,,,,,,,,,,1,6.50,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,3PT Jump Shot,,,12-11,25,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=38
 ,,,,,,,,,,1,6.49,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,12-11,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=39
 ,,,,,,,,,,1,6.33,Houston Rockets,shot,Harden,,,,,,,,,Smith,2,,,made,,Layup,,,12-13,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=42
-,,,,,,,,,,1,6.10,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=43
+,,,,,,,,,,1,6.10,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Smith,,,,12-13,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=43
 ,,,,,,,,,,1,6.05,Houston Rockets,shot,Harden,,,,,,,,,Parsons,2,,,made,,Reverse Layup,,,12-15,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=44
 ,,,,,,,,,,1,5.57,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,12-15,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=45
 ,,,,,,,,,,1,5.43,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,3PT Jump Shot,,,12-15,24,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=48
 ,,,,,,,,,,1,5.43,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,12-15,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=49
 ,,,,,,,,,,1,5.43,Houston Rockets,foul,,,,,,,,,,Smith,,,,,,Loose ball,,,12-15,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=50
-,,,,,,,,,,1,5.36,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Layup,,,12-15,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=51
+,,,,,,,,,,1,5.36,Sacramento Kings,shot,,,Smith,,,,,,,Cousins,,,,missed,,Layup,,,12-15,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=51
 ,,,,,,,,,,1,5.35,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,12-15,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=52
 ,,,,,,,,,,1,5.31,Houston Rockets,shot,Smith,,,,,,,,,Harden,2,,,made,,Layup,,,12-17,1,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=53
 ,,,,,,,,,,1,5.08,Sacramento Kings,shot,Thomas,,,,,,,,,Thompson,2,,,made,,Dunk,,,14-17,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=54
@@ -66,7 +66,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.26,Sacramento Kings,rebound,,,,,,,,,,Thomas,,,,,,,,,17-24,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=78
 ,,,,,,,,,,1,3.22,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Layup,,,17-24,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=79
 ,,,,,,,,,,1,3.19,Houston Rockets,rebound,,,,,,,,,,Parsons,,,,,,,,,17-24,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=80
-,,,,,,,,,,1,3.11,Houston Rockets,turnover,,,,,,,,,,Smith,,,Bad Pass,,,,,,17-24,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=81
+,,,,,,,,,,1,3.11,Houston Rockets,turnover,,,,,,,,,,Smith,,,Bad Pass,,Cousins,,,,17-24,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=81
 ,,,,,,,,,,1,3.06,Sacramento Kings,shot,,,,,,,,,,Cousins,2,,,made,,Jump Shot,,,19-24,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=82
 ,,,,,,,,,,1,2.48,Houston Rockets,shot,Parsons,,,,,,,,,Smith,2,,,made,,Layup,,,19-26,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=84
 ,,,,,,,,,,1,2.47,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Technical,,,19-26,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=88
@@ -84,18 +84,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.27,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=104
 ,,,,,,,,,,1,2.13,Sacramento Kings,shot,,,,,,,,,,Patterson,,,,missed,,Turnaround Bank Hook Shot,,,19-27,8,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=105
 ,,,,,,,,,,1,2.11,Houston Rockets,rebound,,,,,,,,,,Smith,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=106
-,,,,,,,,,,1,2.01,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Driving Layup,,,19-27,4,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=107
+,,,,,,,,,,1,2.01,Houston Rockets,shot,,,Patterson,,,,,,,Lin,,,,missed,,Driving Layup,,,19-27,4,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=107
 ,,,,,,,,,,1,2.00,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=108
 ,,,,,,,,,,1,2.00,Houston Rockets,substitute,,,,Garcia,,Smith,,,,,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=109
 ,,,,,,,,,,1,1.57,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,19-27,25,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=110
 ,,,,,,,,,,1,1.56,Sacramento Kings,rebound,,,,,,,,,,Evans,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=111
-,,,,,,,,,,1,1.49,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,Layup,,,19-27,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=112
+,,,,,,,,,,1,1.49,Sacramento Kings,shot,,,Jones,,,,,,,Evans,,,,missed,,Layup,,,19-27,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=112
 ,,,,,,,,,,1,1.49,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=113
 ,,,,,,,,,,1,1.44,Houston Rockets,foul,,,,,,,,,,Jones,,,,,,Shooting,,,19-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=115
 ,,,,,,,,,,1,1.44,Sacramento Kings,free throw,,,,,,,1,,2,Cousins,1,,foul,made,,,,,20-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=116
 ,,,,,,,,,,1,1.44,Houston Rockets,substitute,,,,Beverley,,Lin,,,,,,,,,,,,,20-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=118
 ,,,,,,,,,,1,1.44,Sacramento Kings,free throw,,,,,,,2,,2,Cousins,1,,foul,made,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=119
-,,,,,,,,,,1,1.31,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=121
+,,,,,,,,,,1,1.31,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Cousins,,,,21-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=121
 ,,,,,,,,,,1,1.25,Sacramento Kings,shot,,,,,,,,,,Thomas,2,,,made,,Driving Jump Shot,,,23-27,4,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=122
 ,,,,,,,,,,1,1.25,Houston Rockets,foul,,,,,,,,,,Beverley,,,,,,Shooting,,,23-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=123
 ,,,,,,,,,,1,1.25,Sacramento Kings,free throw,,,,,,,1,,1,Thomas,1,,foul,made,,,,,24-27,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=124
@@ -104,7 +104,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.44,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,3PT Jump Shot,,,24-29,25,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=129
 ,,,,,,,,,,1,0.43,Houston Rockets,rebound,,,,,,,,,,Garcia,,,,,,,,,24-29,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=130
 ,,,,,,,,,,1,0.26,Houston Rockets,shot,Jones,,,,,,,,,Garcia,2,,,made,,Jump Shot,,,24-31,20,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=131
-,,,,,,,,,,1,0.06,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Lost Ball,,,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=132
+,,,,,,,,,,1,0.06,Sacramento Kings,turnover,,,,,,,,,,Thornton,,,Lost Ball,,Jones,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=132
 ,,,,,,,,,,1,0.01,Houston Rockets,shot,,,,,,,,,,Jones,,,,missed,,Layup,,,24-31,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=133
 ,,,,,,,,,,1,0.01,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,24-31,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=135
 ,,,,,,,,,,1,0.01,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Putback Layup,,,24-33,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=134
@@ -131,9 +131,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.10,Houston Rockets,free throw,,,,,,,1,,2,Jones,1,,foul,made,,,,,28-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=162
 ,,,,,,,,,,2,9.10,Houston Rockets,free throw,,,,,,,2,,2,Jones,,,foul,missed,,,,,28-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=164
 ,,,,,,,,,,2,9.10,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,28-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=166
-,,,,,,,,,,2,8.53,Sacramento Kings,shot,,,,,,,,,,Thornton,,,,missed,,Jump Shot,,,28-43,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=167
+,,,,,,,,,,2,8.53,Sacramento Kings,shot,,,Jones,,,,,,,Thornton,,,,missed,,Jump Shot,,,28-43,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=167
 ,,,,,,,,,,2,8.51,Sacramento Kings,rebound,,,,,,,,,,Douglas,,,,,,,,,28-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=168
-,,,,,,,,,,2,8.49,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,28-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=169
+,,,,,,,,,,2,8.49,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Bad Pass,,Beverley,,,,28-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=169
 ,,,,,,,,,,2,8.48,Sacramento Kings,foul,,,,,,,,,,Fredette,,,,,,Personal,,,28-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=170
 ,,,,,,,,,,2,8.37,Houston Rockets,shot,,,,,,,,,,Jones,,,,missed,,3PT Jump Shot,,,28-43,26,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=171
 ,,,,,,,,,,2,8.36,Sacramento Kings,rebound,,,,,,,,,,Thornton,,,,,,,,,28-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=172
@@ -145,14 +145,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.02,Sacramento Kings,shot,,,,,,,,,,Patterson,,,,missed,,Layup,,,31-43,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=177
 ,,,,,,,,,,2,8.01,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,31-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=180
 ,,,,,,,,,,2,8.01,Sacramento Kings,shot,,,,,,,,,,Aldrich,2,,,made,,Putback Layup,,,33-43,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=179
-,,,,,,,,,,2,7.48,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,,,,,33-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=181
+,,,,,,,,,,2,7.48,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Bad Pass,,Fredette,,,,33-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=181
 ,,,,,,,,,,2,7.38,Houston Rockets,foul,,,,,,,,,,Delfino,,,,,,Personal,,,33-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=182
 ,,,,,,,,,,2,7.38,Sacramento Kings,substitute,,,,Salmons,,Thornton,,,,,,,,,,,,,33-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=183
 ,,,,,,,,,,2,7.38,Houston Rockets,substitute,,,,Asik,,Jones,,,,,,,,,,,,,33-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=184
 ,,,,,,,,,,2,7.38,Houston Rockets,substitute,,,,Smith,,Garcia,,,,,,,,,,,,,33-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=185
 ,,,,,,,,,,2,7.38,Houston Rockets,substitute,,,,Harden,,Delfino,,,,,,,,,,,,,33-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=186
 ,,,,,,,,,,2,7.26,Sacramento Kings,shot,,,,,,,,,,Fredette,2,,,made,,Jump Shot,,,35-43,12,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=187
-,,,,,,,,,,2,7.07,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=188
+,,,,,,,,,,2,7.07,Houston Rockets,turnover,,,,,,,,,,Asik,,,Lost Ball,,Patterson,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=188
 ,,,,,,,,,,2,7.01,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Layup,,,35-43,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=189
 ,,,,,,,,,,2,6.59,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=190
 ,,,,,,,,,,2,6.50,Houston Rockets,shot,,,,,,,,,,Parsons,,,,missed,,3PT Jump Shot,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=191
@@ -162,14 +162,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.31,Sacramento Kings,foul,,,,,,,,,,Fredette,,,,,,Personal,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=195
 ,,,,,,,,,,2,6.31,Houston Rockets,substitute,,,,Lin,,Beverley,,,,,,,,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=196
 ,,,,,,,,,,2,6.31,Sacramento Kings,substitute,,,,Thompson,,Patterson,,,,,,,,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=197
-,,,,,,,,,,2,6.23,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=199
+,,,,,,,,,,2,6.23,Houston Rockets,turnover,,,,,,,,,,Harden,,,Bad Pass,,Fredette,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=199
 ,,,,,,,,,,2,6.19,Houston Rockets,violation,,,,,,,,,,Parsons,,,Defensive Goaltending,,,,,,35-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=201
 ,,,,,,,,,,2,6.19,Sacramento Kings,shot,,,,,,,,,,Fredette,2,,,made,,Layup,,,37-43,1,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=200
 ,,,,,,,,,,2,6.09,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Driving Layup,,,37-43,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=202
 ,,,,,,,,,,2,6.07,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,37-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=203
 ,,,,,,,,,,2,5.59,Sacramento Kings,shot,,,,,,,,,,Fredette,2,,,made,,Running Jump Shot,,,39-43,15,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=204
 ,,,,,,,,,,2,5.55,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,39-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=205
-,,,,,,,,,,2,5.35,Houston Rockets,shot,,,,,,,,,,Smith,,,,missed,,Layup,,,39-43,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=208
+,,,,,,,,,,2,5.35,Houston Rockets,shot,,,Aldrich,,,,,,,Smith,,,,missed,,Layup,,,39-43,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=208
 ,,,,,,,,,,2,5.33,Sacramento Kings,rebound,,,,,,,,,,Douglas,,,,,,,,,39-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=209
 ,,,,,,,,,,2,5.16,Sacramento Kings,shot,,,,,,,,,,Salmons,,,,missed,,3PT Jump Shot,,,39-43,24,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=210
 ,,,,,,,,,,2,5.15,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,39-43,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=211
@@ -178,14 +178,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,4.49,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=214
 ,,,,,,,,,,2,4.37,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,39-45,19,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=215
 ,,,,,,,,,,2,4.36,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=216
-,,,,,,,,,,2,4.28,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Layup,,,39-45,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=217
+,,,,,,,,,,2,4.28,Houston Rockets,shot,,,Aldrich,,,,,,,Asik,,,,missed,,Layup,,,39-45,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=217
 ,,,,,,,,,,2,4.27,Sacramento Kings,rebound,,,,,,,,,,Fredette,,,,,,,,,39-45,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=218
 ,,,,,,,,,,2,4.23,Sacramento Kings,shot,Fredette,,,,,,,,,Salmons,2,,,made,,Reverse Layup,,,41-45,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=219
 ,,,,,,,,,,2,4.23,Houston Rockets,foul,,,,,,,,,,Smith,,,,,,Shooting,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=220
 ,,,,,,,,,,2,4.23,Houston Rockets,substitute,,,,Jones,,Smith,,,,,,,,,,,,,41-45,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=221
 ,,,,,,,,,,2,4.23,Sacramento Kings,free throw,,,,,,,1,,1,Salmons,1,,foul,made,,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=222
 ,,,,,,,,,,2,4.07,Houston Rockets,turnover,,,,,,,,,,Asik,,,Bad Pass,,,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=224
-,,,,,,,,,,2,3.56,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=225
+,,,,,,,,,,2,3.56,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Bad Pass,,Jones,,,,42-45,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=225
 ,,,,,,,,,,2,3.54,Houston Rockets,shot,,,,,,,,,,Parsons,2,,,made,,Driving Slam Dunk,,,42-47,1,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=226
 ,,,,,,,,,,2,3.54,Sacramento Kings,foul,,,,,,,,,,Douglas,,,,,,Shooting,,,42-47,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=227
 ,,,,,,,,,,2,3.54,Houston Rockets,free throw,,,,,,,1,,1,Parsons,1,,foul,made,,,,,42-48,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=228
@@ -196,7 +196,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.39,Sacramento Kings,foul,,,,,,,,,,Salmons,,,,,,Offensive Charge,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=235
 ,,,,,,,,,,2,2.39,Sacramento Kings,turnover,,,,,,,,,,Salmons,,,Foul,,,,,,44-51,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=236
 ,,,,,,,,,,2,2.22,Houston Rockets,shot,Asik,,,,,,,,,Harden,3,,,made,,3PT Jump Shot,,,44-54,26,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=241
-,,,,,,,,,,2,2.02,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Bad Pass,,,,,,44-54,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=242
+,,,,,,,,,,2,2.02,Sacramento Kings,turnover,,,,,,,,,,Douglas,,,Bad Pass,,Harden,,,,44-54,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=242
 ,,,,,,,,,,2,1.57,Houston Rockets,shot,,,,,,,,,,Harden,2,,,made,,Driving Layup,,,44-56,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=243
 ,,,,,,,,,,2,1.40,Sacramento Kings,shot,,,,,,,,,,Douglas,,,,missed,,3PT Jump Shot,,,44-56,25,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=244
 ,,,,,,,,,,2,1.39,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,44-56,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=245
@@ -205,7 +205,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.22,Sacramento Kings,foul,,,,,,,,,,Aldrich,,,,,,Shooting,,,44-56,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=248
 ,,,,,,,,,,2,1.22,Houston Rockets,free throw,,,,,,,1,,2,Asik,1,,foul,made,,,,,44-57,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=249
 ,,,,,,,,,,2,1.22,Houston Rockets,free throw,,,,,,,2,,2,Asik,1,,foul,made,,,,,44-58,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=251
-,,,,,,,,,,2,1.11,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Jump Shot,,,44-58,21,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=253
+,,,,,,,,,,2,1.11,Sacramento Kings,shot,,,Harden,,,,,,,Fredette,,,,missed,,Jump Shot,,,44-58,21,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=253
 ,,,,,,,,,,2,1.10,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,44-58,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=254
 ,,,,,,,,,,2,1.07,Sacramento Kings,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,44-58,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=255
 ,,,,,,,,,,2,1.07,Houston Rockets,free throw,,,,,,,1,,2,Harden,1,,foul,made,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=256
@@ -213,22 +213,22 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.07,Sacramento Kings,substitute,,,,Thomas,,Douglas,,,,,,,,,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=259
 ,,,,,,,,,,2,1.07,Houston Rockets,free throw,,,,,,,2,,2,Harden,,,foul,missed,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=260
 ,,,,,,,,,,2,1.07,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=262
-,,,,,,,,,,2,0.51,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,44-59,5,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=263
+,,,,,,,,,,2,0.51,Sacramento Kings,shot,,,Jones,,,,,,,Thompson,,,,missed,,Jump Shot,,,44-59,5,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=263
 ,,,,,,,,,,2,0.49,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=264
-,,,,,,,,,,2,0.48,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Layup,,,44-59,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=265
+,,,,,,,,,,2,0.48,Sacramento Kings,shot,,,Jones,,,,,,,Thompson,,,,missed,,Layup,,,44-59,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=265
 ,,,,,,,,,,2,0.47,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,44-59,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=266
 ,,,,,,,,,,2,0.42,Houston Rockets,shot,Harden,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,44-62,25,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=267
 ,,,,,,,,,,2,0.37,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,44-62,14,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=268
 ,,,,,,,,,,2,0.36,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,44-62,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=269
 ,,,,,,,,,,2,0.22,Houston Rockets,shot,,,,,,,,,,Delfino,,,,missed,,3PT Jump Shot,,,44-62,27,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=270
 ,,,,,,,,,,2,0.21,Houston Rockets,rebound,,,,,,,,,,Asik,,,,,,,,,44-62,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=271
-,,,,,,,,,,2,0.00,Houston Rockets,shot,,,,,,,,,,Lin,,,,missed,,Jump Shot,,,44-62,22,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=273
+,,,,,,,,,,2,0.00,Houston Rockets,shot,,,Salmons,,,,,,,Lin,,,,missed,,Jump Shot,,,44-62,22,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=273
 ,,,,,,,,,,2,0.00,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,44-62,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=274
 ,,,,,,,,,,3,11.34,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,44-62,18,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=278
 ,,,,,,,,,,3,11.33,Houston Rockets,rebound,,,,,,,,,,Harden,,,,,,,,,44-62,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=279
 ,,,,,,,,,,3,11.21,Houston Rockets,shot,Parsons,,,,,,,,,Lin,3,,,made,,3PT Jump Shot,,,44-65,25,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=280
-,,,,,,,,,,3,11.01,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,,,,,44-65,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=281
-,,,,,,,,,,3,10.54,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,,,,,44-65,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=282
+,,,,,,,,,,3,11.01,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Bad Pass,,Smith,,,,44-65,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=281
+,,,,,,,,,,3,10.54,Houston Rockets,turnover,,,,,,,,,,Lin,,,Bad Pass,,Cousins,,,,44-65,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=282
 ,,,,,,,,,,3,10.49,Sacramento Kings,foul,,,,,,,,,,Cousins,,,,,,Offensive Charge,,,44-65,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=283
 ,,,,,,,,,,3,10.49,Sacramento Kings,turnover,,,,,,,,,,Cousins,,,Foul,,,,,,44-65,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=284
 ,,,,,,,,,,3,10.31,Houston Rockets,shot,Harden,,,,,,,,,Smith,2,,,made,,Alley Oop Dunk,,,44-67,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=285
@@ -237,7 +237,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.57,Sacramento Kings,shot,Thomas,,,,,,,,,Thompson,2,,,made,,Jump Shot,,,48-69,15,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=288
 ,,,,,,,,,,3,9.42,Houston Rockets,shot,Harden,,,,,,,,,Asik,2,,,made,,Hook Shot,,,48-71,5,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=289
 ,,,,,,,,,,3,9.28,Sacramento Kings,shot,Thomas,,,,,,,,,Salmons,2,,,made,,Jump Shot,,,50-71,21,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=290
-,,,,,,,,,,3,9.14,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Jump Shot,,,50-71,5,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=291
+,,,,,,,,,,3,9.14,Houston Rockets,shot,,,Thompson,,,,,,,Asik,,,,missed,,Jump Shot,,,50-71,5,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=291
 ,,,,,,,,,,3,9.12,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,50-71,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=292
 ,,,,,,,,,,3,9.08,Sacramento Kings,shot,,,,,,,,,,Thompson,,,,missed,,Jump Shot,,,50-71,8,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=293
 ,,,,,,,,,,3,9.06,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,50-71,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=294
@@ -250,7 +250,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.02,Sacramento Kings,foul,,,,,,,,,,Thompson,,,,,,Shooting,,,53-74,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=302
 ,,,,,,,,,,3,8.02,Houston Rockets,free throw,,,,,,,1,,2,Lin,1,,foul,made,,,,,53-75,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=303
 ,,,,,,,,,,3,8.02,Houston Rockets,free throw,,,,,,,2,,2,Lin,1,,foul,made,,,,,53-76,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=305
-,,,,,,,,,,3,7.54,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,,,,,53-76,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=307
+,,,,,,,,,,3,7.54,Sacramento Kings,turnover,,,,,,,,,,Evans,,,Bad Pass,,Harden,,,,53-76,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=307
 ,,,,,,,,,,3,7.49,Houston Rockets,shot,Harden,,,,,,,,,Parsons,2,,,made,,Alley Oop Dunk,,,53-78,1,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=308
 ,,,,,,,,,,3,7.32,Sacramento Kings,shot,,,,,,,,,,Evans,,,,missed,,3PT Jump Shot,,,53-78,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=309
 ,,,,,,,,,,3,7.30,Sacramento Kings,rebound,,,,,,,,,,Cousins,,,,,,,,,53-78,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=310
@@ -266,7 +266,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.54,Sacramento Kings,free throw,,,,,,,2,,2,Thompson,1,,foul,made,,,,,54-80,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=321
 ,,,,,,,,,,3,6.31,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,3PT Jump Shot,,,54-80,27,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=323
 ,,,,,,,,,,3,6.30,Sacramento Kings,rebound,,,,,,,,,,Thompson,,,,,,,,,54-80,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=324
-,,,,,,,,,,3,6.19,Sacramento Kings,shot,,,,,,,,,,Cousins,,,,missed,,Jump Shot,,,54-80,4,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=325
+,,,,,,,,,,3,6.19,Sacramento Kings,shot,,,Parsons,,,,,,,Cousins,,,,missed,,Jump Shot,,,54-80,4,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=325
 ,,,,,,,,,,3,6.18,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,54-80,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=326
 ,,,,,,,,,,3,6.18,Sacramento Kings,foul,,,,,,,,,,Thompson,,,,,,Personal,,,54-80,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=327
 ,,,,,,,,,,3,6.18,Sacramento Kings,substitute,,,,Patterson,,Thompson,,,,,,,,,,,,,54-80,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=328
@@ -287,7 +287,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.06,Houston Rockets,free throw,,,,,,,2,,2,Lin,1,,foul,made,,,,,56-83,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=346
 ,,,,,,,,,,3,5.01,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Driving Layup,,,56-83,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=348
 ,,,,,,,,,,3,4.59,Houston Rockets,rebound,,,,,,,,,,Lin,,,,,,,,,56-83,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=349
-,,,,,,,,,,3,4.52,Houston Rockets,shot,,,,,,,,,,Harden,,,,missed,,Running Jump Shot,,,56-83,5,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=350
+,,,,,,,,,,3,4.52,Houston Rockets,shot,,,Outlaw,,,,,,,Harden,,,,missed,,Running Jump Shot,,,56-83,5,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=350
 ,,,,,,,,,,3,4.52,Houston Rockets,rebound,,,,,,,,,,,,,,,,,,,56-83,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=351
 ,,,,,,,,,,3,4.41,Houston Rockets,shot,,,,,,,,,,Asik,,,,missed,,Turnaround Hook Shot,,,56-83,8,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=352
 ,,,,,,,,,,3,4.40,Sacramento Kings,rebound,,,,,,,,,,Patterson,,,,,,,,,56-83,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=353
@@ -309,7 +309,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,3.12,Sacramento Kings,free throw,,,,,,,2,,2,Thomas,1,,foul,made,,,,,63-87,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=371
 ,,,,,,,,,,3,3.01,Houston Rockets,shot,Harden,,,,,,,,,Asik,2,,,made,,Dunk,,,63-89,1,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=373
 ,,,,,,,,,,3,2.45,Sacramento Kings,shot,Thomas,,,,,,,,,Patterson,2,,,made,,Jump Shot,,,65-89,19,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=374
-,,,,,,,,,,3,2.34,Houston Rockets,shot,,,,,,,,,,Jones,,,,missed,,Jump Shot,,,65-89,9,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=375
+,,,,,,,,,,3,2.34,Houston Rockets,shot,,,Patterson,,,,,,,Jones,,,,missed,,Jump Shot,,,65-89,9,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=375
 ,,,,,,,,,,3,2.32,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,65-89,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=376
 ,,,,,,,,,,3,2.29,Sacramento Kings,shot,Thomas,,,,,,,,,Outlaw,2,,,made,,Layup,,,67-89,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=377
 ,,,,,,,,,,3,2.22,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,67-89,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=378
@@ -336,7 +336,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.27,Sacramento Kings,foul,,,,,,,,,,Aldrich,,,,,,Loose ball,,,74-92,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=406
 ,,,,,,,,,,3,0.27,Houston Rockets,free throw,,,,,,,1,,2,Jones,1,,foul,made,,,,,74-93,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=407
 ,,,,,,,,,,3,0.27,Houston Rockets,free throw,,,,,,,2,,2,Jones,1,,foul,made,,,,,74-94,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=409
-,,,,,,,,,,3,0.15,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Jump Shot,,,74-94,23,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=411
+,,,,,,,,,,3,0.15,Sacramento Kings,shot,,,Beverley,,,,,,,Thomas,,,,missed,,Jump Shot,,,74-94,23,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=411
 ,,,,,,,,,,3,0.14,Sacramento Kings,rebound,,,,,,,,,,Patterson,,,,,,,,,74-94,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=413
 ,,,,,,,,,,3,0.14,Sacramento Kings,shot,,,,,,,,,,Patterson,2,,,made,,Putback Layup,,,76-94,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=412
 ,,,,,,,,,,4,11.46,Houston Rockets,shot,,,,,,,,,,Jones,2,,,made,,Layup,,,76-96,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=417
@@ -346,13 +346,13 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.15,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,78-96,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=421
 ,,,,,,,,,,4,11.09,Sacramento Kings,shot,,,,,,,,,,Outlaw,,,,missed,,3PT Pullup Jump Shot,,,78-96,26,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=422
 ,,,,,,,,,,4,11.07,Sacramento Kings,rebound,,,,,,,,,,Douglas,,,,,,,,,78-96,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=423
-,,,,,,,,,,4,11.00,Sacramento Kings,shot,,,,,,,,,,Thomas,,,,missed,,Driving Layup,,,78-96,4,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=424
+,,,,,,,,,,4,11.00,Sacramento Kings,shot,,,Jones,,,,,,,Thomas,,,,missed,,Driving Layup,,,78-96,4,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=424
 ,,,,,,,,,,4,11.00,Sacramento Kings,rebound,,,,,,,,,,,,,,,,,,,78-96,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=425
 ,,,,,,,,,,4,10.52,Sacramento Kings,shot,,,,,,,,,,Outlaw,,,,missed,,Driving Layup,,,78-96,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=426
 ,,,,,,,,,,4,10.50,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,78-96,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=427
 ,,,,,,,,,,4,10.43,Houston Rockets,shot,,,,,,,,,,Motiejunas,,,,missed,,Hook Shot,,,78-96,7,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=428
 ,,,,,,,,,,4,10.41,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,78-96,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=429
-,,,,,,,,,,4,10.34,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,,,,,78-96,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=430
+,,,,,,,,,,4,10.34,Sacramento Kings,turnover,,,,,,,,,,Thomas,,,Lost Ball,,Jones,,,,78-96,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=430
 ,,,,,,,,,,4,10.30,Houston Rockets,shot,,,,,,,,,,Jones,2,,,made,,Driving Slam Dunk,,,78-98,1,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=431
 ,,,,,,,,,,4,10.08,Houston Rockets,foul,,,,,,,,,,Motiejunas,,,,,,Shooting,,,78-98,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=432
 ,,,,,,,,,,4,10.08,Sacramento Kings,free throw,,,,,,,1,,2,Outlaw,1,,foul,made,,,,,79-98,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=433
@@ -368,18 +368,18 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.57,Sacramento Kings,substitute,,,,Fredette,,Thomas,,,,,,,,,,,,,80-101,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=450
 ,,,,,,,,,,4,8.57,Houston Rockets,free throw,,,,,,,,,,Beverley,1,,foul,made,,,,,80-102,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=451
 ,,,,,,,,,,4,8.57,Houston Rockets,free throw,,,,,,,,,,Beverley,1,,foul,made,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=453
-,,,,,,,,,,4,8.44,Houston Rockets,turnover,,,,,,,,,,Motiejunas,,,Bad Pass,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=455
+,,,,,,,,,,4,8.44,Houston Rockets,turnover,,,,,,,,,,Motiejunas,,,Bad Pass,,Aldrich,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=455
 ,,,,,,,,,,4,8.21,Sacramento Kings,shot,,,,,,,,,,Douglas,,,,missed,,Step Back Jump Shot,,,80-103,21,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=456
 ,,,,,,,,,,4,8.19,Houston Rockets,rebound,,,,,,,,,,Jones,,,,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=457
 ,,,,,,,,,,4,8.13,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,3PT Jump Shot,,,80-103,25,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=458
 ,,,,,,,,,,4,8.11,Sacramento Kings,rebound,,,,,,,,,,Outlaw,,,,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=459
-,,,,,,,,,,4,8.10,Sacramento Kings,turnover,,,,,,,,,,Outlaw,,,Lost Ball,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=460
+,,,,,,,,,,4,8.10,Sacramento Kings,turnover,,,,,,,,,,Outlaw,,,Lost Ball,,Beverley,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=460
 ,,,,,,,,,,4,8.06,Houston Rockets,turnover,,,,,,,,,,Jones,,,Bad Pass,,,,,,80-103,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=461
 ,,,,,,,,,,4,7.42,Sacramento Kings,shot,Outlaw,,,,,,,,,Fredette,2,,,made,,Jump Shot,,,82-103,20,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=462
 ,,,,,,,,,,4,7.32,Houston Rockets,shot,Motiejunas,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,82-106,25,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=463
 ,,,,,,,,,,4,7.22,Houston Rockets,foul,,,,,,,,,,Delfino,,,,,,Personal,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=464
 ,,,,,,,,,,4,7.18,Sacramento Kings,turnover,,,,,,,,,,Fredette,,,Bad Pass,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=466
-,,,,,,,,,,4,6.55,Houston Rockets,shot,,,,,,,,,,Beverley,,,,missed,,Driving Layup,,,82-106,5,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=467
+,,,,,,,,,,4,6.55,Houston Rockets,shot,,,Aldrich,,,,,,,Beverley,,,,missed,,Driving Layup,,,82-106,5,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=467
 ,,,,,,,,,,4,6.52,Sacramento Kings,rebound,,,,,,,,,,Douglas,,,,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=468
 ,,,,,,,,,,4,6.39,Sacramento Kings,shot,,,,,,,,,,Patterson,,,,missed,,Jump Shot,,,82-106,18,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=469
 ,,,,,,,,,,4,6.37,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=470
@@ -388,14 +388,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,6.28,Sacramento Kings,foul,,,,,,,,,,Patterson,,,,,,Loose ball,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=473
 ,,,,,,,,,,4,6.28,Houston Rockets,substitute,,,,Robinson,,Jones,,,,,,,,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=474
 ,,,,,,,,,,4,6.28,Houston Rockets,substitute,,,,Anderson,,Garcia,,,,,,,,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=475
-,,,,,,,,,,4,6.21,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=476
+,,,,,,,,,,4,6.21,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,Douglas,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=476
 ,,,,,,,,,,4,6.21,Houston Rockets,foul,,,,,,,,,,Beverley,,,,,,Personal,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=477
 ,,,,,,,,,,4,6.08,Sacramento Kings,shot,,,,,,,,,,Patterson,,,,missed,,Jump Shot,,,82-106,19,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=478
 ,,,,,,,,,,4,6.07,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=479
 ,,,,,,,,,,4,6.05,Sacramento Kings,shot,,,,,,,,,,Aldrich,,,,missed,,Putback Layup,,,82-106,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=480
 ,,,,,,,,,,4,6.03,Houston Rockets,rebound,,,,,,,,,,Beverley,,,,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=481
-,,,,,,,,,,4,5.53,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=482
-,,,,,,,,,,4,5.48,Sacramento Kings,shot,,,,,,,,,,Douglas,,,,missed,,Layup,,,82-106,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=483
+,,,,,,,,,,4,5.53,Houston Rockets,turnover,,,,,,,,,,Beverley,,,Lost Ball,,Patterson,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=482
+,,,,,,,,,,4,5.48,Sacramento Kings,shot,,,Anderson,,,,,,,Douglas,,,,missed,,Layup,,,82-106,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=483
 ,,,,,,,,,,4,5.46,Houston Rockets,rebound,,,,,,,,,,Delfino,,,,,,,,,82-106,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=484
 ,,,,,,,,,,4,5.38,Houston Rockets,shot,Delfino,,,,,,,,,Motiejunas,2,,,made,,Jump Shot,,,82-108,9,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=485
 ,,,,,,,,,,4,5.33,Sacramento Kings,timeout,,,,,,,,,,,,,,,,,,,82-108,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=486
@@ -412,17 +412,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,4.44,Sacramento Kings,shot,,,,,,,,,,Aldrich,2,,,made,,Putback Layup,,,86-108,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=502
 ,,,,,,,,,,4,4.22,Houston Rockets,shot,,,,,,,,,,Anderson,,,,missed,,Layup,,,86-108,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=504
 ,,,,,,,,,,4,4.21,Houston Rockets,rebound,,,,,,,,,,Motiejunas,,,,,,,,,86-108,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=505
-,,,,,,,,,,4,4.19,Houston Rockets,turnover,,,,,,,,,,Motiejunas,,,Lost Ball,,,,,,86-108,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=506
+,,,,,,,,,,4,4.19,Houston Rockets,turnover,,,,,,,,,,Motiejunas,,,Lost Ball,,Fredette,,,,86-108,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=506
 ,,,,,,,,,,4,4.13,Sacramento Kings,shot,Fredette,,,,,,,,,Outlaw,3,,,made,,3PT Jump Shot,,,89-108,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=507
 ,,,,,,,,,,4,3.48,Houston Rockets,shot,Anderson,,,,,,,,,Delfino,3,,,made,,3PT Jump Shot,,,89-111,27,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=508
 ,,,,,,,,,,4,3.26,Sacramento Kings,shot,Douglas,,,,,,,,,Fredette,2,,,made,,Fadeaway Jumper,,,91-111,9,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=509
 ,,,,,,,,,,4,3.10,Houston Rockets,shot,Delfino,,,,,,,,,Anderson,3,,,made,,3PT Jump Shot,,,91-114,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=510
-,,,,,,,,,,4,2.58,Sacramento Kings,turnover,,,,,,,,,,Aldrich,,,Lost Ball,,,,,,91-114,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=511
+,,,,,,,,,,4,2.58,Sacramento Kings,turnover,,,,,,,,,,Aldrich,,,Lost Ball,,Robinson,,,,91-114,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=511
 ,,,,,,,,,,4,2.54,Houston Rockets,shot,,,,,,,,,,Robinson,2,,,made,,Dunk,,,91-116,2,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=512
-,,,,,,,,,,4,2.35,Sacramento Kings,shot,,,,,,,,,,Patterson,,,,missed,,Jump Shot,,,91-116,9,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=513
+,,,,,,,,,,4,2.35,Sacramento Kings,shot,,,Motiejunas,,,,,,,Patterson,,,,missed,,Jump Shot,,,91-116,9,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=513
 ,,,,,,,,,,4,2.33,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,91-116,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=514
 ,,,,,,,,,,4,2.25,Sacramento Kings,shot,Outlaw,,,,,,,,,Douglas,3,,,made,,3PT Jump Shot,,,94-116,25,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=515
-,,,,,,,,,,4,2.11,Houston Rockets,shot,,,,,,,,,,Brooks,,,,missed,,Layup,,,94-116,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=516
+,,,,,,,,,,4,2.11,Houston Rockets,shot,,,Aldrich,,,,,,,Brooks,,,,missed,,Layup,,,94-116,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=516
 ,,,,,,,,,,4,2.09,Sacramento Kings,rebound,,,,,,,,,,Fredette,,,,,,,,,94-116,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=517
 ,,,,,,,,,,4,2.06,Sacramento Kings,shot,Fredette,,,,,,,,,Outlaw,2,,,made,,Alley Oop Dunk,,,96-116,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=518
 ,,,,,,,,,,4,1.43,Houston Rockets,shot,Robinson,,,,,,,,,Motiejunas,2,,,made,,Hook Shot,,,96-118,4,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=519
@@ -431,7 +431,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.29,Sacramento Kings,shot,,,,,,,,,,Aldrich,2,,,made,,Putback Dunk,,,98-118,1,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=521
 ,,,,,,,,,,4,1.14,Houston Rockets,shot,,,,,,,,,,Anderson,,,,missed,,3PT Jump Shot,,,98-118,26,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=523
 ,,,,,,,,,,4,1.13,Sacramento Kings,rebound,,,,,,,,,,Aldrich,,,,,,,,,98-118,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=524
-,,,,,,,,,,4,0.59,Sacramento Kings,shot,,,,,,,,,,Fredette,,,,missed,,Layup,,,98-118,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=525
+,,,,,,,,,,4,0.59,Sacramento Kings,shot,,,Robinson,,,,,,,Fredette,,,,missed,,Layup,,,98-118,3,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=525
 ,,,,,,,,,,4,0.58,Houston Rockets,rebound,,,,,,,,,,Robinson,,,,,,,,,98-118,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=526
 ,,,,,,,,,,4,0.54,Houston Rockets,turnover,,,,,,,,,,Anderson Out of Bounds,,,Lost Ball,,,,,,98-118,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=527
 ,,,,,,,,,,4,0.54,Houston Rockets,timeout,,,,,,,,,,,,,,,,,,,98-118,,http://stats.nba.com/cvp.html?GameID=0021201200&GameEventID=528

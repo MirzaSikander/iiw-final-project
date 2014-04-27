@@ -57,7 +57,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,6.37,Detroit Pistons,shot,,,,,,,,,,Monroe,2,,,made,,Driving Layup,,,10-7,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=74
 ,,,,,,,,,,1,6.37,Orlando Magic,foul,,,,,,,,,,Vucevic,,,,,,Shooting,,,10-7,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=75
 ,,,,,,,,,,1,6.37,Detroit Pistons,free throw,,,,,,,1,,1,Monroe,1,,foul,made,,,,,11-7,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=76
-,,,,,,,,,,1,6.25,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,,,,,11-7,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=78
+,,,,,,,,,,1,6.25,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,Monroe,,,,11-7,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=78
 ,,,,,,,,,,1,6.19,Detroit Pistons,shot,Monroe,,,,,,,,,Singler,2,,,made,,Driving Reverse Layup,,,13-7,1,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=79
 ,,,,,,,,,,1,6.11,Orlando Magic,foul,,,,,,,,,,,,,,,,,,,13-7,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=80
 ,,,,,,,,,,1,6.11,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Foul,,,,,,13-7,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=81
@@ -140,7 +140,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.08,Detroit Pistons,shot,,,,,,,,,,Bynum,2,,,made,,Jump Shot,,,29-24,19,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=176
 ,,,,,,,,,,2,9.50,Detroit Pistons,foul,,,,,,,,,,Bynum,,,,,,Personal,,,29-24,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=177
 ,,,,,,,,,,2,9.37,Orlando Magic,shot,,,,,,,,,,Nelson,3,,,made,,3PT Jump Shot,,,29-27,25,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=178
-,,,,,,,,,,2,9.27,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=179
+,,,,,,,,,,2,9.27,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,Nelson,,,,29-27,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=179
 ,,,,,,,,,,2,9.19,Orlando Magic,shot,Nelson,,,,,,,,,Afflalo,2,,,made,,Layup,,,29-29,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=180
 ,,,,,,,,,,2,9.02,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Jump Shot,,,29-29,17,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=181
 ,,,,,,,,,,2,9.00,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,29-29,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=182
@@ -150,17 +150,17 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.22,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,31-29,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=186
 ,,,,,,,,,,2,8.22,Orlando Magic,substitute,,,,Moore,,Nelson,,,,,,,,,,,,,31-29,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=189
 ,,,,,,,,,,2,8.22,Orlando Magic,substitute,,,,Vucevic,,Ayon,,,,,,,,,,,,,31-29,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=190
-,,,,,,,,,,2,8.14,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Lost Ball,,,,,,31-29,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=192
+,,,,,,,,,,2,8.14,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Lost Ball,,Stuckey,,,,31-29,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=192
 ,,,,,,,,,,2,8.07,Detroit Pistons,shot,Bynum,,,,,,,,,Drummond,2,,,made,,Layup,,,33-29,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=193
 ,,,,,,,,,,2,7.50,Orlando Magic,shot,,,,,,,,,,Nicholson,2,,,made,,Layup,,,33-31,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=194
-,,,,,,,,,,2,7.34,Detroit Pistons,shot,,,,,,,,,,Jerebko,,,,missed,,Jump Shot,,,33-31,5,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=195
+,,,,,,,,,,2,7.34,Detroit Pistons,shot,,,Harkless,,,,,,,Jerebko,,,,missed,,Jump Shot,,,33-31,5,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=195
 ,,,,,,,,,,2,7.32,Orlando Magic,rebound,,,,,,,,,,Moore,,,,,,,,,33-31,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=196
 ,,,,,,,,,,2,7.27,Orlando Magic,shot,Moore,,,,,,,,,Harkless,2,,,made,,Driving Dunk,,,33-33,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=197
 ,,,,,,,,,,2,7.06,Orlando Magic,substitute,,,,Davis,,Nicholson,,,,,,,,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=200
 ,,,,,,,,,,2,7.06,Orlando Magic,substitute,,,,Redick,,Afflalo,,,,,,,,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=201
 ,,,,,,,,,,2,7.06,Detroit Pistons,substitute,,,,Singler,,Drummond,,,,,,,,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=202
 ,,,,,,,,,,2,7.06,Detroit Pistons,substitute,,,,Maxiell,,Stuckey,,,,,,,,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=203
-,,,,,,,,,,2,7.02,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Layup,,,33-33,1,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=205
+,,,,,,,,,,2,7.02,Detroit Pistons,shot,,,Vucevic,,,,,,,Bynum,,,,missed,,Layup,,,33-33,1,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=205
 ,,,,,,,,,,2,6.59,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=206
 ,,,,,,,,,,2,6.47,Orlando Magic,foul,,,,,,,,,,,,,,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=207
 ,,,,,,,,,,2,6.47,Orlando Magic,turnover,,,,,,,,,,Harkless,,,Foul,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=208
@@ -174,7 +174,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.56,Detroit Pistons,rebound,,,,,,,,,,Jerebko,,,,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=220
 ,,,,,,,,,,2,5.56,Detroit Pistons,shot,,,,,,,,,,Jerebko,,,,missed,,Tip Shot,,,33-33,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=224
 ,,,,,,,,,,2,5.55,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=216
-,,,,,,,,,,2,5.51,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Bad Pass,,,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=217
+,,,,,,,,,,2,5.51,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Bad Pass,,Jerebko,,,,33-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=217
 ,,,,,,,,,,2,5.51,Detroit Pistons,shot,,,,,,,,,,Jerebko,2,,,made,,Layup,,,35-33,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=218
 ,,,,,,,,,,2,5.51,Orlando Magic,foul,,,,,,,,,,Harkless,,,,,,Shooting,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=219
 ,,,,,,,,,,2,5.51,Detroit Pistons,substitute,,,,Prince,,Maggette,,,,,,,,,,,,,35-33,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=225
@@ -235,7 +235,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,0.00,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,3PT Jump Shot,,,48-45,36,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=293
 ,,,,,,,,,,2,0.00,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,48-45,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=294
 ,,,,,,,,,,3,11.45,Orlando Magic,shot,Afflalo,,,,,,,,,Davis,2,,,made,,Hook Shot,,,48-47,4,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=300
-,,,,,,,,,,3,11.30,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Bad Pass,,,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=301
+,,,,,,,,,,3,11.30,Detroit Pistons,turnover,,,,,,,,,,Monroe,,,Bad Pass,,Vucevic,,,,48-47,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=301
 ,,,,,,,,,,3,11.23,Orlando Magic,shot,Nelson,,,,,,,,,Harkless,2,,,made,,Layup,,,48-49,3,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=302
 ,,,,,,,,,,3,11.07,Detroit Pistons,shot,,,,,,,,,,Singler,,,,missed,,3PT Jump Shot,,,48-49,26,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=303
 ,,,,,,,,,,3,11.05,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,48-49,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=304
@@ -252,7 +252,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,9.33,Detroit Pistons,rebound,,,,,,,,,,Prince,,,,,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=318
 ,,,,,,,,,,3,9.25,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,48-53,13,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=319
 ,,,,,,,,,,3,9.24,Orlando Magic,rebound,,,,,,,,,,Davis,,,,,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=320
-,,,,,,,,,,3,9.10,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=321
+,,,,,,,,,,3,9.10,Orlando Magic,turnover,,,,,,,,,,Nelson,,,Bad Pass,,Monroe,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=321
 ,,,,,,,,,,3,9.09,Orlando Magic,foul,,,,,,,,,,Nelson,,,,,,Personal,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=322
 ,,,,,,,,,,3,8.56,Detroit Pistons,shot,,,,,,,,,,Knight,,,,missed,,Jump Shot,,,48-53,16,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=323
 ,,,,,,,,,,3,8.55,Orlando Magic,rebound,,,,,,,,,,Nelson,,,,,,,,,48-53,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=324
@@ -271,7 +271,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,7.35,Detroit Pistons,rebound,,,,,,,,,,Maxiell,,,,,,,,,48-58,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=340
 ,,,,,,,,,,3,7.22,Detroit Pistons,turnover,,,,,,,,,,Maxiell,,,Bad Pass,,,,,,48-58,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=341
 ,,,,,,,,,,3,7.07,Orlando Magic,shot,O'Quinn,,,,,,,,,Redick,2,,,made,,Layup,,,48-60,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=342
-,,,,,,,,,,3,6.58,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,,,,,48-60,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=343
+,,,,,,,,,,3,6.58,Detroit Pistons,turnover,,,,,,,,,,Knight,,,Bad Pass,,McRoberts,,,,48-60,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=343
 ,,,,,,,,,,3,6.50,Orlando Magic,shot,Nelson,,,,,,,,,Davis,2,,,made,,Step Back Jump Shot,,,48-62,7,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=344
 ,,,,,,,,,,3,6.50,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=345
 ,,,,,,,,,,3,6.50,Detroit Pistons,substitute,,,,Stuckey,,Prince,,,,,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=349
@@ -281,12 +281,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.50,Detroit Pistons,substitute,,,,Jerebko,,Knight,,,,,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=353
 ,,,,,,,,,,3,6.31,Detroit Pistons,shot,,,,,,,,,,Jerebko,,,,missed,,Step Back Jump Shot,,,48-62,11,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=354
 ,,,,,,,,,,3,6.28,Detroit Pistons,rebound,,,,,,,,,,Bynum,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=355
-,,,,,,,,,,3,6.16,Detroit Pistons,shot,,,,,,,,,,Jerebko,,,,missed,,Hook Shot,,,48-62,7,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=356
+,,,,,,,,,,3,6.16,Detroit Pistons,shot,,,O'Quinn,,,,,,,Jerebko,,,,missed,,Hook Shot,,,48-62,7,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=356
 ,,,,,,,,,,3,6.13,Orlando Magic,rebound,,,,,,,,,,Nelson,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=357
-,,,,,,,,,,3,6.05,Orlando Magic,shot,,,,,,,,,,O'Quinn,,,,missed,,Dunk,,,48-62,1,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=358
+,,,,,,,,,,3,6.05,Orlando Magic,shot,,,Drummond,,,,,,,O'Quinn,,,,missed,,Dunk,,,48-62,1,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=358
 ,,,,,,,,,,3,6.02,Detroit Pistons,rebound,,,,,,,,,,Jerebko,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=359
 ,,,,,,,,,,3,5.58,Detroit Pistons,turnover,,,,,,,,,,Stuckey,,,Bad Pass,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=360
-,,,,,,,,,,3,5.33,Orlando Magic,shot,,,,,,,,,,Davis,,,,missed,,Jump Shot,,,48-62,10,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=361
+,,,,,,,,,,3,5.33,Orlando Magic,shot,,,Drummond,,,,,,,Davis,,,,missed,,Jump Shot,,,48-62,10,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=361
 ,,,,,,,,,,3,5.31,Detroit Pistons,rebound,,,,,,,,,,Jerebko,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=362
 ,,,,,,,,,,3,5.26,Detroit Pistons,shot,,,,,,,,,,Jerebko,,,,missed,,Layup,,,48-62,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=363
 ,,,,,,,,,,3,5.24,Detroit Pistons,rebound,,,,,,,,,,Maggette,,,,,,,,,48-62,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=364
@@ -338,11 +338,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.14,Detroit Pistons,timeout,,,,,,,,,,,,,,,,,,,52-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=420
 ,,,,,,,,,,3,1.00,Detroit Pistons,shot,,,,,,,,,,Villanueva,,,,missed,,Jump Shot,,,52-71,11,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=423
 ,,,,,,,,,,3,1.00,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,52-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=424
-,,,,,,,,,,3,0.53,Orlando Magic,turnover,,,,,,,,,,Moore,,,Lost Ball,,,,,,52-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=425
+,,,,,,,,,,3,0.53,Orlando Magic,turnover,,,,,,,,,,Moore,,,Lost Ball,,Bynum,,,,52-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=425
 ,,,,,,,,,,3,0.50,Detroit Pistons,shot,Monroe,,,,,,,,,Stuckey,2,,,made,,Layup,,,54-71,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=426
 ,,,,,,,,,,3,0.41,Orlando Magic,shot,,,,,,,,,,Redick,,,,missed,,3PT Jump Shot,,,54-71,24,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=427
 ,,,,,,,,,,3,0.40,Detroit Pistons,rebound,,,,,,,,,,Singler,,,,,,,,,54-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=428
-,,,,,,,,,,3,0.34,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Reverse Layup,,,54-71,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=429
+,,,,,,,,,,3,0.34,Detroit Pistons,shot,,,Ayon,,,,,,,Bynum,,,,missed,,Reverse Layup,,,54-71,2,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=429
 ,,,,,,,,,,3,0.34,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,54-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=430
 ,,,,,,,,,,3,0.34,Orlando Magic,foul,,,,,,,,,,Nicholson,,,,,,Shooting,,,54-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=431
 ,,,,,,,,,,3,0.34,Detroit Pistons,free throw,,,,,,,1,,2,Monroe,1,,foul,made,,,,,55-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=432
@@ -352,7 +352,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.07,Orlando Magic,rebound,,,,,,,,,,McRoberts,,,,,,,,,56-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=443
 ,,,,,,,,,,3,0.02,Orlando Magic,shot,,,,,,,,,,McRoberts,,,,missed,,Hook Shot,,,56-71,3,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=444
 ,,,,,,,,,,3,0.01,Detroit Pistons,rebound,,,,,,,,,,Monroe,,,,,,,,,56-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=445
-,,,,,,,,,,3,0.00,Detroit Pistons,shot,,,,,,,,,,Bynum,,,,missed,,Running Jump Shot,,,56-71,11,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=447
+,,,,,,,,,,3,0.00,Detroit Pistons,shot,,,Moore,,,,,,,Bynum,,,,missed,,Running Jump Shot,,,56-71,11,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=447
 ,,,,,,,,,,3,0.00,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,56-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=452
 ,,,,,,,,,,4,11.37,Detroit Pistons,shot,,,,,,,,,,Stuckey,,,,missed,,3PT Jump Shot,,,56-71,26,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=453
 ,,,,,,,,,,4,11.35,Orlando Magic,rebound,,,,,,,,,,McRoberts,,,,,,,,,56-71,,http://stats.nba.com/cvp.html?GameID=0021200158&GameEventID=454

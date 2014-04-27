@@ -1,10 +1,10 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
-,,,,,,,,,,1,11.43,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=2
+,,,,,,,,,,1,11.43,Los Angeles Lakers,shot,,,West,,,,,,,Howard,,,,missed,,Layup,,,,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=2
 ,,,,,,,,,,1,11.42,Indiana Pacers,rebound,,,,,,,,,,West,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=3
 ,,,,,,,,,,1,11.39,Indiana Pacers,shot,West,,,,,,,,,Hill,2,,,made,,Dunk,,,0-2,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=4
 ,,,,,,,,,,1,11.21,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,0-2,18,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=5
 ,,,,,,,,,,1,11.20,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=6
-,,,,,,,,,,1,11.12,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=7
+,,,,,,,,,,1,11.12,Indiana Pacers,shot,,,Howard,,,,,,,George,,,,missed,,Layup,,,0-2,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=7
 ,,,,,,,,,,1,11.11,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,0-2,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=8
 ,,,,,,,,,,1,11.09,Indiana Pacers,shot,George,,,,,,,,,Stephenson,3,,,made,,3PT Jump Shot,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=9
 ,,,,,,,,,,1,10.54,Los Angeles Lakers,shot,,,,,,,,,,Nash,,,,missed,,Jump Shot,,,0-5,17,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=10
@@ -30,14 +30,14 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,9.18,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Layup,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=30
 ,,,,,,,,,,1,9.17,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,0-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=31
 ,,,,,,,,,,1,9.05,Los Angeles Lakers,shot,Nash,,,,,,,,,Clark,2,,,made,,Jump Shot,,,2-5,19,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=32
-,,,,,,,,,,1,8.47,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=33
+,,,,,,,,,,1,8.47,Indiana Pacers,turnover,,,,,,,,,,Hill,,,Bad Pass,,Peace,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=33
 ,,,,,,,,,,1,8.45,Los Angeles Lakers,foul,,,,,,,,,,World,,,,,,Peace Offensive Charge,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=34
 ,,,,,,,,,,1,8.45,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Foul,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=35
 ,,,,,,,,,,1,8.33,Indiana Pacers,foul,,,,,,,,,,,,,,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=36
 ,,,,,,,,,,1,8.33,Indiana Pacers,turnover,,,,,,,,,,West,,,Foul,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=37
 ,,,,,,,,,,1,8.18,Los Angeles Lakers,shot,,,,,,,,,,Bryant,,,,missed,,Jump Shot,,,2-5,18,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=38
 ,,,,,,,,,,1,8.17,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=39
-,,,,,,,,,,1,8.12,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Layup,,,2-5,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=40
+,,,,,,,,,,1,8.12,Indiana Pacers,shot,,,Howard,,,,,,,Stephenson,,,,missed,,Layup,,,2-5,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=40
 ,,,,,,,,,,1,8.10,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=41
 ,,,,,,,,,,1,8.09,Indiana Pacers,shot,,,,,,,,,,Hibbert,,,,missed,,Tip Shot,,,2-5,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=42
 ,,,,,,,,,,1,8.08,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,2-5,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=43
@@ -87,7 +87,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,3.22,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Jump Shot,,,8-15,10,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=93
 ,,,,,,,,,,1,3.20,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,8-15,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=94
 ,,,,,,,,,,1,3.13,Indiana Pacers,shot,Stephenson,,,,,,,,,West,2,,,made,,Layup,,,8-17,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=95
-,,,,,,,,,,1,2.57,Los Angeles Lakers,turnover,,,,,,,,,,Jamison,,,Bad Pass,,,,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=96
+,,,,,,,,,,1,2.57,Los Angeles Lakers,turnover,,,,,,,,,,Jamison,,,Bad Pass,,George,,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=96
 ,,,,,,,,,,1,2.57,Los Angeles Lakers,foul,,,,,,,,,,Bryant,,,,,,Personal,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=97
 ,,,,,,,,,,1,2.57,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=98
 ,,,,,,,,,,1,2.57,Indiana Pacers,substitute,,,,Johnson,,Stephenson,,,,,,,,,,,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=100
@@ -97,7 +97,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,2.37,Indiana Pacers,rebound,,,,,,,,,,George,,,,,,,,,8-17,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=106
 ,,,,,,,,,,1,2.37,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Tip Shot,,,8-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=105
 ,,,,,,,,,,1,2.18,Los Angeles Lakers,shot,Bryant,,,,,,,,,World Peace,3,,,made,,3PT Jump Shot,,,11-19,27,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=107
-,,,,,,,,,,1,2.07,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,,,,,11-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=108
+,,,,,,,,,,1,2.07,Indiana Pacers,turnover,,,,,,,,,,West,,,Lost Ball,,Peace,,,,11-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=108
 ,,,,,,,,,,1,1.56,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,3PT Jump Shot,,,11-19,28,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=109
 ,,,,,,,,,,1,1.55,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,11-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=110
 ,,,,,,,,,,1,1.48,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,11-19,7,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=111
@@ -122,7 +122,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,0.00,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,14-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=130
 ,,,,,,,,,,1,0.00,Los Angeles Lakers,free throw,,,,,,,2,,3,Blake,1,,foul,made,,,,,15-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=131
 ,,,,,,,,,,1,0.00,Los Angeles Lakers,free throw,,,,,,,3,,3,Blake,1,,foul,made,,,,,16-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=132
-,,,,,,,,,,2,11.38,Indiana Pacers,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,16-19,13,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=136
+,,,,,,,,,,2,11.38,Indiana Pacers,shot,,,Blake,,,,,,,Johnson,,,,missed,,Jump Shot,,,16-19,13,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=136
 ,,,,,,,,,,2,11.36,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,16-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=137
 ,,,,,,,,,,2,11.34,Indiana Pacers,shot,,,,,,,,,,Johnson,,,,missed,,Jump Shot,,,16-19,13,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=138
 ,,,,,,,,,,2,11.32,Los Angeles Lakers,rebound,,,,,,,,,,Meeks,,,,,,,,,16-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=139
@@ -130,12 +130,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,11.16,Indiana Pacers,foul,,,,,,,,,,Mahinmi,,,,,,Shooting,,,16-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=141
 ,,,,,,,,,,2,11.16,Los Angeles Lakers,free throw,,,,,,,1,,2,Nash,1,,foul,made,,,,,17-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=142
 ,,,,,,,,,,2,11.16,Los Angeles Lakers,free throw,,,,,,,2,,2,Nash,1,,foul,made,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=144
-,,,,,,,,,,2,11.04,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=146
-,,,,,,,,,,2,10.59,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,Dunk,,,18-19,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=147
+,,,,,,,,,,2,11.04,Indiana Pacers,turnover,,,,,,,,,,George,,,Lost Ball,,Meeks,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=146
+,,,,,,,,,,2,10.59,Los Angeles Lakers,shot,,,Mahinmi,,,,,,,Meeks,,,,missed,,Dunk,,,18-19,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=147
 ,,,,,,,,,,2,10.57,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=148
 ,,,,,,,,,,2,10.49,Indiana Pacers,shot,,,,,,,,,,Johnson,,,,missed,,3PT Jump Shot,,,18-19,25,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=149
 ,,,,,,,,,,2,10.49,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=150
-,,,,,,,,,,2,10.45,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,Layup,,,18-19,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=151
+,,,,,,,,,,2,10.45,Los Angeles Lakers,shot,,,Augustin,,,,,,,Meeks,,,,missed,,Layup,,,18-19,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=151
 ,,,,,,,,,,2,10.45,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=152
 ,,,,,,,,,,2,10.40,Los Angeles Lakers,shot,,,,,,,,,,Nash,,,,missed,,Jump Shot,,,18-19,17,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=153
 ,,,,,,,,,,2,10.39,Indiana Pacers,rebound,,,,,,,,,,Johnson,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=154
@@ -143,7 +143,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,10.20,Los Angeles Lakers,rebound,,,,,,,,,,Blake,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=156
 ,,,,,,,,,,2,10.10,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,Jump Shot,,,18-19,19,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=157
 ,,,,,,,,,,2,10.09,Indiana Pacers,rebound,,,,,,,,,,Augustin,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=158
-,,,,,,,,,,2,10.07,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=159
+,,,,,,,,,,2,10.07,Indiana Pacers,turnover,,,,,,,,,,Augustin,,,Bad Pass,,Meeks,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=159
 ,,,,,,,,,,2,10.02,Indiana Pacers,foul,,,,,,,,,,Mahinmi,,,,,,Personal,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=160
 ,,,,,,,,,,2,10.02,Indiana Pacers,substitute,,,,Hibbert,,Mahinmi,,,,,,,,,,,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=161
 ,,,,,,,,,,2,9.51,Indiana Pacers,foul,,,,,,,,,,Hibbert,,,,,,Shooting,,,18-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=162
@@ -152,11 +152,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.51,Indiana Pacers,substitute,,,,Young,,Hibbert,,,,,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=166
 ,,,,,,,,,,2,9.51,Indiana Pacers,substitute,,,,Stephenson,,Johnson,,,,,,,,,,,,,19-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=167
 ,,,,,,,,,,2,9.51,Los Angeles Lakers,free throw,,,,,,,2,,2,Howard,1,,foul,made,,,,,20-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=168
-,,,,,,,,,,2,9.32,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Layup,,,20-19,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=170
+,,,,,,,,,,2,9.32,Indiana Pacers,shot,,,Howard,,,,,,,Hansbrough,,,,missed,,Layup,,,20-19,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=170
 ,,,,,,,,,,2,9.31,Los Angeles Lakers,rebound,,,,,,,,,,Jamison,,,,,,,,,20-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=171
 ,,,,,,,,,,2,9.24,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Jump Shot,,,20-19,28,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=172
 ,,,,,,,,,,2,9.23,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,20-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=173
-,,,,,,,,,,2,9.14,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Jump Shot,,,20-19,6,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=174
+,,,,,,,,,,2,9.14,Indiana Pacers,shot,,,Howard,,,,,,,Stephenson,,,,missed,,Jump Shot,,,20-19,6,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=174
 ,,,,,,,,,,2,9.12,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,20-19,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=175
 ,,,,,,,,,,2,9.10,Indiana Pacers,shot,,,,,,,,,,Hansbrough,2,,,made,,Layup,,,20-21,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=176
 ,,,,,,,,,,2,9.04,Indiana Pacers,foul,,,,,,,,,,Hansbrough,,,,,,Shooting,,,20-21,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=177
@@ -174,7 +174,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,8.32,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=192
 ,,,,,,,,,,2,8.32,Los Angeles Lakers,free throw,,,,,,,2,,2,Howard,,,foul,missed,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=193
 ,,,,,,,,,,2,8.32,Indiana Pacers,rebound,,,,,,,,,,Young,,,,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=194
-,,,,,,,,,,2,8.16,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Bad Pass,,,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=195
+,,,,,,,,,,2,8.16,Indiana Pacers,turnover,,,,,,,,,,Hansbrough,,,Bad Pass,,Blake,,,,21-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=195
 ,,,,,,,,,,2,8.04,Los Angeles Lakers,shot,Blake,,,,,,,,,Howard,2,,,made,,Layup,,,23-23,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=196
 ,,,,,,,,,,2,7.49,Indiana Pacers,shot,,,,,,,,,,Pendergraph,,,,missed,,Jump Shot,,,23-23,18,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=197
 ,,,,,,,,,,2,7.48,Los Angeles Lakers,rebound,,,,,,,,,,Nash,,,,,,,,,23-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=198
@@ -194,7 +194,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,6.14,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,28-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=213
 ,,,,,,,,,,2,5.59,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Jump Shot,,,28-23,6,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=214
 ,,,,,,,,,,2,5.58,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,28-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=215
-,,,,,,,,,,2,5.54,Indiana Pacers,shot,,,,,,,,,,Stephenson,,,,missed,,Layup,,,28-23,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=216
+,,,,,,,,,,2,5.54,Indiana Pacers,shot,,,Clark,,,,,,,Stephenson,,,,missed,,Layup,,,28-23,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=216
 ,,,,,,,,,,2,5.54,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,28-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=217
 ,,,,,,,,,,2,5.54,Los Angeles Lakers,foul,,,,,,,,,,Howard,,,,,,Personal,,,28-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=218
 ,,,,,,,,,,2,5.54,Los Angeles Lakers,substitute,,,,World Peace,,Howard,,,,,,,,,,,,,28-23,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=219
@@ -206,7 +206,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.07,Los Angeles Lakers,rebound,,,,,,,,,,Clark,,,,,,,,,31-25,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=225
 ,,,,,,,,,,2,4.52,Los Angeles Lakers,shot,,,,,,,,,,Nash,2,,,made,,Finger Roll Layup,,,33-25,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=227
 ,,,,,,,,,,2,4.25,Indiana Pacers,shot,,,,,,,,,,George,3,,,made,,3PT Step Back Jump Shot,,,33-28,26,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=229
-,,,,,,,,,,2,4.09,Los Angeles Lakers,shot,,,,,,,,,,Jamison,,,,missed,,Layup,,,33-28,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=230
+,,,,,,,,,,2,4.09,Los Angeles Lakers,shot,,,Pendergraph,,,,,,,Jamison,,,,missed,,Layup,,,33-28,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=230
 ,,,,,,,,,,2,4.09,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,33-28,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=231
 ,,,,,,,,,,2,4.01,Los Angeles Lakers,shot,World Peace,,,,,,,,,Jamison,3,,,made,,3PT Jump Shot,,,36-28,27,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=232
 ,,,,,,,,,,2,3.49,Indiana Pacers,shot,,,,,,,,,,West,,,,missed,,Layup,,,36-28,4,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=233
@@ -221,7 +221,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,2.37,Los Angeles Lakers,foul,,,,,,,,,,Clark,,,,,,Shooting,,,39-28,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=245
 ,,,,,,,,,,2,2.37,Indiana Pacers,free throw,,,,,,,1,,2,George,1,,foul,made,,,,,39-29,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=246
 ,,,,,,,,,,2,2.37,Indiana Pacers,free throw,,,,,,,2,,2,George,1,,foul,made,,,,,39-30,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=248
-,,,,,,,,,,2,2.19,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,,,,,39-30,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=251
+,,,,,,,,,,2,2.19,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Bad Pass,,Hill,,,,39-30,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=251
 ,,,,,,,,,,2,2.15,Indiana Pacers,shot,,,,,,,,,,Stephenson,2,,,made,,Dunk,,,39-32,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=252
 ,,,,,,,,,,2,1.50,Los Angeles Lakers,turnover,,,,,,,,,,Clark,,,Offensive Goaltending,,,,,,39-32,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=254
 ,,,,,,,,,,2,1.37,Indiana Pacers,shot,Stephenson,,,,,,,,,George,2,,,made,,Layup,,,39-34,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=256
@@ -257,12 +257,12 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,10.44,Los Angeles Lakers,rebound,,,,,,,,,,Meeks,,,,,,,,,48-43,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=299
 ,,,,,,,,,,3,10.33,Los Angeles Lakers,shot,,,,,,,,,,Nash,2,,,made,,Fadeaway Jumper,,,50-43,10,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=300
 ,,,,,,,,,,3,10.18,Indiana Pacers,shot,Stephenson,,,,,,,,,George,3,,,made,,3PT Jump Shot,,,50-46,27,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=301
-,,,,,,,,,,3,10.04,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Lost Ball,,,,,,50-46,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=302
+,,,,,,,,,,3,10.04,Los Angeles Lakers,turnover,,,,,,,,,,Nash,,,Lost Ball,,West,,,,50-46,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=302
 ,,,,,,,,,,3,9.52,Indiana Pacers,shot,George,,,,,,,,,Hill,3,,,made,,3PT Jump Shot,,,50-49,28,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=304
 ,,,,,,,,,,3,9.38,Indiana Pacers,violation,,,,,,,,,,Hill,,,Kicked Ball,,,,,,50-49,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=305
 ,,,,,,,,,,3,9.34,Los Angeles Lakers,shot,,,,,,,,,,Meeks,,,,missed,,3PT Jump Shot,,,50-49,27,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=306
 ,,,,,,,,,,3,9.33,Los Angeles Lakers,rebound,,,,,,,,,,World Peace,,,,,,,,,50-49,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=307
-,,,,,,,,,,3,9.32,Los Angeles Lakers,shot,,,,,,,,,,World Peace,,,,missed,,Layup,,,50-49,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=308
+,,,,,,,,,,3,9.32,Los Angeles Lakers,shot,,,George,,,,,,,World Peace,,,,missed,,Layup,,,50-49,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=308
 ,,,,,,,,,,3,9.32,Los Angeles Lakers,rebound,,,,,,,,,,,,,,,,,,,50-49,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=309
 ,,,,,,,,,,3,9.23,Los Angeles Lakers,shot,,,,,,,,,,Clark,,,,missed,,Jump Shot,,,50-49,21,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=310
 ,,,,,,,,,,3,9.22,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,50-49,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=311
@@ -282,8 +282,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,8.04,Indiana Pacers,shot,,,,,,,,,,Hill,2,,,made,,Jump Shot,,,50-53,6,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=325
 ,,,,,,,,,,3,8.04,Los Angeles Lakers,foul,,,,,,,,,,Nash,,,,,,Shooting Block,,,50-53,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=326
 ,,,,,,,,,,3,8.04,Indiana Pacers,free throw,,,,,,,1,,1,Hill,1,,foul,made,,,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=327
-,,,,,,,,,,3,7.49,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Bad Pass,,,,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=329
-,,,,,,,,,,3,7.45,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,,,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=330
+,,,,,,,,,,3,7.49,Los Angeles Lakers,turnover,,,,,,,,,,World Peace,,,Bad Pass,,Stephenson,,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=329
+,,,,,,,,,,3,7.45,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,Clark,,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=330
 ,,,,,,,,,,3,7.40,Los Angeles Lakers,turnover,,,,,,,,,,Meeks,,,Step Out of Bounds,,,,,,50-54,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=331
 ,,,,,,,,,,3,7.27,Indiana Pacers,shot,,,,,,,,,,George,2,,,made,,Driving Dunk,,,50-56,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=332
 ,,,,,,,,,,3,7.26,Los Angeles Lakers,timeout,,,,,,,,,,,,,,,,,,,50-56,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=333
@@ -295,7 +295,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.49,Los Angeles Lakers,free throw,,,,,,,2,,2,World Peace,1,,foul,made,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=341
 ,,,,,,,,,,3,6.38,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,Jump Shot,,,52-56,18,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=343
 ,,,,,,,,,,3,6.36,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=344
-,,,,,,,,,,3,6.25,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=345
+,,,,,,,,,,3,6.25,Los Angeles Lakers,turnover,,,,,,,,,,Howard,,,Lost Ball,,George,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=345
 ,,,,,,,,,,3,6.13,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,52-56,15,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=346
 ,,,,,,,,,,3,6.12,Indiana Pacers,rebound,,,,,,,,,,Hibbert,,,,,,,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=347
 ,,,,,,,,,,3,6.12,Los Angeles Lakers,foul,,,,,,,,,,Jamison,,,,,,Personal,,,52-56,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=348
@@ -312,7 +312,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,5.02,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,3PT Jump Shot,,,53-58,28,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=361
 ,,,,,,,,,,3,5.01,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,53-58,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=362
 ,,,,,,,,,,3,4.49,Los Angeles Lakers,shot,Nash,,,,,,,,,World Peace,2,,,made,,Jump Shot,,,55-58,10,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=363
-,,,,,,,,,,3,4.36,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,,,,,55-58,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=364
+,,,,,,,,,,3,4.36,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,Blake,,,,55-58,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=364
 ,,,,,,,,,,3,4.29,Los Angeles Lakers,shot,Blake,,,,,,,,,World Peace,2,,,made,,Layup,,,57-58,2,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=365
 ,,,,,,,,,,3,4.23,Indiana Pacers,timeout,,,,,,,,,,,,,,,,,,,57-58,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=366
 ,,,,,,,,,,3,4.04,Indiana Pacers,shot,Hill,,,,,,,,,Hibbert,3,,,made,,3PT Jump Shot,,,57-61,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=368
@@ -332,7 +332,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,2.53,Indiana Pacers,substitute,,,,Augustin,,Hill,,,,,,,,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=385
 ,,,,,,,,,,3,2.53,Los Angeles Lakers,free throw,,,,,,,2,,2,Howard,,,foul,missed,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=386
 ,,,,,,,,,,3,2.53,Indiana Pacers,rebound,,,,,,,,,,Stephenson,,,,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=388
-,,,,,,,,,,3,2.39,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=389
+,,,,,,,,,,3,2.39,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Bad Pass,,Blake,,,,60-63,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=389
 ,,,,,,,,,,3,2.34,Los Angeles Lakers,shot,Blake,,,,,,,,,World Peace,2,,,made,,Layup,,,62-63,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=390
 ,,,,,,,,,,3,2.10,Indiana Pacers,shot,,,,,,,,,,Young,,,,missed,,Jump Shot,,,62-63,11,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=391
 ,,,,,,,,,,3,2.09,Indiana Pacers,rebound,,,,,,,,,,Young,,,,,,,,,62-63,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=392
@@ -351,7 +351,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,0.00,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=407
 ,,,,,,,,,,4,11.42,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Jump Shot,,,68-69,6,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=411
 ,,,,,,,,,,4,11.41,Indiana Pacers,rebound,,,,,,,,,,Hansbrough,,,,,,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=412
-,,,,,,,,,,4,11.19,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,68-69,13,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=413
+,,,,,,,,,,4,11.19,Indiana Pacers,shot,,,Blake,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,68-69,13,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=413
 ,,,,,,,,,,4,11.17,Indiana Pacers,rebound,,,,,,,,,,Augustin,,,,,,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=414
 ,,,,,,,,,,4,11.15,Indiana Pacers,shot,,,,,,,,,,Augustin,,,,missed,,3PT Jump Shot,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=415
 ,,,,,,,,,,4,11.14,Indiana Pacers,rebound,,,,,,,,,,Mahinmi,,,,,,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=416
@@ -360,11 +360,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,11.12,Indiana Pacers,foul,,,,,,,,,,Hansbrough,,,,,,Personal,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=419
 ,,,,,,,,,,4,11.00,Los Angeles Lakers,shot,,,,,,,,,,Jamison,,,,missed,,3PT Jump Shot,,,68-69,25,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=420
 ,,,,,,,,,,4,10.59,Los Angeles Lakers,rebound,,,,,,,,,,Howard,,,,,,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=421
-,,,,,,,,,,4,10.57,Los Angeles Lakers,shot,,,,,,,,,,Howard,,,,missed,,Layup,,,68-69,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=422
+,,,,,,,,,,4,10.57,Los Angeles Lakers,shot,,,Hansbrough,,,,,,,Howard,,,,missed,,Layup,,,68-69,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=422
 ,,,,,,,,,,4,10.56,Indiana Pacers,rebound,,,,,,,,,,,,,,,,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=423
 ,,,,,,,,,,4,10.35,Indiana Pacers,shot,,,,,,,,,,Hansbrough,,,,missed,,Jump Shot,,,68-69,14,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=425
 ,,,,,,,,,,4,10.34,Los Angeles Lakers,rebound,,,,,,,,,,Clark,,,,,,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=426
-,,,,,,,,,,4,10.25,Los Angeles Lakers,turnover,,,,,,,,,,Blake,,,Lost Ball,,,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=427
+,,,,,,,,,,4,10.25,Los Angeles Lakers,turnover,,,,,,,,,,Blake,,,Lost Ball,,Mahinmi,,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=427
 ,,,,,,,,,,4,10.21,Los Angeles Lakers,foul,,,,,,,,,,Jamison,,,,,,Flagrant,,,68-69,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=428
 ,,,,,,,,,,4,10.21,Indiana Pacers,free throw,,,,,,,,,,Young,1,,foul,made,,,,,68-70,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=430
 ,,,,,,,,,,4,10.21,Indiana Pacers,free throw,,,,,,,,,,Young,,,foul,missed,,,,,68-70,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=432
@@ -429,7 +429,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,2.06,Indiana Pacers,shot,,,,,,,,,,Hill,,,,missed,,Jump Shot,,,87-87,8,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=496
 ,,,,,,,,,,4,2.03,Los Angeles Lakers,rebound,,,,,,,,,,Jamison,,,,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=497
 ,,,,,,,,,,4,1.53,Los Angeles Lakers,turnover,,,,,,,,,,World Peace Out of Bounds,,,Lost Ball,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=498
-,,,,,,,,,,4,1.40,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=499
+,,,,,,,,,,4,1.40,Indiana Pacers,turnover,,,,,,,,,,Stephenson,,,Lost Ball,,Blake,,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=499
 ,,,,,,,,,,4,1.40,Indiana Pacers,foul,,,,,,,,,,Stephenson,,,,,,Loose ball,,,87-87,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=500
 ,,,,,,,,,,4,1.30,Los Angeles Lakers,shot,Nash,,,,,,,,,Howard,2,,,made,,Layup,,,89-87,1,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=501
 ,,,,,,,,,,4,1.30,Indiana Pacers,foul,,,,,,,,,,Hibbert,,,,,,Shooting,,,89-87,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=502
@@ -458,5 +458,5 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,0.13,Indiana Pacers,foul,,,,,,,,,,Hill,,,,,,Personal Take,,,97-93,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=532
 ,,,,,,,,,,4,0.13,Los Angeles Lakers,free throw,,,,,,,1,,2,Nash,1,,foul,made,,,,,98-93,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=533
 ,,,,,,,,,,4,0.13,Los Angeles Lakers,free throw,,,,,,,2,,2,Nash,1,,foul,made,,,,,99-93,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=535
-,,,,,,,,,,4,0.08,Indiana Pacers,shot,,,,,,,,,,George,,,,missed,,3PT Jump Shot,,,99-93,29,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=537
+,,,,,,,,,,4,0.08,Indiana Pacers,shot,,,Peace,,,,,,,George,,,,missed,,3PT Jump Shot,,,99-93,29,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=537
 ,,,,,,,,,,4,0.06,Los Angeles Lakers,rebound,,,,,,,,,,Blake,,,,,,,,,99-93,,http://stats.nba.com/cvp.html?GameID=0021200971&GameEventID=538

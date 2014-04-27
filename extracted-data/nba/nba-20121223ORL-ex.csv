@@ -28,7 +28,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,1,7.04,Orlando Magic,shot,Nelson,,,,,,,,,Vucevic,2,,,made,,Turnaround Hook Shot,,,7-12,7,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=29
 ,,,,,,,,,,1,6.46,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,7-12,15,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=30
 ,,,,,,,,,,1,6.46,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,7-12,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=31
-,,,,,,,,,,1,6.43,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Layup,,,7-12,2,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=32
+,,,,,,,,,,1,6.43,Utah Jazz,shot,,,Harkless,,,,,,,Millsap,,,,missed,,Layup,,,7-12,2,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=32
 ,,,,,,,,,,1,6.40,Utah Jazz,rebound,,,,,,,,,,Tinsley,,,,,,,,,7-12,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=33
 ,,,,,,,,,,1,6.36,Utah Jazz,shot,,,,,,,,,,Tinsley,,,,missed,,Jump Shot,,,7-12,13,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=34
 ,,,,,,,,,,1,6.35,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,7-12,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=35
@@ -104,11 +104,11 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,9.03,Orlando Magic,rebound,,,,,,,,,,O'Quinn,,,,,,,,,23-36,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=118
 ,,,,,,,,,,2,8.50,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,Fadeaway Jumper,,,23-36,13,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=119
 ,,,,,,,,,,2,8.48,Utah Jazz,rebound,,,,,,,,,,Favors,,,,,,,,,23-36,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=120
-,,,,,,,,,,2,8.43,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,Layup,,,23-36,2,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=121
+,,,,,,,,,,2,8.43,Utah Jazz,shot,,,O'Quinn,,,,,,,Burks,,,,missed,,Layup,,,23-36,2,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=121
 ,,,,,,,,,,2,8.41,Orlando Magic,rebound,,,,,,,,,,Redick,,,,,,,,,23-36,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=122
 ,,,,,,,,,,2,8.35,Orlando Magic,shot,Nelson,,,,,,,,,Redick,3,,,made,,3PT Jump Shot,,,23-39,27,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=123
 ,,,,,,,,,,2,8.16,Utah Jazz,shot,Watson,,,,,,,,,Kanter,2,,,made,,Layup,,,25-39,3,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=124
-,,,,,,,,,,2,7.54,Orlando Magic,turnover,,,,,,,,,,Redick,,,Bad Pass,,,,,,25-39,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=125
+,,,,,,,,,,2,7.54,Orlando Magic,turnover,,,,,,,,,,Redick,,,Bad Pass,,Burks,,,,25-39,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=125
 ,,,,,,,,,,2,7.52,Orlando Magic,foul,,,,,,,,,,Nelson,,,,,,Shooting,,,25-39,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=126
 ,,,,,,,,,,2,7.52,Utah Jazz,free throw,,,,,,,1,,2,Hayward,1,,foul,made,,,,,26-39,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=131
 ,,,,,,,,,,2,7.52,Utah Jazz,free throw,,,,,,,2,,2,Hayward,1,,foul,made,,,,,27-39,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=133
@@ -136,8 +136,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,5.58,Orlando Magic,shot,,,,,,,,,,Ayon,,,,missed,,Jump Shot,,,31-42,6,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=159
 ,,,,,,,,,,2,5.56,Orlando Magic,rebound,,,,,,,,,,Harkless,,,,,,,,,31-42,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=161
 ,,,,,,,,,,2,5.56,Orlando Magic,shot,,,,,,,,,,Harkless,2,,,made,,Layup,,,31-44,1,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=160
-,,,,,,,,,,2,5.48,Utah Jazz,turnover,,,,,,,,,,Burks,,,Bad Pass,,,,,,31-44,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=162
-,,,,,,,,,,2,5.32,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Lost Ball,,,,,,31-44,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=163
+,,,,,,,,,,2,5.48,Utah Jazz,turnover,,,,,,,,,,Burks,,,Bad Pass,,Harkless,,,,31-44,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=162
+,,,,,,,,,,2,5.32,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Lost Ball,,Foye,,,,31-44,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=163
 ,,,,,,,,,,2,5.12,Utah Jazz,shot,Watson,,,,,,,,,Kanter,2,,,made,,Jump Shot,,,33-44,18,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=164
 ,,,,,,,,,,2,4.50,Orlando Magic,shot,,,,,,,,,,Moore,,,,missed,,3PT Jump Shot,,,33-44,25,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=165
 ,,,,,,,,,,2,4.50,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,33-44,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=166
@@ -179,7 +179,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,2,1.26,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Foul,,,,,,44-47,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=210
 ,,,,,,,,,,2,1.07,Utah Jazz,shot,,,,,,,,,,Burks,,,,missed,,Pullup Jump Shot,,,44-47,18,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=211
 ,,,,,,,,,,2,1.07,Orlando Magic,rebound,,,,,,,,,,Ayon,,,,,,,,,44-47,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=212
-,,,,,,,,,,2,0.55,Orlando Magic,turnover,,,,,,,,,,Ayon,,,Lost Ball,,,,,,44-47,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=213
+,,,,,,,,,,2,0.55,Orlando Magic,turnover,,,,,,,,,,Ayon,,,Lost Ball,,Foye,,,,44-47,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=213
 ,,,,,,,,,,2,0.42,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,3PT Jump Shot,,,44-47,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=214
 ,,,,,,,,,,2,0.41,Orlando Magic,rebound,,,,,,,,,,Ayon,,,,,,,,,44-47,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=215
 ,,,,,,,,,,2,0.31,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,3PT Jump Shot,,,44-47,24,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=216
@@ -231,7 +231,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,6.11,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,52-61,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=267
 ,,,,,,,,,,3,5.59,Utah Jazz,shot,Tinsley,,,,,,,,,Williams,3,,,made,,3PT Jump Shot,,,55-61,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=271
 ,,,,,,,,,,3,5.42,Orlando Magic,shot,Afflalo,,,,,,,,,Vucevic,2,,,made,,Alley Oop Layup,,,55-63,2,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=272
-,,,,,,,,,,3,5.30,Utah Jazz,shot,,,,,,,,,,Jefferson,,,,missed,,Jump Shot,,,55-63,3,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=273
+,,,,,,,,,,3,5.30,Utah Jazz,shot,,,Vucevic,,,,,,,Jefferson,,,,missed,,Jump Shot,,,55-63,3,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=273
 ,,,,,,,,,,3,5.29,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=274
 ,,,,,,,,,,3,5.29,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Traveling,,,,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=275
 ,,,,,,,,,,3,5.11,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Personal,,,55-63,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=276
@@ -239,8 +239,8 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,4.48,Utah Jazz,shot,,,,,,,,,,Millsap,2,,,made,,Jump Shot,,,57-63,4,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=279
 ,,,,,,,,,,3,4.29,Orlando Magic,shot,,,,,,,,,,Afflalo,2,,,made,,Fadeaway Jumper,,,57-65,7,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=280
 ,,,,,,,,,,3,4.07,Utah Jazz,shot,,,,,,,,,,Jefferson,2,,,made,,Layup,,,59-65,2,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=281
-,,,,,,,,,,3,4.04,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Bad Pass,,,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=282
-,,,,,,,,,,3,3.53,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=283
+,,,,,,,,,,3,4.04,Orlando Magic,turnover,,,,,,,,,,Vucevic,,,Bad Pass,,Tinsley,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=282
+,,,,,,,,,,3,3.53,Utah Jazz,turnover,,,,,,,,,,Tinsley,,,Bad Pass,,Harkless,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=283
 ,,,,,,,,,,3,3.52,Utah Jazz,foul,,,,,,,,,,Foye,,,,,,Shooting,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=284
 ,,,,,,,,,,3,3.52,Orlando Magic,free throw,,,,,,,1,,2,Harkless,,,foul,missed,,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=285
 ,,,,,,,,,,3,3.52,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,59-65,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=286
@@ -324,10 +324,10 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,8.21,Orlando Magic,rebound,,,,,,,,,,Nelson,,,,,,,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=392
 ,,,,,,,,,,4,8.11,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,3PT Jump Shot,,,82-77,24,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=394
 ,,,,,,,,,,4,8.10,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=395
-,,,,,,,,,,4,7.54,Orlando Magic,turnover,,,,,,,,,,Redick,,,Bad Pass,,,,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=397
+,,,,,,,,,,4,7.54,Orlando Magic,turnover,,,,,,,,,,Redick,,,Bad Pass,,Hayward,,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=397
 ,,,,,,,,,,4,7.50,Utah Jazz,shot,,,,,,,,,,Hayward,,,,missed,,Layup,,,82-77,1,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=398
 ,,,,,,,,,,4,7.48,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=399
-,,,,,,,,,,4,7.44,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Lost Ball,,,,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=400
+,,,,,,,,,,4,7.44,Utah Jazz,turnover,,,,,,,,,,Kanter,,,Lost Ball,,Redick,,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=400
 ,,,,,,,,,,4,7.36,Utah Jazz,foul,,,,,,,,,,Favors,,,,,,Personal,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=401
 ,,,,,,,,,,4,7.34,Utah Jazz,foul,,,,,,,,,,Burks,,,,,,Personal,,,82-77,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=402
 ,,,,,,,,,,4,7.34,Orlando Magic,free throw,,,,,,,1,,2,Redick,1,,foul,made,,,,,82-78,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=404
@@ -339,7 +339,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,7.13,Utah Jazz,rebound,,,,,,,,,,Kanter,,,,,,,,,82-79,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=413
 ,,,,,,,,,,4,7.11,Utah Jazz,shot,,,,,,,,,,Kanter,,,,missed,,Layup,,,82-79,1,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=414
 ,,,,,,,,,,4,7.09,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,82-79,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=415
-,,,,,,,,,,4,6.55,Orlando Magic,shot,,,,,,,,,,Nelson,,,,missed,,Layup,,,82-79,3,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=416
+,,,,,,,,,,4,6.55,Orlando Magic,shot,,,Favors,,,,,,,Nelson,,,,missed,,Layup,,,82-79,3,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=416
 ,,,,,,,,,,4,6.55,Orlando Magic,rebound,,,,,,,,,,,,,,,,,,,82-79,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=417
 ,,,,,,,,,,4,6.55,Utah Jazz,substitute,,,,Jefferson,,Kanter,,,,,,,,,,,,,82-79,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=418
 ,,,,,,,,,,4,6.52,Orlando Magic,shot,,,,,,,,,,Redick,,,,missed,,Jump Shot,,,82-79,17,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=419
@@ -383,7 +383,7 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,3.02,Orlando Magic,shot,,,,,,,,,,Redick,,,,missed,,3PT Jump Shot,,,85-87,27,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=464
 ,,,,,,,,,,4,3.01,Utah Jazz,rebound,,,,,,,,,,Millsap,,,,,,,,,85-87,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=465
 ,,,,,,,,,,4,2.44,Utah Jazz,shot,Jefferson,,,,,,,,,Tinsley,3,,,made,,3PT Jump Shot,,,88-87,25,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=466
-,,,,,,,,,,4,2.25,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Lost Ball,,,,,,88-87,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=467
+,,,,,,,,,,4,2.25,Orlando Magic,turnover,,,,,,,,,,Afflalo,,,Lost Ball,,Tinsley,,,,88-87,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=467
 ,,,,,,,,,,4,2.19,Utah Jazz,shot,Tinsley,,,,,,,,,Foye,3,,,made,,3PT Jump Shot,,,91-87,26,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=468
 ,,,,,,,,,,4,2.19,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,91-87,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=469
 ,,,,,,,,,,4,2.03,Orlando Magic,shot,Redick,,,,,,,,,Nelson,3,,,made,,3PT Jump Shot,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=473
@@ -392,16 +392,16 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,4,1.49,Utah Jazz,rebound,,,,,,,,,,,,,,,,,,,91-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=477
 ,,,,,,,,,,4,1.49,Utah Jazz,free throw,,,,,,,2,,2,Millsap,1,,foul,made,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=478
 ,,,,,,,,,,4,1.36,Orlando Magic,turnover,,,,,,,,,,Redick Poss,,,Lost Ball,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=480
-,,,,,,,,,,4,1.17,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=482
+,,,,,,,,,,4,1.17,Utah Jazz,turnover,,,,,,,,,,Jefferson,,,Bad Pass,,Nelson,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=482
 ,,,,,,,,,,4,1.17,Orlando Magic,jumpball,,Millsap,,,Nelson,,,,,,,,,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=481
-,,,,,,,,,,4,1.09,Orlando Magic,shot,,,,,,,,,,Ayon,,,,missed,,Jump Shot,,,92-90,4,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=483
+,,,,,,,,,,4,1.09,Orlando Magic,shot,,,Foye,,,,,,,Ayon,,,,missed,,Jump Shot,,,92-90,4,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=483
 ,,,,,,,,,,4,1.07,Orlando Magic,rebound,,,,,,,,,,Afflalo,,,,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=484
 ,,,,,,,,,,4,1.05,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Jump Shot,,,92-90,3,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=485
 ,,,,,,,,,,4,1.03,Utah Jazz,rebound,,,,,,,,,,Tinsley,,,,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=486
 ,,,,,,,,,,4,0.44,Utah Jazz,shot,,,,,,,,,,Millsap,,,,missed,,Jump Shot,,,92-90,14,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=487
 ,,,,,,,,,,4,0.43,Orlando Magic,rebound,,,,,,,,,,Vucevic,,,,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=488
 ,,,,,,,,,,4,0.29,Orlando Magic,timeout,,,,,,,,,,,,,,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=489
-,,,,,,,,,,4,0.22,Orlando Magic,shot,,,,,,,,,,Afflalo,,,,missed,,Jump Shot,,,92-90,12,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=493
+,,,,,,,,,,4,0.22,Orlando Magic,shot,,,Hayward,,,,,,,Afflalo,,,,missed,,Jump Shot,,,92-90,12,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=493
 ,,,,,,,,,,4,0.22,Utah Jazz,rebound,,,,,,,,,,Jefferson,,,,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=494
 ,,,,,,,,,,4,0.22,Utah Jazz,timeout,,,,,,,,,,,,,,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=495
 ,,,,,,,,,,4,0.22,Orlando Magic,substitute,,,,Jones,,Ayon,,,,,,,,,,,,,92-90,,http://stats.nba.com/cvp.html?GameID=0021200401&GameEventID=497
