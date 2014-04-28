@@ -41,7 +41,7 @@ function parseScore(raw_score, metrics, previous_score) {
 function parseShotDetail(raw_txt, metrics) {
     try {
         if (raw_txt.search(/Free Throw/) != -1) {
-            var array = raw_txt.match(/^(.*) Free Throw (Technical)?(?:(\d) of (\d))?/)
+            var array = raw_txt.match(/^(.*) Free Throw (Technical|Flagrant )?(?:(\d) of (\d))?/)
             metrics.eventtype = 'free throw';
             metrics.player = array[1];
             metrics.reason = array[2] || 'foul';
@@ -277,7 +277,7 @@ function readdir(err, files) {
         }
         //var extracted_data = "a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url \n";
         var extracted_data = [];
-        for (var j = 1; j < lines.length; j++) {
+        for (var j = 0; j < lines.length; j++) {
             if (lines[j] == "") {
                 console.log("\nSkipped line " + currentRow + "\n\n");
                 continue;
@@ -304,7 +304,8 @@ function readdir(err, files) {
                 reason: '',
                 result: '',
                 steal: '',
-                shotdistance: ''
+                shotdistance: '',
+                type: ''
             };
 
             // if (columns[4].search(/BLOCK/) != -1 || columns[4].search(/STEAL/) != -1) {

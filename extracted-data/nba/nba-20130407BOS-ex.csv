@@ -1,4 +1,5 @@
 a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, awayjumpball, block, entered, homejumpball, left, numfreeshot, opponent, outof, player, points, possession, reason, result, steal, type, x, y, score, shotdistance, url 
+,,,,,,,,,,1,12.00,Boston Celtics,jumpball,,Okafor,,,Garnett,,,,,,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=1
 ,,,,,,,,,,1,11.46,Boston Celtics,shot,,,,,,,,,,Bradley,,,,missed,,3PT Jump Shot,,,,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=2
 ,,,,,,,,,,1,11.45,Washington Wizards,rebound,,,,,,,,,,Nene,,,,,,,,,,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=3
 ,,,,,,,,,,1,11.24,Washington Wizards,shot,,,,,,,,,,Webster,,,,missed,,3PT Jump Shot,,,,26,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=4
@@ -293,9 +294,9 @@ a1, a2, a3, a4, a5, h1, h2, h3, h4, h5, quarter, time, team, eventtype, assist, 
 ,,,,,,,,,,3,1.19,Washington Wizards,shot,,,,,,,,,,Wall,,,,missed,,3PT Jump Shot,,,67-82,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=350
 ,,,,,,,,,,3,1.18,Boston Celtics,rebound,,,,,,,,,,Terry,,,,,,,,,67-82,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=351
 ,,,,,,,,,,3,1.14,Washington Wizards,foul,,,,,,,,,,Wall,,,,,,Flagrant,,,67-82,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=352
-,,,,,,,,,,3,1.14,Boston Celtics,free throw,,,,,,,,,,Randolph,,,foul,missed,,,,,67-82,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=354
+,,,,,,,,,,3,1.14,Boston Celtics,free throw,,,,,,,1,,2,Randolph,,,Flagrant ,missed,,,,,67-82,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=354
 ,,,,,,,,,,3,1.14,Boston Celtics,rebound,,,,,,,,,,,,,,,,,,,67-82,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=355
-,,,,,,,,,,3,1.14,Boston Celtics,free throw,,,,,,,,,,Randolph,1,,foul,made,,,,,67-83,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=356
+,,,,,,,,,,3,1.14,Boston Celtics,free throw,,,,,,,2,,2,Randolph,1,,Flagrant ,made,,,,,67-83,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=356
 ,,,,,,,,,,3,1.04,Boston Celtics,turnover,,,,,,,,,,Terry,,,Bad Pass,,Wall,,,,67-83,,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=358
 ,,,,,,,,,,3,1.00,Washington Wizards,shot,,,,,,,,,,Wall,2,,,made,,Slam Dunk,,,69-83,1,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=359
 ,,,,,,,,,,3,0.50,Boston Celtics,shot,,,,,,,,,,Pierce,,,,missed,,Pullup Bank Shot,,,69-83,7,http://stats.nba.com/cvp.html?GameID=0021201147&GameEventID=360
