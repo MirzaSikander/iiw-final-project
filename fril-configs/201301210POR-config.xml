@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <left-data-source class="cdc.impl.datasource.text.CSVDataSource" name="br">
+        <params>
+            <param name="column-separator" value=","/>
+            <param name="source-name" value="br"/>
+            <param name="input-file" value="/Users/mirzasikander/Documents/courses/CS548-IIW/Project/code/extracted-data/br/201301210POR.csv"/>
+        </params>
+        <row-model>
+            <column column=" quarter" converter="cdc.datamodel.converters.DummyConverter" name=" quarter">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" time" converter="cdc.datamodel.converters.SplitConverter" name="min,sec">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="min,sec"/>
+                    <param name="split" value=":"/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" team" converter="cdc.datamodel.converters.DummyConverter" name=" team">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" eventtype" converter="cdc.datamodel.converters.DummyConverter" name=" eventtype">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" assist" converter="cdc.datamodel.converters.SplitConverter" name="assist_0,assist_1">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="assist_0,assist_1"/>
+                    <param name="split" value=" "/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" awayjumpball" converter="cdc.datamodel.converters.SplitConverter" name="awayjumpball_0,awayjumpball_1">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="awayjumpball_0,awayjumpball_1"/>
+                    <param name="split" value=" "/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" block" converter="cdc.datamodel.converters.SplitConverter" name="block_0,block_1">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="block_0,block_1"/>
+                    <param name="split" value=" "/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" entered" converter="cdc.datamodel.converters.SplitConverter" name="entered_0,entered_1">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="entered_0,entered_1"/>
+                    <param name="split" value=" "/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" homejumpball" converter="cdc.datamodel.converters.SplitConverter" name="homejumpball_0,homejumpball_1">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="homejumpball_0,homejumpball_1"/>
+                    <param name="split" value=" "/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" left" converter="cdc.datamodel.converters.SplitConverter" name="left_0,left_1">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="left_0,left_1"/>
+                    <param name="split" value=" "/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" numfreeshot" converter="cdc.datamodel.converters.DummyConverter" name=" numfreeshot">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" opponent" converter="cdc.datamodel.converters.SplitConverter" name="opponent_0,opponent_1">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="opponent_0,opponent_1"/>
+                    <param name="split" value=" "/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" outof" converter="cdc.datamodel.converters.DummyConverter" name=" outof">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" player" converter="cdc.datamodel.converters.SplitConverter" name="player_0,player_1">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="player_0,player_1"/>
+                    <param name="split" value=" "/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" points" converter="cdc.datamodel.converters.DummyConverter" name=" points">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" reason" converter="cdc.datamodel.converters.DummyConverter" name=" reason">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" result" converter="cdc.datamodel.converters.DummyConverter" name=" result">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" type" converter="cdc.datamodel.converters.DummyConverter" name=" type">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" score" converter="cdc.datamodel.converters.DummyConverter" name=" score">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" shotdistance" converter="cdc.datamodel.converters.DummyConverter" name=" shotdistance">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" x" converter="cdc.datamodel.converters.DummyConverter" name=" x">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" y" converter="cdc.datamodel.converters.DummyConverter" name=" y">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" steal" converter="cdc.datamodel.converters.SplitConverter" name="split_0,split_1">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="split_0,split_1"/>
+                    <param name="split" value=" "/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+        </row-model>
+    </left-data-source>
+    <right-data-source class="cdc.impl.datasource.text.CSVDataSource" name="NBA">
+        <params>
+            <param name="column-separator" value=","/>
+            <param name="source-name" value="NBA"/>
+            <param name="input-file" value="/Users/mirzasikander/Documents/courses/CS548-IIW/Project/code/extracted-data/nba/nba-20130121POR-ex.csv"/>
+        </params>
+        <row-model>
+            <column column=" quarter" converter="cdc.datamodel.converters.DummyConverter" name=" quarter">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" time" converter="cdc.datamodel.converters.SplitConverter" name="min,sec">
+                <empty-values/>
+                <params>
+                    <param name="col-name" value="min,sec"/>
+                    <param name="split" value="\."/>
+                    <param name="script" value="//This script has the following input parameters:&#10;//   column - string value of the column that is being split&#10;//   splitStr - string used for splitting&#10;//   outSize - expected number of strings in output array&#10;//This script is expected to return array of strings of length outSize&#10;&#10;//Split input&#10;String[] strArray = column.split(splitStr);&#10;&#10;//Create output array&#10;String[] out = new String[outSize];&#10;&#10;//Fill in the out array&#10;for (int i = 0; i &lt; outSize; i++) {&#10;   if (strArray.length &gt; i) {&#10;       out[i] = strArray[i];&#10;   } else {&#10;       out[i] = &quot;&quot;;&#10;   }&#10;}&#10;&#10;//Append reminder items&#10;if (outSize &lt; strArray.length) { &#10;   for (int i = outSize; i &lt; strArray.length; i++) {&#10;       out[outSize - 1] = out[outSize - 1] + splitStr + strArray[i];&#10;   }&#10;}&#10;&#10;return out;&#10;"/>
+                </params>
+            </column>
+            <column column=" team" converter="cdc.datamodel.converters.DummyConverter" name=" team">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" eventtype" converter="cdc.datamodel.converters.DummyConverter" name=" eventtype">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" assist" converter="cdc.datamodel.converters.DummyConverter" name=" assist">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" awayjumpball" converter="cdc.datamodel.converters.DummyConverter" name=" awayjumpball">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" block" converter="cdc.datamodel.converters.DummyConverter" name=" block">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" entered" converter="cdc.datamodel.converters.DummyConverter" name=" entered">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" homejumpball" converter="cdc.datamodel.converters.DummyConverter" name=" homejumpball">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" left" converter="cdc.datamodel.converters.DummyConverter" name=" left">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" numfreeshot" converter="cdc.datamodel.converters.DummyConverter" name=" numfreeshot">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" opponent" converter="cdc.datamodel.converters.DummyConverter" name=" opponent">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" outof" converter="cdc.datamodel.converters.DummyConverter" name=" outof">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" player" converter="cdc.datamodel.converters.DummyConverter" name=" player">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" points" converter="cdc.datamodel.converters.DummyConverter" name=" points">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" possession" converter="cdc.datamodel.converters.DummyConverter" name=" possession">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" reason" converter="cdc.datamodel.converters.DummyConverter" name=" reason">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" result" converter="cdc.datamodel.converters.DummyConverter" name=" result">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" steal" converter="cdc.datamodel.converters.DummyConverter" name=" steal">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" type" converter="cdc.datamodel.converters.DummyConverter" name=" type">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" score" converter="cdc.datamodel.converters.DummyConverter" name=" score">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" shotdistance" converter="cdc.datamodel.converters.DummyConverter" name=" shotdistance">
+                <empty-values/>
+                <params/>
+            </column>
+            <column column=" url " converter="cdc.datamodel.converters.DummyConverter" name=" url ">
+                <empty-values/>
+                <params/>
+            </column>
+        </row-model>
+    </right-data-source>
+    <join class="cdc.impl.join.blocking.BlockingJoin" summary-left="true" summary-right="true">
+        <params>
+            <param name="blocking-function" value="equality"/>
+            <param name="blocking-param" value="0"/>
+        </params>
+        <join-condition class="cdc.impl.conditions.WeightedJoinCondition">
+            <params>
+                <param name="acceptance-level" value="60"/>
+            </params>
+            <condition class="cdc.impl.distance.EqualFieldsDistance" left-column=" quarter" right-column=" quarter" weight="2">
+                <params/>
+            </condition>
+            <condition class="cdc.impl.distance.EqualFieldsDistance" left-column="min" right-column="min" weight="10">
+                <params/>
+            </condition>
+            <condition class="cdc.impl.distance.NumericDistance" left-column="sec" right-column="sec" weight="40">
+                <params>
+                    <param name="use-lineral-approximation" value="true"/>
+                    <param name="numeric-difference" value="10.0,10.0"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.EqualFieldsDistance" left-column=" team" right-column=" team" weight="9">
+                <params/>
+            </condition>
+            <condition class="cdc.impl.distance.EqualFieldsDistance" left-column=" eventtype" right-column=" eventtype" weight="9">
+                <params/>
+            </condition>
+            <condition class="cdc.impl.distance.EqualFieldsDistance" left-column=" numfreeshot" right-column=" numfreeshot" weight="2">
+                <params/>
+            </condition>
+            <condition class="cdc.impl.distance.EqualFieldsDistance" left-column=" outof" right-column=" outof" weight="2">
+                <params/>
+            </condition>
+            <condition class="cdc.impl.distance.EqualFieldsDistance" left-column=" points" right-column=" points" weight="2">
+                <params/>
+            </condition>
+            <condition class="cdc.impl.distance.QGramDistance" left-column=" reason" right-column=" reason" weight="2">
+                <params>
+                    <param name="disapprove-level" value="0.4"/>
+                    <param name="q" value="3"/>
+                    <param name="approve-level" value="0.2"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.EqualFieldsDistance" left-column=" result" right-column=" result" weight="2">
+                <params/>
+            </condition>
+            <condition class="cdc.impl.distance.NumericDistance" left-column=" shotdistance" right-column=" shotdistance" weight="2">
+                <params>
+                    <param name="use-lineral-approximation" value="true"/>
+                    <param name="numeric-difference" value="1.0,1.0"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.QGramDistance" left-column=" type" right-column=" type" weight="2">
+                <params>
+                    <param name="disapprove-level" value="0.4"/>
+                    <param name="q" value="3"/>
+                    <param name="approve-level" value="0.2"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler" left-column="assist_1" right-column=" assist" weight="2">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler" left-column="awayjumpball_1" right-column=" awayjumpball" weight="2">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler" left-column="block_1" right-column=" block" weight="2">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler" left-column="entered_1" right-column=" entered" weight="2">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler" left-column="homejumpball_1" right-column=" homejumpball" weight="2">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler" left-column="left_1" right-column=" left" weight="2">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler" left-column="player_1" right-column=" player" weight="2">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+            <condition class="cdc.impl.distance.JaroWinkler" left-column="split_1" right-column=" steal" weight="2">
+                <params>
+                    <param name="pref-weight" value="0.1"/>
+                    <param name="pref-length" value="4"/>
+                </params>
+            </condition>
+        </join-condition>
+        <row-model>
+            <column name=" quarter" source="br"/>
+            <column name="min" source="br"/>
+            <column name="sec" source="br"/>
+            <column name=" eventtype" source="br"/>
+            <column name=" team" source="br"/>
+            <column name=" outof" source="br"/>
+            <column name=" numfreeshot" source="br"/>
+            <column name=" points" source="br"/>
+            <column name=" reason" source="br"/>
+            <column name=" result" source="br"/>
+            <column name=" type" source="br"/>
+            <column name=" score" source="br"/>
+            <column name=" shotdistance" source="br"/>
+            <column name=" x" source="br"/>
+            <column name=" y" source="br"/>
+            <column name="assist_0" source="br"/>
+            <column name="assist_1" source="br"/>
+            <column name="awayjumpball_0" source="br"/>
+            <column name="awayjumpball_1" source="br"/>
+            <column name="block_0" source="br"/>
+            <column name="block_1" source="br"/>
+            <column name="entered_0" source="br"/>
+            <column name="entered_1" source="br"/>
+            <column name="homejumpball_0" source="br"/>
+            <column name="homejumpball_1" source="br"/>
+            <column name="left_0" source="br"/>
+            <column name="left_1" source="br"/>
+            <column name="opponent_0" source="br"/>
+            <column name="opponent_1" source="br"/>
+            <column name="player_0" source="br"/>
+            <column name="player_1" source="br"/>
+            <column name="split_0" source="br"/>
+            <column name="split_1" source="br"/>
+            <column name=" quarter" source="NBA"/>
+            <column name="min" source="NBA"/>
+            <column name="sec" source="NBA"/>
+            <column name=" eventtype" source="NBA"/>
+            <column name=" team" source="NBA"/>
+            <column name=" outof" source="NBA"/>
+            <column name=" numfreeshot" source="NBA"/>
+            <column name=" points" source="NBA"/>
+            <column name=" reason" source="NBA"/>
+            <column name=" result" source="NBA"/>
+            <column name=" type" source="NBA"/>
+            <column name=" score" source="NBA"/>
+            <column name=" shotdistance" source="NBA"/>
+            <column name=" url " source="NBA"/>
+            <column name=" assist" source="NBA"/>
+            <column name=" awayjumpball" source="NBA"/>
+            <column name=" block" source="NBA"/>
+            <column name=" entered" source="NBA"/>
+            <column name=" homejumpball" source="NBA"/>
+            <column name=" left" source="NBA"/>
+            <column name=" opponent" source="NBA"/>
+            <column name=" player" source="NBA"/>
+            <column name=" steal" source="NBA"/>
+        </row-model>
+    </join>
+    <results-savers>
+        <results-saver class="cdc.impl.resultsavers.DeduplicatingResultsSaver">
+            <params>
+                <param name="deduplication" value="both"/>
+                <param name="delete-duplicates" value="true"/>
+            </params>
+            <savers>
+                <results-saver class="cdc.impl.resultsavers.CSVFileSaver">
+                    <params>
+                        <param name="output-file" value="/Users/mirzasikander/Documents/courses/CS548-IIW/Project/code/linked-data/201301210POR/linked-201301210POR.csv"/>
+                    </params>
+                </results-saver>
+            </savers>
+        </results-saver>
+    </results-savers>
+</configuration>

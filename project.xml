@@ -427,8 +427,18 @@
             <column name=" quarter" source="br"/>
             <column name="min" source="br"/>
             <column name="sec" source="br"/>
-            <column name=" team" source="br"/>
             <column name=" eventtype" source="br"/>
+            <column name=" team" source="br"/>
+            <column name=" outof" source="br"/>
+            <column name=" numfreeshot" source="br"/>
+            <column name=" points" source="br"/>
+            <column name=" reason" source="br"/>
+            <column name=" result" source="br"/>
+            <column name=" type" source="br"/>
+            <column name=" score" source="br"/>
+            <column name=" shotdistance" source="br"/>
+            <column name=" x" source="br"/>
+            <column name=" y" source="br"/>
             <column name="assist_0" source="br"/>
             <column name="assist_1" source="br"/>
             <column name="awayjumpball_0" source="br"/>
@@ -441,46 +451,35 @@
             <column name="homejumpball_1" source="br"/>
             <column name="left_0" source="br"/>
             <column name="left_1" source="br"/>
-            <column name=" numfreeshot" source="br"/>
             <column name="opponent_0" source="br"/>
             <column name="opponent_1" source="br"/>
-            <column name=" outof" source="br"/>
             <column name="player_0" source="br"/>
             <column name="player_1" source="br"/>
-            <column name=" points" source="br"/>
-            <column name=" reason" source="br"/>
-            <column name=" result" source="br"/>
-            <column name=" type" source="br"/>
-            <column name=" score" source="br"/>
-            <column name=" shotdistance" source="br"/>
-            <column name=" x" source="br"/>
-            <column name=" y" source="br"/>
             <column name="split_0" source="br"/>
             <column name="split_1" source="br"/>
             <column name=" quarter" source="NBA"/>
             <column name="min" source="NBA"/>
             <column name="sec" source="NBA"/>
-            <column name=" team" source="NBA"/>
             <column name=" eventtype" source="NBA"/>
+            <column name=" team" source="NBA"/>
+            <column name=" outof" source="NBA"/>
+            <column name=" numfreeshot" source="NBA"/>
+            <column name=" points" source="NBA"/>
+            <column name=" reason" source="NBA"/>
+            <column name=" result" source="NBA"/>
+            <column name=" type" source="NBA"/>
+            <column name=" score" source="NBA"/>
+            <column name=" shotdistance" source="NBA"/>
+            <column name=" url " source="NBA"/>
             <column name=" assist" source="NBA"/>
             <column name=" awayjumpball" source="NBA"/>
             <column name=" block" source="NBA"/>
             <column name=" entered" source="NBA"/>
             <column name=" homejumpball" source="NBA"/>
             <column name=" left" source="NBA"/>
-            <column name=" numfreeshot" source="NBA"/>
             <column name=" opponent" source="NBA"/>
-            <column name=" outof" source="NBA"/>
             <column name=" player" source="NBA"/>
-            <column name=" points" source="NBA"/>
-            <column name=" possession" source="NBA"/>
-            <column name=" reason" source="NBA"/>
-            <column name=" result" source="NBA"/>
             <column name=" steal" source="NBA"/>
-            <column name=" type" source="NBA"/>
-            <column name=" score" source="NBA"/>
-            <column name=" shotdistance" source="NBA"/>
-            <column name=" url " source="NBA"/>
         </row-model>
     </join>
     <results-savers>
